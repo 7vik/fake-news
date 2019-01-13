@@ -1,0 +1,209 @@
+* Ideation
+** IBM APIs [0/5]
+Trials are available for the following apis. These are the most
+relevant ones.
+
+- [ ] Watson Analytics :: "Also IBM Cognos Analytics?"
+  - Rate Limited to 100 requests per hour.
+  - We can directly send sorted/cleaned news articles for direct
+    classification.
+  - We can use its predictions by directly assigning some weight in
+    the final probability
+  - Example request
+    {
+    "Title of website": "Onion",
+    "title of the article ": "Sample Title",
+    "URI": "https://onion.example.com",
+    ...
+    }
+  -
+- [ ] Streaming Analytics :: "2 versions available (v1, v2)"
+  - Used to store and analyse continuous data streams.
+  - Will come in handy if we plan to analyse large source of data. Eg
+    live twitter feed, on which we are performing our analysis.
+  - https://cloud.ibm.com/apidocs/streaming-analytics-v2
+
+- [ ] Visual Recognition Dedicated ::
+  - Can be used in conjunction with streaming analytics to classify
+    incoming data.
+  - We can feed image data to train the classifier (Eg fake,
+    real).
+  - Like watson analytics, we can use weighted probability, directly
+    in our final output
+  - Data can be directly uploaded in groups of 256 MBs as .zip files
+    along with image names.
+  - Can also used for general object detection.
+
+- [ ] Discovery ::
+  - An analytics engine for documents.
+  - Can predict trends and insights in text documents
+  - Will autogenerate keywords pertaining to the documents and do
+    sentiment analysis on them.
+  - Also allows fuzzy searching of the documents uploaded.
+  - https://console.bluemix.net/apidocs/discovery
+
+- [ ] Tone Analyser ::
+  - Can detected emotions/sentiments in written text.
+  - Can be used in generation of data as an addtional parameter to
+    classify news.
+  - We can train our model to accept the tone input as well. Check if
+    fake news have different emotional tones than real news.
+
+** Document Data generation
+Since the only publicly available dataset available is [[https://www.kaggle.com/mrisdal/fake-news][this one]] from
+kaggle, we will have to generate our own dataset.
+We can scrape new articles from reputable sources alongwith known fake
+sources. We can use python with bs4 to get the following params:
+ - Type ::
+   - Real, Clickbait
+   - Satire, Hoax, Propaganda
+ - Title :: The title of the article.
+ - Document :: the article itself ( main body)
+ - Meta data ::
+   - Date and time of the article
+   - Date and time mentioned in the article *
+   - Location mentioned in the article **
+   - Citations in the article **
+   - Link of the article
+
+The following are some news sources that we can use
+
+|-------------------------+--------------|
+| Name of the publication | Type of news |
+|-------------------------+--------------|
+| Onion                   | satire       |
+| The Borowitz report     | satire       |
+| Clickhole               | satire       |
+| Duffel Blog             | satire       |
+| Newslo                  | satire       |
+| Weekly world news       | satire       |
+|-------------------------+--------------|
+| American news           | Hoax         |
+| DC Gazette              | Hoax         |
+|-------------------------+--------------|
+| Activist post           | Propaganda   |
+| Before it's news        | Propaganda   |
+| Natural news            | Propaganda   |
+| Red flag news           | Propaganda   |
+| World truth TV          | Propaganda   |
+|-------------------------+--------------|
+| Reuters                 | Real         |
+| Economist               | Real         |
+| Guardian                | Real         |
+|-------------------------+--------------|
+| Occupy democrats        | Clickbait    |
+| Buzzfeed                | Clickbait    |
+| Breitbart               | Clickbait    |
+| Yahoo                   | Clickbait    |
+| Huffington post         | Clickbait    |
+|-------------------------+--------------|
+
+References:
+ - https://www.marketwatch.com/story/these-are-the-most-and-the-least-trusted-news-sources-in-the-us-2017-08-03
+ - https://www.usnews.com/news/national-news/articles/2016-11-14/avoid-these-fake-news-sites-at-all-costs
+
+** Getting the real news
+As explained [[https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c][here]], if we can link/cite a piece of text to a legitimate
+news source, we need not perform further classification on it. Just
+like wikipedia, if we have a proper, reputable citation of the
+contents of the articles, we need not run our classifier on it. However
+it raises the following questions :
+*How can we decide whether a news source is legitimate or not?.*
+We can hand pick few known websites. These can be websites/articles
+from credible journalists that have in the past reported correct
+news. We can then match other articles like social media posts against
+our "database" of correct/factual news. This way if a article/post's
+content matches that of a known event/news article, we directly
+classify it as real, otherwise we can run it through the classifier to
+check whether it is correct or not.
+*How to match the article with the articles in our database?*
+We can store the correct news articles alongwith automatic tags
+generated by the IBM apis. We can then uses these tags to sort out the
+relevant articles in our database. We can then compare the few most
+relevant articles with using RNNs. Such models are called Siamese
+LSTMs.
+References :
+http://www.aclweb.org/anthology/W16-1617
+https://cs.stanford.edu/~quocle/paragraph_vector.pdf
+We can also use traditional techniques like :
+- No. of common words
+- No. of common words including synonyms
+- Cosine similarity
+- Glove similarity (Google word to vector)
+- Longest common subsequence
+- Dates and locations mentioned in the articles
+- Avg number of words in a sentence
+- Other metadata
+This way we can establish similarity between the real news article the
+article to be tested. This will significantly reduce false positives.
+
+** Image classifier
+Alongwith text, we can also use images in the articles in our
+model. We can detect if a image is photoshopped or not using a CNN.
+https://ieeexplore.ieee.org/document/8014966
+https://ieeexplore.ieee.org/abstract/document/7823911
+https://arxiv.org/abs/1801.06732
+However doing so can lead to low accuracy and will be very slow. There
+are however a number of traditional techniques to detect manipulation
+as well.
+This answer on [[https://stats.stackexchange.com/questions/319838/detecting-manipulation-e-g-photo-copy-pasting-in-images][stackexchange]] summarizes the idea very well, with
+datasets.
+We can report on our extension (a notification), if the current
+page consists of a manipulated image. We can also use this in our
+model as an addtional parameter to detect the degree/type of fake
+news.
+
+** Our model
+After going through the text similarity check. If it fails we will run
+our classifier.
+Our final model will be simple logistic regression:
+- Inputs (Probabilities, weighted)
+  + Output from our image classifier
+  + Outputs from various APIs (tone watson analytics and discovery)
+  + Output of the RNN
+  + Output of the similarity with the existing legitimate news source.
+- Outputs
+  + Classifier - Real or Fake (0 - 1)
+This along with the classification output of the RNN (Real, fake,
+satire, clickbait, hoax) will be our final output.
+
+** Workflow
+1) Extract data
+2) Run the data through APIs to get their values - This will be our
+   final training data
+3) Train the model and the RNN on the final training data
+4) Train the image classifier on existing datasets
+5) Use chrome-extension to extract the to be classified data. Run the
+   models on the data from the extension
+6) Report our findings using the extension
+
+* Refrences
+** [[https://arxiv.org/pdf/1805.08751.pdf][Fake News Detection with Deep Diffusive Network Model]]
+The paper used the following parameters:
+*** Explicit Feature Extraction
+- Shared Words used in both true and false articles
+- Set of frequently used words
+- Creator profile
+- Subject descriptions
+*** Latent Feature Extraction
+** [[https://arxiv.org/pdf/1806.00749.pdf][Convolutional Neural Networks for Fake News Detection]]
+Params:
+*** Computational Linguistic:
+1. Number of words and sentences : Fake news uses more words than real news on
+   average(in a sentence) with a higher variance
+2. Question mark, exclamation and capital letters: Fake news have higher
+   words with exclamation and more capital letters
+3. Cognitive perspective: Words and negations. Truth tellers use negations more frequently
+*** Pschological Perspective:
+On an average fake news have fewer personal pronouns than real news. Fewer first
+person, second person and *more* third person pronouns
+*** Lexical Diversity:
+Lexical diversity of real news is more than fake news.
+*** Sentiment Analysis:
+High correlation in mean sentiment and std deviation sentiment values.
+
+** [[https://arxiv.org/pdf/1809.01286.pdf][Fake News Net: A Data repository with News Content, Social Context and Spactiotemporal Information for Studying Fake News on Social Media
+]]
+** MISC
+*** Bad Grammar
+*** Percentage of Adjectives, Adverbs
