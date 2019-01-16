@@ -1,0 +1,285 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 766,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.272422,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "yard sale",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.914038,
+      "emotion": {
+        "sadness": 0.492259,
+        "joy": 0.221289,
+        "fear": 0.048511,
+        "disgust": 0.024142,
+        "anger": 0.06953
+      },
+      "count": 1
+    },
+    {
+      "text": "Tom Brady's Jersey",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.808968,
+      "emotion": {
+        "sadness": 0.332629,
+        "joy": 0.14475,
+        "fear": 0.060227,
+        "disgust": 0.397004,
+        "anger": 0.06082
+      },
+      "count": 1
+    },
+    {
+      "text": "Micheal's mom",
+      "sentiment": {
+        "score": -0.699801,
+        "label": "negative"
+      },
+      "relevance": 0.736631,
+      "emotion": {
+        "sadness": 0.256177,
+        "joy": 0.643611,
+        "fear": 0.009946,
+        "disgust": 0.072895,
+        "anger": 0.043727
+      },
+      "count": 1
+    },
+    {
+      "text": "famed shirt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.692157,
+      "emotion": {
+        "sadness": 0.492259,
+        "joy": 0.221289,
+        "fear": 0.048511,
+        "disgust": 0.024142,
+        "anger": 0.06953
+      },
+      "count": 1
+    },
+    {
+      "text": "home of an Atlanta fan",
+      "sentiment": {
+        "score": 0.565986,
+        "label": "positive"
+      },
+      "relevance": 0.682504,
+      "emotion": {
+        "sadness": 0.081668,
+        "joy": 0.078507,
+        "fear": 0.052408,
+        "disgust": 0.198772,
+        "anger": 0.539806
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Micheal",
+      "sentiment": {
+        "score": -0.063213,
+        "label": "negative"
+      },
+      "relevance": 0.823685,
+      "mentions": [
+        {
+          "text": "Micheal",
+          "location": [
+            465,
+            472
+          ]
+        },
+        {
+          "text": "Micheal",
+          "location": [
+            633,
+            640
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.011742,
+        "joy": 0.96993,
+        "fear": 0.004761,
+        "disgust": 0.00201,
+        "anger": 0.003345
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Tennessee",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.768882,
+      "mentions": [
+        {
+          "text": "Tennessee",
+          "location": [
+            41,
+            50
+          ]
+        },
+        {
+          "text": "Tennessee",
+          "location": [
+            99,
+            108
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.531716,
+        "joy": 0.206638,
+        "fear": 0.042576,
+        "disgust": 0.12135,
+        "anger": 0.068046
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Tom Brady",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.567471,
+      "mentions": [
+        {
+          "text": "Tom Brady",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Yardsale",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.410628,
+      "mentions": [
+        {
+          "text": "Yardsale",
+          "location": [
+            29,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.332629,
+        "joy": 0.14475,
+        "fear": 0.060227,
+        "disgust": 0.397004,
+        "anger": 0.06082
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Atlanta",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.401389,
+      "mentions": [
+        {
+          "text": "Atlanta",
+          "location": [
+            274,
+            281
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.082935,
+        "joy": 0.07649,
+        "fear": 0.054123,
+        "disgust": 0.197965,
+        "anger": 0.537246
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.909848,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.830557,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "T-shirt",
+      "relevance": 0.628302,
+      "dbpedia_resource": "http://dbpedia.org/resource/T-shirt"
+    },
+    {
+      "text": "2004 albums",
+      "relevance": 0.603254,
+      "dbpedia_resource": "http://dbpedia.org/resource/2004_albums"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.824279,
+      "label": "/family and parenting/babies and toddlers/baby clothes"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 487,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.73697,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "former first lady",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.918401,
+      "emotion": {
+        "sadness": 0.181929,
+        "joy": 0.409693,
+        "fear": 0.078603,
+        "disgust": 0.375598,
+        "anger": 0.030263
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.73697,
+        "label": "negative"
+      },
+      "relevance": 0.881912,
+      "emotion": {
+        "sadness": 0.070256,
+        "joy": 0.291551,
+        "fear": 0.071135,
+        "disgust": 0.369248,
+        "anger": 0.059746
+      },
+      "count": 1
+    },
+    {
+      "text": "Wellesley college",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.761196,
+      "emotion": {
+        "sadness": 0.471469,
+        "joy": 0.340713,
+        "fear": 0.098749,
+        "disgust": 0.099842,
+        "anger": 0.08579
+      },
+      "count": 1
+    },
+    {
+      "text": "third time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.689765,
+      "emotion": {
+        "sadness": 0.471469,
+        "joy": 0.340713,
+        "fear": 0.098749,
+        "disgust": 0.099842,
+        "anger": 0.08579
+      },
+      "count": 1
+    },
+    {
+      "text": "Keynote Speaker",
+      "sentiment": {
+        "score": -0.73697,
+        "label": "negative"
+      },
+      "relevance": 0.687336,
+      "emotion": {
+        "sadness": 0.253624,
+        "joy": 0.205456,
+        "fear": 0.07096,
+        "disgust": 0.132078,
+        "anger": 0.098222
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.885132,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            88,
+            103
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            289,
+            292
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.122087,
+        "joy": 0.279072,
+        "fear": 0.094941,
+        "disgust": 0.540426,
+        "anger": 0.079598
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Wellesley College",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.771326,
+      "mentions": [
+        {
+          "text": "Wellesley College",
+          "location": [
+            36,
+            53
+          ]
+        },
+        {
+          "text": "Wellesley college",
+          "location": [
+            432,
+            449
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.440654,
+        "joy": 0.349972,
+        "fear": 0.084639,
+        "disgust": 0.100138,
+        "anger": 0.097883
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Wellesley College",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wellesley_College"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Wellesely",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194156,
+      "mentions": [
+        {
+          "text": "Wellesely",
+          "location": [
+            162,
+            171
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.972239,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.718183,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.679045,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "First Lady of the United States",
+      "relevance": 0.648857,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.515697,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.974212,
+      "label": "/health and fitness/sexuality"
+    }
+  ]
+}

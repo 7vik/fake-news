@@ -1,0 +1,162 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 332,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.683487,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "music production",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.898999,
+      "emotion": {
+        "sadness": 0.237408,
+        "joy": 0.682265,
+        "fear": 0.039459,
+        "disgust": 0.022627,
+        "anger": 0.032261
+      },
+      "count": 1
+    },
+    {
+      "text": "movie remake",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.800969,
+      "emotion": {
+        "sadness": 0.501283,
+        "joy": 0.300473,
+        "fear": 0.115576,
+        "disgust": 0.059669,
+        "anger": 0.061129
+      },
+      "count": 1
+    },
+    {
+      "text": "singer-songwriter skills",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.781202,
+      "emotion": {
+        "sadness": 0.237408,
+        "joy": 0.682265,
+        "fear": 0.039459,
+        "disgust": 0.022627,
+        "anger": 0.032261
+      },
+      "count": 1
+    },
+    {
+      "text": "Pharrell Williams",
+      "sentiment": {
+        "score": -0.582491,
+        "label": "negative"
+      },
+      "relevance": 0.723152,
+      "emotion": {
+        "sadness": 0.237408,
+        "joy": 0.682265,
+        "fear": 0.039459,
+        "disgust": 0.022627,
+        "anger": 0.032261
+      },
+      "count": 1
+    },
+    {
+      "text": "early life",
+      "sentiment": {
+        "score": -0.582491,
+        "label": "negative"
+      },
+      "relevance": 0.657706,
+      "emotion": {
+        "sadness": 0.237408,
+        "joy": 0.682265,
+        "fear": 0.039459,
+        "disgust": 0.022627,
+        "anger": 0.032261
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Pharrell Williams",
+      "sentiment": {
+        "score": -0.516473,
+        "label": "negative"
+      },
+      "relevance": 0.81796,
+      "mentions": [
+        {
+          "text": "Pharrell Williams",
+          "location": [
+            129,
+            146
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.381635,
+        "joy": 0.501655,
+        "fear": 0.062357,
+        "disgust": 0.083332,
+        "anger": 0.030846
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVActor"
+        ],
+        "name": "Pharrell Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Pharrell_Williams"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hard Candy",
+      "relevance": 0.912513,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hard_Candy_(Madonna_album)"
+    },
+    {
+      "text": "Three's Company",
+      "relevance": 0.796094,
+      "dbpedia_resource": "http://dbpedia.org/resource/Three's_Company"
+    },
+    {
+      "text": "Pharrell Williams",
+      "relevance": 0.747577,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pharrell_Williams"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.957891,
+      "label": "/art and entertainment/music/music reference"
+    }
+  ]
+}

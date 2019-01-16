@@ -1,0 +1,461 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1590,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.753281,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Glenn Close",
+      "sentiment": {
+        "score": -0.926538,
+        "label": "negative"
+      },
+      "relevance": 0.789122,
+      "emotion": {
+        "sadness": 0.287474,
+        "joy": 0.375982,
+        "fear": 0.013853,
+        "disgust": 0.276223,
+        "anger": 0.142878
+      },
+      "count": 3
+    },
+    {
+      "text": "Meryl Streep",
+      "sentiment": {
+        "score": -0.962621,
+        "label": "negative"
+      },
+      "relevance": 0.772315,
+      "emotion": {
+        "sadness": 0.269751,
+        "joy": 0.206472,
+        "fear": 0.029264,
+        "disgust": 0.463163,
+        "anger": 0.158526
+      },
+      "count": 2
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.962621,
+        "label": "negative"
+      },
+      "relevance": 0.697335,
+      "emotion": {
+        "sadness": 0.269751,
+        "joy": 0.206472,
+        "fear": 0.029264,
+        "disgust": 0.463163,
+        "anger": 0.158526
+      },
+      "count": 2
+    },
+    {
+      "text": "Digital Spy",
+      "sentiment": {
+        "score": -0.962621,
+        "label": "negative"
+      },
+      "relevance": 0.654329,
+      "emotion": {
+        "sadness": 0.288712,
+        "joy": 0.320446,
+        "fear": 0.031833,
+        "disgust": 0.277023,
+        "anger": 0.172825
+      },
+      "count": 1
+    },
+    {
+      "text": "Pentagon Papers",
+      "sentiment": {
+        "score": -0.618076,
+        "label": "negative"
+      },
+      "relevance": 0.632824,
+      "emotion": {
+        "sadness": 0.173774,
+        "joy": 0.24564,
+        "fear": 0.099013,
+        "disgust": 0.328058,
+        "anger": 0.303815
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Meryl Streep",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.890567,
+      "mentions": [
+        {
+          "text": "Meryl Streep",
+          "location": [
+            35,
+            47
+          ]
+        },
+        {
+          "text": "Meryl Streep",
+          "location": [
+            122,
+            134
+          ]
+        },
+        {
+          "text": "Streep",
+          "location": [
+            302,
+            308
+          ]
+        },
+        {
+          "text": "Meryl",
+          "location": [
+            465,
+            470
+          ]
+        },
+        {
+          "text": "Streep",
+          "location": [
+            641,
+            647
+          ]
+        },
+        {
+          "text": "Streep",
+          "location": [
+            805,
+            811
+          ]
+        },
+        {
+          "text": "Streep",
+          "location": [
+            1044,
+            1050
+          ]
+        },
+        {
+          "text": "Meryl",
+          "location": [
+            1363,
+            1368
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.229711,
+        "joy": 0.571224,
+        "fear": 0.066481,
+        "disgust": 0.261885,
+        "anger": 0.130365
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "MusicalGroupMember",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Meryl Streep",
+        "dbpedia_resource": "http://dbpedia.org/resource/Meryl_Streep"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Glenn Close",
+      "sentiment": {
+        "score": -0.612613,
+        "label": "negative"
+      },
+      "relevance": 0.491515,
+      "mentions": [
+        {
+          "text": "Glenn Close",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Glenn Close",
+          "location": [
+            95,
+            106
+          ]
+        },
+        {
+          "text": "Close",
+          "location": [
+            275,
+            280
+          ]
+        },
+        {
+          "text": "Glenn",
+          "location": [
+            455,
+            460
+          ]
+        },
+        {
+          "text": "Glenn",
+          "location": [
+            521,
+            526
+          ]
+        },
+        {
+          "text": "Glenn Close",
+          "location": [
+            709,
+            720
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.228917,
+        "joy": 0.576533,
+        "fear": 0.065315,
+        "disgust": 0.277353,
+        "anger": 0.151875
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Glenn Close",
+        "dbpedia_resource": "http://dbpedia.org/resource/Glenn_Close"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.556661,
+        "label": "negative"
+      },
+      "relevance": 0.369419,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            56,
+            71
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            143,
+            158
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            317,
+            324
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            849,
+            856
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.133676,
+        "joy": 0.476695,
+        "fear": 0.018924,
+        "disgust": 0.349575,
+        "anger": 0.127853
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Tom Hanks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.155398,
+      "mentions": [
+        {
+          "text": "Tom Hanks",
+          "location": [
+            1012,
+            1021
+          ]
+        },
+        {
+          "text": "Hanks",
+          "location": [
+            1271,
+            1276
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmActor",
+          "FilmDirector",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "TVActor",
+          "TVDirector",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Tom Hanks",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Hanks"
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The Washington Post",
+      "sentiment": {
+        "score": 0.533096,
+        "label": "positive"
+      },
+      "relevance": 0.150943,
+      "mentions": [
+        {
+          "text": "The Post",
+          "location": [
+            1064,
+            1072
+          ]
+        },
+        {
+          "text": "The Washington Post",
+          "location": [
+            1098,
+            1117
+          ]
+        },
+        {
+          "text": "Washington Post",
+          "location": [
+            1321,
+            1336
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252556,
+        "joy": 0.391908,
+        "fear": 0.061143,
+        "disgust": 0.177703,
+        "anger": 0.184019
+      },
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ],
+        "name": "The Washington Post",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Steven Spielberg",
+      "relevance": 0.985153,
+      "dbpedia_resource": "http://dbpedia.org/resource/Steven_Spielberg"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.958851,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.95144,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "The Washington Post",
+      "relevance": 0.730529,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+    },
+    {
+      "text": "Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture",
+      "relevance": 0.719888,
+      "dbpedia_resource": "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.799732,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

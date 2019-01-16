@@ -1,0 +1,273 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 546,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.266669,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Olivia Newton-John",
+      "sentiment": {
+        "score": -0.266669,
+        "label": "negative"
+      },
+      "relevance": 0.992805,
+      "emotion": {
+        "sadness": 0.125662,
+        "joy": 0.357624,
+        "fear": 0.012968,
+        "disgust": 0.051066,
+        "anger": 0.03967
+      },
+      "count": 1
+    },
+    {
+      "text": "Australian actress",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.900481,
+      "emotion": {
+        "sadness": 0.34987,
+        "joy": 0.454576,
+        "fear": 0.090246,
+        "disgust": 0.029108,
+        "anger": 0.06407
+      },
+      "count": 1
+    },
+    {
+      "text": "Newton-John",
+      "sentiment": {
+        "score": -0.266669,
+        "label": "negative"
+      },
+      "relevance": 0.868228,
+      "emotion": {
+        "sadness": 0.107278,
+        "joy": 0.772291,
+        "fear": 0.028332,
+        "disgust": 0.008862,
+        "anger": 0.022898
+      },
+      "count": 3
+    },
+    {
+      "text": "John Travolta",
+      "sentiment": {
+        "score": -0.266669,
+        "label": "negative"
+      },
+      "relevance": 0.828367,
+      "emotion": {
+        "sadness": 0.125662,
+        "joy": 0.357624,
+        "fear": 0.012968,
+        "disgust": 0.051066,
+        "anger": 0.03967
+      },
+      "count": 1
+    },
+    {
+      "text": "last performance",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.559382,
+      "emotion": {
+        "sadness": 0.34987,
+        "joy": 0.454576,
+        "fear": 0.090246,
+        "disgust": 0.029108,
+        "anger": 0.06407
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Olivia Newton-John",
+      "sentiment": {
+        "score": 0.629294,
+        "label": "positive"
+      },
+      "relevance": 0.840946,
+      "mentions": [
+        {
+          "text": "Olivia Newton-John",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Newton-John",
+          "location": [
+            80,
+            91
+          ]
+        },
+        {
+          "text": "Newton-John",
+          "location": [
+            235,
+            246
+          ]
+        },
+        {
+          "text": "Newton-John",
+          "location": [
+            333,
+            344
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.129117,
+        "joy": 0.560195,
+        "fear": 0.038695,
+        "disgust": 0.018647,
+        "anger": 0.039098
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Olivia Newton-John",
+        "dbpedia_resource": "http://dbpedia.org/resource/Olivia_Newton-John"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "John Travolta",
+      "sentiment": {
+        "score": 0.629294,
+        "label": "positive"
+      },
+      "relevance": 0.324975,
+      "mentions": [
+        {
+          "text": "John Travolta",
+          "location": [
+            33,
+            46
+          ]
+        },
+        {
+          "text": "Travolta",
+          "location": [
+            251,
+            259
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120057,
+        "joy": 0.358707,
+        "fear": 0.014478,
+        "disgust": 0.058966,
+        "anger": 0.048293
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "John Travolta",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Travolta"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Britain",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.165178,
+      "mentions": [
+        {
+          "text": "Britain",
+          "location": [
+            97,
+            104
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Olivia Newton-John",
+      "relevance": 0.976393,
+      "dbpedia_resource": "http://dbpedia.org/resource/Olivia_Newton-John"
+    },
+    {
+      "text": "Grease",
+      "relevance": 0.871235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grease_(film)"
+    },
+    {
+      "text": "John Travolta",
+      "relevance": 0.860821,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_Travolta"
+    },
+    {
+      "text": "Two of a Kind",
+      "relevance": 0.64638,
+      "dbpedia_resource": "http://dbpedia.org/resource/Two_of_a_Kind_(1983_film)"
+    },
+    {
+      "text": "Grease",
+      "relevance": 0.556831,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grease_(musical)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.560046,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

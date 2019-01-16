@@ -1,0 +1,242 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 472,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.86693,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "CHINA'S TENCENT",
+      "sentiment": {
+        "score": -0.86693,
+        "label": "negative"
+      },
+      "relevance": 0.971698,
+      "emotion": {
+        "sadness": 0.504623,
+        "joy": 0.088784,
+        "fear": 0.196711,
+        "disgust": 0.028506,
+        "anger": 0.432298
+      },
+      "count": 1
+    },
+    {
+      "text": "large sale of their stock",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.849163,
+      "emotion": {
+        "sadness": 0.20214,
+        "joy": 0.045123,
+        "fear": 0.085535,
+        "disgust": 0.017184,
+        "anger": 0.080884
+      },
+      "count": 1
+    },
+    {
+      "text": "mobile apps",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.77747,
+      "emotion": {
+        "sadness": 0.271831,
+        "joy": 0.153412,
+        "fear": 0.071439,
+        "disgust": 0.11707,
+        "anger": 0.043764
+      },
+      "count": 1
+    },
+    {
+      "text": "larger claim",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.693847,
+      "emotion": {
+        "sadness": 0.20214,
+        "joy": 0.045123,
+        "fear": 0.085535,
+        "disgust": 0.017184,
+        "anger": 0.080884
+      },
+      "count": 1
+    },
+    {
+      "text": "ownership of electric carmaker Tesla",
+      "sentiment": {
+        "score": -0.86693,
+        "label": "negative"
+      },
+      "relevance": 0.686114,
+      "emotion": {
+        "sadness": 0.375325,
+        "joy": 0.461732,
+        "fear": 0.087683,
+        "disgust": 0.014537,
+        "anger": 0.081851
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "TESLA",
+      "sentiment": {
+        "score": 0.542748,
+        "label": "positive"
+      },
+      "relevance": 0.872966,
+      "mentions": [
+        {
+          "text": "TESLA",
+          "location": [
+            40,
+            45
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            122,
+            127
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            262,
+            267
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            434,
+            439
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.447903,
+        "joy": 0.112822,
+        "fear": 0.253133,
+        "disgust": 0.007313,
+        "anger": 0.389621
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "CHINA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306407,
+      "mentions": [
+        {
+          "text": "CHINA",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "China",
+          "location": [
+            46,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "FilmScreeningVenue",
+          "Country"
+        ],
+        "name": "China",
+        "dbpedia_resource": "http://dbpedia.org/resource/China"
+      },
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "$1.78 billion",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.265639,
+      "mentions": [
+        {
+          "text": "$1.78 billion",
+          "location": [
+            68,
+            81
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Automobile",
+      "relevance": 0.980821,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    },
+    {
+      "text": "Japan",
+      "relevance": 0.891533,
+      "dbpedia_resource": "http://dbpedia.org/resource/Japan"
+    },
+    {
+      "text": "Renault",
+      "relevance": 0.817356,
+      "dbpedia_resource": "http://dbpedia.org/resource/Renault"
+    },
+    {
+      "text": "Opel",
+      "relevance": 0.764853,
+      "dbpedia_resource": "http://dbpedia.org/resource/Opel"
+    },
+    {
+      "text": "Stock market",
+      "relevance": 0.69414,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock_market"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.974895,
+      "label": "/automotive and vehicles/cars/hybrid"
+    }
+  ]
+}

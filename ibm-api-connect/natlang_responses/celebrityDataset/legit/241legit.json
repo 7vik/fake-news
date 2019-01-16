@@ -1,0 +1,338 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1501,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.694986,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.966828,
+        "label": "positive"
+      },
+      "relevance": 0.825311,
+      "emotion": {
+        "sadness": 0.110309,
+        "joy": 0.778414,
+        "fear": 0.006924,
+        "disgust": 0.00604,
+        "anger": 0.124467
+      },
+      "count": 2
+    },
+    {
+      "text": "Joe Alwyn Spend Time",
+      "sentiment": {
+        "score": 0.966828,
+        "label": "positive"
+      },
+      "relevance": 0.770975,
+      "emotion": {
+        "sadness": 0.070818,
+        "joy": 0.885503,
+        "fear": 0.016289,
+        "disgust": 0.003445,
+        "anger": 0.020129
+      },
+      "count": 1
+    },
+    {
+      "text": "longtime best friend Abigail Anderson",
+      "sentiment": {
+        "score": -0.303028,
+        "label": "negative"
+      },
+      "relevance": 0.70266,
+      "emotion": {
+        "sadness": 0.108054,
+        "joy": 0.835906,
+        "fear": 0.006903,
+        "disgust": 0.022858,
+        "anger": 0.028912
+      },
+      "count": 1
+    },
+    {
+      "text": "bridesmaid gifts",
+      "sentiment": {
+        "score": -0.303028,
+        "label": "negative"
+      },
+      "relevance": 0.668928,
+      "emotion": {
+        "sadness": 0.108054,
+        "joy": 0.835906,
+        "fear": 0.006903,
+        "disgust": 0.022858,
+        "anger": 0.028912
+      },
+      "count": 1
+    },
+    {
+      "text": "Taylor Swift\u2019s new romance",
+      "sentiment": {
+        "score": -0.819248,
+        "label": "negative"
+      },
+      "relevance": 0.587597,
+      "emotion": {
+        "sadness": 0.155733,
+        "joy": 0.750301,
+        "fear": 0.007738,
+        "disgust": 0.009888,
+        "anger": 0.093449
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": 0.369489,
+        "label": "positive"
+      },
+      "relevance": 0.895729,
+      "mentions": [
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            143,
+            152
+          ]
+        },
+        {
+          "text": "Joe",
+          "location": [
+            367,
+            370
+          ]
+        },
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            514,
+            523
+          ]
+        },
+        {
+          "text": "Alwyn",
+          "location": [
+            624,
+            629
+          ]
+        },
+        {
+          "text": "Joe",
+          "location": [
+            803,
+            806
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224275,
+        "joy": 0.685536,
+        "fear": 0.044392,
+        "disgust": 0.09773,
+        "anger": 0.064869
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.486037,
+        "label": "positive"
+      },
+      "relevance": 0.729356,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            121,
+            133
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            482,
+            494
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            1121,
+            1127
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1217,
+            1222
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.113186,
+        "joy": 0.770709,
+        "fear": 0.015561,
+        "disgust": 0.083955,
+        "anger": 0.038452
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Nashville",
+      "sentiment": {
+        "score": 0.201518,
+        "label": "positive"
+      },
+      "relevance": 0.243112,
+      "mentions": [
+        {
+          "text": "Nashville",
+          "location": [
+            290,
+            299
+          ]
+        },
+        {
+          "text": "Nashville",
+          "location": [
+            909,
+            918
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240181,
+        "joy": 0.636159,
+        "fear": 0.055761,
+        "disgust": 0.010271,
+        "anger": 0.054152
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Britany Maack",
+      "sentiment": {
+        "score": 0.445518,
+        "label": "positive"
+      },
+      "relevance": 0.238787,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Maack",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.215385,
+      "emotion": {
+        "sadness": 0.070147,
+        "joy": 0.74865,
+        "fear": 0.008308,
+        "disgust": 0.11113,
+        "anger": 0.031199
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Interpersonal relationship",
+      "relevance": 0.889248,
+      "dbpedia_resource": "http://dbpedia.org/resource/Interpersonal_relationship"
+    },
+    {
+      "text": "Sociology",
+      "relevance": 0.852098,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sociology"
+    },
+    {
+      "text": "Tim McGraw",
+      "relevance": 0.84863,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tim_McGraw"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.824646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Tell",
+      "relevance": 0.810531,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tell"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.907768,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

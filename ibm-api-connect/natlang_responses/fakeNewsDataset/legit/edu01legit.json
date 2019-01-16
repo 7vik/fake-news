@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 723,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.795037,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "staff members",
+      "sentiment": {
+        "score": -0.791689,
+        "label": "negative"
+      },
+      "relevance": 0.840404,
+      "emotion": {
+        "sadness": 0.402089,
+        "joy": 0.15109,
+        "fear": 0.116792,
+        "disgust": 0.229352,
+        "anger": 0.375818
+      },
+      "count": 2
+    },
+    {
+      "text": "Alexandria Public Schools",
+      "sentiment": {
+        "score": -0.791689,
+        "label": "negative"
+      },
+      "relevance": 0.786707,
+      "emotion": {
+        "sadness": 0.402089,
+        "joy": 0.15109,
+        "fear": 0.116792,
+        "disgust": 0.229352,
+        "anger": 0.375818
+      },
+      "count": 1
+    },
+    {
+      "text": "district officials",
+      "sentiment": {
+        "score": -0.791689,
+        "label": "negative"
+      },
+      "relevance": 0.759986,
+      "emotion": {
+        "sadness": 0.402089,
+        "joy": 0.15109,
+        "fear": 0.116792,
+        "disgust": 0.229352,
+        "anger": 0.375818
+      },
+      "count": 1
+    },
+    {
+      "text": "nationwide day of protest",
+      "sentiment": {
+        "score": -0.791689,
+        "label": "negative"
+      },
+      "relevance": 0.720359,
+      "emotion": {
+        "sadness": 0.402089,
+        "joy": 0.15109,
+        "fear": 0.116792,
+        "disgust": 0.229352,
+        "anger": 0.375818
+      },
+      "count": 1
+    },
+    {
+      "text": "Northern Virginia",
+      "sentiment": {
+        "score": -0.791689,
+        "label": "negative"
+      },
+      "relevance": 0.712421,
+      "emotion": {
+        "sadness": 0.402089,
+        "joy": 0.15109,
+        "fear": 0.116792,
+        "disgust": 0.229352,
+        "anger": 0.375818
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Two Districts Cancel School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.836057,
+      "mentions": [
+        {
+          "text": "Two Districts Cancel School",
+          "location": [
+            24,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.671254,
+        "joy": 0.051656,
+        "fear": 0.136739,
+        "disgust": 0.119254,
+        "anger": 0.188179
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "superintendent",
+      "sentiment": {
+        "score": -0.287057,
+        "label": "negative"
+      },
+      "relevance": 0.639597,
+      "mentions": [
+        {
+          "text": "superintendent",
+          "location": [
+            488,
+            502
+          ]
+        },
+        {
+          "text": "superintendent",
+          "location": [
+            619,
+            633
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151871,
+        "joy": 0.569775,
+        "fear": 0.153171,
+        "disgust": 0.050693,
+        "anger": 0.146318
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Alexandria Public Schools",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.526409,
+      "mentions": [
+        {
+          "text": "Alexandria Public Schools",
+          "location": [
+            274,
+            299
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.340571,
+        "joy": 0.119138,
+        "fear": 0.121415,
+        "disgust": 0.27604,
+        "anger": 0.178231
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "SchoolDistrict",
+          "School"
+        ],
+        "name": "Alexandria City Public Schools",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexandria_City_Public_Schools"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alvin L. Crawley",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.43337,
+      "mentions": [
+        {
+          "text": "Alvin L. Crawley",
+          "location": [
+            635,
+            651
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158132,
+        "joy": 0.163354,
+        "fear": 0.097915,
+        "disgust": 0.074539,
+        "anger": 0.094071
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Northern Virginia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.419164,
+      "mentions": [
+        {
+          "text": "Northern Virginia",
+          "location": [
+            303,
+            320
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.340571,
+        "joy": 0.119138,
+        "fear": 0.121415,
+        "disgust": 0.27604,
+        "anger": 0.178231
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.966524,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "North Carolina",
+      "relevance": 0.95553,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina"
+    },
+    {
+      "text": "Virginia",
+      "relevance": 0.944671,
+      "dbpedia_resource": "http://dbpedia.org/resource/Virginia"
+    },
+    {
+      "text": "Northern Virginia",
+      "relevance": 0.824579,
+      "dbpedia_resource": "http://dbpedia.org/resource/Northern_Virginia"
+    },
+    {
+      "text": "Alexandria, Virginia",
+      "relevance": 0.786734,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alexandria,_Virginia"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999972,
+      "label": "/education/special education"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 646,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.745098,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Galaxy S8",
+      "sentiment": {
+        "score": 0.781195,
+        "label": "positive"
+      },
+      "relevance": 0.921449,
+      "emotion": {
+        "sadness": 0.083524,
+        "joy": 0.640069,
+        "fear": 0.065495,
+        "disgust": 0.011145,
+        "anger": 0.173251
+      },
+      "count": 1
+    },
+    {
+      "text": "basic idea",
+      "sentiment": {
+        "score": 0.890952,
+        "label": "positive"
+      },
+      "relevance": 0.810649,
+      "emotion": {
+        "sadness": 0.556554,
+        "joy": 0.337833,
+        "fear": 0.105762,
+        "disgust": 0.010375,
+        "anger": 0.045368
+      },
+      "count": 1
+    },
+    {
+      "text": "development Injong Rhee",
+      "sentiment": {
+        "score": 0.781195,
+        "label": "positive"
+      },
+      "relevance": 0.671483,
+      "emotion": {
+        "sadness": 0.083524,
+        "joy": 0.640069,
+        "fear": 0.065495,
+        "disgust": 0.011145,
+        "anger": 0.173251
+      },
+      "count": 1
+    },
+    {
+      "text": "Samsung's head",
+      "sentiment": {
+        "score": 0.781195,
+        "label": "positive"
+      },
+      "relevance": 0.655078,
+      "emotion": {
+        "sadness": 0.083524,
+        "joy": 0.640069,
+        "fear": 0.065495,
+        "disgust": 0.011145,
+        "anger": 0.173251
+      },
+      "count": 1
+    },
+    {
+      "text": "last name",
+      "sentiment": {
+        "score": 0.501317,
+        "label": "positive"
+      },
+      "relevance": 0.641375,
+      "emotion": {
+        "sadness": 0.235662,
+        "joy": 0.192719,
+        "fear": 0.134837,
+        "disgust": 0.058206,
+        "anger": 0.138065
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Samsung",
+      "sentiment": {
+        "score": 0.613516,
+        "label": "positive"
+      },
+      "relevance": 0.806095,
+      "mentions": [
+        {
+          "text": "Samsung",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Samsung",
+          "location": [
+            59,
+            66
+          ]
+        },
+        {
+          "text": "Samsung",
+          "location": [
+            361,
+            368
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.115266,
+        "joy": 0.374728,
+        "fear": 0.085206,
+        "disgust": 0.036525,
+        "anger": 0.068846
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Samsung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samsung"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "AI",
+      "sentiment": {
+        "score": 0.613516,
+        "label": "positive"
+      },
+      "relevance": 0.648322,
+      "mentions": [
+        {
+          "text": "AI",
+          "location": [
+            97,
+            99
+          ]
+        },
+        {
+          "text": "AI",
+          "location": [
+            501,
+            503
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.063114,
+        "joy": 0.55813,
+        "fear": 0.080025,
+        "disgust": 0.013621,
+        "anger": 0.180317
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Injong Rhee",
+      "sentiment": {
+        "score": 0.613516,
+        "label": "positive"
+      },
+      "relevance": 0.397343,
+      "mentions": [
+        {
+          "text": "Injong Rhee",
+          "location": [
+            404,
+            415
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.058396,
+        "joy": 0.510109,
+        "fear": 0.094806,
+        "disgust": 0.014307,
+        "anger": 0.227335
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bixby",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.390646,
+      "mentions": [
+        {
+          "text": "Bixby",
+          "location": [
+            596,
+            601
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.190128,
+        "joy": 0.473221,
+        "fear": 0.108033,
+        "disgust": 0.017744,
+        "anger": 0.129026
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "head of research",
+      "sentiment": {
+        "score": 0.613516,
+        "label": "positive"
+      },
+      "relevance": 0.293676,
+      "mentions": [
+        {
+          "text": "head of research",
+          "location": [
+            371,
+            387
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.058396,
+        "joy": 0.510109,
+        "fear": 0.094806,
+        "disgust": 0.014307,
+        "anger": 0.227335
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Personal name",
+      "relevance": 0.970732,
+      "dbpedia_resource": "http://dbpedia.org/resource/Personal_name"
+    },
+    {
+      "text": "Research and development",
+      "relevance": 0.712712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Research_and_development"
+    },
+    {
+      "text": "Middle name",
+      "relevance": 0.688058,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_name"
+    },
+    {
+      "text": "Chinese name",
+      "relevance": 0.676459,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chinese_name"
+    },
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.670059,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.681602,
+      "label": "/technology and computing/tech news"
+    }
+  ]
+}

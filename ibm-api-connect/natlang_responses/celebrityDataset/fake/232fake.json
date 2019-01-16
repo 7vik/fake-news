@@ -1,0 +1,312 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1099,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.563673,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Amal Clooney",
+      "sentiment": {
+        "score": 0.546518,
+        "label": "positive"
+      },
+      "relevance": 0.865968,
+      "emotion": {
+        "sadness": 0.192414,
+        "joy": 0.538103,
+        "fear": 0.016599,
+        "disgust": 0.079657,
+        "anger": 0.223767
+      },
+      "count": 1
+    },
+    {
+      "text": "much George",
+      "sentiment": {
+        "score": 0.546518,
+        "label": "positive"
+      },
+      "relevance": 0.702968,
+      "emotion": {
+        "sadness": 0.385431,
+        "joy": 0.232035,
+        "fear": 0.081664,
+        "disgust": 0.025661,
+        "anger": 0.152413
+      },
+      "count": 1
+    },
+    {
+      "text": "compensation package",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.682131,
+      "emotion": {
+        "sadness": 0.219997,
+        "joy": 0.492324,
+        "fear": 0.020671,
+        "disgust": 0.115739,
+        "anger": 0.207565
+      },
+      "count": 1
+    },
+    {
+      "text": "Westminster Hospital",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.676458,
+      "emotion": {
+        "sadness": 0.219997,
+        "joy": 0.492324,
+        "fear": 0.020671,
+        "disgust": 0.115739,
+        "anger": 0.207565
+      },
+      "count": 1
+    },
+    {
+      "text": "Hollywood actor George Clooney",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.672397,
+      "emotion": {
+        "sadness": 0.219997,
+        "joy": 0.492324,
+        "fear": 0.020671,
+        "disgust": 0.115739,
+        "anger": 0.207565
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "George Clooney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.833007,
+      "mentions": [
+        {
+          "text": "George",
+          "location": [
+            27,
+            33
+          ]
+        },
+        {
+          "text": "George Clooney",
+          "location": [
+            106,
+            120
+          ]
+        },
+        {
+          "text": "George",
+          "location": [
+            430,
+            436
+          ]
+        },
+        {
+          "text": "George Clooney",
+          "location": [
+            871,
+            885
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.496197,
+        "joy": 0.329097,
+        "fear": 0.034183,
+        "disgust": 0.089113,
+        "anger": 0.10929
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "George Clooney",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Amal Clooney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.792495,
+      "mentions": [
+        {
+          "text": "Amal Clooney",
+          "location": [
+            35,
+            47
+          ]
+        },
+        {
+          "text": "Amal Clooney",
+          "location": [
+            130,
+            142
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Amal",
+      "sentiment": {
+        "score": -0.487441,
+        "label": "negative"
+      },
+      "relevance": 0.464283,
+      "mentions": [
+        {
+          "text": "Amal",
+          "location": [
+            225,
+            229
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.351421,
+        "joy": 0.17429,
+        "fear": 0.107898,
+        "disgust": 0.190941,
+        "anger": 0.260125
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amal Alamuddin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440862,
+      "mentions": [
+        {
+          "text": "Amal Alamuddin",
+          "location": [
+            848,
+            862
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.092524,
+        "joy": 0.415791,
+        "fear": 0.018966,
+        "disgust": 0.032835,
+        "anger": 0.117269
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.216577,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            90,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.382986,
+        "joy": 0.132623,
+        "fear": 0.011099,
+        "disgust": 0.053184,
+        "anger": 0.062391
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George Clooney",
+      "relevance": 0.9898,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+    },
+    {
+      "text": "Michael Clayton",
+      "relevance": 0.624172,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michael_Clayton_(film)"
+    },
+    {
+      "text": "Anthony Edwards",
+      "relevance": 0.58155,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anthony_Edwards"
+    },
+    {
+      "text": "London",
+      "relevance": 0.549531,
+      "dbpedia_resource": "http://dbpedia.org/resource/London"
+    },
+    {
+      "text": "Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role",
+      "relevance": 0.523532,
+      "dbpedia_resource": "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Leading_Role"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.594855,
+      "label": "/business and industrial/business operations/business plans"
+    }
+  ]
+}

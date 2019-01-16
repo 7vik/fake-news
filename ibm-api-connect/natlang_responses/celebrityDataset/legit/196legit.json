@@ -1,0 +1,303 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 544,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.937417,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.937417,
+        "label": "negative"
+      },
+      "relevance": 0.992054,
+      "emotion": {
+        "sadness": 0.760412,
+        "joy": 0.091597,
+        "fear": 0.145734,
+        "disgust": 0.093891,
+        "anger": 0.096205
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.937417,
+        "label": "negative"
+      },
+      "relevance": 0.702829,
+      "emotion": {
+        "sadness": 0.760412,
+        "joy": 0.091597,
+        "fear": 0.145734,
+        "disgust": 0.093891,
+        "anger": 0.096205
+      },
+      "count": 1
+    },
+    {
+      "text": "53-year-old Hollywood star",
+      "sentiment": {
+        "score": -0.937417,
+        "label": "negative"
+      },
+      "relevance": 0.636159,
+      "emotion": {
+        "sadness": 0.779433,
+        "joy": 0.090341,
+        "fear": 0.138387,
+        "disgust": 0.102281,
+        "anger": 0.085022
+      },
+      "count": 1
+    },
+    {
+      "text": "honest interview",
+      "sentiment": {
+        "score": -0.937417,
+        "label": "negative"
+      },
+      "relevance": 0.540782,
+      "emotion": {
+        "sadness": 0.779433,
+        "joy": 0.090341,
+        "fear": 0.138387,
+        "disgust": 0.102281,
+        "anger": 0.085022
+      },
+      "count": 1
+    },
+    {
+      "text": "battle",
+      "sentiment": {
+        "score": -0.937417,
+        "label": "negative"
+      },
+      "relevance": 0.52435,
+      "emotion": {
+        "sadness": 0.779433,
+        "joy": 0.090341,
+        "fear": 0.138387,
+        "disgust": 0.102281,
+        "anger": 0.085022
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.192157,
+        "label": "negative"
+      },
+      "relevance": 0.902585,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            26,
+            35
+          ]
+        },
+        {
+          "text": "Brad Pitt",
+          "location": [
+            74,
+            83
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            97,
+            99
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            136,
+            138
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.367645,
+        "joy": 0.200622,
+        "fear": 0.139901,
+        "disgust": 0.102309,
+        "anger": 0.171856
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.17136,
+        "label": "negative"
+      },
+      "relevance": 0.777837,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            59,
+            73
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            200,
+            214
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325266,
+        "joy": 0.174463,
+        "fear": 0.173042,
+        "disgust": 0.118946,
+        "anger": 0.388391
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Hollywood star",
+      "sentiment": {
+        "score": -0.483672,
+        "label": "negative"
+      },
+      "relevance": 0.273736,
+      "mentions": [
+        {
+          "text": "Hollywood star",
+          "location": [
+            311,
+            325
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.342507,
+        "joy": 0.402213,
+        "fear": 0.103241,
+        "disgust": 0.106282,
+        "anger": 0.068735
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six months",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.273736,
+      "mentions": [
+        {
+          "text": "six months",
+          "location": [
+            472,
+            482
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "six weeks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.273736,
+      "mentions": [
+        {
+          "text": "six weeks",
+          "location": [
+            169,
+            178
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.967725,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.895155,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.800157,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "People",
+      "relevance": 0.770899,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.766173,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.566824,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1176,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.504647,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.478381,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.824295,
+      "emotion": {
+        "sadness": 0.07025,
+        "joy": 0.742645,
+        "fear": 0.007826,
+        "disgust": 0.163533,
+        "anger": 0.055453
+      },
+      "count": 3
+    },
+    {
+      "text": "Neonatal Intensive Care Unit Fund",
+      "sentiment": {
+        "score": 0.909867,
+        "label": "positive"
+      },
+      "relevance": 0.77461,
+      "emotion": {
+        "sadness": 0.165971,
+        "joy": 0.342904,
+        "fear": 0.031782,
+        "disgust": 0.084996,
+        "anger": 0.147766
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West Seeking Charity Donations",
+      "sentiment": {
+        "score": -0.788806,
+        "label": "negative"
+      },
+      "relevance": 0.772392,
+      "emotion": {
+        "sadness": 0.218947,
+        "joy": 0.465557,
+        "fear": 0.012003,
+        "disgust": 0.298243,
+        "anger": 0.040912
+      },
+      "count": 1
+    },
+    {
+      "text": "Lurie Children's Hospital",
+      "sentiment": {
+        "score": -0.554388,
+        "label": "negative"
+      },
+      "relevance": 0.696498,
+      "emotion": {
+        "sadness": 0.134091,
+        "joy": 0.62145,
+        "fear": 0.029764,
+        "disgust": 0.15631,
+        "anger": 0.100321
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.554388,
+        "label": "negative"
+      },
+      "relevance": 0.675293,
+      "emotion": {
+        "sadness": 0.21353,
+        "joy": 0.590144,
+        "fear": 0.015572,
+        "disgust": 0.18218,
+        "anger": 0.067662
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.102343,
+        "label": "negative"
+      },
+      "relevance": 0.879455,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            19,
+            29
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            118,
+            128
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            287,
+            291
+          ]
+        },
+        {
+          "text": "Kayne West",
+          "location": [
+            426,
+            436
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.525403,
+        "joy": 0.599124,
+        "fear": 0.067931,
+        "disgust": 0.14749,
+        "anger": 0.071832
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.10841,
+        "label": "negative"
+      },
+      "relevance": 0.865646,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            99,
+            113
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            407,
+            421
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            643,
+            653
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            850,
+            860
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            995,
+            1005
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.585514,
+        "joy": 0.566894,
+        "fear": 0.11654,
+        "disgust": 0.130275,
+        "anger": 0.100805
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 6
+    },
+    {
+      "type": "Facility",
+      "text": "Lurie Children's Hospital",
+      "sentiment": {
+        "score": -0.385703,
+        "label": "negative"
+      },
+      "relevance": 0.531009,
+      "mentions": [
+        {
+          "text": "Lurie Children's Hospital",
+          "location": [
+            181,
+            206
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.586081,
+        "joy": 0.112157,
+        "fear": 0.089933,
+        "disgust": 0.24038,
+        "anger": 0.149528
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Neonatal Intensive Care Unit Fund",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.383478,
+      "mentions": [
+        {
+          "text": "Neonatal Intensive Care Unit Fund",
+          "location": [
+            687,
+            720
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.069709,
+        "joy": 0.159435,
+        "fear": 0.023924,
+        "disgust": 0.102816,
+        "anger": 0.136384
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kanye West",
+      "relevance": 0.980596,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Childbirth",
+      "relevance": 0.888526,
+      "dbpedia_resource": "http://dbpedia.org/resource/Childbirth"
+    },
+    {
+      "text": "Pediatrics",
+      "relevance": 0.860562,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pediatrics"
+    },
+    {
+      "text": "Giving",
+      "relevance": 0.853486,
+      "dbpedia_resource": "http://dbpedia.org/resource/Giving"
+    },
+    {
+      "text": "Infant",
+      "relevance": 0.814002,
+      "dbpedia_resource": "http://dbpedia.org/resource/Infant"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.831627,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

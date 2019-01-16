@@ -1,0 +1,401 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2403,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.454172,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Garner's Family Vacation",
+      "sentiment": {
+        "score": -0.809186,
+        "label": "negative"
+      },
+      "relevance": 0.788654,
+      "emotion": {
+        "sadness": 0.359531,
+        "joy": 0.51492,
+        "fear": 0.007229,
+        "disgust": 0.059585,
+        "anger": 0.091751
+      },
+      "count": 1
+    },
+    {
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": -0.809186,
+        "label": "negative"
+      },
+      "relevance": 0.779385,
+      "emotion": {
+        "sadness": 0.359531,
+        "joy": 0.51492,
+        "fear": 0.007229,
+        "disgust": 0.059585,
+        "anger": 0.091751
+      },
+      "count": 2
+    },
+    {
+      "text": "quality time",
+      "sentiment": {
+        "score": 0.739777,
+        "label": "positive"
+      },
+      "relevance": 0.646817,
+      "emotion": {
+        "sadness": 0.359531,
+        "joy": 0.51492,
+        "fear": 0.007229,
+        "disgust": 0.059585,
+        "anger": 0.091751
+      },
+      "count": 1
+    },
+    {
+      "text": "family vacation",
+      "sentiment": {
+        "score": 0.692129,
+        "label": "positive"
+      },
+      "relevance": 0.632743,
+      "emotion": {
+        "sadness": 0.302541,
+        "joy": 0.579815,
+        "fear": 0.008243,
+        "disgust": 0.04546,
+        "anger": 0.097364
+      },
+      "count": 1
+    },
+    {
+      "text": "annual tradition",
+      "sentiment": {
+        "score": -0.344595,
+        "label": "negative"
+      },
+      "relevance": 0.60934,
+      "emotion": {
+        "sadness": 0.260352,
+        "joy": 0.315046,
+        "fear": 0.108678,
+        "disgust": 0.102531,
+        "anger": 0.09392
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0.084959,
+        "label": "positive"
+      },
+      "relevance": 0.92931,
+      "mentions": [
+        {
+          "text": "Ben Affleck",
+          "location": [
+            7,
+            18
+          ]
+        },
+        {
+          "text": "Ben Affleck",
+          "location": [
+            135,
+            146
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            432,
+            435
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            556,
+            559
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            1133,
+            1136
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1175,
+            1177
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            1757,
+            1760
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            2164,
+            2167
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            2199,
+            2201
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.545143,
+        "joy": 0.541661,
+        "fear": 0.053999,
+        "disgust": 0.1235,
+        "anger": 0.117035
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Ben Affleck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Jen",
+      "sentiment": {
+        "score": -0.306106,
+        "label": "negative"
+      },
+      "relevance": 0.478863,
+      "mentions": [
+        {
+          "text": "Jen",
+          "location": [
+            440,
+            443
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1765,
+            1768
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1995,
+            1998
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            2050,
+            2053
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            2217,
+            2220
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.07558,
+        "joy": 0.631614,
+        "fear": 0.128539,
+        "disgust": 0.197117,
+        "anger": 0.024175
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Garner",
+      "sentiment": {
+        "score": -0.502077,
+        "label": "negative"
+      },
+      "relevance": 0.370051,
+      "mentions": [
+        {
+          "text": "Jennifer Garner",
+          "location": [
+            23,
+            38
+          ]
+        },
+        {
+          "text": "Jennifer Garner",
+          "location": [
+            151,
+            166
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.509821,
+        "joy": 0.208698,
+        "fear": 0.026105,
+        "disgust": 0.196085,
+        "anger": 0.180875
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Jennifer Garner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Garner"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Baker",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.350959,
+      "mentions": [
+        {
+          "text": "Baker",
+          "location": [
+            409,
+            414
+          ]
+        },
+        {
+          "text": "Baker",
+          "location": [
+            677,
+            682
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Bahamas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.299077,
+      "mentions": [
+        {
+          "text": "Bahamas",
+          "location": [
+            64,
+            71
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.190865,
+        "joy": 0.408474,
+        "fear": 0.021009,
+        "disgust": 0.054074,
+        "anger": 0.061062
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "BoardMember",
+          "Country"
+        ],
+        "name": "The Bahamas",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Bahamas"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Garner",
+      "relevance": 0.975147,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Garner"
+    },
+    {
+      "text": "Ben Affleck",
+      "relevance": 0.911748,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+    },
+    {
+      "text": "Daredevil",
+      "relevance": 0.78885,
+      "dbpedia_resource": "http://dbpedia.org/resource/Daredevil_(film)"
+    },
+    {
+      "text": "Pearl Harbor",
+      "relevance": 0.772875,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pearl_Harbor_(film)"
+    },
+    {
+      "text": "MTV Movie Award for Best Kiss",
+      "relevance": 0.703714,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Movie_Award_for_Best_Kiss"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.942637,
+      "label": "/travel/traveling with kids"
+    }
+  ]
+}

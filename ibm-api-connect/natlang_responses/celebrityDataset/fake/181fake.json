@@ -1,0 +1,411 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1301,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.695106,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "49-year-old star",
+      "sentiment": {
+        "score": -0.636049,
+        "label": "negative"
+      },
+      "relevance": 0.797543,
+      "emotion": {
+        "sadness": 0.06007,
+        "joy": 0.767388,
+        "fear": 0.005534,
+        "disgust": 0.046944,
+        "anger": 0.156827
+      },
+      "count": 1
+    },
+    {
+      "text": "Katie Holmes' daughter Suri",
+      "sentiment": {
+        "score": -0.636049,
+        "label": "negative"
+      },
+      "relevance": 0.681271,
+      "emotion": {
+        "sadness": 0.06007,
+        "joy": 0.767388,
+        "fear": 0.005534,
+        "disgust": 0.046944,
+        "anger": 0.156827
+      },
+      "count": 1
+    },
+    {
+      "text": "great teacher",
+      "sentiment": {
+        "score": 0.841943,
+        "label": "positive"
+      },
+      "relevance": 0.650673,
+      "emotion": {
+        "sadness": 0.06007,
+        "joy": 0.767388,
+        "fear": 0.005534,
+        "disgust": 0.046944,
+        "anger": 0.156827
+      },
+      "count": 1
+    },
+    {
+      "text": "11-year-old Suri",
+      "sentiment": {
+        "score": 0.841943,
+        "label": "positive"
+      },
+      "relevance": 0.628633,
+      "emotion": {
+        "sadness": 0.06007,
+        "joy": 0.767388,
+        "fear": 0.005534,
+        "disgust": 0.046944,
+        "anger": 0.156827
+      },
+      "count": 1
+    },
+    {
+      "text": "musical talents",
+      "sentiment": {
+        "score": 0.54448,
+        "label": "positive"
+      },
+      "relevance": 0.608218,
+      "emotion": {
+        "sadness": 0.188036,
+        "joy": 0.702567,
+        "fear": 0.008249,
+        "disgust": 0.025033,
+        "anger": 0.104451
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jamie Foxx",
+      "sentiment": {
+        "score": 0.485588,
+        "label": "positive"
+      },
+      "relevance": 0.685044,
+      "mentions": [
+        {
+          "text": "Jamie Foxx",
+          "location": [
+            14,
+            24
+          ]
+        },
+        {
+          "text": "Jamie Foxx",
+          "location": [
+            25,
+            35
+          ]
+        },
+        {
+          "text": "Foxx",
+          "location": [
+            271,
+            275
+          ]
+        },
+        {
+          "text": "Foxx",
+          "location": [
+            679,
+            683
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            795,
+            797
+          ]
+        },
+        {
+          "text": "just five years",
+          "location": [
+            802,
+            817
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            838,
+            840
+          ]
+        },
+        {
+          "text": "a teenager",
+          "location": [
+            845,
+            855
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            856,
+            858
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.54173,
+        "joy": 0.674007,
+        "fear": 0.065598,
+        "disgust": 0.07737,
+        "anger": 0.088176
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmMusicContributor",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Jamie Foxx",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0.082014,
+        "label": "positive"
+      },
+      "relevance": 0.484451,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            59,
+            71
+          ]
+        },
+        {
+          "text": "Katie",
+          "location": [
+            155,
+            160
+          ]
+        },
+        {
+          "text": "Katie",
+          "location": [
+            312,
+            317
+          ]
+        },
+        {
+          "text": "Katie",
+          "location": [
+            652,
+            657
+          ]
+        },
+        {
+          "text": "happier.",
+          "location": [
+            670,
+            678
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.169951,
+        "joy": 0.557221,
+        "fear": 0.039304,
+        "disgust": 0.190348,
+        "anger": 0.093139
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Suri",
+      "sentiment": {
+        "score": 0.246462,
+        "label": "positive"
+      },
+      "relevance": 0.400467,
+      "mentions": [
+        {
+          "text": "Suri",
+          "location": [
+            82,
+            86
+          ]
+        },
+        {
+          "text": "Suri",
+          "location": [
+            305,
+            309
+          ]
+        },
+        {
+          "text": "Suri",
+          "location": [
+            619,
+            623
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            625,
+            628
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.617289,
+        "joy": 0.607848,
+        "fear": 0.078066,
+        "disgust": 0.153877,
+        "anger": 0.081693
+      },
+      "count": 4
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Star magazine",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.282726,
+      "mentions": [
+        {
+          "text": "Star magazine",
+          "location": [
+            478,
+            491
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "Star (magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Star_(magazine)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ray Charles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.270649,
+      "mentions": [
+        {
+          "text": "eight-year",
+          "location": [
+            739,
+            749
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.328236,
+        "joy": 0.106393,
+        "fear": 0.036965,
+        "disgust": 0.069296,
+        "anger": 0.330841
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Ray Charles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ray_Charles"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jamie Foxx",
+      "relevance": 0.951523,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+    },
+    {
+      "text": "Academy Award for Best Actor",
+      "relevance": 0.756922,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor"
+    },
+    {
+      "text": "Ray",
+      "relevance": 0.687194,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ray_(film)"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.631617,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Academy Award for Best Supporting Actor",
+      "relevance": 0.595645,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.611261,
+      "label": "/family and parenting/parenting teens"
+    }
+  ]
+}

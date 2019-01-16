@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1388,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ray Davies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.669993,
+      "emotion": {
+        "sadness": 0.19417,
+        "joy": 0.669624,
+        "fear": 0.001621,
+        "disgust": 0.048601,
+        "anger": 0.111958
+      },
+      "count": 1
+    },
+    {
+      "text": "fashion world",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.667453,
+      "emotion": {
+        "sadness": 0.042849,
+        "joy": 0.529984,
+        "fear": 0.013224,
+        "disgust": 0.207324,
+        "anger": 0.124601
+      },
+      "count": 1
+    },
+    {
+      "text": "Honours List",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636482,
+      "emotion": {
+        "sadness": 0.122845,
+        "joy": 0.756563,
+        "fear": 0.048819,
+        "disgust": 0.027722,
+        "anger": 0.055346
+      },
+      "count": 1
+    },
+    {
+      "text": "Heptathlete Jessica Ennis-Hill",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.609013,
+      "emotion": {
+        "sadness": 0.042849,
+        "joy": 0.529984,
+        "fear": 0.013224,
+        "disgust": 0.207324,
+        "anger": 0.124601
+      },
+      "count": 1
+    },
+    {
+      "text": "Accessories designer Anya Hindmarch",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.60326,
+      "emotion": {
+        "sadness": 0.045933,
+        "joy": 0.542353,
+        "fear": 0.006468,
+        "disgust": 0.155278,
+        "anger": 0.028674
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.895586,
+      "mentions": [
+        {
+          "text": "Anna Wintour",
+          "location": [
+            21,
+            33
+          ]
+        },
+        {
+          "text": "Anna Wintour",
+          "location": [
+            612,
+            624
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076952,
+        "joy": 0.728991,
+        "fear": 0.004215,
+        "disgust": 0.043127,
+        "anger": 0.161221
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist"
+        ],
+        "name": "Anna Wintour",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Victoria Beckham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.808771,
+      "mentions": [
+        {
+          "text": "Victoria Beckham",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Victoria Beckham",
+          "location": [
+            541,
+            557
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152791,
+        "joy": 0.718106,
+        "fear": 0.009751,
+        "disgust": 0.005421,
+        "anger": 0.053221
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Victoria Beckham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Victoria_Beckham"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Andy Murray",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.626078,
+      "mentions": [
+        {
+          "text": "Andy Murray",
+          "location": [
+            103,
+            114
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            193,
+            196
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13753,
+        "joy": 0.760352,
+        "fear": 0.05168,
+        "disgust": 0.02174,
+        "anger": 0.04573
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Andy Murray",
+        "dbpedia_resource": "http://dbpedia.org/resource/Andy_Murray"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ray Davies",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.57628,
+      "mentions": [
+        {
+          "text": "Ray Davies",
+          "location": [
+            1005,
+            1015
+          ]
+        },
+        {
+          "text": "a Sir",
+          "location": [
+            1051,
+            1056
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.192372,
+        "joy": 0.352862,
+        "fear": 0.056831,
+        "disgust": 0.085901,
+        "anger": 0.106729
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "ChivalricOrderMember",
+          "FilmDirector",
+          "Guitarist",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "FilmActor"
+        ],
+        "name": "Ray Davies",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ray_Davies"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Order of the British Empire",
+      "relevance": 0.955628,
+      "dbpedia_resource": "http://dbpedia.org/resource/Order_of_the_British_Empire"
+    },
+    {
+      "text": "Orders, decorations, and medals of the United Kingdom",
+      "relevance": 0.741934,
+      "dbpedia_resource": "http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_the_United_Kingdom"
+    },
+    {
+      "text": "Keeping Up Appearances",
+      "relevance": 0.731472,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_Appearances"
+    },
+    {
+      "text": "Post-nominal letters",
+      "relevance": 0.663829,
+      "dbpedia_resource": "http://dbpedia.org/resource/Post-nominal_letters"
+    },
+    {
+      "text": "Order of the Garter",
+      "relevance": 0.648869,
+      "dbpedia_resource": "http://dbpedia.org/resource/Order_of_the_Garter"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.843643,
+      "label": "/style and fashion/men 's fashion"
+    }
+  ]
+}

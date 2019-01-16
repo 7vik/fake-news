@@ -1,0 +1,240 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 700,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.566377,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Impossible Foods",
+      "sentiment": {
+        "score": -0.332351,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.761972,
+      "emotion": {
+        "sadness": 0.348699,
+        "joy": 0.474434,
+        "fear": 0.083165,
+        "disgust": 0.110392,
+        "anger": 0.060791
+      },
+      "count": 2
+    },
+    {
+      "text": "birthplace of a whole new industry",
+      "sentiment": {
+        "score": 0.294493,
+        "label": "positive"
+      },
+      "relevance": 0.755429,
+      "emotion": {
+        "sadness": 0.296041,
+        "joy": 0.5492,
+        "fear": 0.080784,
+        "disgust": 0.057516,
+        "anger": 0.069209
+      },
+      "count": 1
+    },
+    {
+      "text": "former Stanford biochemistry professor",
+      "sentiment": {
+        "score": 0.294493,
+        "label": "positive"
+      },
+      "relevance": 0.651417,
+      "emotion": {
+        "sadness": 0.296041,
+        "joy": 0.5492,
+        "fear": 0.080784,
+        "disgust": 0.057516,
+        "anger": 0.069209
+      },
+      "count": 1
+    },
+    {
+      "text": "US restaurants",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.631874,
+      "emotion": {
+        "sadness": 0.612162,
+        "joy": 0.263973,
+        "fear": 0.129587,
+        "disgust": 0.028514,
+        "anger": 0.034032
+      },
+      "count": 1
+    },
+    {
+      "text": "Pat Brown",
+      "sentiment": {
+        "score": 0.294493,
+        "label": "positive"
+      },
+      "relevance": 0.6137,
+      "emotion": {
+        "sadness": 0.296041,
+        "joy": 0.5492,
+        "fear": 0.080784,
+        "disgust": 0.057516,
+        "anger": 0.069209
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Impossible Foods",
+      "sentiment": {
+        "score": -0.443761,
+        "label": "negative"
+      },
+      "relevance": 0.814912,
+      "mentions": [
+        {
+          "text": "Impossible Foods",
+          "location": [
+            107,
+            123
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            198,
+            200
+          ]
+        },
+        {
+          "text": "Impossible Foods",
+          "location": [
+            656,
+            672
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.543897,
+        "joy": 0.213752,
+        "fear": 0.163417,
+        "disgust": 0.147459,
+        "anger": 0.047341
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Pat Brown",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.236876,
+      "mentions": [
+        {
+          "text": "Pat Brown",
+          "location": [
+            590,
+            599
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.356468,
+        "joy": 0.373324,
+        "fear": 0.03602,
+        "disgust": 0.23748,
+        "anger": 0.084273
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.196119,
+      "mentions": [
+        {
+          "text": "CEO",
+          "location": [
+            695,
+            698
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.46098,
+        "joy": 0.298368,
+        "fear": 0.066341,
+        "disgust": 0.136467,
+        "anger": 0.057837
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "professor",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.177806,
+      "mentions": [
+        {
+          "text": "professor",
+          "location": [
+            634,
+            643
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.46098,
+        "joy": 0.298368,
+        "fear": 0.066341,
+        "disgust": 0.136467,
+        "anger": 0.057837
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Food",
+      "relevance": 0.942375,
+      "dbpedia_resource": "http://dbpedia.org/resource/Food"
+    },
+    {
+      "text": "Richard Nixon",
+      "relevance": 0.727159,
+      "dbpedia_resource": "http://dbpedia.org/resource/Richard_Nixon"
+    },
+    {
+      "text": "Million",
+      "relevance": 0.693461,
+      "dbpedia_resource": "http://dbpedia.org/resource/Million"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.989872,
+      "label": "/food and drink/food"
+    }
+  ]
+}

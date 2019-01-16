@@ -1,0 +1,369 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 854,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.466008,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0.466008,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.961386,
+      "emotion": {
+        "sadness": 0.236977,
+        "joy": 0.654849,
+        "fear": 0.017246,
+        "disgust": 0.038082,
+        "anger": 0.088645
+      },
+      "count": 4
+    },
+    {
+      "text": "Prince Wiliam's younger brother",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.740254,
+      "emotion": {
+        "sadness": 0.442737,
+        "joy": 0.432677,
+        "fear": 0.037248,
+        "disgust": 0.027733,
+        "anger": 0.07603
+      },
+      "count": 1
+    },
+    {
+      "text": "Cressida Bonas",
+      "sentiment": {
+        "score": -0.540012,
+        "label": "negative"
+      },
+      "relevance": 0.719669,
+      "emotion": {
+        "sadness": 0.544771,
+        "joy": 0.306518,
+        "fear": 0.062706,
+        "disgust": 0.03593,
+        "anger": 0.11513
+      },
+      "count": 1
+    },
+    {
+      "text": "long-term relationship",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.693872,
+      "emotion": {
+        "sadness": 0.442737,
+        "joy": 0.432677,
+        "fear": 0.037248,
+        "disgust": 0.027733,
+        "anger": 0.07603
+      },
+      "count": 1
+    },
+    {
+      "text": "Princess Diana",
+      "sentiment": {
+        "score": -0.540012,
+        "label": "negative"
+      },
+      "relevance": 0.664561,
+      "emotion": {
+        "sadness": 0.544771,
+        "joy": 0.306518,
+        "fear": 0.062706,
+        "disgust": 0.03593,
+        "anger": 0.11513
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0.420184,
+        "label": "positive"
+      },
+      "relevance": 0.881164,
+      "mentions": [
+        {
+          "text": "Prince Harry",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Prince Harry",
+          "location": [
+            49,
+            61
+          ]
+        },
+        {
+          "text": "Prince Harry",
+          "location": [
+            134,
+            146
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            253,
+            258
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            283,
+            285
+          ]
+        },
+        {
+          "text": "Prince Harry",
+          "location": [
+            436,
+            448
+          ]
+        },
+        {
+          "text": "His",
+          "location": [
+            452,
+            455
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            524,
+            529
+          ]
+        },
+        {
+          "text": "Prince Harry",
+          "location": [
+            762,
+            774
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.645607,
+        "joy": 0.229659,
+        "fear": 0.109407,
+        "disgust": 0.199419,
+        "anger": 0.696262
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince Harry of Wales",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_Harry_of_Wales"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Cressida Bonas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.308342,
+      "mentions": [
+        {
+          "text": "Cressida Bonas",
+          "location": [
+            552,
+            566
+          ]
+        },
+        {
+          "text": "Cressida",
+          "location": [
+            633,
+            641
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.300887,
+        "joy": 0.190634,
+        "fear": 0.027796,
+        "disgust": 0.088815,
+        "anger": 0.024744
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Prince Wiliam",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.295091,
+      "mentions": [
+        {
+          "text": "Prince Wiliam",
+          "location": [
+            643,
+            656
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.59054,
+        "label": "positive"
+      },
+      "relevance": 0.252447,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            30,
+            32
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            130,
+            132
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            789,
+            791
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251617,
+        "joy": 0.283096,
+        "fear": 0.141288,
+        "disgust": 0.173963,
+        "anger": 0.131326
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Life & Style",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.251462,
+      "mentions": [
+        {
+          "text": "Life & Style",
+          "location": [
+            208,
+            220
+          ]
+        },
+        {
+          "text": "Life & Style",
+          "location": [
+            821,
+            833
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.221992,
+        "joy": 0.310715,
+        "fear": 0.066777,
+        "disgust": 0.046087,
+        "anger": 0.21091
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "Life & Style (magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Life_&_Style_(magazine)"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Family",
+      "relevance": 0.957699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "Prince William of Wales",
+      "relevance": 0.769603,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_William_of_Wales"
+    },
+    {
+      "text": "Mother",
+      "relevance": 0.704881,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mother"
+    },
+    {
+      "text": "Prince Philip, Duke of Edinburgh",
+      "relevance": 0.673056,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh"
+    },
+    {
+      "text": "Chelsy Davy",
+      "relevance": 0.631619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chelsy_Davy"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.888197,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 790,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lacy joins Philadelphia Eagles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.972719,
+      "emotion": {
+        "sadness": 0.262203,
+        "joy": 0.513225,
+        "fear": 0.081453,
+        "disgust": 0.02262,
+        "anger": 0.093057
+      },
+      "count": 1
+    },
+    {
+      "text": "one-year deal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.908988,
+      "emotion": {
+        "sadness": 0.262203,
+        "joy": 0.513225,
+        "fear": 0.081453,
+        "disgust": 0.02262,
+        "anger": 0.093057
+      },
+      "count": 1
+    },
+    {
+      "text": "Eddie Lacy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78533,
+      "emotion": {
+        "sadness": 0.372449,
+        "joy": 0.459026,
+        "fear": 0.061107,
+        "disgust": 0.028306,
+        "anger": 0.073052
+      },
+      "count": 1
+    },
+    {
+      "text": "Philadelphia Eagles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.762373,
+      "emotion": {
+        "sadness": 0.372449,
+        "joy": 0.459026,
+        "fear": 0.061107,
+        "disgust": 0.028306,
+        "anger": 0.073052
+      },
+      "count": 1
+    },
+    {
+      "text": "year deal",
+      "sentiment": {
+        "score": 0.672976,
+        "label": "positive"
+      },
+      "relevance": 0.759633,
+      "emotion": {
+        "sadness": 0.282955,
+        "joy": 0.564832,
+        "fear": 0.038919,
+        "disgust": 0.014851,
+        "anger": 0.095773
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Eddie Lacy",
+      "sentiment": {
+        "score": 0.855756,
+        "label": "positive"
+      },
+      "relevance": 0.884778,
+      "mentions": [
+        {
+          "text": "Eddie Lacy",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Eddie Lacy",
+          "location": [
+            55,
+            65
+          ]
+        },
+        {
+          "text": "Lacy",
+          "location": [
+            187,
+            191
+          ]
+        },
+        {
+          "text": "Lacy",
+          "location": [
+            311,
+            315
+          ]
+        },
+        {
+          "text": "Lacy",
+          "location": [
+            394,
+            398
+          ]
+        },
+        {
+          "text": "Lacy",
+          "location": [
+            625,
+            629
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            655,
+            657
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.458193,
+        "joy": 0.575827,
+        "fear": 0.116931,
+        "disgust": 0.051761,
+        "anger": 0.090665
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Eddie Lacy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Eddie_Lacy"
+      },
+      "count": 7
+    },
+    {
+      "type": "Organization",
+      "text": "Philadelphia Eagles",
+      "sentiment": {
+        "score": -0.714268,
+        "label": "negative"
+      },
+      "relevance": 0.414179,
+      "mentions": [
+        {
+          "text": "Philadelphia Eagles",
+          "location": [
+            17,
+            36
+          ]
+        },
+        {
+          "text": "Philadelphia Eagles",
+          "location": [
+            96,
+            115
+          ]
+        },
+        {
+          "text": "Eagles",
+          "location": [
+            331,
+            337
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            537,
+            541
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.394521,
+        "joy": 0.431757,
+        "fear": 0.103991,
+        "disgust": 0.036028,
+        "anger": 0.098735
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "FootballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Philadelphia Eagles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philadelphia_Eagles"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Philadelphia",
+      "sentiment": {
+        "score": -0.664623,
+        "label": "negative"
+      },
+      "relevance": 0.161013,
+      "mentions": [
+        {
+          "text": "Philadelphia",
+          "location": [
+            453,
+            465
+          ]
+        },
+        {
+          "text": "Philadephia",
+          "location": [
+            768,
+            779
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "PlaceWithNeighborhoods",
+          "AirportOperator",
+          "City"
+        ],
+        "name": "Philadelphia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philadelphia"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Seattle Seahawks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.14866,
+      "mentions": [
+        {
+          "text": "Seattle Seahawks",
+          "location": [
+            238,
+            254
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128036,
+        "joy": 0.100537,
+        "fear": 0.234176,
+        "disgust": 0.107343,
+        "anger": 0.044456
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "FootballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Seattle Seahawks",
+        "dbpedia_resource": "http://dbpedia.org/resource/Seattle_Seahawks"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "National Football League",
+      "relevance": 0.987575,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Football_League"
+    },
+    {
+      "text": "American football",
+      "relevance": 0.868618,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_football"
+    },
+    {
+      "text": "Philadelphia",
+      "relevance": 0.732814,
+      "dbpedia_resource": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+      "text": "Seattle Seahawks",
+      "relevance": 0.631261,
+      "dbpedia_resource": "http://dbpedia.org/resource/Seattle_Seahawks"
+    },
+    {
+      "text": "National Football Conference",
+      "relevance": 0.631111,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Football_Conference"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.914639,
+      "label": "/sports/football"
+    }
+  ]
+}

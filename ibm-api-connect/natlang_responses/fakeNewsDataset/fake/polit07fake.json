@@ -1,0 +1,309 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 516,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.815487,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "US Secret Service",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997667,
+      "emotion": {
+        "sadness": 0.346233,
+        "joy": 0.146269,
+        "fear": 0.270104,
+        "disgust": 0.28917,
+        "anger": 0.081191
+      },
+      "count": 1
+    },
+    {
+      "text": "south grounds of the US Treasury Building",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.956246,
+      "emotion": {
+        "sadness": 0.346233,
+        "joy": 0.146269,
+        "fear": 0.270104,
+        "disgust": 0.28917,
+        "anger": 0.081191
+      },
+      "count": 1
+    },
+    {
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": -0.924667,
+        "label": "negative"
+      },
+      "relevance": 0.654558,
+      "emotion": {
+        "sadness": 0.359085,
+        "joy": 0.060245,
+        "fear": 0.098523,
+        "disgust": 0.341182,
+        "anger": 0.472399
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington Metropolitan Police Department spokesman",
+      "sentiment": {
+        "score": -0.660445,
+        "label": "negative"
+      },
+      "relevance": 0.602892,
+      "emotion": {
+        "sadness": 0.176722,
+        "joy": 0.179316,
+        "fear": 0.110801,
+        "disgust": 0.22757,
+        "anger": 0.19732
+      },
+      "count": 1
+    },
+    {
+      "text": "CNN",
+      "sentiment": {
+        "score": -0.924667,
+        "label": "negative"
+      },
+      "relevance": 0.548452,
+      "emotion": {
+        "sadness": 0.277889,
+        "joy": 0.122899,
+        "fear": 0.132324,
+        "disgust": 0.240884,
+        "anger": 0.434726
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": -0.437969,
+        "label": "negative"
+      },
+      "relevance": 0.901473,
+      "mentions": [
+        {
+          "text": "three times",
+          "location": [
+            16,
+            27
+          ]
+        },
+        {
+          "text": "Melania Trump",
+          "location": [
+            31,
+            44
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            80,
+            85
+          ]
+        },
+        {
+          "text": "Melania",
+          "location": [
+            442,
+            449
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            474,
+            477
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224225,
+        "joy": 0.119988,
+        "fear": 0.05859,
+        "disgust": 0.408712,
+        "anger": 0.472367
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Model"
+        ],
+        "name": "Melania Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "US Treasury Building",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.343739,
+      "mentions": [
+        {
+          "text": "US Treasury Building",
+          "location": [
+            227,
+            247
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217086,
+        "joy": 0.369574,
+        "fear": 0.027869,
+        "disgust": 0.057598,
+        "anger": 0.024097
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Washington Metropolitan Police Department",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.290346,
+      "emotion": {
+        "sadness": 0.22213,
+        "joy": 0.373787,
+        "fear": 0.032121,
+        "disgust": 0.153193,
+        "anger": 0.069019
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.282462,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            179,
+            181
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.245054,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            46,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Department of the Treasury",
+      "relevance": 0.98453,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_the_Treasury"
+    },
+    {
+      "text": "United States Secret Service",
+      "relevance": 0.688013,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Secret_Service"
+    },
+    {
+      "text": "Melania Trump",
+      "relevance": 0.633213,
+      "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.587163,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.563438,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.732538,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

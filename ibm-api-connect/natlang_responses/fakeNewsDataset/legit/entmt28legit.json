@@ -1,0 +1,292 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1263,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.414848,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Walt Disney Studios",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.738658,
+      "emotion": {
+        "sadness": 0.207993,
+        "joy": 0.425791,
+        "fear": 0.128443,
+        "disgust": 0.130499,
+        "anger": 0.154003
+      },
+      "count": 1
+    },
+    {
+      "text": "swashbuckling film",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.70149,
+      "emotion": {
+        "sadness": 0.130868,
+        "joy": 0.508435,
+        "fear": 0.108158,
+        "disgust": 0.073675,
+        "anger": 0.104266
+      },
+      "count": 1
+    },
+    {
+      "text": "fifth installment",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.673138,
+      "emotion": {
+        "sadness": 0.207993,
+        "joy": 0.425791,
+        "fear": 0.128443,
+        "disgust": 0.130499,
+        "anger": 0.154003
+      },
+      "count": 1
+    },
+    {
+      "text": "Captain Jack Sparrow",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.672521,
+      "emotion": {
+        "sadness": 0.130868,
+        "joy": 0.508435,
+        "fear": 0.108158,
+        "disgust": 0.073675,
+        "anger": 0.104266
+      },
+      "count": 1
+    },
+    {
+      "text": "First reactions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.671507,
+      "emotion": {
+        "sadness": 0.173149,
+        "joy": 0.441931,
+        "fear": 0.057355,
+        "disgust": 0.216764,
+        "anger": 0.113847
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Captain Jack Sparrow",
+      "sentiment": {
+        "score": 0.239048,
+        "label": "positive"
+      },
+      "relevance": 0.809411,
+      "mentions": [
+        {
+          "text": "Captain Jack Sparrow",
+          "location": [
+            519,
+            539
+          ]
+        },
+        {
+          "text": "Sparrow",
+          "location": [
+            805,
+            812
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.08862,
+        "joy": 0.684698,
+        "fear": 0.059024,
+        "disgust": 0.049537,
+        "anger": 0.083754
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Walt Disney Studios",
+      "sentiment": {
+        "score": 0.467351,
+        "label": "positive"
+      },
+      "relevance": 0.669728,
+      "mentions": [
+        {
+          "text": "Walt Disney Studios",
+          "location": [
+            65,
+            84
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114832,
+        "joy": 0.358928,
+        "fear": 0.101232,
+        "disgust": 0.041128,
+        "anger": 0.066031
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Javier Bardem",
+      "sentiment": {
+        "score": 0.493082,
+        "label": "positive"
+      },
+      "relevance": 0.662377,
+      "mentions": [
+        {
+          "text": "Javier Bardem",
+          "location": [
+            650,
+            663
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.197508,
+        "joy": 0.270486,
+        "fear": 0.056148,
+        "disgust": 0.096918,
+        "anger": 0.317603
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Javier Bardem",
+        "dbpedia_resource": "http://dbpedia.org/resource/Javier_Bardem"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Caribbean",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.613044,
+      "mentions": [
+        {
+          "text": "Caribbean",
+          "location": [
+            141,
+            150
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172509,
+        "joy": 0.341368,
+        "fear": 0.11443,
+        "disgust": 0.126545,
+        "anger": 0.075011
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ],
+        "name": "Caribbean",
+        "dbpedia_resource": "http://dbpedia.org/resource/Caribbean"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brenton Thwaites",
+      "sentiment": {
+        "score": 0.941325,
+        "label": "positive"
+      },
+      "relevance": 0.610785,
+      "mentions": [
+        {
+          "text": "Brenton Thwaites",
+          "location": [
+            612,
+            628
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130868,
+        "joy": 0.508435,
+        "fear": 0.108158,
+        "disgust": 0.073675,
+        "anger": 0.104266
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Brenton Thwaites",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brenton_Thwaites"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pirates of the Caribbean: At World's End",
+      "relevance": 0.989496,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_At_World's_End"
+    },
+    {
+      "text": "Pirates of the Caribbean: Dead Man's Chest",
+      "relevance": 0.897706,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Man's_Chest"
+    },
+    {
+      "text": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "relevance": 0.87839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl"
+    },
+    {
+      "text": "Johnny Depp",
+      "relevance": 0.757027,
+      "dbpedia_resource": "http://dbpedia.org/resource/Johnny_Depp"
+    },
+    {
+      "text": "Pirates of the Caribbean",
+      "relevance": 0.737448,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.663841,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

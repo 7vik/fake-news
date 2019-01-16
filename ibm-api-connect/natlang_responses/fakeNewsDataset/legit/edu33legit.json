@@ -1,0 +1,299 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 678,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.601797,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "rural school districts",
+      "sentiment": {
+        "score": -0.313422,
+        "label": "negative"
+      },
+      "relevance": 0.807988,
+      "emotion": {
+        "sadness": 0.378394,
+        "joy": 0.231408,
+        "fear": 0.229702,
+        "disgust": 0.055011,
+        "anger": 0.052662
+      },
+      "count": 1
+    },
+    {
+      "text": "learning environment",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.777528,
+      "emotion": {
+        "sadness": 0.130205,
+        "joy": 0.521595,
+        "fear": 0.154984,
+        "disgust": 0.111136,
+        "anger": 0.047643
+      },
+      "count": 1
+    },
+    {
+      "text": "rural areas",
+      "sentiment": {
+        "score": 0.891002,
+        "label": "positive"
+      },
+      "relevance": 0.714302,
+      "emotion": {
+        "sadness": 0.386296,
+        "joy": 0.205103,
+        "fear": 0.138004,
+        "disgust": 0.076999,
+        "anger": 0.054513
+      },
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "sentiment": {
+        "score": -0.313422,
+        "label": "negative"
+      },
+      "relevance": 0.689206,
+      "emotion": {
+        "sadness": 0.378394,
+        "joy": 0.231408,
+        "fear": 0.229702,
+        "disgust": 0.055011,
+        "anger": 0.052662
+      },
+      "count": 1
+    },
+    {
+      "text": "Mountain West region of the country",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.688476,
+      "emotion": {
+        "sadness": 0.130205,
+        "joy": 0.521595,
+        "fear": 0.154984,
+        "disgust": 0.111136,
+        "anger": 0.047643
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.793154,
+      "mentions": [
+        {
+          "text": "United States",
+          "location": [
+            231,
+            244
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.487468,
+        "joy": 0.138295,
+        "fear": 0.323634,
+        "disgust": 0.065493,
+        "anger": 0.064369
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Mountain West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.722988,
+      "mentions": [
+        {
+          "text": "Mountain West",
+          "location": [
+            490,
+            503
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.129043,
+        "joy": 0.344468,
+        "fear": 0.071755,
+        "disgust": 0.081595,
+        "anger": 0.024728
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Montana",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.680755,
+      "mentions": [
+        {
+          "text": "Montana",
+          "location": [
+            614,
+            621
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.38093,
+        "joy": 0.212007,
+        "fear": 0.359717,
+        "disgust": 0.141103,
+        "anger": 0.105714
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Montana",
+        "dbpedia_resource": "http://dbpedia.org/resource/Montana"
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Atlantic",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.675053,
+      "mentions": [
+        {
+          "text": "Atlantic",
+          "location": [
+            668,
+            676
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.013094,
+        "joy": 0.362537,
+        "fear": 0.054865,
+        "disgust": 0.036262,
+        "anger": 0.056172
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Atlantic Ocean",
+        "dbpedia_resource": "http://dbpedia.org/resource/Atlantic_Ocean"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Colorado",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.629571,
+      "mentions": [
+        {
+          "text": "Colorado",
+          "location": [
+            548,
+            556
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153999,
+        "joy": 0.193167,
+        "fear": 0.078455,
+        "disgust": 0.076063,
+        "anger": 0.098651
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Colorado",
+        "dbpedia_resource": "http://dbpedia.org/resource/Colorado"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.980117,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.797074,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.78655,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "U.S. state",
+      "relevance": 0.748399,
+      "dbpedia_resource": "http://dbpedia.org/resource/U.S._state"
+    },
+    {
+      "text": "Atlantic Ocean",
+      "relevance": 0.667108,
+      "dbpedia_resource": "http://dbpedia.org/resource/Atlantic_Ocean"
+    }
+  ],
+  "categories": [
+    {
+      "score": 1.0,
+      "label": "/education/special education"
+    }
+  ]
+}

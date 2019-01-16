@@ -1,0 +1,131 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.695429,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "MONTH-LONG SUMMER VACATION",
+      "sentiment": {
+        "score": 0.695429,
+        "label": "positive"
+      },
+      "relevance": 0.864301,
+      "emotion": {
+        "sadness": 0.186277,
+        "joy": 0.582943,
+        "fear": 0.051919,
+        "disgust": 0.075443,
+        "anger": 0.136972
+      },
+      "count": 1
+    },
+    {
+      "text": "WILLIAM",
+      "sentiment": {
+        "score": 0.695429,
+        "label": "positive"
+      },
+      "relevance": 0.724567,
+      "emotion": {
+        "sadness": 0.186277,
+        "joy": 0.582943,
+        "fear": 0.051919,
+        "disgust": 0.075443,
+        "anger": 0.136972
+      },
+      "count": 1
+    },
+    {
+      "text": "KATE",
+      "sentiment": {
+        "score": 0.695429,
+        "label": "positive"
+      },
+      "relevance": 0.676053,
+      "emotion": {
+        "sadness": 0.186277,
+        "joy": 0.582943,
+        "fear": 0.051919,
+        "disgust": 0.075443,
+        "anger": 0.136972
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "WILLIAM",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "WILLIAM",
+          "location": [
+            17,
+            24
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "KATE",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "KATE",
+          "location": [
+            26,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Summer",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Summer"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.644132,
+      "label": "/travel/traveling with kids"
+    }
+  ]
+}

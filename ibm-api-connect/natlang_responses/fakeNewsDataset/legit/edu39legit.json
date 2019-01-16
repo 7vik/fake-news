@@ -1,0 +1,268 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 892,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.451756,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "College graduates",
+      "sentiment": {
+        "score": -0.705544,
+        "label": "negative"
+      },
+      "relevance": 0.729981,
+      "emotion": {
+        "sadness": 0.528861,
+        "joy": 0.226067,
+        "fear": 0.26807,
+        "disgust": 0.042325,
+        "anger": 0.049614
+      },
+      "count": 1
+    },
+    {
+      "text": "Roundtable survey",
+      "sentiment": {
+        "score": -0.705544,
+        "label": "negative"
+      },
+      "relevance": 0.703166,
+      "emotion": {
+        "sadness": 0.528861,
+        "joy": 0.226067,
+        "fear": 0.26807,
+        "disgust": 0.042325,
+        "anger": 0.049614
+      },
+      "count": 1
+    },
+    {
+      "text": "STEM fields",
+      "sentiment": {
+        "score": -0.705544,
+        "label": "negative"
+      },
+      "relevance": 0.688758,
+      "emotion": {
+        "sadness": 0.528861,
+        "joy": 0.226067,
+        "fear": 0.26807,
+        "disgust": 0.042325,
+        "anger": 0.049614
+      },
+      "count": 1
+    },
+    {
+      "text": "national survey",
+      "sentiment": {
+        "score": -0.705544,
+        "label": "negative"
+      },
+      "relevance": 0.68503,
+      "emotion": {
+        "sadness": 0.528861,
+        "joy": 0.226067,
+        "fear": 0.26807,
+        "disgust": 0.042325,
+        "anger": 0.049614
+      },
+      "count": 1
+    },
+    {
+      "text": "Northeastern University",
+      "sentiment": {
+        "score": -0.705544,
+        "label": "negative"
+      },
+      "relevance": 0.674384,
+      "emotion": {
+        "sadness": 0.528861,
+        "joy": 0.226067,
+        "fear": 0.26807,
+        "disgust": 0.042325,
+        "anger": 0.049614
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "U.S. Chamber of Commerce",
+      "sentiment": {
+        "score": -0.406055,
+        "label": "negative"
+      },
+      "relevance": 0.689902,
+      "mentions": [
+        {
+          "text": "U.S. Chamber of Commerce",
+          "location": [
+            208,
+            232
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.161592,
+        "joy": 0.109273,
+        "fear": 0.126168,
+        "disgust": 0.08786,
+        "anger": 0.057289
+      },
+      "disambiguation": {
+        "subtype": [
+          "Non-ProfitOrganisation"
+        ],
+        "name": "United States Chamber of Commerce",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Chamber_of_Commerce"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.619452,
+        "label": "negative"
+      },
+      "relevance": 0.629717,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            39,
+            43
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            110,
+            114
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.07227,
+        "joy": 0.664802,
+        "fear": 0.099816,
+        "disgust": 0.027095,
+        "anger": 0.138726
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Labor Department",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.598444,
+      "mentions": [
+        {
+          "text": "Labor Department",
+          "location": [
+            74,
+            90
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.033706,
+        "joy": 0.798762,
+        "fear": 0.021075,
+        "disgust": 0.024947,
+        "anger": 0.102637
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Northeastern University",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.574526,
+      "mentions": [
+        {
+          "text": "Northeastern University",
+          "location": [
+            666,
+            689
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.481584,
+        "joy": 0.241302,
+        "fear": 0.219334,
+        "disgust": 0.048111,
+        "anger": 0.056196
+      },
+      "disambiguation": {
+        "subtype": [
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Northeastern University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Northeastern_University"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.927219,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Economy of the United States",
+      "relevance": 0.886211,
+      "dbpedia_resource": "http://dbpedia.org/resource/Economy_of_the_United_States"
+    },
+    {
+      "text": "Employment",
+      "relevance": 0.871082,
+      "dbpedia_resource": "http://dbpedia.org/resource/Employment"
+    },
+    {
+      "text": "Job",
+      "relevance": 0.736025,
+      "dbpedia_resource": "http://dbpedia.org/resource/Job_(role)"
+    },
+    {
+      "text": "Robotics",
+      "relevance": 0.733403,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robotics"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.900655,
+      "label": "/society/work"
+    }
+  ]
+}

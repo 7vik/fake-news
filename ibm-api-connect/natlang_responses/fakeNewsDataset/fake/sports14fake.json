@@ -1,0 +1,211 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 501,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.439982,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "much debate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.869577,
+      "emotion": {
+        "sadness": 0.233496,
+        "joy": 0.174123,
+        "fear": 0.279167,
+        "disgust": 0.161838,
+        "anger": 0.338342
+      },
+      "count": 1
+    },
+    {
+      "text": "Birmingham Crown Court",
+      "sentiment": {
+        "score": 0.420772,
+        "label": "positive"
+      },
+      "relevance": 0.807584,
+      "emotion": {
+        "sadness": 0.202707,
+        "joy": 0.628885,
+        "fear": 0.115402,
+        "disgust": 0.033332,
+        "anger": 0.050041
+      },
+      "count": 1
+    },
+    {
+      "text": "little spoon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.750469,
+      "emotion": {
+        "sadness": 0.233496,
+        "joy": 0.174123,
+        "fear": 0.279167,
+        "disgust": 0.161838,
+        "anger": 0.338342
+      },
+      "count": 1
+    },
+    {
+      "text": "Lauren Jeska id",
+      "sentiment": {
+        "score": 0.4565,
+        "label": "positive"
+      },
+      "relevance": 0.733849,
+      "emotion": {
+        "sadness": 0.145761,
+        "joy": 0.22766,
+        "fear": 0.065222,
+        "disgust": 0.176038,
+        "anger": 0.104251
+      },
+      "count": 1
+    },
+    {
+      "text": "person",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.554434,
+      "emotion": {
+        "sadness": 0.233496,
+        "joy": 0.174123,
+        "fear": 0.279167,
+        "disgust": 0.161838,
+        "anger": 0.338342
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lauren Jeska",
+      "sentiment": {
+        "score": 0.081941,
+        "label": "positive"
+      },
+      "relevance": 0.89322,
+      "mentions": [
+        {
+          "text": "Lauren Jeska",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Jeska",
+          "location": [
+            254,
+            259
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.230289,
+        "joy": 0.297605,
+        "fear": 0.151901,
+        "disgust": 0.149718,
+        "anger": 0.088738
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ralph Knibbs",
+      "sentiment": {
+        "score": 0.487363,
+        "label": "positive"
+      },
+      "relevance": 0.8708,
+      "mentions": [
+        {
+          "text": "Ralph Knibbs",
+          "location": [
+            50,
+            62
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145761,
+        "joy": 0.22766,
+        "fear": 0.065222,
+        "disgust": 0.176038,
+        "anger": 0.104251
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Birmingham Crown Court",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.793337,
+      "mentions": [
+        {
+          "text": "Birmingham Crown Court",
+          "location": [
+            350,
+            372
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213713,
+        "joy": 0.428507,
+        "fear": 0.185173,
+        "disgust": 0.030606,
+        "anger": 0.104741
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ralph Lauren",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ralph_Lauren"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.833928,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "1999 albums",
+      "relevance": 0.831754,
+      "dbpedia_resource": "http://dbpedia.org/resource/1999_albums"
+    },
+    {
+      "text": "Judge",
+      "relevance": 0.82944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Judge"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.702092,
+      "label": "/society"
+    }
+  ]
+}

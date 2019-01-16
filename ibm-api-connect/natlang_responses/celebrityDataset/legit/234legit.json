@@ -1,0 +1,172 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kathy Griffin",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999306,
+      "emotion": {
+        "sadness": 0.41769,
+        "joy": 0.067107,
+        "fear": 0.294376,
+        "disgust": 0.188464,
+        "anger": 0.283385
+      },
+      "count": 1
+    },
+    {
+      "text": "career",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659489,
+      "emotion": {
+        "sadness": 0.41769,
+        "joy": 0.067107,
+        "fear": 0.294376,
+        "disgust": 0.188464,
+        "anger": 0.283385
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.61055,
+      "emotion": {
+        "sadness": 0.41769,
+        "joy": 0.067107,
+        "fear": 0.294376,
+        "disgust": 0.188464,
+        "anger": 0.283385
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kathy Griffin",
+      "sentiment": {
+        "score": -0.49522,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kathy Griffin",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            57,
+            59
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.41769,
+        "joy": 0.067107,
+        "fear": 0.294376,
+        "disgust": 0.188464,
+        "anger": 0.283385
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Comedian",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kathy Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Griffin"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.602782,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            44,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.506349,
+        "joy": 0.021186,
+        "fear": 0.378863,
+        "disgust": 0.152761,
+        "anger": 0.269489
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The View",
+      "relevance": 0.930267,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_View_(U.S._TV_series)"
+    },
+    {
+      "text": "Rosie O'Donnell",
+      "relevance": 0.88316,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+    },
+    {
+      "text": "Kathy Griffin: My Life on the D-List",
+      "relevance": 0.771108,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Griffin:_My_Life_on_the_D-List"
+    },
+    {
+      "text": "Suddenly Susan",
+      "relevance": 0.755877,
+      "dbpedia_resource": "http://dbpedia.org/resource/Suddenly_Susan"
+    },
+    {
+      "text": "Kathy Griffin",
+      "relevance": 0.6942,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Griffin"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.767998,
+      "label": "/careers/job fairs"
+    }
+  ]
+}

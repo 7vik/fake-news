@@ -1,0 +1,345 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 662,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.473856,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brian Cox",
+      "sentiment": {
+        "score": -0.66021,
+        "label": "negative"
+      },
+      "relevance": 0.789921,
+      "emotion": {
+        "sadness": 0.221027,
+        "joy": 0.230438,
+        "fear": 0.132941,
+        "disgust": 0.325762,
+        "anger": 0.155104
+      },
+      "count": 2
+    },
+    {
+      "text": "black hole",
+      "sentiment": {
+        "score": -0.66021,
+        "label": "negative"
+      },
+      "relevance": 0.759731,
+      "emotion": {
+        "sadness": 0.224643,
+        "joy": 0.182941,
+        "fear": 0.179213,
+        "disgust": 0.275447,
+        "anger": 0.153677
+      },
+      "count": 1
+    },
+    {
+      "text": "Professor Ryan Farrow",
+      "sentiment": {
+        "score": -0.36602,
+        "label": "negative"
+      },
+      "relevance": 0.733551,
+      "emotion": {
+        "sadness": 0.283633,
+        "joy": 0.470664,
+        "fear": 0.029475,
+        "disgust": 0.20462,
+        "anger": 0.019043
+      },
+      "count": 1
+    },
+    {
+      "text": "Postman Pat's home turf",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.695215,
+      "emotion": {
+        "sadness": 0.224643,
+        "joy": 0.182941,
+        "fear": 0.179213,
+        "disgust": 0.275447,
+        "anger": 0.153677
+      },
+      "count": 1
+    },
+    {
+      "text": "CBeebies cartoon show",
+      "sentiment": {
+        "score": -0.36602,
+        "label": "negative"
+      },
+      "relevance": 0.686385,
+      "emotion": {
+        "sadness": 0.283633,
+        "joy": 0.470664,
+        "fear": 0.029475,
+        "disgust": 0.20462,
+        "anger": 0.019043
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Postman Pat",
+      "sentiment": {
+        "score": 0.154435,
+        "label": "positive"
+      },
+      "relevance": 0.91605,
+      "mentions": [
+        {
+          "text": "Postman Pat",
+          "location": [
+            147,
+            158
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            209,
+            211
+          ]
+        },
+        {
+          "text": "Pat",
+          "location": [
+            391,
+            394
+          ]
+        },
+        {
+          "text": "Pat",
+          "location": [
+            444,
+            447
+          ]
+        },
+        {
+          "text": "Postman Pat",
+          "location": [
+            554,
+            565
+          ]
+        },
+        {
+          "text": "he'll",
+          "location": [
+            623,
+            628
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.247233,
+        "joy": 0.526102,
+        "fear": 0.036221,
+        "disgust": 0.194953,
+        "anger": 0.030177
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Postman Pat scientist",
+      "sentiment": {
+        "score": -0.481162,
+        "label": "negative"
+      },
+      "relevance": 0.437296,
+      "mentions": [
+        {
+          "text": "Postman Pat scientist",
+          "location": [
+            16,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.121077,
+        "joy": 0.659394,
+        "fear": 0.051647,
+        "disgust": 0.1574,
+        "anger": 0.039539
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brian Cox",
+      "sentiment": {
+        "score": -0.376293,
+        "label": "negative"
+      },
+      "relevance": 0.397189,
+      "mentions": [
+        {
+          "text": "Brian Cox",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Brian Cox",
+          "location": [
+            48,
+            57
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            136,
+            138
+          ]
+        },
+        {
+          "text": "Brian",
+          "location": [
+            530,
+            535
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142706,
+        "joy": 0.446857,
+        "fear": 0.079035,
+        "disgust": 0.279486,
+        "anger": 0.097239
+      },
+      "disambiguation": {
+        "subtype": [
+          "Academic",
+          "Scientist",
+          "TVActor"
+        ],
+        "name": "Brian Cox (physicist)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brian_Cox_(physicist)"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Greendale",
+      "sentiment": {
+        "score": 0.177962,
+        "label": "positive"
+      },
+      "relevance": 0.219595,
+      "mentions": [
+        {
+          "text": "Greendale",
+          "location": [
+            174,
+            183
+          ]
+        },
+        {
+          "text": "Greendale",
+          "location": [
+            300,
+            309
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.146014,
+        "joy": 0.36338,
+        "fear": 0.13499,
+        "disgust": 0.178492,
+        "anger": 0.062237
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "professor",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.211665,
+      "mentions": [
+        {
+          "text": "Professor",
+          "location": [
+            38,
+            47
+          ]
+        },
+        {
+          "text": "professor",
+          "location": [
+            344,
+            353
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.276148,
+        "joy": 0.182721,
+        "fear": 0.161827,
+        "disgust": 0.205058,
+        "anger": 0.155101
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Higgs boson",
+      "relevance": 0.975572,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higgs_boson"
+    },
+    {
+      "text": "Standard Model",
+      "relevance": 0.923364,
+      "dbpedia_resource": "http://dbpedia.org/resource/Standard_Model"
+    },
+    {
+      "text": "Particle physics",
+      "relevance": 0.92073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Particle_physics"
+    },
+    {
+      "text": "Boson",
+      "relevance": 0.89383,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boson"
+    },
+    {
+      "text": "W and Z bosons",
+      "relevance": 0.856931,
+      "dbpedia_resource": "http://dbpedia.org/resource/W_and_Z_bosons"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.632002,
+      "label": "/science/physics/electromagnetism"
+    }
+  ]
+}

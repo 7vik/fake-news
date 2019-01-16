@@ -1,0 +1,72 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.752765,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Allison Williams\u2019 top-secret wedding",
+      "sentiment": {
+        "score": 0.752765,
+        "label": "positive"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.119803,
+        "joy": 0.756003,
+        "fear": 0.096657,
+        "disgust": 0.003836,
+        "anger": 0.043112
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Allison Williams",
+      "sentiment": {
+        "score": 0.528621,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Allison Williams",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.18832,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Allison Williams (actress)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Allison_Williams_(actress)"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.830261,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Harry Styles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998059,
+      "emotion": {
+        "sadness": 0.117131,
+        "joy": 0.783867,
+        "fear": 0.039864,
+        "disgust": 0.026053,
+        "anger": 0.038634
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.117131,
+        "joy": 0.783867,
+        "fear": 0.039864,
+        "disgust": 0.026053,
+        "anger": 0.038634
+      },
+      "count": 1
+    },
+    {
+      "text": "songs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.660062,
+      "emotion": {
+        "sadness": 0.117131,
+        "joy": 0.783867,
+        "fear": 0.039864,
+        "disgust": 0.026053,
+        "anger": 0.038634
+      },
+      "count": 1
+    },
+    {
+      "text": "new album",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.132856,
+      "emotion": {
+        "sadness": 0.117131,
+        "joy": 0.783867,
+        "fear": 0.039864,
+        "disgust": 0.026053,
+        "anger": 0.038634
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Harry Styles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Harry Styles",
+          "location": [
+            4,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.122855,
+        "joy": 0.795194,
+        "fear": 0.034359,
+        "disgust": 0.021576,
+        "anger": 0.032391
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            37,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.122855,
+        "joy": 0.795194,
+        "fear": 0.034359,
+        "disgust": 0.021576,
+        "anger": 0.032391
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.74879,
+      "label": "/style and fashion"
+    }
+  ]
+}

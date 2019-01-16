@@ -1,0 +1,124 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.87884,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ariel Winter",
+      "sentiment": {
+        "score": 0.87884,
+        "label": "positive"
+      },
+      "relevance": 0.98886,
+      "emotion": {
+        "sadness": 0.172951,
+        "joy": 0.752921,
+        "fear": 0.007867,
+        "disgust": 0.037613,
+        "anger": 0.041068
+      },
+      "count": 1
+    },
+    {
+      "text": "One-Year Anniversary",
+      "sentiment": {
+        "score": 0.87884,
+        "label": "positive"
+      },
+      "relevance": 0.148744,
+      "emotion": {
+        "sadness": 0.172951,
+        "joy": 0.752921,
+        "fear": 0.007867,
+        "disgust": 0.037613,
+        "anger": 0.041068
+      },
+      "count": 1
+    },
+    {
+      "text": "Boyfriend Levi Meaden",
+      "sentiment": {
+        "score": 0.87884,
+        "label": "positive"
+      },
+      "relevance": 0.060567,
+      "emotion": {
+        "sadness": 0.172951,
+        "joy": 0.752921,
+        "fear": 0.007867,
+        "disgust": 0.037613,
+        "anger": 0.041068
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Boyfriend Levi Meaden",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Boyfriend Levi Meaden",
+          "location": [
+            50,
+            71
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172951,
+        "joy": 0.752921,
+        "fear": 0.007867,
+        "disgust": 0.037613,
+        "anger": 0.041068
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One-Year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "One-Year",
+          "location": [
+            24,
+            32
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ariel Winter",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ariel_Winter"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.598225,
+      "label": "/society/dating"
+    }
+  ]
+}

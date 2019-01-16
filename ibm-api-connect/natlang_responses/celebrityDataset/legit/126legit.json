@@ -1,0 +1,152 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 329,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.882029,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sleek one-length chin",
+      "sentiment": {
+        "score": 0.8493,
+        "label": "positive"
+      },
+      "relevance": 0.86938,
+      "emotion": {
+        "sadness": 0.19024,
+        "joy": 0.631255,
+        "fear": 0.077188,
+        "disgust": 0.027555,
+        "anger": 0.059108
+      },
+      "count": 1
+    },
+    {
+      "text": "Khloe Kardashian\u2019s Best Hair Moments",
+      "sentiment": {
+        "score": 0.931276,
+        "label": "positive"
+      },
+      "relevance": 0.765924,
+      "emotion": {
+        "sadness": 0.069338,
+        "joy": 0.806955,
+        "fear": 0.043939,
+        "disgust": 0.0295,
+        "anger": 0.031397
+      },
+      "count": 1
+    },
+    {
+      "text": "darker blond strands",
+      "sentiment": {
+        "score": 0.860333,
+        "label": "positive"
+      },
+      "relevance": 0.717007,
+      "emotion": {
+        "sadness": 0.154019,
+        "joy": 0.19062,
+        "fear": 0.469711,
+        "disgust": 0.297983,
+        "anger": 0.132513
+      },
+      "count": 1
+    },
+    {
+      "text": "oodles of shine",
+      "sentiment": {
+        "score": 0.8493,
+        "label": "positive"
+      },
+      "relevance": 0.711243,
+      "emotion": {
+        "sadness": 0.19024,
+        "joy": 0.631255,
+        "fear": 0.077188,
+        "disgust": 0.027555,
+        "anger": 0.059108
+      },
+      "count": 1
+    },
+    {
+      "text": "September",
+      "sentiment": {
+        "score": 0.8493,
+        "label": "positive"
+      },
+      "relevance": 0.552108,
+      "emotion": {
+        "sadness": 0.19024,
+        "joy": 0.631255,
+        "fear": 0.077188,
+        "disgust": 0.027555,
+        "anger": 0.059108
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Khloe Kardashian",
+      "sentiment": {
+        "score": -0.386323,
+        "label": "negative"
+      },
+      "relevance": 0.773415,
+      "mentions": [
+        {
+          "text": "Khloe Kardashian",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Khlo\u00e9 Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.919307,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Blond",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Blond"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.960626,
+      "label": "/style and fashion/beauty/hair care"
+    }
+  ]
+}

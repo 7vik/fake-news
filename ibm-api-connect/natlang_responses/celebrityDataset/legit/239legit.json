@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.915665,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mystery",
+      "sentiment": {
+        "score": 0.915665,
+        "label": "positive"
+      },
+      "relevance": 0.919812,
+      "emotion": {
+        "sadness": 0.042551,
+        "joy": 0.681002,
+        "fear": 0.017651,
+        "disgust": 0.015693,
+        "anger": 0.140365
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall",
+      "sentiment": {
+        "score": 0.915665,
+        "label": "positive"
+      },
+      "relevance": 0.788983,
+      "emotion": {
+        "sadness": 0.042551,
+        "joy": 0.681002,
+        "fear": 0.017651,
+        "disgust": 0.015693,
+        "anger": 0.140365
+      },
+      "count": 1
+    },
+    {
+      "text": "Hadids",
+      "sentiment": {
+        "score": 0.915665,
+        "label": "positive"
+      },
+      "relevance": 0.316025,
+      "emotion": {
+        "sadness": 0.042551,
+        "joy": 0.681002,
+        "fear": 0.017651,
+        "disgust": 0.015693,
+        "anger": 0.140365
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall",
+          "location": [
+            19,
+            26
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.042551,
+        "joy": 0.681002,
+        "fear": 0.017651,
+        "disgust": 0.015693,
+        "anger": 0.140365
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pittsburgh Pirates",
+      "relevance": 0.840829,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pittsburgh_Pirates"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.60845,
+      "label": "/society/crime/personal offense/homicide"
+    }
+  ]
+}

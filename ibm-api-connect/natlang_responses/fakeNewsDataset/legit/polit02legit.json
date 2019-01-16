@@ -1,0 +1,312 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 625,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.526754,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Vice President Mike Pence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901503,
+      "emotion": {
+        "sadness": 0.353108,
+        "joy": 0.098227,
+        "fear": 0.01519,
+        "disgust": 0.050812,
+        "anger": 0.240983
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.985227,
+        "label": "negative"
+      },
+      "relevance": 0.889756,
+      "emotion": {
+        "sadness": 0.57161,
+        "joy": 0.123755,
+        "fear": 0.111331,
+        "disgust": 0.116704,
+        "anger": 0.299711
+      },
+      "count": 1
+    },
+    {
+      "text": "campaign promise",
+      "sentiment": {
+        "score": -0.985227,
+        "label": "negative"
+      },
+      "relevance": 0.747488,
+      "emotion": {
+        "sadness": 0.57161,
+        "joy": 0.123755,
+        "fear": 0.111331,
+        "disgust": 0.116704,
+        "anger": 0.299711
+      },
+      "count": 1
+    },
+    {
+      "text": "similar response",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.733699,
+      "emotion": {
+        "sadness": 0.353108,
+        "joy": 0.098227,
+        "fear": 0.01519,
+        "disgust": 0.050812,
+        "anger": 0.240983
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump's legislative agenda",
+      "sentiment": {
+        "score": -0.985227,
+        "label": "negative"
+      },
+      "relevance": 0.704395,
+      "emotion": {
+        "sadness": 0.118059,
+        "joy": 0.026497,
+        "fear": 0.022246,
+        "disgust": 0.309355,
+        "anger": 0.044961
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.241608,
+        "label": "positive"
+      },
+      "relevance": 0.845984,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            84,
+            106
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            364,
+            369
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            491,
+            496
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.616254,
+        "joy": 0.02578,
+        "fear": 0.13701,
+        "disgust": 0.223484,
+        "anger": 0.288199
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.517655,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            39,
+            44
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.272383,
+      "mentions": [
+        {
+          "text": "Vice President",
+          "location": [
+            379,
+            393
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.28292,
+        "joy": 0.289332,
+        "fear": 0.011801,
+        "disgust": 0.08044,
+        "anger": 0.240588
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mike Pence",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.237069,
+      "mentions": [
+        {
+          "text": "Mike Pence",
+          "location": [
+            394,
+            404
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.28292,
+        "joy": 0.289332,
+        "fear": 0.011801,
+        "disgust": 0.08044,
+        "anger": 0.240588
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson",
+          "BroadcastArtist"
+        ],
+        "name": "Mike Pence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Obamacare",
+      "sentiment": {
+        "score": 0.038289,
+        "label": "positive"
+      },
+      "relevance": 0.213985,
+      "mentions": [
+        {
+          "text": "Obamacare",
+          "location": [
+            171,
+            180
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            182,
+            184
+          ]
+        },
+        {
+          "text": "ObamaCare",
+          "location": [
+            238,
+            247
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.400463,
+        "joy": 0.168978,
+        "fear": 0.050053,
+        "disgust": 0.134145,
+        "anger": 0.492132
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.987735,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Health care",
+      "relevance": 0.964096,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_care"
+    },
+    {
+      "text": "Health insurance",
+      "relevance": 0.851503,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_insurance"
+    },
+    {
+      "text": "Medicine",
+      "relevance": 0.755844,
+      "dbpedia_resource": "http://dbpedia.org/resource/Medicine"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.745731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.802467,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 659,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.24081,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "United Nations Nikki Haley",
+      "sentiment": {
+        "score": -0.715307,
+        "label": "negative"
+      },
+      "relevance": 0.954448,
+      "emotion": {
+        "sadness": 0.399579,
+        "joy": 0.320884,
+        "fear": 0.053207,
+        "disgust": 0.052495,
+        "anger": 0.262025
+      },
+      "count": 1
+    },
+    {
+      "text": "nuclear weapons",
+      "sentiment": {
+        "score": -0.715307,
+        "label": "negative"
+      },
+      "relevance": 0.814155,
+      "emotion": {
+        "sadness": 0.48031,
+        "joy": 0.093296,
+        "fear": 0.064447,
+        "disgust": 0.170079,
+        "anger": 0.436581
+      },
+      "count": 2
+    },
+    {
+      "text": "United States",
+      "sentiment": {
+        "score": -0.715307,
+        "label": "negative"
+      },
+      "relevance": 0.795115,
+      "emotion": {
+        "sadness": 0.399579,
+        "joy": 0.320884,
+        "fear": 0.053207,
+        "disgust": 0.052495,
+        "anger": 0.262025
+      },
+      "count": 1
+    },
+    {
+      "text": "US Ambassador",
+      "sentiment": {
+        "score": -0.715307,
+        "label": "negative"
+      },
+      "relevance": 0.759906,
+      "emotion": {
+        "sadness": 0.399579,
+        "joy": 0.320884,
+        "fear": 0.053207,
+        "disgust": 0.052495,
+        "anger": 0.262025
+      },
+      "count": 1
+    },
+    {
+      "text": "nuclear powers United Kingdom",
+      "sentiment": {
+        "score": -0.715307,
+        "label": "negative"
+      },
+      "relevance": 0.651563,
+      "emotion": {
+        "sadness": 0.399579,
+        "joy": 0.320884,
+        "fear": 0.053207,
+        "disgust": 0.052495,
+        "anger": 0.262025
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "United Nations",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.829462,
+      "mentions": [
+        {
+          "text": "United Nations",
+          "location": [
+            52,
+            66
+          ]
+        },
+        {
+          "text": "United Nations",
+          "location": [
+            103,
+            117
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.34267,
+        "joy": 0.270183,
+        "fear": 0.051938,
+        "disgust": 0.099221,
+        "anger": 0.393551
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "United Nations (band)",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_(band)"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Nikki Haley",
+      "sentiment": {
+        "score": -0.403223,
+        "label": "negative"
+      },
+      "relevance": 0.595782,
+      "mentions": [
+        {
+          "text": "Nikki Haley",
+          "location": [
+            118,
+            129
+          ]
+        },
+        {
+          "text": "Haley",
+          "location": [
+            392,
+            397
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.397979,
+        "joy": 0.236314,
+        "fear": 0.059836,
+        "disgust": 0.115411,
+        "anger": 0.366259
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Nikki Haley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nikki_Haley"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.883753,
+        "label": "negative"
+      },
+      "relevance": 0.512984,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            82,
+            84
+          ]
+        },
+        {
+          "text": "United States",
+          "location": [
+            156,
+            169
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.422728,
+        "joy": 0.07992,
+        "fear": 0.08444,
+        "disgust": 0.195751,
+        "anger": 0.494035
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "United Kingdom",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.406479,
+      "mentions": [
+        {
+          "text": "United Kingdom",
+          "location": [
+            365,
+            379
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.102638,
+        "joy": 0.069406,
+        "fear": 0.227316,
+        "disgust": 0.050061,
+        "anger": 0.186341
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Nations",
+      "relevance": 0.978224,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+    },
+    {
+      "text": "Nuclear weapon",
+      "relevance": 0.897005,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_weapon"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.810033,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "United Nations Charter",
+      "relevance": 0.803475,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_Charter"
+    },
+    {
+      "text": "North Carolina",
+      "relevance": 0.796138,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.937316,
+      "label": "/business and industrial/energy/nuclear power"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justice League",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997175,
+      "emotion": {
+        "sadness": 0.298506,
+        "joy": 0.482971,
+        "fear": 0.047454,
+        "disgust": 0.077398,
+        "anger": 0.076975
+      },
+      "count": 1
+    },
+    {
+      "text": "Superman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.919812,
+      "emotion": {
+        "sadness": 0.298506,
+        "joy": 0.482971,
+        "fear": 0.047454,
+        "disgust": 0.077398,
+        "anger": 0.076975
+      },
+      "count": 1
+    },
+    {
+      "text": "Movie",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.298506,
+        "joy": 0.482971,
+        "fear": 0.047454,
+        "disgust": 0.077398,
+        "anger": 0.076975
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Captain Marvel",
+      "relevance": 0.897311,
+      "dbpedia_resource": "http://dbpedia.org/resource/Captain_Marvel_(DC_Comics)"
+    },
+    {
+      "text": "Toyman",
+      "relevance": 0.823044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Toyman"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.990156,
+      "label": "/art and entertainment/comics and animation/comics"
+    }
+  ]
+}

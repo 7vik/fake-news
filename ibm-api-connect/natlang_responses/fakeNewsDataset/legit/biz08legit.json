@@ -1,0 +1,268 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 663,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.622244,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "vocal critic of the behaviour of large corporations",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.698261,
+      "emotion": {
+        "sadness": 0.169312,
+        "joy": 0.236216,
+        "fear": 0.045465,
+        "disgust": 0.455918,
+        "anger": 0.115705
+      },
+      "count": 1
+    },
+    {
+      "text": "cheek reference",
+      "sentiment": {
+        "score": -0.622244,
+        "label": "negative"
+      },
+      "relevance": 0.682324,
+      "emotion": {
+        "sadness": 0.451829,
+        "joy": 0.216919,
+        "fear": 0.211091,
+        "disgust": 0.229062,
+        "anger": 0.080041
+      },
+      "count": 1
+    },
+    {
+      "text": "music promoter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.681055,
+      "emotion": {
+        "sadness": 0.169312,
+        "joy": 0.236216,
+        "fear": 0.045465,
+        "disgust": 0.455918,
+        "anger": 0.115705
+      },
+      "count": 1
+    },
+    {
+      "text": "legal action",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.657376,
+      "emotion": {
+        "sadness": 0.311938,
+        "joy": 0.086342,
+        "fear": 0.069331,
+        "disgust": 0.236473,
+        "anger": 0.542174
+      },
+      "count": 1
+    },
+    {
+      "text": "Tony Green",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.640188,
+      "emotion": {
+        "sadness": 0.169312,
+        "joy": 0.236216,
+        "fear": 0.045465,
+        "disgust": 0.455918,
+        "anger": 0.115705
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "brewer",
+      "sentiment": {
+        "score": -0.558958,
+        "label": "negative"
+      },
+      "relevance": 0.858596,
+      "mentions": [
+        {
+          "text": "brewer",
+          "location": [
+            189,
+            195
+          ]
+        },
+        {
+          "text": "The brewer",
+          "location": [
+            287,
+            297
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251248,
+        "joy": 0.137543,
+        "fear": 0.044318,
+        "disgust": 0.518822,
+        "anger": 0.203534
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "BrewDog",
+      "sentiment": {
+        "score": -0.587624,
+        "label": "negative"
+      },
+      "relevance": 0.848786,
+      "mentions": [
+        {
+          "text": "BrewDog",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "BrewDog",
+          "location": [
+            68,
+            75
+          ]
+        },
+        {
+          "text": "BrewDog",
+          "location": [
+            636,
+            643
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.227316,
+        "joy": 0.015701,
+        "fear": 0.747618,
+        "disgust": 0.156813,
+        "anger": 0.160808
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "BrewDog",
+        "dbpedia_resource": "http://dbpedia.org/resource/BrewDog"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Tony Green",
+      "sentiment": {
+        "score": -0.652489,
+        "label": "negative"
+      },
+      "relevance": 0.833419,
+      "mentions": [
+        {
+          "text": "Tony Green",
+          "location": [
+            416,
+            426
+          ]
+        },
+        {
+          "text": "Green",
+          "location": [
+            469,
+            474
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.191709,
+        "joy": 0.372677,
+        "fear": 0.017164,
+        "disgust": 0.405204,
+        "anger": 0.088745
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Leeds",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.502572,
+      "mentions": [
+        {
+          "text": "Leeds",
+          "location": [
+            444,
+            449
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.169312,
+        "joy": 0.236216,
+        "fear": 0.045465,
+        "disgust": 0.455918,
+        "anger": 0.115705
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "French house",
+      "relevance": 0.986984,
+      "dbpedia_resource": "http://dbpedia.org/resource/French_house"
+    },
+    {
+      "text": "House music",
+      "relevance": 0.833469,
+      "dbpedia_resource": "http://dbpedia.org/resource/House_music"
+    },
+    {
+      "text": "Law",
+      "relevance": 0.811748,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law"
+    },
+    {
+      "text": "Daft Punk",
+      "relevance": 0.745731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Daft_Punk"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.974194,
+      "label": "/art and entertainment/music/music genres/punk"
+    }
+  ]
+}

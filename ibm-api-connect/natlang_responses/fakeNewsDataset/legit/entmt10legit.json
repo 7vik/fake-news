@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 835,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.844469,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "First couple",
+      "sentiment": {
+        "score": -0.399476,
+        "label": "negative"
+      },
+      "relevance": 0.82148,
+      "emotion": {
+        "sadness": 0.147409,
+        "joy": 0.50266,
+        "fear": 0.219466,
+        "disgust": 0.069433,
+        "anger": 0.108114
+      },
+      "count": 1
+    },
+    {
+      "text": "dance partner  Witney Carson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.77687,
+      "emotion": {
+        "sadness": 0.370016,
+        "joy": 0.528783,
+        "fear": 0.031614,
+        "disgust": 0.00824,
+        "anger": 0.085617
+      },
+      "count": 1
+    },
+    {
+      "text": "first celeb",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.721319,
+      "emotion": {
+        "sadness": 0.07434,
+        "joy": 0.724493,
+        "fear": 0.028299,
+        "disgust": 0.051199,
+        "anger": 0.027744
+      },
+      "count": 1
+    },
+    {
+      "text": "show Monday night",
+      "sentiment": {
+        "score": -0.877593,
+        "label": "negative"
+      },
+      "relevance": 0.668786,
+      "emotion": {
+        "sadness": 0.762325,
+        "joy": 0.07531,
+        "fear": 0.230834,
+        "disgust": 0.065937,
+        "anger": 0.01544
+      },
+      "count": 1
+    },
+    {
+      "text": "physical comedy",
+      "sentiment": {
+        "score": -0.90817,
+        "label": "negative"
+      },
+      "relevance": 0.643488,
+      "emotion": {
+        "sadness": 0.801436,
+        "joy": 0.067167,
+        "fear": 0.092373,
+        "disgust": 0.03524,
+        "anger": 0.045467
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris Kattan",
+      "sentiment": {
+        "score": -0.748525,
+        "label": "negative"
+      },
+      "relevance": 0.876022,
+      "mentions": [
+        {
+          "text": "Chris Kattan",
+          "location": [
+            142,
+            154
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            284,
+            286
+          ]
+        },
+        {
+          "text": "Part",
+          "location": [
+            397,
+            401
+          ]
+        },
+        {
+          "text": "physical comedy",
+          "location": [
+            427,
+            442
+          ]
+        },
+        {
+          "text": "Kattan",
+          "location": [
+            461,
+            467
+          ]
+        },
+        {
+          "text": "Chris",
+          "location": [
+            549,
+            554
+          ]
+        },
+        {
+          "text": "Kattan",
+          "location": [
+            642,
+            648
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            708,
+            710
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.722589,
+        "joy": 0.490248,
+        "fear": 0.116622,
+        "disgust": 0.049026,
+        "anger": 0.060899
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Chris Kattan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Kattan"
+      },
+      "count": 8
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Dancing With the Stars",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.236321,
+      "mentions": [
+        {
+          "text": "14 years",
+          "location": [
+            307,
+            315
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.238479,
+        "joy": 0.707563,
+        "fear": 0.015646,
+        "disgust": 0.006013,
+        "anger": 0.033719
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Dancing with the Stars",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dancing_with_the_Stars"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Witney Carson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.219387,
+      "mentions": [
+        {
+          "text": "Witney Carson",
+          "location": [
+            597,
+            610
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.370016,
+        "joy": 0.528783,
+        "fear": 0.031614,
+        "disgust": 0.00824,
+        "anger": 0.085617
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "SNL",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.195026,
+      "mentions": [
+        {
+          "text": "SNL",
+          "location": [
+            226,
+            229
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "partner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.172752,
+      "mentions": [
+        {
+          "text": "partner",
+          "location": [
+            588,
+            595
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Partner dance",
+      "relevance": 0.937517,
+      "dbpedia_resource": "http://dbpedia.org/resource/Partner_dance"
+    },
+    {
+      "text": "Dance",
+      "relevance": 0.849086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dance"
+    },
+    {
+      "text": "Surgery",
+      "relevance": 0.808599,
+      "dbpedia_resource": "http://dbpedia.org/resource/Surgery"
+    },
+    {
+      "text": "Al-Andalus",
+      "relevance": 0.786711,
+      "dbpedia_resource": "http://dbpedia.org/resource/Al-Andalus"
+    },
+    {
+      "text": "2005 albums",
+      "relevance": 0.734109,
+      "dbpedia_resource": "http://dbpedia.org/resource/2005_albums"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.630917,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 37,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.753304,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Anorexic Angelina Jolie",
+      "sentiment": {
+        "score": -0.753304,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.566417,
+        "joy": 0.013752,
+        "fear": 0.114761,
+        "disgust": 0.302349,
+        "anger": 0.324359
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.861775,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            9,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.566417,
+        "joy": 0.013752,
+        "fear": 0.114761,
+        "disgust": 0.302349,
+        "anger": 0.324359
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.569055,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

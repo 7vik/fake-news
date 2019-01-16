@@ -1,0 +1,415 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1688,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.478352,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "British comedy actress Cleo Rocos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.85582,
+      "emotion": {
+        "sadness": 0.22608,
+        "joy": 0.643736,
+        "fear": 0.034734,
+        "disgust": 0.051682,
+        "anger": 0.077512
+      },
+      "count": 1
+    },
+    {
+      "text": "British royal family",
+      "sentiment": {
+        "score": -0.518821,
+        "label": "negative"
+      },
+      "relevance": 0.726475,
+      "emotion": {
+        "sadness": 0.026779,
+        "joy": 0.84347,
+        "fear": 0.026484,
+        "disgust": 0.034028,
+        "anger": 0.066637
+      },
+      "count": 1
+    },
+    {
+      "text": "new book",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.715846,
+      "emotion": {
+        "sadness": 0.22608,
+        "joy": 0.643736,
+        "fear": 0.034734,
+        "disgust": 0.051682,
+        "anger": 0.077512
+      },
+      "count": 1
+    },
+    {
+      "text": "Time Princess Diana",
+      "sentiment": {
+        "score": -0.518821,
+        "label": "negative"
+      },
+      "relevance": 0.704872,
+      "emotion": {
+        "sadness": 0.384753,
+        "joy": 0.401723,
+        "fear": 0.034157,
+        "disgust": 0.214523,
+        "anger": 0.100752
+      },
+      "count": 1
+    },
+    {
+      "text": "Queen front man Freddie Mercury",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.656042,
+      "emotion": {
+        "sadness": 0.22608,
+        "joy": 0.643736,
+        "fear": 0.034734,
+        "disgust": 0.051682,
+        "anger": 0.077512
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Princess Diana",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.771914,
+      "mentions": [
+        {
+          "text": "Princess Diana",
+          "location": [
+            99,
+            113
+          ]
+        },
+        {
+          "text": "Diana",
+          "location": [
+            770,
+            775
+          ]
+        },
+        {
+          "text": "Diana",
+          "location": [
+            911,
+            916
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            925,
+            932
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            946,
+            949
+          ]
+        },
+        {
+          "text": "Diana",
+          "location": [
+            1379,
+            1384
+          ]
+        },
+        {
+          "text": "Diana",
+          "location": [
+            1634,
+            1639
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185418,
+        "joy": 0.626982,
+        "fear": 0.027358,
+        "disgust": 0.088261,
+        "anger": 0.080136
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "NoblePerson"
+        ],
+        "name": "Diana, Princess of Wales",
+        "dbpedia_resource": "http://dbpedia.org/resource/Diana,_Princess_of_Wales"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Freddie Mercury",
+      "sentiment": {
+        "score": 0.226245,
+        "label": "positive"
+      },
+      "relevance": 0.587247,
+      "mentions": [
+        {
+          "text": "Freddie Mercury",
+          "location": [
+            294,
+            309
+          ]
+        },
+        {
+          "text": "Mercury",
+          "location": [
+            702,
+            709
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            736,
+            739
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            745,
+            748
+          ]
+        },
+        {
+          "text": "Mercury",
+          "location": [
+            1550,
+            1557
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233528,
+        "joy": 0.648592,
+        "fear": 0.041653,
+        "disgust": 0.155248,
+        "anger": 0.099007
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "Collector",
+          "Guitarist",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Freddie Mercury",
+        "dbpedia_resource": "http://dbpedia.org/resource/Freddie_Mercury"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Cleo Rocos",
+      "sentiment": {
+        "score": 0.246021,
+        "label": "positive"
+      },
+      "relevance": 0.496998,
+      "mentions": [
+        {
+          "text": "Cleo Rocos",
+          "location": [
+            252,
+            262
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            273,
+            276
+          ]
+        },
+        {
+          "text": "Rocos",
+          "location": [
+            432,
+            437
+          ]
+        },
+        {
+          "text": "Rocos",
+          "location": [
+            888,
+            893
+          ]
+        },
+        {
+          "text": "Rocos",
+          "location": [
+            1109,
+            1114
+          ]
+        },
+        {
+          "text": "Rocos",
+          "location": [
+            1441,
+            1446
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1477,
+            1480
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1518,
+            1521
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.209286,
+        "joy": 0.589104,
+        "fear": 0.638409,
+        "disgust": 0.038787,
+        "anger": 0.092563
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ],
+        "name": "Cleo Rocos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleo_Rocos"
+      },
+      "count": 8
+    },
+    {
+      "type": "Company",
+      "text": "Freddie Mercury",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.367176,
+      "mentions": [
+        {
+          "text": "Freddie Mercury",
+          "location": [
+            83,
+            98
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233528,
+        "joy": 0.648592,
+        "fear": 0.041653,
+        "disgust": 0.155248,
+        "anger": 0.099007
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Royal Vauxhall Tavern",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.308403,
+      "mentions": [
+        {
+          "text": "Royal Vauxhall Tavern",
+          "location": [
+            390,
+            411
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156963,
+        "joy": 0.169317,
+        "fear": 0.073081,
+        "disgust": 0.09039,
+        "anger": 0.113937
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Royal Vauxhall Tavern",
+        "dbpedia_resource": "http://dbpedia.org/resource/Royal_Vauxhall_Tavern"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "British Royal Family",
+      "relevance": 0.960629,
+      "dbpedia_resource": "http://dbpedia.org/resource/British_Royal_Family"
+    },
+    {
+      "text": "Cleo Rocos",
+      "relevance": 0.801146,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cleo_Rocos"
+    },
+    {
+      "text": "Kenny Everett",
+      "relevance": 0.778944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kenny_Everett"
+    },
+    {
+      "text": "Royal family",
+      "relevance": 0.67786,
+      "dbpedia_resource": "http://dbpedia.org/resource/Royal_family"
+    },
+    {
+      "text": "Prince",
+      "relevance": 0.626349,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.708186,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

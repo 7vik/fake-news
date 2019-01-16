@@ -1,0 +1,218 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 600,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.664532,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mario Run",
+      "sentiment": {
+        "score": -0.664532,
+        "label": "negative"
+      },
+      "relevance": 0.791348,
+      "emotion": {
+        "sadness": 0.209832,
+        "joy": 0.636766,
+        "fear": 0.015162,
+        "disgust": 0.015444,
+        "anger": 0.046434
+      },
+      "count": 1
+    },
+    {
+      "text": "Google Play store",
+      "sentiment": {
+        "score": -0.664532,
+        "label": "negative"
+      },
+      "relevance": 0.774257,
+      "emotion": {
+        "sadness": 0.269366,
+        "joy": 0.538953,
+        "fear": 0.018441,
+        "disgust": 0.015953,
+        "anger": 0.043991
+      },
+      "count": 1
+    },
+    {
+      "text": "Android devices",
+      "sentiment": {
+        "score": -0.664532,
+        "label": "negative"
+      },
+      "relevance": 0.739819,
+      "emotion": {
+        "sadness": 0.269366,
+        "joy": 0.538953,
+        "fear": 0.018441,
+        "disgust": 0.015953,
+        "anger": 0.043991
+      },
+      "count": 1
+    },
+    {
+      "text": "instant hit",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.631233,
+      "emotion": {
+        "sadness": 0.411845,
+        "joy": 0.258497,
+        "fear": 0.063582,
+        "disgust": 0.01764,
+        "anger": 0.053291
+      },
+      "count": 1
+    },
+    {
+      "text": "Apple device users",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.615251,
+      "emotion": {
+        "sadness": 0.411845,
+        "joy": 0.258497,
+        "fear": 0.063582,
+        "disgust": 0.01764,
+        "anger": 0.053291
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Nintendo",
+      "sentiment": {
+        "score": -0.37726,
+        "label": "negative"
+      },
+      "relevance": 0.377775,
+      "mentions": [
+        {
+          "text": "Nintendo",
+          "location": [
+            135,
+            143
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            348,
+            356
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.287889,
+        "joy": 0.408062,
+        "fear": 0.037928,
+        "disgust": 0.029692,
+        "anger": 0.123297
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyShareholder",
+          "ComputerDesigner",
+          "GameDesigner",
+          "GamePublisher",
+          "JobTitle",
+          "MusicalArtist",
+          "SoftwareDeveloper",
+          "VideoGameDesigner",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Nintendo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nintendo"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": -0.37726,
+        "label": "negative"
+      },
+      "relevance": 0.229529,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            236,
+            242
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.35417,
+        "joy": 0.31799,
+        "fear": 0.052548,
+        "disgust": 0.030263,
+        "anger": 0.110602
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "IPhone",
+      "relevance": 0.911078,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone"
+    },
+    {
+      "text": "Google Voice",
+      "relevance": 0.860934,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_Voice"
+    },
+    {
+      "text": "App Store",
+      "relevance": 0.795425,
+      "dbpedia_resource": "http://dbpedia.org/resource/App_Store"
+    },
+    {
+      "text": "Wii",
+      "relevance": 0.786154,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wii"
+    },
+    {
+      "text": "Shigeru Miyamoto",
+      "relevance": 0.76092,
+      "dbpedia_resource": "http://dbpedia.org/resource/Shigeru_Miyamoto"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999999,
+      "label": "/technology and computing/consumer electronics/game systems and consoles/nintendo"
+    }
+  ]
+}

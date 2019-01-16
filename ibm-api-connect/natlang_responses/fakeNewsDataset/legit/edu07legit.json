@@ -1,0 +1,254 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 700,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.332394,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wrist monitors",
+      "sentiment": {
+        "score": 0.703609,
+        "label": "positive"
+      },
+      "relevance": 0.921457,
+      "emotion": {
+        "sadness": 0.12519,
+        "joy": 0.421275,
+        "fear": 0.178894,
+        "disgust": 0.050824,
+        "anger": 0.224668
+      },
+      "count": 1
+    },
+    {
+      "text": "Physical education teachers",
+      "sentiment": {
+        "score": -0.765602,
+        "label": "negative"
+      },
+      "relevance": 0.846076,
+      "emotion": {
+        "sadness": 0.477177,
+        "joy": 0.08738,
+        "fear": 0.098022,
+        "disgust": 0.228862,
+        "anger": 0.37298
+      },
+      "count": 1
+    },
+    {
+      "text": "physical education teacher",
+      "sentiment": {
+        "score": 0.703609,
+        "label": "positive"
+      },
+      "relevance": 0.769558,
+      "emotion": {
+        "sadness": 0.12519,
+        "joy": 0.421275,
+        "fear": 0.178894,
+        "disgust": 0.050824,
+        "anger": 0.224668
+      },
+      "count": 1
+    },
+    {
+      "text": "Parker Middle School",
+      "sentiment": {
+        "score": -0.765602,
+        "label": "negative"
+      },
+      "relevance": 0.755935,
+      "emotion": {
+        "sadness": 0.477177,
+        "joy": 0.08738,
+        "fear": 0.098022,
+        "disgust": 0.228862,
+        "anger": 0.37298
+      },
+      "count": 1
+    },
+    {
+      "text": "General McLane School District",
+      "sentiment": {
+        "score": 0.703609,
+        "label": "positive"
+      },
+      "relevance": 0.752697,
+      "emotion": {
+        "sadness": 0.12519,
+        "joy": 0.421275,
+        "fear": 0.178894,
+        "disgust": 0.050824,
+        "anger": 0.224668
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Parker Middle School",
+      "sentiment": {
+        "score": 0.058755,
+        "label": "positive"
+      },
+      "relevance": 0.899962,
+      "mentions": [
+        {
+          "text": "Schools",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Parker Middle School",
+          "location": [
+            77,
+            97
+          ]
+        },
+        {
+          "text": "the school",
+          "location": [
+            492,
+            502
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.208385,
+        "joy": 0.365917,
+        "fear": 0.113086,
+        "disgust": 0.074361,
+        "anger": 0.343977
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "General McLane School",
+      "sentiment": {
+        "score": 0.430267,
+        "label": "positive"
+      },
+      "relevance": 0.620749,
+      "mentions": [
+        {
+          "text": "General McLane School",
+          "location": [
+            415,
+            436
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142122,
+        "joy": 0.402409,
+        "fear": 0.194065,
+        "disgust": 0.039186,
+        "anger": 0.218757
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Heather Karns",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.567435,
+      "mentions": [
+        {
+          "text": "Heather Karns",
+          "location": [
+            363,
+            376
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.335132,
+        "joy": 0.186031,
+        "fear": 0.117389,
+        "disgust": 0.127544,
+        "anger": 0.137539
+      },
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "volleyball",
+      "sentiment": {
+        "score": -0.312758,
+        "label": "negative"
+      },
+      "relevance": 0.42409,
+      "mentions": [
+        {
+          "text": "volleyball",
+          "location": [
+            160,
+            170
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.422516,
+        "joy": 0.12429,
+        "fear": 0.101792,
+        "disgust": 0.225159,
+        "anger": 0.349195
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Volleyball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Volleyball"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.98004,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Teacher",
+      "relevance": 0.819496,
+      "dbpedia_resource": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+      "text": "School",
+      "relevance": 0.761806,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Exercise",
+      "relevance": 0.618616,
+      "dbpedia_resource": "http://dbpedia.org/resource/Exercise"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.578517,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.952178,
+      "label": "/education/school"
+    }
+  ]
+}

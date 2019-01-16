@@ -1,0 +1,232 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 736,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.864854,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Muslim students",
+      "sentiment": {
+        "score": -0.843665,
+        "label": "negative"
+      },
+      "relevance": 0.829705,
+      "emotion": {
+        "sadness": 0.252613,
+        "joy": 0.193344,
+        "fear": 0.028546,
+        "disgust": 0.236708,
+        "anger": 0.397571
+      },
+      "count": 1
+    },
+    {
+      "text": "University of Central Missouri",
+      "sentiment": {
+        "score": -0.843665,
+        "label": "negative"
+      },
+      "relevance": 0.807796,
+      "emotion": {
+        "sadness": 0.252613,
+        "joy": 0.193344,
+        "fear": 0.028546,
+        "disgust": 0.236708,
+        "anger": 0.397571
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump's executive order",
+      "sentiment": {
+        "score": -0.843665,
+        "label": "negative"
+      },
+      "relevance": 0.737383,
+      "emotion": {
+        "sadness": 0.252613,
+        "joy": 0.193344,
+        "fear": 0.028546,
+        "disgust": 0.236708,
+        "anger": 0.397571
+      },
+      "count": 1
+    },
+    {
+      "text": "Muslim countries",
+      "sentiment": {
+        "score": -0.843665,
+        "label": "negative"
+      },
+      "relevance": 0.72188,
+      "emotion": {
+        "sadness": 0.252613,
+        "joy": 0.193344,
+        "fear": 0.028546,
+        "disgust": 0.236708,
+        "anger": 0.397571
+      },
+      "count": 1
+    },
+    {
+      "text": "express support",
+      "sentiment": {
+        "score": -0.843665,
+        "label": "negative"
+      },
+      "relevance": 0.699451,
+      "emotion": {
+        "sadness": 0.252613,
+        "joy": 0.193344,
+        "fear": 0.028546,
+        "disgust": 0.236708,
+        "anger": 0.397571
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.802446,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            182,
+            204
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "University of Central Missouri",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.664235,
+      "mentions": [
+        {
+          "text": "University of Central Missouri",
+          "location": [
+            57,
+            87
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.196227,
+        "joy": 0.136805,
+        "fear": 0.021981,
+        "disgust": 0.344132,
+        "anger": 0.408312
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "University of Central Missouri",
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_Central_Missouri"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.436175,
+      "mentions": [
+        {
+          "text": "executive",
+          "location": [
+            207,
+            216
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.196227,
+        "joy": 0.136805,
+        "fear": 0.021981,
+        "disgust": 0.344132,
+        "anger": 0.408312
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.931004,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.8811,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "University",
+      "relevance": 0.854329,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.738153,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.735448,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.88302,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

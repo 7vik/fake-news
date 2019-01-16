@@ -1,0 +1,209 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 991,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.605781,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tomi Lahren",
+      "sentiment": {
+        "score": -0.839063,
+        "label": "negative"
+      },
+      "relevance": 0.821334,
+      "emotion": {
+        "sadness": 0.164012,
+        "joy": 0.164854,
+        "fear": 0.083109,
+        "disgust": 0.02298,
+        "anger": 0.723059
+      },
+      "count": 1
+    },
+    {
+      "text": "Conservative darling",
+      "sentiment": {
+        "score": -0.839063,
+        "label": "negative"
+      },
+      "relevance": 0.80059,
+      "emotion": {
+        "sadness": 0.455959,
+        "joy": 0.240725,
+        "fear": 0.249878,
+        "disgust": 0.129991,
+        "anger": 0.123523
+      },
+      "count": 1
+    },
+    {
+      "text": "pariah Tomi Lahren",
+      "sentiment": {
+        "score": -0.839063,
+        "label": "negative"
+      },
+      "relevance": 0.635349,
+      "emotion": {
+        "sadness": 0.455959,
+        "joy": 0.240725,
+        "fear": 0.249878,
+        "disgust": 0.129991,
+        "anger": 0.123523
+      },
+      "count": 1
+    },
+    {
+      "text": "24-year-old",
+      "sentiment": {
+        "score": -0.485673,
+        "label": "negative"
+      },
+      "relevance": 0.630286,
+      "emotion": {
+        "sadness": 0.281072,
+        "joy": 0.334313,
+        "fear": 0.040324,
+        "disgust": 0.353934,
+        "anger": 0.104002
+      },
+      "count": 1
+    },
+    {
+      "text": "conservative woman",
+      "sentiment": {
+        "score": -0.923623,
+        "label": "negative"
+      },
+      "relevance": 0.623213,
+      "emotion": {
+        "sadness": 0.310739,
+        "joy": 0.052642,
+        "fear": 0.094698,
+        "disgust": 0.660429,
+        "anger": 0.193691
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tomi Lahren",
+      "sentiment": {
+        "score": -0.84498,
+        "label": "negative"
+      },
+      "relevance": 0.907451,
+      "mentions": [
+        {
+          "text": "Tomi Lahren",
+          "location": [
+            85,
+            96
+          ]
+        },
+        {
+          "text": "Lahren",
+          "location": [
+            158,
+            164
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251662,
+        "joy": 0.184232,
+        "fear": 0.066825,
+        "disgust": 0.194406,
+        "anger": 0.532756
+      },
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Tomi Lahren",
+      "sentiment": {
+        "score": -0.504782,
+        "label": "negative"
+      },
+      "relevance": 0.661017,
+      "mentions": [
+        {
+          "text": "Tomi Lahren",
+          "location": [
+            38,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251662,
+        "joy": 0.184232,
+        "fear": 0.066825,
+        "disgust": 0.194406,
+        "anger": 0.532756
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "24-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.661017,
+      "mentions": [
+        {
+          "text": "24-year",
+          "location": [
+            168,
+            175
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Conservatism",
+      "relevance": 0.987967,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conservatism"
+    },
+    {
+      "text": "Right-wing politics",
+      "relevance": 0.941839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Right-wing_politics"
+    },
+    {
+      "text": "Political spectrum",
+      "relevance": 0.931528,
+      "dbpedia_resource": "http://dbpedia.org/resource/Political_spectrum"
+    },
+    {
+      "text": "Centre-right",
+      "relevance": 0.924453,
+      "dbpedia_resource": "http://dbpedia.org/resource/Centre-right"
+    },
+    {
+      "text": "French Revolution",
+      "relevance": 0.917378,
+      "dbpedia_resource": "http://dbpedia.org/resource/French_Revolution"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.785055,
+      "label": "/society/sex"
+    }
+  ]
+}

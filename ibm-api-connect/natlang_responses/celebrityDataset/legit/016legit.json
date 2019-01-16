@@ -1,0 +1,213 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 136,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.986992,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kardashian fails",
+      "sentiment": {
+        "score": -0.986992,
+        "label": "negative"
+      },
+      "relevance": 0.884676,
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "count": 1
+    },
+    {
+      "text": "twin pregnancy news",
+      "sentiment": {
+        "score": -0.986992,
+        "label": "negative"
+      },
+      "relevance": 0.769569,
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim",
+      "sentiment": {
+        "score": -0.986992,
+        "label": "negative"
+      },
+      "relevance": 0.757595,
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "count": 1
+    },
+    {
+      "text": "Beyonce",
+      "sentiment": {
+        "score": -0.986992,
+        "label": "negative"
+      },
+      "relevance": 0.609433,
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "count": 1
+    },
+    {
+      "text": "BFF Chrissy Teigen",
+      "sentiment": {
+        "score": -0.986992,
+        "label": "negative"
+      },
+      "relevance": 0.60239,
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.899425,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": -0.899425,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            37,
+            44
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Chrissy Teigen",
+      "sentiment": {
+        "score": -0.899425,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chrissy Teigen",
+          "location": [
+            80,
+            94
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.673939,
+        "joy": 0.07659,
+        "fear": 0.291817,
+        "disgust": 0.108268,
+        "anger": 0.03792
+      },
+      "disambiguation": {
+        "subtype": [
+          "Model"
+        ],
+        "name": "Christine Teigen",
+        "dbpedia_resource": "http://dbpedia.org/resource/Christine_Teigen"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.762201,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.584963,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

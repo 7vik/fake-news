@@ -1,0 +1,238 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1121,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.598125,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift Debuts",
+      "sentiment": {
+        "score": 0.78579,
+        "label": "positive"
+      },
+      "relevance": 0.747506,
+      "emotion": {
+        "sadness": 0.343207,
+        "joy": 0.394476,
+        "fear": 0.058473,
+        "disgust": 0.125728,
+        "anger": 0.048728
+      },
+      "count": 1
+    },
+    {
+      "text": "forthcoming album",
+      "sentiment": {
+        "score": 0.646548,
+        "label": "positive"
+      },
+      "relevance": 0.734399,
+      "emotion": {
+        "sadness": 0.087351,
+        "joy": 0.730799,
+        "fear": 0.06501,
+        "disgust": 0.109641,
+        "anger": 0.038207
+      },
+      "count": 1
+    },
+    {
+      "text": "social media blackout",
+      "sentiment": {
+        "score": 0.646548,
+        "label": "positive"
+      },
+      "relevance": 0.691209,
+      "emotion": {
+        "sadness": 0.087351,
+        "joy": 0.730799,
+        "fear": 0.06501,
+        "disgust": 0.109641,
+        "anger": 0.038207
+      },
+      "count": 1
+    },
+    {
+      "text": "clever repurposing of social media",
+      "sentiment": {
+        "score": 0.624176,
+        "label": "positive"
+      },
+      "relevance": 0.63399,
+      "emotion": {
+        "sadness": 0.314996,
+        "joy": 0.291867,
+        "fear": 0.169266,
+        "disgust": 0.233773,
+        "anger": 0.029075
+      },
+      "count": 1
+    },
+    {
+      "text": "cryptic clips of a coiling",
+      "sentiment": {
+        "score": 0.646548,
+        "label": "positive"
+      },
+      "relevance": 0.591798,
+      "emotion": {
+        "sadness": 0.087351,
+        "joy": 0.730799,
+        "fear": 0.06501,
+        "disgust": 0.109641,
+        "anger": 0.038207
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.301478,
+        "label": "positive"
+      },
+      "relevance": 0.914427,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            67,
+            79
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            213,
+            218
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            801,
+            806
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1024,
+            1029
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.30636,
+        "joy": 0.460249,
+        "fear": 0.036965,
+        "disgust": 0.231098,
+        "anger": 0.05466
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "James Dean",
+      "sentiment": {
+        "score": 0.517216,
+        "label": "positive"
+      },
+      "relevance": 0.210337,
+      "mentions": [
+        {
+          "text": "James Dean",
+          "location": [
+            597,
+            607
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153112,
+        "joy": 0.20482,
+        "fear": 0.088754,
+        "disgust": 0.111864,
+        "anger": 0.068128
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter",
+          "MusicalArtist",
+          "AwardNominee",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "James Dean",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Dean"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Femme fatale",
+      "relevance": 0.930375,
+      "dbpedia_resource": "http://dbpedia.org/resource/Femme_fatale"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.711047,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Album",
+      "relevance": 0.668857,
+      "dbpedia_resource": "http://dbpedia.org/resource/Album"
+    },
+    {
+      "text": "ABBA",
+      "relevance": 0.654416,
+      "dbpedia_resource": "http://dbpedia.org/resource/ABBA"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.627206,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.797139,
+      "label": "/style and fashion/beauty/cosmetics/eyeshadow"
+    }
+  ]
+}

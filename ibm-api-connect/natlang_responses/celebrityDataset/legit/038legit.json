@@ -1,0 +1,347 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1044,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.684605,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Voice Season",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.770383,
+      "emotion": {
+        "sadness": 0.150449,
+        "joy": 0.619537,
+        "fear": 0.042595,
+        "disgust": 0.018481,
+        "anger": 0.095002
+      },
+      "count": 1
+    },
+    {
+      "text": "longtime coach Adam Levine",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.74627,
+      "emotion": {
+        "sadness": 0.074925,
+        "joy": 0.790119,
+        "fear": 0.022755,
+        "disgust": 0.060744,
+        "anger": 0.027955
+      },
+      "count": 1
+    },
+    {
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.700198,
+      "emotion": {
+        "sadness": 0.150449,
+        "joy": 0.619537,
+        "fear": 0.042595,
+        "disgust": 0.018481,
+        "anger": 0.095002
+      },
+      "count": 1
+    },
+    {
+      "text": "Boyfriend Blake Shelton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.691696,
+      "emotion": {
+        "sadness": 0.150449,
+        "joy": 0.619537,
+        "fear": 0.042595,
+        "disgust": 0.018481,
+        "anger": 0.095002
+      },
+      "count": 2
+    },
+    {
+      "text": "seventh season",
+      "sentiment": {
+        "score": -0.2727,
+        "label": "negative"
+      },
+      "relevance": 0.666952,
+      "emotion": {
+        "sadness": 0.39565,
+        "joy": 0.508377,
+        "fear": 0.023189,
+        "disgust": 0.05067,
+        "anger": 0.062498
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": 0.574825,
+        "label": "positive"
+      },
+      "relevance": 0.882824,
+      "mentions": [
+        {
+          "text": "Blake Shelton",
+          "location": [
+            41,
+            54
+          ]
+        },
+        {
+          "text": "Blake Shelton",
+          "location": [
+            129,
+            142
+          ]
+        },
+        {
+          "text": "Shelton",
+          "location": [
+            343,
+            350
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            727,
+            732
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.031089,
+        "joy": 0.804528,
+        "fear": 0.01265,
+        "disgust": 0.037804,
+        "anger": 0.100696
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": 0.56512,
+        "label": "positive"
+      },
+      "relevance": 0.424785,
+      "emotion": {
+        "sadness": 0.241259,
+        "joy": 0.61013,
+        "fear": 0.043425,
+        "disgust": 0.047808,
+        "anger": 0.050322
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Gwen Stefani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Adam Levine",
+      "sentiment": {
+        "score": 0.588283,
+        "label": "positive"
+      },
+      "relevance": 0.42064,
+      "mentions": [
+        {
+          "text": "Adam Levine",
+          "location": [
+            169,
+            180
+          ]
+        },
+        {
+          "text": "Adam",
+          "location": [
+            773,
+            777
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.030352,
+        "joy": 0.79312,
+        "fear": 0.014531,
+        "disgust": 0.048602,
+        "anger": 0.074721
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Adam Levine",
+        "dbpedia_resource": "http://dbpedia.org/resource/Adam_Levine"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Gavin Rossdale",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.347157,
+      "mentions": [
+        {
+          "text": "Gavin Rossdale",
+          "location": [
+            530,
+            544
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.280702,
+        "joy": 0.036257,
+        "fear": 0.19365,
+        "disgust": 0.109306,
+        "anger": 0.184181
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Gavin Rossdale",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gavin_Rossdale"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.56512,
+        "label": "positive"
+      },
+      "relevance": 0.331221,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            915,
+            926
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241259,
+        "joy": 0.61013,
+        "fear": 0.043425,
+        "disgust": 0.047808,
+        "anger": 0.050322
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American pop singers",
+      "relevance": 0.972152,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_pop_singers"
+    },
+    {
+      "text": "Grammy Award winners",
+      "relevance": 0.907893,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_winners"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.886667,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    },
+    {
+      "text": "Gavin Rossdale",
+      "relevance": 0.832712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gavin_Rossdale"
+    },
+    {
+      "text": "American singer-songwriters",
+      "relevance": 0.760954,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_singer-songwriters"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.633794,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

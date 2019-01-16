@@ -1,0 +1,346 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1132,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.700273,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "red carpet",
+      "sentiment": {
+        "score": -0.942812,
+        "label": "negative"
+      },
+      "relevance": 0.743428,
+      "emotion": {
+        "sadness": 0.624746,
+        "joy": 0.214461,
+        "fear": 0.018842,
+        "disgust": 0.062753,
+        "anger": 0.213162
+      },
+      "count": 3
+    },
+    {
+      "text": "year\u2019s Cannes Film Festival",
+      "sentiment": {
+        "score": -0.942812,
+        "label": "negative"
+      },
+      "relevance": 0.711487,
+      "emotion": {
+        "sadness": 0.558947,
+        "joy": 0.266722,
+        "fear": 0.021036,
+        "disgust": 0.072425,
+        "anger": 0.209174
+      },
+      "count": 1
+    },
+    {
+      "text": "uncontrollable tears",
+      "sentiment": {
+        "score": -0.942812,
+        "label": "negative"
+      },
+      "relevance": 0.655874,
+      "emotion": {
+        "sadness": 0.558947,
+        "joy": 0.266722,
+        "fear": 0.021036,
+        "disgust": 0.072425,
+        "anger": 0.209174
+      },
+      "count": 1
+    },
+    {
+      "text": "director Sofia Coppola",
+      "sentiment": {
+        "score": -0.942812,
+        "label": "negative"
+      },
+      "relevance": 0.654322,
+      "emotion": {
+        "sadness": 0.558947,
+        "joy": 0.266722,
+        "fear": 0.021036,
+        "disgust": 0.072425,
+        "anger": 0.209174
+      },
+      "count": 1
+    },
+    {
+      "text": "Kirsten\u2019s rep",
+      "sentiment": {
+        "score": -0.8148,
+        "label": "negative"
+      },
+      "relevance": 0.633785,
+      "emotion": {
+        "sadness": 0.558947,
+        "joy": 0.266722,
+        "fear": 0.021036,
+        "disgust": 0.072425,
+        "anger": 0.209174
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kirsten Dunst",
+      "sentiment": {
+        "score": -0.530143,
+        "label": "negative"
+      },
+      "relevance": 0.81222,
+      "mentions": [
+        {
+          "text": "Kirsten Dunst",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            27,
+            30
+          ]
+        },
+        {
+          "text": "Kirsten Dunst",
+          "location": [
+            72,
+            85
+          ]
+        },
+        {
+          "text": "Kirsten",
+          "location": [
+            550,
+            557
+          ]
+        },
+        {
+          "text": "Kirsten",
+          "location": [
+            651,
+            658
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 1.0,
+        "joy": 0.084413,
+        "fear": 0.050966,
+        "disgust": 0.106348,
+        "anger": 0.192444
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Kirsten Dunst",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kirsten_Dunst"
+      },
+      "count": 5
+    },
+    {
+      "type": "Award",
+      "text": "Cannes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.563619,
+      "mentions": [
+        {
+          "text": "Cannes",
+          "location": [
+            49,
+            55
+          ]
+        },
+        {
+          "text": "Cannes",
+          "location": [
+            151,
+            157
+          ]
+        },
+        {
+          "text": "Cannes",
+          "location": [
+            844,
+            850
+          ]
+        },
+        {
+          "text": "Cannes",
+          "location": [
+            1007,
+            1013
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Elle Fanning",
+      "sentiment": {
+        "score": 0.712725,
+        "label": "positive"
+      },
+      "relevance": 0.282644,
+      "mentions": [
+        {
+          "text": "Elle Fanning",
+          "location": [
+            363,
+            375
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.099252,
+        "joy": 0.539256,
+        "fear": 0.033681,
+        "disgust": 0.35019,
+        "anger": 0.030495
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Elle Fanning",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elle_Fanning"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sofia Coppola.While",
+      "sentiment": {
+        "score": 0.546344,
+        "label": "positive"
+      },
+      "relevance": 0.276935,
+      "mentions": [
+        {
+          "text": "Sofia Coppola.While",
+          "location": [
+            419,
+            438
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.132016,
+        "joy": 0.521988,
+        "fear": 0.068671,
+        "disgust": 0.024941,
+        "anger": 0.249953
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "director",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.260978,
+      "mentions": [
+        {
+          "text": "director",
+          "location": [
+            410,
+            418
+          ]
+        },
+        {
+          "text": "director",
+          "location": [
+            871,
+            879
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1002,
+        "joy": 0.545108,
+        "fear": 0.002881,
+        "disgust": 0.087404,
+        "anger": 0.006901
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cannes Film Festival",
+      "relevance": 0.945151,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cannes_Film_Festival"
+    },
+    {
+      "text": "Sofia Coppola",
+      "relevance": 0.871776,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sofia_Coppola"
+    },
+    {
+      "text": "MTV Movie Award winners",
+      "relevance": 0.817147,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Movie_Award_winners"
+    },
+    {
+      "text": "Explanation",
+      "relevance": 0.741292,
+      "dbpedia_resource": "http://dbpedia.org/resource/Explanation"
+    },
+    {
+      "text": "Kirsten Dunst",
+      "relevance": 0.718918,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kirsten_Dunst"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.944457,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

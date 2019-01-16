@@ -1,0 +1,157 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 730,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.645341,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Study Finds",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.825467,
+      "emotion": {
+        "sadness": 0.291947,
+        "joy": 0.156654,
+        "fear": 0.277882,
+        "disgust": 0.408524,
+        "anger": 0.047044
+      },
+      "count": 1
+    },
+    {
+      "text": "Preschoolers Face Racial Bias",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.813488,
+      "emotion": {
+        "sadness": 0.291947,
+        "joy": 0.156654,
+        "fear": 0.277882,
+        "disgust": 0.408524,
+        "anger": 0.047044
+      },
+      "count": 1
+    },
+    {
+      "text": "black students",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.811057,
+      "emotion": {
+        "sadness": 0.209461,
+        "joy": 0.411076,
+        "fear": 0.100522,
+        "disgust": 0.16859,
+        "anger": 0.230368
+      },
+      "count": 1
+    },
+    {
+      "text": "Yale Child Study Center",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.733763,
+      "emotion": {
+        "sadness": 0.209461,
+        "joy": 0.411076,
+        "fear": 0.100522,
+        "disgust": 0.16859,
+        "anger": 0.230368
+      },
+      "count": 1
+    },
+    {
+      "text": "white children",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732227,
+      "emotion": {
+        "sadness": 0.209461,
+        "joy": 0.411076,
+        "fear": 0.100522,
+        "disgust": 0.16859,
+        "anger": 0.230368
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Yale Child Study",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.90444,
+      "mentions": [
+        {
+          "text": "Yale Child Study",
+          "location": [
+            197,
+            213
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137232,
+        "joy": 0.359466,
+        "fear": 0.127846,
+        "disgust": 0.025779,
+        "anger": 0.279529
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Childhood",
+      "relevance": 0.983037,
+      "dbpedia_resource": "http://dbpedia.org/resource/Childhood"
+    },
+    {
+      "text": "Black people",
+      "relevance": 0.728747,
+      "dbpedia_resource": "http://dbpedia.org/resource/Black_people"
+    },
+    {
+      "text": "Racism",
+      "relevance": 0.723164,
+      "dbpedia_resource": "http://dbpedia.org/resource/Racism"
+    },
+    {
+      "text": "White people",
+      "relevance": 0.687774,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_people"
+    },
+    {
+      "text": "Race",
+      "relevance": 0.67458,
+      "dbpedia_resource": "http://dbpedia.org/resource/Race_(classification_of_human_beings)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.954053,
+      "label": "/education/homework and study tips"
+    }
+  ]
+}

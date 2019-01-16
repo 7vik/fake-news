@@ -1,0 +1,268 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 574,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.510525,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "whole company",
+      "sentiment": {
+        "score": -0.564835,
+        "label": "negative"
+      },
+      "relevance": 0.731497,
+      "emotion": {
+        "sadness": 0.280807,
+        "joy": 0.216376,
+        "fear": 0.079051,
+        "disgust": 0.313434,
+        "anger": 0.077477
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.564835,
+        "label": "negative"
+      },
+      "relevance": 0.643391,
+      "emotion": {
+        "sadness": 0.334056,
+        "joy": 0.316783,
+        "fear": 0.017744,
+        "disgust": 0.371795,
+        "anger": 0.116093
+      },
+      "count": 3
+    },
+    {
+      "text": "undercover boss discovery mission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.578674,
+      "emotion": {
+        "sadness": 0.093358,
+        "joy": 0.559202,
+        "fear": 0.030374,
+        "disgust": 0.112002,
+        "anger": 0.090197
+      },
+      "count": 1
+    },
+    {
+      "text": "lunch",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.538636,
+      "emotion": {
+        "sadness": 0.151601,
+        "joy": 0.662705,
+        "fear": 0.045512,
+        "disgust": 0.158798,
+        "anger": 0.044944
+      },
+      "count": 1
+    },
+    {
+      "text": "cafeteria",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.530011,
+      "emotion": {
+        "sadness": 0.151601,
+        "joy": 0.662705,
+        "fear": 0.045512,
+        "disgust": 0.158798,
+        "anger": 0.044944
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.164988,
+        "label": "negative"
+      },
+      "relevance": 0.957703,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            9,
+            14
+          ]
+        },
+        {
+          "text": "a worker bee",
+          "location": [
+            30,
+            42
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            43,
+            58
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            123,
+            128
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            232,
+            235
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            237,
+            239
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            435,
+            440
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            527,
+            529
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.229991,
+        "joy": 0.497496,
+        "fear": 0.106682,
+        "disgust": 0.151189,
+        "anger": 0.480974
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "lumnch",
+      "sentiment": {
+        "score": -0.492983,
+        "label": "negative"
+      },
+      "relevance": 0.107172,
+      "mentions": [
+        {
+          "text": "lumnch",
+          "location": [
+            495,
+            501
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.341128,
+        "joy": 0.105807,
+        "fear": 0.129557,
+        "disgust": 0.485659,
+        "anger": 0.095199
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": 0.480443,
+        "label": "positive"
+      },
+      "relevance": 0.089175,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            152,
+            159
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.068168,
+        "joy": 0.88632,
+        "fear": 0.009272,
+        "disgust": 0.029961,
+        "anger": 0.004662
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Discovery",
+      "relevance": 0.920989,
+      "dbpedia_resource": "http://dbpedia.org/resource/Discovery_(observation)"
+    },
+    {
+      "text": "Honey",
+      "relevance": 0.890391,
+      "dbpedia_resource": "http://dbpedia.org/resource/Honey"
+    },
+    {
+      "text": "Honey bee",
+      "relevance": 0.83789,
+      "dbpedia_resource": "http://dbpedia.org/resource/Honey_bee"
+    },
+    {
+      "text": "Bee sting",
+      "relevance": 0.770134,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bee_sting"
+    },
+    {
+      "text": "Debut albums",
+      "relevance": 0.742623,
+      "dbpedia_resource": "http://dbpedia.org/resource/Debut_albums"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.654134,
+      "label": "/food and drink"
+    }
+  ]
+}

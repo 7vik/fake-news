@@ -1,0 +1,295 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1095,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.48332,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Caitlyn Jenner Celebrated Father",
+      "sentiment": {
+        "score": -0.95556,
+        "label": "negative"
+      },
+      "relevance": 0.938883,
+      "emotion": {
+        "sadness": 0.164648,
+        "joy": 0.648512,
+        "fear": 0.026305,
+        "disgust": 0.077258,
+        "anger": 0.057191
+      },
+      "count": 1
+    },
+    {
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": -0.800706,
+        "label": "negative"
+      },
+      "relevance": 0.749633,
+      "emotion": {
+        "sadness": 0.171162,
+        "joy": 0.575201,
+        "fear": 0.011667,
+        "disgust": 0.185239,
+        "anger": 0.155476
+      },
+      "count": 2
+    },
+    {
+      "text": "Father\u2019s Day",
+      "sentiment": {
+        "score": -0.360516,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.748527,
+      "emotion": {
+        "sadness": 0.080208,
+        "joy": 0.799746,
+        "fear": 0.00524,
+        "disgust": 0.081263,
+        "anger": 0.061204
+      },
+      "count": 2
+    },
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.814552,
+        "label": "negative"
+      },
+      "relevance": 0.720461,
+      "emotion": {
+        "sadness": 0.166227,
+        "joy": 0.548137,
+        "fear": 0.022394,
+        "disgust": 0.206618,
+        "anger": 0.149638
+      },
+      "count": 1
+    },
+    {
+      "text": "Burt Jenner",
+      "sentiment": {
+        "score": -0.814552,
+        "label": "negative"
+      },
+      "relevance": 0.699051,
+      "emotion": {
+        "sadness": 0.166227,
+        "joy": 0.548137,
+        "fear": 0.022394,
+        "disgust": 0.206618,
+        "anger": 0.149638
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.905234,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            11,
+            25
+          ]
+        },
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            50,
+            64
+          ]
+        },
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            357,
+            371
+          ]
+        },
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            559,
+            573
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.232762,
+        "joy": 0.588439,
+        "fear": 0.063526,
+        "disgust": 0.104427,
+        "anger": 0.102604
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.352186,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            435,
+            449
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.182438,
+        "fear": 0.087573,
+        "disgust": 0.100574,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Burt Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.320229,
+      "mentions": [
+        {
+          "text": "Burt Jenner",
+          "location": [
+            321,
+            332
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.197152,
+        "joy": 0.229233,
+        "fear": 0.086794,
+        "disgust": 0.142725,
+        "anger": 0.111318
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brandon Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.289346,
+      "mentions": [
+        {
+          "text": "Brandon Jenner",
+          "location": [
+            451,
+            465
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17992,
+        "joy": 0.214799,
+        "fear": 0.042085,
+        "disgust": 0.250343,
+        "anger": 0.12166
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Leah Felder.Both Kendall",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.212269,
+      "mentions": [
+        {
+          "text": "Leah Felder.Both Kendall",
+          "location": [
+            480,
+            504
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            988,
+            995
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.194379,
+        "joy": 0.512031,
+        "fear": 0.0527,
+        "disgust": 0.12717,
+        "anger": 0.133149
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brody Jenner",
+      "relevance": 0.965874,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brody_Jenner"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.831667,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.817751,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.661332,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.659847,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.777683,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Cruise",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.153482,
+        "joy": 0.142919,
+        "fear": 0.08833,
+        "disgust": 0.160952,
+        "anger": 0.09576
+      },
+      "count": 1
+    },
+    {
+      "text": "question",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.663188,
+      "emotion": {
+        "sadness": 0.153482,
+        "joy": 0.142919,
+        "fear": 0.08833,
+        "disgust": 0.160952,
+        "anger": 0.09576
+      },
+      "count": 1
+    },
+    {
+      "text": "daughter Suri",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.118016,
+      "emotion": {
+        "sadness": 0.153482,
+        "joy": 0.142919,
+        "fear": 0.08833,
+        "disgust": 0.160952,
+        "anger": 0.09576
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Cruise",
+      "sentiment": {
+        "score": -0.359916,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Tom Cruise",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153482,
+        "joy": 0.142919,
+        "fear": 0.08833,
+        "disgust": 0.160952,
+        "anger": 0.09576
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Tom Cruise",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Cruise"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Suri",
+      "sentiment": {
+        "score": -0.359916,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Suri",
+          "location": [
+            53,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153482,
+        "joy": 0.142919,
+        "fear": 0.08833,
+        "disgust": 0.160952,
+        "anger": 0.09576
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.682823,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

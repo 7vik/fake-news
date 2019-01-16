@@ -1,0 +1,239 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 921,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.747568,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "open carry Law",
+      "sentiment": {
+        "score": -0.453357,
+        "label": "negative"
+      },
+      "relevance": 0.755868,
+      "emotion": {
+        "sadness": 0.055169,
+        "joy": 0.439001,
+        "fear": 0.079755,
+        "disgust": 0.372365,
+        "anger": 0.199544
+      },
+      "count": 1
+    },
+    {
+      "text": "University of Texas",
+      "sentiment": {
+        "score": -0.453357,
+        "label": "negative"
+      },
+      "relevance": 0.675081,
+      "emotion": {
+        "sadness": 0.116403,
+        "joy": 0.420422,
+        "fear": 0.163858,
+        "disgust": 0.289462,
+        "anger": 0.183696
+      },
+      "count": 2
+    },
+    {
+      "text": "handgun license holders",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66513,
+      "emotion": {
+        "sadness": 0.427489,
+        "joy": 0.079277,
+        "fear": 0.13641,
+        "disgust": 0.230628,
+        "anger": 0.169028
+      },
+      "count": 1
+    },
+    {
+      "text": "unusual twist",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.626341,
+      "emotion": {
+        "sadness": 0.058597,
+        "joy": 0.575012,
+        "fear": 0.087533,
+        "disgust": 0.248593,
+        "anger": 0.144236
+      },
+      "count": 1
+    },
+    {
+      "text": "dining halls",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.602309,
+      "emotion": {
+        "sadness": 0.427489,
+        "joy": 0.079277,
+        "fear": 0.13641,
+        "disgust": 0.230628,
+        "anger": 0.169028
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jared Jin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.928164,
+      "mentions": [
+        {
+          "text": "Jared Jin",
+          "location": [
+            606,
+            615
+          ]
+        },
+        {
+          "text": "Jin",
+          "location": [
+            802,
+            805
+          ]
+        },
+        {
+          "text": "Jin",
+          "location": [
+            916,
+            919
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.055112,
+        "joy": 0.161805,
+        "fear": 0.056566,
+        "disgust": 0.104256,
+        "anger": 0.161106
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "University of Texas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.92079,
+      "mentions": [
+        {
+          "text": "University of Texas",
+          "location": [
+            49,
+            68
+          ]
+        },
+        {
+          "text": "University of Texas",
+          "location": [
+            98,
+            117
+          ]
+        },
+        {
+          "text": "University of Texas-Austin",
+          "location": [
+            167,
+            193
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.067835,
+        "joy": 0.500769,
+        "fear": 0.096894,
+        "disgust": 0.313295,
+        "anger": 0.166702
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "University of Texas at Austin",
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+      },
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "21 years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.435799,
+      "mentions": [
+        {
+          "text": "21 years",
+          "location": [
+            368,
+            376
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Firearm",
+      "relevance": 0.96959,
+      "dbpedia_resource": "http://dbpedia.org/resource/Firearm"
+    },
+    {
+      "text": "Concealed carry in the United States",
+      "relevance": 0.73825,
+      "dbpedia_resource": "http://dbpedia.org/resource/Concealed_carry_in_the_United_States"
+    },
+    {
+      "text": "Gun",
+      "relevance": 0.61892,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gun"
+    },
+    {
+      "text": "University of Texas at Austin",
+      "relevance": 0.516272,
+      "dbpedia_resource": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+    },
+    {
+      "text": "Handgun",
+      "relevance": 0.512331,
+      "dbpedia_resource": "http://dbpedia.org/resource/Handgun"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.82481,
+      "label": "/society/sex"
+    }
+  ]
+}

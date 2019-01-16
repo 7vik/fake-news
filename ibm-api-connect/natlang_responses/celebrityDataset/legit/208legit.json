@@ -1,0 +1,144 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.374361,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mariah Carey",
+      "sentiment": {
+        "score": -0.374361,
+        "label": "negative"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.095228,
+        "joy": 0.058653,
+        "fear": 0.144138,
+        "disgust": 0.040309,
+        "anger": 0.09508
+      },
+      "count": 1
+    },
+    {
+      "text": "X Factor",
+      "sentiment": {
+        "score": -0.374361,
+        "label": "negative"
+      },
+      "relevance": 0.987765,
+      "emotion": {
+        "sadness": 0.095228,
+        "joy": 0.058653,
+        "fear": 0.144138,
+        "disgust": 0.040309,
+        "anger": 0.09508
+      },
+      "count": 1
+    },
+    {
+      "text": "talks",
+      "sentiment": {
+        "score": -0.374361,
+        "label": "negative"
+      },
+      "relevance": 0.704642,
+      "emotion": {
+        "sadness": 0.095228,
+        "joy": 0.058653,
+        "fear": 0.144138,
+        "disgust": 0.040309,
+        "anger": 0.09508
+      },
+      "count": 1
+    },
+    {
+      "text": "report",
+      "sentiment": {
+        "score": -0.374361,
+        "label": "negative"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.095228,
+        "joy": 0.058653,
+        "fear": 0.144138,
+        "disgust": 0.040309,
+        "anger": 0.09508
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mariah Carey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Mariah Carey",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.094685,
+        "joy": 0.129412,
+        "fear": 0.147269,
+        "disgust": 0.041197,
+        "anger": 0.087035
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Mariah Carey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hero",
+      "relevance": 0.934074,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hero_(Mariah_Carey_song)"
+    },
+    {
+      "text": "Mariah Carey",
+      "relevance": 0.90459,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.689906,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

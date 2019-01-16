@@ -1,0 +1,196 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.260647,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Timberlake",
+      "sentiment": {
+        "score": -0.260647,
+        "label": "negative"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.245509,
+        "joy": 0.205119,
+        "fear": 0.0867,
+        "disgust": 0.162969,
+        "anger": 0.158059
+      },
+      "count": 1
+    },
+    {
+      "text": "Emmys",
+      "sentiment": {
+        "score": -0.260647,
+        "label": "negative"
+      },
+      "relevance": 0.663188,
+      "emotion": {
+        "sadness": 0.245509,
+        "joy": 0.205119,
+        "fear": 0.0867,
+        "disgust": 0.162969,
+        "anger": 0.158059
+      },
+      "count": 1
+    },
+    {
+      "text": "Jessica Biel",
+      "sentiment": {
+        "score": -0.260647,
+        "label": "negative"
+      },
+      "relevance": 0.118016,
+      "emotion": {
+        "sadness": 0.245509,
+        "joy": 0.205119,
+        "fear": 0.0867,
+        "disgust": 0.162969,
+        "anger": 0.158059
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Timberlake",
+      "sentiment": {
+        "score": 0.895207,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Timberlake",
+          "location": [
+            4,
+            21
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245509,
+        "joy": 0.205119,
+        "fear": 0.0867,
+        "disgust": 0.162969,
+        "anger": 0.158059
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "TVProducer",
+          "FilmActor",
+          "Lyricist",
+          "TVActor"
+        ],
+        "name": "Justin Timberlake",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Timberlake"
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Emmys",
+      "sentiment": {
+        "score": 0.895207,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Emmys",
+          "location": [
+            39,
+            44
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245509,
+        "joy": 0.205119,
+        "fear": 0.0867,
+        "disgust": 0.162969,
+        "anger": 0.158059
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ],
+        "name": "Emmy Award",
+        "dbpedia_resource": "http://dbpedia.org/resource/Emmy_Award"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jessica Biel",
+      "sentiment": {
+        "score": 0.895207,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jessica Biel",
+          "location": [
+            50,
+            62
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245509,
+        "joy": 0.205119,
+        "fear": 0.0867,
+        "disgust": 0.162969,
+        "anger": 0.158059
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jessica Biel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jessica_Biel"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Justin Timberlake",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justin_Timberlake"
+    },
+    {
+      "text": "The Love Guru",
+      "relevance": 0.895686,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Love_Guru"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.573128,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

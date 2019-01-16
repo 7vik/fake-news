@@ -1,0 +1,133 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999968,
+      "emotion": {
+        "sadness": 0.103716,
+        "joy": 0.349973,
+        "fear": 0.042062,
+        "disgust": 0.022941,
+        "anger": 0.189258
+      },
+      "count": 1
+    },
+    {
+      "text": "Way",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.593413,
+      "emotion": {
+        "sadness": 0.103716,
+        "joy": 0.349973,
+        "fear": 0.042062,
+        "disgust": 0.022941,
+        "anger": 0.189258
+      },
+      "count": 1
+    },
+    {
+      "text": "A-Rod Wedding",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.452153,
+      "emotion": {
+        "sadness": 0.103716,
+        "joy": 0.349973,
+        "fear": 0.042062,
+        "disgust": 0.022941,
+        "anger": 0.189258
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.452864,
+        "label": "positive"
+      },
+      "relevance": 0.903258,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Her",
+          "location": [
+            61,
+            64
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.09723,
+        "joy": 0.512733,
+        "fear": 0.027662,
+        "disgust": 0.028064,
+        "anger": 0.173689
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Lopez",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.615825,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.859035,
+      "label": "/society/social institution"
+    }
+  ]
+}

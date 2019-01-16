@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 546,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.853408,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.981586,
+        "label": "negative"
+      },
+      "relevance": 0.910814,
+      "emotion": {
+        "sadness": 0.217114,
+        "joy": 0.081441,
+        "fear": 0.270545,
+        "disgust": 0.440457,
+        "anger": 0.244587
+      },
+      "count": 1
+    },
+    {
+      "text": "former President Bill Clinton",
+      "sentiment": {
+        "score": -0.981586,
+        "label": "negative"
+      },
+      "relevance": 0.825693,
+      "emotion": {
+        "sadness": 0.246898,
+        "joy": 0.095728,
+        "fear": 0.171637,
+        "disgust": 0.432873,
+        "anger": 0.19279
+      },
+      "count": 1
+    },
+    {
+      "text": "former Secretary of State Hillary Clinton",
+      "sentiment": {
+        "score": -0.981586,
+        "label": "negative"
+      },
+      "relevance": 0.763217,
+      "emotion": {
+        "sadness": 0.246898,
+        "joy": 0.095728,
+        "fear": 0.171637,
+        "disgust": 0.432873,
+        "anger": 0.19279
+      },
+      "count": 1
+    },
+    {
+      "text": "Russian entity",
+      "sentiment": {
+        "score": -0.649119,
+        "label": "negative"
+      },
+      "relevance": 0.601177,
+      "emotion": {
+        "sadness": 0.688263,
+        "joy": 0.108853,
+        "fear": 0.176188,
+        "disgust": 0.130012,
+        "anger": 0.043068
+      },
+      "count": 1
+    },
+    {
+      "text": "rampant media speculation",
+      "sentiment": {
+        "score": -0.649119,
+        "label": "negative"
+      },
+      "relevance": 0.597354,
+      "emotion": {
+        "sadness": 0.688263,
+        "joy": 0.108853,
+        "fear": 0.176188,
+        "disgust": 0.130012,
+        "anger": 0.043068
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sean Spicer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.836457,
+      "mentions": [
+        {
+          "text": "Sean Spicer",
+          "location": [
+            98,
+            109
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            482,
+            488
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            498,
+            500
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.216172,
+        "joy": 0.121656,
+        "fear": 0.122708,
+        "disgust": 0.504992,
+        "anger": 0.237376
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Clintons",
+      "sentiment": {
+        "score": -0.609803,
+        "label": "negative"
+      },
+      "relevance": 0.788682,
+      "mentions": [
+        {
+          "text": "White House attacks Clintons",
+          "location": [
+            0,
+            28
+          ]
+        },
+        {
+          "text": "Clintons",
+          "location": [
+            447,
+            455
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185127,
+        "joy": 0.070969,
+        "fear": 0.423978,
+        "disgust": 0.174296,
+        "anger": 0.289186
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.603068,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            179,
+            194
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246898,
+        "joy": 0.095728,
+        "fear": 0.171637,
+        "disgust": 0.432873,
+        "anger": 0.19279
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.584665,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            70,
+            81
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "House",
+          "TouristAttraction",
+          "Building"
+        ],
+        "name": "White House",
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bill Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.580181,
+      "mentions": [
+        {
+          "text": "Bill Clinton",
+          "location": [
+            136,
+            148
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246898,
+        "joy": 0.095728,
+        "fear": 0.171637,
+        "disgust": 0.432873,
+        "anger": 0.19279
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Politician",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "MusicalGroupMember",
+          "OfficeHolder",
+          "PoliticalAppointer",
+          "TVPersonality",
+          "FilmActor",
+          "FilmWriter",
+          "USPresident"
+        ],
+        "name": "Bill Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.982812,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.63623,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.575596,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.442745,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.43906,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.866566,
+      "label": "/law, govt and politics/politics/foreign policy"
+    }
+  ]
+}

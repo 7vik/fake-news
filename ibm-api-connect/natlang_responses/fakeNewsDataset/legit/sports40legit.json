@@ -1,0 +1,334 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1031,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.594608,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Real Madrid",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.757439,
+      "emotion": {
+        "sadness": 0.272243,
+        "joy": 0.448855,
+        "fear": 0.04034,
+        "disgust": 0.203538,
+        "anger": 0.118633
+      },
+      "count": 2
+    },
+    {
+      "text": "Ramon Calderon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.708366,
+      "emotion": {
+        "sadness": 0.322062,
+        "joy": 0.428364,
+        "fear": 0.044087,
+        "disgust": 0.198105,
+        "anger": 0.105719
+      },
+      "count": 1
+    },
+    {
+      "text": "Spanish giants",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.680016,
+      "emotion": {
+        "sadness": 0.251293,
+        "joy": 0.205828,
+        "fear": 0.086145,
+        "disgust": 0.011863,
+        "anger": 0.019867
+      },
+      "count": 1
+    },
+    {
+      "text": "media speculation",
+      "sentiment": {
+        "score": -0.682956,
+        "label": "negative"
+      },
+      "relevance": 0.678278,
+      "emotion": {
+        "sadness": 0.114788,
+        "joy": 0.068717,
+        "fear": 0.035321,
+        "disgust": 0.12845,
+        "anger": 0.105077
+      },
+      "count": 1
+    },
+    {
+      "text": "Eden Hazard",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.666773,
+      "emotion": {
+        "sadness": 0.272243,
+        "joy": 0.448855,
+        "fear": 0.04034,
+        "disgust": 0.203538,
+        "anger": 0.118633
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ramon Calderon",
+      "sentiment": {
+        "score": -0.387533,
+        "label": "negative"
+      },
+      "relevance": 0.848413,
+      "mentions": [
+        {
+          "text": "Ramon Calderon",
+          "location": [
+            65,
+            79
+          ]
+        },
+        {
+          "text": "Ramon Calderon",
+          "location": [
+            226,
+            240
+          ]
+        },
+        {
+          "text": "Calderon",
+          "location": [
+            660,
+            668
+          ]
+        },
+        {
+          "text": "Calderon",
+          "location": [
+            894,
+            902
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            982,
+            985
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.381985,
+        "joy": 0.228203,
+        "fear": 0.083252,
+        "disgust": 0.157919,
+        "anger": 0.167487
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ram\u00f3n Calder\u00f3n",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ram\u00f3n_Calder\u00f3n"
+      },
+      "count": 5
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Eden Hazard",
+      "sentiment": {
+        "score": -0.326269,
+        "label": "negative"
+      },
+      "relevance": 0.675092,
+      "mentions": [
+        {
+          "text": "Eden Hazard",
+          "location": [
+            48,
+            59
+          ]
+        },
+        {
+          "text": "Eden Hazard",
+          "location": [
+            191,
+            202
+          ]
+        },
+        {
+          "text": "Hazard",
+          "location": [
+            274,
+            280
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.306111,
+        "joy": 0.434491,
+        "fear": 0.053908,
+        "disgust": 0.090494,
+        "anger": 0.125834
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Chelsea",
+      "sentiment": {
+        "score": 0.057259,
+        "label": "positive"
+      },
+      "relevance": 0.501751,
+      "mentions": [
+        {
+          "text": "Chelsea",
+          "location": [
+            181,
+            188
+          ]
+        },
+        {
+          "text": "Chelsea",
+          "location": [
+            471,
+            478
+          ]
+        },
+        {
+          "text": "Chelsea",
+          "location": [
+            957,
+            964
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.382067,
+        "joy": 0.268501,
+        "fear": 0.100678,
+        "disgust": 0.12558,
+        "anger": 0.14764
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Real",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.341894,
+      "mentions": [
+        {
+          "text": "Real",
+          "location": [
+            519,
+            523
+          ]
+        },
+        {
+          "text": "Real",
+          "location": [
+            856,
+            860
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.31656,
+        "joy": 0.344291,
+        "fear": 0.048048,
+        "disgust": 0.159082,
+        "anger": 0.25851
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Sky",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.236311,
+      "mentions": [
+        {
+          "text": "Sky",
+          "location": [
+            295,
+            298
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.215672,
+        "joy": 0.506239,
+        "fear": 0.107208,
+        "disgust": 0.010219,
+        "anger": 0.05225
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "BSkyB",
+        "dbpedia_resource": "http://dbpedia.org/resource/BSkyB"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Real Madrid C.F.",
+      "relevance": 0.974414,
+      "dbpedia_resource": "http://dbpedia.org/resource/Real_Madrid_C.F."
+    },
+    {
+      "text": "Cristiano Ronaldo",
+      "relevance": 0.722963,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cristiano_Ronaldo"
+    },
+    {
+      "text": "Premier League",
+      "relevance": 0.63654,
+      "dbpedia_resource": "http://dbpedia.org/resource/Premier_League"
+    },
+    {
+      "text": "La Liga",
+      "relevance": 0.619365,
+      "dbpedia_resource": "http://dbpedia.org/resource/La_Liga"
+    },
+    {
+      "text": "Manchester United F.C.",
+      "relevance": 0.609812,
+      "dbpedia_resource": "http://dbpedia.org/resource/Manchester_United_F.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.934943,
+      "label": "/sports/soccer"
+    }
+  ]
+}

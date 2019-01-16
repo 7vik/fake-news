@@ -1,0 +1,447 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1332,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.527012,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "quick search of social media pages",
+      "sentiment": {
+        "score": -0.933055,
+        "label": "negative"
+      },
+      "relevance": 0.755907,
+      "emotion": {
+        "sadness": 0.22782,
+        "joy": 0.258031,
+        "fear": 0.437689,
+        "disgust": 0.173207,
+        "anger": 0.073204
+      },
+      "count": 1
+    },
+    {
+      "text": "EXPLOSIVE TEA",
+      "sentiment": {
+        "score": -0.52641,
+        "label": "negative"
+      },
+      "relevance": 0.699931,
+      "emotion": {
+        "sadness": 0.356784,
+        "joy": 0.456897,
+        "fear": 0.080106,
+        "disgust": 0.03306,
+        "anger": 0.200942
+      },
+      "count": 2
+    },
+    {
+      "text": "past week",
+      "sentiment": {
+        "score": -0.702705,
+        "label": "negative"
+      },
+      "relevance": 0.671546,
+      "emotion": {
+        "sadness": 0.524005,
+        "joy": 0.372101,
+        "fear": 0.057228,
+        "disgust": 0.022544,
+        "anger": 0.085961
+      },
+      "count": 2
+    },
+    {
+      "text": "PRINCE HARRY",
+      "sentiment": {
+        "score": -0.710642,
+        "label": "negative"
+      },
+      "relevance": 0.636674,
+      "emotion": {
+        "sadness": 0.336672,
+        "joy": 0.412069,
+        "fear": 0.057178,
+        "disgust": 0.144288,
+        "anger": 0.069317
+      },
+      "count": 1
+    },
+    {
+      "text": "small Caribbean island",
+      "sentiment": {
+        "score": -0.933055,
+        "label": "negative"
+      },
+      "relevance": 0.597271,
+      "emotion": {
+        "sadness": 0.22782,
+        "joy": 0.258031,
+        "fear": 0.437689,
+        "disgust": 0.173207,
+        "anger": 0.073204
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Caribbean",
+      "sentiment": {
+        "score": -0.249005,
+        "label": "negative"
+      },
+      "relevance": 0.917507,
+      "mentions": [
+        {
+          "text": "Rihanna",
+          "location": [
+            63,
+            70
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            110,
+            113
+          ]
+        },
+        {
+          "text": "Rihanna",
+          "location": [
+            239,
+            246
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            299,
+            302
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            324,
+            327
+          ]
+        },
+        {
+          "text": "PREGNANT.Why",
+          "location": [
+            335,
+            347
+          ]
+        },
+        {
+          "text": "Rihanna",
+          "location": [
+            419,
+            426
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            441,
+            444
+          ]
+        },
+        {
+          "text": "Rihanna",
+          "location": [
+            755,
+            762
+          ]
+        },
+        {
+          "text": "Rihanna",
+          "location": [
+            1060,
+            1067
+          ]
+        },
+        {
+          "text": "Rihanna",
+          "location": [
+            1194,
+            1201
+          ]
+        },
+        {
+          "text": "Caribbean",
+          "location": [
+            1245,
+            1254
+          ]
+        },
+        {
+          "text": "island.This",
+          "location": [
+            1255,
+            1266
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1271,
+            1274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.159042,
+        "joy": 0.125672,
+        "fear": 0.514895,
+        "disgust": 0.185764,
+        "anger": 0.065631
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ],
+        "name": "Caribbean",
+        "dbpedia_resource": "http://dbpedia.org/resource/Caribbean"
+      },
+      "count": 14
+    },
+    {
+      "type": "Location",
+      "text": "BARBADOS",
+      "sentiment": {
+        "score": 0.581653,
+        "label": "positive"
+      },
+      "relevance": 0.820359,
+      "mentions": [
+        {
+          "text": "BARBADOS",
+          "location": [
+            38,
+            46
+          ]
+        },
+        {
+          "text": "Barbados",
+          "location": [
+            222,
+            230
+          ]
+        },
+        {
+          "text": "Barbados",
+          "location": [
+            456,
+            464
+          ]
+        },
+        {
+          "text": "Bajans",
+          "location": [
+            1169,
+            1175
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.124644,
+        "joy": 0.435786,
+        "fear": 0.030742,
+        "disgust": 0.042445,
+        "anger": 0.064236
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "BoardMember",
+          "Country"
+        ],
+        "name": "Barbados",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barbados"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Robyn",
+      "sentiment": {
+        "score": 0.60458,
+        "label": "positive"
+      },
+      "relevance": 0.588127,
+      "mentions": [
+        {
+          "text": "Robyn",
+          "location": [
+            412,
+            417
+          ]
+        },
+        {
+          "text": "Robyn",
+          "location": [
+            962,
+            967
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1039,
+            1041
+          ]
+        },
+        {
+          "text": "the father",
+          "location": [
+            1045,
+            1055
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.441857,
+        "joy": 0.280138,
+        "fear": 0.071865,
+        "disgust": 0.082535,
+        "anger": 0.121303
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Robyn",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robyn"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "PRINCE HARRY",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.566239,
+      "mentions": [
+        {
+          "text": "PRINCE HARRY",
+          "location": [
+            802,
+            814
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            929,
+            934
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.422417,
+        "joy": 0.40235,
+        "fear": 0.066741,
+        "disgust": 0.054083,
+        "anger": 0.069876
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince Harry of Wales",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_Harry_of_Wales"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Rihanna",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.344749,
+      "mentions": [
+        {
+          "text": "Rihanna",
+          "location": [
+            969,
+            976
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Rihanna",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rihanna"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bajan",
+      "relevance": 0.933627,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bajan"
+    },
+    {
+      "text": "Barbados",
+      "relevance": 0.812741,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barbados"
+    },
+    {
+      "text": "Prince",
+      "relevance": 0.744879,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince"
+    },
+    {
+      "text": "The Only Ones",
+      "relevance": 0.707833,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Only_Ones"
+    },
+    {
+      "text": "Coming out",
+      "relevance": 0.688267,
+      "dbpedia_resource": "http://dbpedia.org/resource/Coming_out"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.671309,
+      "label": "/society/dating"
+    }
+  ]
+}

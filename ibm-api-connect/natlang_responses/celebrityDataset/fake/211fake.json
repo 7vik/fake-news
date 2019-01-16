@@ -1,0 +1,156 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cannes Film Festival",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.981841,
+      "emotion": {
+        "sadness": 0.738089,
+        "joy": 0.015901,
+        "fear": 0.231107,
+        "disgust": 0.17724,
+        "anger": 0.121543
+      },
+      "count": 1
+    },
+    {
+      "text": "Dunst",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.755845,
+      "emotion": {
+        "sadness": 0.738089,
+        "joy": 0.015901,
+        "fear": 0.231107,
+        "disgust": 0.17724,
+        "anger": 0.121543
+      },
+      "count": 1
+    },
+    {
+      "text": "tears",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659489,
+      "emotion": {
+        "sadness": 0.738089,
+        "joy": 0.015901,
+        "fear": 0.231107,
+        "disgust": 0.17724,
+        "anger": 0.121543
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kirsten Dunst",
+      "sentiment": {
+        "score": -0.818177,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kirsten Dunst",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.738089,
+        "joy": 0.015901,
+        "fear": 0.231107,
+        "disgust": 0.17724,
+        "anger": 0.121543
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Kirsten Dunst",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kirsten_Dunst"
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Cannes",
+      "sentiment": {
+        "score": -0.818177,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Cannes",
+          "location": [
+            47,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.738089,
+        "joy": 0.015901,
+        "fear": 0.231107,
+        "disgust": 0.17724,
+        "anger": 0.121543
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cannes Film Festival",
+      "relevance": 0.945151,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cannes_Film_Festival"
+    },
+    {
+      "text": "Kirsten Dunst",
+      "relevance": 0.718918,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kirsten_Dunst"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998979,
+      "label": "/art and entertainment/movies/film festivals and awards"
+    }
+  ]
+}

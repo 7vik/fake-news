@@ -1,0 +1,161 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 71,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.604863,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Aid worker",
+      "sentiment": {
+        "score": -0.604863,
+        "label": "negative"
+      },
+      "relevance": 0.986638,
+      "emotion": {
+        "sadness": 0.334025,
+        "joy": 0.014041,
+        "fear": 0.035061,
+        "disgust": 0.391804,
+        "anger": 0.280957
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.604863,
+        "label": "negative"
+      },
+      "relevance": 0.979043,
+      "emotion": {
+        "sadness": 0.334025,
+        "joy": 0.014041,
+        "fear": 0.035061,
+        "disgust": 0.391804,
+        "anger": 0.280957
+      },
+      "count": 1
+    },
+    {
+      "text": "son Maddox",
+      "sentiment": {
+        "score": -0.604863,
+        "label": "negative"
+      },
+      "relevance": 0.196723,
+      "emotion": {
+        "sadness": 0.334025,
+        "joy": 0.014041,
+        "fear": 0.035061,
+        "disgust": 0.391804,
+        "anger": 0.280957
+      },
+      "count": 1
+    },
+    {
+      "text": "fake details",
+      "sentiment": {
+        "score": -0.604863,
+        "label": "negative"
+      },
+      "relevance": 0.068854,
+      "emotion": {
+        "sadness": 0.334025,
+        "joy": 0.014041,
+        "fear": 0.035061,
+        "disgust": 0.391804,
+        "anger": 0.280957
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.347195,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            18,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.334025,
+        "joy": 0.014041,
+        "fear": 0.035061,
+        "disgust": 0.391804,
+        "anger": 0.280957
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Maddox",
+      "sentiment": {
+        "score": -0.347195,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Maddox",
+          "location": [
+            45,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.334025,
+        "joy": 0.014041,
+        "fear": 0.035061,
+        "disgust": 0.391804,
+        "anger": 0.280957
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.649351,
+      "label": "/society/work"
+    }
+  ]
+}

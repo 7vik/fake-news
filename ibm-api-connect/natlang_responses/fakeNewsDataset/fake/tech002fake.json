@@ -1,0 +1,290 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 738,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.732069,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Federal Aviation Administration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.813601,
+      "emotion": {
+        "sadness": 0.157361,
+        "joy": 0.13063,
+        "fear": 0.037871,
+        "disgust": 0.026339,
+        "anger": 0.459794
+      },
+      "count": 1
+    },
+    {
+      "text": "Smart phones",
+      "sentiment": {
+        "score": -0.91393,
+        "label": "negative"
+      },
+      "relevance": 0.786448,
+      "emotion": {
+        "sadness": 0.236487,
+        "joy": 0.02933,
+        "fear": 0.075878,
+        "disgust": 0.075448,
+        "anger": 0.444016
+      },
+      "count": 2
+    },
+    {
+      "text": "U.S. flights",
+      "sentiment": {
+        "score": -0.91393,
+        "label": "negative"
+      },
+      "relevance": 0.666915,
+      "emotion": {
+        "sadness": 0.236487,
+        "joy": 0.02933,
+        "fear": 0.075878,
+        "disgust": 0.075448,
+        "anger": 0.444016
+      },
+      "count": 1
+    },
+    {
+      "text": "Transportation Department",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.660638,
+      "emotion": {
+        "sadness": 0.113223,
+        "joy": 0.064954,
+        "fear": 0.028647,
+        "disgust": 0.06808,
+        "anger": 0.283925
+      },
+      "count": 1
+    },
+    {
+      "text": "Transportation Secretary Anthony Foxx",
+      "sentiment": {
+        "score": -0.769613,
+        "label": "negative"
+      },
+      "relevance": 0.656906,
+      "emotion": {
+        "sadness": 0.613532,
+        "joy": 0.02912,
+        "fear": 0.219783,
+        "disgust": 0.113787,
+        "anger": 0.059236
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Transportation Secretary Anthony Foxx",
+      "sentiment": {
+        "score": 0.224316,
+        "label": "positive"
+      },
+      "relevance": 0.881555,
+      "mentions": [
+        {
+          "text": "Transportation Secretary Anthony Foxx",
+          "location": [
+            610,
+            647
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.314081,
+        "joy": 0.176048,
+        "fear": 0.082767,
+        "disgust": 0.192118,
+        "anger": 0.129565
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Transportation Department",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.622144,
+      "mentions": [
+        {
+          "text": "Transportation Department",
+          "location": [
+            129,
+            154
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.135934,
+        "joy": 0.047545,
+        "fear": 0.019172,
+        "disgust": 0.096016,
+        "anger": 0.166475
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "United States Department of Transportation",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Transportation"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Federal Aviation Administration",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.579644,
+      "mentions": [
+        {
+          "text": "Federal Aviation Administration",
+          "location": [
+            245,
+            276
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140174,
+        "joy": 0.090537,
+        "fear": 0.03507,
+        "disgust": 0.040291,
+        "anger": 0.442089
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Federal Aviation Administration",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Aviation_Administration"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Samsung",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.526992,
+      "mentions": [
+        {
+          "text": "Samsung",
+          "location": [
+            181,
+            188
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.135934,
+        "joy": 0.047545,
+        "fear": 0.019172,
+        "disgust": 0.096016,
+        "anger": 0.166475
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Samsung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samsung"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.459958,
+        "label": "negative"
+      },
+      "relevance": 0.388906,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            39,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.236487,
+        "joy": 0.02933,
+        "fear": 0.075878,
+        "disgust": 0.075448,
+        "anger": 0.444016
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Federal Aviation Administration",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Aviation_Administration"
+    },
+    {
+      "text": "United States Department of Transportation",
+      "relevance": 0.891859,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Transportation"
+    },
+    {
+      "text": "Mobile phone",
+      "relevance": 0.738651,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mobile_phone"
+    },
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.708229,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "2008 singles",
+      "relevance": 0.675698,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_singles"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.724222,
+      "label": "/technology and computing/consumer electronics"
+    }
+  ]
+}

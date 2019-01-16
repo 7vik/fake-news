@@ -1,0 +1,317 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 653,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.478666,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump's immigration ban",
+      "sentiment": {
+        "score": -0.830148,
+        "label": "negative"
+      },
+      "relevance": 0.753414,
+      "emotion": {
+        "sadness": 0.275591,
+        "joy": 0.186476,
+        "fear": 0.01586,
+        "disgust": 0.251764,
+        "anger": 0.527751
+      },
+      "count": 1
+    },
+    {
+      "text": "Meet James Robart",
+      "sentiment": {
+        "score": -0.830148,
+        "label": "negative"
+      },
+      "relevance": 0.748409,
+      "emotion": {
+        "sadness": 0.391734,
+        "joy": 0.05272,
+        "fear": 0.071421,
+        "disgust": 0.284868,
+        "anger": 0.454549
+      },
+      "count": 1
+    },
+    {
+      "text": "federal judge",
+      "sentiment": {
+        "score": -0.830148,
+        "label": "negative"
+      },
+      "relevance": 0.728203,
+      "emotion": {
+        "sadness": 0.267522,
+        "joy": 0.172409,
+        "fear": 0.015845,
+        "disgust": 0.276922,
+        "anger": 0.532324
+      },
+      "count": 1
+    },
+    {
+      "text": "private practice",
+      "sentiment": {
+        "score": -0.830148,
+        "label": "negative"
+      },
+      "relevance": 0.691338,
+      "emotion": {
+        "sadness": 0.267522,
+        "joy": 0.172409,
+        "fear": 0.015845,
+        "disgust": 0.276922,
+        "anger": 0.532324
+      },
+      "count": 1
+    },
+    {
+      "text": "Saturday morning",
+      "sentiment": {
+        "score": -0.830148,
+        "label": "negative"
+      },
+      "relevance": 0.683997,
+      "emotion": {
+        "sadness": 0.267522,
+        "joy": 0.172409,
+        "fear": 0.015845,
+        "disgust": 0.276922,
+        "anger": 0.532324
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Senior Judge James Robart",
+      "sentiment": {
+        "score": -0.269923,
+        "label": "negative"
+      },
+      "relevance": 0.79441,
+      "mentions": [
+        {
+          "text": "James Robart",
+          "location": [
+            5,
+            17
+          ]
+        },
+        {
+          "text": "Senior Judge James Robart",
+          "location": [
+            373,
+            398
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119447,
+        "joy": 0.478891,
+        "fear": 0.041595,
+        "disgust": 0.058117,
+        "anger": 0.087471
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.259564,
+        "label": "positive"
+      },
+      "relevance": 0.518451,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            40,
+            45
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            104,
+            109
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            236,
+            239
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            495,
+            500
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.091528,
+        "joy": 0.422632,
+        "fear": 0.041114,
+        "disgust": 0.380068,
+        "anger": 0.094851
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "President George W. Bush",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.286726,
+      "mentions": [
+        {
+          "text": "President George W. Bush",
+          "location": [
+            564,
+            588
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292708,
+        "joy": 0.139678,
+        "fear": 0.144211,
+        "disgust": 0.219216,
+        "anger": 0.236736
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter",
+          "MusicalArtist",
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardNominee",
+          "AwardWinner",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "MilitaryPerson",
+          "PoliticalAppointer",
+          "USPresident",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "George W. Bush",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.220301,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            94,
+            103
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.387813,
+        "joy": 0.078814,
+        "fear": 0.087014,
+        "disgust": 0.362033,
+        "anger": 0.391191
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "U.S. Senate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.187177,
+      "mentions": [
+        {
+          "text": "U.S. Senate",
+          "location": [
+            640,
+            651
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292708,
+        "joy": 0.139678,
+        "fear": 0.144211,
+        "disgust": 0.219216,
+        "anger": 0.236736
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody",
+          "Legislature"
+        ],
+        "name": "United States Senate",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George W. Bush",
+      "relevance": 0.945494,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.878035,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.808801,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.774475,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.765122,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.9977,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

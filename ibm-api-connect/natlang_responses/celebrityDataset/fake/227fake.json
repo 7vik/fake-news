@@ -1,0 +1,134 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 91,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.417789,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": 0.861513,
+        "label": "positive"
+      },
+      "relevance": 0.979585,
+      "emotion": {
+        "sadness": 0.107991,
+        "joy": 0.495401,
+        "fear": 0.062274,
+        "disgust": 0.016423,
+        "anger": 0.313292
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.296846,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    },
+    {
+      "text": "Successful Movie",
+      "sentiment": {
+        "score": 0.861513,
+        "label": "positive"
+      },
+      "relevance": 0.261906,
+      "emotion": {
+        "sadness": 0.107991,
+        "joy": 0.495401,
+        "fear": 0.062274,
+        "disgust": 0.016423,
+        "anger": 0.313292
+      },
+      "count": 1
+    },
+    {
+      "text": "Twilight Curse",
+      "sentiment": {
+        "score": 0.861513,
+        "label": "positive"
+      },
+      "relevance": 0.122129,
+      "emotion": {
+        "sadness": 0.107991,
+        "joy": 0.495401,
+        "fear": 0.062274,
+        "disgust": 0.016423,
+        "anger": 0.313292
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": 0.571184,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.027466,
+        "joy": 0.877605,
+        "fear": 0.012072,
+        "disgust": 0.005333,
+        "anger": 0.031221
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Robert Pattinson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Robert Pattinson",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.944938,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

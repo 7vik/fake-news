@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 800,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.903034,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "First lady Melania Trump",
+      "sentiment": {
+        "score": -0.903034,
+        "label": "negative"
+      },
+      "relevance": 0.89009,
+      "emotion": {
+        "sadness": 0.152893,
+        "joy": 0.514632,
+        "fear": 0.038366,
+        "disgust": 0.193401,
+        "anger": 0.086019
+      },
+      "count": 1
+    },
+    {
+      "text": "deputy press secretary Stephanie Grisham",
+      "sentiment": {
+        "score": -0.903034,
+        "label": "negative"
+      },
+      "relevance": 0.815674,
+      "emotion": {
+        "sadness": 0.152893,
+        "joy": 0.514632,
+        "fear": 0.038366,
+        "disgust": 0.193401,
+        "anger": 0.086019
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump's campaign",
+      "sentiment": {
+        "score": -0.903034,
+        "label": "negative"
+      },
+      "relevance": 0.772783,
+      "emotion": {
+        "sadness": 0.152893,
+        "joy": 0.514632,
+        "fear": 0.038366,
+        "disgust": 0.193401,
+        "anger": 0.086019
+      },
+      "count": 1
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.903034,
+        "label": "negative"
+      },
+      "relevance": 0.65502,
+      "emotion": {
+        "sadness": 0.152893,
+        "joy": 0.514632,
+        "fear": 0.038366,
+        "disgust": 0.193401,
+        "anger": 0.086019
+      },
+      "count": 1
+    },
+    {
+      "text": "first lady's communications director",
+      "sentiment": {
+        "score": -0.903034,
+        "label": "negative"
+      },
+      "relevance": 0.640464,
+      "emotion": {
+        "sadness": 0.152893,
+        "joy": 0.514632,
+        "fear": 0.038366,
+        "disgust": 0.193401,
+        "anger": 0.086019
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.948808,
+      "mentions": [
+        {
+          "text": "Melania Trump",
+          "location": [
+            16,
+            29
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            311,
+            323
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            664,
+            669
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            688,
+            691
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.215571,
+        "joy": 0.510712,
+        "fear": 0.070183,
+        "disgust": 0.180106,
+        "anger": 0.055782
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Model"
+        ],
+        "name": "Melania Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "JobTitle",
+      "text": "press secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.454884,
+      "mentions": [
+        {
+          "text": "press secretary",
+          "location": [
+            127,
+            142
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.157982,
+        "joy": 0.400018,
+        "fear": 0.068057,
+        "disgust": 0.169505,
+        "anger": 0.125876
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.371613,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            221,
+            232
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1033,
+        "joy": 0.630917,
+        "fear": 0.023918,
+        "disgust": 0.123288,
+        "anger": 0.151783
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "House",
+          "TouristAttraction",
+          "Building"
+        ],
+        "name": "White House",
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "director",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.350299,
+      "mentions": [
+        {
+          "text": "director",
+          "location": [
+            207,
+            215
+          ]
+        },
+        {
+          "text": "Monday.Grisham",
+          "location": [
+            243,
+            257
+          ]
+        },
+        {
+          "text": "director",
+          "location": [
+            266,
+            274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.067144,
+        "joy": 0.661298,
+        "fear": 0.03345,
+        "disgust": 0.136609,
+        "anger": 0.1296
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.347224,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            61,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1033,
+        "joy": 0.630917,
+        "fear": 0.023918,
+        "disgust": 0.123288,
+        "anger": 0.151783
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "White House",
+      "relevance": 0.956426,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.863278,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "First Lady of the United States",
+      "relevance": 0.814387,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    },
+    {
+      "text": "Member of Parliament",
+      "relevance": 0.782634,
+      "dbpedia_resource": "http://dbpedia.org/resource/Member_of_Parliament"
+    },
+    {
+      "text": "Melania Trump",
+      "relevance": 0.75838,
+      "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.675424,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 563,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.598763,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "High school students",
+      "sentiment": {
+        "score": 0.598763,
+        "label": "positive"
+      },
+      "relevance": 0.900796,
+      "emotion": {
+        "sadness": 0.339912,
+        "joy": 0.390362,
+        "fear": 0.030569,
+        "disgust": 0.089278,
+        "anger": 0.168719
+      },
+      "count": 1
+    },
+    {
+      "text": "new national survey",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659409,
+      "emotion": {
+        "sadness": 0.141143,
+        "joy": 0.680508,
+        "fear": 0.072835,
+        "disgust": 0.095026,
+        "anger": 0.019256
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump's Win",
+      "sentiment": {
+        "score": 0.598763,
+        "label": "positive"
+      },
+      "relevance": 0.615855,
+      "emotion": {
+        "sadness": 0.334366,
+        "joy": 0.397053,
+        "fear": 0.078218,
+        "disgust": 0.068931,
+        "anger": 0.109752
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.612858,
+      "emotion": {
+        "sadness": 0.141143,
+        "joy": 0.680508,
+        "fear": 0.072835,
+        "disgust": 0.095026,
+        "anger": 0.019256
+      },
+      "count": 1
+    },
+    {
+      "text": "educational foundations",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.569886,
+      "emotion": {
+        "sadness": 0.339912,
+        "joy": 0.390362,
+        "fear": 0.030569,
+        "disgust": 0.089278,
+        "anger": 0.168719
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald J Trump",
+      "sentiment": {
+        "score": -0.807789,
+        "label": "negative"
+      },
+      "relevance": 0.822093,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Donald J Trump",
+          "location": [
+            224,
+            238
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.282389,
+        "joy": 0.136199,
+        "fear": 0.097589,
+        "disgust": 0.189519,
+        "anger": 0.209067
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "JED Foundation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.414214,
+      "mentions": [
+        {
+          "text": "JED Foundation",
+          "location": [
+            385,
+            399
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.049576,
+        "joy": 0.599009,
+        "fear": 0.079324,
+        "disgust": 0.148148,
+        "anger": 0.026256
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Jed Foundation",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Jed_Foundation"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "The Jordan Porco Foundation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.390239,
+      "mentions": [
+        {
+          "text": "The Jordan Porco Foundation",
+          "location": [
+            437,
+            464
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110406,
+        "joy": 0.422051,
+        "fear": 0.040238,
+        "disgust": 0.164724,
+        "anger": 0.05861
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.356948,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            522,
+            537
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.081682,
+        "joy": 0.680887,
+        "fear": 0.032461,
+        "disgust": 0.080377,
+        "anger": 0.064626
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "70 percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.356948,
+      "mentions": [
+        {
+          "text": "70 percent",
+          "location": [
+            477,
+            487
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.982489,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.936451,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "School",
+      "relevance": 0.902193,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Israel",
+      "relevance": 0.864902,
+      "dbpedia_resource": "http://dbpedia.org/resource/Israel"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.84105,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.697853,
+      "label": "/education/high school"
+    }
+  ]
+}

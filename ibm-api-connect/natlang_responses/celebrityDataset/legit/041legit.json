@@ -1,0 +1,372 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1360,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.816305,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lies lies lies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.990268,
+      "emotion": {
+        "sadness": 0.343659,
+        "joy": 0.25362,
+        "fear": 0.108068,
+        "disgust": 0.192715,
+        "anger": 0.217135
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie Jenner Sets",
+      "sentiment": {
+        "score": -0.861941,
+        "label": "negative"
+      },
+      "relevance": 0.788368,
+      "emotion": {
+        "sadness": 0.074022,
+        "joy": 0.237703,
+        "fear": 0.051731,
+        "disgust": 0.038608,
+        "anger": 0.159145
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.744354,
+        "label": "negative"
+      },
+      "relevance": 0.694915,
+      "emotion": {
+        "sadness": 0.033304,
+        "joy": 0.772687,
+        "fear": 0.016219,
+        "disgust": 0.061934,
+        "anger": 0.149322
+      },
+      "count": 2
+    },
+    {
+      "text": "Reports Tyga",
+      "sentiment": {
+        "score": -0.861941,
+        "label": "negative"
+      },
+      "relevance": 0.606353,
+      "emotion": {
+        "sadness": 0.074022,
+        "joy": 0.237703,
+        "fear": 0.051731,
+        "disgust": 0.038608,
+        "anger": 0.159145
+      },
+      "count": 1
+    },
+    {
+      "text": "Rack City",
+      "sentiment": {
+        "score": -0.738234,
+        "label": "negative"
+      },
+      "relevance": 0.573705,
+      "emotion": {
+        "sadness": 0.062423,
+        "joy": 0.765058,
+        "fear": 0.027772,
+        "disgust": 0.076692,
+        "anger": 0.111411
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.358022,
+        "label": "negative"
+      },
+      "relevance": 0.777851,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            95,
+            107
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            194,
+            197
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            392,
+            398
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            451,
+            454
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            533,
+            539
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            599,
+            602
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            718,
+            724
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            855,
+            860
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            919,
+            922
+          ]
+        },
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            964,
+            976
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            1205,
+            1211
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.14861,
+        "joy": 0.653397,
+        "fear": 0.077273,
+        "disgust": 0.090094,
+        "anger": 0.101996
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 12
+    },
+    {
+      "type": "Company",
+      "text": "Tyga",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.162639,
+      "mentions": [
+        {
+          "text": "Tyga",
+          "location": [
+            52,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.288599,
+        "joy": 0.186732,
+        "fear": 0.071011,
+        "disgust": 0.138156,
+        "anger": 0.041492
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tyga",
+      "sentiment": {
+        "score": -0.339379,
+        "label": "negative"
+      },
+      "relevance": 0.154999,
+      "mentions": [
+        {
+          "text": "Tyga",
+          "location": [
+            184,
+            188
+          ]
+        },
+        {
+          "text": "Tyga",
+          "location": [
+            421,
+            425
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.288599,
+        "joy": 0.186732,
+        "fear": 0.071011,
+        "disgust": 0.138156,
+        "anger": 0.041492
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Tyga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tyga"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.150498,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            116,
+            123
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144275,
+        "joy": 0.316265,
+        "fear": 0.104907,
+        "disgust": 0.076429,
+        "anger": 0.110238
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Us Weekly",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.149595,
+      "mentions": [
+        {
+          "text": "Us Weekly",
+          "location": [
+            775,
+            784
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076837,
+        "joy": 0.792711,
+        "fear": 0.080028,
+        "disgust": 0.034251,
+        "anger": 0.026037
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "Us Weekly",
+        "dbpedia_resource": "http://dbpedia.org/resource/Us_Weekly"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.961363,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.649045,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.634045,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.618909,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.591138,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.676638,
+      "label": "/society/dating"
+    }
+  ]
+}

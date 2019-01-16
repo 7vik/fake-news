@@ -1,0 +1,218 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 725,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.5308,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Benedict Cumberbatch",
+      "sentiment": {
+        "score": 0.727842,
+        "label": "positive"
+      },
+      "relevance": 0.858813,
+      "emotion": {
+        "sadness": 0.075825,
+        "joy": 0.395241,
+        "fear": 0.018109,
+        "disgust": 0.10033,
+        "anger": 0.052897
+      },
+      "count": 1
+    },
+    {
+      "text": "actor Benedict Cumberbatch",
+      "sentiment": {
+        "score": 0.727842,
+        "label": "positive"
+      },
+      "relevance": 0.772267,
+      "emotion": {
+        "sadness": 0.140562,
+        "joy": 0.264926,
+        "fear": 0.037285,
+        "disgust": 0.245017,
+        "anger": 0.09351
+      },
+      "count": 1
+    },
+    {
+      "text": "special occasion",
+      "sentiment": {
+        "score": -0.247117,
+        "label": "negative"
+      },
+      "relevance": 0.683755,
+      "emotion": {
+        "sadness": 0.02306,
+        "joy": 0.639857,
+        "fear": 0.009859,
+        "disgust": 0.009139,
+        "anger": 0.026098
+      },
+      "count": 1
+    },
+    {
+      "text": "Sophie Hunter",
+      "sentiment": {
+        "score": 0.727842,
+        "label": "positive"
+      },
+      "relevance": 0.665779,
+      "emotion": {
+        "sadness": 0.140562,
+        "joy": 0.264926,
+        "fear": 0.037285,
+        "disgust": 0.245017,
+        "anger": 0.09351
+      },
+      "count": 1
+    },
+    {
+      "text": "first child",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.641294,
+      "emotion": {
+        "sadness": 0.125678,
+        "joy": 0.446889,
+        "fear": 0.157723,
+        "disgust": 0.037786,
+        "anger": 0.068831
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hal Auden Cumberbatch",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.886066,
+      "mentions": [
+        {
+          "text": "Benedict Cumberbatch",
+          "location": [
+            0,
+            20
+          ]
+        },
+        {
+          "text": "Benedict Cumberbatch",
+          "location": [
+            68,
+            88
+          ]
+        },
+        {
+          "text": "Hal Auden Cumberbatch",
+          "location": [
+            140,
+            161
+          ]
+        },
+        {
+          "text": "Cumberbatch",
+          "location": [
+            536,
+            547
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163757,
+        "joy": 0.248731,
+        "fear": 0.008199,
+        "disgust": 0.234654,
+        "anger": 0.020849
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Sophie Hunter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.589744,
+      "mentions": [
+        {
+          "text": "Sophie Hunter",
+          "location": [
+            109,
+            122
+          ]
+        },
+        {
+          "text": "Sophie",
+          "location": [
+            206,
+            212
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.107581,
+        "joy": 0.300764,
+        "fear": 0.153426,
+        "disgust": 0.13956,
+        "anger": 0.200307
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "ABC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.253374,
+      "emotion": {
+        "sadness": 0.136866,
+        "joy": 0.335728,
+        "fear": 0.077013,
+        "disgust": 0.06264,
+        "anger": 0.278349
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Benedict Cumberbatch",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Benedict_Cumberbatch"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.828553,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "According to Jim",
+      "relevance": 0.799437,
+      "dbpedia_resource": "http://dbpedia.org/resource/According_to_Jim"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.658396,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

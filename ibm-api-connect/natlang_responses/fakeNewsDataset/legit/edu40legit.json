@@ -1,0 +1,234 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 831,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.328597,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "School Choice Fails",
+      "sentiment": {
+        "score": 0.459196,
+        "label": "positive"
+      },
+      "relevance": 0.869774,
+      "emotion": {
+        "sadness": 0.478285,
+        "joy": 0.157223,
+        "fear": 0.18393,
+        "disgust": 0.091681,
+        "anger": 0.300403
+      },
+      "count": 1
+    },
+    {
+      "text": "Economist magazine",
+      "sentiment": {
+        "score": 0.459196,
+        "label": "positive"
+      },
+      "relevance": 0.812585,
+      "emotion": {
+        "sadness": 0.374438,
+        "joy": 0.25112,
+        "fear": 0.136943,
+        "disgust": 0.181115,
+        "anger": 0.143144
+      },
+      "count": 1
+    },
+    {
+      "text": "school-choice advocates",
+      "sentiment": {
+        "score": 0.459196,
+        "label": "positive"
+      },
+      "relevance": 0.697205,
+      "emotion": {
+        "sadness": 0.374438,
+        "joy": 0.25112,
+        "fear": 0.136943,
+        "disgust": 0.181115,
+        "anger": 0.143144
+      },
+      "count": 1
+    },
+    {
+      "text": "team of academic economists",
+      "sentiment": {
+        "score": 0.459196,
+        "label": "positive"
+      },
+      "relevance": 0.672284,
+      "emotion": {
+        "sadness": 0.374438,
+        "joy": 0.25112,
+        "fear": 0.136943,
+        "disgust": 0.181115,
+        "anger": 0.143144
+      },
+      "count": 1
+    },
+    {
+      "text": "face of the predictions of many economists",
+      "sentiment": {
+        "score": 0.459196,
+        "label": "positive"
+      },
+      "relevance": 0.644979,
+      "emotion": {
+        "sadness": 0.374438,
+        "joy": 0.25112,
+        "fear": 0.136943,
+        "disgust": 0.181115,
+        "anger": 0.143144
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Louisiana",
+      "sentiment": {
+        "score": -0.408882,
+        "label": "negative"
+      },
+      "relevance": 0.732178,
+      "mentions": [
+        {
+          "text": "Louisiana",
+          "location": [
+            247,
+            256
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.266698,
+        "joy": 0.148555,
+        "fear": 0.142707,
+        "disgust": 0.421431,
+        "anger": 0.172403
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Louisiana",
+        "dbpedia_resource": "http://dbpedia.org/resource/Louisiana"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The Economist",
+      "sentiment": {
+        "score": -0.408882,
+        "label": "negative"
+      },
+      "relevance": 0.727531,
+      "mentions": [
+        {
+          "text": "The Economist",
+          "location": [
+            140,
+            153
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.266698,
+        "joy": 0.148555,
+        "fear": 0.142707,
+        "disgust": 0.421431,
+        "anger": 0.172403
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine",
+          "Newspaper"
+        ],
+        "name": "The Economist",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Economist"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.587527,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            505,
+            509
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.193549,
+        "joy": 0.475866,
+        "fear": 0.074978,
+        "disgust": 0.016405,
+        "anger": 0.043195
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Economist",
+      "relevance": 0.954089,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Economist"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.946535,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.762464,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Teacher",
+      "relevance": 0.728718,
+      "dbpedia_resource": "http://dbpedia.org/resource/Teacher"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.897517,
+      "label": "/education/school"
+    }
+  ]
+}

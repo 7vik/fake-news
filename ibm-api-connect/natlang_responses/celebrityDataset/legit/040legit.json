@@ -1,0 +1,104 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tyga Reveals Details",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.985003,
+      "emotion": {
+        "sadness": 0.339402,
+        "joy": 0.258292,
+        "fear": 0.050317,
+        "disgust": 0.0413,
+        "anger": 0.041129
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie Jenner Breakup",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.014997,
+      "emotion": {
+        "sadness": 0.339402,
+        "joy": 0.258292,
+        "fear": 0.050317,
+        "disgust": 0.0413,
+        "anger": 0.041129
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.436183,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            27,
+            39
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.339402,
+        "joy": 0.258292,
+        "fear": 0.050317,
+        "disgust": 0.0413,
+        "anger": 0.041129
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.595336,
+      "label": "/society/dating"
+    }
+  ]
+}

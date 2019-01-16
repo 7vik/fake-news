@@ -1,0 +1,334 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1039,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.417807,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Michelle Obama",
+      "sentiment": {
+        "score": -0.580465,
+        "label": "negative"
+      },
+      "relevance": 0.807651,
+      "emotion": {
+        "sadness": 0.149233,
+        "joy": 0.587415,
+        "fear": 0.10624,
+        "disgust": 0.155149,
+        "anger": 0.057026
+      },
+      "count": 1
+    },
+    {
+      "text": "last year",
+      "sentiment": {
+        "score": 0.389309,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.670373,
+      "emotion": {
+        "sadness": 0.085871,
+        "joy": 0.725702,
+        "fear": 0.017641,
+        "disgust": 0.176496,
+        "anger": 0.021525
+      },
+      "count": 1
+    },
+    {
+      "text": "short clip",
+      "sentiment": {
+        "score": 0.581458,
+        "label": "positive"
+      },
+      "relevance": 0.669252,
+      "emotion": {
+        "sadness": 0.085871,
+        "joy": 0.725702,
+        "fear": 0.017641,
+        "disgust": 0.176496,
+        "anger": 0.021525
+      },
+      "count": 1
+    },
+    {
+      "text": "Video Proof",
+      "sentiment": {
+        "score": -0.580465,
+        "label": "negative"
+      },
+      "relevance": 0.649353,
+      "emotion": {
+        "sadness": 0.260801,
+        "joy": 0.337278,
+        "fear": 0.055221,
+        "disgust": 0.362769,
+        "anger": 0.127377
+      },
+      "count": 1
+    },
+    {
+      "text": "fan group",
+      "sentiment": {
+        "score": 0.581458,
+        "label": "positive"
+      },
+      "relevance": 0.641008,
+      "emotion": {
+        "sadness": 0.085871,
+        "joy": 0.725702,
+        "fear": 0.017641,
+        "disgust": 0.176496,
+        "anger": 0.021525
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Obama",
+      "sentiment": {
+        "score": 0.586937,
+        "label": "positive"
+      },
+      "relevance": 0.889155,
+      "mentions": [
+        {
+          "text": "Michelle Obama",
+          "location": [
+            29,
+            43
+          ]
+        },
+        {
+          "text": "Michelle Obama",
+          "location": [
+            74,
+            88
+          ]
+        },
+        {
+          "text": "a secret",
+          "location": [
+            143,
+            151
+          ]
+        },
+        {
+          "text": "President Obama",
+          "location": [
+            233,
+            248
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            867,
+            872
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.11457,
+        "joy": 0.611198,
+        "fear": 0.052659,
+        "disgust": 0.248772,
+        "anger": 0.030242
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.369685,
+      "mentions": [
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            93,
+            100
+          ]
+        },
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            216,
+            223
+          ]
+        },
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            874,
+            881
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.202205,
+        "joy": 0.559733,
+        "fear": 0.082332,
+        "disgust": 0.072102,
+        "anger": 0.053814
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Michelle",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.256768,
+      "mentions": [
+        {
+          "text": "Michelle",
+          "location": [
+            984,
+            992
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.273925,
+        "joy": 0.213656,
+        "fear": 0.114094,
+        "disgust": 0.373238,
+        "anger": 0.110491
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Michel'le",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michel'le"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Etta James",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.229667,
+      "mentions": [
+        {
+          "text": "Etta James",
+          "location": [
+            359,
+            369
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.060236,
+        "joy": 0.766769,
+        "fear": 0.08938,
+        "disgust": 0.022485,
+        "anger": 0.049224
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter",
+          "MusicalArtist",
+          "AwardWinner",
+          "BroadcastArtist",
+          "HallOfFameInductee",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Etta James",
+        "dbpedia_resource": "http://dbpedia.org/resource/Etta_James"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.216839,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            851,
+            858
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240297,
+        "joy": 0.193896,
+        "fear": 0.042957,
+        "disgust": 0.487999,
+        "anger": 0.055668
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.977808,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "First Lady of the United States",
+      "relevance": 0.959053,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    },
+    {
+      "text": "Beyonc\u00e9 Knowles",
+      "relevance": 0.913063,
+      "dbpedia_resource": "http://dbpedia.org/resource/Beyonc\u00e9_Knowles"
+    },
+    {
+      "text": "Inauguration of Barack Obama",
+      "relevance": 0.899432,
+      "dbpedia_resource": "http://dbpedia.org/resource/Inauguration_of_Barack_Obama"
+    },
+    {
+      "text": "Michelle Obama",
+      "relevance": 0.806497,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.68853,
+      "label": "/food and drink/healthy eating"
+    }
+  ]
+}

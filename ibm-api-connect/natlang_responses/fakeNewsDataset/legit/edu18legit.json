@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 661,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.951276,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "carry law",
+      "sentiment": {
+        "score": -0.951276,
+        "label": "negative"
+      },
+      "relevance": 0.706501,
+      "emotion": {
+        "sadness": 0.152531,
+        "joy": 0.21276,
+        "fear": 0.168107,
+        "disgust": 0.512742,
+        "anger": 0.242082
+      },
+      "count": 1
+    },
+    {
+      "text": "campus buildings",
+      "sentiment": {
+        "score": -0.951276,
+        "label": "negative"
+      },
+      "relevance": 0.667665,
+      "emotion": {
+        "sadness": 0.152531,
+        "joy": 0.21276,
+        "fear": 0.168107,
+        "disgust": 0.512742,
+        "anger": 0.242082
+      },
+      "count": 1
+    },
+    {
+      "text": "handgun license holders",
+      "sentiment": {
+        "score": -0.951276,
+        "label": "negative"
+      },
+      "relevance": 0.666982,
+      "emotion": {
+        "sadness": 0.152531,
+        "joy": 0.21276,
+        "fear": 0.168107,
+        "disgust": 0.512742,
+        "anger": 0.242082
+      },
+      "count": 1
+    },
+    {
+      "text": "sex toys",
+      "sentiment": {
+        "score": -0.951276,
+        "label": "negative"
+      },
+      "relevance": 0.65819,
+      "emotion": {
+        "sadness": 0.152531,
+        "joy": 0.21276,
+        "fear": 0.168107,
+        "disgust": 0.512742,
+        "anger": 0.242082
+      },
+      "count": 1
+    },
+    {
+      "text": "University of Texas-Austin",
+      "sentiment": {
+        "score": -0.951276,
+        "label": "negative"
+      },
+      "relevance": 0.625254,
+      "emotion": {
+        "sadness": 0.152531,
+        "joy": 0.21276,
+        "fear": 0.168107,
+        "disgust": 0.512742,
+        "anger": 0.242082
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "University of Texas",
+      "sentiment": {
+        "score": -0.537899,
+        "label": "negative"
+      },
+      "relevance": 0.784936,
+      "mentions": [
+        {
+          "text": "University of Texas",
+          "location": [
+            45,
+            64
+          ]
+        },
+        {
+          "text": "University of Texas-Austin",
+          "location": [
+            111,
+            137
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123176,
+        "joy": 0.202796,
+        "fear": 0.12299,
+        "disgust": 0.5501,
+        "anger": 0.280868
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "University of Texas at Austin",
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jessica Jin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.538555,
+      "mentions": [
+        {
+          "text": "Jessica Jin",
+          "location": [
+            504,
+            515
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.01834,
+        "joy": 0.335043,
+        "fear": 0.096185,
+        "disgust": 0.050128,
+        "anger": 0.085131
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.45832,
+      "mentions": [
+        {
+          "text": "Texas",
+          "location": [
+            570,
+            575
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118642,
+        "joy": 0.040827,
+        "fear": 0.107757,
+        "disgust": 0.145194,
+        "anger": 0.097442
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Texas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "21 years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.45832,
+      "mentions": [
+        {
+          "text": "21 years",
+          "location": [
+            325,
+            333
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Firearm",
+      "relevance": 0.979276,
+      "dbpedia_resource": "http://dbpedia.org/resource/Firearm"
+    },
+    {
+      "text": "Concealed carry in the United States",
+      "relevance": 0.741233,
+      "dbpedia_resource": "http://dbpedia.org/resource/Concealed_carry_in_the_United_States"
+    },
+    {
+      "text": "University",
+      "relevance": 0.555914,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Human sexuality",
+      "relevance": 0.530003,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_sexuality"
+    },
+    {
+      "text": "Texas A&M University",
+      "relevance": 0.503222,
+      "dbpedia_resource": "http://dbpedia.org/resource/Texas_A&M_University"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.984895,
+      "label": "/society/sex"
+    }
+  ]
+}

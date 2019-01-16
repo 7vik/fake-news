@@ -1,0 +1,157 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.235925,
+        "joy": 0.05716,
+        "fear": 0.03209,
+        "disgust": 0.313219,
+        "anger": 0.564322
+      },
+      "count": 1
+    },
+    {
+      "text": "affair",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.633014,
+      "emotion": {
+        "sadness": 0.235925,
+        "joy": 0.05716,
+        "fear": 0.03209,
+        "disgust": 0.313219,
+        "anger": 0.564322
+      },
+      "count": 1
+    },
+    {
+      "text": "Matt LeBlanc",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.113006,
+      "emotion": {
+        "sadness": 0.235925,
+        "joy": 0.05716,
+        "fear": 0.03209,
+        "disgust": 0.313219,
+        "anger": 0.564322
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.840941,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            24,
+            27
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211965,
+        "joy": 0.065923,
+        "fear": 0.027295,
+        "disgust": 0.318715,
+        "anger": 0.578769
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Matt LeBlanc",
+      "sentiment": {
+        "score": -0.840941,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Matt LeBlanc",
+          "location": [
+            47,
+            59
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.235925,
+        "joy": 0.05716,
+        "fear": 0.03209,
+        "disgust": 0.313219,
+        "anger": 0.564322
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Matt LeBlanc",
+        "dbpedia_resource": "http://dbpedia.org/resource/Matt_LeBlanc"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Friends",
+      "relevance": 0.9477,
+      "dbpedia_resource": "http://dbpedia.org/resource/Friends"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.579555,
+      "label": "/society/dating"
+    }
+  ]
+}

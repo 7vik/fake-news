@@ -1,0 +1,274 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1951,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.279328,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.590178,
+        "label": "negative"
+      },
+      "relevance": 0.695335,
+      "emotion": {
+        "sadness": 0.167547,
+        "joy": 0.721257,
+        "fear": 0.014359,
+        "disgust": 0.029349,
+        "anger": 0.102564
+      },
+      "count": 2
+    },
+    {
+      "text": "23-year-old singer",
+      "sentiment": {
+        "score": -0.447684,
+        "label": "negative"
+      },
+      "relevance": 0.690028,
+      "emotion": {
+        "sadness": 0.167547,
+        "joy": 0.721257,
+        "fear": 0.014359,
+        "disgust": 0.029349,
+        "anger": 0.102564
+      },
+      "count": 1
+    },
+    {
+      "text": "preppy look",
+      "sentiment": {
+        "score": -0.447684,
+        "label": "negative"
+      },
+      "relevance": 0.676276,
+      "emotion": {
+        "sadness": 0.167547,
+        "joy": 0.721257,
+        "fear": 0.014359,
+        "disgust": 0.029349,
+        "anger": 0.102564
+      },
+      "count": 1
+    },
+    {
+      "text": "Cold Water singer",
+      "sentiment": {
+        "score": -0.447684,
+        "label": "negative"
+      },
+      "relevance": 0.586352,
+      "emotion": {
+        "sadness": 0.167547,
+        "joy": 0.721257,
+        "fear": 0.014359,
+        "disgust": 0.029349,
+        "anger": 0.102564
+      },
+      "count": 1
+    },
+    {
+      "text": "last arrest",
+      "sentiment": {
+        "score": 0.952484,
+        "label": "positive"
+      },
+      "relevance": 0.582063,
+      "emotion": {
+        "sadness": 0.167547,
+        "joy": 0.721257,
+        "fear": 0.014359,
+        "disgust": 0.029349,
+        "anger": 0.102564
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.430902,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            149,
+            162
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            648,
+            654
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            1031,
+            1037
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1066,
+            1068
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.285167,
+        "joy": 0.588916,
+        "fear": 0.086726,
+        "disgust": 0.100004,
+        "anger": 0.177738
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "white Yeezys",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "white Yeezys",
+          "location": [
+            515,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098866,
+        "joy": 0.525864,
+        "fear": 0.333803,
+        "disgust": 0.041125,
+        "anger": 0.082079
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Instagram",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "$50,000",
+          "location": [
+            1888,
+            1895
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.085987,
+        "joy": 0.839382,
+        "fear": 0.009265,
+        "disgust": 0.023369,
+        "anger": 0.058855
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Instagram",
+        "dbpedia_resource": "http://dbpedia.org/resource/Instagram"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$50,000",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "$50,000",
+          "location": [
+            1888,
+            1895
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "23-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "23-year",
+          "location": [
+            246,
+            253
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Criminal law",
+      "relevance": 0.980385,
+      "dbpedia_resource": "http://dbpedia.org/resource/Criminal_law"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.685841,
+      "label": "/society"
+    }
+  ]
+}

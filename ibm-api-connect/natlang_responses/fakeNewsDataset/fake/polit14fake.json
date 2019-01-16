@@ -1,0 +1,338 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 891,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.783425,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "First lady Melania Trump",
+      "sentiment": {
+        "score": -0.691644,
+        "label": "negative"
+      },
+      "relevance": 0.90363,
+      "emotion": {
+        "sadness": 0.308645,
+        "joy": 0.205266,
+        "fear": 0.055864,
+        "disgust": 0.227607,
+        "anger": 0.027932
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.691644,
+        "label": "negative"
+      },
+      "relevance": 0.882908,
+      "emotion": {
+        "sadness": 0.278817,
+        "joy": 0.06314,
+        "fear": 0.046579,
+        "disgust": 0.106519,
+        "anger": 0.087836
+      },
+      "count": 1
+    },
+    {
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": -0.691644,
+        "label": "negative"
+      },
+      "relevance": 0.833694,
+      "emotion": {
+        "sadness": 0.319265,
+        "joy": 0.129263,
+        "fear": 0.04727,
+        "disgust": 0.208491,
+        "anger": 0.027492
+      },
+      "count": 1
+    },
+    {
+      "text": "human rights",
+      "sentiment": {
+        "score": -0.691644,
+        "label": "negative"
+      },
+      "relevance": 0.729024,
+      "emotion": {
+        "sadness": 0.308645,
+        "joy": 0.205266,
+        "fear": 0.055864,
+        "disgust": 0.227607,
+        "anger": 0.027932
+      },
+      "count": 1
+    },
+    {
+      "text": "communications director",
+      "sentiment": {
+        "score": 0.401375,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.689697,
+      "emotion": {
+        "sadness": 0.198714,
+        "joy": 0.531742,
+        "fear": 0.050615,
+        "disgust": 0.125749,
+        "anger": 0.084321
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.594121,
+        "label": "positive"
+      },
+      "relevance": 0.904984,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            20,
+            34
+          ]
+        },
+        {
+          "text": "Angelia Jolie",
+          "location": [
+            237,
+            250
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            349,
+            354
+          ]
+        },
+        {
+          "text": "an international advocate",
+          "location": [
+            364,
+            389
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            517,
+            525
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            587,
+            595
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            748,
+            753
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16101,
+        "joy": 0.609345,
+        "fear": 0.069529,
+        "disgust": 0.068713,
+        "anger": 0.049376
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": 0.600149,
+        "label": "positive"
+      },
+      "relevance": 0.706452,
+      "mentions": [
+        {
+          "text": "Melania Trump",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Melania Trump",
+          "location": [
+            77,
+            90
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            564,
+            576
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            740,
+            745
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.283633,
+        "joy": 0.227747,
+        "fear": 0.033705,
+        "disgust": 0.286718,
+        "anger": 0.094704
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Model"
+        ],
+        "name": "Melania Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "JobTitle",
+      "text": "director",
+      "sentiment": {
+        "score": 0.493868,
+        "label": "positive"
+      },
+      "relevance": 0.208573,
+      "mentions": [
+        {
+          "text": "director",
+          "location": [
+            57,
+            65
+          ]
+        },
+        {
+          "text": "director",
+          "location": [
+            280,
+            288
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.230013,
+        "joy": 0.369729,
+        "fear": 0.031282,
+        "disgust": 0.152704,
+        "anger": 0.088637
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.598089,
+        "label": "positive"
+      },
+      "relevance": 0.207915,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            171,
+            182
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180079,
+        "joy": 0.532777,
+        "fear": 0.098634,
+        "disgust": 0.085487,
+        "anger": 0.112611
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "House",
+          "TouristAttraction",
+          "Building"
+        ],
+        "name": "White House",
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.966945,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.923091,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.813772,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.744421,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.727797,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.596943,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

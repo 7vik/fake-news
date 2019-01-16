@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 687,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.561899,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena's Pals Want Justin Bieber",
+      "sentiment": {
+        "score": -0.868616,
+        "label": "negative"
+      },
+      "relevance": 0.899858,
+      "emotion": {
+        "sadness": 0.306036,
+        "joy": 0.18481,
+        "fear": 0.06747,
+        "disgust": 0.119713,
+        "anger": 0.260244
+      },
+      "count": 1
+    },
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.868616,
+        "label": "negative"
+      },
+      "relevance": 0.783542,
+      "emotion": {
+        "sadness": 0.726891,
+        "joy": 0.14656,
+        "fear": 0.169314,
+        "disgust": 0.040501,
+        "anger": 0.014098
+      },
+      "count": 1
+    },
+    {
+      "text": "National ENQUIRER",
+      "sentiment": {
+        "score": -0.842552,
+        "label": "negative"
+      },
+      "relevance": 0.722207,
+      "emotion": {
+        "sadness": 0.427582,
+        "joy": 0.179333,
+        "fear": 0.118939,
+        "disgust": 0.249673,
+        "anger": 0.299544
+      },
+      "count": 1
+    },
+    {
+      "text": "healthy path",
+      "sentiment": {
+        "score": 0.806025,
+        "label": "positive"
+      },
+      "relevance": 0.649122,
+      "emotion": {
+        "sadness": 0.094531,
+        "joy": 0.851077,
+        "fear": 0.021154,
+        "disgust": 0.001389,
+        "anger": 0.025304
+      },
+      "count": 1
+    },
+    {
+      "text": "pop star",
+      "sentiment": {
+        "score": -0.868616,
+        "label": "negative"
+      },
+      "relevance": 0.610506,
+      "emotion": {
+        "sadness": 0.726891,
+        "joy": 0.14656,
+        "fear": 0.169314,
+        "disgust": 0.040501,
+        "anger": 0.014098
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.604078,
+        "label": "negative"
+      },
+      "relevance": 0.959973,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            19,
+            32
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            53,
+            66
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            155,
+            157
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            236,
+            242
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.422863,
+        "joy": 0.280325,
+        "fear": 0.040504,
+        "disgust": 0.188922,
+        "anger": 0.123106
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Selena",
+      "sentiment": {
+        "score": -0.576356,
+        "label": "negative"
+      },
+      "relevance": 0.669165,
+      "mentions": [
+        {
+          "text": "Selena",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Selena",
+          "location": [
+            202,
+            208
+          ]
+        },
+        {
+          "text": "Selena",
+          "location": [
+            526,
+            532
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.625686,
+        "joy": 0.135937,
+        "fear": 0.149451,
+        "disgust": 0.183729,
+        "anger": 0.213922
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Selena",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.663686,
+        "label": "negative"
+      },
+      "relevance": 0.576024,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            97,
+            109
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.604094,
+        "joy": 0.20758,
+        "fear": 0.170415,
+        "disgust": 0.036501,
+        "anger": 0.09051
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Selena.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.178671,
+      "mentions": [
+        {
+          "text": "Selena.",
+          "location": [
+            419,
+            426
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            427,
+            430
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "\u2014",
+      "sentiment": {
+        "score": -0.065698,
+        "label": "negative"
+      },
+      "relevance": 0.173569,
+      "mentions": [
+        {
+          "text": "\u2014",
+          "location": [
+            178,
+            179
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.219504,
+        "joy": 0.596383,
+        "fear": 0.133173,
+        "disgust": 0.020787,
+        "anger": 0.127584
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.688438,
+      "label": "/society/dating"
+    }
+  ]
+}

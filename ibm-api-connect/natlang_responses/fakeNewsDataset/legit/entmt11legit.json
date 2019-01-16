@@ -1,0 +1,346 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 746,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.764056,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rapper Wiz Khalifa",
+      "sentiment": {
+        "score": -0.833547,
+        "label": "negative"
+      },
+      "relevance": 0.856523,
+      "emotion": {
+        "sadness": 0.287734,
+        "joy": 0.125728,
+        "fear": 0.075134,
+        "disgust": 0.145008,
+        "anger": 0.471808
+      },
+      "count": 1
+    },
+    {
+      "text": "Pablo Escobar",
+      "sentiment": {
+        "score": -0.833547,
+        "label": "negative"
+      },
+      "relevance": 0.735361,
+      "emotion": {
+        "sadness": 0.359816,
+        "joy": 0.192472,
+        "fear": 0.040558,
+        "disgust": 0.428643,
+        "anger": 0.160448
+      },
+      "count": 1
+    },
+    {
+      "text": "Wiz Khalifa",
+      "sentiment": {
+        "score": -0.899713,
+        "label": "negative"
+      },
+      "relevance": 0.709454,
+      "emotion": {
+        "sadness": 0.390993,
+        "joy": 0.064825,
+        "fear": 0.178761,
+        "disgust": 0.488219,
+        "anger": 0.24029
+      },
+      "count": 1
+    },
+    {
+      "text": "Instagram account",
+      "sentiment": {
+        "score": -0.465981,
+        "label": "negative"
+      },
+      "relevance": 0.683303,
+      "emotion": {
+        "sadness": 0.505103,
+        "joy": 0.127082,
+        "fear": 0.063509,
+        "disgust": 0.377506,
+        "anger": 0.096622
+      },
+      "count": 1
+    },
+    {
+      "text": "photo of colorful flowers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.621224,
+      "emotion": {
+        "sadness": 0.212534,
+        "joy": 0.607188,
+        "fear": 0.028111,
+        "disgust": 0.035826,
+        "anger": 0.166288
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Wiz Khalifa",
+      "sentiment": {
+        "score": -0.72361,
+        "label": "negative"
+      },
+      "relevance": 0.831342,
+      "mentions": [
+        {
+          "text": "Wiz Khalifa",
+          "location": [
+            7,
+            18
+          ]
+        },
+        {
+          "text": "Wiz Khalifa",
+          "location": [
+            89,
+            100
+          ]
+        },
+        {
+          "text": "Wiz Khalifa",
+          "location": [
+            424,
+            435
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            466,
+            469
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.194525,
+        "joy": 0.085795,
+        "fear": 0.150976,
+        "disgust": 0.598377,
+        "anger": 0.283463
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Wiz Khalifa",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wiz_Khalifa"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Pablo Escobar",
+      "sentiment": {
+        "score": -0.70194,
+        "label": "negative"
+      },
+      "relevance": 0.790884,
+      "mentions": [
+        {
+          "text": "Pablo Escobar",
+          "location": [
+            47,
+            60
+          ]
+        },
+        {
+          "text": "Pablo Escobar",
+          "location": [
+            335,
+            348
+          ]
+        },
+        {
+          "text": "Escobar",
+          "location": [
+            512,
+            519
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            553,
+            556
+          ]
+        },
+        {
+          "text": "Escobar",
+          "location": [
+            622,
+            629
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.441218,
+        "joy": 0.075375,
+        "fear": 0.112767,
+        "disgust": 0.517885,
+        "anger": 0.117487
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Criminal"
+        ],
+        "name": "Pablo Escobar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Pablo_Escobar"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Medellin",
+      "sentiment": {
+        "score": -0.436972,
+        "label": "negative"
+      },
+      "relevance": 0.317331,
+      "mentions": [
+        {
+          "text": "Medellin",
+          "location": [
+            205,
+            213
+          ]
+        },
+        {
+          "text": "Medellin",
+          "location": [
+            728,
+            736
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.735947,
+        "joy": 0.053505,
+        "fear": 0.082921,
+        "disgust": 0.251862,
+        "anger": 0.093907
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Medell\u00edn",
+        "dbpedia_resource": "http://dbpedia.org/resource/Medell\u00edn"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Colombia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.208362,
+      "mentions": [
+        {
+          "text": "Colombia",
+          "location": [
+            153,
+            161
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.170988,
+        "joy": 0.112043,
+        "fear": 0.11845,
+        "disgust": 0.611762,
+        "anger": 0.23127
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Colombia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Colombia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Drug",
+      "text": "marijuana",
+      "sentiment": {
+        "score": -0.662206,
+        "label": "negative"
+      },
+      "relevance": 0.164689,
+      "mentions": [
+        {
+          "text": "marijuana",
+          "location": [
+            497,
+            506
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.310686,
+        "joy": 0.084895,
+        "fear": 0.271312,
+        "disgust": 0.453706,
+        "anger": 0.156854
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pablo Escobar",
+      "relevance": 0.965922,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pablo_Escobar"
+    },
+    {
+      "text": "Wiz Khalifa",
+      "relevance": 0.636324,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wiz_Khalifa"
+    },
+    {
+      "text": "Colombia",
+      "relevance": 0.590181,
+      "dbpedia_resource": "http://dbpedia.org/resource/Colombia"
+    },
+    {
+      "text": "Hip hop music",
+      "relevance": 0.555,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hip_hop_music"
+    },
+    {
+      "text": "Medell\u00edn",
+      "relevance": 0.462121,
+      "dbpedia_resource": "http://dbpedia.org/resource/Medell\u00edn"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.795682,
+      "label": "/society"
+    }
+  ]
+}

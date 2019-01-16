@@ -1,0 +1,230 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 534,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.748424,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Obama Administration",
+      "sentiment": {
+        "score": -0.652389,
+        "label": "negative"
+      },
+      "relevance": 0.992612,
+      "emotion": {
+        "sadness": 0.210654,
+        "joy": 0.435487,
+        "fear": 0.077752,
+        "disgust": 0.090791,
+        "anger": 0.078922
+      },
+      "count": 2
+    },
+    {
+      "text": "background checks",
+      "sentiment": {
+        "score": -0.739084,
+        "label": "negative"
+      },
+      "relevance": 0.758051,
+      "emotion": {
+        "sadness": 0.610738,
+        "joy": 0.032492,
+        "fear": 0.103395,
+        "disgust": 0.129396,
+        "anger": 0.140263
+      },
+      "count": 2
+    },
+    {
+      "text": "incoming freshmen",
+      "sentiment": {
+        "score": -0.652389,
+        "label": "negative"
+      },
+      "relevance": 0.744338,
+      "emotion": {
+        "sadness": 0.439843,
+        "joy": 0.055212,
+        "fear": 0.064837,
+        "disgust": 0.106099,
+        "anger": 0.101624
+      },
+      "count": 1
+    },
+    {
+      "text": "last week",
+      "sentiment": {
+        "score": -0.652389,
+        "label": "negative"
+      },
+      "relevance": 0.644423,
+      "emotion": {
+        "sadness": 0.439843,
+        "joy": 0.055212,
+        "fear": 0.064837,
+        "disgust": 0.106099,
+        "anger": 0.101624
+      },
+      "count": 1
+    },
+    {
+      "text": "High School",
+      "sentiment": {
+        "score": -0.652389,
+        "label": "negative"
+      },
+      "relevance": 0.63638,
+      "emotion": {
+        "sadness": 0.210654,
+        "joy": 0.435487,
+        "fear": 0.077752,
+        "disgust": 0.090791,
+        "anger": 0.078922
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Obama Administration",
+      "sentiment": {
+        "score": -0.313171,
+        "label": "negative"
+      },
+      "relevance": 0.900344,
+      "mentions": [
+        {
+          "text": "Obama Administration",
+          "location": [
+            0,
+            20
+          ]
+        },
+        {
+          "text": "The Obama administration",
+          "location": [
+            69,
+            93
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.438802,
+        "joy": 0.152223,
+        "fear": 0.071009,
+        "disgust": 0.131623,
+        "anger": 0.104155
+      },
+      "count": 2
+    },
+    {
+      "type": "Crime",
+      "text": "school bullying",
+      "sentiment": {
+        "score": -0.888809,
+        "label": "negative"
+      },
+      "relevance": 0.450853,
+      "mentions": [
+        {
+          "text": "school bullying",
+          "location": [
+            285,
+            300
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.404194,
+        "joy": 0.016842,
+        "fear": 0.443847,
+        "disgust": 0.169531,
+        "anger": 0.325745
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "High School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.41704,
+      "mentions": [
+        {
+          "text": "High School",
+          "location": [
+            57,
+            68
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.210654,
+        "joy": 0.435487,
+        "fear": 0.077752,
+        "disgust": 0.090791,
+        "anger": 0.078922
+      },
+      "disambiguation": {
+        "subtype": [
+          "FieldOfStudy",
+          "Degree"
+        ],
+        "name": "High school",
+        "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "congress",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.294349,
+      "mentions": [
+        {
+          "text": "congress",
+          "location": [
+            463,
+            471
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120675,
+        "joy": 0.093448,
+        "fear": 0.247608,
+        "disgust": 0.168366,
+        "anger": 0.350521
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.95331,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.955454,
+      "label": "/education/special education"
+    }
+  ]
+}

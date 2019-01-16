@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 638,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.599812,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "delivery drones",
+      "sentiment": {
+        "score": -0.994011,
+        "label": "negative"
+      },
+      "relevance": 0.855305,
+      "emotion": {
+        "sadness": 0.414671,
+        "joy": 0.35006,
+        "fear": 0.011741,
+        "disgust": 0.018533,
+        "anger": 0.0162
+      },
+      "count": 1
+    },
+    {
+      "text": "Amazon Prime Air",
+      "sentiment": {
+        "score": -0.994011,
+        "label": "negative"
+      },
+      "relevance": 0.782718,
+      "emotion": {
+        "sadness": 0.413509,
+        "joy": 0.365713,
+        "fear": 0.009911,
+        "disgust": 0.019966,
+        "anger": 0.023569
+      },
+      "count": 1
+    },
+    {
+      "text": "first package shipment",
+      "sentiment": {
+        "score": -0.994011,
+        "label": "negative"
+      },
+      "relevance": 0.726054,
+      "emotion": {
+        "sadness": 0.414671,
+        "joy": 0.35006,
+        "fear": 0.011741,
+        "disgust": 0.018533,
+        "anger": 0.0162
+      },
+      "count": 1
+    },
+    {
+      "text": "additional attempts",
+      "sentiment": {
+        "score": -0.77668,
+        "label": "negative"
+      },
+      "relevance": 0.645657,
+      "emotion": {
+        "sadness": 0.223405,
+        "joy": 0.496424,
+        "fear": 0.112151,
+        "disgust": 0.059042,
+        "anger": 0.042526
+      },
+      "count": 1
+    },
+    {
+      "text": "Palm Springs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644228,
+      "emotion": {
+        "sadness": 0.4617,
+        "joy": 0.359485,
+        "fear": 0.039572,
+        "disgust": 0.032672,
+        "anger": 0.103727
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Amazon Prime Air",
+      "sentiment": {
+        "score": -0.500673,
+        "label": "negative"
+      },
+      "relevance": 0.929276,
+      "mentions": [
+        {
+          "text": "Amazon Prime Air",
+          "location": [
+            62,
+            78
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.434434,
+        "joy": 0.289358,
+        "fear": 0.011673,
+        "disgust": 0.03444,
+        "anger": 0.0138
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": -0.585401,
+        "label": "negative"
+      },
+      "relevance": 0.76651,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            6,
+            12
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            518,
+            524
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.411716,
+        "joy": 0.334252,
+        "fear": 0.067112,
+        "disgust": 0.096173,
+        "anger": 0.079841
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Palm Springs",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.3454,
+      "mentions": [
+        {
+          "text": "Palm Springs",
+          "location": [
+            292,
+            304
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168352,
+        "joy": 0.757725,
+        "fear": 0.01621,
+        "disgust": 0.026936,
+        "anger": 0.033416
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.266053,
+      "mentions": [
+        {
+          "text": "Florida",
+          "location": [
+            306,
+            313
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Florida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Florida"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "four pounds",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.266053,
+      "mentions": [
+        {
+          "text": "four pounds",
+          "location": [
+            441,
+            452
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mass",
+      "relevance": 0.919619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mass"
+    },
+    {
+      "text": "Sun",
+      "relevance": 0.91565,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sun"
+    },
+    {
+      "text": "Atmosphere",
+      "relevance": 0.862538,
+      "dbpedia_resource": "http://dbpedia.org/resource/Atmosphere"
+    },
+    {
+      "text": "Drone music",
+      "relevance": 0.773375,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drone_music"
+    },
+    {
+      "text": "Water",
+      "relevance": 0.751599,
+      "dbpedia_resource": "http://dbpedia.org/resource/Water"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.7309,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

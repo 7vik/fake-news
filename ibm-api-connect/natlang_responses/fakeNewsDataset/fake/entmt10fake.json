@@ -1,0 +1,328 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 734,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "spite of Chris Kattan",
+      "sentiment": {
+        "score": -0.670426,
+        "label": "negative"
+      },
+      "relevance": 0.859102,
+      "emotion": {
+        "sadness": 0.56421,
+        "joy": 0.104636,
+        "fear": 0.105163,
+        "disgust": 0.14498,
+        "anger": 0.041671
+      },
+      "count": 1
+    },
+    {
+      "text": "surgeries Chris",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.784845,
+      "emotion": {
+        "sadness": 0.184523,
+        "joy": 0.745501,
+        "fear": 0.058284,
+        "disgust": 0.003952,
+        "anger": 0.003389
+      },
+      "count": 1
+    },
+    {
+      "text": "dance partner Witney Carson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.727913,
+      "emotion": {
+        "sadness": 0.184523,
+        "joy": 0.745501,
+        "fear": 0.058284,
+        "disgust": 0.003952,
+        "anger": 0.003389
+      },
+      "count": 1
+    },
+    {
+      "text": "physical comedy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.657241,
+      "emotion": {
+        "sadness": 0.52311,
+        "joy": 0.31911,
+        "fear": 0.18721,
+        "disgust": 0.071652,
+        "anger": 0.025362
+      },
+      "count": 1
+    },
+    {
+      "text": "Chris Kattan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.645335,
+      "emotion": {
+        "sadness": 0.410928,
+        "joy": 0.474335,
+        "fear": 0.030302,
+        "disgust": 0.105601,
+        "anger": 0.010746
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TelevisionShow",
+      "text": "Dancing With the Stars",
+      "sentiment": {
+        "score": -0.406364,
+        "label": "negative"
+      },
+      "relevance": 0.948737,
+      "mentions": [
+        {
+          "text": "Dancing With the Stars",
+          "location": [
+            1,
+            23
+          ]
+        },
+        {
+          "text": "Dancing With the Stars",
+          "location": [
+            71,
+            93
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.360549,
+        "joy": 0.542426,
+        "fear": 0.156733,
+        "disgust": 0.007977,
+        "anger": 0.006148
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Chris Kattan",
+      "sentiment": {
+        "score": -0.670564,
+        "label": "negative"
+      },
+      "relevance": 0.913432,
+      "mentions": [
+        {
+          "text": "Chris Kattan",
+          "location": [
+            187,
+            199
+          ]
+        },
+        {
+          "text": "Chris Kattan",
+          "location": [
+            232,
+            244
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            333,
+            335
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            379,
+            381
+          ]
+        },
+        {
+          "text": "Chris",
+          "location": [
+            428,
+            433
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            453,
+            455
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.630537,
+        "joy": 0.62033,
+        "fear": 0.108539,
+        "disgust": 0.056031,
+        "anger": 0.024906
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Chris Kattan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Kattan"
+      },
+      "count": 6
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Dancing the With Stars",
+      "sentiment": {
+        "score": 0.560864,
+        "label": "positive"
+      },
+      "relevance": 0.589665,
+      "mentions": [
+        {
+          "text": "10 years",
+          "location": [
+            357,
+            365
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.039276,
+        "joy": 0.900657,
+        "fear": 0.013159,
+        "disgust": 0.015637,
+        "anger": 0.005695
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "SNL",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.404643,
+      "mentions": [
+        {
+          "text": "SNL",
+          "location": [
+            255,
+            258
+          ]
+        },
+        {
+          "text": "SNL",
+          "location": [
+            629,
+            632
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.341678,
+        "joy": 0.172955,
+        "fear": 0.209638,
+        "disgust": 0.251372,
+        "anger": 0.086891
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Witney Carson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.276406,
+      "mentions": [
+        {
+          "text": "Witney Carson",
+          "location": [
+            475,
+            488
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            685,
+            687
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.21827,
+        "joy": 0.68881,
+        "fear": 0.082074,
+        "disgust": 0.003934,
+        "anger": 0.004351
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Dance",
+      "relevance": 0.924658,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dance"
+    },
+    {
+      "text": "Partner dance",
+      "relevance": 0.908096,
+      "dbpedia_resource": "http://dbpedia.org/resource/Partner_dance"
+    },
+    {
+      "text": "Performance",
+      "relevance": 0.643006,
+      "dbpedia_resource": "http://dbpedia.org/resource/Performance"
+    },
+    {
+      "text": "Social dance",
+      "relevance": 0.572468,
+      "dbpedia_resource": "http://dbpedia.org/resource/Social_dance"
+    },
+    {
+      "text": "Star",
+      "relevance": 0.559248,
+      "dbpedia_resource": "http://dbpedia.org/resource/Star"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.899318,
+      "label": "/art and entertainment/dance"
+    }
+  ]
+}

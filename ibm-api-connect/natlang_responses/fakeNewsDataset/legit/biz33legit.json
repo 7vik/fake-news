@@ -1,0 +1,209 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 750,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.703813,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "party-line vote  House Republicans",
+      "sentiment": {
+        "score": -0.579064,
+        "label": "negative"
+      },
+      "relevance": 0.824473,
+      "emotion": {
+        "sadness": 0.119124,
+        "joy": 0.228637,
+        "fear": 0.040494,
+        "disgust": 0.056734,
+        "anger": 0.063141
+      },
+      "count": 1
+    },
+    {
+      "text": "Internet service providers",
+      "sentiment": {
+        "score": -0.579064,
+        "label": "negative"
+      },
+      "relevance": 0.713222,
+      "emotion": {
+        "sadness": 0.119124,
+        "joy": 0.228637,
+        "fear": 0.040494,
+        "disgust": 0.056734,
+        "anger": 0.063141
+      },
+      "count": 1
+    },
+    {
+      "text": "Internet privacy protections",
+      "sentiment": {
+        "score": -0.817762,
+        "label": "negative"
+      },
+      "relevance": 0.700357,
+      "emotion": {
+        "sadness": 0.316395,
+        "joy": 0.12221,
+        "fear": 0.156002,
+        "disgust": 0.103253,
+        "anger": 0.249497
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.817762,
+        "label": "negative"
+      },
+      "relevance": 0.664818,
+      "emotion": {
+        "sadness": 0.726517,
+        "joy": 0.066501,
+        "fear": 0.066584,
+        "disgust": 0.148673,
+        "anger": 0.122497
+      },
+      "count": 1
+    },
+    {
+      "text": "significant reworking of the rules",
+      "sentiment": {
+        "score": -0.817762,
+        "label": "negative"
+      },
+      "relevance": 0.661312,
+      "emotion": {
+        "sadness": 0.726517,
+        "joy": 0.066501,
+        "fear": 0.066584,
+        "disgust": 0.148673,
+        "anger": 0.122497
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.746019,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            106,
+            121
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.726517,
+        "joy": 0.066501,
+        "fear": 0.066584,
+        "disgust": 0.148673,
+        "anger": 0.122497
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.485278,
+        "label": "positive"
+      },
+      "relevance": 0.69232,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            62,
+            67
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.316395,
+        "joy": 0.12221,
+        "fear": 0.156002,
+        "disgust": 0.103253,
+        "anger": 0.249497
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Verizon AT&T",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.467677,
+      "mentions": [
+        {
+          "text": "Verizon  AT&T",
+          "location": [
+            410,
+            423
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119124,
+        "joy": 0.228637,
+        "fear": 0.040494,
+        "disgust": 0.056734,
+        "anger": 0.063141
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Internet",
+      "relevance": 0.967683,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet"
+    },
+    {
+      "text": "United States Congress",
+      "relevance": 0.910763,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+    },
+    {
+      "text": "Ronald Reagan",
+      "relevance": 0.85834,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+      "text": "Internet privacy",
+      "relevance": 0.826009,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet_privacy"
+    },
+    {
+      "text": "George W. Bush",
+      "relevance": 0.814975,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.995281,
+      "label": "/technology and computing/internet technology/isps"
+    }
+  ]
+}

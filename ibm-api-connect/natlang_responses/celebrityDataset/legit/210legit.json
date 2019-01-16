@@ -1,0 +1,137 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.932025,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.932025,
+        "label": "positive"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.193187,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "count": 1
+    },
+    {
+      "text": "Cambodia 'awakening",
+      "sentiment": {
+        "score": 0.932025,
+        "label": "positive"
+      },
+      "relevance": 0.011652,
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.193187,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.861131,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.193187,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cambodia",
+      "sentiment": {
+        "score": 0.861131,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Cambodia",
+          "location": [
+            18,
+            26
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.193187,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Cambodia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cambodia"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.591274,
+      "label": "/religion and spirituality/buddhism"
+    }
+  ]
+}

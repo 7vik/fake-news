@@ -1,0 +1,107 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.300931,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jessie J",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993175,
+      "emotion": {
+        "sadness": 0.296583,
+        "joy": 0.072096,
+        "fear": 0.174274,
+        "disgust": 0.225285,
+        "anger": 0.157541
+      },
+      "count": 1
+    },
+    {
+      "text": "bi",
+      "sentiment": {
+        "score": 0.300931,
+        "label": "positive"
+      },
+      "relevance": 0.006825,
+      "emotion": {
+        "sadness": 0.151545,
+        "joy": 0.173766,
+        "fear": 0.093654,
+        "disgust": 0.072299,
+        "anger": 0.08686
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jessie J",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "'Jessie J",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Jessie J",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jessie_J"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "100%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "100%",
+          "location": [
+            12,
+            16
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.996175,
+      "label": "/society/gay life"
+    }
+  ]
+}

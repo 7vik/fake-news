@@ -1,0 +1,273 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 555,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.821018,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Friday morning",
+      "sentiment": {
+        "score": -0.711429,
+        "label": "negative"
+      },
+      "relevance": 0.800477,
+      "emotion": {
+        "sadness": 0.132331,
+        "joy": 0.334622,
+        "fear": 0.115944,
+        "disgust": 0.110141,
+        "anger": 0.062395
+      },
+      "count": 1
+    },
+    {
+      "text": "Education Secretary Betsy DeVos",
+      "sentiment": {
+        "score": -0.711429,
+        "label": "negative"
+      },
+      "relevance": 0.710041,
+      "emotion": {
+        "sadness": 0.132331,
+        "joy": 0.334622,
+        "fear": 0.115944,
+        "disgust": 0.110141,
+        "anger": 0.062395
+      },
+      "count": 1
+    },
+    {
+      "text": "middle school",
+      "sentiment": {
+        "score": -0.711429,
+        "label": "negative"
+      },
+      "relevance": 0.693108,
+      "emotion": {
+        "sadness": 0.132331,
+        "joy": 0.334622,
+        "fear": 0.115944,
+        "disgust": 0.110141,
+        "anger": 0.062395
+      },
+      "count": 1
+    },
+    {
+      "text": "Stop DeVos",
+      "sentiment": {
+        "score": -0.819038,
+        "label": "negative"
+      },
+      "relevance": 0.681317,
+      "emotion": {
+        "sadness": 0.122119,
+        "joy": 0.190694,
+        "fear": 0.145126,
+        "disgust": 0.231118,
+        "anger": 0.357499
+      },
+      "count": 1
+    },
+    {
+      "text": "black futures",
+      "sentiment": {
+        "score": -0.819038,
+        "label": "negative"
+      },
+      "relevance": 0.666597,
+      "emotion": {
+        "sadness": 0.122119,
+        "joy": 0.190694,
+        "fear": 0.145126,
+        "disgust": 0.231118,
+        "anger": 0.357499
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "District of Columbia middle school",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.965067,
+      "mentions": [
+        {
+          "text": "District of Columbia middle school",
+          "location": [
+            62,
+            96
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.132331,
+        "joy": 0.334622,
+        "fear": 0.115944,
+        "disgust": 0.110141,
+        "anger": 0.062395
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "DeVos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.730767,
+      "mentions": [
+        {
+          "text": "DeVos",
+          "location": [
+            154,
+            159
+          ]
+        },
+        {
+          "text": "DeVos",
+          "location": [
+            330,
+            335
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139148,
+        "joy": 0.252279,
+        "fear": 0.103497,
+        "disgust": 0.203028,
+        "anger": 0.149563
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Jefferson Academy.Demonstrators",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.72774,
+      "mentions": [
+        {
+          "text": "Jefferson Academy.Demonstrators",
+          "location": [
+            243,
+            274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.21291,
+        "joy": 0.38934,
+        "fear": 0.128225,
+        "disgust": 0.047076,
+        "anger": 0.119715
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.667249,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            126,
+            135
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.132331,
+        "joy": 0.334622,
+        "fear": 0.115944,
+        "disgust": 0.110141,
+        "anger": 0.062395
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Betsy DeVos.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.652991,
+      "mentions": [
+        {
+          "text": "Betsy DeVos.",
+          "location": [
+            136,
+            148
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.934013,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.827564,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.800883,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "African American",
+      "relevance": 0.736454,
+      "dbpedia_resource": "http://dbpedia.org/resource/African_American"
+    },
+    {
+      "text": "Block",
+      "relevance": 0.6764,
+      "dbpedia_resource": "http://dbpedia.org/resource/Block"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.981482,
+      "label": "/automotive and vehicles/vehicle brands"
+    }
+  ]
+}

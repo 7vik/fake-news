@@ -1,0 +1,170 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.693734,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.693734,
+        "label": "negative"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.172213,
+        "joy": 0.356072,
+        "fear": 0.059232,
+        "disgust": 0.194505,
+        "anger": 0.062676
+      },
+      "count": 1
+    },
+    {
+      "text": "Barclays Center",
+      "sentiment": {
+        "score": -0.693734,
+        "label": "negative"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.172213,
+        "joy": 0.356072,
+        "fear": 0.059232,
+        "disgust": 0.194505,
+        "anger": 0.062676
+      },
+      "count": 1
+    },
+    {
+      "text": "Purpose' show",
+      "sentiment": {
+        "score": -0.693734,
+        "label": "negative"
+      },
+      "relevance": 0.565159,
+      "emotion": {
+        "sadness": 0.172213,
+        "joy": 0.356072,
+        "fear": 0.059232,
+        "disgust": 0.194505,
+        "anger": 0.062676
+      },
+      "count": 1
+    },
+    {
+      "text": "focus",
+      "sentiment": {
+        "score": -0.693734,
+        "label": "negative"
+      },
+      "relevance": 0.010197,
+      "emotion": {
+        "sadness": 0.172213,
+        "joy": 0.356072,
+        "fear": 0.059232,
+        "disgust": 0.194505,
+        "anger": 0.062676
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.390312,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Barclays Center",
+      "sentiment": {
+        "score": -0.620517,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Barclays Center",
+          "location": [
+            34,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.190154,
+        "joy": 0.21877,
+        "fear": 0.047462,
+        "disgust": 0.222489,
+        "anger": 0.051563
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Stadium",
+          "SportsFacility"
+        ],
+        "name": "Barclays Center",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barclays_Center"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Justin Bieber",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.90232,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.778442,
+      "label": "/sports/boxing"
+    }
+  ]
+}

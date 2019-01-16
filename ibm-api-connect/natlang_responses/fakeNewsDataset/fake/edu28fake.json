@@ -1,0 +1,231 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 688,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.54426,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New York City",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.85482,
+      "emotion": {
+        "sadness": 0.342049,
+        "joy": 0.05525,
+        "fear": 0.054421,
+        "disgust": 0.351961,
+        "anger": 0.270527
+      },
+      "count": 1
+    },
+    {
+      "text": "public school system",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.843408,
+      "emotion": {
+        "sadness": 0.342049,
+        "joy": 0.05525,
+        "fear": 0.054421,
+        "disgust": 0.351961,
+        "anger": 0.270527
+      },
+      "count": 1
+    },
+    {
+      "text": "illegal immigrants",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732662,
+      "emotion": {
+        "sadness": 0.479431,
+        "joy": 0.071375,
+        "fear": 0.083384,
+        "disgust": 0.191755,
+        "anger": 0.386474
+      },
+      "count": 1
+    },
+    {
+      "text": "student taste test",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711323,
+      "emotion": {
+        "sadness": 0.479431,
+        "joy": 0.071375,
+        "fear": 0.083384,
+        "disgust": 0.191755,
+        "anger": 0.386474
+      },
+      "count": 1
+    },
+    {
+      "text": "high praise",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.678441,
+      "emotion": {
+        "sadness": 0.133858,
+        "joy": 0.510818,
+        "fear": 0.035508,
+        "disgust": 0.298764,
+        "anger": 0.074707
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Kellogg Company",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.98834,
+      "mentions": [
+        {
+          "text": "Kellogg Company",
+          "location": [
+            66,
+            81
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.342049,
+        "joy": 0.05525,
+        "fear": 0.054421,
+        "disgust": 0.351961,
+        "anger": 0.270527
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kellogg Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kellogg_Company"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York City",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.911428,
+      "mentions": [
+        {
+          "text": "New York City",
+          "location": [
+            4,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.342049,
+        "joy": 0.05525,
+        "fear": 0.054421,
+        "disgust": 0.351961,
+        "anger": 0.270527
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Northeast",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.728426,
+      "mentions": [
+        {
+          "text": "Northeast",
+          "location": [
+            656,
+            665
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.473959,
+        "joy": 0.137178,
+        "fear": 0.427564,
+        "disgust": 0.082912,
+        "anger": 0.064349
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.953581,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.817625,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Immigration to the United States",
+      "relevance": 0.713523,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration_to_the_United_States"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.566764,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.553746,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.873779,
+      "label": "/food and drink/food"
+    }
+  ]
+}

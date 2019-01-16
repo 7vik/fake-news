@@ -1,0 +1,147 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.406734,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": 0.406734,
+        "label": "positive"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.023823,
+        "joy": 0.823138,
+        "fear": 0.010308,
+        "disgust": 0.109548,
+        "anger": 0.053421
+      },
+      "count": 1
+    },
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0.406734,
+        "label": "positive"
+      },
+      "relevance": 0.995976,
+      "emotion": {
+        "sadness": 0.023823,
+        "joy": 0.823138,
+        "fear": 0.010308,
+        "disgust": 0.109548,
+        "anger": 0.053421
+      },
+      "count": 1
+    },
+    {
+      "text": "fans",
+      "sentiment": {
+        "score": 0.406734,
+        "label": "positive"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.023823,
+        "joy": 0.823138,
+        "fear": 0.010308,
+        "disgust": 0.109548,
+        "anger": 0.053421
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.695708,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.023823,
+        "joy": 0.823138,
+        "fear": 0.010308,
+        "disgust": 0.109548,
+        "anger": 0.053421
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.695708,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            18,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.023823,
+        "joy": 0.823138,
+        "fear": 0.010308,
+        "disgust": 0.109548,
+        "anger": 0.053421
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.634713,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

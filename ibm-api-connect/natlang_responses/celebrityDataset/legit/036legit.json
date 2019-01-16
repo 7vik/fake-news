@@ -1,0 +1,373 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1526,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.331163,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Meghan Markle",
+      "sentiment": {
+        "score": -0.331856,
+        "label": "negative"
+      },
+      "relevance": 0.848165,
+      "emotion": {
+        "sadness": 0.115026,
+        "joy": 0.325937,
+        "fear": 0.032044,
+        "disgust": 0.036396,
+        "anger": 0.086798
+      },
+      "count": 2
+    },
+    {
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": -0.486612,
+        "label": "negative"
+      },
+      "relevance": 0.775889,
+      "emotion": {
+        "sadness": 0.119697,
+        "joy": 0.619909,
+        "fear": 0.026564,
+        "disgust": 0.06569,
+        "anger": 0.075364
+      },
+      "count": 3
+    },
+    {
+      "text": "Kensington Palace",
+      "sentiment": {
+        "score": -0.457807,
+        "label": "negative"
+      },
+      "relevance": 0.719251,
+      "emotion": {
+        "sadness": 0.059368,
+        "joy": 0.65459,
+        "fear": 0.026871,
+        "disgust": 0.175872,
+        "anger": 0.144312
+      },
+      "count": 2
+    },
+    {
+      "text": "Daily Mail",
+      "sentiment": {
+        "score": -0.574659,
+        "label": "negative"
+      },
+      "relevance": 0.700613,
+      "emotion": {
+        "sadness": 0.251669,
+        "joy": 0.361775,
+        "fear": 0.038155,
+        "disgust": 0.246171,
+        "anger": 0.070726
+      },
+      "count": 1
+    },
+    {
+      "text": "small house",
+      "sentiment": {
+        "score": 0.262842,
+        "label": "positive"
+      },
+      "relevance": 0.610431,
+      "emotion": {
+        "sadness": 0.115666,
+        "joy": 0.531284,
+        "fear": 0.073312,
+        "disgust": 0.226592,
+        "anger": 0.156319
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Meghan Markle",
+      "sentiment": {
+        "score": 0.447104,
+        "label": "positive"
+      },
+      "relevance": 0.864873,
+      "mentions": [
+        {
+          "text": "Meghan Markle",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Meghan Markle",
+          "location": [
+            112,
+            125
+          ]
+        },
+        {
+          "text": "Meghan",
+          "location": [
+            248,
+            254
+          ]
+        },
+        {
+          "text": "Meghan",
+          "location": [
+            383,
+            389
+          ]
+        },
+        {
+          "text": "Meghan",
+          "location": [
+            524,
+            530
+          ]
+        },
+        {
+          "text": "Meghan",
+          "location": [
+            960,
+            966
+          ]
+        },
+        {
+          "text": "Meghan",
+          "location": [
+            1438,
+            1444
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.489135,
+        "joy": 0.605832,
+        "fear": 0.065959,
+        "disgust": 0.117735,
+        "anger": 0.089671
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Meghan Markle",
+        "dbpedia_resource": "http://dbpedia.org/resource/Meghan_Markle"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0.263013,
+        "label": "positive"
+      },
+      "relevance": 0.531143,
+      "mentions": [
+        {
+          "text": "Prince Harry",
+          "location": [
+            63,
+            75
+          ]
+        },
+        {
+          "text": "Prince Harry",
+          "location": [
+            234,
+            246
+          ]
+        },
+        {
+          "text": "Prince Harry",
+          "location": [
+            415,
+            427
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            483,
+            485
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            917,
+            922
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            1074,
+            1079
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.675496,
+        "joy": 0.140866,
+        "fear": 0.06449,
+        "disgust": 0.098372,
+        "anger": 0.696687
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince Harry of Wales",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_Harry_of_Wales"
+      },
+      "count": 6
+    },
+    {
+      "type": "Facility",
+      "text": "Kensington Palace",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.405453,
+      "mentions": [
+        {
+          "text": "Kensington Palace",
+          "location": [
+            40,
+            57
+          ]
+        },
+        {
+          "text": "Kensington Palace",
+          "location": [
+            324,
+            341
+          ]
+        },
+        {
+          "text": "Kensington Palace",
+          "location": [
+            836,
+            853
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Building"
+        ],
+        "name": "Kensington Palace",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kensington_Palace"
+      },
+      "count": 3
+    },
+    {
+      "type": "Facility",
+      "text": "Kensington estate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.167564,
+      "mentions": [
+        {
+          "text": "Kensington estate",
+          "location": [
+            635,
+            652
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156406,
+        "joy": 0.167149,
+        "fear": 0.103773,
+        "disgust": 0.007668,
+        "anger": 0.063581
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Prince George",
+      "sentiment": {
+        "score": -0.414708,
+        "label": "negative"
+      },
+      "relevance": 0.155731,
+      "mentions": [
+        {
+          "text": "Prince George",
+          "location": [
+            1021,
+            1034
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180422,
+        "joy": 0.310494,
+        "fear": 0.015438,
+        "disgust": 0.035438,
+        "anger": 0.03828
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Manchester",
+      "relevance": 0.936884,
+      "dbpedia_resource": "http://dbpedia.org/resource/Manchester"
+    },
+    {
+      "text": "House",
+      "relevance": 0.890541,
+      "dbpedia_resource": "http://dbpedia.org/resource/House"
+    },
+    {
+      "text": "Mary of Teck",
+      "relevance": 0.888798,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mary_of_Teck"
+    },
+    {
+      "text": "Apartment",
+      "relevance": 0.857351,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apartment"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.82988,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.848103,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

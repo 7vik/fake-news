@@ -1,0 +1,285 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 531,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.689413,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Federal Judge",
+      "sentiment": {
+        "score": -0.658004,
+        "label": "negative"
+      },
+      "relevance": 0.945288,
+      "emotion": {
+        "sadness": 0.286438,
+        "joy": 0.10813,
+        "fear": 0.067683,
+        "disgust": 0.096715,
+        "anger": 0.116594
+      },
+      "count": 1
+    },
+    {
+      "text": "Muslim community",
+      "sentiment": {
+        "score": -0.651905,
+        "label": "negative"
+      },
+      "relevance": 0.877667,
+      "emotion": {
+        "sadness": 0.500068,
+        "joy": 0.395616,
+        "fear": 0.043146,
+        "disgust": 0.087226,
+        "anger": 0.068323
+      },
+      "count": 1
+    },
+    {
+      "text": "federal judges",
+      "sentiment": {
+        "score": -0.658004,
+        "label": "negative"
+      },
+      "relevance": 0.806074,
+      "emotion": {
+        "sadness": 0.361887,
+        "joy": 0.059516,
+        "fear": 0.079161,
+        "disgust": 0.044626,
+        "anger": 0.182836
+      },
+      "count": 1
+    },
+    {
+      "text": "US District Judge Anthony Trenga",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.68899,
+      "emotion": {
+        "sadness": 0.232167,
+        "joy": 0.053688,
+        "fear": 0.048086,
+        "disgust": 0.337106,
+        "anger": 0.298137
+      },
+      "count": 1
+    },
+    {
+      "text": "common sense",
+      "sentiment": {
+        "score": -0.658004,
+        "label": "negative"
+      },
+      "relevance": 0.655974,
+      "emotion": {
+        "sadness": 0.361887,
+        "joy": 0.059516,
+        "fear": 0.079161,
+        "disgust": 0.044626,
+        "anger": 0.182836
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Judge Anthony Trenga",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.827729,
+      "mentions": [
+        {
+          "text": "Judge Anthony Trenga",
+          "location": [
+            387,
+            407
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            423,
+            425
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            472,
+            479
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163323,
+        "joy": 0.060573,
+        "fear": 0.106076,
+        "disgust": 0.349879,
+        "anger": 0.386592
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Anthony John Trenga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anthony_John_Trenga"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.726557,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            162,
+            177
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.286504,
+        "joy": 0.082351,
+        "fear": 0.105866,
+        "disgust": 0.281277,
+        "anger": 0.252124
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.341527,
+        "label": "positive"
+      },
+      "relevance": 0.390837,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            520,
+            529
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119773,
+        "joy": 0.135909,
+        "fear": 0.005757,
+        "disgust": 0.169102,
+        "anger": 0.1333
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "US District",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.360699,
+      "mentions": [
+        {
+          "text": "US District",
+          "location": [
+            375,
+            386
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186783,
+        "joy": 0.045764,
+        "fear": 0.130543,
+        "disgust": 0.328932,
+        "anger": 0.335831
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "sentiment": {
+        "score": -0.497814,
+        "label": "negative"
+      },
+      "relevance": 0.314,
+      "mentions": [
+        {
+          "text": "Virginia",
+          "location": [
+            67,
+            75
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.453709,
+        "joy": 0.059305,
+        "fear": 0.115779,
+        "disgust": 0.065898,
+        "anger": 0.244381
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States federal judge",
+      "relevance": 0.924562,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_federal_judge"
+    },
+    {
+      "text": "Judge",
+      "relevance": 0.915539,
+      "dbpedia_resource": "http://dbpedia.org/resource/Judge"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.875911,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Psychology",
+      "relevance": 0.746994,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+      "text": "Need",
+      "relevance": 0.711773,
+      "dbpedia_resource": "http://dbpedia.org/resource/Need"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.806544,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

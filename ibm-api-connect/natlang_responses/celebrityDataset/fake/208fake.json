@@ -1,0 +1,128 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sort of Diva Demands",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992546,
+      "emotion": {
+        "sadness": 0.297744,
+        "joy": 0.076258,
+        "fear": 0.018151,
+        "disgust": 0.298765,
+        "anger": 0.122723
+      },
+      "count": 1
+    },
+    {
+      "text": "American Idol",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885021,
+      "emotion": {
+        "sadness": 0.297744,
+        "joy": 0.076258,
+        "fear": 0.018151,
+        "disgust": 0.298765,
+        "anger": 0.122723
+      },
+      "count": 1
+    },
+    {
+      "text": "Mariah Carey Have",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.195924,
+      "emotion": {
+        "sadness": 0.297744,
+        "joy": 0.076258,
+        "fear": 0.018151,
+        "disgust": 0.298765,
+        "anger": 0.122723
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mariah Carey",
+      "sentiment": {
+        "score": -0.830383,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Mariah Carey",
+          "location": [
+            31,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.324625,
+        "joy": 0.121547,
+        "fear": 0.018205,
+        "disgust": 0.285396,
+        "anger": 0.102131
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Mariah Carey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mariah Carey",
+      "relevance": 0.967102,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+    },
+    {
+      "text": "Whitney Houston",
+      "relevance": 0.581945,
+      "dbpedia_resource": "http://dbpedia.org/resource/Whitney_Houston"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.831434,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

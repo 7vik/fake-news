@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 868,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.59146,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lawrence Okolie",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.79341,
+      "emotion": {
+        "sadness": 0.104023,
+        "joy": 0.72111,
+        "fear": 0.06283,
+        "disgust": 0.038235,
+        "anger": 0.074343
+      },
+      "count": 1
+    },
+    {
+      "text": "world champion",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.742361,
+      "emotion": {
+        "sadness": 0.201685,
+        "joy": 0.664806,
+        "fear": 0.122381,
+        "disgust": 0.012596,
+        "anger": 0.016689
+      },
+      "count": 1
+    },
+    {
+      "text": "24-year-old British cruiserweight",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.737721,
+      "emotion": {
+        "sadness": 0.118315,
+        "joy": 0.527622,
+        "fear": 0.155799,
+        "disgust": 0.170715,
+        "anger": 0.120164
+      },
+      "count": 1
+    },
+    {
+      "text": "professional fights",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.69174,
+      "emotion": {
+        "sadness": 0.568711,
+        "joy": 0.045278,
+        "fear": 0.23788,
+        "disgust": 0.102602,
+        "anger": 0.253251
+      },
+      "count": 1
+    },
+    {
+      "text": "Rio Olympics",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.624521,
+      "emotion": {
+        "sadness": 0.442265,
+        "joy": 0.198677,
+        "fear": 0.079192,
+        "disgust": 0.28148,
+        "anger": 0.128253
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lawrence Okolie",
+      "sentiment": {
+        "score": -0.892395,
+        "label": "negative"
+      },
+      "relevance": 0.895599,
+      "mentions": [
+        {
+          "text": "Lawrence Okolie",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Lawrence Okolie",
+          "location": [
+            85,
+            100
+          ]
+        },
+        {
+          "text": "Okolie",
+          "location": [
+            402,
+            408
+          ]
+        },
+        {
+          "text": "Okolie",
+          "location": [
+            580,
+            586
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.58802,
+        "joy": 0.19471,
+        "fear": 0.186874,
+        "disgust": 0.118267,
+        "anger": 0.084316
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Rio",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.444,
+      "mentions": [
+        {
+          "text": "Rio",
+          "location": [
+            67,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131119,
+        "joy": 0.692074,
+        "fear": 0.080423,
+        "disgust": 0.040653,
+        "anger": 0.059241
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Rio de Janeiro",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rio_de_Janeiro"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Geoffrey Cave",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.434556,
+      "mentions": [
+        {
+          "text": "Geoffrey Cave",
+          "location": [
+            229,
+            242
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118315,
+        "joy": 0.527622,
+        "fear": 0.155799,
+        "disgust": 0.170715,
+        "anger": 0.120164
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Rio Olympics",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.421452,
+      "mentions": [
+        {
+          "text": "Rio Olympics",
+          "location": [
+            673,
+            685
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.442265,
+        "joy": 0.198677,
+        "fear": 0.079192,
+        "disgust": 0.28148,
+        "anger": 0.128253
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jorge Linares",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.419467,
+      "mentions": [
+        {
+          "text": "Jorge Linares",
+          "location": [
+            323,
+            336
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.401919,
+        "joy": 0.331512,
+        "fear": 0.169983,
+        "disgust": 0.037364,
+        "anger": 0.126367
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "Boxer"
+        ],
+        "name": "Jorge Linares",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jorge_Linares"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Boxing",
+      "relevance": 0.917872,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boxing"
+    },
+    {
+      "text": "1983 births",
+      "relevance": 0.84608,
+      "dbpedia_resource": "http://dbpedia.org/resource/1983_births"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996279,
+      "label": "/sports/boxing"
+    }
+  ]
+}

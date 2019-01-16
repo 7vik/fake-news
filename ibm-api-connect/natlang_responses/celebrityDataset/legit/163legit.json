@@ -1,0 +1,152 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Weinstein Sues Weinstein Company",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.192542,
+        "joy": 0.122497,
+        "fear": 0.020248,
+        "disgust": 0.023698,
+        "anger": 0.194449
+      },
+      "count": 1
+    },
+    {
+      "text": "Access",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.545344,
+      "emotion": {
+        "sadness": 0.192542,
+        "joy": 0.122497,
+        "fear": 0.020248,
+        "disgust": 0.023698,
+        "anger": 0.194449
+      },
+      "count": 1
+    },
+    {
+      "text": "Records",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.53743,
+      "emotion": {
+        "sadness": 0.192542,
+        "joy": 0.122497,
+        "fear": 0.020248,
+        "disgust": 0.023698,
+        "anger": 0.194449
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Weinstein Company",
+      "sentiment": {
+        "score": -0.545814,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Weinstein Company",
+          "location": [
+            15,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158067,
+        "joy": 0.163999,
+        "fear": 0.068658,
+        "disgust": 0.098174,
+        "anger": 0.10566
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCompany",
+          "FilmDistributor",
+          "ProductionCompany",
+          "AwardNominee",
+          "AwardWinner"
+        ],
+        "name": "The Weinstein Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Weinstein_Company"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Weinstein",
+      "sentiment": {
+        "score": -0.545814,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Weinstein",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158067,
+        "joy": 0.163999,
+        "fear": 0.068658,
+        "disgust": 0.098174,
+        "anger": 0.10566
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Weinstein Company",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Weinstein_Company"
+    },
+    {
+      "text": "Harvey Weinstein",
+      "relevance": 0.837555,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harvey_Weinstein"
+    },
+    {
+      "text": "Miramax Films",
+      "relevance": 0.82944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miramax_Films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.6693,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

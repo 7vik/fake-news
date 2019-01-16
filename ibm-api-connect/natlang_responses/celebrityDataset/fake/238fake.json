@@ -1,0 +1,154 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 78,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.410106,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Halle Berry",
+      "sentiment": {
+        "score": -0.410106,
+        "label": "negative"
+      },
+      "relevance": 0.999883,
+      "emotion": {
+        "sadness": 0.098198,
+        "joy": 0.316398,
+        "fear": 0.083919,
+        "disgust": 0.330633,
+        "anger": 0.033578
+      },
+      "count": 1
+    },
+    {
+      "text": "red carpet",
+      "sentiment": {
+        "score": -0.410106,
+        "label": "negative"
+      },
+      "relevance": 0.85256,
+      "emotion": {
+        "sadness": 0.098198,
+        "joy": 0.316398,
+        "fear": 0.083919,
+        "disgust": 0.330633,
+        "anger": 0.033578
+      },
+      "count": 1
+    },
+    {
+      "text": "pregnancy rumours",
+      "sentiment": {
+        "score": -0.410106,
+        "label": "negative"
+      },
+      "relevance": 0.41585,
+      "emotion": {
+        "sadness": 0.098198,
+        "joy": 0.316398,
+        "fear": 0.083919,
+        "disgust": 0.330633,
+        "anger": 0.033578
+      },
+      "count": 1
+    },
+    {
+      "text": "baby bump",
+      "sentiment": {
+        "score": -0.410106,
+        "label": "negative"
+      },
+      "relevance": 0.145779,
+      "emotion": {
+        "sadness": 0.098198,
+        "joy": 0.316398,
+        "fear": 0.083919,
+        "disgust": 0.330633,
+        "anger": 0.033578
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Halle Berry",
+      "sentiment": {
+        "score": -0.443371,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Halle Berry",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098198,
+        "joy": 0.316398,
+        "fear": 0.083919,
+        "disgust": 0.330633,
+        "anger": 0.033578
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Halle Berry",
+        "dbpedia_resource": "http://dbpedia.org/resource/Halle_Berry"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Halle Berry",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Halle_Berry"
+    },
+    {
+      "text": "Why Do Fools Fall in Love",
+      "relevance": 0.895839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Why_Do_Fools_Fall_in_Love_(film)"
+    },
+    {
+      "text": "Knots Landing",
+      "relevance": 0.837663,
+      "dbpedia_resource": "http://dbpedia.org/resource/Knots_Landing"
+    },
+    {
+      "text": "Boomerang",
+      "relevance": 0.820534,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boomerang_(1992_film)"
+    },
+    {
+      "text": "Bruce Willis",
+      "relevance": 0.807911,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Willis"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999983,
+      "label": "/family and parenting/motherhood/pregnancy"
+    }
+  ]
+}

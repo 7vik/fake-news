@@ -1,0 +1,226 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 653,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.653744,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Netflix spokesperson Smita Saran",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.737137,
+      "emotion": {
+        "sadness": 0.346084,
+        "joy": 0.169075,
+        "fear": 0.03651,
+        "disgust": 0.062499,
+        "anger": 0.052068
+      },
+      "count": 1
+    },
+    {
+      "text": "A-B tests",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659571,
+      "emotion": {
+        "sadness": 0.346084,
+        "joy": 0.169075,
+        "fear": 0.03651,
+        "disgust": 0.062499,
+        "anger": 0.052068
+      },
+      "count": 1
+    },
+    {
+      "text": "monthly pricing",
+      "sentiment": {
+        "score": -0.914374,
+        "label": "negative"
+      },
+      "relevance": 0.646623,
+      "emotion": {
+        "sadness": 0.235805,
+        "joy": 0.141789,
+        "fear": 0.081489,
+        "disgust": 0.124946,
+        "anger": 0.428834
+      },
+      "count": 1
+    },
+    {
+      "text": "good option",
+      "sentiment": {
+        "score": 0.443095,
+        "label": "positive"
+      },
+      "relevance": 0.623545,
+      "emotion": {
+        "sadness": 0.047275,
+        "joy": 0.875484,
+        "fear": 0.011301,
+        "disgust": 0.004907,
+        "anger": 0.015682
+      },
+      "count": 1
+    },
+    {
+      "text": "Netflix",
+      "sentiment": {
+        "score": -0.761661,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.610845,
+      "emotion": {
+        "sadness": 0.164614,
+        "joy": 0.646617,
+        "fear": 0.014221,
+        "disgust": 0.031329,
+        "anger": 0.155055
+      },
+      "count": 3
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Netflix",
+      "sentiment": {
+        "score": -0.514227,
+        "label": "negative"
+      },
+      "relevance": 0.944285,
+      "mentions": [
+        {
+          "text": "Netflix",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Netflix",
+          "location": [
+            126,
+            133
+          ]
+        },
+        {
+          "text": "Netflix",
+          "location": [
+            192,
+            199
+          ]
+        },
+        {
+          "text": "Netflix",
+          "location": [
+            535,
+            542
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0913,
+        "joy": 0.611014,
+        "fear": 0.009347,
+        "disgust": 0.040279,
+        "anger": 0.146517
+      },
+      "disambiguation": {
+        "subtype": [
+          "VentureFundedCompany"
+        ],
+        "name": "Netflix",
+        "dbpedia_resource": "http://dbpedia.org/resource/Netflix"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Smita Saran",
+      "sentiment": {
+        "score": -0.2994,
+        "label": "negative"
+      },
+      "relevance": 0.822128,
+      "mentions": [
+        {
+          "text": "Smita Saran",
+          "location": [
+            213,
+            224
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.31675,
+        "joy": 0.056979,
+        "fear": 0.011561,
+        "disgust": 0.061188,
+        "anger": 0.074957
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$3",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.822128,
+      "mentions": [
+        {
+          "text": "$3",
+          "location": [
+            462,
+            464
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Features new to Windows Vista",
+      "relevance": 0.945167,
+      "dbpedia_resource": "http://dbpedia.org/resource/Features_new_to_Windows_Vista"
+    },
+    {
+      "text": "The Rising",
+      "relevance": 0.712,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Rising"
+    },
+    {
+      "text": "Software testing",
+      "relevance": 0.671764,
+      "dbpedia_resource": "http://dbpedia.org/resource/Software_testing"
+    },
+    {
+      "text": "Television advertisement",
+      "relevance": 0.671634,
+      "dbpedia_resource": "http://dbpedia.org/resource/Television_advertisement"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.806004,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

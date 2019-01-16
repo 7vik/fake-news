@@ -1,0 +1,254 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 143,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.703704,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Guy Ritchie",
+      "sentiment": {
+        "score": 0.703704,
+        "label": "positive"
+      },
+      "relevance": 0.996414,
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "count": 1
+    },
+    {
+      "text": "claims ex-wife Madonna",
+      "sentiment": {
+        "score": 0.703704,
+        "label": "positive"
+      },
+      "relevance": 0.772759,
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "count": 1
+    },
+    {
+      "text": "son Rocco",
+      "sentiment": {
+        "score": 0.703704,
+        "label": "positive"
+      },
+      "relevance": 0.689982,
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "count": 1
+    },
+    {
+      "text": "deal",
+      "sentiment": {
+        "score": 0.703704,
+        "label": "positive"
+      },
+      "relevance": 0.542619,
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "count": 1
+    },
+    {
+      "text": "teen",
+      "sentiment": {
+        "score": 0.703704,
+        "label": "positive"
+      },
+      "relevance": 0.535177,
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Guy Ritchie",
+      "sentiment": {
+        "score": -0.432427,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Guy Ritchie",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Guy Ritchie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Guy_Ritchie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rocco",
+      "sentiment": {
+        "score": -0.432427,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rocco",
+          "location": [
+            48,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Madonna",
+      "sentiment": {
+        "score": -0.432427,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Madonna",
+          "location": [
+            74,
+            81
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": -0.432427,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "London",
+          "location": [
+            135,
+            141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.23736,
+        "joy": 0.533988,
+        "fear": 0.04893,
+        "disgust": 0.147466,
+        "anger": 0.152613
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Guy Ritchie",
+      "relevance": 0.933203,
+      "dbpedia_resource": "http://dbpedia.org/resource/Guy_Ritchie"
+    },
+    {
+      "text": "Madonna",
+      "relevance": 0.859546,
+      "dbpedia_resource": "http://dbpedia.org/resource/Madonna_(entertainer)"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.782262,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.778388,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    },
+    {
+      "text": "Swept Away",
+      "relevance": 0.728493,
+      "dbpedia_resource": "http://dbpedia.org/resource/Swept_Away_(2002_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.986186,
+      "label": "/society/teens"
+    }
+  ]
+}

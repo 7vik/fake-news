@@ -1,0 +1,94 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift 'files documents",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997862,
+      "emotion": {
+        "sadness": 0.270932,
+        "joy": 0.23405,
+        "fear": 0.029594,
+        "disgust": 0.03604,
+        "anger": 0.02682
+      },
+      "count": 1
+    },
+    {
+      "text": "service",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.591658,
+      "emotion": {
+        "sadness": 0.270932,
+        "joy": 0.23405,
+        "fear": 0.029594,
+        "disgust": 0.03604,
+        "anger": 0.02682
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor",
+          "location": [
+            0,
+            6
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.270932,
+        "joy": 0.23405,
+        "fear": 0.029594,
+        "disgust": 0.03604,
+        "anger": 0.02682
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.728201,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

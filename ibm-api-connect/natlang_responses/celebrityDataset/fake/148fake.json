@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 42,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.926173,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Michelle Obama\u2019s Plastic Surgery Scandal",
+      "sentiment": {
+        "score": -0.926173,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.203659,
+        "joy": 0.199167,
+        "fear": 0.162926,
+        "disgust": 0.599105,
+        "anger": 0.023143
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michelle Obama",
+      "sentiment": {
+        "score": -0.458586,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Michelle Obama",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "OfficeHolder"
+        ],
+        "name": "Michelle Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Michelle Obama",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.803932,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Reconstructive surgery",
+      "relevance": 0.768072,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reconstructive_surgery"
+    },
+    {
+      "text": "2008 Democratic National Convention",
+      "relevance": 0.765108,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Democratic_National_Convention"
+    },
+    {
+      "text": "Harvard Law School",
+      "relevance": 0.754904,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harvard_Law_School"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.602415,
+      "label": "/food and drink/healthy eating"
+    }
+  ]
+}

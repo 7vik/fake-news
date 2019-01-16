@@ -1,0 +1,417 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1200,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.467481,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lindsay Lohan Doing Drugs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.86806,
+      "emotion": {
+        "sadness": 0.255999,
+        "joy": 0.386266,
+        "fear": 0.231597,
+        "disgust": 0.103824,
+        "anger": 0.085006
+      },
+      "count": 1
+    },
+    {
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.746248,
+      "emotion": {
+        "sadness": 0.377836,
+        "joy": 0.325646,
+        "fear": 0.050149,
+        "disgust": 0.240265,
+        "anger": 0.196497
+      },
+      "count": 1
+    },
+    {
+      "text": "Oprah Winfrey's\u00a0TV network",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711563,
+      "emotion": {
+        "sadness": 0.454079,
+        "joy": 0.254269,
+        "fear": 0.045165,
+        "disgust": 0.246959,
+        "anger": 0.198327
+      },
+      "count": 1
+    },
+    {
+      "text": "Oprah's Dime",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.638088,
+      "emotion": {
+        "sadness": 0.255999,
+        "joy": 0.386266,
+        "fear": 0.231597,
+        "disgust": 0.103824,
+        "anger": 0.085006
+      },
+      "count": 1
+    },
+    {
+      "text": "reality show",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.631976,
+      "emotion": {
+        "sadness": 0.454079,
+        "joy": 0.254269,
+        "fear": 0.045165,
+        "disgust": 0.246959,
+        "anger": 0.198327
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Oprah Winfrey",
+      "sentiment": {
+        "score": 0.136271,
+        "label": "positive"
+      },
+      "relevance": 0.88266,
+      "mentions": [
+        {
+          "text": "Oprah",
+          "location": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "Oprah Winfrey",
+          "location": [
+            70,
+            83
+          ]
+        },
+        {
+          "text": "Oprah",
+          "location": [
+            448,
+            453
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            458,
+            461
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            486,
+            489
+          ]
+        },
+        {
+          "text": "Oprah",
+          "location": [
+            1005,
+            1010
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1029,
+            1032
+          ]
+        },
+        {
+          "text": "Oprah",
+          "location": [
+            1095,
+            1100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.208732,
+        "joy": 0.477712,
+        "fear": 0.085102,
+        "disgust": 0.042117,
+        "anger": 0.049922
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "FilmProducer",
+          "HallOfFameInductee",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "PeriodicalPublisher",
+          "TVActor"
+        ],
+        "name": "Oprah Winfrey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Oprah_Winfrey"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": -0.024925,
+        "label": "negative"
+      },
+      "relevance": 0.79105,
+      "mentions": [
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            129,
+            142
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            183,
+            186
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            384,
+            391
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            747,
+            754
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            964,
+            971
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            1038,
+            1040
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            1091,
+            1093
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            1126,
+            1133
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.196088,
+        "joy": 0.472007,
+        "fear": 0.092955,
+        "disgust": 0.065726,
+        "anger": 0.065302
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lindsay Lohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Lindsay",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.26061,
+      "mentions": [
+        {
+          "text": "100 percent",
+          "location": [
+            396,
+            407
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.470412,
+        "joy": 0.335346,
+        "fear": 0.191963,
+        "disgust": 0.095261,
+        "anger": 0.037169
+      },
+      "count": 1
+    },
+    {
+      "type": "Drug",
+      "text": "cocaine",
+      "sentiment": {
+        "score": 0.402702,
+        "label": "positive"
+      },
+      "relevance": 0.246113,
+      "mentions": [
+        {
+          "text": "cocaine",
+          "location": [
+            423,
+            430
+          ]
+        },
+        {
+          "text": "cocaine",
+          "location": [
+            774,
+            781
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.419002,
+        "joy": 0.38068,
+        "fear": 0.14244,
+        "disgust": 0.128939,
+        "anger": 0.04976
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Star",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.203828,
+      "mentions": [
+        {
+          "text": "Star",
+          "location": [
+            604,
+            608
+          ]
+        },
+        {
+          "text": "Star",
+          "location": [
+            954,
+            958
+          ]
+        },
+        {
+          "text": "Star",
+          "location": [
+            1175,
+            1179
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.229216,
+        "joy": 0.503964,
+        "fear": 0.068704,
+        "disgust": 0.210562,
+        "anger": 0.033491
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Drug addiction",
+      "relevance": 0.98912,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drug_addiction"
+    },
+    {
+      "text": "Lindsay Lohan",
+      "relevance": 0.731551,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.710314,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.61429,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Academy Award for Best Actor",
+      "relevance": 0.577368,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.697736,
+      "label": "/society"
+    }
+  ]
+}

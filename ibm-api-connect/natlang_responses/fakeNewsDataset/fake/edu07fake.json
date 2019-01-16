@@ -1,0 +1,190 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 631,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Heather Karns",
+      "sentiment": {
+        "score": -0.593264,
+        "label": "negative"
+      },
+      "relevance": 0.841221,
+      "emotion": {
+        "sadness": 0.274036,
+        "joy": 0.031046,
+        "fear": 0.720847,
+        "disgust": 0.151799,
+        "anger": 0.133012
+      },
+      "count": 1
+    },
+    {
+      "text": "Parker Middle school",
+      "sentiment": {
+        "score": 0.579915,
+        "label": "positive"
+      },
+      "relevance": 0.812311,
+      "emotion": {
+        "sadness": 0.172124,
+        "joy": 0.036025,
+        "fear": 0.147474,
+        "disgust": 0.092601,
+        "anger": 0.088398
+      },
+      "count": 2
+    },
+    {
+      "text": "school premises",
+      "sentiment": {
+        "score": -0.593264,
+        "label": "negative"
+      },
+      "relevance": 0.794303,
+      "emotion": {
+        "sadness": 0.274036,
+        "joy": 0.031046,
+        "fear": 0.720847,
+        "disgust": 0.151799,
+        "anger": 0.133012
+      },
+      "count": 1
+    },
+    {
+      "text": "panic button",
+      "sentiment": {
+        "score": -0.548389,
+        "label": "negative"
+      },
+      "relevance": 0.644278,
+      "emotion": {
+        "sadness": 0.274036,
+        "joy": 0.031046,
+        "fear": 0.720847,
+        "disgust": 0.151799,
+        "anger": 0.133012
+      },
+      "count": 1
+    },
+    {
+      "text": "Schools",
+      "sentiment": {
+        "score": 0.579915,
+        "label": "positive"
+      },
+      "relevance": 0.639453,
+      "emotion": {
+        "sadness": 0.153433,
+        "joy": 0.118217,
+        "fear": 0.149596,
+        "disgust": 0.218052,
+        "anger": 0.123707
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Parker Middle School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.900422,
+      "mentions": [
+        {
+          "text": "Parker Middle school",
+          "location": [
+            104,
+            124
+          ]
+        },
+        {
+          "text": "Parker Middle School",
+          "location": [
+            489,
+            509
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20997,
+        "joy": 0.13262,
+        "fear": 0.217729,
+        "disgust": 0.07217,
+        "anger": 0.174416
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Heather Karns",
+      "sentiment": {
+        "score": -0.568948,
+        "label": "negative"
+      },
+      "relevance": 0.393361,
+      "mentions": [
+        {
+          "text": "Heather Karns",
+          "location": [
+            218,
+            231
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.227609,
+        "joy": 0.042861,
+        "fear": 0.756281,
+        "disgust": 0.078573,
+        "anger": 0.161945
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.965663,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "College",
+      "relevance": 0.927684,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.913019,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Security",
+      "relevance": 0.698092,
+      "dbpedia_resource": "http://dbpedia.org/resource/Security"
+    },
+    {
+      "text": "Police",
+      "relevance": 0.658572,
+      "dbpedia_resource": "http://dbpedia.org/resource/Police"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.92353,
+      "label": "/education/school"
+    }
+  ]
+}

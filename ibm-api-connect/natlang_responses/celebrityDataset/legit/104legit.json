@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.760347,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Night Hosts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.95857,
+      "emotion": {
+        "sadness": 0.24162,
+        "joy": 0.46661,
+        "fear": 0.167334,
+        "disgust": 0.077495,
+        "anger": 0.150872
+      },
+      "count": 1
+    },
+    {
+      "text": "O.J. Simpson Parole News",
+      "sentiment": {
+        "score": -0.760347,
+        "label": "negative"
+      },
+      "relevance": 0.04143,
+      "emotion": {
+        "sadness": 0.24162,
+        "joy": 0.46661,
+        "fear": 0.167334,
+        "disgust": 0.077495,
+        "anger": 0.150872
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "O.J. Simpson",
+      "sentiment": {
+        "score": -0.770352,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "O.J. Simpson",
+          "location": [
+            26,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24162,
+        "joy": 0.46661,
+        "fear": 0.167334,
+        "disgust": 0.077495,
+        "anger": 0.150872
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Criminal",
+          "FootballPlayer",
+          "HallOfFameInductee",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "O. J. Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "O. J. Simpson",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.969639,
+      "label": "/news/national news"
+    }
+  ]
+}

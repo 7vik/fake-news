@@ -1,0 +1,228 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 105,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.370518,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": -0.370518,
+        "label": "negative"
+      },
+      "relevance": 0.999628,
+      "emotion": {
+        "sadness": 0.137041,
+        "joy": 0.519035,
+        "fear": 0.062674,
+        "disgust": 0.231043,
+        "anger": 0.144088
+      },
+      "count": 1
+    },
+    {
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": -0.370518,
+        "label": "negative"
+      },
+      "relevance": 0.983816,
+      "emotion": {
+        "sadness": 0.137041,
+        "joy": 0.519035,
+        "fear": 0.062674,
+        "disgust": 0.231043,
+        "anger": 0.144088
+      },
+      "count": 1
+    },
+    {
+      "text": "rings",
+      "sentiment": {
+        "score": -0.370518,
+        "label": "negative"
+      },
+      "relevance": 0.601989,
+      "emotion": {
+        "sadness": 0.137041,
+        "joy": 0.519035,
+        "fear": 0.062674,
+        "disgust": 0.231043,
+        "anger": 0.144088
+      },
+      "count": 1
+    },
+    {
+      "text": "SNL",
+      "sentiment": {
+        "score": -0.370518,
+        "label": "negative"
+      },
+      "relevance": 0.591787,
+      "emotion": {
+        "sadness": 0.137041,
+        "joy": 0.519035,
+        "fear": 0.062674,
+        "disgust": 0.231043,
+        "anger": 0.144088
+      },
+      "count": 1
+    },
+    {
+      "text": "fans",
+      "sentiment": {
+        "score": -0.370518,
+        "label": "negative"
+      },
+      "relevance": 0.575975,
+      "emotion": {
+        "sadness": 0.137041,
+        "joy": 0.519035,
+        "fear": 0.062674,
+        "disgust": 0.231043,
+        "anger": 0.144088
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.61281,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217808,
+        "joy": 0.447008,
+        "fear": 0.172342,
+        "disgust": 0.081546,
+        "anger": 0.13795
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0.61281,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            16,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217808,
+        "joy": 0.447008,
+        "fear": 0.172342,
+        "disgust": 0.081546,
+        "anger": 0.13795
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Liam Hemsworth",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "SNL",
+      "sentiment": {
+        "score": 0.61281,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "'SNL",
+          "location": [
+            53,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217808,
+        "joy": 0.447008,
+        "fear": 0.172342,
+        "disgust": 0.081546,
+        "anger": 0.13795
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.971964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "The Last Song",
+      "relevance": 0.860985,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Last_Song_(film)"
+    },
+    {
+      "text": "Liam Hemsworth",
+      "relevance": 0.712312,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+    },
+    {
+      "text": "Billy Ray Cyrus",
+      "relevance": 0.701043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Ray_Cyrus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.612532,
+      "label": "/style and fashion/jewelry/rings"
+    }
+  ]
+}

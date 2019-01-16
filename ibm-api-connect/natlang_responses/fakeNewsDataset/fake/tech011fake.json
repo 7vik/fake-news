@@ -1,0 +1,235 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 438,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.662364,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new feature",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.975726,
+      "emotion": {
+        "sadness": 0.19315,
+        "joy": 0.419581,
+        "fear": 0.029916,
+        "disgust": 0.058497,
+        "anger": 0.05535
+      },
+      "count": 1
+    },
+    {
+      "text": "Central park",
+      "sentiment": {
+        "score": 0.662364,
+        "label": "positive"
+      },
+      "relevance": 0.963792,
+      "emotion": {
+        "sadness": 0.167161,
+        "joy": 0.524134,
+        "fear": 0.05126,
+        "disgust": 0.063756,
+        "anger": 0.07587
+      },
+      "count": 1
+    },
+    {
+      "text": "Golden Gate Park",
+      "sentiment": {
+        "score": 0.662364,
+        "label": "positive"
+      },
+      "relevance": 0.887198,
+      "emotion": {
+        "sadness": 0.167161,
+        "joy": 0.524134,
+        "fear": 0.05126,
+        "disgust": 0.063756,
+        "anger": 0.07587
+      },
+      "count": 1
+    },
+    {
+      "text": "virtual world",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.665141,
+      "emotion": {
+        "sadness": 0.347281,
+        "joy": 0.36366,
+        "fear": 0.072505,
+        "disgust": 0.090557,
+        "anger": 0.123162
+      },
+      "count": 1
+    },
+    {
+      "text": "Google",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.639459,
+      "emotion": {
+        "sadness": 0.301282,
+        "joy": 0.496442,
+        "fear": 0.044964,
+        "disgust": 0.068382,
+        "anger": 0.08699
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Facility",
+      "text": "Golden Gate Park",
+      "sentiment": {
+        "score": 0.759176,
+        "label": "positive"
+      },
+      "relevance": 0.877463,
+      "mentions": [
+        {
+          "text": "Golden Gate Park",
+          "location": [
+            169,
+            185
+          ]
+        },
+        {
+          "text": "the park",
+          "location": [
+            249,
+            257
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163846,
+        "joy": 0.535554,
+        "fear": 0.04593,
+        "disgust": 0.065039,
+        "anger": 0.093404
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.499269,
+        "label": "positive"
+      },
+      "relevance": 0.694861,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            349,
+            355
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.101428,
+        "joy": 0.370278,
+        "fear": 0.017154,
+        "disgust": 0.043397,
+        "anger": 0.05441
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Central park",
+      "sentiment": {
+        "score": 0.759176,
+        "label": "positive"
+      },
+      "relevance": 0.552674,
+      "mentions": [
+        {
+          "text": "Central park",
+          "location": [
+            153,
+            165
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.167161,
+        "joy": 0.524134,
+        "fear": 0.05126,
+        "disgust": 0.063756,
+        "anger": 0.07587
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Central Park",
+      "relevance": 0.937646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Central_Park"
+    },
+    {
+      "text": "Friends",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Friends"
+    },
+    {
+      "text": "Latitude",
+      "relevance": 0.905135,
+      "dbpedia_resource": "http://dbpedia.org/resource/Latitude"
+    },
+    {
+      "text": "Urban park",
+      "relevance": 0.889993,
+      "dbpedia_resource": "http://dbpedia.org/resource/Urban_park"
+    },
+    {
+      "text": "New York City",
+      "relevance": 0.783558,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.792773,
+      "label": "/technology and computing/internet technology/web search"
+    }
+  ]
+}

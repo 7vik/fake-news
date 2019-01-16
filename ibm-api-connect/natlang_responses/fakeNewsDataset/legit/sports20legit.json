@@ -1,0 +1,363 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 908,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.764651,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Desoto Speedway officials",
+      "sentiment": {
+        "score": -0.926591,
+        "label": "negative"
+      },
+      "relevance": 0.795135,
+      "emotion": {
+        "sadness": 0.626791,
+        "joy": 0.155284,
+        "fear": 0.106739,
+        "disgust": 0.149263,
+        "anger": 0.109078
+      },
+      "count": 1
+    },
+    {
+      "text": "Manatee County Sheriff's Office report",
+      "sentiment": {
+        "score": -0.792737,
+        "label": "negative"
+      },
+      "relevance": 0.758692,
+      "emotion": {
+        "sadness": 0.17145,
+        "joy": 0.011627,
+        "fear": 0.405434,
+        "disgust": 0.076917,
+        "anger": 0.143005
+      },
+      "count": 1
+    },
+    {
+      "text": "Sprint car",
+      "sentiment": {
+        "score": -0.925583,
+        "label": "negative"
+      },
+      "relevance": 0.727349,
+      "emotion": {
+        "sadness": 0.770157,
+        "joy": 0.028358,
+        "fear": 0.088714,
+        "disgust": 0.215172,
+        "anger": 0.133489
+      },
+      "count": 2
+    },
+    {
+      "text": "Nascar driver David Steele",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.714667,
+      "emotion": {
+        "sadness": 0.452219,
+        "joy": 0.027414,
+        "fear": 0.164087,
+        "disgust": 0.285314,
+        "anger": 0.335765
+      },
+      "count": 1
+    },
+    {
+      "text": "vehicle's left front wheel",
+      "sentiment": {
+        "score": -0.792737,
+        "label": "negative"
+      },
+      "relevance": 0.706732,
+      "emotion": {
+        "sadness": 0.17145,
+        "joy": 0.011627,
+        "fear": 0.405434,
+        "disgust": 0.076917,
+        "anger": 0.143005
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "David Steele",
+      "sentiment": {
+        "score": -0.584831,
+        "label": "negative"
+      },
+      "relevance": 0.918821,
+      "mentions": [
+        {
+          "text": "David Steele",
+          "location": [
+            33,
+            45
+          ]
+        },
+        {
+          "text": "David Steele",
+          "location": [
+            92,
+            104
+          ]
+        },
+        {
+          "text": "Steele",
+          "location": [
+            283,
+            289
+          ]
+        },
+        {
+          "text": "David Steele",
+          "location": [
+            406,
+            418
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            550,
+            553
+          ]
+        },
+        {
+          "text": "Steele",
+          "location": [
+            636,
+            642
+          ]
+        },
+        {
+          "text": "Steele",
+          "location": [
+            756,
+            762
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            865,
+            868
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            873,
+            875
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            897,
+            899
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.608178,
+        "joy": 0.420945,
+        "fear": 0.16008,
+        "disgust": 0.145499,
+        "anger": 0.129536
+      },
+      "count": 10
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "sentiment": {
+        "score": -0.621632,
+        "label": "negative"
+      },
+      "relevance": 0.392637,
+      "mentions": [
+        {
+          "text": "Florida",
+          "location": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "Florida",
+          "location": [
+            131,
+            138
+          ]
+        },
+        {
+          "text": "Florida",
+          "location": [
+            326,
+            333
+          ]
+        },
+        {
+          "text": "Florida",
+          "location": [
+            575,
+            582
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.653485,
+        "joy": 0.224325,
+        "fear": 0.084005,
+        "disgust": 0.096347,
+        "anger": 0.089211
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Florida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Florida"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Sprint",
+      "sentiment": {
+        "score": -0.774357,
+        "label": "negative"
+      },
+      "relevance": 0.278031,
+      "mentions": [
+        {
+          "text": "Sprint",
+          "location": [
+            73,
+            79
+          ]
+        },
+        {
+          "text": "Sprint",
+          "location": [
+            426,
+            432
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.770157,
+        "joy": 0.028358,
+        "fear": 0.088714,
+        "disgust": 0.215172,
+        "anger": 0.133489
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Desoto Speedway",
+      "sentiment": {
+        "score": -0.741301,
+        "label": "negative"
+      },
+      "relevance": 0.244355,
+      "mentions": [
+        {
+          "text": "Desoto Speedway",
+          "location": [
+            140,
+            155
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.727934,
+        "joy": 0.08064,
+        "fear": 0.065674,
+        "disgust": 0.170971,
+        "anger": 0.119477
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Desoto Speedway",
+      "sentiment": {
+        "score": -0.841138,
+        "label": "negative"
+      },
+      "relevance": 0.224295,
+      "mentions": [
+        {
+          "text": "Desoto Speedway",
+          "location": [
+            336,
+            351
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.727934,
+        "joy": 0.08064,
+        "fear": 0.065674,
+        "disgust": 0.170971,
+        "anger": 0.119477
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.986394,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Automobile",
+      "relevance": 0.822544,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    },
+    {
+      "text": "Tony Stewart",
+      "relevance": 0.80717,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tony_Stewart"
+    },
+    {
+      "text": "Indianapolis Motor Speedway",
+      "relevance": 0.768336,
+      "dbpedia_resource": "http://dbpedia.org/resource/Indianapolis_Motor_Speedway"
+    },
+    {
+      "text": "Bradenton, Florida",
+      "relevance": 0.687172,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bradenton,_Florida"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.955938,
+      "label": "/sports/auto racing/nascar"
+    }
+  ]
+}

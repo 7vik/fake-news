@@ -1,0 +1,297 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 667,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.275851,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "executive order",
+      "sentiment": {
+        "score": -0.275851,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.869001,
+      "emotion": {
+        "sadness": 0.148024,
+        "joy": 0.493643,
+        "fear": 0.02746,
+        "disgust": 0.09093,
+        "anger": 0.137069
+      },
+      "count": 2
+    },
+    {
+      "text": "best interests of the graduates of Boston University",
+      "sentiment": {
+        "score": 0.683911,
+        "label": "positive"
+      },
+      "relevance": 0.800225,
+      "emotion": {
+        "sadness": 0.031679,
+        "joy": 0.770782,
+        "fear": 0.005177,
+        "disgust": 0.039249,
+        "anger": 0.052993
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.823236,
+        "label": "negative"
+      },
+      "relevance": 0.760849,
+      "emotion": {
+        "sadness": 0.366778,
+        "joy": 0.033777,
+        "fear": 0.166241,
+        "disgust": 0.130877,
+        "anger": 0.173708
+      },
+      "count": 1
+    },
+    {
+      "text": "top-tier",
+      "sentiment": {
+        "score": 0.683911,
+        "label": "positive"
+      },
+      "relevance": 0.720624,
+      "emotion": {
+        "sadness": 0.031679,
+        "joy": 0.770782,
+        "fear": 0.005177,
+        "disgust": 0.039249,
+        "anger": 0.052993
+      },
+      "count": 1
+    },
+    {
+      "text": "international universities",
+      "sentiment": {
+        "score": 0.683911,
+        "label": "positive"
+      },
+      "relevance": 0.702794,
+      "emotion": {
+        "sadness": 0.031679,
+        "joy": 0.770782,
+        "fear": 0.005177,
+        "disgust": 0.039249,
+        "anger": 0.052993
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.888882,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            88,
+            110
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.113181,
+        "joy": 0.123099,
+        "fear": 0.043307,
+        "disgust": 0.054851,
+        "anger": 0.103705
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Boston University",
+      "sentiment": {
+        "score": 0.448761,
+        "label": "positive"
+      },
+      "relevance": 0.810712,
+      "mentions": [
+        {
+          "text": "Boston University",
+          "location": [
+            468,
+            485
+          ]
+        },
+        {
+          "text": "Boston University",
+          "location": [
+            517,
+            534
+          ]
+        },
+        {
+          "text": "Boston University",
+          "location": [
+            598,
+            615
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.105588,
+        "joy": 1.0,
+        "fear": 0.017447,
+        "disgust": 0.08146,
+        "anger": 0.043433
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.465719,
+      "mentions": [
+        {
+          "text": "executive",
+          "location": [
+            152,
+            161
+          ]
+        },
+        {
+          "text": "executive",
+          "location": [
+            360,
+            369
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.083105,
+        "joy": 0.223567,
+        "fear": 0.026011,
+        "disgust": 0.047353,
+        "anger": 0.107033
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.353182,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            616,
+            625
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180729,
+        "joy": 0.571703,
+        "fear": 0.018777,
+        "disgust": 0.139302,
+        "anger": 0.033797
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Brown",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.311063,
+      "mentions": [
+        {
+          "text": "Robert Brown",
+          "location": [
+            626,
+            638
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180729,
+        "joy": 0.571703,
+        "fear": 0.018777,
+        "disgust": 0.139302,
+        "anger": 0.033797
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "University",
+      "relevance": 0.958131,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Higher education",
+      "relevance": 0.627075,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higher_education"
+    },
+    {
+      "text": "College",
+      "relevance": 0.5727,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Chancellor",
+      "relevance": 0.524542,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chancellor_(education)"
+    },
+    {
+      "text": "Rector",
+      "relevance": 0.502911,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rector"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.89998,
+      "label": "/education"
+    }
+  ]
+}

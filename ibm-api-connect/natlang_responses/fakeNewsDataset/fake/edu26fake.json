@@ -1,0 +1,312 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 767,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.485828,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "secret handshake' Barry",
+      "sentiment": {
+        "score": -0.621856,
+        "label": "negative"
+      },
+      "relevance": 0.782071,
+      "emotion": {
+        "sadness": 0.097964,
+        "joy": 0.452401,
+        "fear": 0.056227,
+        "disgust": 0.10461,
+        "anger": 0.385426
+      },
+      "count": 1
+    },
+    {
+      "text": "White Jr. 5th grade teacher",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.776246,
+      "emotion": {
+        "sadness": 0.014623,
+        "joy": 0.38825,
+        "fear": 0.081354,
+        "disgust": 0.233329,
+        "anger": 0.208347
+      },
+      "count": 1
+    },
+    {
+      "text": "Supreme Court case",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.714243,
+      "emotion": {
+        "sadness": 0.061693,
+        "joy": 0.184694,
+        "fear": 0.23487,
+        "disgust": 0.1348,
+        "anger": 0.275367
+      },
+      "count": 1
+    },
+    {
+      "text": "Ashley Park Prek-8 school",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.628619,
+      "emotion": {
+        "sadness": 0.014623,
+        "joy": 0.38825,
+        "fear": 0.081354,
+        "disgust": 0.233329,
+        "anger": 0.208347
+      },
+      "count": 1
+    },
+    {
+      "text": "harmless prank",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.623438,
+      "emotion": {
+        "sadness": 0.061693,
+        "joy": 0.184694,
+        "fear": 0.23487,
+        "disgust": 0.1348,
+        "anger": 0.275367
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Barry White Jr.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.873175,
+      "mentions": [
+        {
+          "text": "Barry White Jr.",
+          "location": [
+            70,
+            85
+          ]
+        },
+        {
+          "text": "Barry",
+          "location": [
+            236,
+            241
+          ]
+        },
+        {
+          "text": "Mr. White",
+          "location": [
+            519,
+            528
+          ]
+        },
+        {
+          "text": "Barry White Jr.",
+          "location": [
+            530,
+            545
+          ]
+        },
+        {
+          "text": "White",
+          "location": [
+            560,
+            565
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            601,
+            603
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            618,
+            625
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 7
+    },
+    {
+      "type": "Organization",
+      "text": "Ashley Park Prek-8 school",
+      "sentiment": {
+        "score": -0.283877,
+        "label": "negative"
+      },
+      "relevance": 0.467755,
+      "mentions": [
+        {
+          "text": "Ashley Park Prek-8 school",
+          "location": [
+            107,
+            132
+          ]
+        },
+        {
+          "text": "school",
+          "location": [
+            320,
+            326
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.020251,
+        "joy": 0.321022,
+        "fear": 0.064546,
+        "disgust": 0.268641,
+        "anger": 0.440753
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "North Carolina",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.201846,
+      "mentions": [
+        {
+          "text": "North Carolina",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.058531,
+        "joy": 0.095709,
+        "fear": 0.080573,
+        "disgust": 0.126573,
+        "anger": 0.066108
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "North Carolina",
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.182532,
+      "emotion": {
+        "sadness": 0.090999,
+        "joy": 0.154876,
+        "fear": 0.115264,
+        "disgust": 0.279406,
+        "anger": 0.446753
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "sentiment": {
+        "score": -0.35671,
+        "label": "negative"
+      },
+      "relevance": 0.165346,
+      "mentions": [
+        {
+          "text": "CEO",
+          "location": [
+            553,
+            556
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.069161,
+        "joy": 0.156249,
+        "fear": 0.083964,
+        "disgust": 0.159599,
+        "anger": 0.463923
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.985261,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.785103,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Teacher",
+      "relevance": 0.718841,
+      "dbpedia_resource": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+      "text": "School",
+      "relevance": 0.613753,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "United States Constitution",
+      "relevance": 0.449781,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998169,
+      "label": "/education/special education"
+    }
+  ]
+}

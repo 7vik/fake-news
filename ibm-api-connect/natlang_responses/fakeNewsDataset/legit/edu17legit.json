@@ -1,0 +1,297 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 670,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.806074,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "school year",
+      "sentiment": {
+        "score": -0.883557,
+        "label": "negative"
+      },
+      "relevance": 0.882024,
+      "emotion": {
+        "sadness": 0.235539,
+        "joy": 0.115371,
+        "fear": 0.268543,
+        "disgust": 0.273009,
+        "anger": 0.382061
+      },
+      "count": 1
+    },
+    {
+      "text": "school districts",
+      "sentiment": {
+        "score": -0.883557,
+        "label": "negative"
+      },
+      "relevance": 0.881789,
+      "emotion": {
+        "sadness": 0.235539,
+        "joy": 0.115371,
+        "fear": 0.268543,
+        "disgust": 0.273009,
+        "anger": 0.382061
+      },
+      "count": 1
+    },
+    {
+      "text": "Teacher Shortage Crisis",
+      "sentiment": {
+        "score": -0.907024,
+        "label": "negative"
+      },
+      "relevance": 0.825879,
+      "emotion": {
+        "sadness": 0.147632,
+        "joy": 0.055846,
+        "fear": 0.397921,
+        "disgust": 0.385358,
+        "anger": 0.304469
+      },
+      "count": 2
+    },
+    {
+      "text": "teacher positions",
+      "sentiment": {
+        "score": -0.907024,
+        "label": "negative"
+      },
+      "relevance": 0.673036,
+      "emotion": {
+        "sadness": 0.275456,
+        "joy": 0.218813,
+        "fear": 0.119311,
+        "disgust": 0.138207,
+        "anger": 0.329092
+      },
+      "count": 1
+    },
+    {
+      "text": "highest teacher turnover rates",
+      "sentiment": {
+        "score": -0.883557,
+        "label": "negative"
+      },
+      "relevance": 0.645487,
+      "emotion": {
+        "sadness": 0.235539,
+        "joy": 0.115371,
+        "fear": 0.268543,
+        "disgust": 0.273009,
+        "anger": 0.382061
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Learning Policy Institute",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.898273,
+      "mentions": [
+        {
+          "text": "Learning Policy Institute",
+          "location": [
+            615,
+            640
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.025083,
+        "joy": 0.410531,
+        "fear": 0.062592,
+        "disgust": 0.019114,
+        "anger": 0.052387
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Tampa",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.835023,
+      "mentions": [
+        {
+          "text": "Tampa",
+          "location": [
+            94,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.313528,
+        "joy": 0.308086,
+        "fear": 0.130154,
+        "disgust": 0.11259,
+        "anger": 0.162821
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Tampa, Florida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tampa,_Florida"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Oklahoma",
+      "sentiment": {
+        "score": -0.417795,
+        "label": "negative"
+      },
+      "relevance": 0.758682,
+      "mentions": [
+        {
+          "text": "Oklahoma",
+          "location": [
+            331,
+            339
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.629521,
+        "joy": 0.071289,
+        "fear": 0.227141,
+        "disgust": 0.031875,
+        "anger": 0.080439
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Oklahoma",
+        "dbpedia_resource": "http://dbpedia.org/resource/Oklahoma"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.710388,
+      "mentions": [
+        {
+          "text": "Florida",
+          "location": [
+            101,
+            108
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Florida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Florida"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Arizona",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.678466,
+      "mentions": [
+        {
+          "text": "Arizona",
+          "location": [
+            354,
+            361
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.986408,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Teacher",
+      "relevance": 0.788349,
+      "dbpedia_resource": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+      "text": "School",
+      "relevance": 0.6952,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "History of education",
+      "relevance": 0.509669,
+      "dbpedia_resource": "http://dbpedia.org/resource/History_of_education"
+    },
+    {
+      "text": "Teaching",
+      "relevance": 0.422719,
+      "dbpedia_resource": "http://dbpedia.org/resource/Teaching"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999858,
+      "label": "/education/special education"
+    }
+  ]
+}

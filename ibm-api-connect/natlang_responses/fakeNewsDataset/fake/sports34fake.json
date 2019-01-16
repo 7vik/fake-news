@@ -1,0 +1,346 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1039,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.842431,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Christiano Ronaldo",
+      "sentiment": {
+        "score": -0.862953,
+        "label": "negative"
+      },
+      "relevance": 0.832471,
+      "emotion": {
+        "sadness": 0.645396,
+        "joy": 0.105966,
+        "fear": 0.128841,
+        "disgust": 0.125373,
+        "anger": 0.164697
+      },
+      "count": 1
+    },
+    {
+      "text": "number of Ronaldo",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.729686,
+      "emotion": {
+        "sadness": 0.504996,
+        "joy": 0.112681,
+        "fear": 0.135693,
+        "disgust": 0.160396,
+        "anger": 0.293347
+      },
+      "count": 1
+    },
+    {
+      "text": "Spanish star",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659491,
+      "emotion": {
+        "sadness": 0.343594,
+        "joy": 0.264779,
+        "fear": 0.03014,
+        "disgust": 0.09438,
+        "anger": 0.231948
+      },
+      "count": 1
+    },
+    {
+      "text": "bone of contention",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.655567,
+      "emotion": {
+        "sadness": 0.504996,
+        "joy": 0.112681,
+        "fear": 0.135693,
+        "disgust": 0.160396,
+        "anger": 0.293347
+      },
+      "count": 1
+    },
+    {
+      "text": "Top Tier Club of scorers",
+      "sentiment": {
+        "score": -0.862953,
+        "label": "negative"
+      },
+      "relevance": 0.653822,
+      "emotion": {
+        "sadness": 0.645396,
+        "joy": 0.105966,
+        "fear": 0.128841,
+        "disgust": 0.125373,
+        "anger": 0.164697
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Christiano Ronaldo",
+      "sentiment": {
+        "score": -0.407461,
+        "label": "negative"
+      },
+      "relevance": 0.88886,
+      "mentions": [
+        {
+          "text": "Christiano Ronaldo",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Ronaldo",
+          "location": [
+            275,
+            282
+          ]
+        },
+        {
+          "text": "Ronaldo",
+          "location": [
+            430,
+            437
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            553,
+            555
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            578,
+            580
+          ]
+        },
+        {
+          "text": "Ronaldo",
+          "location": [
+            746,
+            753
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            799,
+            801
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            885,
+            887
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.533411,
+        "joy": 0.599216,
+        "fear": 0.125023,
+        "disgust": 0.075418,
+        "anger": 0.087883
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Cristiano Ronaldo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cristiano_Ronaldo"
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "Norweigans",
+      "sentiment": {
+        "score": -0.4486,
+        "label": "negative"
+      },
+      "relevance": 0.233339,
+      "mentions": [
+        {
+          "text": "Norweigans",
+          "location": [
+            205,
+            215
+          ]
+        },
+        {
+          "text": "Norweigans",
+          "location": [
+            535,
+            545
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.36834,
+        "joy": 0.453284,
+        "fear": 0.161312,
+        "disgust": 0.109966,
+        "anger": 0.035104
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Norway",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.189169,
+      "mentions": [
+        {
+          "text": "Norway",
+          "location": [
+            183,
+            189
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.304672,
+        "joy": 0.163353,
+        "fear": 0.031061,
+        "disgust": 0.102088,
+        "anger": 0.356849
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hurngary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.139077,
+      "mentions": [
+        {
+          "text": "Hurngary",
+          "location": [
+            714,
+            722
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.102975,
+        "joy": 0.021049,
+        "fear": 0.06799,
+        "disgust": 0.136551,
+        "anger": 0.152884
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.134913,
+      "mentions": [
+        {
+          "text": "Brazil",
+          "location": [
+            736,
+            742
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Real Madrid C.F.",
+      "relevance": 0.919863,
+      "dbpedia_resource": "http://dbpedia.org/resource/Real_Madrid_C.F."
+    },
+    {
+      "text": "Cristiano Ronaldo",
+      "relevance": 0.863577,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cristiano_Ronaldo"
+    },
+    {
+      "text": "2006 FIFA World Cup",
+      "relevance": 0.683711,
+      "dbpedia_resource": "http://dbpedia.org/resource/2006_FIFA_World_Cup"
+    },
+    {
+      "text": "FIFA World Player of the Year",
+      "relevance": 0.682745,
+      "dbpedia_resource": "http://dbpedia.org/resource/FIFA_World_Player_of_the_Year"
+    },
+    {
+      "text": "Ballon d'Or",
+      "relevance": 0.667348,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ballon_d'Or"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.806359,
+      "label": "/sports/soccer"
+    }
+  ]
+}

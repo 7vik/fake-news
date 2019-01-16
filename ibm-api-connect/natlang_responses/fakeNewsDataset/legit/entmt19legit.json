@@ -1,0 +1,304 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1106,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.943833,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ex-Fox News CFO",
+      "sentiment": {
+        "score": -0.934948,
+        "label": "negative"
+      },
+      "relevance": 0.865526,
+      "emotion": {
+        "sadness": 0.38686,
+        "joy": 0.116993,
+        "fear": 0.041585,
+        "disgust": 0.282556,
+        "anger": 0.119517
+      },
+      "count": 1
+    },
+    {
+      "text": "Roger Ailes investigation",
+      "sentiment": {
+        "score": -0.934948,
+        "label": "negative"
+      },
+      "relevance": 0.805714,
+      "emotion": {
+        "sadness": 0.38686,
+        "joy": 0.116993,
+        "fear": 0.041585,
+        "disgust": 0.282556,
+        "anger": 0.119517
+      },
+      "count": 1
+    },
+    {
+      "text": "federal investigation",
+      "sentiment": {
+        "score": -0.934948,
+        "label": "negative"
+      },
+      "relevance": 0.73448,
+      "emotion": {
+        "sadness": 0.327419,
+        "joy": 0.116122,
+        "fear": 0.070622,
+        "disgust": 0.283087,
+        "anger": 0.164108
+      },
+      "count": 1
+    },
+    {
+      "text": "dramatic turn",
+      "sentiment": {
+        "score": -0.934948,
+        "label": "negative"
+      },
+      "relevance": 0.616028,
+      "emotion": {
+        "sadness": 0.327419,
+        "joy": 0.116122,
+        "fear": 0.070622,
+        "disgust": 0.283087,
+        "anger": 0.164108
+      },
+      "count": 1
+    },
+    {
+      "text": "investigation centers",
+      "sentiment": {
+        "score": -0.952521,
+        "label": "negative"
+      },
+      "relevance": 0.587829,
+      "emotion": {
+        "sadness": 0.276433,
+        "joy": 0.138571,
+        "fear": 0.074674,
+        "disgust": 0.218023,
+        "anger": 0.292615
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Roger Ailes",
+      "sentiment": {
+        "score": -0.796379,
+        "label": "negative"
+      },
+      "relevance": 0.87573,
+      "mentions": [
+        {
+          "text": "Roger Ailes",
+          "location": [
+            36,
+            47
+          ]
+        },
+        {
+          "text": "Roger Ailes",
+          "location": [
+            167,
+            178
+          ]
+        },
+        {
+          "text": "Ailes",
+          "location": [
+            711,
+            716
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.329204,
+        "joy": 0.129028,
+        "fear": 0.039344,
+        "disgust": 0.34188,
+        "anger": 0.303707
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "TVProducer"
+        ],
+        "name": "Roger Ailes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roger_Ailes"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Mark Kranz",
+      "sentiment": {
+        "score": -0.7243,
+        "label": "negative"
+      },
+      "relevance": 0.612365,
+      "mentions": [
+        {
+          "text": "Mark Kranz",
+          "location": [
+            292,
+            302
+          ]
+        },
+        {
+          "text": "Kranz",
+          "location": [
+            726,
+            731
+          ]
+        },
+        {
+          "text": "Kranz",
+          "location": [
+            880,
+            885
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.327419,
+        "joy": 0.116122,
+        "fear": 0.070622,
+        "disgust": 0.283087,
+        "anger": 0.164108
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "CFO",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.399791,
+      "mentions": [
+        {
+          "text": "CFO",
+          "location": [
+            12,
+            15
+          ]
+        },
+        {
+          "text": "CFO",
+          "location": [
+            721,
+            724
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.254434,
+        "joy": 0.138319,
+        "fear": 0.138141,
+        "disgust": 0.144435,
+        "anger": 0.271435
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Fox News",
+      "sentiment": {
+        "score": -0.7243,
+        "label": "negative"
+      },
+      "relevance": 0.375621,
+      "mentions": [
+        {
+          "text": "Fox News",
+          "location": [
+            152,
+            160
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.289069,
+        "joy": 0.137608,
+        "fear": 0.116099,
+        "disgust": 0.246286,
+        "anger": 0.266902
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Fox News",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.327294,
+      "mentions": [
+        {
+          "text": "Fox News",
+          "location": [
+            644,
+            652
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.289069,
+        "joy": 0.137608,
+        "fear": 0.116099,
+        "disgust": 0.246286,
+        "anger": 0.266902
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fox News Channel",
+      "relevance": 0.968563,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fox_News_Channel"
+    },
+    {
+      "text": "Federal Bureau of Investigation",
+      "relevance": 0.892262,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+    },
+    {
+      "text": "Roger Ailes",
+      "relevance": 0.87093,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roger_Ailes"
+    },
+    {
+      "text": "News Corporation",
+      "relevance": 0.836365,
+      "dbpedia_resource": "http://dbpedia.org/resource/News_Corporation"
+    },
+    {
+      "text": "United States Department of Justice",
+      "relevance": 0.833746,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Justice"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.753934,
+      "label": "/finance/financial news"
+    }
+  ]
+}

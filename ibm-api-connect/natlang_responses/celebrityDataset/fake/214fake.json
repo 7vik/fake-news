@@ -1,0 +1,197 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 83,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.867937,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kelly Clarkson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999968,
+      "emotion": {
+        "sadness": 0.092993,
+        "joy": 0.235603,
+        "fear": 0.061973,
+        "disgust": 0.086718,
+        "anger": 0.076407
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Hudson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.989246,
+      "emotion": {
+        "sadness": 0.092993,
+        "joy": 0.235603,
+        "fear": 0.061973,
+        "disgust": 0.086718,
+        "anger": 0.076407
+      },
+      "count": 1
+    },
+    {
+      "text": "Drama",
+      "sentiment": {
+        "score": 0.867937,
+        "label": "positive"
+      },
+      "relevance": 0.66807,
+      "emotion": {
+        "sadness": 0.042776,
+        "joy": 0.329602,
+        "fear": 0.27645,
+        "disgust": 0.020265,
+        "anger": 0.457957
+      },
+      "count": 1
+    },
+    {
+      "text": "Voice",
+      "sentiment": {
+        "score": 0.867937,
+        "label": "positive"
+      },
+      "relevance": 0.593413,
+      "emotion": {
+        "sadness": 0.042776,
+        "joy": 0.329602,
+        "fear": 0.27645,
+        "disgust": 0.020265,
+        "anger": 0.457957
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kelly Clarkson",
+      "sentiment": {
+        "score": -0.226097,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kelly Clarkson",
+          "location": [
+            22,
+            36
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106243,
+        "joy": 0.208465,
+        "fear": 0.070537,
+        "disgust": 0.080793,
+        "anger": 0.074551
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kelly Clarkson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kelly_Clarkson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Hudson",
+      "sentiment": {
+        "score": -0.226097,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Hudson",
+          "location": [
+            41,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106243,
+        "joy": 0.208465,
+        "fear": 0.070537,
+        "disgust": 0.080793,
+        "anger": 0.074551
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Hudson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Hudson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American Idol",
+      "relevance": 0.903593,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+    },
+    {
+      "text": "Grammy Award winners",
+      "relevance": 0.869883,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_winners"
+    },
+    {
+      "text": "Jennifer Hudson",
+      "relevance": 0.7476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Hudson"
+    },
+    {
+      "text": "Ryan Tedder",
+      "relevance": 0.724181,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Tedder"
+    },
+    {
+      "text": "Hair",
+      "relevance": 0.69228,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hair_(musical)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.729225,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

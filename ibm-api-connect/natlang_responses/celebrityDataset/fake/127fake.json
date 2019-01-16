@@ -1,0 +1,363 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1152,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.382331,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sloppy Jessica Simpson",
+      "sentiment": {
+        "score": -0.580759,
+        "label": "negative"
+      },
+      "relevance": 0.82716,
+      "emotion": {
+        "sadness": 0.157379,
+        "joy": 0.287805,
+        "fear": 0.075291,
+        "disgust": 0.107867,
+        "anger": 0.115576
+      },
+      "count": 1
+    },
+    {
+      "text": "Jessica Simpson",
+      "sentiment": {
+        "score": 0.746144,
+        "label": "positive"
+      },
+      "relevance": 0.71876,
+      "emotion": {
+        "sadness": 0.010226,
+        "joy": 0.813362,
+        "fear": 0.002873,
+        "disgust": 0.076544,
+        "anger": 0.130314
+      },
+      "count": 2
+    },
+    {
+      "text": "favorite food",
+      "sentiment": {
+        "score": 0.751281,
+        "label": "positive"
+      },
+      "relevance": 0.649423,
+      "emotion": {
+        "sadness": 0.022232,
+        "joy": 0.796263,
+        "fear": 0.006699,
+        "disgust": 0.091361,
+        "anger": 0.124639
+      },
+      "count": 1
+    },
+    {
+      "text": "Star\u2019s Wackiest Quotes",
+      "sentiment": {
+        "score": 0.907827,
+        "label": "positive"
+      },
+      "relevance": 0.627888,
+      "emotion": {
+        "sadness": 0.01381,
+        "joy": 0.968074,
+        "fear": 0.005216,
+        "disgust": 0.009661,
+        "anger": 0.003295
+      },
+      "count": 1
+    },
+    {
+      "text": "38-year-old husband",
+      "sentiment": {
+        "score": 0.907827,
+        "label": "positive"
+      },
+      "relevance": 0.622409,
+      "emotion": {
+        "sadness": 0.075236,
+        "joy": 0.703761,
+        "fear": 0.010389,
+        "disgust": 0.141141,
+        "anger": 0.069768
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jessica Simpson",
+      "sentiment": {
+        "score": 0.17754,
+        "label": "positive"
+      },
+      "relevance": 0.857091,
+      "mentions": [
+        {
+          "text": "Jessica Simpson",
+          "location": [
+            15,
+            30
+          ]
+        },
+        {
+          "text": "Jessica Simpson",
+          "location": [
+            69,
+            84
+          ]
+        },
+        {
+          "text": "Jessica Simpson",
+          "location": [
+            475,
+            490
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            525,
+            528
+          ]
+        },
+        {
+          "text": "Simpson",
+          "location": [
+            654,
+            661
+          ]
+        },
+        {
+          "text": "Jessica Simpson",
+          "location": [
+            806,
+            821
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.064951,
+        "joy": 0.696472,
+        "fear": 0.028583,
+        "disgust": 0.049172,
+        "anger": 0.041926
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jessica Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jessica_Simpson"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Eric Johnson",
+      "sentiment": {
+        "score": 0.210972,
+        "label": "positive"
+      },
+      "relevance": 0.359553,
+      "mentions": [
+        {
+          "text": "Eric Johnson",
+          "location": [
+            33,
+            45
+          ]
+        },
+        {
+          "text": "Eric Johnson",
+          "location": [
+            89,
+            101
+          ]
+        },
+        {
+          "text": "Eric",
+          "location": [
+            382,
+            386
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.053134,
+        "joy": 0.821917,
+        "fear": 0.012119,
+        "disgust": 0.049879,
+        "anger": 0.076212
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "George Clooney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.210288,
+      "mentions": [
+        {
+          "text": "George Clooney",
+          "location": [
+            963,
+            977
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136011,
+        "joy": 0.62181,
+        "fear": 0.046593,
+        "disgust": 0.16802,
+        "anger": 0.073029
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "George Clooney",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rande Gerber",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.19979,
+      "mentions": [
+        {
+          "text": "38-year",
+          "location": [
+            675,
+            682
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151839,
+        "joy": 0.289831,
+        "fear": 0.030468,
+        "disgust": 0.383911,
+        "anger": 0.082867
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity"
+        ],
+        "name": "Rande Gerber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rande_Gerber"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jess",
+      "sentiment": {
+        "score": 0.232688,
+        "label": "positive"
+      },
+      "relevance": 0.194113,
+      "mentions": [
+        {
+          "text": "Jess",
+          "location": [
+            240,
+            244
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            295,
+            298
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            374,
+            377
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137294,
+        "joy": 0.780156,
+        "fear": 0.032066,
+        "disgust": 0.087476,
+        "anger": 0.087621
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ashlee Simpson",
+      "relevance": 0.918557,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ashlee_Simpson"
+    },
+    {
+      "text": "The Haters",
+      "relevance": 0.746442,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Haters"
+    },
+    {
+      "text": "George Clooney",
+      "relevance": 0.72633,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+    },
+    {
+      "text": "Venture capital",
+      "relevance": 0.725224,
+      "dbpedia_resource": "http://dbpedia.org/resource/Venture_capital"
+    },
+    {
+      "text": "According to Jim",
+      "relevance": 0.702918,
+      "dbpedia_resource": "http://dbpedia.org/resource/According_to_Jim"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.629775,
+      "label": "/food and drink"
+    }
+  ]
+}

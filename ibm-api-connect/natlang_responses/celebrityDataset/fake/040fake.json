@@ -1,0 +1,162 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 100,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.628769,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.628769,
+        "label": "negative"
+      },
+      "relevance": 0.967447,
+      "emotion": {
+        "sadness": 0.341933,
+        "joy": 0.346608,
+        "fear": 0.084804,
+        "disgust": 0.19381,
+        "anger": 0.191627
+      },
+      "count": 1
+    },
+    {
+      "text": "Ugly Truth",
+      "sentiment": {
+        "score": -0.628769,
+        "label": "negative"
+      },
+      "relevance": 0.914672,
+      "emotion": {
+        "sadness": 0.341933,
+        "joy": 0.346608,
+        "fear": 0.084804,
+        "disgust": 0.19381,
+        "anger": 0.191627
+      },
+      "count": 1
+    },
+    {
+      "text": "Tyga",
+      "sentiment": {
+        "score": -0.628769,
+        "label": "negative"
+      },
+      "relevance": 0.796863,
+      "emotion": {
+        "sadness": 0.341933,
+        "joy": 0.346608,
+        "fear": 0.084804,
+        "disgust": 0.19381,
+        "anger": 0.191627
+      },
+      "count": 1
+    },
+    {
+      "text": "New Tell",
+      "sentiment": {
+        "score": -0.628769,
+        "label": "negative"
+      },
+      "relevance": 0.661828,
+      "emotion": {
+        "sadness": 0.341933,
+        "joy": 0.346608,
+        "fear": 0.084804,
+        "disgust": 0.19381,
+        "anger": 0.191627
+      },
+      "count": 1
+    },
+    {
+      "text": "Book",
+      "sentiment": {
+        "score": -0.628769,
+        "label": "negative"
+      },
+      "relevance": 0.562815,
+      "emotion": {
+        "sadness": 0.341933,
+        "joy": 0.346608,
+        "fear": 0.084804,
+        "disgust": 0.19381,
+        "anger": 0.191627
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.223815,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            36,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.319819,
+        "joy": 0.362751,
+        "fear": 0.093276,
+        "disgust": 0.189781,
+        "anger": 0.177156
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.903053,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.879184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.876762,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.867592,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.607568,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

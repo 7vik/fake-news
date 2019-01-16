@@ -1,0 +1,369 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1179,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.315486,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.758065,
+        "label": "negative"
+      },
+      "relevance": 0.816937,
+      "emotion": {
+        "sadness": 0.107069,
+        "joy": 0.725503,
+        "fear": 0.050837,
+        "disgust": 0.029555,
+        "anger": 0.041876
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.758065,
+        "label": "negative"
+      },
+      "relevance": 0.755298,
+      "emotion": {
+        "sadness": 0.156484,
+        "joy": 0.752548,
+        "fear": 0.019916,
+        "disgust": 0.055131,
+        "anger": 0.025106
+      },
+      "count": 1
+    },
+    {
+      "text": "past week",
+      "sentiment": {
+        "score": -0.758065,
+        "label": "negative"
+      },
+      "relevance": 0.701451,
+      "emotion": {
+        "sadness": 0.352848,
+        "joy": 0.443036,
+        "fear": 0.076935,
+        "disgust": 0.118126,
+        "anger": 0.042488
+      },
+      "count": 1
+    },
+    {
+      "text": "business meeting",
+      "sentiment": {
+        "score": -0.758065,
+        "label": "negative"
+      },
+      "relevance": 0.661604,
+      "emotion": {
+        "sadness": 0.352848,
+        "joy": 0.443036,
+        "fear": 0.076935,
+        "disgust": 0.118126,
+        "anger": 0.042488
+      },
+      "count": 1
+    },
+    {
+      "text": "camouflage cargo pants",
+      "sentiment": {
+        "score": -0.758065,
+        "label": "negative"
+      },
+      "relevance": 0.627487,
+      "emotion": {
+        "sadness": 0.352848,
+        "joy": 0.443036,
+        "fear": 0.076935,
+        "disgust": 0.118126,
+        "anger": 0.042488
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.906252,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            293,
+            298
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            737,
+            742
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            1111,
+            1116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123169,
+        "joy": 0.189265,
+        "fear": 0.063907,
+        "disgust": 0.09462,
+        "anger": 0.108249
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.175535,
+        "label": "positive"
+      },
+      "relevance": 0.78779,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            41,
+            55
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            312,
+            326
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1013,
+            1016
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            1049,
+            1056
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1121,
+            1124
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224014,
+        "joy": 0.652278,
+        "fear": 0.066987,
+        "disgust": 0.210049,
+        "anger": 0.056575
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Bahamas",
+      "sentiment": {
+        "score": 0.530556,
+        "label": "positive"
+      },
+      "relevance": 0.526825,
+      "mentions": [
+        {
+          "text": "Bahamas",
+          "location": [
+            63,
+            70
+          ]
+        },
+        {
+          "text": "Bahamas",
+          "location": [
+            397,
+            404
+          ]
+        },
+        {
+          "text": "Bahamas",
+          "location": [
+            554,
+            561
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.034068,
+        "joy": 0.933632,
+        "fear": 0.010112,
+        "disgust": 0.008977,
+        "anger": 0.011492
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "BoardMember",
+          "Country"
+        ],
+        "name": "The Bahamas",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Bahamas"
+      },
+      "count": 3
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Great Guana Cay",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.407366,
+      "mentions": [
+        {
+          "text": "Great Guana Cay",
+          "location": [
+            531,
+            546
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Island"
+        ],
+        "name": "Great Guana Cay",
+        "dbpedia_resource": "http://dbpedia.org/resource/Great_Guana_Cay"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Calabasas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.285279,
+      "mentions": [
+        {
+          "text": "Calabasas",
+          "location": [
+            260,
+            269
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "City"
+        ],
+        "name": "Calabasas, California",
+        "dbpedia_resource": "http://dbpedia.org/resource/Calabasas,_California"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "T-Pain",
+      "relevance": 0.939058,
+      "dbpedia_resource": "http://dbpedia.org/resource/T-Pain"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.918884,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.886536,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Hip hop music",
+      "relevance": 0.818796,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hip_hop_music"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.728296,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.650755,
+      "label": "/style and fashion/clothing/pants"
+    }
+  ]
+}

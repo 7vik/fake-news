@@ -1,0 +1,337 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 817,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.465414,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "majority of American voters",
+      "sentiment": {
+        "score": 0.596476,
+        "label": "positive"
+      },
+      "relevance": 0.736191,
+      "emotion": {
+        "sadness": 0.391067,
+        "joy": 0.102161,
+        "fear": 0.052609,
+        "disgust": 0.44944,
+        "anger": 0.029913
+      },
+      "count": 1
+    },
+    {
+      "text": "Quinnipiac's last survey",
+      "sentiment": {
+        "score": -0.730927,
+        "label": "negative"
+      },
+      "relevance": 0.719806,
+      "emotion": {
+        "sadness": 0.477666,
+        "joy": 0.281609,
+        "fear": 0.131817,
+        "disgust": 0.05523,
+        "anger": 0.017649
+      },
+      "count": 1
+    },
+    {
+      "text": "recent survey",
+      "sentiment": {
+        "score": 0.887632,
+        "label": "positive"
+      },
+      "relevance": 0.711842,
+      "emotion": {
+        "sadness": 0.239608,
+        "joy": 0.44523,
+        "fear": 0.115362,
+        "disgust": 0.238833,
+        "anger": 0.023102
+      },
+      "count": 1
+    },
+    {
+      "text": "Quinnipiac University poll",
+      "sentiment": {
+        "score": 0.368102,
+        "label": "positive"
+      },
+      "relevance": 0.707891,
+      "emotion": {
+        "sadness": 0.220307,
+        "joy": 0.51781,
+        "fear": 0.10858,
+        "disgust": 0.033695,
+        "anger": 0.054821
+      },
+      "count": 1
+    },
+    {
+      "text": "approval rating",
+      "sentiment": {
+        "score": 0.368102,
+        "label": "positive"
+      },
+      "relevance": 0.698707,
+      "emotion": {
+        "sadness": 0.186789,
+        "joy": 0.392944,
+        "fear": 0.108406,
+        "disgust": 0.072801,
+        "anger": 0.03825
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.252404,
+        "label": "positive"
+      },
+      "relevance": 0.800139,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            6,
+            11
+          ]
+        },
+        {
+          "text": "President Donald Trump",
+          "location": [
+            36,
+            58
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            341,
+            346
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            456,
+            461
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            528,
+            530
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            549,
+            558
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            681,
+            683
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            738,
+            740
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.300233,
+        "joy": 0.533621,
+        "fear": 0.056245,
+        "disgust": 0.10745,
+        "anger": 0.037432
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 8
+    },
+    {
+      "type": "Organization",
+      "text": "Quinnipiac University",
+      "sentiment": {
+        "score": 0.449484,
+        "label": "positive"
+      },
+      "relevance": 0.339876,
+      "mentions": [
+        {
+          "text": "Quinnipiac University",
+          "location": [
+            123,
+            144
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.220307,
+        "joy": 0.51781,
+        "fear": 0.10858,
+        "disgust": 0.033695,
+        "anger": 0.054821
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Quinnipiac University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Quinnipiac_University"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.64309,
+        "label": "positive"
+      },
+      "relevance": 0.217789,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            270,
+            279
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.151058,
+      "mentions": [
+        {
+          "text": "United States",
+          "location": [
+            563,
+            576
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.406806,
+        "joy": 0.363554,
+        "fear": 0.058066,
+        "disgust": 0.148631,
+        "anger": 0.079377
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "70  percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.151058,
+      "mentions": [
+        {
+          "text": "70  percent",
+          "location": [
+            591,
+            602
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.95883,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Plurality voting system",
+      "relevance": 0.947113,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plurality_voting_system"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.870262,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.674773,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "President",
+      "relevance": 0.662934,
+      "dbpedia_resource": "http://dbpedia.org/resource/President"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.91602,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

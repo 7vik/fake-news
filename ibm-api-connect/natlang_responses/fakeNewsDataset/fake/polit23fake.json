@@ -1,0 +1,337 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 606,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.498529,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Green Party Candidate Jill Stein",
+      "sentiment": {
+        "score": -0.471436,
+        "label": "negative"
+      },
+      "relevance": 0.971148,
+      "emotion": {
+        "sadness": 0.170488,
+        "joy": 0.499875,
+        "fear": 0.115694,
+        "disgust": 0.177056,
+        "anger": 0.064138
+      },
+      "count": 1
+    },
+    {
+      "text": "presidential candidate",
+      "sentiment": {
+        "score": -0.471436,
+        "label": "negative"
+      },
+      "relevance": 0.925282,
+      "emotion": {
+        "sadness": 0.024967,
+        "joy": 0.693088,
+        "fear": 0.031831,
+        "disgust": 0.259027,
+        "anger": 0.014116
+      },
+      "count": 1
+    },
+    {
+      "text": "Green Party",
+      "sentiment": {
+        "score": -0.471436,
+        "label": "negative"
+      },
+      "relevance": 0.807148,
+      "emotion": {
+        "sadness": 0.04024,
+        "joy": 0.666911,
+        "fear": 0.033546,
+        "disgust": 0.259319,
+        "anger": 0.027492
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.703477,
+        "label": "negative"
+      },
+      "relevance": 0.639644,
+      "emotion": {
+        "sadness": 0.148188,
+        "joy": 0.695655,
+        "fear": 0.050898,
+        "disgust": 0.12299,
+        "anger": 0.031405
+      },
+      "count": 2
+    },
+    {
+      "text": "Jill Stein",
+      "sentiment": {
+        "score": -0.471436,
+        "label": "negative"
+      },
+      "relevance": 0.590138,
+      "emotion": {
+        "sadness": 0.04024,
+        "joy": 0.666911,
+        "fear": 0.033546,
+        "disgust": 0.259319,
+        "anger": 0.027492
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jill Stein",
+      "sentiment": {
+        "score": 0.534105,
+        "label": "positive"
+      },
+      "relevance": 0.812179,
+      "mentions": [
+        {
+          "text": "Jill Stein",
+          "location": [
+            30,
+            40
+          ]
+        },
+        {
+          "text": "Jill Stein",
+          "location": [
+            138,
+            148
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            155,
+            158
+          ]
+        },
+        {
+          "text": "Stein",
+          "location": [
+            189,
+            194
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.189213,
+        "joy": 0.534326,
+        "fear": 0.031216,
+        "disgust": 0.23855,
+        "anger": 0.089279
+      },
+      "disambiguation": {
+        "subtype": [
+          "Physician",
+          "Politician"
+        ],
+        "name": "Jill Stein",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jill_Stein"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.534105,
+        "label": "positive"
+      },
+      "relevance": 0.807278,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            175,
+            187
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            358,
+            370
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            461,
+            464
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.532381,
+        "joy": 0.390703,
+        "fear": 0.055925,
+        "disgust": 0.029893,
+        "anger": 0.069998
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Green Party",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.48507,
+      "mentions": [
+        {
+          "text": "Green Party",
+          "location": [
+            8,
+            19
+          ]
+        },
+        {
+          "text": "Green Party",
+          "location": [
+            125,
+            136
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.06741,
+        "joy": 0.539696,
+        "fear": 0.081568,
+        "disgust": 0.298209,
+        "anger": 0.049475
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Green Party of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Green_Party_of_the_United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Political Director",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.383771,
+      "mentions": [
+        {
+          "text": "Political Director",
+          "location": [
+            209,
+            227
+          ]
+        },
+        {
+          "text": "Political Director",
+          "location": [
+            250,
+            268
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.394183,
+        "joy": 0.141683,
+        "fear": 0.030822,
+        "disgust": 0.287405,
+        "anger": 0.275018
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Shushannah Walshe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.25944,
+      "mentions": [
+        {
+          "text": "Shushannah Walshe",
+          "location": [
+            269,
+            286
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.452591,
+        "joy": 0.094906,
+        "fear": 0.040595,
+        "disgust": 0.273222,
+        "anger": 0.24612
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.947565,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.876851,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.786942,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Political spectrum",
+      "relevance": 0.616118,
+      "dbpedia_resource": "http://dbpedia.org/resource/Political_spectrum"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.607724,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.952683,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

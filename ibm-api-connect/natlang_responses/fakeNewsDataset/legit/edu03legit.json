@@ -1,0 +1,226 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 523,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.635144,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Betsy DeVos's Education Hearing",
+      "sentiment": {
+        "score": -0.635144,
+        "label": "negative"
+      },
+      "relevance": 0.890057,
+      "emotion": {
+        "sadness": 0.125277,
+        "joy": 0.167658,
+        "fear": 0.127963,
+        "disgust": 0.368622,
+        "anger": 0.295883
+      },
+      "count": 1
+    },
+    {
+      "text": "confirmation hearing",
+      "sentiment": {
+        "score": -0.635144,
+        "label": "negative"
+      },
+      "relevance": 0.766919,
+      "emotion": {
+        "sadness": 0.214634,
+        "joy": 0.245487,
+        "fear": 0.026649,
+        "disgust": 0.183769,
+        "anger": 0.514277
+      },
+      "count": 1
+    },
+    {
+      "text": "education secretary",
+      "sentiment": {
+        "score": -0.635144,
+        "label": "negative"
+      },
+      "relevance": 0.765707,
+      "emotion": {
+        "sadness": 0.214634,
+        "joy": 0.245487,
+        "fear": 0.026649,
+        "disgust": 0.183769,
+        "anger": 0.514277
+      },
+      "count": 1
+    },
+    {
+      "text": "taxpayer dollars",
+      "sentiment": {
+        "score": -0.635144,
+        "label": "negative"
+      },
+      "relevance": 0.742283,
+      "emotion": {
+        "sadness": 0.214634,
+        "joy": 0.245487,
+        "fear": 0.026649,
+        "disgust": 0.183769,
+        "anger": 0.514277
+      },
+      "count": 1
+    },
+    {
+      "text": "newer models",
+      "sentiment": {
+        "score": -0.635144,
+        "label": "negative"
+      },
+      "relevance": 0.72925,
+      "emotion": {
+        "sadness": 0.214634,
+        "joy": 0.245487,
+        "fear": 0.026649,
+        "disgust": 0.183769,
+        "anger": 0.514277
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": -0.551767,
+        "label": "negative"
+      },
+      "relevance": 0.822394,
+      "mentions": [
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            139,
+            150
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.194403,
+        "joy": 0.094303,
+        "fear": 0.118296,
+        "disgust": 0.362558,
+        "anger": 0.417925
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.31779,
+      "mentions": [
+        {
+          "text": "secretary",
+          "location": [
+            128,
+            137
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134112,
+        "joy": 0.127817,
+        "fear": 0.074671,
+        "disgust": 0.10094,
+        "anger": 0.032113
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "WASHINGTON",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.277072,
+      "mentions": [
+        {
+          "text": "WASHINGTON",
+          "location": [
+            60,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.96766,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "The Nation",
+      "relevance": 0.54558,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Nation"
+    },
+    {
+      "text": "Tax",
+      "relevance": 0.5355,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tax"
+    },
+    {
+      "text": "School",
+      "relevance": 0.535036,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Dick DeVos",
+      "relevance": 0.530422,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dick_DeVos"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.904691,
+      "label": "/education"
+    }
+  ]
+}

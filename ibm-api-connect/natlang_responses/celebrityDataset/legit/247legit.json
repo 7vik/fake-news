@@ -1,0 +1,302 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 714,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.547956,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Owen Wilson",
+      "sentiment": {
+        "score": -0.254132,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.93779,
+      "emotion": {
+        "sadness": 0.067725,
+        "joy": 0.74613,
+        "fear": 0.021335,
+        "disgust": 0.101286,
+        "anger": 0.103844
+      },
+      "count": 2
+    },
+    {
+      "text": "latest pics of Owen",
+      "sentiment": {
+        "score": -0.476693,
+        "label": "negative"
+      },
+      "relevance": 0.717206,
+      "emotion": {
+        "sadness": 0.08648,
+        "joy": 0.765067,
+        "fear": 0.024504,
+        "disgust": 0.077918,
+        "anger": 0.07082
+      },
+      "count": 1
+    },
+    {
+      "text": "48-year-old actor",
+      "sentiment": {
+        "score": -0.476693,
+        "label": "negative"
+      },
+      "relevance": 0.704349,
+      "emotion": {
+        "sadness": 0.08648,
+        "joy": 0.765067,
+        "fear": 0.024504,
+        "disgust": 0.077918,
+        "anger": 0.07082
+      },
+      "count": 1
+    },
+    {
+      "text": "upcoming movie Cars",
+      "sentiment": {
+        "score": -0.476693,
+        "label": "negative"
+      },
+      "relevance": 0.695077,
+      "emotion": {
+        "sadness": 0.08648,
+        "joy": 0.765067,
+        "fear": 0.024504,
+        "disgust": 0.077918,
+        "anger": 0.07082
+      },
+      "count": 1
+    },
+    {
+      "text": "kids\u2019 potential careers",
+      "sentiment": {
+        "score": 0.333453,
+        "label": "positive"
+      },
+      "relevance": 0.673836,
+      "emotion": {
+        "sadness": 0.08648,
+        "joy": 0.765067,
+        "fear": 0.024504,
+        "disgust": 0.077918,
+        "anger": 0.07082
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Owen Wilson",
+      "sentiment": {
+        "score": -0.413391,
+        "label": "negative"
+      },
+      "relevance": 0.94763,
+      "mentions": [
+        {
+          "text": "Owen Wilson",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Owen Wilson",
+          "location": [
+            69,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251884,
+        "joy": 0.30926,
+        "fear": 0.096262,
+        "disgust": 0.216603,
+        "anger": 0.174991
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Owen Wilson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Owen_Wilson"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Owen",
+      "sentiment": {
+        "score": -0.61051,
+        "label": "negative"
+      },
+      "relevance": 0.868698,
+      "mentions": [
+        {
+          "text": "Owen",
+          "location": [
+            316,
+            320
+          ]
+        },
+        {
+          "text": "Owen",
+          "location": [
+            485,
+            489
+          ]
+        },
+        {
+          "text": "Owen",
+          "location": [
+            660,
+            664
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            709,
+            711
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.232797,
+        "joy": 0.218894,
+        "fear": 0.113787,
+        "disgust": 0.106995,
+        "anger": 0.158443
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Owen WilsonDuring",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.582254,
+      "mentions": [
+        {
+          "text": "Owen WilsonDuring",
+          "location": [
+            282,
+            299
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.205612,
+        "joy": 0.2991,
+        "fear": 0.077714,
+        "disgust": 0.083181,
+        "anger": 0.082478
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Ford",
+      "sentiment": {
+        "score": 0.477042,
+        "label": "positive"
+      },
+      "relevance": 0.334369,
+      "mentions": [
+        {
+          "text": "Ford",
+          "location": [
+            349,
+            353
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            441,
+            445
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.181946,
+        "joy": 0.531683,
+        "fear": 0.05171,
+        "disgust": 0.083459,
+        "anger": 0.217245
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Finn",
+      "sentiment": {
+        "score": 0.407445,
+        "label": "positive"
+      },
+      "relevance": 0.238064,
+      "mentions": [
+        {
+          "text": "Finn",
+          "location": [
+            362,
+            366
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Owen Wilson",
+      "relevance": 0.959825,
+      "dbpedia_resource": "http://dbpedia.org/resource/Owen_Wilson"
+    },
+    {
+      "text": "The Ellen Show",
+      "relevance": 0.559888,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Ellen_Show"
+    },
+    {
+      "text": "2001 albums",
+      "relevance": 0.542359,
+      "dbpedia_resource": "http://dbpedia.org/resource/2001_albums"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.683811,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

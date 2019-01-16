@@ -1,0 +1,114 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992061,
+      "emotion": {
+        "sadness": 0.441837,
+        "joy": 0.183447,
+        "fear": 0.098567,
+        "disgust": 0.036912,
+        "anger": 0.014128
+      },
+      "count": 1
+    },
+    {
+      "text": "mental health",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885021,
+      "emotion": {
+        "sadness": 0.441837,
+        "joy": 0.183447,
+        "fear": 0.098567,
+        "disgust": 0.036912,
+        "anger": 0.014128
+      },
+      "count": 1
+    },
+    {
+      "text": "Analysis",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.844357,
+      "emotion": {
+        "sadness": 0.441837,
+        "joy": 0.183447,
+        "fear": 0.098567,
+        "disgust": 0.036912,
+        "anger": 0.014128
+      },
+      "count": 1
+    },
+    {
+      "text": "hip-hop tackles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.719372,
+      "emotion": {
+        "sadness": 0.441837,
+        "joy": 0.183447,
+        "fear": 0.098567,
+        "disgust": 0.036912,
+        "anger": 0.014128
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Kanye West",
+      "relevance": 0.923775,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Jay-Z",
+      "relevance": 0.894333,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+    },
+    {
+      "text": "Graduation",
+      "relevance": 0.865823,
+      "dbpedia_resource": "http://dbpedia.org/resource/Graduation_(album)"
+    },
+    {
+      "text": "808s & Heartbreak",
+      "relevance": 0.855456,
+      "dbpedia_resource": "http://dbpedia.org/resource/808s_&_Heartbreak"
+    },
+    {
+      "text": "Hip hop music",
+      "relevance": 0.789716,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hip_hop_music"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.987591,
+      "label": "/art and entertainment/music/music genres/hip hop"
+    }
+  ]
+}

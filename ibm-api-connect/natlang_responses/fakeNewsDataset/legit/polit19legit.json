@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 842,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.890529,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "FBI investigation",
+      "sentiment": {
+        "score": -0.904746,
+        "label": "negative"
+      },
+      "relevance": 0.887419,
+      "emotion": {
+        "sadness": 0.31993,
+        "joy": 0.033012,
+        "fear": 0.440364,
+        "disgust": 0.038356,
+        "anger": 0.090723
+      },
+      "count": 1
+    },
+    {
+      "text": "Federal investigators",
+      "sentiment": {
+        "score": -0.904746,
+        "label": "negative"
+      },
+      "relevance": 0.719949,
+      "emotion": {
+        "sadness": 0.287964,
+        "joy": 0.328758,
+        "fear": 0.153899,
+        "disgust": 0.01029,
+        "anger": 0.102369
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump Organization",
+      "sentiment": {
+        "score": -0.904746,
+        "label": "negative"
+      },
+      "relevance": 0.703522,
+      "emotion": {
+        "sadness": 0.325184,
+        "joy": 0.168929,
+        "fear": 0.239762,
+        "disgust": 0.011526,
+        "anger": 0.09891
+      },
+      "count": 2
+    },
+    {
+      "text": "Russian bank",
+      "sentiment": {
+        "score": -0.904746,
+        "label": "negative"
+      },
+      "relevance": 0.668951,
+      "emotion": {
+        "sadness": 0.325184,
+        "joy": 0.168929,
+        "fear": 0.239762,
+        "disgust": 0.011526,
+        "anger": 0.09891
+      },
+      "count": 2
+    },
+    {
+      "text": "FBI's investigation",
+      "sentiment": {
+        "score": -0.876887,
+        "label": "negative"
+      },
+      "relevance": 0.646103,
+      "emotion": {
+        "sadness": 0.426366,
+        "joy": 0.044179,
+        "fear": 0.23788,
+        "disgust": 0.198127,
+        "anger": 0.275756
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "sentiment": {
+        "score": -0.39072,
+        "label": "negative"
+      },
+      "relevance": 0.775355,
+      "mentions": [
+        {
+          "text": "FBI",
+          "location": [
+            9,
+            12
+          ]
+        },
+        {
+          "text": "FBI",
+          "location": [
+            406,
+            409
+          ]
+        },
+        {
+          "text": "FBI",
+          "location": [
+            485,
+            488
+          ]
+        },
+        {
+          "text": "FBI",
+          "location": [
+            750,
+            753
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.387475,
+        "joy": 0.037739,
+        "fear": 0.156999,
+        "disgust": 0.363405,
+        "anger": 0.217229
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Federal Bureau of Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Trump Organization",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.557183,
+      "mentions": [
+        {
+          "text": "Trump Organization",
+          "location": [
+            87,
+            105
+          ]
+        },
+        {
+          "text": "Trump Organization",
+          "location": [
+            236,
+            254
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.271342,
+        "joy": 0.21414,
+        "fear": 0.418356,
+        "disgust": 0.060696,
+        "anger": 0.089127
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Trump Organization",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Trump_Organization"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": -0.584665,
+        "label": "negative"
+      },
+      "relevance": 0.259726,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            607,
+            615
+          ]
+        },
+        {
+          "text": "official",
+          "location": [
+            703,
+            711
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.511768,
+        "joy": 0.037861,
+        "fear": 0.257011,
+        "disgust": 0.235743,
+        "anger": 0.256509
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.213421,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            107,
+            110
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Russia",
+      "sentiment": {
+        "score": -0.576748,
+        "label": "negative"
+      },
+      "relevance": 0.191491,
+      "mentions": [
+        {
+          "text": "Russia",
+          "location": [
+            545,
+            551
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.952462,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Federal Bureau of Investigation",
+      "relevance": 0.928421,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.84105,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.891877,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

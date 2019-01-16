@@ -1,0 +1,401 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2740,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.372111,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "News\u2019s Catt Sadler",
+      "sentiment": {
+        "score": -0.684478,
+        "label": "negative"
+      },
+      "relevance": 0.736379,
+      "emotion": {
+        "sadness": 0.266279,
+        "joy": 0.572378,
+        "fear": 0.059354,
+        "disgust": 0.125856,
+        "anger": 0.037684
+      },
+      "count": 1
+    },
+    {
+      "text": "good news",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.688811,
+      "emotion": {
+        "sadness": 0.05242,
+        "joy": 0.849899,
+        "fear": 0.049317,
+        "disgust": 0.017721,
+        "anger": 0.007924
+      },
+      "count": 1
+    },
+    {
+      "text": "extemporaneous poetry",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.606276,
+      "emotion": {
+        "sadness": 0.082952,
+        "joy": 0.445763,
+        "fear": 0.062982,
+        "disgust": 0.167819,
+        "anger": 0.360274
+      },
+      "count": 1
+    },
+    {
+      "text": "New York Fashion Week",
+      "sentiment": {
+        "score": -0.709942,
+        "label": "negative"
+      },
+      "relevance": 0.599174,
+      "emotion": {
+        "sadness": 0.179562,
+        "joy": 0.473489,
+        "fear": 0.01349,
+        "disgust": 0.221759,
+        "anger": 0.120671
+      },
+      "count": 1
+    },
+    {
+      "text": "Bazaar Icons party Friday night",
+      "sentiment": {
+        "score": -0.684478,
+        "label": "negative"
+      },
+      "relevance": 0.58956,
+      "emotion": {
+        "sadness": 0.266279,
+        "joy": 0.572378,
+        "fear": 0.059354,
+        "disgust": 0.125856,
+        "anger": 0.037684
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jim Carrey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.870466,
+      "mentions": [
+        {
+          "text": "Jim Carrey",
+          "location": [
+            72,
+            82
+          ]
+        },
+        {
+          "text": "Carrey",
+          "location": [
+            158,
+            164
+          ]
+        },
+        {
+          "text": "Carrey",
+          "location": [
+            302,
+            308
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            468,
+            471
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            489,
+            492
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            724,
+            727
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            751,
+            754
+          ]
+        },
+        {
+          "text": "Carrey",
+          "location": [
+            794,
+            800
+          ]
+        },
+        {
+          "text": "Carrey",
+          "location": [
+            1074,
+            1080
+          ]
+        },
+        {
+          "text": "Carrey",
+          "location": [
+            2658,
+            2664
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Jim Carrey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jim_Carrey"
+      },
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Watch Sadler",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.537562,
+      "mentions": [
+        {
+          "text": "Catt Sadler",
+          "location": [
+            275,
+            286
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            506,
+            509
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            537,
+            539
+          ]
+        },
+        {
+          "text": "Watch Sadler",
+          "location": [
+            701,
+            713
+          ]
+        },
+        {
+          "text": "Sadler",
+          "location": [
+            918,
+            924
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            944,
+            946
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.358622,
+        "joy": 0.243332,
+        "fear": 0.088122,
+        "disgust": 0.302476,
+        "anger": 0.089045
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.294372,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            442,
+            449
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Maharishi University of Management",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.26544,
+      "mentions": [
+        {
+          "text": "two-minute",
+          "location": [
+            384,
+            394
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.200637,
+        "joy": 0.160321,
+        "fear": 0.081502,
+        "disgust": 0.123102,
+        "anger": 0.405498
+      },
+      "disambiguation": {
+        "subtype": [
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Maharishi University of Management",
+        "dbpedia_resource": "http://dbpedia.org/resource/Maharishi_University_of_Management"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Iowa",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.261181,
+      "mentions": [
+        {
+          "text": "Iowa",
+          "location": [
+            1572,
+            1576
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Iowa",
+        "dbpedia_resource": "http://dbpedia.org/resource/Iowa"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2004 singles",
+      "relevance": 0.944114,
+      "dbpedia_resource": "http://dbpedia.org/resource/2004_singles"
+    },
+    {
+      "text": "Debut albums",
+      "relevance": 0.747599,
+      "dbpedia_resource": "http://dbpedia.org/resource/Debut_albums"
+    },
+    {
+      "text": "The Mask",
+      "relevance": 0.685816,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Mask_(film)"
+    },
+    {
+      "text": "Jim Carrey",
+      "relevance": 0.67548,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jim_Carrey"
+    },
+    {
+      "text": "Commencement speech",
+      "relevance": 0.671917,
+      "dbpedia_resource": "http://dbpedia.org/resource/Commencement_speech"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.736829,
+      "label": "/style and fashion"
+    }
+  ]
+}

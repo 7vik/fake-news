@@ -1,0 +1,298 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 495,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.842419,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "atypical wit",
+      "sentiment": {
+        "score": -0.7498,
+        "label": "negative"
+      },
+      "relevance": 0.7636,
+      "emotion": {
+        "sadness": 0.223828,
+        "joy": 0.083351,
+        "fear": 0.153545,
+        "disgust": 0.596162,
+        "anger": 0.166362
+      },
+      "count": 1
+    },
+    {
+      "text": "strong armed approach",
+      "sentiment": {
+        "score": -0.7498,
+        "label": "negative"
+      },
+      "relevance": 0.690099,
+      "emotion": {
+        "sadness": 0.223828,
+        "joy": 0.083351,
+        "fear": 0.153545,
+        "disgust": 0.596162,
+        "anger": 0.166362
+      },
+      "count": 1
+    },
+    {
+      "text": "Pence",
+      "sentiment": {
+        "score": -0.881838,
+        "label": "negative"
+      },
+      "relevance": 0.680345,
+      "emotion": {
+        "sadness": 0.11589,
+        "joy": 0.117543,
+        "fear": 0.131853,
+        "disgust": 0.553874,
+        "anger": 0.349537
+      },
+      "count": 3
+    },
+    {
+      "text": "Congress",
+      "sentiment": {
+        "score": -0.918412,
+        "label": "negative"
+      },
+      "relevance": 0.571554,
+      "emotion": {
+        "sadness": 0.11589,
+        "joy": 0.117543,
+        "fear": 0.131853,
+        "disgust": 0.553874,
+        "anger": 0.349537
+      },
+      "count": 3
+    },
+    {
+      "text": "boss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.543907,
+      "emotion": {
+        "sadness": 0.031228,
+        "joy": 0.112502,
+        "fear": 0.106584,
+        "disgust": 0.128306,
+        "anger": 0.21335
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "VP Mike Pence",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.928211,
+      "mentions": [
+        {
+          "text": "Pence",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "VP Mike Pence",
+          "location": [
+            46,
+            59
+          ]
+        },
+        {
+          "text": "Pence",
+          "location": [
+            155,
+            160
+          ]
+        },
+        {
+          "text": "Pence",
+          "location": [
+            359,
+            364
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.032096,
+        "joy": 0.069351,
+        "fear": 0.055632,
+        "disgust": 0.204099,
+        "anger": 0.103065
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson",
+          "BroadcastArtist"
+        ],
+        "name": "Mike Pence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Congress",
+      "sentiment": {
+        "score": -0.361098,
+        "label": "negative"
+      },
+      "relevance": 0.514428,
+      "mentions": [
+        {
+          "text": "Congress",
+          "location": [
+            28,
+            36
+          ]
+        },
+        {
+          "text": "Congress",
+          "location": [
+            71,
+            79
+          ]
+        },
+        {
+          "text": "Congress",
+          "location": [
+            199,
+            207
+          ]
+        },
+        {
+          "text": "Congress",
+          "location": [
+            456,
+            464
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.072587,
+        "joy": 0.029682,
+        "fear": 0.160034,
+        "disgust": 0.449426,
+        "anger": 0.193833
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Obamacare",
+      "sentiment": {
+        "score": -0.577549,
+        "label": "negative"
+      },
+      "relevance": 0.174523,
+      "mentions": [
+        {
+          "text": "Obamacare",
+          "location": [
+            7,
+            16
+          ]
+        },
+        {
+          "text": "Obamacare",
+          "location": [
+            144,
+            153
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.113321,
+        "joy": 0.139734,
+        "fear": 0.393229,
+        "disgust": 0.116831,
+        "anger": 0.326035
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.366111,
+        "label": "positive"
+      },
+      "relevance": 0.153686,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            386,
+            391
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292163,
+        "joy": 0.141698,
+        "fear": 0.116749,
+        "disgust": 0.09148,
+        "anger": 0.091126
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "111th United States Congress",
+      "relevance": 0.917568,
+      "dbpedia_resource": "http://dbpedia.org/resource/111th_United_States_Congress"
+    },
+    {
+      "text": "Law",
+      "relevance": 0.745942,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law"
+    },
+    {
+      "text": "United States Senate",
+      "relevance": 0.642788,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "Harold Pinter",
+      "relevance": 0.625794,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harold_Pinter"
+    },
+    {
+      "text": "George H. W. Bush",
+      "relevance": 0.610095,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_H._W._Bush"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.911506,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

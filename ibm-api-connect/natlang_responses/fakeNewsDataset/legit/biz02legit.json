@@ -1,0 +1,157 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1049,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.359736,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "recent weeks",
+      "sentiment": {
+        "score": 0.517,
+        "label": "positive"
+      },
+      "relevance": 0.835505,
+      "emotion": {
+        "sadness": 0.122604,
+        "joy": 0.353189,
+        "fear": 0.104185,
+        "disgust": 0.024802,
+        "anger": 0.131186
+      },
+      "count": 1
+    },
+    {
+      "text": "Technology companies",
+      "sentiment": {
+        "score": 0.789051,
+        "label": "positive"
+      },
+      "relevance": 0.776924,
+      "emotion": {
+        "sadness": 0.282605,
+        "joy": 0.139029,
+        "fear": 0.031326,
+        "disgust": 0.031961,
+        "anger": 0.102102
+      },
+      "count": 2
+    },
+    {
+      "text": "big banks",
+      "sentiment": {
+        "score": -0.994348,
+        "label": "negative"
+      },
+      "relevance": 0.689947,
+      "emotion": {
+        "sadness": 0.212269,
+        "joy": 0.062922,
+        "fear": 0.087086,
+        "disgust": 0.045019,
+        "anger": 0.157123
+      },
+      "count": 1
+    },
+    {
+      "text": "large banks",
+      "sentiment": {
+        "score": 0.517,
+        "label": "positive"
+      },
+      "relevance": 0.667923,
+      "emotion": {
+        "sadness": 0.122604,
+        "joy": 0.353189,
+        "fear": 0.104185,
+        "disgust": 0.024802,
+        "anger": 0.131186
+      },
+      "count": 1
+    },
+    {
+      "text": "personal financial data",
+      "sentiment": {
+        "score": -0.994348,
+        "label": "negative"
+      },
+      "relevance": 0.666748,
+      "emotion": {
+        "sadness": 0.212269,
+        "joy": 0.062922,
+        "fear": 0.087086,
+        "disgust": 0.045019,
+        "anger": 0.157123
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.642744,
+        "label": "negative"
+      },
+      "relevance": 0.599885,
+      "mentions": [
+        {
+          "text": "Silicon Valley",
+          "location": [
+            85,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278687,
+        "joy": 0.097768,
+        "fear": 0.220211,
+        "disgust": 0.016944,
+        "anger": 0.100505
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Money",
+      "relevance": 0.958575,
+      "dbpedia_resource": "http://dbpedia.org/resource/Money"
+    },
+    {
+      "text": "Bank",
+      "relevance": 0.528416,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bank"
+    },
+    {
+      "text": "Interest",
+      "relevance": 0.506945,
+      "dbpedia_resource": "http://dbpedia.org/resource/Interest"
+    },
+    {
+      "text": "Payment",
+      "relevance": 0.506094,
+      "dbpedia_resource": "http://dbpedia.org/resource/Payment"
+    },
+    {
+      "text": "Credit card",
+      "relevance": 0.469975,
+      "dbpedia_resource": "http://dbpedia.org/resource/Credit_card"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.977136,
+      "label": "/finance/bank"
+    }
+  ]
+}

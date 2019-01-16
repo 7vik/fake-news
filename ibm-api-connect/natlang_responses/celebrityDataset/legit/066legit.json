@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 977,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.423912,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "historic home",
+      "sentiment": {
+        "score": -0.697448,
+        "label": "negative"
+      },
+      "relevance": 0.919081,
+      "emotion": {
+        "sadness": 0.235638,
+        "joy": 0.641373,
+        "fear": 0.040709,
+        "disgust": 0.110772,
+        "anger": 0.007172
+      },
+      "count": 1
+    },
+    {
+      "text": "Elizabeth Hassleback",
+      "sentiment": {
+        "score": 0.479316,
+        "label": "positive"
+      },
+      "relevance": 0.730561,
+      "emotion": {
+        "sadness": 0.400872,
+        "joy": 0.339394,
+        "fear": 0.085101,
+        "disgust": 0.238911,
+        "anger": 0.041527
+      },
+      "count": 1
+    },
+    {
+      "text": "Rosie O'Donnell Sells",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.716823,
+      "emotion": {
+        "sadness": 0.235015,
+        "joy": 0.482513,
+        "fear": 0.110624,
+        "disgust": 0.154491,
+        "anger": 0.023454
+      },
+      "count": 1
+    },
+    {
+      "text": "marijuana-loving church",
+      "sentiment": {
+        "score": -0.697448,
+        "label": "negative"
+      },
+      "relevance": 0.70484,
+      "emotion": {
+        "sadness": 0.235638,
+        "joy": 0.641373,
+        "fear": 0.040709,
+        "disgust": 0.110772,
+        "anger": 0.007172
+      },
+      "count": 1
+    },
+    {
+      "text": "headquarters of the Ethiopian Zion Coptic Church",
+      "sentiment": {
+        "score": -0.697448,
+        "label": "negative"
+      },
+      "relevance": 0.700068,
+      "emotion": {
+        "sadness": 0.235638,
+        "joy": 0.641373,
+        "fear": 0.040709,
+        "disgust": 0.110772,
+        "anger": 0.007172
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rosie O'Donnell",
+      "sentiment": {
+        "score": -0.517256,
+        "label": "negative"
+      },
+      "relevance": 0.849026,
+      "mentions": [
+        {
+          "text": "Rosie O'Donnell",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Rosie O'Donnell",
+          "location": [
+            119,
+            134
+          ]
+        },
+        {
+          "text": "a resident",
+          "location": [
+            148,
+            158
+          ]
+        },
+        {
+          "text": "Rosie",
+          "location": [
+            658,
+            663
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187951,
+        "joy": 0.55802,
+        "fear": 0.015023,
+        "disgust": 0.279097,
+        "anger": 0.018858
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Rosie O'Donnell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+      },
+      "count": 4
+    },
+    {
+      "type": "Facility",
+      "text": "Star Island Mansion",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.453962,
+      "mentions": [
+        {
+          "text": "Star Island Mansion",
+          "location": [
+            26,
+            45
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.235015,
+        "joy": 0.482513,
+        "fear": 0.110624,
+        "disgust": 0.154491,
+        "anger": 0.023454
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Square Grouper",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.378143,
+      "mentions": [
+        {
+          "text": "Square Grouper",
+          "location": [
+            361,
+            375
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.477084,
+        "joy": 0.327374,
+        "fear": 0.06315,
+        "disgust": 0.234466,
+        "anger": 0.011836
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Star Island",
+      "sentiment": {
+        "score": -0.517256,
+        "label": "negative"
+      },
+      "relevance": 0.347783,
+      "mentions": [
+        {
+          "text": "Star Island",
+          "location": [
+            162,
+            173
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.107662,
+        "joy": 0.544855,
+        "fear": 0.053207,
+        "disgust": 0.221326,
+        "anger": 0.032416
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Star Island (Miami Beach)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Star_Island_(Miami_Beach)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Elizabeth Hassleback",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.289691,
+      "mentions": [
+        {
+          "text": "Elizabeth Hassleback",
+          "location": [
+            616,
+            636
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.395665,
+        "joy": 0.325734,
+        "fear": 0.019242,
+        "disgust": 0.280104,
+        "anger": 0.026953
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Elisabeth Hasselbeck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elisabeth_Hasselbeck"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Rosie O'Donnell",
+      "relevance": 0.980795,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+    },
+    {
+      "text": "Apostrophe",
+      "relevance": 0.709897,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apostrophe"
+    },
+    {
+      "text": "Elisabeth Hasselbeck",
+      "relevance": 0.702145,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elisabeth_Hasselbeck"
+    },
+    {
+      "text": "Ethiopia",
+      "relevance": 0.606017,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ethiopia"
+    },
+    {
+      "text": "Zion",
+      "relevance": 0.604971,
+      "dbpedia_resource": "http://dbpedia.org/resource/Zion"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.680488,
+      "label": "/real estate/buying and selling homes"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 829,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.303217,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ivanka Trump Set",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.840514,
+      "emotion": {
+        "sadness": 0.133579,
+        "joy": 0.09529,
+        "fear": 0.04361,
+        "disgust": 0.056977,
+        "anger": 0.349287
+      },
+      "count": 1
+    },
+    {
+      "text": "National Security Council",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.679075,
+      "emotion": {
+        "sadness": 0.201972,
+        "joy": 0.436815,
+        "fear": 0.038423,
+        "disgust": 0.274294,
+        "anger": 0.17703
+      },
+      "count": 1
+    },
+    {
+      "text": "security clearance",
+      "sentiment": {
+        "score": 0.674521,
+        "label": "positive"
+      },
+      "relevance": 0.675106,
+      "emotion": {
+        "sadness": 0.504839,
+        "joy": 0.099174,
+        "fear": 0.135173,
+        "disgust": 0.11993,
+        "anger": 0.154802
+      },
+      "count": 1
+    },
+    {
+      "text": "formal role",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.664829,
+      "emotion": {
+        "sadness": 0.201972,
+        "joy": 0.436815,
+        "fear": 0.038423,
+        "disgust": 0.274294,
+        "anger": 0.17703
+      },
+      "count": 1
+    },
+    {
+      "text": "father's administration",
+      "sentiment": {
+        "score": -0.680098,
+        "label": "negative"
+      },
+      "relevance": 0.657942,
+      "emotion": {
+        "sadness": 0.339172,
+        "joy": 0.314802,
+        "fear": 0.047492,
+        "disgust": 0.250952,
+        "anger": 0.206531
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ivanka Trump",
+      "sentiment": {
+        "score": 0.631387,
+        "label": "positive"
+      },
+      "relevance": 0.798348,
+      "mentions": [
+        {
+          "text": "Ivanka Trump",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Ivanka Trump",
+          "location": [
+            57,
+            69
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            102,
+            105
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            582,
+            587
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.401279,
+        "joy": 0.20193,
+        "fear": 0.088424,
+        "disgust": 0.116637,
+        "anger": 0.282782
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Ivanka Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Dina Powell",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.388734,
+      "mentions": [
+        {
+          "text": "Dina Powell",
+          "location": [
+            337,
+            348
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            424,
+            427
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.303141,
+        "joy": 0.105411,
+        "fear": 0.077396,
+        "disgust": 0.019492,
+        "anger": 0.111963
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Dina Powell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dina_Powell"
+      },
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "West Wing",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.359795,
+      "mentions": [
+        {
+          "text": "West Wing",
+          "location": [
+            279,
+            288
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "National Security Council",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.337142,
+      "mentions": [
+        {
+          "text": "National Security Council",
+          "location": [
+            397,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139306,
+        "joy": 0.071407,
+        "fear": 0.242079,
+        "disgust": 0.627373,
+        "anger": 0.081958
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody"
+        ],
+        "name": "United States National Security Council",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_National_Security_Council"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "senior adviser",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.286044,
+      "mentions": [
+        {
+          "text": "senior adviser",
+          "location": [
+            322,
+            336
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.184952,
+        "joy": 0.253606,
+        "fear": 0.091707,
+        "disgust": 0.059429,
+        "anger": 0.047767
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "National security",
+      "relevance": 0.976951,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_security"
+    },
+    {
+      "text": "Official",
+      "relevance": 0.933341,
+      "dbpedia_resource": "http://dbpedia.org/resource/Official"
+    },
+    {
+      "text": "Russia",
+      "relevance": 0.881875,
+      "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+    },
+    {
+      "text": "Office",
+      "relevance": 0.839235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Office"
+    },
+    {
+      "text": "Ivanka Trump",
+      "relevance": 0.810183,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.762762,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 487,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.863303,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Theresa May",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.891846,
+      "emotion": {
+        "sadness": 0.161293,
+        "joy": 0.215384,
+        "fear": 0.158042,
+        "disgust": 0.078343,
+        "anger": 0.10855
+      },
+      "count": 1
+    },
+    {
+      "text": "Brexit talks",
+      "sentiment": {
+        "score": 0.912584,
+        "label": "positive"
+      },
+      "relevance": 0.833481,
+      "emotion": {
+        "sadness": 0.029033,
+        "joy": 0.709103,
+        "fear": 0.045383,
+        "disgust": 0.028402,
+        "anger": 0.014363
+      },
+      "count": 1
+    },
+    {
+      "text": "European Union",
+      "sentiment": {
+        "score": 0.925065,
+        "label": "positive"
+      },
+      "relevance": 0.828711,
+      "emotion": {
+        "sadness": 0.14388,
+        "joy": 0.6554,
+        "fear": 0.036781,
+        "disgust": 0.022973,
+        "anger": 0.085417
+      },
+      "count": 1
+    },
+    {
+      "text": "greatest success",
+      "sentiment": {
+        "score": 0.925065,
+        "label": "positive"
+      },
+      "relevance": 0.777762,
+      "emotion": {
+        "sadness": 0.14388,
+        "joy": 0.6554,
+        "fear": 0.036781,
+        "disgust": 0.022973,
+        "anger": 0.085417
+      },
+      "count": 1
+    },
+    {
+      "text": "European commissioner Jose Manual Barroso",
+      "sentiment": {
+        "score": 0.912584,
+        "label": "positive"
+      },
+      "relevance": 0.76322,
+      "emotion": {
+        "sadness": 0.022503,
+        "joy": 0.585123,
+        "fear": 0.048282,
+        "disgust": 0.019384,
+        "anger": 0.047813
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jos\u00e9 Manuel Barroso",
+      "sentiment": {
+        "score": 0.500127,
+        "label": "positive"
+      },
+      "relevance": 0.94416,
+      "mentions": [
+        {
+          "text": "Brexit talks",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Jos\u00e9 Manuel Barroso",
+          "location": [
+            33,
+            52
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.031058,
+        "joy": 0.737064,
+        "fear": 0.048759,
+        "disgust": 0.034719,
+        "anger": 0.01601
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President"
+        ],
+        "name": "Jos\u00e9 Manuel Barroso",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jos\u00e9_Manuel_Barroso"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jose Manual Barroso",
+      "sentiment": {
+        "score": 0.547061,
+        "label": "positive"
+      },
+      "relevance": 0.580662,
+      "mentions": [
+        {
+          "text": "Jose Manual Barroso",
+          "location": [
+            125,
+            144
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.022503,
+        "joy": 0.585123,
+        "fear": 0.048282,
+        "disgust": 0.019384,
+        "anger": 0.047813
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Theresa May",
+      "sentiment": {
+        "score": 0.656452,
+        "label": "positive"
+      },
+      "relevance": 0.575675,
+      "mentions": [
+        {
+          "text": "Theresa May",
+          "location": [
+            310,
+            321
+          ]
+        },
+        {
+          "text": "Theresa",
+          "location": [
+            395,
+            402
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.150876,
+        "joy": 0.419703,
+        "fear": 0.16772,
+        "disgust": 0.033113,
+        "anger": 0.132784
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Theresa May",
+        "dbpedia_resource": "http://dbpedia.org/resource/Theresa_May"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "European Union",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.428373,
+      "mentions": [
+        {
+          "text": "European Union",
+          "location": [
+            175,
+            189
+          ]
+        },
+        {
+          "text": "EU",
+          "location": [
+            390,
+            392
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.362267,
+        "joy": 0.145079,
+        "fear": 0.073884,
+        "disgust": 0.069604,
+        "anger": 0.326902
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "commissioner",
+      "sentiment": {
+        "score": 0.547061,
+        "label": "positive"
+      },
+      "relevance": 0.281004,
+      "mentions": [
+        {
+          "text": "commissioner",
+          "location": [
+            112,
+            124
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.022503,
+        "joy": 0.585123,
+        "fear": 0.048282,
+        "disgust": 0.019384,
+        "anger": 0.047813
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "European Commission",
+      "relevance": 0.972279,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Commission"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.917419,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "President of the European Commission",
+      "relevance": 0.827618,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_European_Commission"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.798021,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.695172,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.798909,
+      "label": "/law, govt and politics/government/parliament"
+    }
+  ]
+}

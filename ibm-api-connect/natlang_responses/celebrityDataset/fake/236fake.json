@@ -1,0 +1,177 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.559042,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prince William",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999604,
+      "emotion": {
+        "sadness": 0.130739,
+        "joy": 0.34235,
+        "fear": 0.081917,
+        "disgust": 0.123285,
+        "anger": 0.118309
+      },
+      "count": 1
+    },
+    {
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.975274,
+      "emotion": {
+        "sadness": 0.130739,
+        "joy": 0.34235,
+        "fear": 0.081917,
+        "disgust": 0.123285,
+        "anger": 0.118309
+      },
+      "count": 1
+    },
+    {
+      "text": "Kensington Palace",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.879903,
+      "emotion": {
+        "sadness": 0.130739,
+        "joy": 0.34235,
+        "fear": 0.081917,
+        "disgust": 0.123285,
+        "anger": 0.118309
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.259395,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince William",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Prince William",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137924,
+        "joy": 0.440447,
+        "fear": 0.071572,
+        "disgust": 0.103036,
+        "anger": 0.094697
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince William, Duke of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kate Middleton",
+          "location": [
+            19,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137924,
+        "joy": 0.440447,
+        "fear": 0.071572,
+        "disgust": 0.103036,
+        "anger": 0.094697
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Catherine, Duchess of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Diana, Princess of Wales",
+      "relevance": 0.938709,
+      "dbpedia_resource": "http://dbpedia.org/resource/Diana,_Princess_of_Wales"
+    },
+    {
+      "text": "Prince William of Wales",
+      "relevance": 0.89355,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_William_of_Wales"
+    },
+    {
+      "text": "Charles, Prince of Wales",
+      "relevance": 0.888038,
+      "dbpedia_resource": "http://dbpedia.org/resource/Charles,_Prince_of_Wales"
+    },
+    {
+      "text": "William III of England",
+      "relevance": 0.746899,
+      "dbpedia_resource": "http://dbpedia.org/resource/William_III_of_England"
+    },
+    {
+      "text": "Concert for Diana",
+      "relevance": 0.744846,
+      "dbpedia_resource": "http://dbpedia.org/resource/Concert_for_Diana"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.549891,
+      "label": "/hobbies and interests/needlework"
+    }
+  ]
+}

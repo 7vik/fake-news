@@ -1,0 +1,333 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 751,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.82198,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "US bankruptcy protection",
+      "sentiment": {
+        "score": -0.571428,
+        "label": "negative"
+      },
+      "relevance": 0.958428,
+      "emotion": {
+        "sadness": 0.121413,
+        "joy": 0.07568,
+        "fear": 0.322729,
+        "disgust": 0.042291,
+        "anger": 0.173592
+      },
+      "count": 1
+    },
+    {
+      "text": "Toshiba's Westinghouse files",
+      "sentiment": {
+        "score": -0.571428,
+        "label": "negative"
+      },
+      "relevance": 0.950034,
+      "emotion": {
+        "sadness": 0.196281,
+        "joy": 0.100958,
+        "fear": 0.094442,
+        "disgust": 0.074322,
+        "anger": 0.063848
+      },
+      "count": 1
+    },
+    {
+      "text": "US firm",
+      "sentiment": {
+        "score": -0.936999,
+        "label": "negative"
+      },
+      "relevance": 0.886475,
+      "emotion": {
+        "sadness": 0.788718,
+        "joy": 0.002251,
+        "fear": 0.191188,
+        "disgust": 0.080794,
+        "anger": 0.227563
+      },
+      "count": 1
+    },
+    {
+      "text": "Japanese government",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.744865,
+      "emotion": {
+        "sadness": 0.171851,
+        "joy": 0.054905,
+        "fear": 0.070895,
+        "disgust": 0.010136,
+        "anger": 0.019733
+      },
+      "count": 1
+    },
+    {
+      "text": "Japanese parent",
+      "sentiment": {
+        "score": -0.936999,
+        "label": "negative"
+      },
+      "relevance": 0.64373,
+      "emotion": {
+        "sadness": 0.788718,
+        "joy": 0.002251,
+        "fear": 0.191188,
+        "disgust": 0.080794,
+        "anger": 0.227563
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.671238,
+        "label": "negative"
+      },
+      "relevance": 0.959735,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            33,
+            35
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            71,
+            73
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            102,
+            104
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            132,
+            134
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            319,
+            321
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            526,
+            528
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.616347,
+        "joy": 0.066965,
+        "fear": 0.234041,
+        "disgust": 0.059542,
+        "anger": 0.193632
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Toshiba",
+      "sentiment": {
+        "score": -0.611557,
+        "label": "negative"
+      },
+      "relevance": 0.802302,
+      "mentions": [
+        {
+          "text": "Toshiba",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Toshiba",
+          "location": [
+            61,
+            68
+          ]
+        },
+        {
+          "text": "Toshiba",
+          "location": [
+            362,
+            369
+          ]
+        },
+        {
+          "text": "Toshiba",
+          "location": [
+            556,
+            563
+          ]
+        },
+        {
+          "text": "Toshiba",
+          "location": [
+            734,
+            741
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153936,
+        "joy": 0.04567,
+        "fear": 0.109725,
+        "disgust": 0.193719,
+        "anger": 0.223559
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Westinghouse",
+      "sentiment": {
+        "score": -0.566399,
+        "label": "negative"
+      },
+      "relevance": 0.686876,
+      "mentions": [
+        {
+          "text": "Westinghouse",
+          "location": [
+            10,
+            22
+          ]
+        },
+        {
+          "text": "Westinghouse",
+          "location": [
+            267,
+            279
+          ]
+        },
+        {
+          "text": "Westinghouse",
+          "location": [
+            407,
+            419
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.550126,
+        "joy": 0.104159,
+        "fear": 0.230128,
+        "disgust": 0.068051,
+        "anger": 0.154221
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Westinghouse Electric Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Westinghouse_Electric_Company"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Japanese government",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.230072,
+      "mentions": [
+        {
+          "text": "Japanese government",
+          "location": [
+            670,
+            689
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.171851,
+        "joy": 0.054905,
+        "fear": 0.070895,
+        "disgust": 0.010136,
+        "anger": 0.019733
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Government of Japan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Government_of_Japan"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Government of Japan",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Government_of_Japan"
+    },
+    {
+      "text": "Cost overrun",
+      "relevance": 0.919913,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cost_overrun"
+    },
+    {
+      "text": "Management",
+      "relevance": 0.868421,
+      "dbpedia_resource": "http://dbpedia.org/resource/Management"
+    },
+    {
+      "text": "Japan",
+      "relevance": 0.79259,
+      "dbpedia_resource": "http://dbpedia.org/resource/Japan"
+    },
+    {
+      "text": "Dr. Dre",
+      "relevance": 0.778568,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dr._Dre"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.953156,
+      "label": "/business and industrial/company/bankruptcy"
+    }
+  ]
+}

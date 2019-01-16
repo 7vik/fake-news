@@ -1,0 +1,151 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Harry Styles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999058,
+      "emotion": {
+        "sadness": 0.25592,
+        "joy": 0.204581,
+        "fear": 0.081761,
+        "disgust": 0.210321,
+        "anger": 0.188852
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.973956,
+      "emotion": {
+        "sadness": 0.25592,
+        "joy": 0.204581,
+        "fear": 0.081761,
+        "disgust": 0.210321,
+        "anger": 0.188852
+      },
+      "count": 1
+    },
+    {
+      "text": "Direction",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.663188,
+      "emotion": {
+        "sadness": 0.25592,
+        "joy": 0.204581,
+        "fear": 0.081761,
+        "disgust": 0.210321,
+        "anger": 0.188852
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Harry Styles",
+      "sentiment": {
+        "score": -0.59167,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Harry Styles",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.264509,
+        "joy": 0.285896,
+        "fear": 0.076456,
+        "disgust": 0.189637,
+        "anger": 0.161573
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.59167,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            46,
+            60
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.264509,
+        "joy": 0.285896,
+        "fear": 0.076456,
+        "disgust": 0.189637,
+        "anger": 0.161573
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "The Starting Line",
+      "relevance": 0.86184,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Starting_Line"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.777497,
+      "label": "/style and fashion"
+    }
+  ]
+}

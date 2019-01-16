@@ -1,0 +1,338 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 937,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.46479,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ms. Graff's allegiance",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.756204,
+      "emotion": {
+        "sadness": 0.122635,
+        "joy": 0.631005,
+        "fear": 0.014341,
+        "disgust": 0.023125,
+        "anger": 0.176279
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump Tower Acts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.753967,
+      "emotion": {
+        "sadness": 0.392442,
+        "joy": 0.032878,
+        "fear": 0.013222,
+        "disgust": 0.172423,
+        "anger": 0.134484
+      },
+      "count": 1
+    },
+    {
+      "text": "Mr. Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732419,
+      "emotion": {
+        "sadness": 0.118167,
+        "joy": 0.637188,
+        "fear": 0.006094,
+        "disgust": 0.060049,
+        "anger": 0.172908
+      },
+      "count": 4
+    },
+    {
+      "text": "major figure",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.652844,
+      "emotion": {
+        "sadness": 0.122635,
+        "joy": 0.631005,
+        "fear": 0.014341,
+        "disgust": 0.023125,
+        "anger": 0.176279
+      },
+      "count": 1
+    },
+    {
+      "text": "simple reason",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.645276,
+      "emotion": {
+        "sadness": 0.122635,
+        "joy": 0.631005,
+        "fear": 0.014341,
+        "disgust": 0.023125,
+        "anger": 0.176279
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mr. Trump",
+      "sentiment": {
+        "score": 0.181009,
+        "label": "positive"
+      },
+      "relevance": 0.815051,
+      "mentions": [
+        {
+          "text": "Mr. Trump",
+          "location": [
+            118,
+            127
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            218,
+            220
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            313,
+            315
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            361,
+            370
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            695,
+            698
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            702,
+            711
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            926,
+            935
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213427,
+        "joy": 0.508607,
+        "fear": 0.037749,
+        "disgust": 0.075662,
+        "anger": 0.154793
+      },
+      "count": 7
+    },
+    {
+      "type": "Facility",
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.675801,
+      "mentions": [
+        {
+          "text": "Trump Tower",
+          "location": [
+            37,
+            48
+          ]
+        },
+        {
+          "text": "Trump Tower",
+          "location": [
+            463,
+            474
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.290181,
+        "joy": 0.049898,
+        "fear": 0.038096,
+        "disgust": 0.149925,
+        "anger": 0.098974
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ms. Graff",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.399628,
+      "mentions": [
+        {
+          "text": "Ms. Graff",
+          "location": [
+            391,
+            400
+          ]
+        },
+        {
+          "text": "Ms. Graff",
+          "location": [
+            433,
+            442
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            549,
+            552
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            668,
+            671
+          ]
+        },
+        {
+          "text": "Ms. Graff",
+          "location": [
+            736,
+            745
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.103977,
+        "joy": 0.625679,
+        "fear": 0.067865,
+        "disgust": 0.086482,
+        "anger": 0.116243
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Freedom Caucus",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194452,
+      "mentions": [
+        {
+          "text": "Freedom Caucus",
+          "location": [
+            269,
+            283
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.243225,
+        "joy": 0.50523,
+        "fear": 0.052831,
+        "disgust": 0.042769,
+        "anger": 0.209754
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.425402,
+        "label": "positive"
+      },
+      "relevance": 0.18853,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            107,
+            116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180623,
+        "joy": 0.217569,
+        "fear": 0.072046,
+        "disgust": 0.162967,
+        "anger": 0.084143
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.964724,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.894246,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.824605,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.754977,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+      "text": "Dwight D. Eisenhower",
+      "relevance": 0.631775,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.802052,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 675,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.497334,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Samsung Galaxy Note",
+      "sentiment": {
+        "score": -0.903287,
+        "label": "negative"
+      },
+      "relevance": 0.914581,
+      "emotion": {
+        "sadness": 0.41884,
+        "joy": 0.017331,
+        "fear": 0.062658,
+        "disgust": 0.20815,
+        "anger": 0.509157
+      },
+      "count": 1
+    },
+    {
+      "text": "new ban",
+      "sentiment": {
+        "score": 0.568616,
+        "label": "positive"
+      },
+      "relevance": 0.818913,
+      "emotion": {
+        "sadness": 0.070798,
+        "joy": 0.595587,
+        "fear": 0.030341,
+        "disgust": 0.129733,
+        "anger": 0.237961
+      },
+      "count": 1
+    },
+    {
+      "text": "Federal Aviation Administration",
+      "sentiment": {
+        "score": -0.903287,
+        "label": "negative"
+      },
+      "relevance": 0.777278,
+      "emotion": {
+        "sadness": 0.435691,
+        "joy": 0.026055,
+        "fear": 0.068013,
+        "disgust": 0.195045,
+        "anger": 0.389036
+      },
+      "count": 1
+    },
+    {
+      "text": "Transportation Department",
+      "sentiment": {
+        "score": -0.903287,
+        "label": "negative"
+      },
+      "relevance": 0.656029,
+      "emotion": {
+        "sadness": 0.435691,
+        "joy": 0.026055,
+        "fear": 0.068013,
+        "disgust": 0.195045,
+        "anger": 0.389036
+      },
+      "count": 1
+    },
+    {
+      "text": "airline flights",
+      "sentiment": {
+        "score": -0.903287,
+        "label": "negative"
+      },
+      "relevance": 0.636653,
+      "emotion": {
+        "sadness": 0.435691,
+        "joy": 0.026055,
+        "fear": 0.068013,
+        "disgust": 0.195045,
+        "anger": 0.389036
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anthony Foxx",
+      "sentiment": {
+        "score": 0.471951,
+        "label": "positive"
+      },
+      "relevance": 0.792258,
+      "mentions": [
+        {
+          "text": "Anthony Foxx",
+          "location": [
+            488,
+            500
+          ]
+        },
+        {
+          "text": "Foxx",
+          "location": [
+            664,
+            668
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.31402,
+        "joy": 0.210989,
+        "fear": 0.07327,
+        "disgust": 0.210111,
+        "anger": 0.146917
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Anthony Foxx",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anthony_Foxx"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Samsung",
+      "sentiment": {
+        "score": -0.510492,
+        "label": "negative"
+      },
+      "relevance": 0.782133,
+      "mentions": [
+        {
+          "text": "Samsung",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Samsung",
+          "location": [
+            68,
+            75
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.486945,
+        "joy": 0.014164,
+        "fear": 0.084168,
+        "disgust": 0.267868,
+        "anger": 0.378645
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Samsung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samsung"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Transportation Department",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.466201,
+      "mentions": [
+        {
+          "text": "Transportation Department",
+          "location": [
+            226,
+            251
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12633,
+        "joy": 0.316591,
+        "fear": 0.06034,
+        "disgust": 0.041919,
+        "anger": 0.102634
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "United States Department of Transportation",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Transportation"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Federal Aviation Administration",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.445472,
+      "mentions": [
+        {
+          "text": "Federal Aviation Administration",
+          "location": [
+            273,
+            304
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12633,
+        "joy": 0.316591,
+        "fear": 0.06034,
+        "disgust": 0.041919,
+        "anger": 0.102634
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Federal Aviation Administration",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Aviation_Administration"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.356965,
+        "label": "positive"
+      },
+      "relevance": 0.358673,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            478,
+            487
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.314081,
+        "joy": 0.176048,
+        "fear": 0.082767,
+        "disgust": 0.192118,
+        "anger": 0.129565
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Aircraft",
+      "relevance": 0.97314,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aircraft"
+    },
+    {
+      "text": "Federal Aviation Administration",
+      "relevance": 0.879783,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Aviation_Administration"
+    },
+    {
+      "text": "Airline",
+      "relevance": 0.76613,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airline"
+    },
+    {
+      "text": "Southwest Airlines",
+      "relevance": 0.615757,
+      "dbpedia_resource": "http://dbpedia.org/resource/Southwest_Airlines"
+    },
+    {
+      "text": "United States Department of Transportation",
+      "relevance": 0.51702,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Transportation"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.944073,
+      "label": "/technology and computing/consumer electronics/telephones/mobile phones/smart phones"
+    }
+  ]
+}

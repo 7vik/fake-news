@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 76,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.588708,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.588708,
+        "label": "negative"
+      },
+      "relevance": 0.989707,
+      "emotion": {
+        "sadness": 0.354719,
+        "joy": 0.291373,
+        "fear": 0.33702,
+        "disgust": 0.191903,
+        "anger": 0.023557
+      },
+      "count": 1
+    },
+    {
+      "text": "Wild Rumor",
+      "sentiment": {
+        "score": -0.588708,
+        "label": "negative"
+      },
+      "relevance": 0.988162,
+      "emotion": {
+        "sadness": 0.354719,
+        "joy": 0.291373,
+        "fear": 0.33702,
+        "disgust": 0.191903,
+        "anger": 0.023557
+      },
+      "count": 1
+    },
+    {
+      "text": "Purpose Tour",
+      "sentiment": {
+        "score": -0.588708,
+        "label": "negative"
+      },
+      "relevance": 0.182965,
+      "emotion": {
+        "sadness": 0.354719,
+        "joy": 0.291373,
+        "fear": 0.33702,
+        "disgust": 0.191903,
+        "anger": 0.023557
+      },
+      "count": 1
+    },
+    {
+      "text": "Own Church",
+      "sentiment": {
+        "score": -0.588708,
+        "label": "negative"
+      },
+      "relevance": 0.053675,
+      "emotion": {
+        "sadness": 0.354719,
+        "joy": 0.291373,
+        "fear": 0.33702,
+        "disgust": 0.191903,
+        "anger": 0.023557
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.534634,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            12,
+            25
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.54538,
+        "joy": 0.284957,
+        "fear": 0.14824,
+        "disgust": 0.107144,
+        "anger": 0.040173
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Justin Bieber",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.90232,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.846251,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

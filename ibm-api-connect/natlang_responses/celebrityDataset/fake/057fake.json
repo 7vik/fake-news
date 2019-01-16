@@ -1,0 +1,306 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1738,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.708545,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sexiest Women",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.773188,
+      "emotion": {
+        "sadness": 0.001007,
+        "joy": 0.428329,
+        "fear": 0.000126,
+        "disgust": 0.001305,
+        "anger": 0.000873
+      },
+      "count": 5
+    },
+    {
+      "text": "Sexiest Movie Stars of All Time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.702746,
+      "emotion": {
+        "sadness": 0.001898,
+        "joy": 0.441759,
+        "fear": 0.000182,
+        "disgust": 0.002442,
+        "anger": 0.00117
+      },
+      "count": 1
+    },
+    {
+      "text": "People Magazine",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.679193,
+      "emotion": {
+        "sadness": 0.001898,
+        "joy": 0.441759,
+        "fear": 0.000182,
+        "disgust": 0.002442,
+        "anger": 0.00117
+      },
+      "count": 1
+    },
+    {
+      "text": "Gangs of New York",
+      "sentiment": {
+        "score": -0.764327,
+        "label": "negative"
+      },
+      "relevance": 0.592496,
+      "emotion": {
+        "sadness": 0.032648,
+        "joy": 0.755741,
+        "fear": 0.014275,
+        "disgust": 0.174261,
+        "anger": 0.076549
+      },
+      "count": 1
+    },
+    {
+      "text": "high school",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.589423,
+      "emotion": {
+        "sadness": 0.032648,
+        "joy": 0.755741,
+        "fear": 0.014275,
+        "disgust": 0.174261,
+        "anger": 0.076549
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Cameron Diaz",
+      "sentiment": {
+        "score": -0.673217,
+        "label": "negative"
+      },
+      "relevance": 0.915078,
+      "mentions": [
+        {
+          "text": "Cameron Diaz",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Cameron Diaz",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cameron_Diaz"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "People Magazine",
+      "sentiment": {
+        "score": 0.538113,
+        "label": "positive"
+      },
+      "relevance": 0.808499,
+      "mentions": [
+        {
+          "text": "People Magazine",
+          "location": [
+            1041,
+            1056
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Person",
+          "Magazine"
+        ],
+        "name": "People (magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": ".She",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.789419,
+      "mentions": [
+        {
+          "text": ".She",
+          "location": [
+            1133,
+            1137
+          ]
+        },
+        {
+          "text": ".She",
+          "location": [
+            1665,
+            1669
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Benji Madden",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.776361,
+      "mentions": [
+        {
+          "text": "Benji Madden",
+          "location": [
+            353,
+            365
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098891,
+        "joy": 0.210249,
+        "fear": 0.022777,
+        "disgust": 0.192939,
+        "anger": 0.065682
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Benji Madden",
+        "dbpedia_resource": "http://dbpedia.org/resource/Benji_Madden"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Empire Magazine",
+      "sentiment": {
+        "score": 0.376774,
+        "label": "positive"
+      },
+      "relevance": 0.751741,
+      "mentions": [
+        {
+          "text": "Empire Magazine",
+          "location": [
+            1153,
+            1168
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Empire (film magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Empire_(film_magazine)"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cameron Diaz",
+      "relevance": 0.98648,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cameron_Diaz"
+    },
+    {
+      "text": "1912",
+      "relevance": 0.811806,
+      "dbpedia_resource": "http://dbpedia.org/resource/1912"
+    },
+    {
+      "text": "1920",
+      "relevance": 0.795258,
+      "dbpedia_resource": "http://dbpedia.org/resource/1920"
+    },
+    {
+      "text": "1917",
+      "relevance": 0.746324,
+      "dbpedia_resource": "http://dbpedia.org/resource/1917"
+    },
+    {
+      "text": "1922",
+      "relevance": 0.734694,
+      "dbpedia_resource": "http://dbpedia.org/resource/1922"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.603036,
+      "label": "/family and parenting/parenting teens"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1265,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.388925,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Hanks Officiated Allison Williams",
+      "sentiment": {
+        "score": 0.842163,
+        "label": "positive"
+      },
+      "relevance": 0.77882,
+      "emotion": {
+        "sadness": 0.324182,
+        "joy": 0.289673,
+        "fear": 0.022585,
+        "disgust": 0.152567,
+        "anger": 0.162762
+      },
+      "count": 1
+    },
+    {
+      "text": "Girls co-stars",
+      "sentiment": {
+        "score": 0.842163,
+        "label": "positive"
+      },
+      "relevance": 0.642601,
+      "emotion": {
+        "sadness": 0.093551,
+        "joy": 0.810497,
+        "fear": 0.006896,
+        "disgust": 0.076828,
+        "anger": 0.029342
+      },
+      "count": 1
+    },
+    {
+      "text": "big event",
+      "sentiment": {
+        "score": 0.672179,
+        "label": "positive"
+      },
+      "relevance": 0.608929,
+      "emotion": {
+        "sadness": 0.068581,
+        "joy": 0.73246,
+        "fear": 0.00569,
+        "disgust": 0.122202,
+        "anger": 0.053659
+      },
+      "count": 1
+    },
+    {
+      "text": "Katy Perry",
+      "sentiment": {
+        "score": 0.672179,
+        "label": "positive"
+      },
+      "relevance": 0.599021,
+      "emotion": {
+        "sadness": 0.068581,
+        "joy": 0.73246,
+        "fear": 0.00569,
+        "disgust": 0.122202,
+        "anger": 0.053659
+      },
+      "count": 1
+    },
+    {
+      "text": "John Mayer",
+      "sentiment": {
+        "score": 0.672179,
+        "label": "positive"
+      },
+      "relevance": 0.596655,
+      "emotion": {
+        "sadness": 0.068581,
+        "joy": 0.73246,
+        "fear": 0.00569,
+        "disgust": 0.122202,
+        "anger": 0.053659
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Allison Williams",
+      "sentiment": {
+        "score": 0.032284,
+        "label": "positive"
+      },
+      "relevance": 0.787195,
+      "mentions": [
+        {
+          "text": "Allison Williams",
+          "location": [
+            66,
+            82
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            169,
+            172
+          ]
+        },
+        {
+          "text": "Williams",
+          "location": [
+            927,
+            935
+          ]
+        },
+        {
+          "text": "Williams",
+          "location": [
+            1079,
+            1087
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.231801,
+        "joy": 0.653984,
+        "fear": 0.066954,
+        "disgust": 0.077788,
+        "anger": 0.021174
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Allison Williams (actress)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Allison_Williams_(actress)"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Ricky Van Veen",
+      "sentiment": {
+        "score": 0.674458,
+        "label": "positive"
+      },
+      "relevance": 0.761011,
+      "mentions": [
+        {
+          "text": "Ricky Van Veen",
+          "location": [
+            51,
+            65
+          ]
+        },
+        {
+          "text": "Ricky Van Veen",
+          "location": [
+            304,
+            318
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188313,
+        "joy": 0.57027,
+        "fear": 0.017851,
+        "disgust": 0.094585,
+        "anger": 0.126229
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ricky Van Veen",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ricky_Van_Veen"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Tom Hanks",
+      "sentiment": {
+        "score": 0.60571,
+        "label": "positive"
+      },
+      "relevance": 0.588659,
+      "mentions": [
+        {
+          "text": "Tom Hanks",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Tom Hanks",
+          "location": [
+            536,
+            545
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240326,
+        "joy": 0.177374,
+        "fear": 0.022431,
+        "disgust": 0.112534,
+        "anger": 0.131294
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmActor",
+          "FilmDirector",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "TVActor",
+          "TVDirector",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Tom Hanks",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Hanks"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lena Dunham",
+      "sentiment": {
+        "score": 0.598606,
+        "label": "positive"
+      },
+      "relevance": 0.508865,
+      "mentions": [
+        {
+          "text": "Lena Dunham",
+          "location": [
+            778,
+            789
+          ]
+        },
+        {
+          "text": "Dunham",
+          "location": [
+            808,
+            814
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141998,
+        "joy": 0.531612,
+        "fear": 0.089702,
+        "disgust": 0.183613,
+        "anger": 0.041697
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lena Dunham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lena_Dunham"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Wyoming",
+      "sentiment": {
+        "score": 0.517489,
+        "label": "positive"
+      },
+      "relevance": 0.398964,
+      "mentions": [
+        {
+          "text": "Wyoming",
+          "location": [
+            335,
+            342
+          ]
+        },
+        {
+          "text": "Wyoming",
+          "location": [
+            880,
+            887
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10382,
+        "joy": 0.548468,
+        "fear": 0.049368,
+        "disgust": 0.057932,
+        "anger": 0.135214
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.964596,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.816056,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.619487,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Barry Diller",
+      "relevance": 0.615331,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barry_Diller"
+    },
+    {
+      "text": "Oscar de la Renta",
+      "relevance": 0.608789,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oscar_de_la_Renta"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.725601,
+      "label": "/style and fashion"
+    }
+  ]
+}

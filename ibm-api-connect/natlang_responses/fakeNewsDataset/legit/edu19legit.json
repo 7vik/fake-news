@@ -1,0 +1,192 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 476,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.417132,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "politicians debate spending",
+      "sentiment": {
+        "score": -0.901401,
+        "label": "negative"
+      },
+      "relevance": 0.914455,
+      "emotion": {
+        "sadness": 0.521191,
+        "joy": 0.152168,
+        "fear": 0.139446,
+        "disgust": 0.248093,
+        "anger": 0.136376
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.901401,
+        "label": "negative"
+      },
+      "relevance": 0.860549,
+      "emotion": {
+        "sadness": 0.521191,
+        "joy": 0.152168,
+        "fear": 0.139446,
+        "disgust": 0.248093,
+        "anger": 0.136376
+      },
+      "count": 1
+    },
+    {
+      "text": "nutrition affect children's school performance",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.809123,
+      "emotion": {
+        "sadness": 0.308749,
+        "joy": 0.065067,
+        "fear": 0.09558,
+        "disgust": 0.141722,
+        "anger": 0.075863
+      },
+      "count": 1
+    },
+    {
+      "text": "school years",
+      "sentiment": {
+        "score": -0.901401,
+        "label": "negative"
+      },
+      "relevance": 0.72553,
+      "emotion": {
+        "sadness": 0.521191,
+        "joy": 0.152168,
+        "fear": 0.139446,
+        "disgust": 0.248093,
+        "anger": 0.136376
+      },
+      "count": 1
+    },
+    {
+      "text": "effects of nutrition programs",
+      "sentiment": {
+        "score": -0.901401,
+        "label": "negative"
+      },
+      "relevance": 0.721427,
+      "emotion": {
+        "sadness": 0.521191,
+        "joy": 0.152168,
+        "fear": 0.139446,
+        "disgust": 0.248093,
+        "anger": 0.136376
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.513433,
+        "label": "negative"
+      },
+      "relevance": 0.807665,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            110,
+            122
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.513433,
+        "label": "negative"
+      },
+      "relevance": 0.514541,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            100,
+            109
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.270617,
+        "joy": 0.029721,
+        "fear": 0.086375,
+        "disgust": 0.497001,
+        "anger": 0.458036
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Food",
+      "relevance": 0.786958,
+      "dbpedia_resource": "http://dbpedia.org/resource/Food"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.771705,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.768877,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999999,
+      "label": "/health and fitness/nutrition"
+    }
+  ]
+}

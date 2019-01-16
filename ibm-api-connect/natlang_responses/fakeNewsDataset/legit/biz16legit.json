@@ -1,0 +1,275 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 561,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.663409,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Elon Musk",
+      "sentiment": {
+        "score": 0.663409,
+        "label": "positive"
+      },
+      "relevance": 0.865373,
+      "emotion": {
+        "sadness": 0.096549,
+        "joy": 0.538543,
+        "fear": 0.195442,
+        "disgust": 0.022341,
+        "anger": 0.059316
+      },
+      "count": 1
+    },
+    {
+      "text": "Wall Street Journal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.858077,
+      "emotion": {
+        "sadness": 0.171124,
+        "joy": 0.181172,
+        "fear": 0.230635,
+        "disgust": 0.06934,
+        "anger": 0.062598
+      },
+      "count": 1
+    },
+    {
+      "text": "chief executive Elon Musk",
+      "sentiment": {
+        "score": 0.663409,
+        "label": "positive"
+      },
+      "relevance": 0.772869,
+      "emotion": {
+        "sadness": 0.123312,
+        "joy": 0.387631,
+        "fear": 0.231038,
+        "disgust": 0.023852,
+        "anger": 0.057104
+      },
+      "count": 1
+    },
+    {
+      "text": "early stages",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.64448,
+      "emotion": {
+        "sadness": 0.171124,
+        "joy": 0.181172,
+        "fear": 0.230635,
+        "disgust": 0.06934,
+        "anger": 0.062598
+      },
+      "count": 1
+    },
+    {
+      "text": "Mr Musk",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.610621,
+      "emotion": {
+        "sadness": 0.171124,
+        "joy": 0.181172,
+        "fear": 0.230635,
+        "disgust": 0.06934,
+        "anger": 0.062598
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Elon Musk",
+      "sentiment": {
+        "score": 0.553232,
+        "label": "positive"
+      },
+      "relevance": 0.836973,
+      "mentions": [
+        {
+          "text": "Elon Musk",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Elon Musk",
+          "location": [
+            71,
+            80
+          ]
+        },
+        {
+          "text": "Mr Musk",
+          "location": [
+            257,
+            264
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.09932,
+        "joy": 0.504474,
+        "fear": 0.23645,
+        "disgust": 0.040916,
+        "anger": 0.056754
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer"
+        ],
+        "name": "Elon Musk",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elon_Musk"
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Wall Street Journal",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.251084,
+      "mentions": [
+        {
+          "text": "Wall Street Journal",
+          "location": [
+            206,
+            225
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1589,
+        "joy": 0.216085,
+        "fear": 0.183101,
+        "disgust": 0.087146,
+        "anger": 0.058873
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner",
+          "Newspaper"
+        ],
+        "name": "The Wall Street Journal",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Wall_Street_Journal"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "chief executive",
+      "sentiment": {
+        "score": 0.479418,
+        "label": "positive"
+      },
+      "relevance": 0.224791,
+      "mentions": [
+        {
+          "text": "chief executive",
+          "location": [
+            55,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123312,
+        "joy": 0.387631,
+        "fear": 0.231038,
+        "disgust": 0.023852,
+        "anger": 0.057104
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Tesla",
+      "sentiment": {
+        "score": 0.479417,
+        "label": "positive"
+      },
+      "relevance": 0.215417,
+      "mentions": [
+        {
+          "text": "Tesla",
+          "location": [
+            49,
+            54
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123312,
+        "joy": 0.387631,
+        "fear": 0.231038,
+        "disgust": 0.023852,
+        "anger": 0.057104
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "VentureFundedCompany"
+        ],
+        "name": "Tesla Motors",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Motors"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Psychology",
+      "relevance": 0.980307,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+      "text": "Brain",
+      "relevance": 0.944369,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brain"
+    },
+    {
+      "text": "Human brain",
+      "relevance": 0.8246,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_brain"
+    },
+    {
+      "text": "Computer",
+      "relevance": 0.684583,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer"
+    },
+    {
+      "text": "Electroencephalography",
+      "relevance": 0.668011,
+      "dbpedia_resource": "http://dbpedia.org/resource/Electroencephalography"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.879703,
+      "label": "/technology and computing/hardware/computer"
+    }
+  ]
+}

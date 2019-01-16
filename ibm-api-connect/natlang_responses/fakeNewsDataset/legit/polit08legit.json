@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 712,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.441056,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "First lady Melania Trump",
+      "sentiment": {
+        "score": -0.745273,
+        "label": "negative"
+      },
+      "relevance": 0.724985,
+      "emotion": {
+        "sadness": 0.038724,
+        "joy": 0.887172,
+        "fear": 0.019344,
+        "disgust": 0.023064,
+        "anger": 0.025219
+      },
+      "count": 1
+    },
+    {
+      "text": "equal opportunity",
+      "sentiment": {
+        "score": 0.370183,
+        "label": "positive"
+      },
+      "relevance": 0.712862,
+      "emotion": {
+        "sadness": 0.100038,
+        "joy": 0.584524,
+        "fear": 0.045441,
+        "disgust": 0.121802,
+        "anger": 0.175707
+      },
+      "count": 1
+    },
+    {
+      "text": "communist society",
+      "sentiment": {
+        "score": 0.370183,
+        "label": "positive"
+      },
+      "relevance": 0.710297,
+      "emotion": {
+        "sadness": 0.100038,
+        "joy": 0.584524,
+        "fear": 0.045441,
+        "disgust": 0.121802,
+        "anger": 0.175707
+      },
+      "count": 1
+    },
+    {
+      "text": "great nation",
+      "sentiment": {
+        "score": 0.370183,
+        "label": "positive"
+      },
+      "relevance": 0.709046,
+      "emotion": {
+        "sadness": 0.100038,
+        "joy": 0.584524,
+        "fear": 0.045441,
+        "disgust": 0.121802,
+        "anger": 0.175707
+      },
+      "count": 1
+    },
+    {
+      "text": "International Women",
+      "sentiment": {
+        "score": -0.745273,
+        "label": "negative"
+      },
+      "relevance": 0.680513,
+      "emotion": {
+        "sadness": 0.038724,
+        "joy": 0.887172,
+        "fear": 0.019344,
+        "disgust": 0.023064,
+        "anger": 0.025219
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.787602,
+      "mentions": [
+        {
+          "text": "Melania Trump",
+          "location": [
+            11,
+            24
+          ]
+        },
+        {
+          "text": "Melania Trump",
+          "location": [
+            106,
+            119
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            564,
+            569
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.047763,
+        "joy": 0.593052,
+        "fear": 0.04206,
+        "disgust": 0.237571,
+        "anger": 0.12438
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Model"
+        ],
+        "name": "Melania Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "International Women",
+      "sentiment": {
+        "score": 0.467964,
+        "label": "positive"
+      },
+      "relevance": 0.336924,
+      "mentions": [
+        {
+          "text": "International Women",
+          "location": [
+            43,
+            62
+          ]
+        },
+        {
+          "text": "International Women",
+          "location": [
+            259,
+            278
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.315291,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            90,
+            93
+          ]
+        },
+        {
+          "text": "CNN",
+          "location": [
+            621,
+            624
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.070325,
+        "joy": 0.329339,
+        "fear": 0.100334,
+        "disgust": 0.23417,
+        "anger": 0.162019
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Stephanie Winston Wolkoff",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.243511,
+      "mentions": [
+        {
+          "text": "Stephanie Winston Wolkoff",
+          "location": [
+            630,
+            655
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.058663,
+        "joy": 0.329323,
+        "fear": 0.102152,
+        "disgust": 0.239853,
+        "anger": 0.132249
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.717588,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

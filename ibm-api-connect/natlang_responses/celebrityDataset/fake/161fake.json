@@ -1,0 +1,46 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Queen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.957921,
+      "emotion": {
+        "sadness": 0.082768,
+        "joy": 0.487987,
+        "fear": 0.231619,
+        "disgust": 0.082196,
+        "anger": 0.075126
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "The Queen",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Queen_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.727053,
+      "label": "/law, govt and politics/government/heads of state"
+    }
+  ]
+}

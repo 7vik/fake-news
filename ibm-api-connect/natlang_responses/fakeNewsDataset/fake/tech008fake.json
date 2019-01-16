@@ -1,0 +1,236 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 548,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.804404,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "recent increase",
+      "sentiment": {
+        "score": -0.792949,
+        "label": "negative"
+      },
+      "relevance": 0.921065,
+      "emotion": {
+        "sadness": 0.278165,
+        "joy": 0.094854,
+        "fear": 0.106563,
+        "disgust": 0.064361,
+        "anger": 0.258412
+      },
+      "count": 1
+    },
+    {
+      "text": "families of Automated Vehicular Manslaughter victims",
+      "sentiment": {
+        "score": -0.642697,
+        "label": "negative"
+      },
+      "relevance": 0.829469,
+      "emotion": {
+        "sadness": 0.464256,
+        "joy": 0.032964,
+        "fear": 0.03803,
+        "disgust": 0.311328,
+        "anger": 0.167384
+      },
+      "count": 1
+    },
+    {
+      "text": "California's Department",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.782575,
+      "emotion": {
+        "sadness": 0.064046,
+        "joy": 0.059866,
+        "fear": 0.081855,
+        "disgust": 0.053057,
+        "anger": 0.076029
+      },
+      "count": 1
+    },
+    {
+      "text": "new charges",
+      "sentiment": {
+        "score": -0.792949,
+        "label": "negative"
+      },
+      "relevance": 0.772255,
+      "emotion": {
+        "sadness": 0.278165,
+        "joy": 0.094854,
+        "fear": 0.106563,
+        "disgust": 0.064361,
+        "anger": 0.258412
+      },
+      "count": 1
+    },
+    {
+      "text": "legal fees",
+      "sentiment": {
+        "score": -0.642697,
+        "label": "negative"
+      },
+      "relevance": 0.665212,
+      "emotion": {
+        "sadness": 0.464256,
+        "joy": 0.032964,
+        "fear": 0.03803,
+        "disgust": 0.311328,
+        "anger": 0.167384
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "California DMV",
+      "sentiment": {
+        "score": -0.812945,
+        "label": "negative"
+      },
+      "relevance": 0.936735,
+      "mentions": [
+        {
+          "text": "California DMV",
+          "location": [
+            128,
+            142
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278165,
+        "joy": 0.094854,
+        "fear": 0.106563,
+        "disgust": 0.064361,
+        "anger": 0.258412
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "California Department of Motor Vehicles",
+        "dbpedia_resource": "http://dbpedia.org/resource/California_Department_of_Motor_Vehicles"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Department of Motor Vehicles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.840963,
+      "mentions": [
+        {
+          "text": "Department of Motor Vehicles",
+          "location": [
+            13,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.064046,
+        "joy": 0.059866,
+        "fear": 0.081855,
+        "disgust": 0.053057,
+        "anger": 0.076029
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "Department of Motor Vehicles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Department_of_Motor_Vehicles"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.695162,
+      "mentions": [
+        {
+          "text": "California",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "Appellation",
+          "GovernmentalJurisdiction",
+          "USState",
+          "WineRegion",
+          "StateOrCounty"
+        ],
+        "name": "California",
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Automobile",
+      "relevance": 0.971134,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    },
+    {
+      "text": "Vehicle",
+      "relevance": 0.911071,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vehicle"
+    },
+    {
+      "text": "Vehicles",
+      "relevance": 0.837643,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vehicles"
+    },
+    {
+      "text": "Motor vehicle",
+      "relevance": 0.77638,
+      "dbpedia_resource": "http://dbpedia.org/resource/Motor_vehicle"
+    },
+    {
+      "text": "Brake",
+      "relevance": 0.605688,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brake"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.997081,
+      "label": "/automotive and vehicles/cars"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 706,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.333432,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "aggressive force",
+      "sentiment": {
+        "score": -0.425403,
+        "label": "negative"
+      },
+      "relevance": 0.688085,
+      "emotion": {
+        "sadness": 0.459277,
+        "joy": 0.055162,
+        "fear": 0.064859,
+        "disgust": 0.582035,
+        "anger": 0.131198
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump's Pick",
+      "sentiment": {
+        "score": 0.679025,
+        "label": "positive"
+      },
+      "relevance": 0.682141,
+      "emotion": {
+        "sadness": 0.112765,
+        "joy": 0.19375,
+        "fear": 0.075752,
+        "disgust": 0.121666,
+        "anger": 0.100016
+      },
+      "count": 1
+    },
+    {
+      "text": "private schools",
+      "sentiment": {
+        "score": -0.425403,
+        "label": "negative"
+      },
+      "relevance": 0.680405,
+      "emotion": {
+        "sadness": 0.459277,
+        "joy": 0.055162,
+        "fear": 0.064859,
+        "disgust": 0.582035,
+        "anger": 0.131198
+      },
+      "count": 1
+    },
+    {
+      "text": "typical nominee",
+      "sentiment": {
+        "score": -0.273208,
+        "label": "negative"
+      },
+      "relevance": 0.673981,
+      "emotion": {
+        "sadness": 0.110071,
+        "joy": 0.186338,
+        "fear": 0.046835,
+        "disgust": 0.216349,
+        "anger": 0.134789
+      },
+      "count": 1
+    },
+    {
+      "text": "bipartisan approval",
+      "sentiment": {
+        "score": 0.679025,
+        "label": "positive"
+      },
+      "relevance": 0.636956,
+      "emotion": {
+        "sadness": 0.110071,
+        "joy": 0.186338,
+        "fear": 0.046835,
+        "disgust": 0.216349,
+        "anger": 0.134789
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald J. Trump",
+      "sentiment": {
+        "score": -0.319615,
+        "label": "negative"
+      },
+      "relevance": 0.842699,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Donald J. Trump",
+          "location": [
+            217,
+            232
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.450402,
+      "mentions": [
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            188,
+            199
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106174,
+        "joy": 0.090835,
+        "fear": 0.067035,
+        "disgust": 0.1331,
+        "anger": 0.09479
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President-elect",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.409549,
+      "mentions": [
+        {
+          "text": "President-elect",
+          "location": [
+            201,
+            216
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141024,
+        "joy": 0.374075,
+        "fear": 0.049541,
+        "disgust": 0.201064,
+        "anger": 0.136178
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Senate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.394606,
+      "mentions": [
+        {
+          "text": "Senate",
+          "location": [
+            152,
+            158
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106174,
+        "joy": 0.090835,
+        "fear": 0.067035,
+        "disgust": 0.1331,
+        "anger": 0.09479
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody",
+          "Legislature"
+        ],
+        "name": "United States Senate",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.36576,
+      "mentions": [
+        {
+          "text": "secretary",
+          "location": [
+            78,
+            87
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106174,
+        "joy": 0.090835,
+        "fear": 0.067035,
+        "disgust": 0.1331,
+        "anger": 0.09479
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Senate",
+      "relevance": 0.97326,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.840972,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.700408,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Investment",
+      "relevance": 0.696866,
+      "dbpedia_resource": "http://dbpedia.org/resource/Investment"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.682935,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.86313,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

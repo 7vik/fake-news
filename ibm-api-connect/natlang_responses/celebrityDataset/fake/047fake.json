@@ -1,0 +1,138 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Katie Holmes Blasts Ex",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999208,
+      "emotion": {
+        "sadness": 0.139257,
+        "joy": 0.598505,
+        "fear": 0.027295,
+        "disgust": 0.216298,
+        "anger": 0.063903
+      },
+      "count": 1
+    },
+    {
+      "text": "Suri",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.591658,
+      "emotion": {
+        "sadness": 0.139257,
+        "joy": 0.598505,
+        "fear": 0.027295,
+        "disgust": 0.216298,
+        "anger": 0.063903
+      },
+      "count": 1
+    },
+    {
+      "text": "Bombshell Interview",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.120371,
+      "emotion": {
+        "sadness": 0.139257,
+        "joy": 0.598505,
+        "fear": 0.027295,
+        "disgust": 0.216298,
+        "anger": 0.063903
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": -0.382633,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139257,
+        "joy": 0.598505,
+        "fear": 0.027295,
+        "disgust": 0.216298,
+        "anger": 0.063903
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Suri",
+      "sentiment": {
+        "score": -0.382633,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Suri",
+          "location": [
+            52,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139257,
+        "joy": 0.598505,
+        "fear": 0.027295,
+        "disgust": 0.216298,
+        "anger": 0.063903
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.583325,
+      "label": "/family and parenting/parenting teens"
+    }
+  ]
+}

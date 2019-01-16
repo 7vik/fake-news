@@ -1,0 +1,227 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 810,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.668628,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hairspray Live NBC",
+      "sentiment": {
+        "score": -0.851836,
+        "label": "negative"
+      },
+      "relevance": 0.880928,
+      "emotion": {
+        "sadness": 0.4004,
+        "joy": 0.2598,
+        "fear": 0.077681,
+        "disgust": 0.210145,
+        "anger": 0.260947
+      },
+      "count": 1
+    },
+    {
+      "text": "Terrible Ratings",
+      "sentiment": {
+        "score": -0.851836,
+        "label": "negative"
+      },
+      "relevance": 0.795158,
+      "emotion": {
+        "sadness": 0.369566,
+        "joy": 0.164775,
+        "fear": 0.052168,
+        "disgust": 0.26105,
+        "anger": 0.417716
+      },
+      "count": 3
+    },
+    {
+      "text": "musical tradition",
+      "sentiment": {
+        "score": -0.851836,
+        "label": "negative"
+      },
+      "relevance": 0.726096,
+      "emotion": {
+        "sadness": 0.4004,
+        "joy": 0.2598,
+        "fear": 0.077681,
+        "disgust": 0.210145,
+        "anger": 0.260947
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": -0.851836,
+        "label": "negative"
+      },
+      "relevance": 0.694329,
+      "emotion": {
+        "sadness": 0.4004,
+        "joy": 0.2598,
+        "fear": 0.077681,
+        "disgust": 0.210145,
+        "anger": 0.260947
+      },
+      "count": 1
+    },
+    {
+      "text": "Bye Bye Birdie",
+      "sentiment": {
+        "score": -0.851836,
+        "label": "negative"
+      },
+      "relevance": 0.678011,
+      "emotion": {
+        "sadness": 0.4004,
+        "joy": 0.2598,
+        "fear": 0.077681,
+        "disgust": 0.210145,
+        "anger": 0.260947
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez.",
+      "sentiment": {
+        "score": -0.041914,
+        "label": "negative"
+      },
+      "relevance": 0.939154,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez.",
+          "location": [
+            289,
+            304
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            323,
+            331
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            636,
+            644
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            775,
+            783
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            789,
+            792
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.545059,
+        "joy": 0.105283,
+        "fear": 0.128094,
+        "disgust": 0.146909,
+        "anger": 0.217174
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "NBC",
+      "sentiment": {
+        "score": -0.39409,
+        "label": "negative"
+      },
+      "relevance": 0.669127,
+      "mentions": [
+        {
+          "text": "NBC",
+          "location": [
+            14,
+            17
+          ]
+        },
+        {
+          "text": "NBC",
+          "location": [
+            67,
+            70
+          ]
+        },
+        {
+          "text": "NBC",
+          "location": [
+            153,
+            156
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.290483,
+        "joy": 0.209776,
+        "fear": 0.042272,
+        "disgust": 0.251747,
+        "anger": 0.463207
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "JLo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.400718,
+      "emotion": {
+        "sadness": 0.460913,
+        "joy": 0.07796,
+        "fear": 0.096353,
+        "disgust": 0.255935,
+        "anger": 0.418842
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bye Bye Birdie",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bye_Bye_Birdie"
+    },
+    {
+      "text": "2006 albums",
+      "relevance": 0.732126,
+      "dbpedia_resource": "http://dbpedia.org/resource/2006_albums"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.863845,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

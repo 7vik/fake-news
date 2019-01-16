@@ -1,0 +1,577 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4016,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.758139,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.723806,
+        "label": "negative"
+      },
+      "relevance": 0.838166,
+      "emotion": {
+        "sadness": 0.149643,
+        "joy": 0.746501,
+        "fear": 0.018108,
+        "disgust": 0.066061,
+        "anger": 0.044328
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.761363,
+      "emotion": {
+        "sadness": 0.155557,
+        "joy": 0.758632,
+        "fear": 0.013871,
+        "disgust": 0.067032,
+        "anger": 0.02169
+      },
+      "count": 1
+    },
+    {
+      "text": "dance-pop song",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.63105,
+      "emotion": {
+        "sadness": 0.238808,
+        "joy": 0.705845,
+        "fear": 0.027213,
+        "disgust": 0.017927,
+        "anger": 0.013779
+      },
+      "count": 1
+    },
+    {
+      "text": "video feature Swift's likeness",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.61234,
+      "emotion": {
+        "sadness": 0.299306,
+        "joy": 0.140422,
+        "fear": 0.029442,
+        "disgust": 0.390033,
+        "anger": 0.031463
+      },
+      "count": 1
+    },
+    {
+      "text": "sixth album",
+      "sentiment": {
+        "score": -0.723806,
+        "label": "negative"
+      },
+      "relevance": 0.580768,
+      "emotion": {
+        "sadness": 0.071016,
+        "joy": 0.759678,
+        "fear": 0.07626,
+        "disgust": 0.072842,
+        "anger": 0.056176
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.858496,
+      "mentions": [
+        {
+          "text": "Me",
+          "location": [
+            242,
+            244
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            355,
+            360
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            565,
+            570
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            607,
+            609
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            813,
+            818
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            886,
+            892
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            929,
+            932
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            953,
+            956
+          ]
+        },
+        {
+          "text": "dead.",
+          "location": [
+            959,
+            964
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1136,
+            1139
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            1273,
+            1279
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1368,
+            1373
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1428,
+            1433
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1628,
+            1633
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1682,
+            1687
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1729,
+            1732
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1781,
+            1786
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            1841,
+            1853
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            2063,
+            2068
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            2220,
+            2225
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            2496,
+            2501
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            2654,
+            2659
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            2860,
+            2865
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            2951,
+            2953
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            2985,
+            2988
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            3021,
+            3023
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            3143,
+            3148
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            3286,
+            3292
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            3713,
+            3718
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            3759,
+            3762
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.268559,
+        "joy": 0.482554,
+        "fear": 0.092602,
+        "disgust": 0.080926,
+        "anger": 0.089737
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 30
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.484008,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            986,
+            996
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1025,
+            1029
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1212,
+            1216
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            1266,
+            1268
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1334,
+            1338
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1516,
+            1520
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1566,
+            1570
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1619,
+            1623
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1709,
+            1713
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            1858,
+            1868
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            2160,
+            2170
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            2506,
+            2510
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            2623,
+            2627
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            2814,
+            2818
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 14
+    },
+    {
+      "type": "Person",
+      "text": "Swift",
+      "sentiment": {
+        "score": -0.333275,
+        "label": "negative"
+      },
+      "relevance": 0.280583,
+      "mentions": [
+        {
+          "text": "http://www.rollingstone.com/music/news/taylor-swift-new-song-look-what-you-made-me-do-apparent-kanye-west-diss-w499090\nTaylor Swift Releases Apparent Kanye West Diss Song2017-08-24Taylor Swift",
+          "location": [
+            0,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.107655,
+        "joy": 0.735379,
+        "fear": 0.020387,
+        "disgust": 0.036701,
+        "anger": 0.064654
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jack Antonoff",
+      "sentiment": {
+        "score": 0.414105,
+        "label": "positive"
+      },
+      "relevance": 0.129704,
+      "mentions": [
+        {
+          "text": "Jack Antonoff",
+          "location": [
+            324,
+            337
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Universal Music Group",
+      "sentiment": {
+        "score": 0.152562,
+        "label": "positive"
+      },
+      "relevance": 0.123311,
+      "mentions": [
+        {
+          "text": "Universal Music Group",
+          "location": [
+            2401,
+            2422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.497319,
+        "joy": 0.557393,
+        "fear": 0.094628,
+        "disgust": 0.079617,
+        "anger": 0.057861
+      },
+      "disambiguation": {
+        "subtype": [
+          "RecordLabel"
+        ],
+        "name": "Universal Music Group",
+        "dbpedia_resource": "http://dbpedia.org/resource/Universal_Music_Group"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.945697,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.926377,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.880178,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Release",
+      "relevance": 0.868256,
+      "dbpedia_resource": "http://dbpedia.org/resource/Release"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.844302,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.976432,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

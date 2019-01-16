@@ -1,0 +1,258 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 143,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.29935,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": -0.552165,
+        "label": "negative"
+      },
+      "relevance": 0.958348,
+      "emotion": {
+        "sadness": 0.208558,
+        "joy": 0.24244,
+        "fear": 0.02926,
+        "disgust": 0.301526,
+        "anger": 0.23998
+      },
+      "count": 1
+    },
+    {
+      "text": "DATE Rihanna",
+      "sentiment": {
+        "score": -0.552165,
+        "label": "negative"
+      },
+      "relevance": 0.791568,
+      "emotion": {
+        "sadness": 0.208558,
+        "joy": 0.24244,
+        "fear": 0.02926,
+        "disgust": 0.301526,
+        "anger": 0.23998
+      },
+      "count": 1
+    },
+    {
+      "text": "Fans",
+      "sentiment": {
+        "score": -0.552165,
+        "label": "negative"
+      },
+      "relevance": 0.779658,
+      "emotion": {
+        "sadness": 0.208558,
+        "joy": 0.24244,
+        "fear": 0.02926,
+        "disgust": 0.301526,
+        "anger": 0.23998
+      },
+      "count": 1
+    },
+    {
+      "text": "pair meet",
+      "sentiment": {
+        "score": -0.552165,
+        "label": "negative"
+      },
+      "relevance": 0.645546,
+      "emotion": {
+        "sadness": 0.208558,
+        "joy": 0.24244,
+        "fear": 0.02926,
+        "disgust": 0.301526,
+        "anger": 0.23998
+      },
+      "count": 1
+    },
+    {
+      "text": "overdrive",
+      "sentiment": {
+        "score": -0.552165,
+        "label": "negative"
+      },
+      "relevance": 0.638874,
+      "emotion": {
+        "sadness": 0.208558,
+        "joy": 0.24244,
+        "fear": 0.02926,
+        "disgust": 0.301526,
+        "anger": 0.23998
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.876805,
+      "mentions": [
+        {
+          "text": "Prince Harry",
+          "location": [
+            57,
+            69
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.216733,
+        "joy": 0.346448,
+        "fear": 0.0263,
+        "disgust": 0.276429,
+        "anger": 0.204344
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince Harry of Wales",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_Harry_of_Wales"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Meghan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.659681,
+      "mentions": [
+        {
+          "text": "Meghan",
+          "location": [
+            134,
+            140
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Barbados",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.644072,
+      "mentions": [
+        {
+          "text": "Barbados",
+          "location": [
+            109,
+            117
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.216733,
+        "joy": 0.346448,
+        "fear": 0.0263,
+        "disgust": 0.276429,
+        "anger": 0.204344
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "BoardMember",
+          "Country"
+        ],
+        "name": "Barbados",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barbados"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rihanna",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.293119,
+      "mentions": [
+        {
+          "text": "Rihanna",
+          "location": [
+            78,
+            85
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.216733,
+        "joy": 0.346448,
+        "fear": 0.0263,
+        "disgust": 0.276429,
+        "anger": 0.204344
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Rihanna",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rihanna"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Beyonc\u00e9 Knowles",
+      "relevance": 0.862788,
+      "dbpedia_resource": "http://dbpedia.org/resource/Beyonc\u00e9_Knowles"
+    },
+    {
+      "text": "Saint Michael, Barbados",
+      "relevance": 0.860016,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saint_Michael,_Barbados"
+    },
+    {
+      "text": "Unix",
+      "relevance": 0.858794,
+      "dbpedia_resource": "http://dbpedia.org/resource/Unix"
+    },
+    {
+      "text": "Contemporary R&B",
+      "relevance": 0.829152,
+      "dbpedia_resource": "http://dbpedia.org/resource/Contemporary_R&B"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994968,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

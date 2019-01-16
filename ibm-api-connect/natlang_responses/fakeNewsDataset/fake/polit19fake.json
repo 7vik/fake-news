@@ -1,0 +1,351 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 637,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.79755,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "odd exchange",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.861964,
+      "emotion": {
+        "sadness": 0.235211,
+        "joy": 0.034047,
+        "fear": 0.185695,
+        "disgust": 0.153903,
+        "anger": 0.085114
+      },
+      "count": 1
+    },
+    {
+      "text": "Federal investigators",
+      "sentiment": {
+        "score": -0.967965,
+        "label": "negative"
+      },
+      "relevance": 0.770528,
+      "emotion": {
+        "sadness": 0.340813,
+        "joy": 0.252091,
+        "fear": 0.118781,
+        "disgust": 0.045857,
+        "anger": 0.182885
+      },
+      "count": 1
+    },
+    {
+      "text": "secret mission RUSSIA",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.665707,
+      "emotion": {
+        "sadness": 0.108315,
+        "joy": 0.640533,
+        "fear": 0.08876,
+        "disgust": 0.04463,
+        "anger": 0.09141
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.967965,
+        "label": "negative"
+      },
+      "relevance": 0.643492,
+      "emotion": {
+        "sadness": 0.340813,
+        "joy": 0.252091,
+        "fear": 0.118781,
+        "disgust": 0.045857,
+        "anger": 0.182885
+      },
+      "count": 1
+    },
+    {
+      "text": "suspicious emails",
+      "sentiment": {
+        "score": -0.923642,
+        "label": "negative"
+      },
+      "relevance": 0.634329,
+      "emotion": {
+        "sadness": 0.221495,
+        "joy": 0.120778,
+        "fear": 0.156409,
+        "disgust": 0.061154,
+        "anger": 0.10869
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Clinton",
+      "sentiment": {
+        "score": -0.767696,
+        "label": "negative"
+      },
+      "relevance": 0.937379,
+      "mentions": [
+        {
+          "text": "Clinton",
+          "location": [
+            49,
+            56
+          ]
+        },
+        {
+          "text": "Bill Clinton",
+          "location": [
+            178,
+            190
+          ]
+        },
+        {
+          "text": "President Clinton",
+          "location": [
+            343,
+            360
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.332223,
+        "joy": 0.169058,
+        "fear": 0.255048,
+        "disgust": 0.057,
+        "anger": 0.192047
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Politician",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "MusicalGroupMember",
+          "OfficeHolder",
+          "PoliticalAppointer",
+          "TVPersonality",
+          "FilmActor",
+          "FilmWriter",
+          "USPresident"
+        ],
+        "name": "Bill Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "FBI",
+      "sentiment": {
+        "score": -0.719704,
+        "label": "negative"
+      },
+      "relevance": 0.934197,
+      "mentions": [
+        {
+          "text": "FBI",
+          "location": [
+            0,
+            3
+          ]
+        },
+        {
+          "text": "FBI",
+          "location": [
+            196,
+            199
+          ]
+        },
+        {
+          "text": "FBI",
+          "location": [
+            615,
+            618
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.266714,
+        "joy": 0.088624,
+        "fear": 0.299904,
+        "disgust": 0.096701,
+        "anger": 0.078085
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Federal Bureau of Investigation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.699035,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            39,
+            44
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            143,
+            155
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.403855,
+        "joy": 0.165978,
+        "fear": 0.272521,
+        "disgust": 0.068648,
+        "anger": 0.186259
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "RUSSIA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.246269,
+      "mentions": [
+        {
+          "text": "RUSSIA",
+          "location": [
+            229,
+            235
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.174556,
+        "joy": 0.378915,
+        "fear": 0.106806,
+        "disgust": 0.067506,
+        "anger": 0.093195
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.223171,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            58,
+            61
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.97974,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "George H. W. Bush",
+      "relevance": 0.66818,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_H._W._Bush"
+    },
+    {
+      "text": "United States Congress",
+      "relevance": 0.588398,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+    },
+    {
+      "text": "1946 births",
+      "relevance": 0.586694,
+      "dbpedia_resource": "http://dbpedia.org/resource/1946_births"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.58545,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.796404,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

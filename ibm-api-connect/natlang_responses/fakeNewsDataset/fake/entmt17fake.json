@@ -1,0 +1,221 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 809,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.579746,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "online video discussions",
+      "sentiment": {
+        "score": -0.561826,
+        "label": "negative"
+      },
+      "relevance": 0.844695,
+      "emotion": {
+        "sadness": 0.067288,
+        "joy": 0.259795,
+        "fear": 0.075525,
+        "disgust": 0.521995,
+        "anger": 0.124681
+      },
+      "count": 1
+    },
+    {
+      "text": "Big Support",
+      "sentiment": {
+        "score": -0.561826,
+        "label": "negative"
+      },
+      "relevance": 0.80116,
+      "emotion": {
+        "sadness": 0.351762,
+        "joy": 0.130765,
+        "fear": 0.115037,
+        "disgust": 0.338264,
+        "anger": 0.042999
+      },
+      "count": 1
+    },
+    {
+      "text": "Syrian refugees",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.69554,
+      "emotion": {
+        "sadness": 0.404608,
+        "joy": 0.423628,
+        "fear": 0.131019,
+        "disgust": 0.157427,
+        "anger": 0.023443
+      },
+      "count": 1
+    },
+    {
+      "text": "25-year-old",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.663447,
+      "emotion": {
+        "sadness": 0.15285,
+        "joy": 0.579633,
+        "fear": 0.044079,
+        "disgust": 0.231157,
+        "anger": 0.055829
+      },
+      "count": 1
+    },
+    {
+      "text": "women's rights",
+      "sentiment": {
+        "score": -0.561826,
+        "label": "negative"
+      },
+      "relevance": 0.613197,
+      "emotion": {
+        "sadness": 0.067288,
+        "joy": 0.259795,
+        "fear": 0.075525,
+        "disgust": 0.521995,
+        "anger": 0.124681
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tomi Lahren",
+      "sentiment": {
+        "score": 0.153654,
+        "label": "positive"
+      },
+      "relevance": 0.873272,
+      "mentions": [
+        {
+          "text": "Tomi Lahren",
+          "location": [
+            25,
+            36
+          ]
+        },
+        {
+          "text": "Tomi Lahren",
+          "location": [
+            37,
+            48
+          ]
+        },
+        {
+          "text": "Lahren",
+          "location": [
+            366,
+            372
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.093149,
+        "joy": 0.280099,
+        "fear": 0.126698,
+        "disgust": 0.528056,
+        "anger": 0.085148
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": 0.488837,
+        "label": "positive"
+      },
+      "relevance": 0.227608,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            666,
+            673
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.073316,
+        "joy": 0.64327,
+        "fear": 0.114529,
+        "disgust": 0.120411,
+        "anger": 0.012856
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "25-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.227608,
+      "mentions": [
+        {
+          "text": "25-year",
+          "location": [
+            389,
+            396
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Women's rights",
+      "relevance": 0.950221,
+      "dbpedia_resource": "http://dbpedia.org/resource/Women's_rights"
+    },
+    {
+      "text": "Women's suffrage",
+      "relevance": 0.789391,
+      "dbpedia_resource": "http://dbpedia.org/resource/Women's_suffrage"
+    },
+    {
+      "text": "Feminism",
+      "relevance": 0.660198,
+      "dbpedia_resource": "http://dbpedia.org/resource/Feminism"
+    },
+    {
+      "text": "Human rights",
+      "relevance": 0.6184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+      "text": "Gender",
+      "relevance": 0.602156,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gender"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.879154,
+      "label": "/health and fitness/sexuality"
+    }
+  ]
+}

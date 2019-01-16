@@ -1,0 +1,148 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.497948,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt Struggles",
+      "sentiment": {
+        "score": -0.497948,
+        "label": "negative"
+      },
+      "relevance": 0.992636,
+      "emotion": {
+        "sadness": 0.278135,
+        "joy": 0.629989,
+        "fear": 0.017167,
+        "disgust": 0.013546,
+        "anger": 0.093754
+      },
+      "count": 1
+    },
+    {
+      "text": "Custody Battle",
+      "sentiment": {
+        "score": -0.497948,
+        "label": "negative"
+      },
+      "relevance": 0.922337,
+      "emotion": {
+        "sadness": 0.278135,
+        "joy": 0.629989,
+        "fear": 0.017167,
+        "disgust": 0.013546,
+        "anger": 0.093754
+      },
+      "count": 1
+    },
+    {
+      "text": "Hollywood Event",
+      "sentiment": {
+        "score": -0.497948,
+        "label": "negative"
+      },
+      "relevance": 0.133522,
+      "emotion": {
+        "sadness": 0.278135,
+        "joy": 0.629989,
+        "fear": 0.017167,
+        "disgust": 0.013546,
+        "anger": 0.093754
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.761782,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Him",
+          "location": [
+            75,
+            78
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.210279,
+        "joy": 0.683159,
+        "fear": 0.010755,
+        "disgust": 0.014391,
+        "anger": 0.113859
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": -0.761782,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            32,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278135,
+        "joy": 0.629989,
+        "fear": 0.017167,
+        "disgust": 0.013546,
+        "anger": 0.093754
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.706405,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.797966,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

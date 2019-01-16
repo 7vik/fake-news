@@ -1,0 +1,133 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 47,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mariah Carey",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.161514,
+        "joy": 0.065633,
+        "fear": 0.017717,
+        "disgust": 0.090076,
+        "anger": 0.125499
+      },
+      "count": 1
+    },
+    {
+      "text": "Manager Stella Bulochnikov Split",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.047318,
+      "emotion": {
+        "sadness": 0.161514,
+        "joy": 0.065633,
+        "fear": 0.017717,
+        "disgust": 0.090076,
+        "anger": 0.125499
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mariah Carey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Mariah Carey",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185895,
+        "fear": 0.087573,
+        "disgust": 0.072998,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Mariah Carey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stella Bulochnikov",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Stella Bulochnikov",
+          "location": [
+            22,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17194,
+        "joy": 0.04075,
+        "fear": 0.010224,
+        "disgust": 0.104008,
+        "anger": 0.125652
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mariah Carey",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.682041,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

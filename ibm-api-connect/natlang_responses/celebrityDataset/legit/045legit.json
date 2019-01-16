@@ -1,0 +1,198 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 148,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.915344,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Hiddleston",
+      "sentiment": {
+        "score": 0.915344,
+        "label": "positive"
+      },
+      "relevance": 0.950978,
+      "emotion": {
+        "sadness": 0.058526,
+        "joy": 0.769734,
+        "fear": 0.053197,
+        "disgust": 0.135333,
+        "anger": 0.004839
+      },
+      "count": 1
+    },
+    {
+      "text": "new blonde",
+      "sentiment": {
+        "score": 0.915344,
+        "label": "positive"
+      },
+      "relevance": 0.761179,
+      "emotion": {
+        "sadness": 0.058526,
+        "joy": 0.769734,
+        "fear": 0.053197,
+        "disgust": 0.135333,
+        "anger": 0.004839
+      },
+      "count": 1
+    },
+    {
+      "text": "fashion",
+      "sentiment": {
+        "score": 0.915344,
+        "label": "positive"
+      },
+      "relevance": 0.645103,
+      "emotion": {
+        "sadness": 0.058526,
+        "joy": 0.769734,
+        "fear": 0.053197,
+        "disgust": 0.135333,
+        "anger": 0.004839
+      },
+      "count": 1
+    },
+    {
+      "text": "suave Gucci campaign",
+      "sentiment": {
+        "score": 0.915344,
+        "label": "positive"
+      },
+      "relevance": 0.628839,
+      "emotion": {
+        "sadness": 0.058526,
+        "joy": 0.769734,
+        "fear": 0.053197,
+        "disgust": 0.135333,
+        "anger": 0.004839
+      },
+      "count": 1
+    },
+    {
+      "text": "life",
+      "sentiment": {
+        "score": 0.915344,
+        "label": "positive"
+      },
+      "relevance": 0.581378,
+      "emotion": {
+        "sadness": 0.058526,
+        "joy": 0.769734,
+        "fear": 0.053197,
+        "disgust": 0.135333,
+        "anger": 0.004839
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Hiddleston",
+      "sentiment": {
+        "score": 0.937415,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Tom Hiddleston",
+          "location": [
+            33,
+            47
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            80,
+            82
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.047179,
+        "joy": 0.700008,
+        "fear": 0.053067,
+        "disgust": 0.24278,
+        "anger": 0.008167
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Tom Hiddleston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Hiddleston"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.937415,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            129,
+            141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.057996,
+        "joy": 0.685747,
+        "fear": 0.059867,
+        "disgust": 0.244473,
+        "anger": 0.00733
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.986601,
+      "label": "/pets/dogs"
+    }
+  ]
+}

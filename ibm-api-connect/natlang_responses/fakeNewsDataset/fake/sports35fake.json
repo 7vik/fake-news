@@ -1,0 +1,331 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 751,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.396116,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Co-chairman David Sullivan",
+      "sentiment": {
+        "score": -0.842653,
+        "label": "negative"
+      },
+      "relevance": 0.901891,
+      "emotion": {
+        "sadness": 0.727294,
+        "joy": 0.028276,
+        "fear": 0.109148,
+        "disgust": 0.284002,
+        "anger": 0.108757
+      },
+      "count": 1
+    },
+    {
+      "text": "support of West Ham",
+      "sentiment": {
+        "score": -0.628115,
+        "label": "negative"
+      },
+      "relevance": 0.883762,
+      "emotion": {
+        "sadness": 0.394798,
+        "joy": 0.052153,
+        "fear": 0.044441,
+        "disgust": 0.359977,
+        "anger": 0.275473
+      },
+      "count": 1
+    },
+    {
+      "text": "West Ham's owners",
+      "sentiment": {
+        "score": -0.488228,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.720465,
+      "emotion": {
+        "sadness": 0.275411,
+        "joy": 0.273098,
+        "fear": 0.01638,
+        "disgust": 0.195137,
+        "anger": 0.351092
+      },
+      "count": 2
+    },
+    {
+      "text": "West Ham",
+      "sentiment": {
+        "score": -0.842653,
+        "label": "negative"
+      },
+      "relevance": 0.688888,
+      "emotion": {
+        "sadness": 0.509392,
+        "joy": 0.121711,
+        "fear": 0.017702,
+        "disgust": 0.271849,
+        "anger": 0.298382
+      },
+      "count": 1
+    },
+    {
+      "text": "track record",
+      "sentiment": {
+        "score": 0.314503,
+        "label": "positive"
+      },
+      "relevance": 0.688202,
+      "emotion": {
+        "sadness": 0.446794,
+        "joy": 0.070201,
+        "fear": 0.043578,
+        "disgust": 0.279018,
+        "anger": 0.370617
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "West Ham",
+      "sentiment": {
+        "score": -0.254601,
+        "label": "negative"
+      },
+      "relevance": 0.897084,
+      "mentions": [
+        {
+          "text": "West Ham",
+          "location": [
+            37,
+            45
+          ]
+        },
+        {
+          "text": "West Ham",
+          "location": [
+            56,
+            64
+          ]
+        },
+        {
+          "text": "West Ham",
+          "location": [
+            384,
+            392
+          ]
+        },
+        {
+          "text": "West Ham",
+          "location": [
+            558,
+            566
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.727294,
+        "joy": 0.028276,
+        "fear": 0.109148,
+        "disgust": 0.284002,
+        "anger": 0.108757
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Slaven Bilic",
+      "sentiment": {
+        "score": -0.137099,
+        "label": "negative"
+      },
+      "relevance": 0.757458,
+      "mentions": [
+        {
+          "text": "Slaven Bilic",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Slaven Bilic",
+          "location": [
+            99,
+            111
+          ]
+        },
+        {
+          "text": "Bilic",
+          "location": [
+            191,
+            196
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            276,
+            278
+          ]
+        },
+        {
+          "text": "Bilic",
+          "location": [
+            708,
+            713
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.249456,
+        "joy": 0.479002,
+        "fear": 0.017596,
+        "disgust": 0.072273,
+        "anger": 0.249024
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Slaven Bili\u0107",
+        "dbpedia_resource": "http://dbpedia.org/resource/Slaven_Bili\u0107"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "David Sullivan",
+      "sentiment": {
+        "score": -0.489604,
+        "label": "negative"
+      },
+      "relevance": 0.302047,
+      "mentions": [
+        {
+          "text": "David Sullivan",
+          "location": [
+            335,
+            349
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "location": [
+            429,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.642761,
+        "joy": 0.091063,
+        "fear": 0.057968,
+        "disgust": 0.314946,
+        "anger": 0.109904
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Hull City Arsenal",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.268386,
+      "mentions": [
+        {
+          "text": "Hull City Arsenal",
+          "location": [
+            522,
+            539
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225307,
+        "joy": 0.462888,
+        "fear": 0.047517,
+        "disgust": 0.154691,
+        "anger": 0.088924
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Swansea City",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.219665,
+      "mentions": [
+        {
+          "text": "Swansea City",
+          "location": [
+            544,
+            556
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225307,
+        "joy": 0.462888,
+        "fear": 0.047517,
+        "disgust": 0.154691,
+        "anger": 0.088924
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Football League",
+      "relevance": 0.967045,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Football_League"
+    },
+    {
+      "text": "Football League Championship",
+      "relevance": 0.913849,
+      "dbpedia_resource": "http://dbpedia.org/resource/Football_League_Championship"
+    },
+    {
+      "text": "Football League One",
+      "relevance": 0.791958,
+      "dbpedia_resource": "http://dbpedia.org/resource/Football_League_One"
+    },
+    {
+      "text": "West Ham United F.C.",
+      "relevance": 0.790275,
+      "dbpedia_resource": "http://dbpedia.org/resource/West_Ham_United_F.C."
+    },
+    {
+      "text": "Premier League",
+      "relevance": 0.708579,
+      "dbpedia_resource": "http://dbpedia.org/resource/Premier_League"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.751187,
+      "label": "/sports/soccer"
+    }
+  ]
+}

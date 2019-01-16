@@ -1,0 +1,212 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.364652,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Angelina Jolie Threatens Brad Pitt",
+      "sentiment": {
+        "score": -0.364652,
+        "label": "negative"
+      },
+      "relevance": 0.998743,
+      "emotion": {
+        "sadness": 0.033492,
+        "joy": 0.187046,
+        "fear": 0.525803,
+        "disgust": 0.160218,
+        "anger": 0.182589
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.364652,
+        "label": "negative"
+      },
+      "relevance": 0.885021,
+      "emotion": {
+        "sadness": 0.033492,
+        "joy": 0.187046,
+        "fear": 0.525803,
+        "disgust": 0.160218,
+        "anger": 0.182589
+      },
+      "count": 1
+    },
+    {
+      "text": "Kids",
+      "sentiment": {
+        "score": -0.364652,
+        "label": "negative"
+      },
+      "relevance": 0.594309,
+      "emotion": {
+        "sadness": 0.033492,
+        "joy": 0.187046,
+        "fear": 0.525803,
+        "disgust": 0.160218,
+        "anger": 0.182589
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.572533,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.043114,
+        "joy": 0.050823,
+        "fear": 0.744166,
+        "disgust": 0.22586,
+        "anger": 0.154779
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.572533,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            25,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.043114,
+        "joy": 0.050823,
+        "fear": 0.744166,
+        "disgust": 0.22586,
+        "anger": 0.154779
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.38634,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            64,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.117067,
+        "joy": 0.341746,
+        "fear": 0.098619,
+        "disgust": 0.132674,
+        "anger": 0.143674
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.983136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.847629,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.760661,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.616933,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.607739,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.965821,
+      "label": "/family and parenting"
+    }
+  ]
+}

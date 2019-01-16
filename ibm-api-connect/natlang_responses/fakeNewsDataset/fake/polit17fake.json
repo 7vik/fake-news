@@ -1,0 +1,299 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 523,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.563654,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.7132,
+        "label": "positive"
+      },
+      "relevance": 0.901268,
+      "emotion": {
+        "sadness": 0.182078,
+        "joy": 0.319735,
+        "fear": 0.174797,
+        "disgust": 0.132723,
+        "anger": 0.374797
+      },
+      "count": 1
+    },
+    {
+      "text": "boycott of the United Nations",
+      "sentiment": {
+        "score": -0.72516,
+        "label": "negative"
+      },
+      "relevance": 0.864883,
+      "emotion": {
+        "sadness": 0.239362,
+        "joy": 0.022524,
+        "fear": 0.03818,
+        "disgust": 0.390337,
+        "anger": 0.202175
+      },
+      "count": 1
+    },
+    {
+      "text": "UN ambassador Nikki Haley",
+      "sentiment": {
+        "score": -0.72516,
+        "label": "negative"
+      },
+      "relevance": 0.79524,
+      "emotion": {
+        "sadness": 0.239362,
+        "joy": 0.022524,
+        "fear": 0.03818,
+        "disgust": 0.390337,
+        "anger": 0.202175
+      },
+      "count": 1
+    },
+    {
+      "text": "nuclear weapons",
+      "sentiment": {
+        "score": -0.247446,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.753632,
+      "emotion": {
+        "sadness": 0.266703,
+        "joy": 0.047706,
+        "fear": 0.161537,
+        "disgust": 0.189288,
+        "anger": 0.656405
+      },
+      "count": 2
+    },
+    {
+      "text": "international treaty",
+      "sentiment": {
+        "score": -0.633069,
+        "label": "negative"
+      },
+      "relevance": 0.668898,
+      "emotion": {
+        "sadness": 0.325759,
+        "joy": 0.010323,
+        "fear": 0.166875,
+        "disgust": 0.198946,
+        "anger": 0.649898
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nikki Haley",
+      "sentiment": {
+        "score": -0.713999,
+        "label": "negative"
+      },
+      "relevance": 0.901377,
+      "mentions": [
+        {
+          "text": "Nikki Haley",
+          "location": [
+            88,
+            99
+          ]
+        },
+        {
+          "text": "Haley",
+          "location": [
+            226,
+            231
+          ]
+        },
+        {
+          "text": "Haley",
+          "location": [
+            382,
+            387
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185251,
+        "joy": 0.052848,
+        "fear": 0.029429,
+        "disgust": 0.466986,
+        "anger": 0.216055
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Nikki Haley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nikki_Haley"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "United Nations",
+      "sentiment": {
+        "score": -0.733538,
+        "label": "negative"
+      },
+      "relevance": 0.491846,
+      "mentions": [
+        {
+          "text": "UN",
+          "location": [
+            14,
+            16
+          ]
+        },
+        {
+          "text": "United Nations",
+          "location": [
+            43,
+            57
+          ]
+        },
+        {
+          "text": "UN",
+          "location": [
+            74,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.284053,
+        "joy": 0.011195,
+        "fear": 0.06261,
+        "disgust": 0.46622,
+        "anger": 0.305208
+      },
+      "disambiguation": {
+        "subtype": [
+          "MembershipOrganization",
+          "AwardWinner",
+          "GovernmentalBody",
+          "TouristAttraction"
+        ],
+        "name": "United Nations",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.57602,
+        "label": "negative"
+      },
+      "relevance": 0.395381,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            106,
+            108
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325627,
+        "joy": 0.007184,
+        "fear": 0.148821,
+        "disgust": 0.22422,
+        "anger": 0.651577
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.471291,
+        "label": "positive"
+      },
+      "relevance": 0.257148,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            351,
+            366
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.181552,
+        "joy": 0.278363,
+        "fear": 0.052948,
+        "disgust": 0.104197,
+        "anger": 0.199475
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Nations",
+      "relevance": 0.981558,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+    },
+    {
+      "text": "Nuclear weapon",
+      "relevance": 0.808506,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nuclear_weapon"
+    },
+    {
+      "text": "United Nations Charter",
+      "relevance": 0.758793,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_Charter"
+    },
+    {
+      "text": "Cold War",
+      "relevance": 0.644967,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cold_War"
+    },
+    {
+      "text": "International Court of Justice",
+      "relevance": 0.611546,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_Court_of_Justice"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.80145,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

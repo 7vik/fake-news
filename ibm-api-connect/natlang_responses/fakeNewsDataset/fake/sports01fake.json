@@ -1,0 +1,304 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 876,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Basketball' auction",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.85839,
+      "emotion": {
+        "sadness": 0.296065,
+        "joy": 0.437895,
+        "fear": 0.048125,
+        "disgust": 0.072864,
+        "anger": 0.112207
+      },
+      "count": 1
+    },
+    {
+      "text": "autograph of Michael Jordan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.819342,
+      "emotion": {
+        "sadness": 0.296065,
+        "joy": 0.437895,
+        "fear": 0.048125,
+        "disgust": 0.072864,
+        "anger": 0.112207
+      },
+      "count": 1
+    },
+    {
+      "text": "auction house",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.726475,
+      "emotion": {
+        "sadness": 0.372696,
+        "joy": 0.120622,
+        "fear": 0.29324,
+        "disgust": 0.18091,
+        "anger": 0.063882
+      },
+      "count": 1
+    },
+    {
+      "text": "famous basketball legend Michael",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.702682,
+      "emotion": {
+        "sadness": 0.208699,
+        "joy": 0.538115,
+        "fear": 0.038453,
+        "disgust": 0.026177,
+        "anger": 0.060233
+      },
+      "count": 1
+    },
+    {
+      "text": "Michael Jordan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.687537,
+      "emotion": {
+        "sadness": 0.217603,
+        "joy": 0.496464,
+        "fear": 0.072282,
+        "disgust": 0.048204,
+        "anger": 0.081815
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michael Jordan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.890109,
+      "mentions": [
+        {
+          "text": "Michael Jordan",
+          "location": [
+            20,
+            34
+          ]
+        },
+        {
+          "text": "Michael Jordan",
+          "location": [
+            119,
+            133
+          ]
+        },
+        {
+          "text": "Michael Jordan",
+          "location": [
+            375,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151732,
+        "joy": 0.504441,
+        "fear": 0.081603,
+        "disgust": 0.031693,
+        "anger": 0.056601
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardWinner",
+          "BasketballPlayer",
+          "HallOfFameInductee",
+          "OlympicAthlete",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Michael Jordan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Jordan"
+      },
+      "count": 3
+    },
+    {
+      "type": "Sport",
+      "text": "basketball",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.521207,
+      "mentions": [
+        {
+          "text": "basketball",
+          "location": [
+            101,
+            111
+          ]
+        },
+        {
+          "text": "Basketball",
+          "location": [
+            401,
+            411
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.267903,
+        "joy": 0.514724,
+        "fear": 0.037264,
+        "disgust": 0.029898,
+        "anger": 0.054677
+      },
+      "disambiguation": {
+        "subtype": [
+          "Invention",
+          "FieldOfStudy",
+          "AwardDiscipline",
+          "OlympicEventCompetition"
+        ],
+        "name": "Basketball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Basketball"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Sotheby",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.512645,
+      "mentions": [
+        {
+          "text": "Sotheby",
+          "location": [
+            299,
+            306
+          ]
+        },
+        {
+          "text": "Sotheby",
+          "location": [
+            520,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Sotheby's",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sotheby's"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Ebay",
+      "sentiment": {
+        "score": -0.296951,
+        "label": "negative"
+      },
+      "relevance": 0.451432,
+      "mentions": [
+        {
+          "text": "Ebay",
+          "location": [
+            165,
+            169
+          ]
+        },
+        {
+          "text": "Ebay",
+          "location": [
+            463,
+            467
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "EBay",
+        "dbpedia_resource": "http://dbpedia.org/resource/EBay"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Basketball",
+      "relevance": 0.958088,
+      "dbpedia_resource": "http://dbpedia.org/resource/Basketball"
+    },
+    {
+      "text": "James Naismith",
+      "relevance": 0.946969,
+      "dbpedia_resource": "http://dbpedia.org/resource/James_Naismith"
+    },
+    {
+      "text": "Auction",
+      "relevance": 0.83727,
+      "dbpedia_resource": "http://dbpedia.org/resource/Auction"
+    },
+    {
+      "text": "Springfield, Massachusetts",
+      "relevance": 0.741407,
+      "dbpedia_resource": "http://dbpedia.org/resource/Springfield,_Massachusetts"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.702081,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999877,
+      "label": "/shopping/auctions"
+    }
+  ]
+}

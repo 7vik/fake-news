@@ -1,0 +1,324 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 859,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.576891,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Benedict Cumberbatch",
+      "sentiment": {
+        "score": 0.940265,
+        "label": "positive"
+      },
+      "relevance": 0.908516,
+      "emotion": {
+        "sadness": 0.096327,
+        "joy": 0.792398,
+        "fear": 0.020271,
+        "disgust": 0.018581,
+        "anger": 0.070166
+      },
+      "count": 2
+    },
+    {
+      "text": "second son  Hal Auden Cumberbatch",
+      "sentiment": {
+        "score": 0.937212,
+        "label": "positive"
+      },
+      "relevance": 0.731561,
+      "emotion": {
+        "sadness": 0.057477,
+        "joy": 0.549535,
+        "fear": 0.015512,
+        "disgust": 0.057637,
+        "anger": 0.021104
+      },
+      "count": 1
+    },
+    {
+      "text": "second child",
+      "sentiment": {
+        "score": 0.801221,
+        "label": "positive"
+      },
+      "relevance": 0.631582,
+      "emotion": {
+        "sadness": 0.249794,
+        "joy": 0.319497,
+        "fear": 0.061519,
+        "disgust": 0.092452,
+        "anger": 0.226605
+      },
+      "count": 1
+    },
+    {
+      "text": "theater director",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.629661,
+      "emotion": {
+        "sadness": 0.249794,
+        "joy": 0.319497,
+        "fear": 0.061519,
+        "disgust": 0.092452,
+        "anger": 0.226605
+      },
+      "count": 1
+    },
+    {
+      "text": "family's privacy",
+      "sentiment": {
+        "score": 0.66921,
+        "label": "positive"
+      },
+      "relevance": 0.609422,
+      "emotion": {
+        "sadness": 0.202834,
+        "joy": 0.65491,
+        "fear": 0.01361,
+        "disgust": 0.10675,
+        "anger": 0.043832
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hal Auden Cumberbatch",
+      "sentiment": {
+        "score": 0.121826,
+        "label": "positive"
+      },
+      "relevance": 0.93966,
+      "mentions": [
+        {
+          "text": "Benedict Cumberbatch",
+          "location": [
+            0,
+            20
+          ]
+        },
+        {
+          "text": "Hal Auden Cumberbatch",
+          "location": [
+            94,
+            115
+          ]
+        },
+        {
+          "text": "Cumberbatch",
+          "location": [
+            129,
+            140
+          ]
+        },
+        {
+          "text": "Cumberbatch",
+          "location": [
+            440,
+            451
+          ]
+        },
+        {
+          "text": "Benedict Cumberbatch",
+          "location": [
+            618,
+            638
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.056236,
+        "joy": 0.835143,
+        "fear": 0.010796,
+        "disgust": 0.02912,
+        "anger": 0.040085
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Christopher Carlton Cumberbatch",
+      "sentiment": {
+        "score": 0.788332,
+        "label": "positive"
+      },
+      "relevance": 0.456574,
+      "mentions": [
+        {
+          "text": "Christopher Carlton Cumberbatch",
+          "location": [
+            585,
+            616
+          ]
+        },
+        {
+          "text": "Christopher",
+          "location": [
+            836,
+            847
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sophie Hunter",
+      "sentiment": {
+        "score": 0.775455,
+        "label": "positive"
+      },
+      "relevance": 0.443687,
+      "mentions": [
+        {
+          "text": "Hunter",
+          "location": [
+            461,
+            467
+          ]
+        },
+        {
+          "text": "Hunter",
+          "location": [
+            545,
+            551
+          ]
+        },
+        {
+          "text": "Sophie Hunter",
+          "location": [
+            643,
+            656
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098099,
+        "joy": 0.518852,
+        "fear": 0.063029,
+        "disgust": 0.138714,
+        "anger": 0.200763
+      },
+      "count": 3
+    },
+    {
+      "type": "Broadcaster",
+      "text": "ABC News",
+      "sentiment": {
+        "score": 0.443223,
+        "label": "positive"
+      },
+      "relevance": 0.36352,
+      "mentions": [
+        {
+          "text": "ABC News",
+          "location": [
+            237,
+            245
+          ]
+        },
+        {
+          "text": "News",
+          "location": [
+            422,
+            426
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.446529,
+        "joy": 0.092539,
+        "fear": 0.102613,
+        "disgust": 0.311979,
+        "anger": 0.075821
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Broadcast",
+          "Company",
+          "FilmCompany",
+          "TVNetwork",
+          "TelevisionStation"
+        ],
+        "name": "Australian Broadcasting Corporation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "director",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.222836,
+      "mentions": [
+        {
+          "text": "director",
+          "location": [
+            326,
+            334
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.221616,
+        "joy": 0.406147,
+        "fear": 0.022214,
+        "disgust": 0.137851,
+        "anger": 0.167296
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Marriage",
+      "relevance": 0.926574,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Benedict Cumberbatch",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Benedict_Cumberbatch"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.863352,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "Theatre",
+      "relevance": 0.762589,
+      "dbpedia_resource": "http://dbpedia.org/resource/Theatre"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.577172,
+      "label": "/art and entertainment/comics and animation"
+    }
+  ]
+}

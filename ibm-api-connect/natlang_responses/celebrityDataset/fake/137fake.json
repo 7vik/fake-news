@@ -1,0 +1,154 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.821882,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.821882,
+        "label": "positive"
+      },
+      "relevance": 0.999883,
+      "emotion": {
+        "sadness": 0.236384,
+        "joy": 0.620904,
+        "fear": 0.092969,
+        "disgust": 0.027161,
+        "anger": 0.032703
+      },
+      "count": 1
+    },
+    {
+      "text": "Liam Hemsworth Maybe Got Secret-Married Last April",
+      "sentiment": {
+        "score": 0.821882,
+        "label": "positive"
+      },
+      "relevance": 0.016117,
+      "emotion": {
+        "sadness": 0.236384,
+        "joy": 0.620904,
+        "fear": 0.092969,
+        "disgust": 0.027161,
+        "anger": 0.032703
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.236384,
+        "joy": 0.620904,
+        "fear": 0.092969,
+        "disgust": 0.027161,
+        "anger": 0.032703
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            16,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.236384,
+        "joy": 0.620904,
+        "fear": 0.092969,
+        "disgust": 0.027161,
+        "anger": 0.032703
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Liam Hemsworth",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.971964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "The Last Song",
+      "relevance": 0.860985,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Last_Song_(film)"
+    },
+    {
+      "text": "Liam Hemsworth",
+      "relevance": 0.712312,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+    },
+    {
+      "text": "Billy Ray Cyrus",
+      "relevance": 0.701043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Ray_Cyrus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.568836,
+      "label": "/society/teens"
+    }
+  ]
+}

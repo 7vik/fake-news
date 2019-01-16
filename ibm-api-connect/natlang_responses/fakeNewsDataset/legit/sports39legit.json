@@ -1,0 +1,356 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 822,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.788849,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lacy joins Seattle Seahawks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.886497,
+      "emotion": {
+        "sadness": 0.187835,
+        "joy": 0.469182,
+        "fear": 0.119321,
+        "disgust": 0.033917,
+        "anger": 0.133912
+      },
+      "count": 1
+    },
+    {
+      "text": "month head coach Pete Carroll",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.736277,
+      "emotion": {
+        "sadness": 0.202347,
+        "joy": 0.267007,
+        "fear": 0.062831,
+        "disgust": 0.103275,
+        "anger": 0.104595
+      },
+      "count": 1
+    },
+    {
+      "text": "injury problems",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.724828,
+      "emotion": {
+        "sadness": 0.619165,
+        "joy": 0.0949,
+        "fear": 0.090051,
+        "disgust": 0.126816,
+        "anger": 0.21196
+      },
+      "count": 1
+    },
+    {
+      "text": "capture of former Green Bay",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.694714,
+      "emotion": {
+        "sadness": 0.130197,
+        "joy": 0.382919,
+        "fear": 0.094699,
+        "disgust": 0.047451,
+        "anger": 0.027411
+      },
+      "count": 1
+    },
+    {
+      "text": "one-year deal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.665816,
+      "emotion": {
+        "sadness": 0.506069,
+        "joy": 0.220485,
+        "fear": 0.095815,
+        "disgust": 0.088835,
+        "anger": 0.204673
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Eddie Lacy",
+      "sentiment": {
+        "score": 0.278284,
+        "label": "positive"
+      },
+      "relevance": 0.789578,
+      "mentions": [
+        {
+          "text": "Eddie Lacy",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Eddie Lacy",
+          "location": [
+            128,
+            138
+          ]
+        },
+        {
+          "text": "Lacy",
+          "location": [
+            398,
+            402
+          ]
+        },
+        {
+          "text": "Lacy",
+          "location": [
+            721,
+            725
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            757,
+            759
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217461,
+        "joy": 0.462893,
+        "fear": 0.066332,
+        "disgust": 0.102926,
+        "anger": 0.175585
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Eddie Lacy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Eddie_Lacy"
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Seattle Seahawks",
+      "sentiment": {
+        "score": 0.653569,
+        "label": "positive"
+      },
+      "relevance": 0.559313,
+      "mentions": [
+        {
+          "text": "Seattle Seahawks",
+          "location": [
+            17,
+            33
+          ]
+        },
+        {
+          "text": "Seattle Seahawks",
+          "location": [
+            51,
+            67
+          ]
+        },
+        {
+          "text": "them",
+          "location": [
+            732,
+            736
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.103789,
+        "joy": 0.574039,
+        "fear": 0.077077,
+        "disgust": 0.052165,
+        "anger": 0.086661
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "FootballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Seattle Seahawks",
+        "dbpedia_resource": "http://dbpedia.org/resource/Seattle_Seahawks"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Seattle",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.365319,
+      "mentions": [
+        {
+          "text": "Seattle",
+          "location": [
+            184,
+            191
+          ]
+        },
+        {
+          "text": "Seattle",
+          "location": [
+            511,
+            518
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.592608,
+        "joy": 0.185442,
+        "fear": 0.085301,
+        "disgust": 0.073568,
+        "anger": 0.145273
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Seattle",
+        "dbpedia_resource": "http://dbpedia.org/resource/Seattle"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "CJ Prosise",
+      "sentiment": {
+        "score": 0.653569,
+        "label": "positive"
+      },
+      "relevance": 0.346618,
+      "mentions": [
+        {
+          "text": "CJ Prosise",
+          "location": [
+            667,
+            677
+          ]
+        },
+        {
+          "text": "Prosise",
+          "location": [
+            789,
+            796
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.215808,
+        "joy": 0.268927,
+        "fear": 0.061334,
+        "disgust": 0.101355,
+        "anger": 0.10355
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jamaal Charles",
+      "sentiment": {
+        "score": 0.457669,
+        "label": "positive"
+      },
+      "relevance": 0.285686,
+      "mentions": [
+        {
+          "text": "Jamaal Charles",
+          "location": [
+            144,
+            158
+          ]
+        },
+        {
+          "text": "Charles",
+          "location": [
+            324,
+            331
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.234677,
+        "joy": 0.460776,
+        "fear": 0.08388,
+        "disgust": 0.040057,
+        "anger": 0.053862
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Jamaal Charles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jamaal_Charles"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Seattle Seahawks",
+      "relevance": 0.951246,
+      "dbpedia_resource": "http://dbpedia.org/resource/Seattle_Seahawks"
+    },
+    {
+      "text": "National Football League",
+      "relevance": 0.917271,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Football_League"
+    },
+    {
+      "text": "Pete Carroll",
+      "relevance": 0.844429,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pete_Carroll"
+    },
+    {
+      "text": "Seattle",
+      "relevance": 0.66538,
+      "dbpedia_resource": "http://dbpedia.org/resource/Seattle"
+    },
+    {
+      "text": "American football",
+      "relevance": 0.655286,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_football"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.917241,
+      "label": "/sports/football"
+    }
+  ]
+}

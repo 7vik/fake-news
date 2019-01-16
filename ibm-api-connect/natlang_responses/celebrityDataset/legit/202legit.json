@@ -1,0 +1,344 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 843,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.715364,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Julia Roberts Cuddles",
+      "sentiment": {
+        "score": 0.826419,
+        "label": "positive"
+      },
+      "relevance": 0.923061,
+      "emotion": {
+        "sadness": 0.121599,
+        "joy": 0.766621,
+        "fear": 0.008206,
+        "disgust": 0.007058,
+        "anger": 0.021905
+      },
+      "count": 1
+    },
+    {
+      "text": "years of marriage",
+      "sentiment": {
+        "score": 0.564184,
+        "label": "positive"
+      },
+      "relevance": 0.654106,
+      "emotion": {
+        "sadness": 0.165738,
+        "joy": 0.519144,
+        "fear": 0.171454,
+        "disgust": 0.034805,
+        "anger": 0.121033
+      },
+      "count": 1
+    },
+    {
+      "text": "loving display",
+      "sentiment": {
+        "score": 0.564184,
+        "label": "positive"
+      },
+      "relevance": 0.646302,
+      "emotion": {
+        "sadness": 0.165738,
+        "joy": 0.519144,
+        "fear": 0.171454,
+        "disgust": 0.034805,
+        "anger": 0.121033
+      },
+      "count": 1
+    },
+    {
+      "text": "couple",
+      "sentiment": {
+        "score": 0.655242,
+        "label": "positive"
+      },
+      "relevance": 0.609914,
+      "emotion": {
+        "sadness": 0.121375,
+        "joy": 0.77013,
+        "fear": 0.072698,
+        "disgust": 0.03536,
+        "anger": 0.023696
+      },
+      "count": 2
+    },
+    {
+      "text": "Danny Moder Ahead",
+      "sentiment": {
+        "score": 0.826419,
+        "label": "positive"
+      },
+      "relevance": 0.587658,
+      "emotion": {
+        "sadness": 0.121599,
+        "joy": 0.766621,
+        "fear": 0.008206,
+        "disgust": 0.007058,
+        "anger": 0.021905
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Julia Roberts",
+      "sentiment": {
+        "score": 0.216038,
+        "label": "positive"
+      },
+      "relevance": 0.898539,
+      "mentions": [
+        {
+          "text": "Julia Roberts",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Julia Roberts",
+          "location": [
+            80,
+            93
+          ]
+        },
+        {
+          "text": "Julia",
+          "location": [
+            319,
+            324
+          ]
+        },
+        {
+          "text": "Julia",
+          "location": [
+            443,
+            448
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            476,
+            479
+          ]
+        },
+        {
+          "text": "Woman",
+          "location": [
+            514,
+            519
+          ]
+        },
+        {
+          "text": "Julia",
+          "location": [
+            584,
+            589
+          ]
+        },
+        {
+          "text": "Julia",
+          "location": [
+            688,
+            693
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            730,
+            733
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140609,
+        "joy": 0.720284,
+        "fear": 0.072628,
+        "disgust": 0.087583,
+        "anger": 0.051738
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Julia Roberts",
+        "dbpedia_resource": "http://dbpedia.org/resource/Julia_Roberts"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Danny Moder",
+      "sentiment": {
+        "score": 0.56605,
+        "label": "positive"
+      },
+      "relevance": 0.459268,
+      "mentions": [
+        {
+          "text": "Danny Moder",
+          "location": [
+            28,
+            39
+          ]
+        },
+        {
+          "text": "Danny Moder",
+          "location": [
+            106,
+            117
+          ]
+        },
+        {
+          "text": "Danny",
+          "location": [
+            358,
+            363
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0868,
+        "joy": 0.632562,
+        "fear": 0.013813,
+        "disgust": 0.025989,
+        "anger": 0.034537
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ari Pinchot",
+      "sentiment": {
+        "score": 0.366186,
+        "label": "positive"
+      },
+      "relevance": 0.139614,
+      "emotion": {
+        "sadness": 0.129854,
+        "joy": 0.223852,
+        "fear": 0.076081,
+        "disgust": 0.075501,
+        "anger": 0.099918
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Crystal City Entertainment",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.137046,
+      "mentions": [
+        {
+          "text": "Crystal City Entertainment",
+          "location": [
+            629,
+            655
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Malibu",
+      "sentiment": {
+        "score": 0.346978,
+        "label": "positive"
+      },
+      "relevance": 0.136151,
+      "mentions": [
+        {
+          "text": "Malibu",
+          "location": [
+            153,
+            159
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.085638,
+        "joy": 0.128364,
+        "fear": 0.058841,
+        "disgust": 0.096999,
+        "anger": 0.06936
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Malibu, California",
+        "dbpedia_resource": "http://dbpedia.org/resource/Malibu,_California"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Wedding anniversary",
+      "relevance": 0.937789,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wedding_anniversary"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.844586,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Film",
+      "relevance": 0.763364,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film"
+    },
+    {
+      "text": "Wedding",
+      "relevance": 0.684748,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wedding"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.661477,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.845935,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 754,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.713841,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": -0.796044,
+        "label": "negative"
+      },
+      "relevance": 0.89487,
+      "emotion": {
+        "sadness": 0.243762,
+        "joy": 0.129686,
+        "fear": 0.138821,
+        "disgust": 0.170322,
+        "anger": 0.280234
+      },
+      "count": 1
+    },
+    {
+      "text": "small  Chris Pratt",
+      "sentiment": {
+        "score": -0.796044,
+        "label": "negative"
+      },
+      "relevance": 0.797535,
+      "emotion": {
+        "sadness": 0.248489,
+        "joy": 0.227025,
+        "fear": 0.207312,
+        "disgust": 0.171366,
+        "anger": 0.096811
+      },
+      "count": 1
+    },
+    {
+      "text": "Jurassic World",
+      "sentiment": {
+        "score": -0.610653,
+        "label": "negative"
+      },
+      "relevance": 0.718462,
+      "emotion": {
+        "sadness": 0.268223,
+        "joy": 0.580406,
+        "fear": 0.047377,
+        "disgust": 0.133336,
+        "anger": 0.040682
+      },
+      "count": 1
+    },
+    {
+      "text": "healthy snacks",
+      "sentiment": {
+        "score": -0.610653,
+        "label": "negative"
+      },
+      "relevance": 0.717195,
+      "emotion": {
+        "sadness": 0.268223,
+        "joy": 0.580406,
+        "fear": 0.047377,
+        "disgust": 0.133336,
+        "anger": 0.040682
+      },
+      "count": 1
+    },
+    {
+      "text": "recent episodes",
+      "sentiment": {
+        "score": -0.282387,
+        "label": "negative"
+      },
+      "relevance": 0.652588,
+      "emotion": {
+        "sadness": 0.299067,
+        "joy": 0.413617,
+        "fear": 0.064266,
+        "disgust": 0.068159,
+        "anger": 0.156826
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0.012943,
+        "label": "positive"
+      },
+      "relevance": 0.942723,
+      "mentions": [
+        {
+          "text": "Chris Pratt",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            45,
+            48
+          ]
+        },
+        {
+          "text": "Chris Pratt",
+          "location": [
+            77,
+            88
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            198,
+            200
+          ]
+        },
+        {
+          "text": "Pratt",
+          "location": [
+            229,
+            234
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            280,
+            282
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            471,
+            473
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            573,
+            575
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272487,
+        "joy": 0.631819,
+        "fear": 0.143485,
+        "disgust": 0.170713,
+        "anger": 0.113545
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Pratt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+      },
+      "count": 8
+    },
+    {
+      "type": "Company",
+      "text": "Instagram",
+      "sentiment": {
+        "score": -0.332955,
+        "label": "negative"
+      },
+      "relevance": 0.164216,
+      "mentions": [
+        {
+          "text": "Instagram",
+          "location": [
+            585,
+            594
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.299067,
+        "joy": 0.413617,
+        "fear": 0.064266,
+        "disgust": 0.068159,
+        "anger": 0.156826
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Instagram",
+        "dbpedia_resource": "http://dbpedia.org/resource/Instagram"
+      },
+      "count": 1
+    },
+    {
+      "type": "Hashtag",
+      "text": "#WHATSMYSNACK",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.164216,
+      "mentions": [
+        {
+          "text": "#WHATSMYSNACK",
+          "location": [
+            558,
+            571
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "2",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.164216,
+      "mentions": [
+        {
+          "text": "2\"",
+          "location": [
+            322,
+            324
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American television actors",
+      "relevance": 0.913649,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Snack food",
+      "relevance": 0.886648,
+      "dbpedia_resource": "http://dbpedia.org/resource/Snack_food"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.699659,
+      "label": "/food and drink/food"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 706,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.282878,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Autonomous Cars",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.922012,
+      "emotion": {
+        "sadness": 0.389664,
+        "joy": 0.118577,
+        "fear": 0.404034,
+        "disgust": 0.024284,
+        "anger": 0.151829
+      },
+      "count": 2
+    },
+    {
+      "text": "robotic car",
+      "sentiment": {
+        "score": -0.714749,
+        "label": "negative"
+      },
+      "relevance": 0.740551,
+      "emotion": {
+        "sadness": 0.285762,
+        "joy": 0.064134,
+        "fear": 0.194111,
+        "disgust": 0.0916,
+        "anger": 0.145922
+      },
+      "count": 1
+    },
+    {
+      "text": "Motor Vehicles",
+      "sentiment": {
+        "score": -0.714749,
+        "label": "negative"
+      },
+      "relevance": 0.706101,
+      "emotion": {
+        "sadness": 0.285762,
+        "joy": 0.064134,
+        "fear": 0.194111,
+        "disgust": 0.0916,
+        "anger": 0.145922
+      },
+      "count": 1
+    },
+    {
+      "text": "safety driver",
+      "sentiment": {
+        "score": -0.714749,
+        "label": "negative"
+      },
+      "relevance": 0.659691,
+      "emotion": {
+        "sadness": 0.285762,
+        "joy": 0.064134,
+        "fear": 0.194111,
+        "disgust": 0.0916,
+        "anger": 0.145922
+      },
+      "count": 1
+    },
+    {
+      "text": "autonomous vehicles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.642287,
+      "emotion": {
+        "sadness": 0.06654,
+        "joy": 0.139949,
+        "fear": 0.155381,
+        "disgust": 0.039641,
+        "anger": 0.072469
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Department of Motor Vehicles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.825153,
+      "mentions": [
+        {
+          "text": "Department of Motor Vehicles",
+          "location": [
+            247,
+            275
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.09324,
+        "joy": 0.051294,
+        "fear": 0.115429,
+        "disgust": 0.049153,
+        "anger": 0.088128
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "Department of Motor Vehicles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Department_of_Motor_Vehicles"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.493299,
+      "mentions": [
+        {
+          "text": "California",
+          "location": [
+            234,
+            244
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "Appellation",
+          "GovernmentalJurisdiction",
+          "USState",
+          "WineRegion",
+          "StateOrCounty"
+        ],
+        "name": "California",
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two tons",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.493299,
+      "mentions": [
+        {
+          "text": "two tons",
+          "location": [
+            187,
+            195
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Automobile",
+      "relevance": 0.953073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    },
+    {
+      "text": "Transport",
+      "relevance": 0.863708,
+      "dbpedia_resource": "http://dbpedia.org/resource/Transport"
+    },
+    {
+      "text": "Wheel",
+      "relevance": 0.824255,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wheel"
+    },
+    {
+      "text": "Driverless car",
+      "relevance": 0.646253,
+      "dbpedia_resource": "http://dbpedia.org/resource/Driverless_car"
+    },
+    {
+      "text": "Wheels",
+      "relevance": 0.626672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wheels"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999989,
+      "label": "/automotive and vehicles/cars"
+    }
+  ]
+}

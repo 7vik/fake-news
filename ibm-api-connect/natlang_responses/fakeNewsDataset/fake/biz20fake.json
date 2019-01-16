@@ -1,0 +1,278 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 869,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.562753,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chief executive Alexandre de Juniac",
+      "sentiment": {
+        "score": 0.854047,
+        "label": "positive"
+      },
+      "relevance": 0.869175,
+      "emotion": {
+        "sadness": 0.239203,
+        "joy": 0.560342,
+        "fear": 0.108024,
+        "disgust": 0.082218,
+        "anger": 0.052867
+      },
+      "count": 1
+    },
+    {
+      "text": "International Air Transport Association",
+      "sentiment": {
+        "score": 0.854047,
+        "label": "positive"
+      },
+      "relevance": 0.846802,
+      "emotion": {
+        "sadness": 0.239203,
+        "joy": 0.560342,
+        "fear": 0.108024,
+        "disgust": 0.082218,
+        "anger": 0.052867
+      },
+      "count": 1
+    },
+    {
+      "text": "better flight experience",
+      "sentiment": {
+        "score": 0.933657,
+        "label": "positive"
+      },
+      "relevance": 0.68397,
+      "emotion": {
+        "sadness": 0.22909,
+        "joy": 0.635371,
+        "fear": 0.039008,
+        "disgust": 0.044079,
+        "anger": 0.034644
+      },
+      "count": 1
+    },
+    {
+      "text": "Major air carriers",
+      "sentiment": {
+        "score": -0.957462,
+        "label": "negative"
+      },
+      "relevance": 0.65624,
+      "emotion": {
+        "sadness": 0.151032,
+        "joy": 0.103268,
+        "fear": 0.301535,
+        "disgust": 0.006208,
+        "anger": 0.084673
+      },
+      "count": 1
+    },
+    {
+      "text": "international flights",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.649801,
+      "emotion": {
+        "sadness": 0.323911,
+        "joy": 0.073518,
+        "fear": 0.057075,
+        "disgust": 0.084572,
+        "anger": 0.073271
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "International Air Transport Association",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.861257,
+      "mentions": [
+        {
+          "text": "International Air Transport Association",
+          "location": [
+            44,
+            83
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131214,
+        "joy": 0.308807,
+        "fear": 0.131616,
+        "disgust": 0.116941,
+        "anger": 0.0201
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "IATA Operational Safety Audit",
+        "dbpedia_resource": "http://dbpedia.org/resource/IATA_Operational_Safety_Audit"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Steve Harvey",
+      "sentiment": {
+        "score": 0.339287,
+        "label": "positive"
+      },
+      "relevance": 0.670734,
+      "mentions": [
+        {
+          "text": "Steve Harvey",
+          "location": [
+            225,
+            237
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.189918,
+        "joy": 0.160825,
+        "fear": 0.066281,
+        "disgust": 0.140981,
+        "anger": 0.09548
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor",
+          "BroadcastArtist",
+          "BroadcastContent",
+          "FilmWriter"
+        ],
+        "name": "Steve Harvey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_Harvey"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alexandre de Juniac",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.657348,
+      "mentions": [
+        {
+          "text": "Alexandre de Juniac",
+          "location": [
+            16,
+            35
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.239275,
+        "joy": 0.149722,
+        "fear": 0.267412,
+        "disgust": 0.187602,
+        "anger": 0.154349
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Chief executive",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.654547,
+      "mentions": [
+        {
+          "text": "Chief executive",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.239275,
+        "joy": 0.149722,
+        "fear": 0.267412,
+        "disgust": 0.187602,
+        "anger": 0.154349
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Pan Am",
+      "sentiment": {
+        "score": 0.21315,
+        "label": "positive"
+      },
+      "relevance": 0.641091,
+      "mentions": [
+        {
+          "text": "Pan Am",
+          "location": [
+            350,
+            356
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Aircraft",
+      "relevance": 0.885109,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aircraft"
+    },
+    {
+      "text": "Airline",
+      "relevance": 0.852185,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airline"
+    },
+    {
+      "text": "Delta Air Lines",
+      "relevance": 0.827618,
+      "dbpedia_resource": "http://dbpedia.org/resource/Delta_Air_Lines"
+    },
+    {
+      "text": "Boeing 707",
+      "relevance": 0.754023,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boeing_707"
+    },
+    {
+      "text": "Flight",
+      "relevance": 0.746535,
+      "dbpedia_resource": "http://dbpedia.org/resource/Flight"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996694,
+      "label": "/travel/transports/air travel/airlines"
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1513,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.790233,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.952022,
+        "label": "negative"
+      },
+      "relevance": 0.730319,
+      "emotion": {
+        "sadness": 0.448477,
+        "joy": 0.027088,
+        "fear": 0.188303,
+        "disgust": 0.261729,
+        "anger": 0.325698
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie pregnancy rumours2017-11-16",
+      "sentiment": {
+        "score": -0.952022,
+        "label": "negative"
+      },
+      "relevance": 0.703459,
+      "emotion": {
+        "sadness": 0.427318,
+        "joy": 0.082516,
+        "fear": 0.156921,
+        "disgust": 0.188779,
+        "anger": 0.114
+      },
+      "count": 1
+    },
+    {
+      "text": "sister Khlo\u00e9 Kardashian",
+      "sentiment": {
+        "score": -0.952022,
+        "label": "negative"
+      },
+      "relevance": 0.657145,
+      "emotion": {
+        "sadness": 0.427318,
+        "joy": 0.082516,
+        "fear": 0.156921,
+        "disgust": 0.188779,
+        "anger": 0.114
+      },
+      "count": 1
+    },
+    {
+      "text": "staple of the Corden show",
+      "sentiment": {
+        "score": -0.92249,
+        "label": "negative"
+      },
+      "relevance": 0.654728,
+      "emotion": {
+        "sadness": 0.397521,
+        "joy": 0.020734,
+        "fear": 0.186254,
+        "disgust": 0.233565,
+        "anger": 0.423713
+      },
+      "count": 1
+    },
+    {
+      "text": "Big sis Kim Kardashian",
+      "sentiment": {
+        "score": -0.92249,
+        "label": "negative"
+      },
+      "relevance": 0.639194,
+      "emotion": {
+        "sadness": 0.397521,
+        "joy": 0.020734,
+        "fear": 0.186254,
+        "disgust": 0.233565,
+        "anger": 0.423713
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.579378,
+        "label": "negative"
+      },
+      "relevance": 0.905535,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            24,
+            38
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            286,
+            300
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            737,
+            740
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            959,
+            962
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1412,
+            1422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.365819,
+        "joy": 0.307965,
+        "fear": 0.146898,
+        "disgust": 0.140805,
+        "anger": 0.133645
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.839914,
+      "mentions": [
+        {
+          "text": "Kylie",
+          "location": [
+            59,
+            64
+          ]
+        },
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            146,
+            158
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            895,
+            900
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            1112,
+            1117
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            1382,
+            1387
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "James Corden",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.552827,
+      "mentions": [
+        {
+          "text": "James Corden",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Corden",
+          "location": [
+            493,
+            499
+          ]
+        },
+        {
+          "text": "Corden",
+          "location": [
+            1470,
+            1476
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.318639,
+        "joy": 0.079757,
+        "fear": 0.099041,
+        "disgust": 0.155056,
+        "anger": 0.148586
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor",
+          "TVProducer",
+          "TVWriter"
+        ],
+        "name": "James Corden",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Corden"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "James",
+      "sentiment": {
+        "score": -0.464948,
+        "label": "negative"
+      },
+      "relevance": 0.394501,
+      "mentions": [
+        {
+          "text": "James",
+          "location": [
+            511,
+            516
+          ]
+        },
+        {
+          "text": "James",
+          "location": [
+            1264,
+            1269
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1271,
+            1273
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1336,
+            1338
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.257108,
+        "joy": 0.018492,
+        "fear": 0.121965,
+        "disgust": 0.560851,
+        "anger": 0.266822
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Khlo\u00e9 Kardashian",
+      "sentiment": {
+        "score": -0.372675,
+        "label": "negative"
+      },
+      "relevance": 0.354761,
+      "mentions": [
+        {
+          "text": "00Two months",
+          "location": [
+            99,
+            111
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.635924,
+        "joy": 0.05124,
+        "fear": 0.108547,
+        "disgust": 0.52375,
+        "anger": 0.232928
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Khlo\u00e9 Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.976576,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.942026,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.838708,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Brody Jenner",
+      "relevance": 0.795453,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brody_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.775467,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.637018,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

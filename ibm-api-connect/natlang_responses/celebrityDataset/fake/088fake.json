@@ -1,0 +1,187 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.189791,
+        "joy": 0.464315,
+        "fear": 0.090099,
+        "disgust": 0.127055,
+        "anger": 0.101501
+      },
+      "count": 1
+    },
+    {
+      "text": "Real Reason",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.994203,
+      "emotion": {
+        "sadness": 0.189791,
+        "joy": 0.464315,
+        "fear": 0.090099,
+        "disgust": 0.127055,
+        "anger": 0.101501
+      },
+      "count": 1
+    },
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.949084,
+      "emotion": {
+        "sadness": 0.189791,
+        "joy": 0.464315,
+        "fear": 0.090099,
+        "disgust": 0.127055,
+        "anger": 0.101501
+      },
+      "count": 1
+    },
+    {
+      "text": "Challenge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.189791,
+        "joy": 0.464315,
+        "fear": 0.090099,
+        "disgust": 0.127055,
+        "anger": 0.101501
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            30,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.194894,
+        "joy": 0.473196,
+        "fear": 0.091747,
+        "disgust": 0.146742,
+        "anger": 0.11308
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            39,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185347,
+        "joy": 0.484643,
+        "fear": 0.114724,
+        "disgust": 0.109199,
+        "anger": 0.107906
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jonas Brothers",
+      "relevance": 0.918299,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jonas_Brothers"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.756454,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.581942,
+      "label": "/family and parenting/parenting teens"
+    }
+  ]
+}

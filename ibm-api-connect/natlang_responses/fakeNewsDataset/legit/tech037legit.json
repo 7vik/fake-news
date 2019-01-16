@@ -1,0 +1,259 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 634,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.335586,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of the audio picture",
+      "sentiment": {
+        "score": 0.821666,
+        "label": "positive"
+      },
+      "relevance": 0.917923,
+      "emotion": {
+        "sadness": 0.104753,
+        "joy": 0.801363,
+        "fear": 0.060368,
+        "disgust": 0.021435,
+        "anger": 0.015151
+      },
+      "count": 1
+    },
+    {
+      "text": "sound effect captions",
+      "sentiment": {
+        "score": -0.585345,
+        "label": "negative"
+      },
+      "relevance": 0.798112,
+      "emotion": {
+        "sadness": 0.096138,
+        "joy": 0.276358,
+        "fear": 0.107843,
+        "disgust": 0.114689,
+        "anger": 0.030237
+      },
+      "count": 1
+    },
+    {
+      "text": "speech",
+      "sentiment": {
+        "score": -0.585345,
+        "label": "negative"
+      },
+      "relevance": 0.693399,
+      "emotion": {
+        "sadness": 0.20505,
+        "joy": 0.71239,
+        "fear": 0.045101,
+        "disgust": 0.035149,
+        "anger": 0.020003
+      },
+      "count": 2
+    },
+    {
+      "text": "YouTube",
+      "sentiment": {
+        "score": 0.504069,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.69335,
+      "emotion": {
+        "sadness": 0.184682,
+        "joy": 0.726838,
+        "fear": 0.044675,
+        "disgust": 0.040796,
+        "anger": 0.019922
+      },
+      "count": 2
+    },
+    {
+      "text": "algorithms",
+      "sentiment": {
+        "score": -0.585345,
+        "label": "negative"
+      },
+      "relevance": 0.562866,
+      "emotion": {
+        "sadness": 0.368885,
+        "joy": 0.408288,
+        "fear": 0.071241,
+        "disgust": 0.133555,
+        "anger": 0.072355
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.774281,
+        "label": "negative"
+      },
+      "relevance": 0.961871,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            48,
+            55
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            471,
+            478
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.309707,
+        "joy": 0.52881,
+        "fear": 0.066691,
+        "disgust": 0.093924,
+        "anger": 0.022766
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "AI",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.403594,
+      "mentions": [
+        {
+          "text": "AI",
+          "location": [
+            45,
+            47
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.096138,
+        "joy": 0.276358,
+        "fear": 0.107843,
+        "disgust": 0.114689,
+        "anger": 0.030237
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.38369,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            375,
+            381
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.331532,
+        "joy": 0.398452,
+        "fear": 0.115734,
+        "disgust": 0.024129,
+        "anger": 0.217577
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.38369,
+      "mentions": [
+        {
+          "text": "eight years",
+          "location": [
+            112,
+            123
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hearing impairment",
+      "relevance": 0.958558,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hearing_impairment"
+    },
+    {
+      "text": "Hearing",
+      "relevance": 0.815256,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hearing"
+    },
+    {
+      "text": "Sound",
+      "relevance": 0.787832,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sound"
+    },
+    {
+      "text": "Audiogram",
+      "relevance": 0.678699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Audiogram"
+    },
+    {
+      "text": "Closed captioning",
+      "relevance": 0.653839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Closed_captioning"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.857142,
+      "label": "/technology and computing/hardware/computer components/sound cards"
+    }
+  ]
+}

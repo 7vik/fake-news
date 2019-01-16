@@ -1,0 +1,136 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.890725,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Iggy Azalea",
+      "sentiment": {
+        "score": 0.890725,
+        "label": "positive"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.006171,
+        "joy": 0.077304,
+        "fear": 0.039248,
+        "disgust": 0.038956,
+        "anger": 0.030188
+      },
+      "count": 1
+    },
+    {
+      "text": "Odell Beckham Jr.",
+      "sentiment": {
+        "score": 0.890725,
+        "label": "positive"
+      },
+      "relevance": 0.441762,
+      "emotion": {
+        "sadness": 0.006171,
+        "joy": 0.077304,
+        "fear": 0.039248,
+        "disgust": 0.038956,
+        "anger": 0.030188
+      },
+      "count": 1
+    },
+    {
+      "text": "Dating",
+      "sentiment": {
+        "score": 0.890725,
+        "label": "positive"
+      },
+      "relevance": 0.002593,
+      "emotion": {
+        "sadness": 0.006171,
+        "joy": 0.077304,
+        "fear": 0.039248,
+        "disgust": 0.038956,
+        "anger": 0.030188
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Iggy Azalea",
+      "sentiment": {
+        "score": 0.41748,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Iggy Azalea",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.012152,
+        "joy": 0.043386,
+        "fear": 0.144963,
+        "disgust": 0.014618,
+        "anger": 0.042254
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Iggy Azalea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Iggy_Azalea"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Odell Beckham Jr.",
+      "sentiment": {
+        "score": 0.41748,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Odell Beckham Jr.",
+          "location": [
+            16,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "1947 births",
+      "relevance": 0.831861,
+      "dbpedia_resource": "http://dbpedia.org/resource/1947_births"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994854,
+      "label": "/society/dating"
+    }
+  ]
+}

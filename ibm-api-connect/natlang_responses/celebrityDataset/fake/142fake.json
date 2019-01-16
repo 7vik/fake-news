@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1218,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.654838,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Social Media",
+      "sentiment": {
+        "score": -0.891503,
+        "label": "negative"
+      },
+      "relevance": 0.719775,
+      "emotion": {
+        "sadness": 0.19643,
+        "joy": 0.454883,
+        "fear": 0.062121,
+        "disgust": 0.221225,
+        "anger": 0.15974
+      },
+      "count": 2
+    },
+    {
+      "text": "Serena Williams\u2019 Wedding",
+      "sentiment": {
+        "score": -0.891503,
+        "label": "negative"
+      },
+      "relevance": 0.654954,
+      "emotion": {
+        "sadness": 0.19643,
+        "joy": 0.454883,
+        "fear": 0.062121,
+        "disgust": 0.221225,
+        "anger": 0.15974
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.463507,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.638185,
+      "emotion": {
+        "sadness": 0.154954,
+        "joy": 0.623637,
+        "fear": 0.048788,
+        "disgust": 0.087526,
+        "anger": 0.122451
+      },
+      "count": 2
+    },
+    {
+      "text": "Keeping Up",
+      "sentiment": {
+        "score": -0.930925,
+        "label": "negative"
+      },
+      "relevance": 0.633232,
+      "emotion": {
+        "sadness": 0.507413,
+        "joy": 0.171767,
+        "fear": 0.14423,
+        "disgust": 0.196504,
+        "anger": 0.210031
+      },
+      "count": 1
+    },
+    {
+      "text": "ultimate goal",
+      "sentiment": {
+        "score": -0.572136,
+        "label": "negative"
+      },
+      "relevance": 0.630367,
+      "emotion": {
+        "sadness": 0.183454,
+        "joy": 0.301831,
+        "fear": 0.211117,
+        "disgust": 0.102536,
+        "anger": 0.416117
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": -0.040067,
+        "label": "negative"
+      },
+      "relevance": 0.883815,
+      "mentions": [
+        {
+          "text": "Serena Williams",
+          "location": [
+            75,
+            90
+          ]
+        },
+        {
+          "text": "Serena Williams",
+          "location": [
+            205,
+            220
+          ]
+        },
+        {
+          "text": "Serena",
+          "location": [
+            622,
+            628
+          ]
+        },
+        {
+          "text": "Williams",
+          "location": [
+            891,
+            899
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.150145,
+        "joy": 0.544827,
+        "fear": 0.062017,
+        "disgust": 0.152146,
+        "anger": 0.124377
+      },
+      "disambiguation": {
+        "subtype": [
+          "TennisPlayer",
+          "AwardWinner",
+          "Celebrity",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Serena Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.469729,
+        "label": "negative"
+      },
+      "relevance": 0.851155,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            22,
+            36
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            284,
+            298
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            679,
+            682
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            709,
+            712
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            764,
+            767
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217119,
+        "joy": 0.081741,
+        "fear": 0.217821,
+        "disgust": 0.43812,
+        "anger": 0.400614
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.538259,
+      "mentions": [
+        {
+          "text": "Anna Wintour",
+          "location": [
+            945,
+            957
+          ]
+        },
+        {
+          "text": "Wintour",
+          "location": [
+            1198,
+            1205
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist"
+        ],
+        "name": "Anna Wintour",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Alexis Ohanian",
+      "sentiment": {
+        "score": 0.389595,
+        "label": "positive"
+      },
+      "relevance": 0.527185,
+      "mentions": [
+        {
+          "text": "Alexis Ohanian",
+          "location": [
+            225,
+            239
+          ]
+        },
+        {
+          "text": "Ohanian",
+          "location": [
+            904,
+            911
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035946,
+        "joy": 0.741432,
+        "fear": 0.036154,
+        "disgust": 0.035849,
+        "anger": 0.09033
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alexis Ohanian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexis_Ohanian"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Anna Wintour",
+      "relevance": 0.950842,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.877916,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.803279,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.834356,
+      "label": "/sports/tennis"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1008,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.233302,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": -0.667939,
+        "label": "negative"
+      },
+      "relevance": 0.864719,
+      "emotion": {
+        "sadness": 0.32031,
+        "joy": 0.2368,
+        "fear": 0.040159,
+        "disgust": 0.456187,
+        "anger": 0.141266
+      },
+      "count": 1
+    },
+    {
+      "text": "Lady Gaga 's representative",
+      "sentiment": {
+        "score": -0.667939,
+        "label": "negative"
+      },
+      "relevance": 0.738769,
+      "emotion": {
+        "sadness": 0.406546,
+        "joy": 0.178829,
+        "fear": 0.054589,
+        "disgust": 0.422364,
+        "anger": 0.140896
+      },
+      "count": 1
+    },
+    {
+      "text": "fiance Taylor Kinney",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.637514,
+      "emotion": {
+        "sadness": 0.040141,
+        "joy": 0.527404,
+        "fear": 0.032498,
+        "disgust": 0.400537,
+        "anger": 0.123704
+      },
+      "count": 1
+    },
+    {
+      "text": "Daddy's Girl",
+      "sentiment": {
+        "score": 0.668096,
+        "label": "positive"
+      },
+      "relevance": 0.625343,
+      "emotion": {
+        "sadness": 0.276431,
+        "joy": 0.284895,
+        "fear": 0.070384,
+        "disgust": 0.156372,
+        "anger": 0.068423
+      },
+      "count": 1
+    },
+    {
+      "text": "post photographs of Gaga",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.619318,
+      "emotion": {
+        "sadness": 0.040141,
+        "joy": 0.527404,
+        "fear": 0.032498,
+        "disgust": 0.400537,
+        "anger": 0.123704
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": -0.275668,
+        "label": "negative"
+      },
+      "relevance": 0.883566,
+      "mentions": [
+        {
+          "text": "Lady Gaga",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Lady Gaga",
+          "location": [
+            60,
+            69
+          ]
+        },
+        {
+          "text": "Gaga",
+          "location": [
+            166,
+            170
+          ]
+        },
+        {
+          "text": "Gaga",
+          "location": [
+            350,
+            354
+          ]
+        },
+        {
+          "text": "Gaga",
+          "location": [
+            420,
+            424
+          ]
+        },
+        {
+          "text": "Gaga",
+          "location": [
+            566,
+            570
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            607,
+            610
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            697,
+            700
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.198739,
+        "joy": 0.603083,
+        "fear": 0.068979,
+        "disgust": 0.323855,
+        "anger": 0.124196
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lady Gaga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+      },
+      "count": 8
+    },
+    {
+      "type": "JobTitle",
+      "text": "representative",
+      "sentiment": {
+        "score": -0.323876,
+        "label": "negative"
+      },
+      "relevance": 0.373526,
+      "mentions": [
+        {
+          "text": "representative",
+          "location": [
+            32,
+            46
+          ]
+        },
+        {
+          "text": "representative",
+          "location": [
+            73,
+            87
+          ]
+        },
+        {
+          "text": "representative",
+          "location": [
+            357,
+            371
+          ]
+        },
+        {
+          "text": "representative",
+          "location": [
+            377,
+            391
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.358853,
+        "joy": 0.101483,
+        "fear": 0.032071,
+        "disgust": 0.567303,
+        "anger": 0.146922
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Kinney",
+      "sentiment": {
+        "score": -0.323876,
+        "label": "negative"
+      },
+      "relevance": 0.126954,
+      "mentions": [
+        {
+          "text": "Taylor Kinney",
+          "location": [
+            466,
+            479
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16045,
+        "joy": 0.068489,
+        "fear": 0.03463,
+        "disgust": 0.351179,
+        "anger": 0.090517
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Taylor Kinney",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Kinney"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "LOS ANGELES",
+      "sentiment": {
+        "score": -0.246801,
+        "label": "negative"
+      },
+      "relevance": 0.122132,
+      "mentions": [
+        {
+          "text": "LOS ANGELES",
+          "location": [
+            47,
+            58
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151276,
+        "joy": 0.187649,
+        "fear": 0.096055,
+        "disgust": 0.079231,
+        "anger": 0.110177
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.218167,
+        "label": "negative"
+      },
+      "relevance": 0.110587,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            535,
+            542
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.210316,
+        "joy": 0.251399,
+        "fear": 0.043174,
+        "disgust": 0.42046,
+        "anger": 0.235345
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Malibu Creek State Park",
+      "relevance": 0.900007,
+      "dbpedia_resource": "http://dbpedia.org/resource/Malibu_Creek_State_Park"
+    },
+    {
+      "text": "Photograph",
+      "relevance": 0.869398,
+      "dbpedia_resource": "http://dbpedia.org/resource/Photograph"
+    },
+    {
+      "text": "Lady Gaga",
+      "relevance": 0.8188,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+      "text": "Malibu, California",
+      "relevance": 0.817873,
+      "dbpedia_resource": "http://dbpedia.org/resource/Malibu,_California"
+    },
+    {
+      "text": "Report",
+      "relevance": 0.814695,
+      "dbpedia_resource": "http://dbpedia.org/resource/Report"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.594176,
+      "label": "/style and fashion"
+    }
+  ]
+}

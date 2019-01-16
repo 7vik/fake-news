@@ -1,0 +1,277 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 643,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.840738,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kardashian-Jenner clan\u2019s relationship",
+      "sentiment": {
+        "score": -0.846922,
+        "label": "negative"
+      },
+      "relevance": 0.893083,
+      "emotion": {
+        "sadness": 0.743414,
+        "joy": 0.064589,
+        "fear": 0.1083,
+        "disgust": 0.11022,
+        "anger": 0.134567
+      },
+      "count": 1
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "sentiment": {
+        "score": -0.909637,
+        "label": "negative"
+      },
+      "relevance": 0.788881,
+      "emotion": {
+        "sadness": 0.434436,
+        "joy": 0.378928,
+        "fear": 0.064963,
+        "disgust": 0.101174,
+        "anger": 0.130653
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.87259,
+        "label": "negative"
+      },
+      "relevance": 0.76327,
+      "emotion": {
+        "sadness": 0.223438,
+        "joy": 0.379715,
+        "fear": 0.114245,
+        "disgust": 0.155074,
+        "anger": 0.172315
+      },
+      "count": 1
+    },
+    {
+      "text": "Blac Chyna",
+      "sentiment": {
+        "score": -0.87259,
+        "label": "negative"
+      },
+      "relevance": 0.756964,
+      "emotion": {
+        "sadness": 0.223438,
+        "joy": 0.379715,
+        "fear": 0.114245,
+        "disgust": 0.155074,
+        "anger": 0.172315
+      },
+      "count": 1
+    },
+    {
+      "text": "Rob Kardashian",
+      "sentiment": {
+        "score": -0.87259,
+        "label": "negative"
+      },
+      "relevance": 0.688574,
+      "emotion": {
+        "sadness": 0.223438,
+        "joy": 0.379715,
+        "fear": 0.114245,
+        "disgust": 0.155074,
+        "anger": 0.172315
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.839529,
+        "label": "negative"
+      },
+      "relevance": 0.951487,
+      "mentions": [
+        {
+          "text": "Kendall",
+          "location": [
+            5,
+            12
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            364,
+            378
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.574531,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            255,
+            267
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Scott Disick",
+      "sentiment": {
+        "score": -0.839529,
+        "label": "negative"
+      },
+      "relevance": 0.496669,
+      "emotion": {
+        "sadness": 0.195079,
+        "joy": 0.313112,
+        "fear": 0.090095,
+        "disgust": 0.107693,
+        "anger": 0.155962
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Rob Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.377476,
+      "mentions": [
+        {
+          "text": "Rob Kardashian",
+          "location": [
+            236,
+            250
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality"
+        ],
+        "name": "Rob Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Blac Chyna",
+      "sentiment": {
+        "score": -0.839529,
+        "label": "negative"
+      },
+      "relevance": 0.377003,
+      "mentions": [
+        {
+          "text": "Blac Chyna",
+          "location": [
+            295,
+            305
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.195079,
+        "joy": 0.313112,
+        "fear": 0.090095,
+        "disgust": 0.107693,
+        "anger": 0.155962
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.960693,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.825378,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.817086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.815,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.798978,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.657132,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

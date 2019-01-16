@@ -1,0 +1,367 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1163,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.621446,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Diane Kruger",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.785075,
+      "emotion": {
+        "sadness": 0.06811,
+        "joy": 0.751412,
+        "fear": 0.007141,
+        "disgust": 0.093337,
+        "anger": 0.062292
+      },
+      "count": 1
+    },
+    {
+      "text": "Cancer event",
+      "sentiment": {
+        "score": -0.934361,
+        "label": "negative"
+      },
+      "relevance": 0.639446,
+      "emotion": {
+        "sadness": 0.439329,
+        "joy": 0.322402,
+        "fear": 0.179831,
+        "disgust": 0.080424,
+        "anger": 0.019886
+      },
+      "count": 1
+    },
+    {
+      "text": "Reese Witherspoon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.626108,
+      "emotion": {
+        "sadness": 0.06811,
+        "joy": 0.751412,
+        "fear": 0.007141,
+        "disgust": 0.093337,
+        "anger": 0.062292
+      },
+      "count": 1
+    },
+    {
+      "text": "Tuesday night",
+      "sentiment": {
+        "score": -0.934361,
+        "label": "negative"
+      },
+      "relevance": 0.619526,
+      "emotion": {
+        "sadness": 0.439329,
+        "joy": 0.322402,
+        "fear": 0.179831,
+        "disgust": 0.080424,
+        "anger": 0.019886
+      },
+      "count": 1
+    },
+    {
+      "text": "Tuesday evening",
+      "sentiment": {
+        "score": -0.727294,
+        "label": "negative"
+      },
+      "relevance": 0.61724,
+      "emotion": {
+        "sadness": 0.079243,
+        "joy": 0.607568,
+        "fear": 0.150313,
+        "disgust": 0.147411,
+        "anger": 0.08745
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Diane Kruger",
+      "sentiment": {
+        "score": 0.118708,
+        "label": "positive"
+      },
+      "relevance": 0.815252,
+      "mentions": [
+        {
+          "text": "Diane Kruger",
+          "location": [
+            257,
+            269
+          ]
+        },
+        {
+          "text": "Diane",
+          "location": [
+            842,
+            847
+          ]
+        },
+        {
+          "text": "Diane",
+          "location": [
+            899,
+            904
+          ]
+        },
+        {
+          "text": "Diane",
+          "location": [
+            1022,
+            1027
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.127116,
+        "joy": 0.62423,
+        "fear": 0.143437,
+        "disgust": 0.159153,
+        "anger": 0.121005
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Diane Kruger",
+        "dbpedia_resource": "http://dbpedia.org/resource/Diane_Kruger"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Gwyneth Paltrow",
+      "sentiment": {
+        "score": -0.315319,
+        "label": "negative"
+      },
+      "relevance": 0.711929,
+      "mentions": [
+        {
+          "text": "Gwyneth Paltrow",
+          "location": [
+            368,
+            383
+          ]
+        },
+        {
+          "text": "Gwyneth",
+          "location": [
+            385,
+            392
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            393,
+            400
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.672144,
+        "joy": 0.056494,
+        "fear": 0.030815,
+        "disgust": 0.408598,
+        "anger": 0.040305
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "MusicalGroupMember",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Gwyneth Paltrow",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gwyneth_Paltrow"
+      },
+      "count": 3
+    },
+    {
+      "type": "HealthCondition",
+      "text": "Cancer",
+      "sentiment": {
+        "score": 0.52029,
+        "label": "positive"
+      },
+      "relevance": 0.614159,
+      "emotion": {
+        "sadness": 0.061177,
+        "joy": 0.749207,
+        "fear": 0.025633,
+        "disgust": 0.050515,
+        "anger": 0.050448
+      },
+      "disambiguation": {
+        "subtype": [
+          "FieldOfStudy",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "MedicalSpecialty",
+          "RiskFactor",
+          "Disease"
+        ],
+        "name": "Cancer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cancer"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Anne Hathaway",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.569326,
+      "mentions": [
+        {
+          "text": "Anne Hathaway",
+          "location": [
+            570,
+            583
+          ]
+        },
+        {
+          "text": "Anne",
+          "location": [
+            771,
+            775
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            804,
+            807
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.459994,
+        "joy": 0.372128,
+        "fear": 0.155577,
+        "disgust": 0.04425,
+        "anger": 0.059005
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Anne Hathaway",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anne_Hathaway"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Joshua Jackson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.478537,
+      "mentions": [
+        {
+          "text": "Joshua Jackson",
+          "location": [
+            274,
+            288
+          ]
+        },
+        {
+          "text": "Joshua",
+          "location": [
+            852,
+            858
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.055911,
+        "joy": 0.550528,
+        "fear": 0.094552,
+        "disgust": 0.040086,
+        "anger": 0.075101
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Joshua Jackson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Joshua_Jackson"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.989559,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.829155,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American child actors",
+      "relevance": 0.665954,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_child_actors"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.588521,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture",
+      "relevance": 0.530145,
+      "dbpedia_resource": "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.716951,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997947,
+      "emotion": {
+        "sadness": 0.073187,
+        "joy": 0.228722,
+        "fear": 0.133982,
+        "disgust": 0.385092,
+        "anger": 0.033561
+      },
+      "count": 1
+    },
+    {
+      "text": "Baby",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.073187,
+        "joy": 0.228722,
+        "fear": 0.133982,
+        "disgust": 0.385092,
+        "anger": 0.033561
+      },
+      "count": 1
+    },
+    {
+      "text": "Anna Faris Pregnant",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.441762,
+      "emotion": {
+        "sadness": 0.073187,
+        "joy": 0.228722,
+        "fear": 0.133982,
+        "disgust": 0.385092,
+        "anger": 0.033561
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chris Pratt",
+          "location": [
+            4,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074032,
+        "joy": 0.333202,
+        "fear": 0.117527,
+        "disgust": 0.342723,
+        "anger": 0.026773
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Pratt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anna Faris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anna Faris",
+          "location": [
+            18,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074032,
+        "joy": 0.333202,
+        "fear": 0.117527,
+        "disgust": 0.342723,
+        "anger": 0.026773
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Anna Faris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Anna Faris",
+      "relevance": 0.94772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+    },
+    {
+      "text": "Chris Pratt",
+      "relevance": 0.610961,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.786494,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

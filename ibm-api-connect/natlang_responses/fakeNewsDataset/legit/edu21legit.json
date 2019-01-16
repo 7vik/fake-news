@@ -1,0 +1,207 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 554,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.355948,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "High school students",
+      "sentiment": {
+        "score": -0.576066,
+        "label": "negative"
+      },
+      "relevance": 0.846238,
+      "emotion": {
+        "sadness": 0.272987,
+        "joy": 0.651705,
+        "fear": 0.034758,
+        "disgust": 0.034818,
+        "anger": 0.024184
+      },
+      "count": 1
+    },
+    {
+      "text": "campus life",
+      "sentiment": {
+        "score": 0.410254,
+        "label": "positive"
+      },
+      "relevance": 0.709747,
+      "emotion": {
+        "sadness": 0.272987,
+        "joy": 0.651705,
+        "fear": 0.034758,
+        "disgust": 0.034818,
+        "anger": 0.024184
+      },
+      "count": 1
+    },
+    {
+      "text": "First Year College Experience survey",
+      "sentiment": {
+        "score": 0.410254,
+        "label": "positive"
+      },
+      "relevance": 0.687567,
+      "emotion": {
+        "sadness": 0.272987,
+        "joy": 0.651705,
+        "fear": 0.034758,
+        "disgust": 0.034818,
+        "anger": 0.024184
+      },
+      "count": 1
+    },
+    {
+      "text": "JED Foundation",
+      "sentiment": {
+        "score": 0.410254,
+        "label": "positive"
+      },
+      "relevance": 0.616125,
+      "emotion": {
+        "sadness": 0.272987,
+        "joy": 0.651705,
+        "fear": 0.034758,
+        "disgust": 0.034818,
+        "anger": 0.024184
+      },
+      "count": 1
+    },
+    {
+      "text": "new national survey",
+      "sentiment": {
+        "score": 0.410254,
+        "label": "positive"
+      },
+      "relevance": 0.589158,
+      "emotion": {
+        "sadness": 0.272987,
+        "joy": 0.651705,
+        "fear": 0.034758,
+        "disgust": 0.034818,
+        "anger": 0.024184
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "JED Foundation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.902562,
+      "mentions": [
+        {
+          "text": "JED Foundation",
+          "location": [
+            363,
+            377
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10862,
+        "joy": 0.327731,
+        "fear": 0.073381,
+        "disgust": 0.158455,
+        "anger": 0.061897
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Jed Foundation",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Jed_Foundation"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "The Jordan Porco Foundation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.870508,
+      "mentions": [
+        {
+          "text": "The Jordan Porco Foundation",
+          "location": [
+            415,
+            442
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110406,
+        "joy": 0.422051,
+        "fear": 0.040238,
+        "disgust": 0.164724,
+        "anger": 0.05861
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "60 percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.870508,
+      "mentions": [
+        {
+          "text": "60 percent",
+          "location": [
+            455,
+            465
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.970908,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Israel",
+      "relevance": 0.665599,
+      "dbpedia_resource": "http://dbpedia.org/resource/Israel"
+    },
+    {
+      "text": "University",
+      "relevance": 0.628467,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "College",
+      "relevance": 0.626605,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Harris Interactive",
+      "relevance": 0.5196,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harris_Interactive"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.948983,
+      "label": "/education/graduate school/college"
+    }
+  ]
+}

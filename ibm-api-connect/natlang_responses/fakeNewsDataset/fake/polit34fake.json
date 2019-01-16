@@ -1,0 +1,376 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 915,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.811487,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "FBI Director James Comey",
+      "sentiment": {
+        "score": -0.973876,
+        "label": "negative"
+      },
+      "relevance": 0.822944,
+      "emotion": {
+        "sadness": 0.482418,
+        "joy": 0.086037,
+        "fear": 0.250672,
+        "disgust": 0.17711,
+        "anger": 0.083086
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.703596,
+        "label": "negative"
+      },
+      "relevance": 0.71409,
+      "emotion": {
+        "sadness": 0.292279,
+        "joy": 0.268956,
+        "fear": 0.160854,
+        "disgust": 0.168758,
+        "anger": 0.171444
+      },
+      "count": 1
+    },
+    {
+      "text": "former vice president",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.680974,
+      "emotion": {
+        "sadness": 0.258017,
+        "joy": 0.38267,
+        "fear": 0.065246,
+        "disgust": 0.084712,
+        "anger": 0.145078
+      },
+      "count": 1
+    },
+    {
+      "text": "wiretap of Trump Tower",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.658573,
+      "emotion": {
+        "sadness": 0.449562,
+        "joy": 0.096996,
+        "fear": 0.246439,
+        "disgust": 0.256337,
+        "anger": 0.109085
+      },
+      "count": 1
+    },
+    {
+      "text": "Obama administration",
+      "sentiment": {
+        "score": -0.973876,
+        "label": "negative"
+      },
+      "relevance": 0.657823,
+      "emotion": {
+        "sadness": 0.482418,
+        "joy": 0.086037,
+        "fear": 0.250672,
+        "disgust": 0.17711,
+        "anger": 0.083086
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.425245,
+        "label": "negative"
+      },
+      "relevance": 0.945589,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            7,
+            12
+          ]
+        },
+        {
+          "text": "President Donald Trump",
+          "location": [
+            58,
+            80
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            123,
+            125
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            432,
+            447
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            526,
+            528
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.339529,
+        "joy": 0.225021,
+        "fear": 0.061239,
+        "disgust": 0.229682,
+        "anger": 0.273335
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 5
+    },
+    {
+      "type": "Facility",
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": -0.252087,
+        "label": "negative"
+      },
+      "relevance": 0.657368,
+      "mentions": [
+        {
+          "text": "Trump Tower",
+          "location": [
+            228,
+            239
+          ]
+        },
+        {
+          "text": "Trump Tower",
+          "location": [
+            340,
+            351
+          ]
+        },
+        {
+          "text": "Trump Tower",
+          "location": [
+            591,
+            602
+          ]
+        },
+        {
+          "text": "Trump Tower",
+          "location": [
+            902,
+            913
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.333679,
+        "joy": 0.088091,
+        "fear": 0.215962,
+        "disgust": 0.159251,
+        "anger": 0.095727
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Company",
+          "Building"
+        ],
+        "name": "Trump Tower (Philadelphia)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Trump_Tower_(Philadelphia)"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "surveilled Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.304662,
+      "mentions": [
+        {
+          "text": "surveilled Trump",
+          "location": [
+            755,
+            771
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.408074,
+        "joy": 0.069669,
+        "fear": 0.136035,
+        "disgust": 0.280932,
+        "anger": 0.270355
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Joe Biden",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.215647,
+      "mentions": [
+        {
+          "text": "Biden",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Joe Biden",
+          "location": [
+            43,
+            52
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252798,
+        "joy": 0.313848,
+        "fear": 0.148577,
+        "disgust": 0.151354,
+        "anger": 0.180222
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Celebrity",
+          "CompanyFounder",
+          "FootballPlayer",
+          "OperaCharacter",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USVicePresident"
+        ],
+        "name": "Joe Biden",
+        "dbpedia_resource": "http://dbpedia.org/resource/Joe_Biden"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Obama",
+      "sentiment": {
+        "score": 0.377293,
+        "label": "positive"
+      },
+      "relevance": 0.209199,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            195,
+            200
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            538,
+            543
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.299143,
+        "joy": 0.110316,
+        "fear": 0.040602,
+        "disgust": 0.152009,
+        "anger": 0.08297
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Democratic Party",
+      "relevance": 0.989541,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.931264,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Vice President of the United States",
+      "relevance": 0.877252,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vice_President_of_the_United_States"
+    },
+    {
+      "text": "Joe Biden",
+      "relevance": 0.864247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Joe_Biden"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.764918,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.793311,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

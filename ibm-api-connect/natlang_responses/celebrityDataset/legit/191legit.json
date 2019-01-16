@@ -1,0 +1,183 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 91,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.972608,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kardashian slams haters",
+      "sentiment": {
+        "score": -0.972608,
+        "label": "negative"
+      },
+      "relevance": 0.979914,
+      "emotion": {
+        "sadness": 0.373932,
+        "joy": 0.033329,
+        "fear": 0.031369,
+        "disgust": 0.257911,
+        "anger": 0.571352
+      },
+      "count": 1
+    },
+    {
+      "text": "parole",
+      "sentiment": {
+        "score": -0.972608,
+        "label": "negative"
+      },
+      "relevance": 0.564564,
+      "emotion": {
+        "sadness": 0.373932,
+        "joy": 0.033329,
+        "fear": 0.031369,
+        "disgust": 0.257911,
+        "anger": 0.571352
+      },
+      "count": 1
+    },
+    {
+      "text": "OJ Simpson",
+      "sentiment": {
+        "score": -0.972608,
+        "label": "negative"
+      },
+      "relevance": 0.513548,
+      "emotion": {
+        "sadness": 0.373932,
+        "joy": 0.033329,
+        "fear": 0.031369,
+        "disgust": 0.257911,
+        "anger": 0.571352
+      },
+      "count": 1
+    },
+    {
+      "text": "Khloe",
+      "sentiment": {
+        "score": -0.972608,
+        "label": "negative"
+      },
+      "relevance": 0.221808,
+      "emotion": {
+        "sadness": 0.373932,
+        "joy": 0.033329,
+        "fear": 0.031369,
+        "disgust": 0.257911,
+        "anger": 0.571352
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "OJ Simpson",
+      "sentiment": {
+        "score": -0.634869,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "OJ Simpson",
+          "location": [
+            61,
+            71
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.373932,
+        "joy": 0.033329,
+        "fear": 0.031369,
+        "disgust": 0.257911,
+        "anger": 0.571352
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Criminal",
+          "FootballPlayer",
+          "HallOfFameInductee",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "O. J. Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Khloe Kardashian",
+      "sentiment": {
+        "score": -0.634869,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Khloe Kardashian",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.373932,
+        "joy": 0.033329,
+        "fear": 0.031369,
+        "disgust": 0.257911,
+        "anger": 0.571352
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Khlo\u00e9 Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "O. J. Simpson murder case",
+      "relevance": 0.835167,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson_murder_case"
+    },
+    {
+      "text": "O. J. Simpson",
+      "relevance": 0.627417,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.663863,
+      "label": "/sports/fishing"
+    }
+  ]
+}

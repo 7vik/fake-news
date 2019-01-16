@@ -1,0 +1,247 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.717498,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mel Gibson",
+      "sentiment": {
+        "score": 0.717498,
+        "label": "positive"
+      },
+      "relevance": 0.996641,
+      "emotion": {
+        "sadness": 0.513014,
+        "joy": 0.107936,
+        "fear": 0.033647,
+        "disgust": 0.103169,
+        "anger": 0.127373
+      },
+      "count": 1
+    },
+    {
+      "text": "Casey Affleck",
+      "sentiment": {
+        "score": 0.717498,
+        "label": "positive"
+      },
+      "relevance": 0.982157,
+      "emotion": {
+        "sadness": 0.513014,
+        "joy": 0.107936,
+        "fear": 0.033647,
+        "disgust": 0.103169,
+        "anger": 0.127373
+      },
+      "count": 1
+    },
+    {
+      "text": "Oscars",
+      "sentiment": {
+        "score": 0.717498,
+        "label": "positive"
+      },
+      "relevance": 0.827545,
+      "emotion": {
+        "sadness": 0.513014,
+        "joy": 0.107936,
+        "fear": 0.033647,
+        "disgust": 0.103169,
+        "anger": 0.127373
+      },
+      "count": 1
+    },
+    {
+      "text": "Hollywood",
+      "sentiment": {
+        "score": 0.717498,
+        "label": "positive"
+      },
+      "relevance": 0.618372,
+      "emotion": {
+        "sadness": 0.513014,
+        "joy": 0.107936,
+        "fear": 0.033647,
+        "disgust": 0.103169,
+        "anger": 0.127373
+      },
+      "count": 1
+    },
+    {
+      "text": "Scale of Moral Punishment",
+      "sentiment": {
+        "score": 0.717498,
+        "label": "positive"
+      },
+      "relevance": 0.394596,
+      "emotion": {
+        "sadness": 0.513014,
+        "joy": 0.107936,
+        "fear": 0.033647,
+        "disgust": 0.103169,
+        "anger": 0.127373
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mel Gibson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Mel Gibson",
+          "location": [
+            8,
+            18
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Mel Gibson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mel_Gibson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Casey Affleck",
+      "sentiment": {
+        "score": -0.578046,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Casey Affleck",
+          "location": [
+            20,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.426116,
+        "joy": 0.097816,
+        "fear": 0.099345,
+        "disgust": 0.055026,
+        "anger": 0.152939
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Casey Affleck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Casey_Affleck"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": -0.578046,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            38,
+            47
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Casey Affleck",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Casey_Affleck"
+    },
+    {
+      "text": "Academy Award for Best Supporting Actor",
+      "relevance": 0.866308,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor"
+    },
+    {
+      "text": "Mel Gibson",
+      "relevance": 0.842041,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mel_Gibson"
+    },
+    {
+      "text": "MTV Movie Award for Best On-Screen Duo",
+      "relevance": 0.803779,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Movie_Award_for_Best_On-Screen_Duo"
+    },
+    {
+      "text": "Gone Baby Gone",
+      "relevance": 0.783103,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gone_Baby_Gone"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.977853,
+      "label": "/art and entertainment/movies/film festivals and awards"
+    }
+  ]
+}

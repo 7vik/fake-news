@@ -1,0 +1,323 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 819,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.632601,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Personal problems",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.937018,
+      "emotion": {
+        "sadness": 0.143621,
+        "joy": 0.4495,
+        "fear": 0.106558,
+        "disgust": 0.077481,
+        "anger": 0.137305
+      },
+      "count": 1
+    },
+    {
+      "text": "Was Maks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.932487,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    },
+    {
+      "text": "dance floor",
+      "sentiment": {
+        "score": -0.759336,
+        "label": "negative"
+      },
+      "relevance": 0.763124,
+      "emotion": {
+        "sadness": 0.232369,
+        "joy": 0.190025,
+        "fear": 0.304718,
+        "disgust": 0.108813,
+        "anger": 0.344169
+      },
+      "count": 1
+    },
+    {
+      "text": "Maks' absence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.69997,
+      "emotion": {
+        "sadness": 0.170013,
+        "joy": 0.238023,
+        "fear": 0.216408,
+        "disgust": 0.104207,
+        "anger": 0.114546
+      },
+      "count": 1
+    },
+    {
+      "text": "personal issue",
+      "sentiment": {
+        "score": -0.580956,
+        "label": "negative"
+      },
+      "relevance": 0.665045,
+      "emotion": {
+        "sadness": 0.337177,
+        "joy": 0.392723,
+        "fear": 0.181262,
+        "disgust": 0.03174,
+        "anger": 0.113788
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Maks",
+      "sentiment": {
+        "score": 0.514166,
+        "label": "positive"
+      },
+      "relevance": 0.858349,
+      "mentions": [
+        {
+          "text": "Maks",
+          "location": [
+            345,
+            349
+          ]
+        },
+        {
+          "text": "Maks",
+          "location": [
+            551,
+            555
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            624,
+            628
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.397577,
+        "joy": 0.403468,
+        "fear": 0.082752,
+        "disgust": 0.039242,
+        "anger": 0.125168
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Vanessa",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.587198,
+      "mentions": [
+        {
+          "text": "Vanessa",
+          "location": [
+            423,
+            430
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            441,
+            444
+          ]
+        },
+        {
+          "text": "Vanessa",
+          "location": [
+            608,
+            615
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Vanessa-Mae",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vanessa-Mae"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Vanessa Lachey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.500369,
+      "mentions": [
+        {
+          "text": "Vanessa Lachey",
+          "location": [
+            247,
+            261
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109254,
+        "joy": 0.779116,
+        "fear": 0.016472,
+        "disgust": 0.048251,
+        "anger": 0.0146
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Vanessa Minnillo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vanessa_Minnillo"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alan Bersten",
+      "sentiment": {
+        "score": 0.514166,
+        "label": "positive"
+      },
+      "relevance": 0.402825,
+      "mentions": [
+        {
+          "text": "Alan Bersten",
+          "location": [
+            198,
+            210
+          ]
+        },
+        {
+          "text": "Alan",
+          "location": [
+            386,
+            390
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.150308,
+        "joy": 0.730029,
+        "fear": 0.025328,
+        "disgust": 0.035736,
+        "anger": 0.030386
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Maksim Chmerkovskiy",
+      "sentiment": {
+        "score": -0.312426,
+        "label": "negative"
+      },
+      "relevance": 0.375889,
+      "mentions": [
+        {
+          "text": "Maksim Chmerkovskiy",
+          "location": [
+            80,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162016,
+        "joy": 0.514615,
+        "fear": 0.153814,
+        "disgust": 0.014698,
+        "anger": 0.058123
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ],
+        "name": "Maksim Chmerkovskiy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Maksim_Chmerkovskiy"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Maksim Chmerkovskiy",
+      "relevance": 0.976114,
+      "dbpedia_resource": "http://dbpedia.org/resource/Maksim_Chmerkovskiy"
+    },
+    {
+      "text": "Dance",
+      "relevance": 0.802575,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dance"
+    },
+    {
+      "text": "Psychology",
+      "relevance": 0.778625,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+      "text": "Erin Andrews",
+      "relevance": 0.738601,
+      "dbpedia_resource": "http://dbpedia.org/resource/Erin_Andrews"
+    },
+    {
+      "text": "Given names",
+      "relevance": 0.685463,
+      "dbpedia_resource": "http://dbpedia.org/resource/Given_names"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.86591,
+      "label": "/art and entertainment/dance"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 567,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.368533,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Antonio Conte",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978046,
+      "emotion": {
+        "sadness": 0.429808,
+        "joy": 0.139353,
+        "fear": 0.171331,
+        "disgust": 0.200907,
+        "anger": 0.285468
+      },
+      "count": 1
+    },
+    {
+      "text": "Stamford Bridge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.773648,
+      "emotion": {
+        "sadness": 0.429808,
+        "joy": 0.139353,
+        "fear": 0.171331,
+        "disgust": 0.200907,
+        "anger": 0.285468
+      },
+      "count": 1
+    },
+    {
+      "text": "Chelsea Reverse Decision",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.653598,
+      "emotion": {
+        "sadness": 0.230749,
+        "joy": 0.2583,
+        "fear": 0.073511,
+        "disgust": 0.11525,
+        "anger": 0.197108
+      },
+      "count": 1
+    },
+    {
+      "text": "director Marina Granovskaia",
+      "sentiment": {
+        "score": 0.55521,
+        "label": "positive"
+      },
+      "relevance": 0.640721,
+      "emotion": {
+        "sadness": 0.152221,
+        "joy": 0.090147,
+        "fear": 0.038927,
+        "disgust": 0.144044,
+        "anger": 0.066326
+      },
+      "count": 1
+    },
+    {
+      "text": "Conte",
+      "sentiment": {
+        "score": 0.55521,
+        "label": "positive"
+      },
+      "relevance": 0.573053,
+      "emotion": {
+        "sadness": 0.313767,
+        "joy": 0.132434,
+        "fear": 0.085678,
+        "disgust": 0.255944,
+        "anger": 0.203846
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Alexis Sanchez",
+      "sentiment": {
+        "score": 0.433113,
+        "label": "positive"
+      },
+      "relevance": 0.86402,
+      "mentions": [
+        {
+          "text": "Alexis Sanchez",
+          "location": [
+            43,
+            57
+          ]
+        },
+        {
+          "text": "Alexis Sanchez",
+          "location": [
+            118,
+            132
+          ]
+        },
+        {
+          "text": "Sanchez",
+          "location": [
+            540,
+            547
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.184435,
+        "joy": 0.207311,
+        "fear": 0.075849,
+        "disgust": 0.105176,
+        "anger": 0.257577
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alexis S\u00e1nchez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexis_S\u00e1nchez"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Antonio Conte",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.484742,
+      "mentions": [
+        {
+          "text": "Antonio Conte",
+          "location": [
+            233,
+            246
+          ]
+        },
+        {
+          "text": "Conte",
+          "location": [
+            394,
+            399
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.041612,
+        "joy": 0.329192,
+        "fear": 0.025611,
+        "disgust": 0.138892,
+        "anger": 0.126845
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Antonio Conte",
+        "dbpedia_resource": "http://dbpedia.org/resource/Antonio_Conte"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Chelsea",
+      "sentiment": {
+        "score": -0.701227,
+        "label": "negative"
+      },
+      "relevance": 0.471595,
+      "mentions": [
+        {
+          "text": "Chelsea",
+          "location": [
+            78,
+            85
+          ]
+        },
+        {
+          "text": "Chelsea",
+          "location": [
+            348,
+            355
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.33966,
+        "joy": 0.12531,
+        "fear": 0.144516,
+        "disgust": 0.139228,
+        "anger": 0.381362
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Chelsea",
+      "sentiment": {
+        "score": 0.433113,
+        "label": "positive"
+      },
+      "relevance": 0.418106,
+      "mentions": [
+        {
+          "text": "Chelsea",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.33966,
+        "joy": 0.12531,
+        "fear": 0.144516,
+        "disgust": 0.139228,
+        "anger": 0.381362
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Arsenal",
+      "sentiment": {
+        "score": 0.433113,
+        "label": "positive"
+      },
+      "relevance": 0.399527,
+      "mentions": [
+        {
+          "text": "Arsenal",
+          "location": [
+            33,
+            40
+          ]
+        },
+        {
+          "text": "Arsenal",
+          "location": [
+            108,
+            115
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Chelsea F.C.",
+      "relevance": 0.97321,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chelsea_F.C."
+    },
+    {
+      "text": "Reverse",
+      "relevance": 0.79065,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reverse"
+    },
+    {
+      "text": "Stamford Bridge",
+      "relevance": 0.743233,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stamford_Bridge_(stadium)"
+    },
+    {
+      "text": "Chelsea, London",
+      "relevance": 0.666862,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chelsea,_London"
+    },
+    {
+      "text": "FA Cup",
+      "relevance": 0.604705,
+      "dbpedia_resource": "http://dbpedia.org/resource/FA_Cup"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.918618,
+      "label": "/sports/soccer"
+    }
+  ]
+}

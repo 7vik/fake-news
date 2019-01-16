@@ -1,0 +1,192 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 96,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.839973,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Nicole Kidman Charmingly Bungles",
+      "sentiment": {
+        "score": 0.839973,
+        "label": "positive"
+      },
+      "relevance": 0.999177,
+      "emotion": {
+        "sadness": 0.050771,
+        "joy": 0.398179,
+        "fear": 0.009953,
+        "disgust": 0.193515,
+        "anger": 0.086764
+      },
+      "count": 1
+    },
+    {
+      "text": "Comment",
+      "sentiment": {
+        "score": 0.839973,
+        "label": "positive"
+      },
+      "relevance": 0.636757,
+      "emotion": {
+        "sadness": 0.050771,
+        "joy": 0.398179,
+        "fear": 0.009953,
+        "disgust": 0.193515,
+        "anger": 0.086764
+      },
+      "count": 1
+    },
+    {
+      "text": "Emmys",
+      "sentiment": {
+        "score": 0.839973,
+        "label": "positive"
+      },
+      "relevance": 0.564564,
+      "emotion": {
+        "sadness": 0.050771,
+        "joy": 0.398179,
+        "fear": 0.009953,
+        "disgust": 0.193515,
+        "anger": 0.086764
+      },
+      "count": 1
+    },
+    {
+      "text": "Alexander Skarsg\u00e5rd Kiss",
+      "sentiment": {
+        "score": 0.839973,
+        "label": "positive"
+      },
+      "relevance": 0.405694,
+      "emotion": {
+        "sadness": 0.050771,
+        "joy": 0.398179,
+        "fear": 0.009953,
+        "disgust": 0.193515,
+        "anger": 0.086764
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nicole Kidman",
+      "sentiment": {
+        "score": 0.970267,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Nicole Kidman",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.050771,
+        "joy": 0.398179,
+        "fear": 0.009953,
+        "disgust": 0.193515,
+        "anger": 0.086764
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Nicole Kidman",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nicole_Kidman"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alexander Skarsg\u00e5rd",
+      "sentiment": {
+        "score": 0.970267,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Alexander Skarsg\u00e5rd",
+          "location": [
+            58,
+            77
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.050771,
+        "joy": 0.398179,
+        "fear": 0.009953,
+        "disgust": 0.193515,
+        "anger": 0.086764
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "FilmActor",
+          "FilmDirector",
+          "TVActor"
+        ],
+        "name": "Alexander Skarsg\u00e5rd",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexander_Skarsg\u00e5rd"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nicole Kidman",
+      "relevance": 0.927585,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicole_Kidman"
+    },
+    {
+      "text": "Happy Feet",
+      "relevance": 0.733633,
+      "dbpedia_resource": "http://dbpedia.org/resource/Happy_Feet"
+    },
+    {
+      "text": "Lenny Kravitz",
+      "relevance": 0.67453,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lenny_Kravitz"
+    },
+    {
+      "text": "Prince",
+      "relevance": 0.651233,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_(musician)"
+    },
+    {
+      "text": "Moulin Rouge!",
+      "relevance": 0.648,
+      "dbpedia_resource": "http://dbpedia.org/resource/Moulin_Rouge!"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.589661,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

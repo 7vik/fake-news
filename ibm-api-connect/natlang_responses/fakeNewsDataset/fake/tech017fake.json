@@ -1,0 +1,206 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 574,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.930503,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lower-end iPads",
+      "sentiment": {
+        "score": -0.930503,
+        "label": "negative"
+      },
+      "relevance": 0.86931,
+      "emotion": {
+        "sadness": 0.374641,
+        "joy": 0.049078,
+        "fear": 0.140625,
+        "disgust": 0.136945,
+        "anger": 0.139809
+      },
+      "count": 1
+    },
+    {
+      "text": "lower-end iPad models",
+      "sentiment": {
+        "score": -0.930503,
+        "label": "negative"
+      },
+      "relevance": 0.814743,
+      "emotion": {
+        "sadness": 0.591975,
+        "joy": 0.061704,
+        "fear": 0.06467,
+        "disgust": 0.120396,
+        "anger": 0.095501
+      },
+      "count": 1
+    },
+    {
+      "text": "greater variety of colors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.676179,
+      "emotion": {
+        "sadness": 0.019425,
+        "joy": 0.856027,
+        "fear": 0.013962,
+        "disgust": 0.012423,
+        "anger": 0.022216
+      },
+      "count": 1
+    },
+    {
+      "text": "iPad",
+      "sentiment": {
+        "score": -0.930503,
+        "label": "negative"
+      },
+      "relevance": 0.627752,
+      "emotion": {
+        "sadness": 0.564637,
+        "joy": 0.049621,
+        "fear": 0.078753,
+        "disgust": 0.108255,
+        "anger": 0.10904
+      },
+      "count": 1
+    },
+    {
+      "text": "new colors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.586091,
+      "emotion": {
+        "sadness": 0.016761,
+        "joy": 0.401863,
+        "fear": 0.017605,
+        "disgust": 0.002486,
+        "anger": 0.007654
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Apple",
+      "sentiment": {
+        "score": -0.514194,
+        "label": "negative"
+      },
+      "relevance": 0.620392,
+      "mentions": [
+        {
+          "text": "Apple",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            324,
+            329
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.033895,
+        "joy": 0.754302,
+        "fear": 0.014742,
+        "disgust": 0.011674,
+        "anger": 0.051784
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper",
+          "ProtocolProvider",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Apple Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Cherry",
+      "sentiment": {
+        "score": 0.366989,
+        "label": "positive"
+      },
+      "relevance": 0.351648,
+      "mentions": [
+        {
+          "text": "Cherry",
+          "location": [
+            492,
+            498
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Apple Inc.",
+      "relevance": 0.9784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+    },
+    {
+      "text": "IPad",
+      "relevance": 0.772349,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPad"
+    },
+    {
+      "text": "Green",
+      "relevance": 0.759855,
+      "dbpedia_resource": "http://dbpedia.org/resource/Green"
+    },
+    {
+      "text": "Mac OS X",
+      "relevance": 0.723361,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mac_OS_X"
+    },
+    {
+      "text": "Color wheel",
+      "relevance": 0.719942,
+      "dbpedia_resource": "http://dbpedia.org/resource/Color_wheel"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.90117,
+      "label": "/technology and computing/operating systems/mac os"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.689253,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0.689253,
+        "label": "positive"
+      },
+      "relevance": 0.999883,
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "count": 1
+    },
+    {
+      "text": "Double Date",
+      "sentiment": {
+        "score": 0.689253,
+        "label": "positive"
+      },
+      "relevance": 0.973735,
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.689253,
+        "label": "positive"
+      },
+      "relevance": 0.929554,
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "count": 1
+    },
+    {
+      "text": "Weeknd's Plans",
+      "sentiment": {
+        "score": 0.689253,
+        "label": "positive"
+      },
+      "relevance": 0.563018,
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "count": 1
+    },
+    {
+      "text": "Justin Theroux",
+      "sentiment": {
+        "score": 0.689253,
+        "label": "positive"
+      },
+      "relevance": 0.071912,
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.381854,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin Theroux",
+      "sentiment": {
+        "score": -0.381854,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Theroux",
+          "location": [
+            73,
+            87
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Justin Theroux",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Theroux"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.381854,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            54,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109335,
+        "joy": 0.146923,
+        "fear": 0.025646,
+        "disgust": 0.105837,
+        "anger": 0.076825
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.956118,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.725706,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American people of Italian descent",
+      "relevance": 0.596334,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_people_of_Italian_descent"
+    },
+    {
+      "text": "Waldorf school alumni",
+      "relevance": 0.480659,
+      "dbpedia_resource": "http://dbpedia.org/resource/Waldorf_school_alumni"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.478589,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.590322,
+      "label": "/society/dating"
+    }
+  ]
+}

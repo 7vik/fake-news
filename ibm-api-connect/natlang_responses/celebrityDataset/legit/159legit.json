@@ -1,0 +1,184 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 82,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.047277,
+        "joy": 0.834047,
+        "fear": 0.014592,
+        "disgust": 0.035248,
+        "anger": 0.014976
+      },
+      "count": 1
+    },
+    {
+      "text": "Salvator Mundi",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.047277,
+        "joy": 0.834047,
+        "fear": 0.014592,
+        "disgust": 0.035248,
+        "anger": 0.014976
+      },
+      "count": 1
+    },
+    {
+      "text": "da Vinci",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.043761,
+      "emotion": {
+        "sadness": 0.047277,
+        "joy": 0.834047,
+        "fear": 0.014592,
+        "disgust": 0.035248,
+        "anger": 0.014976
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Facility",
+      "text": "Salvator Mundi",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Salvator Mundi",
+          "location": [
+            43,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Leonardo DiCaprio",
+          "location": [
+            0,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.036762,
+        "joy": 0.836994,
+        "fear": 0.009281,
+        "disgust": 0.026076,
+        "anger": 0.0226
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Leonardo DiCaprio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$100 Million",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "$100 Million",
+          "location": [
+            60,
+            72
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Leonardo da Vinci",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_da_Vinci"
+    },
+    {
+      "text": "Leonardo DiCaprio",
+      "relevance": 0.88803,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+    },
+    {
+      "text": "Vinci, Italy",
+      "relevance": 0.825651,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vinci,_Italy"
+    },
+    {
+      "text": "Golden Globe Award for Best Actor \u2013 Motion Picture Drama",
+      "relevance": 0.821937,
+      "dbpedia_resource": "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Actor_\u2013_Motion_Picture_Drama"
+    },
+    {
+      "text": "Kate Winslet",
+      "relevance": 0.80184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.639161,
+      "label": "/art and entertainment/visual art and design/painting"
+    }
+  ]
+}

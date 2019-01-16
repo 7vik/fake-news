@@ -1,0 +1,335 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 975,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.348516,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.738557,
+      "emotion": {
+        "sadness": 0.310064,
+        "joy": 0.088997,
+        "fear": 0.111065,
+        "disgust": 0.399398,
+        "anger": 0.106734
+      },
+      "count": 1
+    },
+    {
+      "text": "singing reality show",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.719521,
+      "emotion": {
+        "sadness": 0.508773,
+        "joy": 0.246828,
+        "fear": 0.072473,
+        "disgust": 0.17136,
+        "anger": 0.090737
+      },
+      "count": 1
+    },
+    {
+      "text": "nice judge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.705077,
+      "emotion": {
+        "sadness": 0.04932,
+        "joy": 0.695992,
+        "fear": 0.036246,
+        "disgust": 0.005669,
+        "anger": 0.12189
+      },
+      "count": 1
+    },
+    {
+      "text": "host Ryan Seacrest",
+      "sentiment": {
+        "score": -0.496344,
+        "label": "negative"
+      },
+      "relevance": 0.647989,
+      "emotion": {
+        "sadness": 0.139512,
+        "joy": 0.753999,
+        "fear": 0.008647,
+        "disgust": 0.058754,
+        "anger": 0.039646
+      },
+      "count": 1
+    },
+    {
+      "text": "judge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.598301,
+      "emotion": {
+        "sadness": 0.091062,
+        "joy": 0.813545,
+        "fear": 0.008635,
+        "disgust": 0.052674,
+        "anger": 0.045042
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena",
+      "sentiment": {
+        "score": 0.472698,
+        "label": "positive"
+      },
+      "relevance": 0.786916,
+      "mentions": [
+        {
+          "text": "Selena",
+          "location": [
+            177,
+            183
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            233,
+            236
+          ]
+        },
+        {
+          "text": "She'd",
+          "location": [
+            281,
+            286
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.067261,
+        "joy": 0.810193,
+        "fear": 0.039216,
+        "disgust": 0.044083,
+        "anger": 0.048299
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Selena",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.75458,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.255097,
+        "joy": 0.124647,
+        "fear": 0.138234,
+        "disgust": 0.358489,
+        "anger": 0.044243
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Seacrest",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.513784,
+      "mentions": [
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            798,
+            811
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            820,
+            823
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217695,
+        "joy": 0.604872,
+        "fear": 0.007918,
+        "disgust": 0.144193,
+        "anger": 0.068421
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ryan Seacrest",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Singer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.510877,
+      "mentions": [
+        {
+          "text": "Singer",
+          "location": [
+            49,
+            55
+          ]
+        },
+        {
+          "text": "singer",
+          "location": [
+            103,
+            109
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.376699,
+        "joy": 0.414194,
+        "fear": 0.085957,
+        "disgust": 0.070158,
+        "anger": 0.099187
+      },
+      "count": 2
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "American Idol",
+      "sentiment": {
+        "score": 0.460523,
+        "label": "positive"
+      },
+      "relevance": 0.49707,
+      "mentions": [
+        {
+          "text": "American Idol",
+          "location": [
+            140,
+            153
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296012,
+        "joy": 0.079295,
+        "fear": 0.072309,
+        "disgust": 0.420384,
+        "anger": 0.073443
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "TVSeason"
+        ],
+        "name": "American Idol",
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American Idol",
+      "relevance": 0.969775,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+    },
+    {
+      "text": "Reality television",
+      "relevance": 0.629765,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reality_television"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.615146,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.564092,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Ryan Seacrest",
+      "relevance": 0.541125,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.728731,
+      "label": "/art and entertainment/movies and tv/reality"
+    }
+  ]
+}

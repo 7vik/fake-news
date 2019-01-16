@@ -1,0 +1,289 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1166,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.350609,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.687664,
+        "label": "negative"
+      },
+      "relevance": 0.874737,
+      "emotion": {
+        "sadness": 0.597082,
+        "joy": 0.351021,
+        "fear": 0.055333,
+        "disgust": 0.017114,
+        "anger": 0.020521
+      },
+      "count": 1
+    },
+    {
+      "text": "period of time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.697781,
+      "emotion": {
+        "sadness": 0.530708,
+        "joy": 0.024946,
+        "fear": 0.155826,
+        "disgust": 0.113067,
+        "anger": 0.095723
+      },
+      "count": 1
+    },
+    {
+      "text": "cell phones",
+      "sentiment": {
+        "score": 0.887191,
+        "label": "positive"
+      },
+      "relevance": 0.668276,
+      "emotion": {
+        "sadness": 0.274084,
+        "joy": 0.581804,
+        "fear": 0.078042,
+        "disgust": 0.055715,
+        "anger": 0.073006
+      },
+      "count": 1
+    },
+    {
+      "text": "comfort food",
+      "sentiment": {
+        "score": -0.89936,
+        "label": "negative"
+      },
+      "relevance": 0.643891,
+      "emotion": {
+        "sadness": 0.293386,
+        "joy": 0.553146,
+        "fear": 0.14784,
+        "disgust": 0.017374,
+        "anger": 0.019392
+      },
+      "count": 1
+    },
+    {
+      "text": "latest film",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.629624,
+      "emotion": {
+        "sadness": 0.167366,
+        "joy": 0.699177,
+        "fear": 0.07502,
+        "disgust": 0.018767,
+        "anger": 0.052484
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.505737,
+        "label": "negative"
+      },
+      "relevance": 0.923778,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            48,
+            64
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            364,
+            371
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            581,
+            588
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            645,
+            648
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            943,
+            946
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            1076,
+            1083
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.636479,
+        "joy": 0.150314,
+        "fear": 0.07157,
+        "disgust": 0.075969,
+        "anger": 0.069885
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 7
+    },
+    {
+      "type": "Company",
+      "text": "ITV",
+      "sentiment": {
+        "score": 0.546028,
+        "label": "positive"
+      },
+      "relevance": 0.165305,
+      "mentions": [
+        {
+          "text": "ITV",
+          "location": [
+            171,
+            174
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.034769,
+        "joy": 0.561051,
+        "fear": 0.131501,
+        "disgust": 0.076635,
+        "anger": 0.010635
+      },
+      "count": 1
+    },
+    {
+      "type": "Broadcaster",
+      "text": "NBC",
+      "sentiment": {
+        "score": 0.665739,
+        "label": "positive"
+      },
+      "relevance": 0.159538,
+      "mentions": [
+        {
+          "text": "NBC",
+          "location": [
+            259,
+            262
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.547832,
+        "joy": 0.115895,
+        "fear": 0.202598,
+        "disgust": 0.056614,
+        "anger": 0.119317
+      },
+      "disambiguation": {
+        "subtype": [
+          "TelevisionStation"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Facebooks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.135372,
+      "mentions": [
+        {
+          "text": "Facebooks",
+          "location": [
+            829,
+            838
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.045222,
+        "joy": 0.249723,
+        "fear": 0.054692,
+        "disgust": 0.036047,
+        "anger": 0.03164
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Friends",
+      "relevance": 0.928201,
+      "dbpedia_resource": "http://dbpedia.org/resource/Friends"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.817615,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.809084,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "NBC",
+      "relevance": 0.733372,
+      "dbpedia_resource": "http://dbpedia.org/resource/NBC"
+    },
+    {
+      "text": "Courteney Cox",
+      "relevance": 0.712423,
+      "dbpedia_resource": "http://dbpedia.org/resource/Courteney_Cox"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.701369,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

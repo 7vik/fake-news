@@ -1,0 +1,264 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 629,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.44182,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "group of Streamwood High School students",
+      "sentiment": {
+        "score": -0.804723,
+        "label": "negative"
+      },
+      "relevance": 0.756321,
+      "emotion": {
+        "sadness": 0.080083,
+        "joy": 0.399443,
+        "fear": 0.388023,
+        "disgust": 0.035893,
+        "anger": 0.020308
+      },
+      "count": 1
+    },
+    {
+      "text": "math skills",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.739196,
+      "emotion": {
+        "sadness": 0.063214,
+        "joy": 0.790162,
+        "fear": 0.023869,
+        "disgust": 0.087047,
+        "anger": 0.066102
+      },
+      "count": 1
+    },
+    {
+      "text": "Tomorrow contest",
+      "sentiment": {
+        "score": 0.743055,
+        "label": "positive"
+      },
+      "relevance": 0.731341,
+      "emotion": {
+        "sadness": 0.040978,
+        "joy": 0.8099,
+        "fear": 0.033116,
+        "disgust": 0.052244,
+        "anger": 0.073491
+      },
+      "count": 1
+    },
+    {
+      "text": "state-level competition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.716447,
+      "emotion": {
+        "sadness": 0.063214,
+        "joy": 0.790162,
+        "fear": 0.023869,
+        "disgust": 0.087047,
+        "anger": 0.066102
+      },
+      "count": 1
+    },
+    {
+      "text": "real-world issues",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.712401,
+      "emotion": {
+        "sadness": 0.063214,
+        "joy": 0.790162,
+        "fear": 0.023869,
+        "disgust": 0.087047,
+        "anger": 0.066102
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Streamwood High School",
+      "sentiment": {
+        "score": 0.405615,
+        "label": "positive"
+      },
+      "relevance": 0.983065,
+      "mentions": [
+        {
+          "text": "Streamwood High School",
+          "location": [
+            36,
+            58
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.089419,
+        "joy": 0.717031,
+        "fear": 0.086493,
+        "disgust": 0.044161,
+        "anger": 0.035186
+      },
+      "disambiguation": {
+        "subtype": [
+          "School"
+        ],
+        "name": "Streamwood High School",
+        "dbpedia_resource": "http://dbpedia.org/resource/Streamwood_High_School"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "STREAMWOOD",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.888948,
+      "mentions": [
+        {
+          "text": "STREAMWOOD",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.078098,
+        "joy": 0.741474,
+        "fear": 0.072103,
+        "disgust": 0.046923,
+        "anger": 0.042381
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Streamwood, Illinois",
+        "dbpedia_resource": "http://dbpedia.org/resource/Streamwood,_Illinois"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Samsung",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.558298,
+      "mentions": [
+        {
+          "text": "Samsung",
+          "location": [
+            214,
+            221
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.025007,
+        "joy": 0.735228,
+        "fear": 0.037558,
+        "disgust": 0.092868,
+        "anger": 0.115752
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Samsung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samsung"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Ill.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.371652,
+      "mentions": [
+        {
+          "text": "Ill.",
+          "location": [
+            12,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Illinois",
+        "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$200,000",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.371652,
+      "mentions": [
+        {
+          "text": "$200,000",
+          "location": [
+            619,
+            627
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.913399,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994905,
+      "label": "/education/high school"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 706,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.926032,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "State Department",
+      "sentiment": {
+        "score": -0.926032,
+        "label": "negative"
+      },
+      "relevance": 0.790222,
+      "emotion": {
+        "sadness": 0.084972,
+        "joy": 0.07246,
+        "fear": 0.021279,
+        "disgust": 0.017651,
+        "anger": 0.228236
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.926032,
+        "label": "negative"
+      },
+      "relevance": 0.740278,
+      "emotion": {
+        "sadness": 0.095857,
+        "joy": 0.070751,
+        "fear": 0.024086,
+        "disgust": 0.014263,
+        "anger": 0.210884
+      },
+      "count": 1
+    },
+    {
+      "text": "executive order",
+      "sentiment": {
+        "score": -0.926032,
+        "label": "negative"
+      },
+      "relevance": 0.697874,
+      "emotion": {
+        "sadness": 0.095857,
+        "joy": 0.070751,
+        "fear": 0.024086,
+        "disgust": 0.014263,
+        "anger": 0.210884
+      },
+      "count": 1
+    },
+    {
+      "text": "Muslim countries",
+      "sentiment": {
+        "score": -0.926032,
+        "label": "negative"
+      },
+      "relevance": 0.689124,
+      "emotion": {
+        "sadness": 0.095857,
+        "joy": 0.070751,
+        "fear": 0.024086,
+        "disgust": 0.014263,
+        "anger": 0.210884
+      },
+      "count": 1
+    },
+    {
+      "text": "social media",
+      "sentiment": {
+        "score": -0.926032,
+        "label": "negative"
+      },
+      "relevance": 0.67837,
+      "emotion": {
+        "sadness": 0.095857,
+        "joy": 0.070751,
+        "fear": 0.024086,
+        "disgust": 0.014263,
+        "anger": 0.210884
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "State Department",
+      "sentiment": {
+        "score": -0.497682,
+        "label": "negative"
+      },
+      "relevance": 0.875748,
+      "mentions": [
+        {
+          "text": "State Department",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "State Department",
+          "location": [
+            458,
+            474
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.190611,
+        "joy": 0.093963,
+        "fear": 0.032954,
+        "disgust": 0.118367,
+        "anger": 0.358841
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody",
+          "AppointedRole"
+        ],
+        "name": "United States Department of State",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_State"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.635634,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            341,
+            363
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18123,
+        "joy": 0.105413,
+        "fear": 0.029618,
+        "disgust": 0.095299,
+        "anger": 0.358086
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rex Tillerson",
+      "sentiment": {
+        "score": -0.339297,
+        "label": "negative"
+      },
+      "relevance": 0.491253,
+      "mentions": [
+        {
+          "text": "Rex Tillerson",
+          "location": [
+            93,
+            106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211621,
+        "joy": 0.093164,
+        "fear": 0.097001,
+        "disgust": 0.022374,
+        "anger": 0.252838
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember"
+        ],
+        "name": "Rex Tillerson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rex_Tillerson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.961028,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.745326,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.665819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.603024,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.601066,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.865023,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

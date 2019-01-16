@@ -1,0 +1,269 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 601,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.385,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "NASA Fires Rocket",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.935643,
+      "emotion": {
+        "sadness": 0.155964,
+        "joy": 0.345365,
+        "fear": 0.040629,
+        "disgust": 0.148961,
+        "anger": 0.272603
+      },
+      "count": 1
+    },
+    {
+      "text": "Space Launch System",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.652402,
+      "emotion": {
+        "sadness": 0.034235,
+        "joy": 0.086823,
+        "fear": 0.003147,
+        "disgust": 0.027509,
+        "anger": 0.005209
+      },
+      "count": 1
+    },
+    {
+      "text": "product development manager",
+      "sentiment": {
+        "score": 0.379831,
+        "label": "positive"
+      },
+      "relevance": 0.638077,
+      "emotion": {
+        "sadness": 0.052805,
+        "joy": 0.075118,
+        "fear": 0.035343,
+        "disgust": 0.015431,
+        "anger": 0.051663
+      },
+      "count": 1
+    },
+    {
+      "text": "deep middle earth today",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.618056,
+      "emotion": {
+        "sadness": 0.284315,
+        "joy": 0.447628,
+        "fear": 0.090364,
+        "disgust": 0.035317,
+        "anger": 0.176786
+      },
+      "count": 1
+    },
+    {
+      "text": "Gary Benton",
+      "sentiment": {
+        "score": 0.379831,
+        "label": "positive"
+      },
+      "relevance": 0.611059,
+      "emotion": {
+        "sadness": 0.052805,
+        "joy": 0.075118,
+        "fear": 0.035343,
+        "disgust": 0.015431,
+        "anger": 0.051663
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "NASA",
+      "sentiment": {
+        "score": -0.713879,
+        "label": "negative"
+      },
+      "relevance": 0.789305,
+      "mentions": [
+        {
+          "text": "NASA",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "NASA",
+          "location": [
+            33,
+            37
+          ]
+        },
+        {
+          "text": "NASA",
+          "location": [
+            152,
+            156
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.480197,
+        "joy": 0.360644,
+        "fear": 0.145018,
+        "disgust": 0.028356,
+        "anger": 0.089
+      },
+      "disambiguation": {
+        "subtype": [
+          "Company",
+          "GovernmentAgency",
+          "AirportOperator",
+          "AwardPresentingOrganization",
+          "SoftwareDeveloper",
+          "SpaceAgency",
+          "SpacecraftManufacturer"
+        ],
+        "name": "NASA",
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Stennis Space Center",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.60605,
+      "mentions": [
+        {
+          "text": "Stennis Space Center",
+          "location": [
+            459,
+            479
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165871,
+        "joy": 0.045346,
+        "fear": 0.004389,
+        "disgust": 0.012833,
+        "anger": 0.024957
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location"
+        ],
+        "name": "John C. Stennis Space Center",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_C._Stennis_Space_Center"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gary Benton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.408844,
+      "mentions": [
+        {
+          "text": "Gary Benton",
+          "location": [
+            410,
+            421
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.026534,
+        "joy": 0.326737,
+        "fear": 0.062037,
+        "disgust": 0.060816,
+        "anger": 0.059055
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "product development",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.289344,
+      "mentions": [
+        {
+          "text": "product development",
+          "location": [
+            427,
+            446
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165871,
+        "joy": 0.045346,
+        "fear": 0.004389,
+        "disgust": 0.012833,
+        "anger": 0.024957
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "NASA",
+      "relevance": 0.930527,
+      "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+    },
+    {
+      "text": "Jupiter",
+      "relevance": 0.832215,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jupiter"
+    },
+    {
+      "text": "Space exploration",
+      "relevance": 0.813021,
+      "dbpedia_resource": "http://dbpedia.org/resource/Space_exploration"
+    },
+    {
+      "text": "Moon",
+      "relevance": 0.790193,
+      "dbpedia_resource": "http://dbpedia.org/resource/Moon"
+    },
+    {
+      "text": "Sun",
+      "relevance": 0.767308,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sun"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.775938,
+      "label": "/automotive and vehicles/vehicle brands"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.851914,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Amal Alamuddin",
+      "sentiment": {
+        "score": 0.851914,
+        "label": "positive"
+      },
+      "relevance": 0.898159,
+      "emotion": {
+        "sadness": 0.246927,
+        "joy": 0.435989,
+        "fear": 0.017959,
+        "disgust": 0.078719,
+        "anger": 0.326004
+      },
+      "count": 1
+    },
+    {
+      "text": "Famous Guests Kick",
+      "sentiment": {
+        "score": 0.851914,
+        "label": "positive"
+      },
+      "relevance": 0.85016,
+      "emotion": {
+        "sadness": 0.246927,
+        "joy": 0.435989,
+        "fear": 0.017959,
+        "disgust": 0.078719,
+        "anger": 0.326004
+      },
+      "count": 1
+    },
+    {
+      "text": "Clooney",
+      "sentiment": {
+        "score": 0.851914,
+        "label": "positive"
+      },
+      "relevance": 0.711604,
+      "emotion": {
+        "sadness": 0.246927,
+        "joy": 0.435989,
+        "fear": 0.017959,
+        "disgust": 0.078719,
+        "anger": 0.326004
+      },
+      "count": 1
+    },
+    {
+      "text": "Venice",
+      "sentiment": {
+        "score": 0.851914,
+        "label": "positive"
+      },
+      "relevance": 0.555596,
+      "emotion": {
+        "sadness": 0.246927,
+        "joy": 0.435989,
+        "fear": 0.017959,
+        "disgust": 0.078719,
+        "anger": 0.326004
+      },
+      "count": 1
+    },
+    {
+      "text": "Wedding Festivities",
+      "sentiment": {
+        "score": 0.851914,
+        "label": "positive"
+      },
+      "relevance": 0.43505,
+      "emotion": {
+        "sadness": 0.246927,
+        "joy": 0.435989,
+        "fear": 0.017959,
+        "disgust": 0.078719,
+        "anger": 0.326004
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "George Clooney",
+      "sentiment": {
+        "score": 0.465225,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "George Clooney",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "George Clooney",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amal Alamuddin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Amal Alamuddin",
+          "location": [
+            16,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.227538,
+        "joy": 0.46077,
+        "fear": 0.02233,
+        "disgust": 0.051324,
+        "anger": 0.328643
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Venice",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Venice",
+          "location": [
+            81,
+            87
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.227538,
+        "joy": 0.46077,
+        "fear": 0.02233,
+        "disgust": 0.051324,
+        "anger": 0.328643
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George Clooney",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.777677,
+      "label": "/society/social institution"
+    }
+  ]
+}

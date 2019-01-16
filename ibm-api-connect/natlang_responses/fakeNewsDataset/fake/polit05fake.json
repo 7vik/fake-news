@@ -1,0 +1,299 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 603,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.642238,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump Calls Democrats",
+      "sentiment": {
+        "score": 0.770307,
+        "label": "positive"
+      },
+      "relevance": 0.903173,
+      "emotion": {
+        "sadness": 0.259256,
+        "joy": 0.142241,
+        "fear": 0.033047,
+        "disgust": 0.164045,
+        "anger": 0.202873
+      },
+      "count": 1
+    },
+    {
+      "text": "Secret recording show Trump",
+      "sentiment": {
+        "score": -0.953834,
+        "label": "negative"
+      },
+      "relevance": 0.899043,
+      "emotion": {
+        "sadness": 0.674081,
+        "joy": 0.018173,
+        "fear": 0.046871,
+        "disgust": 0.33977,
+        "anger": 0.213682
+      },
+      "count": 1
+    },
+    {
+      "text": "American Health Care Act",
+      "sentiment": {
+        "score": 0.770307,
+        "label": "positive"
+      },
+      "relevance": 0.894058,
+      "emotion": {
+        "sadness": 0.20518,
+        "joy": 0.31674,
+        "fear": 0.06342,
+        "disgust": 0.226566,
+        "anger": 0.382469
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.770307,
+        "label": "positive"
+      },
+      "relevance": 0.868402,
+      "emotion": {
+        "sadness": 0.20518,
+        "joy": 0.31674,
+        "fear": 0.06342,
+        "disgust": 0.226566,
+        "anger": 0.382469
+      },
+      "count": 1
+    },
+    {
+      "text": "medical care",
+      "sentiment": {
+        "score": -0.953834,
+        "label": "negative"
+      },
+      "relevance": 0.811559,
+      "emotion": {
+        "sadness": 0.674081,
+        "joy": 0.018173,
+        "fear": 0.046871,
+        "disgust": 0.33977,
+        "anger": 0.213682
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.408157,
+        "label": "negative"
+      },
+      "relevance": 0.953109,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            134,
+            149
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            173,
+            175
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            295,
+            300
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            469,
+            474
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            558,
+            560
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.407248,
+        "joy": 0.144085,
+        "fear": 0.034039,
+        "disgust": 0.313479,
+        "anger": 0.377181
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Obama",
+      "sentiment": {
+        "score": 0.517162,
+        "label": "positive"
+      },
+      "relevance": 0.3395,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            305,
+            310
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            352,
+            354
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            384,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233718,
+        "joy": 0.549914,
+        "fear": 0.036063,
+        "disgust": 0.09096,
+        "anger": 0.083595
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.333019,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            332,
+            341
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            374,
+            383
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211334,
+        "joy": 0.430939,
+        "fear": 0.027571,
+        "disgust": 0.120748,
+        "anger": 0.148083
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "American Health Care",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.251539,
+      "mentions": [
+        {
+          "text": "American Health Care",
+          "location": [
+            49,
+            69
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20518,
+        "joy": 0.31674,
+        "fear": 0.06342,
+        "disgust": 0.226566,
+        "anger": 0.382469
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.973491,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Health care",
+      "relevance": 0.770137,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_care"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.697196,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.668447,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Medicine",
+      "relevance": 0.577973,
+      "dbpedia_resource": "http://dbpedia.org/resource/Medicine"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.888751,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

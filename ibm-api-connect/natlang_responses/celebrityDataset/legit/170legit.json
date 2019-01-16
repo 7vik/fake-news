@@ -1,0 +1,344 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 950,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.568414,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.461912,
+        "label": "negative"
+      },
+      "relevance": 0.971821,
+      "emotion": {
+        "sadness": 0.299553,
+        "joy": 0.374807,
+        "fear": 0.043892,
+        "disgust": 0.125595,
+        "anger": 0.244087
+      },
+      "count": 1
+    },
+    {
+      "text": "Gomez's revelation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.787089,
+      "emotion": {
+        "sadness": 0.477393,
+        "joy": 0.227386,
+        "fear": 0.319011,
+        "disgust": 0.101186,
+        "anger": 0.020049
+      },
+      "count": 1
+    },
+    {
+      "text": "Weeknd's Gig",
+      "sentiment": {
+        "score": -0.461912,
+        "label": "negative"
+      },
+      "relevance": 0.746634,
+      "emotion": {
+        "sadness": 0.193743,
+        "joy": 0.396206,
+        "fear": 0.154188,
+        "disgust": 0.19037,
+        "anger": 0.116711
+      },
+      "count": 1
+    },
+    {
+      "text": "kidney transplant",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.685098,
+      "emotion": {
+        "sadness": 0.477393,
+        "joy": 0.227386,
+        "fear": 0.319011,
+        "disgust": 0.101186,
+        "anger": 0.020049
+      },
+      "count": 1
+    },
+    {
+      "text": "fans of Gomez",
+      "sentiment": {
+        "score": -0.454616,
+        "label": "negative"
+      },
+      "relevance": 0.62313,
+      "emotion": {
+        "sadness": 0.117582,
+        "joy": 0.788756,
+        "fear": 0.014003,
+        "disgust": 0.077167,
+        "anger": 0.024364
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.929625,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Spotted",
+          "location": [
+            17,
+            24
+          ]
+        },
+        {
+          "text": "Selena Gomez",
+          "location": [
+            56,
+            68
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            143,
+            148
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            167,
+            170
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            338,
+            343
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            370,
+            373
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            553,
+            558
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            600,
+            603
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            619,
+            622
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            651,
+            654
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            689,
+            694
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            727,
+            730
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            768,
+            773
+          ]
+        },
+        {
+          "text": "a super supportive girlfriend",
+          "location": [
+            788,
+            817
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168365,
+        "joy": 0.713166,
+        "fear": 0.070655,
+        "disgust": 0.433172,
+        "anger": 0.071787
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 15
+    },
+    {
+      "type": "Location",
+      "text": "Philadelphia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.093925,
+      "mentions": [
+        {
+          "text": "Philadelphia",
+          "location": [
+            477,
+            489
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.060746,
+        "joy": 0.709361,
+        "fear": 0.059086,
+        "disgust": 0.08518,
+        "anger": 0.032956
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "PlaceWithNeighborhoods",
+          "AirportOperator",
+          "City"
+        ],
+        "name": "Philadelphia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philadelphia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington D.C.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.089359,
+      "mentions": [
+        {
+          "text": "Washington D.C.",
+          "location": [
+            516,
+            531
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123881,
+        "joy": 0.644691,
+        "fear": 0.121598,
+        "disgust": 0.018263,
+        "anger": 0.03528
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "MilitaryPost",
+          "PlaceWithNeighborhoods",
+          "USCounty",
+          "City"
+        ],
+        "name": "Washington, D.C.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kidney",
+      "relevance": 0.948567,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kidney"
+    },
+    {
+      "text": "Chronic kidney disease",
+      "relevance": 0.946255,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chronic_kidney_disease"
+    },
+    {
+      "text": "Nephrology",
+      "relevance": 0.859589,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nephrology"
+    },
+    {
+      "text": "Selena Gomez",
+      "relevance": 0.6942,
+      "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+    },
+    {
+      "text": "Gig",
+      "relevance": 0.692965,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gig"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.84361,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

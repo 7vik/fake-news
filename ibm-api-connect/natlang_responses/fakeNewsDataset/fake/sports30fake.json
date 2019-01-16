@@ -1,0 +1,294 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 611,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.783821,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Fenway Sporting Group",
+      "sentiment": {
+        "score": -0.858169,
+        "label": "negative"
+      },
+      "relevance": 0.926764,
+      "emotion": {
+        "sadness": 0.487938,
+        "joy": 0.082565,
+        "fear": 0.133486,
+        "disgust": 0.19206,
+        "anger": 0.308083
+      },
+      "count": 1
+    },
+    {
+      "text": "Liverpool Club",
+      "sentiment": {
+        "score": -0.503669,
+        "label": "negative"
+      },
+      "relevance": 0.854417,
+      "emotion": {
+        "sadness": 0.236139,
+        "joy": 0.144549,
+        "fear": 0.145076,
+        "disgust": 0.395074,
+        "anger": 0.206134
+      },
+      "count": 2
+    },
+    {
+      "text": "South America",
+      "sentiment": {
+        "score": -0.87266,
+        "label": "negative"
+      },
+      "relevance": 0.718623,
+      "emotion": {
+        "sadness": 0.28486,
+        "joy": 0.017063,
+        "fear": 0.385706,
+        "disgust": 0.479126,
+        "anger": 0.166777
+      },
+      "count": 1
+    },
+    {
+      "text": "kind of attack",
+      "sentiment": {
+        "score": -0.87266,
+        "label": "negative"
+      },
+      "relevance": 0.614994,
+      "emotion": {
+        "sadness": 0.28486,
+        "joy": 0.017063,
+        "fear": 0.385706,
+        "disgust": 0.479126,
+        "anger": 0.166777
+      },
+      "count": 1
+    },
+    {
+      "text": "pair fights",
+      "sentiment": {
+        "score": -0.845764,
+        "label": "negative"
+      },
+      "relevance": 0.609577,
+      "emotion": {
+        "sadness": 0.635809,
+        "joy": 0.103062,
+        "fear": 0.177738,
+        "disgust": 0.175522,
+        "anger": 0.139771
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Liverpool Club",
+      "sentiment": {
+        "score": -0.756511,
+        "label": "negative"
+      },
+      "relevance": 0.971193,
+      "mentions": [
+        {
+          "text": "Liverpool Club",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Liverpool Club",
+          "location": [
+            60,
+            74
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233978,
+        "joy": 0.163067,
+        "fear": 0.164397,
+        "disgust": 0.382724,
+        "anger": 0.201713
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Liverpool",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.623531,
+      "mentions": [
+        {
+          "text": "Liverpool",
+          "location": [
+            418,
+            427
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Liverpool",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liverpool"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Philippe Coutinho",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.557726,
+      "mentions": [
+        {
+          "text": "Philippe Coutinho",
+          "location": [
+            108,
+            125
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.192851,
+        "joy": 0.200628,
+        "fear": 0.123497,
+        "disgust": 0.197572,
+        "anger": 0.098534
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballPlayer"
+        ],
+        "name": "Philippe Coutinho",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philippe_Coutinho"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "sentiment": {
+        "score": -0.62928,
+        "label": "negative"
+      },
+      "relevance": 0.556934,
+      "mentions": [
+        {
+          "text": "Brazil",
+          "location": [
+            153,
+            159
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            317,
+            323
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.143891,
+        "joy": 0.215347,
+        "fear": 0.142659,
+        "disgust": 0.169579,
+        "anger": 0.101793
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Fenway Sporting Group",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.514738,
+      "mentions": [
+        {
+          "text": "Fenway Sporting Group",
+          "location": [
+            395,
+            416
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118805,
+        "joy": 0.365334,
+        "fear": 0.083594,
+        "disgust": 0.098834,
+        "anger": 0.131723
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "England",
+      "relevance": 0.947802,
+      "dbpedia_resource": "http://dbpedia.org/resource/England"
+    },
+    {
+      "text": "South America",
+      "relevance": 0.788513,
+      "dbpedia_resource": "http://dbpedia.org/resource/South_America"
+    },
+    {
+      "text": "Americas",
+      "relevance": 0.769882,
+      "dbpedia_resource": "http://dbpedia.org/resource/Americas"
+    },
+    {
+      "text": "Liverpool",
+      "relevance": 0.765242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liverpool"
+    },
+    {
+      "text": "Liverpool F.C.",
+      "relevance": 0.658052,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liverpool_F.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.712837,
+      "label": "/sports/soccer"
+    }
+  ]
+}

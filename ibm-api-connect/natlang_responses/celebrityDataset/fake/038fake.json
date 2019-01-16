@@ -1,0 +1,406 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1445,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.512373,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": -0.355555,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.757386,
+      "emotion": {
+        "sadness": 0.090917,
+        "joy": 0.584239,
+        "fear": 0.094624,
+        "disgust": 0.082219,
+        "anger": 0.234301
+      },
+      "count": 2
+    },
+    {
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.355555,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.73535,
+      "emotion": {
+        "sadness": 0.090917,
+        "joy": 0.584239,
+        "fear": 0.094624,
+        "disgust": 0.082219,
+        "anger": 0.234301
+      },
+      "count": 2
+    },
+    {
+      "text": "Part of the reason",
+      "sentiment": {
+        "score": 0.49468,
+        "label": "positive"
+      },
+      "relevance": 0.638709,
+      "emotion": {
+        "sadness": 0.276922,
+        "joy": 0.6236,
+        "fear": 0.05448,
+        "disgust": 0.007112,
+        "anger": 0.056299
+      },
+      "count": 1
+    },
+    {
+      "text": "air spat",
+      "sentiment": {
+        "score": 0.317075,
+        "label": "positive"
+      },
+      "relevance": 0.606142,
+      "emotion": {
+        "sadness": 0.088412,
+        "joy": 0.67241,
+        "fear": 0.051371,
+        "disgust": 0.065375,
+        "anger": 0.18602
+      },
+      "count": 1
+    },
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.590771,
+      "emotion": {
+        "sadness": 0.276411,
+        "joy": 0.549621,
+        "fear": 0.00946,
+        "disgust": 0.053354,
+        "anger": 0.048558
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": 0.031898,
+        "label": "positive"
+      },
+      "relevance": 0.881375,
+      "mentions": [
+        {
+          "text": "Gwen",
+          "location": [
+            10,
+            14
+          ]
+        },
+        {
+          "text": "Gwen Stefani",
+          "location": [
+            63,
+            75
+          ]
+        },
+        {
+          "text": "Stefani",
+          "location": [
+            251,
+            258
+          ]
+        },
+        {
+          "text": "Gwen",
+          "location": [
+            515,
+            519
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            685,
+            688
+          ]
+        },
+        {
+          "text": "Stefani",
+          "location": [
+            882,
+            889
+          ]
+        },
+        {
+          "text": "Gwen",
+          "location": [
+            1074,
+            1078
+          ]
+        },
+        {
+          "text": "Gwen",
+          "location": [
+            1192,
+            1196
+          ]
+        },
+        {
+          "text": "Gwen Stefani",
+          "location": [
+            1341,
+            1353
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.546737,
+        "joy": 0.620406,
+        "fear": 0.068385,
+        "disgust": 0.061933,
+        "anger": 0.08921
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Gwen Stefani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.052737,
+        "label": "negative"
+      },
+      "relevance": 0.603216,
+      "mentions": [
+        {
+          "text": "Blake",
+          "location": [
+            17,
+            22
+          ]
+        },
+        {
+          "text": "Blake Shelton",
+          "location": [
+            80,
+            93
+          ]
+        },
+        {
+          "text": "Shelton",
+          "location": [
+            362,
+            369
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            743,
+            748
+          ]
+        },
+        {
+          "text": "Shelton",
+          "location": [
+            870,
+            877
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            1083,
+            1088
+          ]
+        },
+        {
+          "text": "Blake Shelton",
+          "location": [
+            1358,
+            1371
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.599229,
+        "joy": 0.607449,
+        "fear": 0.086881,
+        "disgust": 0.073882,
+        "anger": 0.119675
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Gwen",
+      "sentiment": {
+        "score": -0.675382,
+        "label": "negative"
+      },
+      "relevance": 0.239696,
+      "mentions": [
+        {
+          "text": "her and Blake",
+          "location": [
+            632,
+            645
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.76958,
+        "joy": 0.154465,
+        "fear": 0.036456,
+        "disgust": 0.04824,
+        "anger": 0.092385
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Radar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.185866,
+      "mentions": [
+        {
+          "text": "Radar",
+          "location": [
+            472,
+            477
+          ]
+        },
+        {
+          "text": "Radar",
+          "location": [
+            819,
+            824
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12464,
+        "joy": 0.048577,
+        "fear": 0.108473,
+        "disgust": 0.012713,
+        "anger": 0.120523
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Nacional Typefoundry",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nacional_Typefoundry"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.49223,
+        "label": "positive"
+      },
+      "relevance": 0.126294,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            905,
+            916
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.344405,
+        "joy": 0.036047,
+        "fear": 0.031957,
+        "disgust": 0.114885,
+        "anger": 0.203341
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.919282,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "Gwen Stefani",
+      "relevance": 0.90459,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+    },
+    {
+      "text": "Billy Ray Cyrus",
+      "relevance": 0.864082,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Ray_Cyrus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.678016,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 786,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.466732,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bill O'Reilly",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.893681,
+      "emotion": {
+        "sadness": 0.115547,
+        "joy": 0.133518,
+        "fear": 0.015897,
+        "disgust": 0.589594,
+        "anger": 0.204502
+      },
+      "count": 1
+    },
+    {
+      "text": "utmost respect",
+      "sentiment": {
+        "score": 0.964508,
+        "label": "positive"
+      },
+      "relevance": 0.788461,
+      "emotion": {
+        "sadness": 0.052368,
+        "joy": 0.401675,
+        "fear": 0.021575,
+        "disgust": 0.089663,
+        "anger": 0.009347
+      },
+      "count": 1
+    },
+    {
+      "text": "O'Reilly",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.681579,
+      "emotion": {
+        "sadness": 0.073185,
+        "joy": 0.044659,
+        "fear": 0.009632,
+        "disgust": 0.763045,
+        "anger": 0.299301
+      },
+      "count": 2
+    },
+    {
+      "text": "public comment",
+      "sentiment": {
+        "score": -0.605374,
+        "label": "negative"
+      },
+      "relevance": 0.6653,
+      "emotion": {
+        "sadness": 0.152741,
+        "joy": 0.127769,
+        "fear": 0.141663,
+        "disgust": 0.209912,
+        "anger": 0.166481
+      },
+      "count": 1
+    },
+    {
+      "text": "appearance",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.64105,
+      "emotion": {
+        "sadness": 0.094841,
+        "joy": 0.355986,
+        "fear": 0.057151,
+        "disgust": 0.392679,
+        "anger": 0.222254
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bill O'Reilly",
+      "sentiment": {
+        "score": -0.403141,
+        "label": "negative"
+      },
+      "relevance": 0.926675,
+      "mentions": [
+        {
+          "text": "Bill O'Reilly",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Bill O'Reilly",
+          "location": [
+            97,
+            110
+          ]
+        },
+        {
+          "text": "O'Reilly",
+          "location": [
+            257,
+            265
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            355,
+            357
+          ]
+        },
+        {
+          "text": "O'Reilly",
+          "location": [
+            457,
+            465
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            499,
+            501
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.494935,
+        "joy": 0.119888,
+        "fear": 0.101614,
+        "disgust": 0.602441,
+        "anger": 0.165284
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality",
+          "TVProducer",
+          "TVActor"
+        ],
+        "name": "Bill O'Reilly (political commentator)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_O'Reilly_(political_commentator)"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Rep. Maxine Waters",
+      "sentiment": {
+        "score": -0.519921,
+        "label": "negative"
+      },
+      "relevance": 0.447445,
+      "mentions": [
+        {
+          "text": "Rep. Maxine Waters",
+          "location": [
+            189,
+            207
+          ]
+        },
+        {
+          "text": "Ms. Waters",
+          "location": [
+            323,
+            333
+          ]
+        },
+        {
+          "text": "Ms. Waters",
+          "location": [
+            774,
+            784
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.068139,
+        "joy": 0.21274,
+        "fear": 0.024746,
+        "disgust": 0.605781,
+        "anger": 0.27998
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson"
+        ],
+        "name": "Maxine Waters",
+        "dbpedia_resource": "http://dbpedia.org/resource/Maxine_Waters"
+      },
+      "count": 3
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Fox & Friends",
+      "sentiment": {
+        "score": 0.346089,
+        "label": "positive"
+      },
+      "relevance": 0.196063,
+      "mentions": [
+        {
+          "text": "Fox & Friends",
+          "location": [
+            242,
+            255
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.157202,
+        "joy": 0.147003,
+        "fear": 0.061301,
+        "disgust": 0.107073,
+        "anger": 0.07988
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Fox & Friends",
+        "dbpedia_resource": "http://dbpedia.org/resource/Fox_&_Friends"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Fox",
+      "sentiment": {
+        "score": -0.519921,
+        "label": "negative"
+      },
+      "relevance": 0.176296,
+      "mentions": [
+        {
+          "text": "Fox",
+          "location": [
+            83,
+            86
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.182804,
+        "joy": 0.182681,
+        "fear": 0.014199,
+        "disgust": 0.605727,
+        "anger": 0.167045
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fox News Channel",
+      "relevance": 0.945975,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fox_News_Channel"
+    },
+    {
+      "text": "The O'Reilly Factor",
+      "relevance": 0.916995,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_O'Reilly_Factor"
+    },
+    {
+      "text": "Bill O'Reilly",
+      "relevance": 0.887419,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_O'Reilly_(political_commentator)"
+    },
+    {
+      "text": "Glenn Beck",
+      "relevance": 0.580764,
+      "dbpedia_resource": "http://dbpedia.org/resource/Glenn_Beck"
+    },
+    {
+      "text": "Fox Report",
+      "relevance": 0.562473,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fox_Report"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.632713,
+      "label": "/society/sex"
+    }
+  ]
+}

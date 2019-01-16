@@ -1,0 +1,141 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.581437,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ariana Grande",
+      "sentiment": {
+        "score": -0.581437,
+        "label": "negative"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.217635,
+        "joy": 0.007123,
+        "fear": 0.777478,
+        "disgust": 0.084977,
+        "anger": 0.19077
+      },
+      "count": 1
+    },
+    {
+      "text": "musicians",
+      "sentiment": {
+        "score": -0.581437,
+        "label": "negative"
+      },
+      "relevance": 0.660062,
+      "emotion": {
+        "sadness": 0.217635,
+        "joy": 0.007123,
+        "fear": 0.777478,
+        "disgust": 0.084977,
+        "anger": 0.19077
+      },
+      "count": 1
+    },
+    {
+      "text": "Manchester terror attack",
+      "sentiment": {
+        "score": -0.581437,
+        "label": "negative"
+      },
+      "relevance": 0.178118,
+      "emotion": {
+        "sadness": 0.217635,
+        "joy": 0.007123,
+        "fear": 0.777478,
+        "disgust": 0.084977,
+        "anger": 0.19077
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ariana Grande",
+      "sentiment": {
+        "score": 0.377272,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ariana Grande",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.524012,
+        "joy": 0.05298,
+        "fear": 0.222717,
+        "disgust": 0.122873,
+        "anger": 0.187465
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ariana Grande",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ariana_Grande"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Manchester",
+      "sentiment": {
+        "score": -0.398219,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Manchester",
+          "location": [
+            45,
+            55
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10881,
+        "joy": 0.008677,
+        "fear": 0.850868,
+        "disgust": 0.079339,
+        "anger": 0.16714
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Terrorism",
+      "relevance": 0.887726,
+      "dbpedia_resource": "http://dbpedia.org/resource/Terrorism"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.747444,
+      "label": "/art and entertainment/music/music genres/world music"
+    }
+  ]
+}

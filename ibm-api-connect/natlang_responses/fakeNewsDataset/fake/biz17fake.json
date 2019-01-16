@@ -1,0 +1,410 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1012,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.84622,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "UK banks",
+      "sentiment": {
+        "score": -0.933239,
+        "label": "negative"
+      },
+      "relevance": 0.988735,
+      "emotion": {
+        "sadness": 0.298224,
+        "joy": 0.116123,
+        "fear": 0.273405,
+        "disgust": 0.031794,
+        "anger": 0.345119
+      },
+      "count": 2
+    },
+    {
+      "text": "Bank of England",
+      "sentiment": {
+        "score": -0.896176,
+        "label": "negative"
+      },
+      "relevance": 0.919721,
+      "emotion": {
+        "sadness": 0.289061,
+        "joy": 0.125012,
+        "fear": 0.270869,
+        "disgust": 0.031524,
+        "anger": 0.329453
+      },
+      "count": 3
+    },
+    {
+      "text": "contingency plans",
+      "sentiment": {
+        "score": -0.875627,
+        "label": "negative"
+      },
+      "relevance": 0.860233,
+      "emotion": {
+        "sadness": 0.254934,
+        "joy": 0.179668,
+        "fear": 0.03698,
+        "disgust": 0.036497,
+        "anger": 0.104577
+      },
+      "count": 2
+    },
+    {
+      "text": "Theresa May's UK government",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.642551,
+      "emotion": {
+        "sadness": 0.115923,
+        "joy": 0.08944,
+        "fear": 0.109669,
+        "disgust": 0.081945,
+        "anger": 0.151961
+      },
+      "count": 1
+    },
+    {
+      "text": "state of readiness of UK banks",
+      "sentiment": {
+        "score": -0.872823,
+        "label": "negative"
+      },
+      "relevance": 0.616619,
+      "emotion": {
+        "sadness": 0.296208,
+        "joy": 0.307297,
+        "fear": 0.071694,
+        "disgust": 0.057308,
+        "anger": 0.119141
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": -0.525956,
+        "label": "negative"
+      },
+      "relevance": 0.9384,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            73,
+            75
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            205,
+            207
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            400,
+            402
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            469,
+            471
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            541,
+            543
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            650,
+            652
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            782,
+            784
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.218233,
+        "joy": 0.132541,
+        "fear": 0.517871,
+        "disgust": 0.054503,
+        "anger": 0.15113
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 8
+    },
+    {
+      "type": "Company",
+      "text": "Bank of England",
+      "sentiment": {
+        "score": -0.503364,
+        "label": "negative"
+      },
+      "relevance": 0.798638,
+      "mentions": [
+        {
+          "text": "Bank of England",
+          "location": [
+            42,
+            57
+          ]
+        },
+        {
+          "text": "Bank of England",
+          "location": [
+            168,
+            183
+          ]
+        },
+        {
+          "text": "Bank of England",
+          "location": [
+            345,
+            360
+          ]
+        },
+        {
+          "text": "Bank of England",
+          "location": [
+            593,
+            608
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.279358,
+        "joy": 0.184588,
+        "fear": 0.091021,
+        "disgust": 0.038938,
+        "anger": 0.23007
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Invention"
+        ],
+        "name": "Bank of England",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bank_of_England"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Brexit",
+      "sentiment": {
+        "score": -0.523168,
+        "label": "negative"
+      },
+      "relevance": 0.481138,
+      "mentions": [
+        {
+          "text": "Brexit",
+          "location": [
+            31,
+            37
+          ]
+        },
+        {
+          "text": "Brexit",
+          "location": [
+            284,
+            290
+          ]
+        },
+        {
+          "text": "Brexit",
+          "location": [
+            446,
+            452
+          ]
+        },
+        {
+          "text": "Brexit",
+          "location": [
+            893,
+            899
+          ]
+        },
+        {
+          "text": "Brexit",
+          "location": [
+            991,
+            997
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.311338,
+        "joy": 0.227841,
+        "fear": 0.039591,
+        "disgust": 0.030141,
+        "anger": 0.071876
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "European Union",
+      "sentiment": {
+        "score": -0.559763,
+        "label": "negative"
+      },
+      "relevance": 0.282597,
+      "mentions": [
+        {
+          "text": "European Union",
+          "location": [
+            147,
+            161
+          ]
+        },
+        {
+          "text": "EU",
+          "location": [
+            565,
+            567
+          ]
+        },
+        {
+          "text": "EU",
+          "location": [
+            794,
+            796
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214459,
+        "joy": 0.069321,
+        "fear": 0.4498,
+        "disgust": 0.026245,
+        "anger": 0.335002
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Theresa May",
+      "sentiment": {
+        "score": -0.462859,
+        "label": "negative"
+      },
+      "relevance": 0.236711,
+      "mentions": [
+        {
+          "text": "Theresa May",
+          "location": [
+            455,
+            466
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Theresa May",
+        "dbpedia_resource": "http://dbpedia.org/resource/Theresa_May"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Kingdom",
+      "relevance": 0.988865,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.806149,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "London",
+      "relevance": 0.661542,
+      "dbpedia_resource": "http://dbpedia.org/resource/London"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.648917,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "English language",
+      "relevance": 0.587593,
+      "dbpedia_resource": "http://dbpedia.org/resource/English_language"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.896208,
+      "label": "/finance/bank"
+    }
+  ]
+}

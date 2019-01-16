@@ -1,0 +1,288 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 743,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.651834,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ex-girlfriend",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.805124,
+      "emotion": {
+        "sadness": 0.560013,
+        "joy": 0.053422,
+        "fear": 0.031663,
+        "disgust": 0.418839,
+        "anger": 0.208734
+      },
+      "count": 1
+    },
+    {
+      "text": "32-year-old",
+      "sentiment": {
+        "score": -0.841556,
+        "label": "negative"
+      },
+      "relevance": 0.663643,
+      "emotion": {
+        "sadness": 0.242871,
+        "joy": 0.370141,
+        "fear": 0.010641,
+        "disgust": 0.438004,
+        "anger": 0.090085
+      },
+      "count": 1
+    },
+    {
+      "text": "lengthy post",
+      "sentiment": {
+        "score": -0.841556,
+        "label": "negative"
+      },
+      "relevance": 0.629697,
+      "emotion": {
+        "sadness": 0.242871,
+        "joy": 0.370141,
+        "fear": 0.010641,
+        "disgust": 0.438004,
+        "anger": 0.090085
+      },
+      "count": 1
+    },
+    {
+      "text": "sponsors of the Brazilian second-division side",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.625787,
+      "emotion": {
+        "sadness": 0.192372,
+        "joy": 0.290897,
+        "fear": 0.066767,
+        "disgust": 0.301864,
+        "anger": 0.129609
+      },
+      "count": 1
+    },
+    {
+      "text": "controversial return",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.607905,
+      "emotion": {
+        "sadness": 0.590773,
+        "joy": 0.124872,
+        "fear": 0.037147,
+        "disgust": 0.3123,
+        "anger": 0.132631
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bruno Fernandes de Souza",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.965342,
+      "mentions": [
+        {
+          "text": "Bruno",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Bruno Fernandes de Souza",
+          "location": [
+            205,
+            229
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.590773,
+        "joy": 0.124872,
+        "fear": 0.037147,
+        "disgust": 0.3123,
+        "anger": 0.132631
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Bruno Fernandes de Souza",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bruno_Fernandes_de_Souza"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Boa Esporte",
+      "sentiment": {
+        "score": 0.324985,
+        "label": "positive"
+      },
+      "relevance": 0.936652,
+      "mentions": [
+        {
+          "text": "Boa Esporte",
+          "location": [
+            277,
+            288
+          ]
+        },
+        {
+          "text": "Boa Esporte",
+          "location": [
+            398,
+            409
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.486005,
+        "joy": 0.171008,
+        "fear": 0.027615,
+        "disgust": 0.348097,
+        "anger": 0.163299
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Boa Esporte",
+      "sentiment": {
+        "score": -0.753265,
+        "label": "negative"
+      },
+      "relevance": 0.579467,
+      "mentions": [
+        {
+          "text": "Boa Esporte",
+          "location": [
+            470,
+            481
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.486005,
+        "joy": 0.171008,
+        "fear": 0.027615,
+        "disgust": 0.348097,
+        "anger": 0.163299
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rone Moraes",
+      "sentiment": {
+        "score": -0.361888,
+        "label": "negative"
+      },
+      "relevance": 0.469059,
+      "mentions": [
+        {
+          "text": "seven years",
+          "location": [
+            107,
+            118
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.21897,
+        "joy": 0.315505,
+        "fear": 0.007469,
+        "disgust": 0.434627,
+        "anger": 0.185284
+      },
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "soccer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.353239,
+      "mentions": [
+        {
+          "text": "soccer",
+          "location": [
+            85,
+            91
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Association football",
+        "dbpedia_resource": "http://dbpedia.org/resource/Association_football"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brazil",
+      "relevance": 0.955502,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+      "text": "FIFA World Cup",
+      "relevance": 0.713762,
+      "dbpedia_resource": "http://dbpedia.org/resource/FIFA_World_Cup"
+    },
+    {
+      "text": "Clube de Regatas do Flamengo",
+      "relevance": 0.686219,
+      "dbpedia_resource": "http://dbpedia.org/resource/Clube_de_Regatas_do_Flamengo"
+    },
+    {
+      "text": "Bruno Fernandes de Souza",
+      "relevance": 0.601497,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruno_Fernandes_de_Souza"
+    },
+    {
+      "text": "Association football",
+      "relevance": 0.580338,
+      "dbpedia_resource": "http://dbpedia.org/resource/Association_football"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.748223,
+      "label": "/sports/soccer"
+    }
+  ]
+}

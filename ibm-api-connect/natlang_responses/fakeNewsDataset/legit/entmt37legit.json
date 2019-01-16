@@ -1,0 +1,345 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1109,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.427588,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jake Gyllenhaal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.873817,
+      "emotion": {
+        "sadness": 0.050211,
+        "joy": 0.878022,
+        "fear": 0.008904,
+        "disgust": 0.058859,
+        "anger": 0.006852
+      },
+      "count": 1
+    },
+    {
+      "text": "actor Jake Gyllenhaal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.710213,
+      "emotion": {
+        "sadness": 0.062025,
+        "joy": 0.850076,
+        "fear": 0.014476,
+        "disgust": 0.06589,
+        "anger": 0.007419
+      },
+      "count": 1
+    },
+    {
+      "text": "new sci-fi thriller",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.671527,
+      "emotion": {
+        "sadness": 0.062025,
+        "joy": 0.850076,
+        "fear": 0.014476,
+        "disgust": 0.06589,
+        "anger": 0.007419
+      },
+      "count": 1
+    },
+    {
+      "text": "Good Morning America",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.668599,
+      "emotion": {
+        "sadness": 0.062025,
+        "joy": 0.850076,
+        "fear": 0.014476,
+        "disgust": 0.06589,
+        "anger": 0.007419
+      },
+      "count": 1
+    },
+    {
+      "text": "Dr. David Jordan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.602212,
+      "emotion": {
+        "sadness": 0.229812,
+        "joy": 0.584474,
+        "fear": 0.091188,
+        "disgust": 0.040909,
+        "anger": 0.071094
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jake Gyllenhaal",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.890977,
+      "mentions": [
+        {
+          "text": "Jake Gyllenhaal",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Jake Gyllenhaal",
+          "location": [
+            102,
+            117
+          ]
+        },
+        {
+          "text": "Gyllenhaal",
+          "location": [
+            339,
+            349
+          ]
+        },
+        {
+          "text": "Gyllenhaal",
+          "location": [
+            595,
+            605
+          ]
+        },
+        {
+          "text": "Gyllenhaal",
+          "location": [
+            984,
+            994
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1006,
+            1008
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1047,
+            1049
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.612522,
+        "joy": 0.574666,
+        "fear": 0.085477,
+        "disgust": 0.107856,
+        "anger": 0.083274
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Jake Gyllenhaal",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Reynolds",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.295542,
+      "mentions": [
+        {
+          "text": "Ryan Reynolds",
+          "location": [
+            62,
+            75
+          ]
+        },
+        {
+          "text": "Ryan Reynolds",
+          "location": [
+            314,
+            327
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.054605,
+        "joy": 0.831587,
+        "fear": 0.03957,
+        "disgust": 0.051929,
+        "anger": 0.009506
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr. David Jordan",
+      "sentiment": {
+        "score": 0.366178,
+        "label": "positive"
+      },
+      "relevance": 0.186576,
+      "mentions": [
+        {
+          "text": "Dr. David Jordan",
+          "location": [
+            356,
+            372
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            435,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.229253,
+        "joy": 0.44135,
+        "fear": 0.030173,
+        "disgust": 0.33213,
+        "anger": 0.067782
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Michael Strahan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.177376,
+      "mentions": [
+        {
+          "text": "Michael Strahan",
+          "location": [
+            228,
+            243
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.075305,
+        "joy": 0.771828,
+        "fear": 0.057448,
+        "disgust": 0.064099,
+        "anger": 0.01326
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "Celebrity",
+          "FootballPlayer",
+          "TVActor"
+        ],
+        "name": "Michael Strahan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Strahan"
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Good Morning America",
+      "sentiment": {
+        "score": 0.622415,
+        "label": "positive"
+      },
+      "relevance": 0.17611,
+      "mentions": [
+        {
+          "text": "Good Morning America",
+          "location": [
+            199,
+            219
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.042386,
+        "joy": 0.879244,
+        "fear": 0.012166,
+        "disgust": 0.019707,
+        "anger": 0.021288
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Good Morning America",
+        "dbpedia_resource": "http://dbpedia.org/resource/Good_Morning_America"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jake Gyllenhaal",
+      "relevance": 0.976348,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+    },
+    {
+      "text": "Actor",
+      "relevance": 0.531342,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.526958,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Outer space",
+      "relevance": 0.477057,
+      "dbpedia_resource": "http://dbpedia.org/resource/Outer_space"
+    },
+    {
+      "text": "Stephen Gyllenhaal",
+      "relevance": 0.416534,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stephen_Gyllenhaal"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.679692,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

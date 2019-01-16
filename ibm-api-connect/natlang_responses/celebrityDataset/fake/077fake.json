@@ -1,0 +1,145 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.869599,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.869599,
+        "label": "negative"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.301029,
+        "joy": 0.068279,
+        "fear": 0.287715,
+        "disgust": 0.129304,
+        "anger": 0.378974
+      },
+      "count": 1
+    },
+    {
+      "text": "War",
+      "sentiment": {
+        "score": -0.869599,
+        "label": "negative"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.301029,
+        "joy": 0.068279,
+        "fear": 0.287715,
+        "disgust": 0.129304,
+        "anger": 0.378974
+      },
+      "count": 1
+    },
+    {
+      "text": "Amal Alamuddin",
+      "sentiment": {
+        "score": -0.869599,
+        "label": "negative"
+      },
+      "relevance": 0.287061,
+      "emotion": {
+        "sadness": 0.301029,
+        "joy": 0.068279,
+        "fear": 0.287715,
+        "disgust": 0.129304,
+        "anger": 0.378974
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Amal Alamuddin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Amal Alamuddin",
+          "location": [
+            17,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.126102,
+        "joy": 0.177938,
+        "fear": 0.076208,
+        "disgust": 0.060218,
+        "anger": 0.08099
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.126102,
+        "joy": 0.177938,
+        "fear": 0.076208,
+        "disgust": 0.060218,
+        "anger": 0.08099
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.986951,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 642,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.780891,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "second email",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.654701,
+      "emotion": {
+        "sadness": 0.709034,
+        "joy": 0.04459,
+        "fear": 0.068524,
+        "disgust": 0.045658,
+        "anger": 0.175871
+      },
+      "count": 1
+    },
+    {
+      "text": "prospective students",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.647829,
+      "emotion": {
+        "sadness": 0.709034,
+        "joy": 0.04459,
+        "fear": 0.068524,
+        "disgust": 0.045658,
+        "anger": 0.175871
+      },
+      "count": 1
+    },
+    {
+      "text": "applicant",
+      "sentiment": {
+        "score": -0.760649,
+        "label": "negative"
+      },
+      "relevance": 0.583847,
+      "emotion": {
+        "sadness": 0.205106,
+        "joy": 0.404114,
+        "fear": 0.298177,
+        "disgust": 0.039605,
+        "anger": 0.192683
+      },
+      "count": 2
+    },
+    {
+      "text": "jubilation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.583226,
+      "emotion": {
+        "sadness": 0.709034,
+        "joy": 0.04459,
+        "fear": 0.068524,
+        "disgust": 0.045658,
+        "anger": 0.175871
+      },
+      "count": 1
+    },
+    {
+      "text": "23-year-old",
+      "sentiment": {
+        "score": -0.811348,
+        "label": "negative"
+      },
+      "relevance": 0.582963,
+      "emotion": {
+        "sadness": 0.499419,
+        "joy": 0.085102,
+        "fear": 0.111207,
+        "disgust": 0.250819,
+        "anger": 0.157106
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Columbia University Mailman School of Public Health",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.804653,
+      "mentions": [
+        {
+          "text": "Columbia University Mailman School of Public Health",
+          "location": [
+            76,
+            127
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147548,
+        "joy": 0.442805,
+        "fear": 0.130336,
+        "disgust": 0.054035,
+        "anger": 0.279845
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Columbia",
+      "sentiment": {
+        "score": -0.317847,
+        "label": "negative"
+      },
+      "relevance": 0.689034,
+      "mentions": [
+        {
+          "text": "Columbia",
+          "location": [
+            24,
+            32
+          ]
+        },
+        {
+          "text": "Columbia",
+          "location": [
+            352,
+            360
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.220367,
+        "joy": 0.450533,
+        "fear": 0.063132,
+        "disgust": 0.099765,
+        "anger": 0.245152
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "75 minutes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.689034,
+      "mentions": [
+        {
+          "text": "75 minutes",
+          "location": [
+            490,
+            500
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "23-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.689034,
+      "mentions": [
+        {
+          "text": "23-year",
+          "location": [
+            331,
+            338
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Columbia University",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+      "text": "Columbia University Press",
+      "relevance": 0.745954,
+      "dbpedia_resource": "http://dbpedia.org/resource/Columbia_University_Press"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.60259,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 577,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.308781,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "double ad campaign",
+      "sentiment": {
+        "score": -0.415462,
+        "label": "negative"
+      },
+      "relevance": 0.858037,
+      "emotion": {
+        "sadness": 0.125478,
+        "joy": 0.136913,
+        "fear": 0.052672,
+        "disgust": 0.262769,
+        "anger": 0.205486
+      },
+      "count": 1
+    },
+    {
+      "text": "AT&T",
+      "sentiment": {
+        "score": -0.415462,
+        "label": "negative"
+      },
+      "relevance": 0.836902,
+      "emotion": {
+        "sadness": 0.094123,
+        "joy": 0.127494,
+        "fear": 0.036493,
+        "disgust": 0.221419,
+        "anger": 0.164319
+      },
+      "count": 2
+    },
+    {
+      "text": "YouTube content",
+      "sentiment": {
+        "score": -0.415462,
+        "label": "negative"
+      },
+      "relevance": 0.775981,
+      "emotion": {
+        "sadness": 0.125478,
+        "joy": 0.136913,
+        "fear": 0.052672,
+        "disgust": 0.262769,
+        "anger": 0.205486
+      },
+      "count": 1
+    },
+    {
+      "text": "ad campaigns",
+      "sentiment": {
+        "score": -0.415462,
+        "label": "negative"
+      },
+      "relevance": 0.621291,
+      "emotion": {
+        "sadness": 0.040573,
+        "joy": 0.111502,
+        "fear": 0.01545,
+        "disgust": 0.420891,
+        "anger": 0.136722
+      },
+      "count": 2
+    },
+    {
+      "text": "outcome of the marketing partnership",
+      "sentiment": {
+        "score": 0.672333,
+        "label": "positive"
+      },
+      "relevance": 0.618035,
+      "emotion": {
+        "sadness": 0.037107,
+        "joy": 0.610003,
+        "fear": 0.036401,
+        "disgust": 0.235475,
+        "anger": 0.15081
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.893989,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            18,
+            25
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            186,
+            193
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            259,
+            266
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.044198,
+        "joy": 0.128402,
+        "fear": 0.016397,
+        "disgust": 0.370047,
+        "anger": 0.208247
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Phillip Schindler",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.637814,
+      "mentions": [
+        {
+          "text": "Phillip Schindler",
+          "location": [
+            301,
+            318
+          ]
+        },
+        {
+          "text": "Schindler",
+          "location": [
+            548,
+            557
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.03958,
+        "joy": 0.80651,
+        "fear": 0.054672,
+        "disgust": 0.047468,
+        "anger": 0.082047
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Verizon",
+      "sentiment": {
+        "score": -0.233339,
+        "label": "negative"
+      },
+      "relevance": 0.543004,
+      "mentions": [
+        {
+          "text": "Verizon",
+          "location": [
+            41,
+            48
+          ]
+        },
+        {
+          "text": "Verizon",
+          "location": [
+            204,
+            211
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165051,
+        "joy": 0.081459,
+        "fear": 0.086001,
+        "disgust": 0.324424,
+        "anger": 0.039859
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Verizon Communications",
+        "dbpedia_resource": "http://dbpedia.org/resource/Verizon_Communications"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "AT&T",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.332877,
+      "mentions": [
+        {
+          "text": "AT&T",
+          "location": [
+            35,
+            39
+          ]
+        },
+        {
+          "text": "AT&T",
+          "location": [
+            195,
+            199
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158932,
+        "joy": 0.075058,
+        "fear": 0.07846,
+        "disgust": 0.232508,
+        "anger": 0.038593
+      },
+      "disambiguation": {
+        "subtype": [
+          "SoftwareDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "AT&T",
+        "dbpedia_resource": "http://dbpedia.org/resource/AT&T"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Chief Business Officer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.295132,
+      "mentions": [
+        {
+          "text": "Chief Business Officer",
+          "location": [
+            278,
+            300
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.048167,
+        "joy": 0.72949,
+        "fear": 0.048206,
+        "disgust": 0.097093,
+        "anger": 0.107408
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Corporation",
+      "relevance": 0.943426,
+      "dbpedia_resource": "http://dbpedia.org/resource/Corporation"
+    },
+    {
+      "text": "Advertising",
+      "relevance": 0.868403,
+      "dbpedia_resource": "http://dbpedia.org/resource/Advertising"
+    },
+    {
+      "text": "Partnership",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Partnership"
+    },
+    {
+      "text": "Anno Domini",
+      "relevance": 0.627377,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anno_Domini"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.963739,
+      "label": "/society/sex/pornography"
+    }
+  ]
+}

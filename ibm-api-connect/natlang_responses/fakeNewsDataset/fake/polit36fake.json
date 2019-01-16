@@ -1,0 +1,283 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 555,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.927595,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "White House battles Clintons",
+      "sentiment": {
+        "score": -0.906637,
+        "label": "negative"
+      },
+      "relevance": 0.919671,
+      "emotion": {
+        "sadness": 0.273911,
+        "joy": 0.085912,
+        "fear": 0.203584,
+        "disgust": 0.091665,
+        "anger": 0.41119
+      },
+      "count": 1
+    },
+    {
+      "text": "Former Secretary of State Hillary Clinton",
+      "sentiment": {
+        "score": -0.906637,
+        "label": "negative"
+      },
+      "relevance": 0.79313,
+      "emotion": {
+        "sadness": 0.163883,
+        "joy": 0.196777,
+        "fear": 0.142153,
+        "disgust": 0.279405,
+        "anger": 0.39158
+      },
+      "count": 1
+    },
+    {
+      "text": "former President Bill Clinton",
+      "sentiment": {
+        "score": -0.906637,
+        "label": "negative"
+      },
+      "relevance": 0.781385,
+      "emotion": {
+        "sadness": 0.163883,
+        "joy": 0.196777,
+        "fear": 0.142153,
+        "disgust": 0.279405,
+        "anger": 0.39158
+      },
+      "count": 1
+    },
+    {
+      "text": "Spicer questions",
+      "sentiment": {
+        "score": -0.976929,
+        "label": "negative"
+      },
+      "relevance": 0.704857,
+      "emotion": {
+        "sadness": 0.309071,
+        "joy": 0.076391,
+        "fear": 0.604096,
+        "disgust": 0.123696,
+        "anger": 0.110986
+      },
+      "count": 1
+    },
+    {
+      "text": "Russian government",
+      "sentiment": {
+        "score": -0.976929,
+        "label": "negative"
+      },
+      "relevance": 0.590376,
+      "emotion": {
+        "sadness": 0.309071,
+        "joy": 0.076391,
+        "fear": 0.604096,
+        "disgust": 0.123696,
+        "anger": 0.110986
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Clintons",
+      "sentiment": {
+        "score": -0.560443,
+        "label": "negative"
+      },
+      "relevance": 0.730857,
+      "mentions": [
+        {
+          "text": "Clintons",
+          "location": [
+            20,
+            28
+          ]
+        },
+        {
+          "text": "Clintons",
+          "location": [
+            482,
+            490
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.39516,
+        "joy": 0.075276,
+        "fear": 0.139567,
+        "disgust": 0.20562,
+        "anger": 0.358009
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sean Spicer",
+      "sentiment": {
+        "score": -0.544563,
+        "label": "negative"
+      },
+      "relevance": 0.710522,
+      "mentions": [
+        {
+          "text": "Sean Spicer",
+          "location": [
+            75,
+            86
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            225,
+            231
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18158,
+        "joy": 0.159274,
+        "fear": 0.31092,
+        "disgust": 0.243816,
+        "anger": 0.377182
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.670531,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            155,
+            170
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163883,
+        "joy": 0.196777,
+        "fear": 0.142153,
+        "disgust": 0.279405,
+        "anger": 0.39158
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bill Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.650547,
+      "mentions": [
+        {
+          "text": "Bill Clinton",
+          "location": [
+            112,
+            124
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163883,
+        "joy": 0.196777,
+        "fear": 0.142153,
+        "disgust": 0.279405,
+        "anger": 0.39158
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Politician",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "MusicalGroupMember",
+          "OfficeHolder",
+          "PoliticalAppointer",
+          "TVPersonality",
+          "FilmActor",
+          "FilmWriter",
+          "USPresident"
+        ],
+        "name": "Bill Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.953721,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.700506,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "United States Congress",
+      "relevance": 0.620407,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+    },
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.578391,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.427988,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.842598,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

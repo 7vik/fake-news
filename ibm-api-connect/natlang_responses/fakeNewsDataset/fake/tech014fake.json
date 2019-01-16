@@ -1,0 +1,243 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 548,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.50002,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Oldest Vespa",
+      "sentiment": {
+        "score": -0.585841,
+        "label": "negative"
+      },
+      "relevance": 0.814995,
+      "emotion": {
+        "sadness": 0.451364,
+        "joy": 0.083745,
+        "fear": 0.193199,
+        "disgust": 0.235298,
+        "anger": 0.282414
+      },
+      "count": 1
+    },
+    {
+      "text": "serial number",
+      "sentiment": {
+        "score": -0.655385,
+        "label": "negative"
+      },
+      "relevance": 0.784596,
+      "emotion": {
+        "sadness": 0.587401,
+        "joy": 0.26521,
+        "fear": 0.075273,
+        "disgust": 0.023312,
+        "anger": 0.076449
+      },
+      "count": 1
+    },
+    {
+      "text": "classic Vespa car",
+      "sentiment": {
+        "score": -0.585841,
+        "label": "negative"
+      },
+      "relevance": 0.677021,
+      "emotion": {
+        "sadness": 0.123768,
+        "joy": 0.4142,
+        "fear": 0.191704,
+        "disgust": 0.101787,
+        "anger": 0.123757
+      },
+      "count": 1
+    },
+    {
+      "text": "O Series",
+      "sentiment": {
+        "score": -0.655385,
+        "label": "negative"
+      },
+      "relevance": 0.670175,
+      "emotion": {
+        "sadness": 0.587401,
+        "joy": 0.26521,
+        "fear": 0.075273,
+        "disgust": 0.023312,
+        "anger": 0.076449
+      },
+      "count": 1
+    },
+    {
+      "text": "hands of collector John Grimes",
+      "sentiment": {
+        "score": -0.638877,
+        "label": "negative"
+      },
+      "relevance": 0.650087,
+      "emotion": {
+        "sadness": 0.059461,
+        "joy": 0.170268,
+        "fear": 0.125089,
+        "disgust": 0.396763,
+        "anger": 0.347553
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Audrey Hepburn",
+      "sentiment": {
+        "score": 0.721107,
+        "label": "positive"
+      },
+      "relevance": 0.600251,
+      "mentions": [
+        {
+          "text": "Audrey Hepburn",
+          "location": [
+            100,
+            114
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123768,
+        "joy": 0.4142,
+        "fear": 0.191704,
+        "disgust": 0.101787,
+        "anger": 0.123757
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Audrey Hepburn",
+        "dbpedia_resource": "http://dbpedia.org/resource/Audrey_Hepburn"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Piaggio",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.490245,
+      "mentions": [
+        {
+          "text": "Piaggio",
+          "location": [
+            416,
+            423
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Piaggio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Piaggio"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Grimes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.471538,
+      "mentions": [
+        {
+          "text": "John Grimes",
+          "location": [
+            214,
+            225
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.08488,
+        "joy": 0.062764,
+        "fear": 0.174746,
+        "disgust": 0.345757,
+        "anger": 0.391955
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Rome",
+      "sentiment": {
+        "score": 0.721107,
+        "label": "positive"
+      },
+      "relevance": 0.387793,
+      "mentions": [
+        {
+          "text": "Rome",
+          "location": [
+            128,
+            132
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123768,
+        "joy": 0.4142,
+        "fear": 0.191704,
+        "disgust": 0.101787,
+        "anger": 0.123757
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Vespa",
+      "relevance": 0.972168,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vespa"
+    },
+    {
+      "text": "Audrey Hepburn",
+      "relevance": 0.781242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Audrey_Hepburn"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994031,
+      "label": "/automotive and vehicles/cars/car culture"
+    }
+  ]
+}

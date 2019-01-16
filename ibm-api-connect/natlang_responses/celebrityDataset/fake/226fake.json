@@ -1,0 +1,280 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 838,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.467876,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Blue Ivy",
+      "sentiment": {
+        "score": 0.718734,
+        "label": "positive"
+      },
+      "relevance": 0.857783,
+      "emotion": {
+        "sadness": 0.119976,
+        "joy": 0.724276,
+        "fear": 0.025699,
+        "disgust": 0.069169,
+        "anger": 0.082979
+      },
+      "count": 1
+    },
+    {
+      "text": "Pregnant Mom Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.718734,
+        "label": "positive"
+      },
+      "relevance": 0.758108,
+      "emotion": {
+        "sadness": 0.257969,
+        "joy": 0.463135,
+        "fear": 0.074395,
+        "disgust": 0.153812,
+        "anger": 0.080754
+      },
+      "count": 1
+    },
+    {
+      "text": "5-year-old daughter\u00a0Blue Ivy",
+      "sentiment": {
+        "score": 0.718734,
+        "label": "positive"
+      },
+      "relevance": 0.736969,
+      "emotion": {
+        "sadness": 0.137838,
+        "joy": 0.69957,
+        "fear": 0.029955,
+        "disgust": 0.052672,
+        "anger": 0.083569
+      },
+      "count": 1
+    },
+    {
+      "text": "hubby\u00a0Jay Z",
+      "sentiment": {
+        "score": 0.635979,
+        "label": "positive"
+      },
+      "relevance": 0.705008,
+      "emotion": {
+        "sadness": 0.137838,
+        "joy": 0.69957,
+        "fear": 0.029955,
+        "disgust": 0.052672,
+        "anger": 0.083569
+      },
+      "count": 1
+    },
+    {
+      "text": "Play Nurse",
+      "sentiment": {
+        "score": 0.718734,
+        "label": "positive"
+      },
+      "relevance": 0.6995,
+      "emotion": {
+        "sadness": 0.257969,
+        "joy": 0.463135,
+        "fear": 0.074395,
+        "disgust": 0.153812,
+        "anger": 0.080754
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Blue Ivy",
+      "sentiment": {
+        "score": 0.43137,
+        "label": "positive"
+      },
+      "relevance": 0.750661,
+      "mentions": [
+        {
+          "text": "Blue Ivy",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Blue Ivy",
+          "location": [
+            147,
+            155
+          ]
+        },
+        {
+          "text": "Blue",
+          "location": [
+            230,
+            234
+          ]
+        },
+        {
+          "text": "Blue",
+          "location": [
+            342,
+            346
+          ]
+        },
+        {
+          "text": "Blue",
+          "location": [
+            667,
+            671
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.533537,
+        "joy": 0.566343,
+        "fear": 0.036019,
+        "disgust": 0.071176,
+        "anger": 0.120728
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Jay Z",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.407551,
+      "emotion": {
+        "sadness": 0.10213,
+        "joy": 0.20281,
+        "fear": 0.102232,
+        "disgust": 0.098202,
+        "anger": 0.091855
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVProducer",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor"
+        ],
+        "name": "Jay-Z",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.351648,
+        "label": "positive"
+      },
+      "relevance": 0.316486,
+      "mentions": [
+        {
+          "text": "Pregnant Mom Beyonc\u00e9",
+          "location": [
+            27,
+            47
+          ]
+        },
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            53,
+            60
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            78,
+            81
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.257969,
+        "joy": 0.463135,
+        "fear": 0.074395,
+        "disgust": 0.153812,
+        "anger": 0.080754
+      },
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "5-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.316486,
+      "mentions": [
+        {
+          "text": "5-year",
+          "location": [
+            127,
+            133
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Childbirth",
+      "relevance": 0.952656,
+      "dbpedia_resource": "http://dbpedia.org/resource/Childbirth"
+    },
+    {
+      "text": "Pregnancy",
+      "relevance": 0.879848,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+      "text": "Fountains of Wayne",
+      "relevance": 0.545208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fountains_of_Wayne"
+    },
+    {
+      "text": "Obstetrics",
+      "relevance": 0.520948,
+      "dbpedia_resource": "http://dbpedia.org/resource/Obstetrics"
+    },
+    {
+      "text": "Infant",
+      "relevance": 0.514076,
+      "dbpedia_resource": "http://dbpedia.org/resource/Infant"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.85388,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 662,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.461411,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wilfried Zaha",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.865137,
+      "emotion": {
+        "sadness": 0.159709,
+        "joy": 0.291276,
+        "fear": 0.056101,
+        "disgust": 0.26523,
+        "anger": 0.312895
+      },
+      "count": 1
+    },
+    {
+      "text": "English National football team",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.776732,
+      "emotion": {
+        "sadness": 0.159709,
+        "joy": 0.291276,
+        "fear": 0.056101,
+        "disgust": 0.26523,
+        "anger": 0.312895
+      },
+      "count": 2
+    },
+    {
+      "text": "Ivory Coast",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709856,
+      "emotion": {
+        "sadness": 0.248855,
+        "joy": 0.207472,
+        "fear": 0.071031,
+        "disgust": 0.309308,
+        "anger": 0.30176
+      },
+      "count": 1
+    },
+    {
+      "text": "difficult decision",
+      "sentiment": {
+        "score": -0.692813,
+        "label": "negative"
+      },
+      "relevance": 0.652268,
+      "emotion": {
+        "sadness": 0.378293,
+        "joy": 0.17917,
+        "fear": 0.07009,
+        "disgust": 0.133958,
+        "anger": 0.267565
+      },
+      "count": 1
+    },
+    {
+      "text": "national team of the country of his both",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.64146,
+      "emotion": {
+        "sadness": 0.248855,
+        "joy": 0.207472,
+        "fear": 0.071031,
+        "disgust": 0.309308,
+        "anger": 0.30176
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Wilfried Zaha",
+      "sentiment": {
+        "score": 0.778254,
+        "label": "positive"
+      },
+      "relevance": 0.754575,
+      "mentions": [
+        {
+          "text": "Wilfried Zaha",
+          "location": [
+            58,
+            71
+          ]
+        },
+        {
+          "text": "Zaha",
+          "location": [
+            301,
+            305
+          ]
+        },
+        {
+          "text": "Zaha",
+          "location": [
+            459,
+            463
+          ]
+        },
+        {
+          "text": "Zaha",
+          "location": [
+            586,
+            590
+          ]
+        },
+        {
+          "text": "a welcome re-addition",
+          "location": [
+            599,
+            620
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106031,
+        "joy": 0.435381,
+        "fear": 0.006173,
+        "disgust": 0.180544,
+        "anger": 0.395161
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Wilfried Zaha",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wilfried_Zaha"
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "English National Football team",
+      "sentiment": {
+        "score": 0.778254,
+        "label": "positive"
+      },
+      "relevance": 0.749344,
+      "mentions": [
+        {
+          "text": "English National Football team",
+          "location": [
+            628,
+            658
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.031532,
+        "joy": 0.499665,
+        "fear": 0.008573,
+        "disgust": 0.207945,
+        "anger": 0.327751
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "FootballTeam"
+        ],
+        "name": "England national football team",
+        "dbpedia_resource": "http://dbpedia.org/resource/England_national_football_team"
+      },
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "soccer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.312059,
+      "mentions": [
+        {
+          "text": "soccer",
+          "location": [
+            137,
+            143
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325443,
+        "joy": 0.118545,
+        "fear": 0.042051,
+        "disgust": 0.419597,
+        "anger": 0.068197
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Association football",
+        "dbpedia_resource": "http://dbpedia.org/resource/Association_football"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "England",
+      "relevance": 0.944202,
+      "dbpedia_resource": "http://dbpedia.org/resource/England"
+    },
+    {
+      "text": "Decision making",
+      "relevance": 0.772032,
+      "dbpedia_resource": "http://dbpedia.org/resource/Decision_making"
+    },
+    {
+      "text": "England national football team",
+      "relevance": 0.7578,
+      "dbpedia_resource": "http://dbpedia.org/resource/England_national_football_team"
+    },
+    {
+      "text": "Football",
+      "relevance": 0.701682,
+      "dbpedia_resource": "http://dbpedia.org/resource/Football"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.689283,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.62745,
+      "label": "/sports/soccer"
+    }
+  ]
+}

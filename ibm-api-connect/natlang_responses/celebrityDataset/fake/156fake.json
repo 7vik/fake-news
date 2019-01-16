@@ -1,0 +1,107 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 50,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.375275,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mariah Carey\u2019s manager",
+      "sentiment": {
+        "score": -0.375275,
+        "label": "negative"
+      },
+      "relevance": 0.9991,
+      "emotion": {
+        "sadness": 0.305962,
+        "joy": 0.066266,
+        "fear": 0.048484,
+        "disgust": 0.060123,
+        "anger": 0.358526
+      },
+      "count": 1
+    },
+    {
+      "text": "fame",
+      "sentiment": {
+        "score": -0.375275,
+        "label": "negative"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.305962,
+        "joy": 0.066266,
+        "fear": 0.048484,
+        "disgust": 0.060123,
+        "anger": 0.358526
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mariah Carey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Mariah Carey",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Mariah Carey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mariah Carey",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mariah_Carey"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.677979,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

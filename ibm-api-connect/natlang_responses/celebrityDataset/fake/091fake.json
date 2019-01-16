@@ -1,0 +1,213 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.72918,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jenna Elfman",
+      "sentiment": {
+        "score": -0.701648,
+        "label": "negative"
+      },
+      "relevance": 0.986584,
+      "emotion": {
+        "sadness": 0.590829,
+        "joy": 0.106912,
+        "fear": 0.141698,
+        "disgust": 0.223457,
+        "anger": 0.115338
+      },
+      "count": 1
+    },
+    {
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": -0.701648,
+        "label": "negative"
+      },
+      "relevance": 0.985211,
+      "emotion": {
+        "sadness": 0.590829,
+        "joy": 0.106912,
+        "fear": 0.141698,
+        "disgust": 0.223457,
+        "anger": 0.115338
+      },
+      "count": 1
+    },
+    {
+      "text": "GMA' Run-In",
+      "sentiment": {
+        "score": -0.701648,
+        "label": "negative"
+      },
+      "relevance": 0.120881,
+      "emotion": {
+        "sadness": 0.590829,
+        "joy": 0.106912,
+        "fear": 0.141698,
+        "disgust": 0.223457,
+        "anger": 0.115338
+      },
+      "count": 1
+    },
+    {
+      "text": "Scientology Showdown",
+      "sentiment": {
+        "score": -0.755299,
+        "label": "negative"
+      },
+      "relevance": 0.114976,
+      "emotion": {
+        "sadness": 0.121927,
+        "joy": 0.238144,
+        "fear": 0.086739,
+        "disgust": 0.078964,
+        "anger": 0.098043
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jenna Elfman",
+      "sentiment": {
+        "score": -0.55925,
+        "label": "negative"
+      },
+      "relevance": 0.952662,
+      "mentions": [
+        {
+          "text": "Jenna Elfman",
+          "location": [
+            37,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.593413,
+        "joy": 0.089917,
+        "fear": 0.108794,
+        "disgust": 0.276919,
+        "anger": 0.115363
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jenna Elfman",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jenna_Elfman"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": -0.55925,
+        "label": "negative"
+      },
+      "relevance": 0.857762,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            22,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.593413,
+        "joy": 0.089917,
+        "fear": 0.108794,
+        "disgust": 0.276919,
+        "anger": 0.115363
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Scientology",
+      "sentiment": {
+        "score": -0.581625,
+        "label": "negative"
+      },
+      "relevance": 0.483939,
+      "mentions": [
+        {
+          "text": "Scientology",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jenna Elfman",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jenna_Elfman"
+    },
+    {
+      "text": "Bodhi Elfman",
+      "relevance": 0.79746,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bodhi_Elfman"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.782457,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.778722,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.694323,
+      "label": "/religion and spirituality/alternative religions"
+    }
+  ]
+}

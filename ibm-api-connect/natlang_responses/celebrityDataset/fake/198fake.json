@@ -1,0 +1,350 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 860,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.619695,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Warner Bros.",
+      "sentiment": {
+        "score": 0.803236,
+        "label": "positive"
+      },
+      "relevance": 0.827762,
+      "emotion": {
+        "sadness": 0.033642,
+        "joy": 0.812672,
+        "fear": 0.021498,
+        "disgust": 0.019946,
+        "anger": 0.114297
+      },
+      "count": 2
+    },
+    {
+      "text": "Gossip Girl",
+      "sentiment": {
+        "score": 0.73198,
+        "label": "positive"
+      },
+      "relevance": 0.826005,
+      "emotion": {
+        "sadness": 0.033642,
+        "joy": 0.812672,
+        "fear": 0.021498,
+        "disgust": 0.019946,
+        "anger": 0.114297
+      },
+      "count": 2
+    },
+    {
+      "text": "Leighton Meester",
+      "sentiment": {
+        "score": 0.551936,
+        "label": "positive"
+      },
+      "relevance": 0.704587,
+      "emotion": {
+        "sadness": 0.52154,
+        "joy": 0.085062,
+        "fear": 0.121447,
+        "disgust": 0.150661,
+        "anger": 0.03333
+      },
+      "count": 1
+    },
+    {
+      "text": "industry source",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.662526,
+      "emotion": {
+        "sadness": 0.05726,
+        "joy": 0.766862,
+        "fear": 0.035304,
+        "disgust": 0.019567,
+        "anger": 0.088694
+      },
+      "count": 1
+    },
+    {
+      "text": "couple of years",
+      "sentiment": {
+        "score": -0.616783,
+        "label": "negative"
+      },
+      "relevance": 0.656502,
+      "emotion": {
+        "sadness": 0.507523,
+        "joy": 0.130004,
+        "fear": 0.213976,
+        "disgust": 0.069058,
+        "anger": 0.156232
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Warner Bros.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.74432,
+      "mentions": [
+        {
+          "text": "Warner Bros",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Warner Bros.",
+          "location": [
+            324,
+            336
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.18409,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.100435
+      },
+      "disambiguation": {
+        "subtype": [
+          "Person",
+          "Location",
+          "Brand",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmCinematographer",
+          "FilmProducer",
+          "TVProducer",
+          "FilmCompany",
+          "FilmDistributor",
+          "ProductionCompany",
+          "RecordLabel",
+          "TVNetwork",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Warner Bros.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Warner_Bros."
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Blake Lively",
+      "sentiment": {
+        "score": -0.479135,
+        "label": "negative"
+      },
+      "relevance": 0.727308,
+      "mentions": [
+        {
+          "text": "Blake Lively",
+          "location": [
+            649,
+            661
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            703,
+            706
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            744,
+            747
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            795,
+            798
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.676185,
+        "joy": 0.132103,
+        "fear": 0.158403,
+        "disgust": 0.068697,
+        "anger": 0.130138
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Lively",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Lively"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Upper East Siders",
+      "sentiment": {
+        "score": 0.308626,
+        "label": "positive"
+      },
+      "relevance": 0.501071,
+      "mentions": [
+        {
+          "text": "Upper East Siders",
+          "location": [
+            111,
+            128
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.049709,
+        "joy": 0.725619,
+        "fear": 0.084077,
+        "disgust": 0.012652,
+        "anger": 0.054354
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jessica Szohr",
+      "sentiment": {
+        "score": -0.523938,
+        "label": "negative"
+      },
+      "relevance": 0.391411,
+      "mentions": [
+        {
+          "text": "Jessica Szohr",
+          "location": [
+            572,
+            585
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jessica Szohr",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jessica_Szohr"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sebastian Stan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.364905,
+      "mentions": [
+        {
+          "text": "Sebastian Stan",
+          "location": [
+            520,
+            534
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            549,
+            551
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.544268,
+        "joy": 0.133437,
+        "fear": 0.131842,
+        "disgust": 0.190605,
+        "anger": 0.174079
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Sebastian Stan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sebastian_Stan"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Warner Bros.",
+      "relevance": 0.916505,
+      "dbpedia_resource": "http://dbpedia.org/resource/Warner_Bros."
+    },
+    {
+      "text": "Gossip Girl",
+      "relevance": 0.81837,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gossip_Girl_(TV_series)"
+    },
+    {
+      "text": "Film",
+      "relevance": 0.774554,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film"
+    },
+    {
+      "text": "The CW Television Network",
+      "relevance": 0.756206,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_CW_Television_Network"
+    },
+    {
+      "text": "Serena van der Woodsen",
+      "relevance": 0.756083,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serena_van_der_Woodsen"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.855312,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

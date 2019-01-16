@@ -1,0 +1,270 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 554,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.412243,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Arctic waters",
+      "sentiment": {
+        "score": -0.846648,
+        "label": "negative"
+      },
+      "relevance": 0.896601,
+      "emotion": {
+        "sadness": 0.570685,
+        "joy": 0.173798,
+        "fear": 0.066359,
+        "disgust": 0.137207,
+        "anger": 0.108511
+      },
+      "count": 1
+    },
+    {
+      "text": "production costs",
+      "sentiment": {
+        "score": 0.683888,
+        "label": "positive"
+      },
+      "relevance": 0.774633,
+      "emotion": {
+        "sadness": 0.051588,
+        "joy": 0.055072,
+        "fear": 0.343976,
+        "disgust": 0.02674,
+        "anger": 0.02466
+      },
+      "count": 1
+    },
+    {
+      "text": "International Arctic Forum",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.688844,
+      "emotion": {
+        "sadness": 0.295967,
+        "joy": 0.273363,
+        "fear": 0.125675,
+        "disgust": 0.006807,
+        "anger": 0.023201
+      },
+      "count": 1
+    },
+    {
+      "text": "backup stock",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.648196,
+      "emotion": {
+        "sadness": 0.295967,
+        "joy": 0.273363,
+        "fear": 0.125675,
+        "disgust": 0.006807,
+        "anger": 0.023201
+      },
+      "count": 1
+    },
+    {
+      "text": "Russia's Arkhangelsk",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.632342,
+      "emotion": {
+        "sadness": 0.295967,
+        "joy": 0.273363,
+        "fear": 0.125675,
+        "disgust": 0.006807,
+        "anger": 0.023201
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Arctic Waters",
+      "sentiment": {
+        "score": -0.312145,
+        "label": "negative"
+      },
+      "relevance": 0.928501,
+      "mentions": [
+        {
+          "text": "Arctic Waters",
+          "location": [
+            48,
+            61
+          ]
+        },
+        {
+          "text": "Arctic waters",
+          "location": [
+            142,
+            155
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.465827,
+        "joy": 0.248019,
+        "fear": 0.042915,
+        "disgust": 0.126581,
+        "anger": 0.145738
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Russia",
+      "sentiment": {
+        "score": -0.312145,
+        "label": "negative"
+      },
+      "relevance": 0.669356,
+      "mentions": [
+        {
+          "text": "Russia",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Russia",
+          "location": [
+            62,
+            68
+          ]
+        },
+        {
+          "text": "Russia",
+          "location": [
+            508,
+            514
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.465827,
+        "joy": 0.248019,
+        "fear": 0.042915,
+        "disgust": 0.126581,
+        "anger": 0.145738
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Russia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+      },
+      "count": 3
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Russian Arctic",
+      "sentiment": {
+        "score": 0.58978,
+        "label": "positive"
+      },
+      "relevance": 0.646286,
+      "mentions": [
+        {
+          "text": "Russian Arctic",
+          "location": [
+            313,
+            327
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.051588,
+        "joy": 0.055072,
+        "fear": 0.343976,
+        "disgust": 0.02674,
+        "anger": 0.02466
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alexander Novak",
+      "sentiment": {
+        "score": 0.58978,
+        "label": "positive"
+      },
+      "relevance": 0.447889,
+      "mentions": [
+        {
+          "text": "Alexander Novak",
+          "location": [
+            391,
+            406
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            459,
+            461
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.104441,
+        "joy": 0.065425,
+        "fear": 0.237733,
+        "disgust": 0.015765,
+        "anger": 0.020693
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Russia",
+      "relevance": 0.968996,
+      "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+    },
+    {
+      "text": "Petroleum",
+      "relevance": 0.71596,
+      "dbpedia_resource": "http://dbpedia.org/resource/Petroleum"
+    },
+    {
+      "text": "Norway",
+      "relevance": 0.647053,
+      "dbpedia_resource": "http://dbpedia.org/resource/Norway"
+    },
+    {
+      "text": "Arctic",
+      "relevance": 0.63483,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arctic"
+    },
+    {
+      "text": "Water",
+      "relevance": 0.557017,
+      "dbpedia_resource": "http://dbpedia.org/resource/Water"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.990772,
+      "label": "/business and industrial/energy/oil"
+    }
+  ]
+}

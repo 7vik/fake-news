@@ -1,0 +1,169 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.354019,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rosie O'Donnell",
+      "sentiment": {
+        "score": -0.354019,
+        "label": "negative"
+      },
+      "relevance": 0.991365,
+      "emotion": {
+        "sadness": 0.624662,
+        "joy": 0.077453,
+        "fear": 0.053013,
+        "disgust": 0.16396,
+        "anger": 0.04639
+      },
+      "count": 1
+    },
+    {
+      "text": "Whoopi Goldberg swap weight-loss stories",
+      "sentiment": {
+        "score": -0.354019,
+        "label": "negative"
+      },
+      "relevance": 0.008635,
+      "emotion": {
+        "sadness": 0.624662,
+        "joy": 0.077453,
+        "fear": 0.053013,
+        "disgust": 0.16396,
+        "anger": 0.04639
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rosie O'Donnell",
+      "sentiment": {
+        "score": 0.750183,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rosie O'Donnell",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.261621,
+        "joy": 0.117708,
+        "fear": 0.034041,
+        "disgust": 0.336436,
+        "anger": 0.097549
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Rosie O'Donnell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Whoopi Goldberg",
+      "sentiment": {
+        "score": 0.832016,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Whoopi Goldberg",
+          "location": [
+            17,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.62453,
+        "joy": 0.075318,
+        "fear": 0.069243,
+        "disgust": 0.115499,
+        "anger": 0.041995
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist"
+        ],
+        "name": "Whoopi Goldberg",
+        "dbpedia_resource": "http://dbpedia.org/resource/Whoopi_Goldberg"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Rosie O'Donnell",
+      "relevance": 0.980584,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+    },
+    {
+      "text": "Whoopi Goldberg",
+      "relevance": 0.950258,
+      "dbpedia_resource": "http://dbpedia.org/resource/Whoopi_Goldberg"
+    },
+    {
+      "text": "The View",
+      "relevance": 0.870442,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_View_(U.S._TV_series)"
+    },
+    {
+      "text": "NAACP Image Award for Outstanding Actress in a Motion Picture",
+      "relevance": 0.673885,
+      "dbpedia_resource": "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Actress_in_a_Motion_Picture"
+    },
+    {
+      "text": "Elisabeth Hasselbeck",
+      "relevance": 0.670906,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elisabeth_Hasselbeck"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.993918,
+      "label": "/health and fitness/weight loss"
+    }
+  ]
+}

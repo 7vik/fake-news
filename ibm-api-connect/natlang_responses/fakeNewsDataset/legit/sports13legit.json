@@ -1,0 +1,322 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 835,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.695331,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mo Farah",
+      "sentiment": {
+        "score": -0.695512,
+        "label": "negative"
+      },
+      "relevance": 0.844049,
+      "emotion": {
+        "sadness": 0.21403,
+        "joy": 0.123482,
+        "fear": 0.189138,
+        "disgust": 0.132522,
+        "anger": 0.116641
+      },
+      "count": 2
+    },
+    {
+      "text": "controversial supplement infusion",
+      "sentiment": {
+        "score": -0.695512,
+        "label": "negative"
+      },
+      "relevance": 0.79065,
+      "emotion": {
+        "sadness": 0.120364,
+        "joy": 0.03373,
+        "fear": 0.103659,
+        "disgust": 0.130193,
+        "anger": 0.044182
+      },
+      "count": 1
+    },
+    {
+      "text": "endurance Barry Fudge",
+      "sentiment": {
+        "score": -0.647157,
+        "label": "negative"
+      },
+      "relevance": 0.742405,
+      "emotion": {
+        "sadness": 0.112715,
+        "joy": 0.126858,
+        "fear": 0.024171,
+        "disgust": 0.098047,
+        "anger": 0.115499
+      },
+      "count": 1
+    },
+    {
+      "text": "Dr Robin Chakraverty",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.70782,
+      "emotion": {
+        "sadness": 0.530235,
+        "joy": 0.10554,
+        "fear": 0.087933,
+        "disgust": 0.086455,
+        "anger": 0.198648
+      },
+      "count": 1
+    },
+    {
+      "text": "UK Athletics' head",
+      "sentiment": {
+        "score": -0.647157,
+        "label": "negative"
+      },
+      "relevance": 0.669629,
+      "emotion": {
+        "sadness": 0.112715,
+        "joy": 0.126858,
+        "fear": 0.024171,
+        "disgust": 0.098047,
+        "anger": 0.115499
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mo Farah",
+      "sentiment": {
+        "score": -0.365734,
+        "label": "negative"
+      },
+      "relevance": 0.908553,
+      "mentions": [
+        {
+          "text": "Mo Farah",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Mo Farah",
+          "location": [
+            95,
+            103
+          ]
+        },
+        {
+          "text": "Farah",
+          "location": [
+            236,
+            241
+          ]
+        },
+        {
+          "text": "Farah",
+          "location": [
+            436,
+            441
+          ]
+        },
+        {
+          "text": "Farah",
+          "location": [
+            714,
+            719
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118595,
+        "joy": 0.316415,
+        "fear": 0.137011,
+        "disgust": 0.168374,
+        "anger": 0.28803
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Mo Farah",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mo_Farah"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Alberto Salazar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.298854,
+      "mentions": [
+        {
+          "text": "Alberto Salazar",
+          "location": [
+            459,
+            474
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            476,
+            478
+          ]
+        },
+        {
+          "text": "Salazar",
+          "location": [
+            816,
+            823
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.422062,
+        "joy": 0.308895,
+        "fear": 0.066373,
+        "disgust": 0.184472,
+        "anger": 0.109564
+      },
+      "disambiguation": {
+        "subtype": [
+          "OlympicAthlete"
+        ],
+        "name": "Alberto Salazar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alberto_Salazar"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Barry Fudge",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.192148,
+      "mentions": [
+        {
+          "text": "Barry Fudge",
+          "location": [
+            616,
+            627
+          ]
+        },
+        {
+          "text": "Fudge",
+          "location": [
+            689,
+            694
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.129094,
+        "joy": 0.365243,
+        "fear": 0.080876,
+        "disgust": 0.090587,
+        "anger": 0.144707
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Culture Media and Sport Committee",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.168315,
+      "mentions": [
+        {
+          "text": "Culture  Media and Sport Committee",
+          "location": [
+            502,
+            536
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.189153,
+        "joy": 0.491001,
+        "fear": 0.070871,
+        "disgust": 0.219121,
+        "anger": 0.043205
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr Robin Chakraverty",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.16128,
+      "mentions": [
+        {
+          "text": "Dr Robin Chakraverty",
+          "location": [
+            367,
+            387
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.530235,
+        "joy": 0.10554,
+        "fear": 0.087933,
+        "disgust": 0.086455,
+        "anger": 0.198648
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Drugs in sport",
+      "relevance": 0.949128,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drugs_in_sport"
+    },
+    {
+      "text": "Doctor Who",
+      "relevance": 0.789666,
+      "dbpedia_resource": "http://dbpedia.org/resource/Doctor_Who"
+    },
+    {
+      "text": "The Five Doctors",
+      "relevance": 0.539328,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Five_Doctors"
+    },
+    {
+      "text": "Master",
+      "relevance": 0.523398,
+      "dbpedia_resource": "http://dbpedia.org/resource/Master_(Doctor_Who)"
+    },
+    {
+      "text": "School Reunion",
+      "relevance": 0.520437,
+      "dbpedia_resource": "http://dbpedia.org/resource/School_Reunion_(Doctor_Who)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.831571,
+      "label": "/sports/olympics"
+    }
+  ]
+}

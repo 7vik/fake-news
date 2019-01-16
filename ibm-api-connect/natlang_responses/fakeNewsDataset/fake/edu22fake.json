@@ -1,0 +1,224 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 584,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.61119,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exchange students",
+      "sentiment": {
+        "score": -0.408624,
+        "label": "negative"
+      },
+      "relevance": 0.932361,
+      "emotion": {
+        "sadness": 0.325936,
+        "joy": 0.431809,
+        "fear": 0.046382,
+        "disgust": 0.119523,
+        "anger": 0.132548
+      },
+      "count": 1
+    },
+    {
+      "text": "foreign exchange students",
+      "sentiment": {
+        "score": -0.408624,
+        "label": "negative"
+      },
+      "relevance": 0.868586,
+      "emotion": {
+        "sadness": 0.417116,
+        "joy": 0.196596,
+        "fear": 0.058954,
+        "disgust": 0.13034,
+        "anger": 0.134471
+      },
+      "count": 1
+    },
+    {
+      "text": "US education standards",
+      "sentiment": {
+        "score": -0.408624,
+        "label": "negative"
+      },
+      "relevance": 0.847075,
+      "emotion": {
+        "sadness": 0.417116,
+        "joy": 0.196596,
+        "fear": 0.058954,
+        "disgust": 0.13034,
+        "anger": 0.134471
+      },
+      "count": 1
+    },
+    {
+      "text": "Foreign students",
+      "sentiment": {
+        "score": -0.762169,
+        "label": "negative"
+      },
+      "relevance": 0.821449,
+      "emotion": {
+        "sadness": 0.25319,
+        "joy": 0.143258,
+        "fear": 0.095238,
+        "disgust": 0.46147,
+        "anger": 0.321127
+      },
+      "count": 3
+    },
+    {
+      "text": "little attention",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.708589,
+      "emotion": {
+        "sadness": 0.331094,
+        "joy": 0.125006,
+        "fear": 0.1129,
+        "disgust": 0.341599,
+        "anger": 0.348686
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.122076,
+        "label": "negative"
+      },
+      "relevance": 0.903371,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "Full",
+          "location": [
+            19,
+            23
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            81,
+            83
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            237,
+            239
+          ]
+        },
+        {
+          "text": "classes",
+          "location": [
+            316,
+            323
+          ]
+        },
+        {
+          "text": "a joke",
+          "location": [
+            328,
+            334
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            365,
+            367
+          ]
+        },
+        {
+          "text": "less effort",
+          "location": [
+            453,
+            464
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            559,
+            561
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.203198,
+        "joy": 0.543921,
+        "fear": 0.139035,
+        "disgust": 0.515569,
+        "anger": 0.177058
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 9
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Student exchange program",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Student_exchange_program"
+    },
+    {
+      "text": "International student",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_student"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.907814,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Student",
+      "relevance": 0.752287,
+      "dbpedia_resource": "http://dbpedia.org/resource/Student"
+    },
+    {
+      "text": "Class",
+      "relevance": 0.625722,
+      "dbpedia_resource": "http://dbpedia.org/resource/Class_(computer_science)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.979321,
+      "label": "/education"
+    }
+  ]
+}

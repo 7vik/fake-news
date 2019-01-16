@@ -1,0 +1,132 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.328651,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": -0.328651,
+        "label": "negative"
+      },
+      "relevance": 0.998703,
+      "emotion": {
+        "sadness": 0.454909,
+        "joy": 0.071679,
+        "fear": 0.128962,
+        "disgust": 0.043968,
+        "anger": 0.061313
+      },
+      "count": 1
+    },
+    {
+      "text": "Twilight",
+      "sentiment": {
+        "score": -0.328651,
+        "label": "negative"
+      },
+      "relevance": 0.704642,
+      "emotion": {
+        "sadness": 0.454909,
+        "joy": 0.071679,
+        "fear": 0.128962,
+        "disgust": 0.043968,
+        "anger": 0.061313
+      },
+      "count": 1
+    },
+    {
+      "text": "hardest part",
+      "sentiment": {
+        "score": -0.328651,
+        "label": "negative"
+      },
+      "relevance": 0.173319,
+      "emotion": {
+        "sadness": 0.454909,
+        "joy": 0.071679,
+        "fear": 0.128962,
+        "disgust": 0.043968,
+        "anger": 0.061313
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": -0.270144,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "'Twilight",
+          "location": [
+            18,
+            27
+          ]
+        },
+        {
+          "text": "the hardest part",
+          "location": [
+            30,
+            46
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.488385,
+        "joy": 0.078246,
+        "fear": 0.139926,
+        "disgust": 0.053524,
+        "anger": 0.069799
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Robert Pattinson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Robert Pattinson",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.624675,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

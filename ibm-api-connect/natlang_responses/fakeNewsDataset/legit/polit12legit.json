@@ -1,0 +1,274 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 724,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.403771,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.912112,
+        "label": "negative"
+      },
+      "relevance": 0.851531,
+      "emotion": {
+        "sadness": 0.279473,
+        "joy": 0.252982,
+        "fear": 0.07254,
+        "disgust": 0.276347,
+        "anger": 0.230616
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.907712,
+        "label": "negative"
+      },
+      "relevance": 0.818028,
+      "emotion": {
+        "sadness": 0.446356,
+        "joy": 0.097342,
+        "fear": 0.277734,
+        "disgust": 0.342493,
+        "anger": 0.053163
+      },
+      "count": 1
+    },
+    {
+      "text": "Clinton's emotional concession",
+      "sentiment": {
+        "score": -0.907712,
+        "label": "negative"
+      },
+      "relevance": 0.807517,
+      "emotion": {
+        "sadness": 0.840101,
+        "joy": 0.051444,
+        "fear": 0.092994,
+        "disgust": 0.073395,
+        "anger": 0.065977
+      },
+      "count": 1
+    },
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": -0.907712,
+        "label": "negative"
+      },
+      "relevance": 0.680576,
+      "emotion": {
+        "sadness": 0.555315,
+        "joy": 0.074855,
+        "fear": 0.197389,
+        "disgust": 0.306064,
+        "anger": 0.081767
+      },
+      "count": 2
+    },
+    {
+      "text": "successful president",
+      "sentiment": {
+        "score": 0.875801,
+        "label": "positive"
+      },
+      "relevance": 0.670543,
+      "emotion": {
+        "sadness": 0.237788,
+        "joy": 0.524127,
+        "fear": 0.009016,
+        "disgust": 0.226633,
+        "anger": 0.084921
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.36347,
+        "label": "positive"
+      },
+      "relevance": 0.911907,
+      "mentions": [
+        {
+          "text": "Clinton",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            78,
+            93
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            391,
+            398
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            685,
+            688
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.256323,
+        "joy": 0.32805,
+        "fear": 0.07014,
+        "disgust": 0.318678,
+        "anger": 0.074028
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.54495,
+        "label": "positive"
+      },
+      "relevance": 0.341999,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            245,
+            257
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            337,
+            339
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            361,
+            370
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12718,
+        "joy": 0.459565,
+        "fear": 0.02956,
+        "disgust": 0.325899,
+        "anger": 0.065129
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.388062,
+        "label": "positive"
+      },
+      "relevance": 0.250292,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            277,
+            286
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211178,
+        "joy": 0.212515,
+        "fear": 0.061121,
+        "disgust": 0.246264,
+        "anger": 0.208733
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.952351,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.881742,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.82788,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.741634,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.732325,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.890801,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 407,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.311373,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.892481,
+      "emotion": {
+        "sadness": 0.091784,
+        "joy": 0.00749,
+        "fear": 0.94808,
+        "disgust": 0.063901,
+        "anger": 0.02954
+      },
+      "count": 1
+    },
+    {
+      "text": "Pacific Coast Highway",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.696976,
+      "emotion": {
+        "sadness": 0.275148,
+        "joy": 0.346573,
+        "fear": 0.02896,
+        "disgust": 0.060871,
+        "anger": 0.210206
+      },
+      "count": 1
+    },
+    {
+      "text": "men\u2019s group",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.654854,
+      "emotion": {
+        "sadness": 0.275148,
+        "joy": 0.346573,
+        "fear": 0.02896,
+        "disgust": 0.060871,
+        "anger": 0.210206
+      },
+      "count": 1
+    },
+    {
+      "text": "insider",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.632659,
+      "emotion": {
+        "sadness": 0.275148,
+        "joy": 0.346573,
+        "fear": 0.02896,
+        "disgust": 0.060871,
+        "anger": 0.210206
+      },
+      "count": 1
+    },
+    {
+      "text": "Relapse Fears",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.577809,
+      "emotion": {
+        "sadness": 0.091784,
+        "joy": 0.00749,
+        "fear": 0.94808,
+        "disgust": 0.063901,
+        "anger": 0.02954
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.389694,
+        "label": "positive"
+      },
+      "relevance": 0.877081,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            76,
+            78
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            152,
+            154
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            204,
+            206
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            241,
+            248
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            250,
+            252
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            286,
+            288
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            334,
+            337
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            346,
+            349
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            356,
+            358
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.500108,
+        "joy": 0.503367,
+        "fear": 0.123024,
+        "disgust": 0.075958,
+        "anger": 0.081068
+      },
+      "count": 10
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The ENQUIRER",
+      "sentiment": {
+        "score": 0.395055,
+        "label": "positive"
+      },
+      "relevance": 0.440987,
+      "mentions": [
+        {
+          "text": "The ENQUIRER",
+          "location": [
+            61,
+            73
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142629,
+        "joy": 0.136012,
+        "fear": 0.062605,
+        "disgust": 0.062824,
+        "anger": 0.22715
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "National Enquirer",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Enquirer"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Death",
+      "relevance": 0.819229,
+      "dbpedia_resource": "http://dbpedia.org/resource/Death_(personification)"
+    },
+    {
+      "text": "San Francisco",
+      "relevance": 0.708278,
+      "dbpedia_resource": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.706405,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "California",
+      "relevance": 0.697283,
+      "dbpedia_resource": "http://dbpedia.org/resource/California"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.570518,
+      "label": "/health and fitness/addiction"
+    }
+  ]
+}

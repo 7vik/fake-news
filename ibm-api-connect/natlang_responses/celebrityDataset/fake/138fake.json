@@ -1,0 +1,198 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.990176,
+      "emotion": {
+        "sadness": 0.222359,
+        "joy": 0.084531,
+        "fear": 0.018453,
+        "disgust": 0.260054,
+        "anger": 0.575226
+      },
+      "count": 1
+    },
+    {
+      "text": "Jamie Foxx Come",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703247,
+      "emotion": {
+        "sadness": 0.222359,
+        "joy": 0.084531,
+        "fear": 0.018453,
+        "disgust": 0.260054,
+        "anger": 0.575226
+      },
+      "count": 1
+    },
+    {
+      "text": "Item",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.618372,
+      "emotion": {
+        "sadness": 0.222359,
+        "joy": 0.084531,
+        "fear": 0.018453,
+        "disgust": 0.260054,
+        "anger": 0.575226
+      },
+      "count": 1
+    },
+    {
+      "text": "Tom Cruise Ban",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.179094,
+      "emotion": {
+        "sadness": 0.222359,
+        "joy": 0.084531,
+        "fear": 0.018453,
+        "disgust": 0.260054,
+        "anger": 0.575226
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0.501032,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.255966,
+        "joy": 0.192947,
+        "fear": 0.018378,
+        "disgust": 0.07598,
+        "anger": 0.083271
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jamie Foxx",
+      "sentiment": {
+        "score": 0.501032,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jamie Foxx",
+          "location": [
+            17,
+            27
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.255966,
+        "joy": 0.192947,
+        "fear": 0.018378,
+        "disgust": 0.07598,
+        "anger": 0.083271
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmMusicContributor",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Jamie Foxx",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Collateral",
+      "relevance": 0.938621,
+      "dbpedia_resource": "http://dbpedia.org/resource/Collateral_(film)"
+    },
+    {
+      "text": "Academy Award for Best Actor",
+      "relevance": 0.780374,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor"
+    },
+    {
+      "text": "Jamie Foxx",
+      "relevance": 0.7476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+    },
+    {
+      "text": "Given names",
+      "relevance": 0.744106,
+      "dbpedia_resource": "http://dbpedia.org/resource/Given_names"
+    },
+    {
+      "text": "Forest Whitaker",
+      "relevance": 0.731867,
+      "dbpedia_resource": "http://dbpedia.org/resource/Forest_Whitaker"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.727386,
+      "label": "/travel/transports/sea travel/cruises"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 818,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.618452,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Creative differences",
+      "sentiment": {
+        "score": 0.879232,
+        "label": "positive"
+      },
+      "relevance": 0.846152,
+      "emotion": {
+        "sadness": 0.092031,
+        "joy": 0.336311,
+        "fear": 0.271996,
+        "disgust": 0.075924,
+        "anger": 0.028713
+      },
+      "count": 1
+    },
+    {
+      "text": "A&E Series 'Bates Motel",
+      "sentiment": {
+        "score": 0.958743,
+        "label": "positive"
+      },
+      "relevance": 0.748964,
+      "emotion": {
+        "sadness": 0.941639,
+        "joy": 0.042601,
+        "fear": 0.061231,
+        "disgust": 0.036915,
+        "anger": 0.012748
+      },
+      "count": 1
+    },
+    {
+      "text": "Sad Slasher Fans",
+      "sentiment": {
+        "score": 0.958743,
+        "label": "positive"
+      },
+      "relevance": 0.733521,
+      "emotion": {
+        "sadness": 0.941639,
+        "joy": 0.042601,
+        "fear": 0.061231,
+        "disgust": 0.036915,
+        "anger": 0.012748
+      },
+      "count": 1
+    },
+    {
+      "text": "present-day setting of the A&E",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.691381,
+      "emotion": {
+        "sadness": 0.270701,
+        "joy": 0.332108,
+        "fear": 0.198644,
+        "disgust": 0.009546,
+        "anger": 0.046136
+      },
+      "count": 1
+    },
+    {
+      "text": "Gus Van Sant",
+      "sentiment": {
+        "score": 0.879232,
+        "label": "positive"
+      },
+      "relevance": 0.684121,
+      "emotion": {
+        "sadness": 0.092031,
+        "joy": 0.336311,
+        "fear": 0.271996,
+        "disgust": 0.075924,
+        "anger": 0.028713
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Bates Motel",
+      "sentiment": {
+        "score": 0.874368,
+        "label": "positive"
+      },
+      "relevance": 0.962123,
+      "mentions": [
+        {
+          "text": "'Bates Motel",
+          "location": [
+            81,
+            93
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.270701,
+        "joy": 0.332108,
+        "fear": 0.198644,
+        "disgust": 0.009546,
+        "anger": 0.046136
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alfred Hitchcock",
+      "sentiment": {
+        "score": 0.852794,
+        "label": "positive"
+      },
+      "relevance": 0.939941,
+      "mentions": [
+        {
+          "text": "Alfred Hitchcock",
+          "location": [
+            338,
+            354
+          ]
+        },
+        {
+          "text": "Alfred Hitchcock",
+          "location": [
+            539,
+            555
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.154582,
+        "joy": 0.212833,
+        "fear": 0.344655,
+        "disgust": 0.079765,
+        "anger": 0.017367
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "ChivalricOrderMember",
+          "FilmActor",
+          "FilmArtDirector",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Alfred Hitchcock",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alfred_Hitchcock"
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Bates Motel",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.87154,
+      "mentions": [
+        {
+          "text": "Bates Motel",
+          "location": [
+            477,
+            488
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.270701,
+        "joy": 0.332108,
+        "fear": 0.198644,
+        "disgust": 0.009546,
+        "anger": 0.046136
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gus Van Sant",
+      "sentiment": {
+        "score": 0.7729,
+        "label": "positive"
+      },
+      "relevance": 0.548356,
+      "mentions": [
+        {
+          "text": "Gus Van Sant",
+          "location": [
+            272,
+            284
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.143885,
+        "joy": 0.052452,
+        "fear": 0.504613,
+        "disgust": 0.180909,
+        "anger": 0.044651
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "FilmDirector",
+          "FilmEditor",
+          "FilmProducer",
+          "FilmWriter"
+        ],
+        "name": "Gus Van Sant",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gus_Van_Sant"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Psycho",
+      "relevance": 0.963622,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psycho_(1960_film)"
+    },
+    {
+      "text": "Academy Award for Best Director",
+      "relevance": 0.484075,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Director"
+    },
+    {
+      "text": "Norman Bates",
+      "relevance": 0.456919,
+      "dbpedia_resource": "http://dbpedia.org/resource/Norman_Bates"
+    },
+    {
+      "text": "Gus Van Sant",
+      "relevance": 0.439024,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gus_Van_Sant"
+    },
+    {
+      "text": "Horror film",
+      "relevance": 0.438425,
+      "dbpedia_resource": "http://dbpedia.org/resource/Horror_film"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.708207,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

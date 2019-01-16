@@ -1,0 +1,89 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.424149,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Actually Happening",
+      "sentiment": {
+        "score": -0.424149,
+        "label": "negative"
+      },
+      "relevance": 0.973956,
+      "emotion": {
+        "sadness": 0.065443,
+        "joy": 0.628645,
+        "fear": 0.064383,
+        "disgust": 0.156029,
+        "anger": 0.103269
+      },
+      "count": 1
+    },
+    {
+      "text": "Spice Girls Reunion",
+      "sentiment": {
+        "score": -0.424149,
+        "label": "negative"
+      },
+      "relevance": 0.911752,
+      "emotion": {
+        "sadness": 0.065443,
+        "joy": 0.628645,
+        "fear": 0.064383,
+        "disgust": 0.156029,
+        "anger": 0.103269
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "JobTitle",
+      "text": "Official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Official",
+          "location": [
+            5,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Spice Girls",
+      "relevance": 0.973476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spice_Girls"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.657226,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

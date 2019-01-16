@@ -1,0 +1,200 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 762,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.821758,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "public authorities",
+      "sentiment": {
+        "score": -0.792767,
+        "label": "negative"
+      },
+      "relevance": 0.9029,
+      "emotion": {
+        "sadness": 0.352093,
+        "joy": 0.044345,
+        "fear": 0.25583,
+        "disgust": 0.165336,
+        "anger": 0.232722
+      },
+      "count": 2
+    },
+    {
+      "text": "Hillsborough law",
+      "sentiment": {
+        "score": -0.792767,
+        "label": "negative"
+      },
+      "relevance": 0.766718,
+      "emotion": {
+        "sadness": 0.412066,
+        "joy": 0.039839,
+        "fear": 0.365821,
+        "disgust": 0.245336,
+        "anger": 0.174307
+      },
+      "count": 2
+    },
+    {
+      "text": "public authority",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.753048,
+      "emotion": {
+        "sadness": 0.210016,
+        "joy": 0.057009,
+        "fear": 0.09743,
+        "disgust": 0.146317,
+        "anger": 0.423629
+      },
+      "count": 1
+    },
+    {
+      "text": "police officers",
+      "sentiment": {
+        "score": -0.792767,
+        "label": "negative"
+      },
+      "relevance": 0.738718,
+      "emotion": {
+        "sadness": 0.233594,
+        "joy": 0.015775,
+        "fear": 0.296414,
+        "disgust": 0.384924,
+        "anger": 0.334519
+      },
+      "count": 1
+    },
+    {
+      "text": "Individual officials",
+      "sentiment": {
+        "score": -0.848196,
+        "label": "negative"
+      },
+      "relevance": 0.711309,
+      "emotion": {
+        "sadness": 0.650141,
+        "joy": 0.034222,
+        "fear": 0.046633,
+        "disgust": 0.320929,
+        "anger": 0.086746
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Andy Burnham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.770148,
+      "mentions": [
+        {
+          "text": "Andy Burnham",
+          "location": [
+            430,
+            442
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.231631,
+        "joy": 0.073955,
+        "fear": 0.075375,
+        "disgust": 0.38299,
+        "anger": 0.044124
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Andy Burnham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Andy_Burnham"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "10-minute",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.770148,
+      "mentions": [
+        {
+          "text": "10-minute",
+          "location": [
+            378,
+            387
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.770148,
+      "mentions": [
+        {
+          "text": "two-year",
+          "location": [
+            657,
+            665
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Criminal justice",
+      "relevance": 0.916941,
+      "dbpedia_resource": "http://dbpedia.org/resource/Criminal_justice"
+    },
+    {
+      "text": "Political philosophy",
+      "relevance": 0.897576,
+      "dbpedia_resource": "http://dbpedia.org/resource/Political_philosophy"
+    },
+    {
+      "text": "Police",
+      "relevance": 0.8547,
+      "dbpedia_resource": "http://dbpedia.org/resource/Police"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.832885,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Constable",
+      "relevance": 0.773692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Constable"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.959405,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

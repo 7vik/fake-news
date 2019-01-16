@@ -1,0 +1,168 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.90341,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Paris Hilton",
+      "sentiment": {
+        "score": -0.90341,
+        "label": "negative"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.243692,
+        "joy": 0.624128,
+        "fear": 0.098252,
+        "disgust": 0.021207,
+        "anger": 0.032403
+      },
+      "count": 1
+    },
+    {
+      "text": "Simple Life",
+      "sentiment": {
+        "score": -0.90341,
+        "label": "negative"
+      },
+      "relevance": 0.948538,
+      "emotion": {
+        "sadness": 0.243692,
+        "joy": 0.624128,
+        "fear": 0.098252,
+        "disgust": 0.021207,
+        "anger": 0.032403
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim K",
+      "sentiment": {
+        "score": -0.90341,
+        "label": "negative"
+      },
+      "relevance": 0.126017,
+      "emotion": {
+        "sadness": 0.243692,
+        "joy": 0.624128,
+        "fear": 0.098252,
+        "disgust": 0.021207,
+        "anger": 0.032403
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Paris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Paris",
+          "location": [
+            7,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.105675,
+        "joy": 0.778415,
+        "fear": 0.025285,
+        "disgust": 0.025401,
+        "anger": 0.069991
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim K",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim K",
+          "location": [
+            43,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.105675,
+        "joy": 0.778415,
+        "fear": 0.025285,
+        "disgust": 0.025401,
+        "anger": 0.069991
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Paris Hilton",
+      "relevance": 0.950676,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paris_Hilton"
+    },
+    {
+      "text": "The Simple Life",
+      "relevance": 0.885004,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Simple_Life"
+    },
+    {
+      "text": "Nicole Richie",
+      "relevance": 0.715497,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicole_Richie"
+    },
+    {
+      "text": "Paris Hilton's My New BFF",
+      "relevance": 0.70363,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paris_Hilton's_My_New_BFF"
+    },
+    {
+      "text": "I Want To Be a Hilton",
+      "relevance": 0.553545,
+      "dbpedia_resource": "http://dbpedia.org/resource/I_Want_To_Be_a_Hilton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.608619,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

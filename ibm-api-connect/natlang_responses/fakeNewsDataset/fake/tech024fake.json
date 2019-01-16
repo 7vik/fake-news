@@ -1,0 +1,268 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 776,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.415232,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "number of Microsoft",
+      "sentiment": {
+        "score": 0.622447,
+        "label": "positive"
+      },
+      "relevance": 0.770987,
+      "emotion": {
+        "sadness": 0.034504,
+        "joy": 0.052706,
+        "fear": 0.065998,
+        "disgust": 0.015056,
+        "anger": 0.021282
+      },
+      "count": 1
+    },
+    {
+      "text": "core mission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.750611,
+      "emotion": {
+        "sadness": 0.015777,
+        "joy": 0.339783,
+        "fear": 0.00802,
+        "disgust": 0.004066,
+        "anger": 0.002775
+      },
+      "count": 1
+    },
+    {
+      "text": "statement Toyota",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703826,
+      "emotion": {
+        "sadness": 0.025079,
+        "joy": 0.02797,
+        "fear": 0.017194,
+        "disgust": 0.021164,
+        "anger": 0.028039
+      },
+      "count": 1
+    },
+    {
+      "text": "Toyota",
+      "sentiment": {
+        "score": 0.650616,
+        "label": "positive"
+      },
+      "relevance": 0.697697,
+      "emotion": {
+        "sadness": 0.012238,
+        "joy": 0.083643,
+        "fear": 0.004086,
+        "disgust": 0.007982,
+        "anger": 0.018299
+      },
+      "count": 3
+    },
+    {
+      "text": "Toyota's Prius division",
+      "sentiment": {
+        "score": -0.54484,
+        "label": "negative"
+      },
+      "relevance": 0.653696,
+      "emotion": {
+        "sadness": 0.015777,
+        "joy": 0.339783,
+        "fear": 0.00802,
+        "disgust": 0.004066,
+        "anger": 0.002775
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Toyota",
+      "sentiment": {
+        "score": 0.227198,
+        "label": "positive"
+      },
+      "relevance": 0.92384,
+      "mentions": [
+        {
+          "text": "Toyota",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Toyota",
+          "location": [
+            66,
+            72
+          ]
+        },
+        {
+          "text": "Toyota",
+          "location": [
+            176,
+            182
+          ]
+        },
+        {
+          "text": "Toyota",
+          "location": [
+            343,
+            349
+          ]
+        },
+        {
+          "text": "Toyota",
+          "location": [
+            574,
+            580
+          ]
+        },
+        {
+          "text": "Toyota",
+          "location": [
+            630,
+            636
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.03091,
+        "joy": 0.05876,
+        "fear": 0.013413,
+        "disgust": 0.028779,
+        "anger": 0.040483
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "ManufacturingPlant",
+          "AwardWinner"
+        ],
+        "name": "Toyota",
+        "dbpedia_resource": "http://dbpedia.org/resource/Toyota"
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Microsoft",
+      "sentiment": {
+        "score": 0.191592,
+        "label": "positive"
+      },
+      "relevance": 0.613074,
+      "mentions": [
+        {
+          "text": "Microsoft",
+          "location": [
+            12,
+            21
+          ]
+        },
+        {
+          "text": "Microsoft",
+          "location": [
+            100,
+            109
+          ]
+        },
+        {
+          "text": "Microsoft",
+          "location": [
+            220,
+            229
+          ]
+        },
+        {
+          "text": "Microsoft",
+          "location": [
+            320,
+            329
+          ]
+        },
+        {
+          "text": "Microsoft",
+          "location": [
+            462,
+            471
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.017422,
+        "joy": 0.129498,
+        "fear": 0.005862,
+        "disgust": 0.012341,
+        "anger": 0.023135
+      },
+      "disambiguation": {
+        "subtype": [
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher",
+          "ProgrammingLanguageDesigner"
+        ],
+        "name": "Microsoft",
+        "dbpedia_resource": "http://dbpedia.org/resource/Microsoft"
+      },
+      "count": 5
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Operating system",
+      "relevance": 0.943298,
+      "dbpedia_resource": "http://dbpedia.org/resource/Operating_system"
+    },
+    {
+      "text": "Breach of contract",
+      "relevance": 0.7626,
+      "dbpedia_resource": "http://dbpedia.org/resource/Breach_of_contract"
+    },
+    {
+      "text": "Thermodynamics",
+      "relevance": 0.694103,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thermodynamics"
+    },
+    {
+      "text": "Lexus",
+      "relevance": 0.617145,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lexus"
+    },
+    {
+      "text": "Contract",
+      "relevance": 0.574201,
+      "dbpedia_resource": "http://dbpedia.org/resource/Contract"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.99999,
+      "label": "/automotive and vehicles/vehicle brands/toyota"
+    }
+  ]
+}

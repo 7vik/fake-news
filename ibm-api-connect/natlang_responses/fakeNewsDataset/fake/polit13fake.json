@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 461,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.533246,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fastest way",
+      "sentiment": {
+        "score": 0.778991,
+        "label": "positive"
+      },
+      "relevance": 0.935993,
+      "emotion": {
+        "sadness": 0.05756,
+        "joy": 0.71694,
+        "fear": 0.016151,
+        "disgust": 0.045864,
+        "anger": 0.009072
+      },
+      "count": 2
+    },
+    {
+      "text": "Neil deGrasse Tyson",
+      "sentiment": {
+        "score": -0.782657,
+        "label": "negative"
+      },
+      "relevance": 0.822644,
+      "emotion": {
+        "sadness": 0.064602,
+        "joy": 0.187746,
+        "fear": 0.010777,
+        "disgust": 0.219149,
+        "anger": 0.01462
+      },
+      "count": 1
+    },
+    {
+      "text": "budget plans",
+      "sentiment": {
+        "score": -0.782657,
+        "label": "negative"
+      },
+      "relevance": 0.599366,
+      "emotion": {
+        "sadness": 0.055339,
+        "joy": 0.173388,
+        "fear": 0.01485,
+        "disgust": 0.127572,
+        "anger": 0.013024
+      },
+      "count": 1
+    },
+    {
+      "text": "America",
+      "sentiment": {
+        "score": 0.778991,
+        "label": "positive"
+      },
+      "relevance": 0.565596,
+      "emotion": {
+        "sadness": 0.05756,
+        "joy": 0.71694,
+        "fear": 0.016151,
+        "disgust": 0.045864,
+        "anger": 0.009072
+      },
+      "count": 2
+    },
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.782657,
+        "label": "negative"
+      },
+      "relevance": 0.548441,
+      "emotion": {
+        "sadness": 0.064602,
+        "joy": 0.187746,
+        "fear": 0.010777,
+        "disgust": 0.219149,
+        "anger": 0.01462
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Neil deGrasse Tyson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.902986,
+      "mentions": [
+        {
+          "text": "Neil deGrasse Tyson",
+          "location": [
+            0,
+            19
+          ]
+        },
+        {
+          "text": "Astrophysicist Neil deGrasse",
+          "location": [
+            49,
+            77
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118769,
+        "joy": 0.143345,
+        "fear": 0.020804,
+        "disgust": 0.337946,
+        "anger": 0.030497
+      },
+      "disambiguation": {
+        "subtype": [
+          "Academic",
+          "Astronomer",
+          "AwardWinner",
+          "BoardMember",
+          "Scientist",
+          "TVPersonality"
+        ],
+        "name": "Neil deGrasse Tyson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Neil_deGrasse_Tyson"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.638738,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            28,
+            33
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            92,
+            104
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118769,
+        "joy": 0.143345,
+        "fear": 0.020804,
+        "disgust": 0.337946,
+        "anger": 0.030497
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": 0.797839,
+        "label": "positive"
+      },
+      "relevance": 0.380426,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            257,
+            264
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            379,
+            386
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.121343,
+        "joy": 0.682945,
+        "fear": 0.095548,
+        "disgust": 0.051693,
+        "anger": 0.024444
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.249838,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            342,
+            351
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.124945,
+        "joy": 0.360419,
+        "fear": 0.003166,
+        "disgust": 0.447573,
+        "anger": 0.011204
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Neil deGrasse Tyson",
+      "relevance": 0.957748,
+      "dbpedia_resource": "http://dbpedia.org/resource/Neil_deGrasse_Tyson"
+    },
+    {
+      "text": "Economic development",
+      "relevance": 0.671049,
+      "dbpedia_resource": "http://dbpedia.org/resource/Economic_development"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.5874,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Management",
+      "relevance": 0.570638,
+      "dbpedia_resource": "http://dbpedia.org/resource/Management"
+    },
+    {
+      "text": "Bill Nye",
+      "relevance": 0.502363,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Nye"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.627215,
+      "label": "/religion and spirituality/atheism and agnosticism"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 601,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.463032,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "small battery packs",
+      "sentiment": {
+        "score": 0.429183,
+        "label": "positive"
+      },
+      "relevance": 0.953291,
+      "emotion": {
+        "sadness": 0.484928,
+        "joy": 0.240846,
+        "fear": 0.09916,
+        "disgust": 0.127519,
+        "anger": 0.225501
+      },
+      "count": 1
+    },
+    {
+      "text": "suit pockets",
+      "sentiment": {
+        "score": 0.429183,
+        "label": "positive"
+      },
+      "relevance": 0.74914,
+      "emotion": {
+        "sadness": 0.484928,
+        "joy": 0.240846,
+        "fear": 0.09916,
+        "disgust": 0.127519,
+        "anger": 0.225501
+      },
+      "count": 1
+    },
+    {
+      "text": "electronic devices",
+      "sentiment": {
+        "score": 0.818189,
+        "label": "positive"
+      },
+      "relevance": 0.667911,
+      "emotion": {
+        "sadness": 0.098036,
+        "joy": 0.623272,
+        "fear": 0.145232,
+        "disgust": 0.005055,
+        "anger": 0.041182
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.818189,
+        "label": "positive"
+      },
+      "relevance": 0.63808,
+      "emotion": {
+        "sadness": 0.098036,
+        "joy": 0.623272,
+        "fear": 0.145232,
+        "disgust": 0.005055,
+        "anger": 0.041182
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington Intelligence",
+      "sentiment": {
+        "score": 0.818189,
+        "label": "positive"
+      },
+      "relevance": 0.637963,
+      "emotion": {
+        "sadness": 0.098036,
+        "joy": 0.623272,
+        "fear": 0.145232,
+        "disgust": 0.005055,
+        "anger": 0.041182
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jarred Kushner",
+      "sentiment": {
+        "score": 0.706589,
+        "label": "positive"
+      },
+      "relevance": 0.903992,
+      "mentions": [
+        {
+          "text": "Jarred Kushner",
+          "location": [
+            512,
+            526
+          ]
+        },
+        {
+          "text": "secret operatives",
+          "location": [
+            542,
+            559
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.281947,
+        "joy": 0.522239,
+        "fear": 0.072717,
+        "disgust": 0.006613,
+        "anger": 0.046059
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.652229,
+        "label": "negative"
+      },
+      "relevance": 0.794857,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            121,
+            130
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            403,
+            412
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.097022,
+        "joy": 0.520312,
+        "fear": 0.069598,
+        "disgust": 0.004942,
+        "anger": 0.033723
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.536094,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            0,
+            3
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "CIA",
+      "sentiment": {
+        "score": -0.338699,
+        "label": "negative"
+      },
+      "relevance": 0.514544,
+      "mentions": [
+        {
+          "text": "CIA",
+          "location": [
+            453,
+            456
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.077159,
+        "joy": 0.017488,
+        "fear": 0.119299,
+        "disgust": 0.347731,
+        "anger": 0.171669
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Central Intelligence Agency",
+        "dbpedia_resource": "http://dbpedia.org/resource/Central_Intelligence_Agency"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George W. Bush",
+      "relevance": 0.933917,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Central Intelligence Agency",
+      "relevance": 0.89342,
+      "dbpedia_resource": "http://dbpedia.org/resource/Central_Intelligence_Agency"
+    },
+    {
+      "text": "Intelligence",
+      "relevance": 0.89138,
+      "dbpedia_resource": "http://dbpedia.org/resource/Intelligence_(information_gathering)"
+    },
+    {
+      "text": "Intelligence agency",
+      "relevance": 0.832053,
+      "dbpedia_resource": "http://dbpedia.org/resource/Intelligence_agency"
+    },
+    {
+      "text": "Ivanka Trump",
+      "relevance": 0.830399,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.882366,
+      "label": "/automotive and vehicles/electric vehicles"
+    }
+  ]
+}

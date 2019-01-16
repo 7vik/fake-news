@@ -1,0 +1,124 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "EXCLUSIVE COVER STORY",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999303,
+      "emotion": {
+        "sadness": 0.286584,
+        "joy": 0.306191,
+        "fear": 0.046209,
+        "disgust": 0.262673,
+        "anger": 0.210408
+      },
+      "count": 1
+    },
+    {
+      "text": "MICHAEL DOUGLAS",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.987765,
+      "emotion": {
+        "sadness": 0.286584,
+        "joy": 0.306191,
+        "fear": 0.046209,
+        "disgust": 0.262673,
+        "anger": 0.210408
+      },
+      "count": 1
+    },
+    {
+      "text": "DIVORCE",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.286584,
+        "joy": 0.306191,
+        "fear": 0.046209,
+        "disgust": 0.262673,
+        "anger": 0.210408
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "MICHAEL DOUGLAS",
+      "sentiment": {
+        "score": -0.310392,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "MICHAEL DOUGLAS",
+          "location": [
+            23,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.476053,
+        "joy": 0.120445,
+        "fear": 0.066398,
+        "disgust": 0.222515,
+        "anger": 0.234311
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$300 MILLION",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "$300 MILLION",
+          "location": [
+            39,
+            51
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kirk Douglas",
+      "relevance": 0.878864,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kirk_Douglas"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999882,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

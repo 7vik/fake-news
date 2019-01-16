@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.668411,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "95-Year-Old Betty White's Bucket List",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.718528,
+      "emotion": {
+        "sadness": 0.338005,
+        "joy": 0.173605,
+        "fear": 0.038673,
+        "disgust": 0.207788,
+        "anger": 0.091974
+      },
+      "count": 1
+    },
+    {
+      "text": "Adventure",
+      "sentiment": {
+        "score": 0.668411,
+        "label": "positive"
+      },
+      "relevance": 0.66807,
+      "emotion": {
+        "sadness": 0.236035,
+        "joy": 0.521967,
+        "fear": 0.046554,
+        "disgust": 0.004225,
+        "anger": 0.011724
+      },
+      "count": 1
+    },
+    {
+      "text": "Romance",
+      "sentiment": {
+        "score": 0.668411,
+        "label": "positive"
+      },
+      "relevance": 0.593413,
+      "emotion": {
+        "sadness": 0.236035,
+        "joy": 0.521967,
+        "fear": 0.046554,
+        "disgust": 0.004225,
+        "anger": 0.011724
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Betty White",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.966913,
+      "mentions": [
+        {
+          "text": "Betty White",
+          "location": [
+            40,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "HallOfFameInductee",
+          "TVActor"
+        ],
+        "name": "Betty White",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betty_White"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "95-Year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.966913,
+      "mentions": [
+        {
+          "text": "95-Year",
+          "location": [
+            28,
+            35
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.803264,
+      "label": "/art and entertainment/books and literature/romance novels"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 728,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.713169,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "supermarket group",
+      "sentiment": {
+        "score": -0.720263,
+        "label": "negative"
+      },
+      "relevance": 0.979249,
+      "emotion": {
+        "sadness": 0.163462,
+        "joy": 0.141015,
+        "fear": 0.083351,
+        "disgust": 0.203336,
+        "anger": 0.17881
+      },
+      "count": 1
+    },
+    {
+      "text": "Serious Fraud Office",
+      "sentiment": {
+        "score": -0.862668,
+        "label": "negative"
+      },
+      "relevance": 0.697069,
+      "emotion": {
+        "sadness": 0.145924,
+        "joy": 0.166222,
+        "fear": 0.200566,
+        "disgust": 0.320606,
+        "anger": 0.413521
+      },
+      "count": 1
+    },
+    {
+      "text": "legal costs",
+      "sentiment": {
+        "score": -0.509297,
+        "label": "negative"
+      },
+      "relevance": 0.684451,
+      "emotion": {
+        "sadness": 0.17167,
+        "joy": 0.037468,
+        "fear": 0.049574,
+        "disgust": 0.145479,
+        "anger": 0.296122
+      },
+      "count": 1
+    },
+    {
+      "text": "Financial Conduct Authority",
+      "sentiment": {
+        "score": -0.862668,
+        "label": "negative"
+      },
+      "relevance": 0.656907,
+      "emotion": {
+        "sadness": 0.145924,
+        "joy": 0.166222,
+        "fear": 0.200566,
+        "disgust": 0.320606,
+        "anger": 0.413521
+      },
+      "count": 1
+    },
+    {
+      "text": "prosecution agreement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.607895,
+      "emotion": {
+        "sadness": 0.189587,
+        "joy": 0.08431,
+        "fear": 0.111939,
+        "disgust": 0.05254,
+        "anger": 0.088807
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Tesco",
+      "sentiment": {
+        "score": -0.455566,
+        "label": "negative"
+      },
+      "relevance": 0.922697,
+      "mentions": [
+        {
+          "text": "Tesco",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Tesco",
+          "location": [
+            48,
+            53
+          ]
+        },
+        {
+          "text": "Tesco",
+          "location": [
+            387,
+            392
+          ]
+        },
+        {
+          "text": "Tesco",
+          "location": [
+            601,
+            606
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.143458,
+        "joy": 0.100691,
+        "fear": 0.050576,
+        "disgust": 0.327068,
+        "anger": 0.518145
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Tesco",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tesco"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Tesco Stores Ltd",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.375822,
+      "mentions": [
+        {
+          "text": "Tesco Stores Ltd",
+          "location": [
+            404,
+            420
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.179083,
+        "joy": 0.062193,
+        "fear": 0.031035,
+        "disgust": 0.027442,
+        "anger": 0.057337
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "DPA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.302686,
+      "mentions": [
+        {
+          "text": "DPA",
+          "location": [
+            305,
+            308
+          ]
+        },
+        {
+          "text": "DPA",
+          "location": [
+            372,
+            375
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.183923,
+        "joy": 0.059857,
+        "fear": 0.032291,
+        "disgust": 0.027726,
+        "anger": 0.060227
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Drug Policy Alliance",
+        "dbpedia_resource": "http://dbpedia.org/resource/Drug_Policy_Alliance"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "FCA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.222502,
+      "mentions": [
+        {
+          "text": "Financial Conduct Authority",
+          "location": [
+            131,
+            158
+          ]
+        },
+        {
+          "text": "FCA",
+          "location": [
+            475,
+            478
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.138103,
+        "joy": 0.162052,
+        "fear": 0.155048,
+        "disgust": 0.366937,
+        "anger": 0.409197
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Financial Conduct Authority",
+        "dbpedia_resource": "http://dbpedia.org/resource/Financial_Conduct_Authority"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Serious Fraud Office",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.191772,
+      "mentions": [
+        {
+          "text": "Serious Fraud Office",
+          "location": [
+            106,
+            126
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145924,
+        "joy": 0.166222,
+        "fear": 0.200566,
+        "disgust": 0.320606,
+        "anger": 0.413521
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Finance",
+      "relevance": 0.934421,
+      "dbpedia_resource": "http://dbpedia.org/resource/Finance"
+    },
+    {
+      "text": "Agreement",
+      "relevance": 0.887656,
+      "dbpedia_resource": "http://dbpedia.org/resource/Agreement"
+    },
+    {
+      "text": "Civil procedure",
+      "relevance": 0.632338,
+      "dbpedia_resource": "http://dbpedia.org/resource/Civil_procedure"
+    },
+    {
+      "text": "Costs",
+      "relevance": 0.613279,
+      "dbpedia_resource": "http://dbpedia.org/resource/Costs_(English_law)"
+    },
+    {
+      "text": "Credit card",
+      "relevance": 0.599057,
+      "dbpedia_resource": "http://dbpedia.org/resource/Credit_card"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.864529,
+      "label": "/business and industrial/company/earnings"
+    }
+  ]
+}

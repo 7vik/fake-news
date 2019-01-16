@@ -1,0 +1,355 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 958,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.600267,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Judges Blake Shelton",
+      "sentiment": {
+        "score": -0.351082,
+        "label": "negative"
+      },
+      "relevance": 0.715501,
+      "emotion": {
+        "sadness": 0.066472,
+        "joy": 0.666739,
+        "fear": 0.015847,
+        "disgust": 0.079563,
+        "anger": 0.210172
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Hudson's comeback artists",
+      "sentiment": {
+        "score": 0.316645,
+        "label": "positive"
+      },
+      "relevance": 0.681272,
+      "emotion": {
+        "sadness": 0.126237,
+        "joy": 0.446273,
+        "fear": 0.087538,
+        "disgust": 0.102539,
+        "anger": 0.224217
+      },
+      "count": 1
+    },
+    {
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": 0.316645,
+        "label": "positive"
+      },
+      "relevance": 0.677527,
+      "emotion": {
+        "sadness": 0.067875,
+        "joy": 0.62849,
+        "fear": 0.018801,
+        "disgust": 0.086534,
+        "anger": 0.240503
+      },
+      "count": 1
+    },
+    {
+      "text": "Voice' playoffs",
+      "sentiment": {
+        "score": 0.316645,
+        "label": "positive"
+      },
+      "relevance": 0.658827,
+      "emotion": {
+        "sadness": 0.126237,
+        "joy": 0.446273,
+        "fear": 0.087538,
+        "disgust": 0.102539,
+        "anger": 0.224217
+      },
+      "count": 1
+    },
+    {
+      "text": "second chance",
+      "sentiment": {
+        "score": 0.316645,
+        "label": "positive"
+      },
+      "relevance": 0.626826,
+      "emotion": {
+        "sadness": 0.066472,
+        "joy": 0.666739,
+        "fear": 0.015847,
+        "disgust": 0.079563,
+        "anger": 0.210172
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Hudson",
+      "sentiment": {
+        "score": -0.33397,
+        "label": "negative"
+      },
+      "relevance": 0.837468,
+      "mentions": [
+        {
+          "text": "Jennifer Hudson",
+          "location": [
+            53,
+            68
+          ]
+        },
+        {
+          "text": "Jennifer Hudson",
+          "location": [
+            154,
+            169
+          ]
+        },
+        {
+          "text": "Jennifer Hudson",
+          "location": [
+            827,
+            842
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.167903,
+        "joy": 0.360625,
+        "fear": 0.105352,
+        "disgust": 0.051105,
+        "anger": 0.163583
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Hudson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Hudson"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.400355,
+        "label": "negative"
+      },
+      "relevance": 0.664455,
+      "mentions": [
+        {
+          "text": "Blake Shelton",
+          "location": [
+            35,
+            48
+          ]
+        },
+        {
+          "text": "Blake Shelton",
+          "location": [
+            136,
+            149
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1235,
+        "joy": 0.419712,
+        "fear": 0.065714,
+        "disgust": 0.105075,
+        "anger": 0.253504
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Stovall",
+      "sentiment": {
+        "score": 0.767737,
+        "label": "positive"
+      },
+      "relevance": 0.407768,
+      "mentions": [
+        {
+          "text": "Stovall",
+          "location": [
+            497,
+            504
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            521,
+            524
+          ]
+        },
+        {
+          "text": "cute.",
+          "location": [
+            527,
+            532
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.767737,
+        "label": "positive"
+      },
+      "relevance": 0.381538,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            473,
+            484
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213435,
+        "joy": 0.229324,
+        "fear": 0.04821,
+        "disgust": 0.282095,
+        "anger": 0.129769
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Cyndi Lauper",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306552,
+      "mentions": [
+        {
+          "text": "Cyndi Lauper",
+          "location": [
+            742,
+            754
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Cyndi Lauper",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cyndi_Lauper"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American television actors",
+      "relevance": 0.952388,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.950834,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.945734,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    },
+    {
+      "text": "Beyonc\u00e9 Knowles",
+      "relevance": 0.838903,
+      "dbpedia_resource": "http://dbpedia.org/resource/Beyonc\u00e9_Knowles"
+    },
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.711738,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.706985,
+      "label": "/law, govt and politics/government/courts and judiciary"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 601,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.542539,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.817356,
+        "label": "negative"
+      },
+      "relevance": 0.85593,
+      "emotion": {
+        "sadness": 0.17918,
+        "joy": 0.552783,
+        "fear": 0.094835,
+        "disgust": 0.151534,
+        "anger": 0.107044
+      },
+      "count": 1
+    },
+    {
+      "text": "frustrated spokesperson",
+      "sentiment": {
+        "score": -0.778807,
+        "label": "negative"
+      },
+      "relevance": 0.804887,
+      "emotion": {
+        "sadness": 0.607211,
+        "joy": 0.01911,
+        "fear": 0.072578,
+        "disgust": 0.107657,
+        "anger": 0.418235
+      },
+      "count": 1
+    },
+    {
+      "text": "new plant",
+      "sentiment": {
+        "score": -0.817356,
+        "label": "negative"
+      },
+      "relevance": 0.754328,
+      "emotion": {
+        "sadness": 0.187144,
+        "joy": 0.53215,
+        "fear": 0.140161,
+        "disgust": 0.064856,
+        "anger": 0.115116
+      },
+      "count": 1
+    },
+    {
+      "text": "delighted Donald Trump",
+      "sentiment": {
+        "score": 0.814979,
+        "label": "positive"
+      },
+      "relevance": 0.678202,
+      "emotion": {
+        "sadness": 0.199852,
+        "joy": 0.417949,
+        "fear": 0.075361,
+        "disgust": 0.323545,
+        "anger": 0.094527
+      },
+      "count": 1
+    },
+    {
+      "text": "Mexican immigrants",
+      "sentiment": {
+        "score": -0.778807,
+        "label": "negative"
+      },
+      "relevance": 0.673796,
+      "emotion": {
+        "sadness": 0.607211,
+        "joy": 0.01911,
+        "fear": 0.072578,
+        "disgust": 0.107657,
+        "anger": 0.418235
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.180947,
+        "label": "positive"
+      },
+      "relevance": 0.955932,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            24,
+            36
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            507,
+            519
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.192767,
+        "joy": 0.52924,
+        "fear": 0.115109,
+        "disgust": 0.12625,
+        "anger": 0.109272
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Ford",
+      "sentiment": {
+        "score": -0.651805,
+        "label": "negative"
+      },
+      "relevance": 0.823438,
+      "mentions": [
+        {
+          "text": "Ford",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            218,
+            222
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            331,
+            335
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.544048,
+        "joy": 0.137655,
+        "fear": 0.099919,
+        "disgust": 0.063132,
+        "anger": 0.348545
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "AwardWinner",
+          "Inventor",
+          "SchoolFounder"
+        ],
+        "name": "Ford Motor Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ford_Motor_Company"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "sentiment": {
+        "score": -0.651805,
+        "label": "negative"
+      },
+      "relevance": 0.472855,
+      "mentions": [
+        {
+          "text": "Mexico",
+          "location": [
+            82,
+            88
+          ]
+        },
+        {
+          "text": "Mexico",
+          "location": [
+            487,
+            493
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.508218,
+        "joy": 0.128698,
+        "fear": 0.110379,
+        "disgust": 0.096192,
+        "anger": 0.363931
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.335306,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            197,
+            206
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.417084,
+        "joy": 0.268043,
+        "fear": 0.101131,
+        "disgust": 0.027319,
+        "anger": 0.174908
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Michigan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.294003,
+      "mentions": [
+        {
+          "text": "Michigan",
+          "location": [
+            264,
+            272
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.417084,
+        "joy": 0.268043,
+        "fear": 0.101131,
+        "disgust": 0.027319,
+        "anger": 0.174908
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Gerald Ford",
+      "relevance": 0.876372,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gerald_Ford"
+    },
+    {
+      "text": "WrestleMania 23",
+      "relevance": 0.795879,
+      "dbpedia_resource": "http://dbpedia.org/resource/WrestleMania_23"
+    },
+    {
+      "text": "WrestleMania",
+      "relevance": 0.777393,
+      "dbpedia_resource": "http://dbpedia.org/resource/WrestleMania"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.771705,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.730583,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.844343,
+      "emotion": {
+        "sadness": 0.095909,
+        "joy": 0.265125,
+        "fear": 0.150365,
+        "disgust": 0.065036,
+        "anger": 0.069958
+      },
+      "count": 1
+    },
+    {
+      "text": "US Vogue",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.155657,
+      "emotion": {
+        "sadness": 0.095909,
+        "joy": 0.265125,
+        "fear": 0.150365,
+        "disgust": 0.065036,
+        "anger": 0.069958
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anna Wintour",
+          "location": [
+            18,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.104958,
+        "joy": 0.347366,
+        "fear": 0.139375,
+        "disgust": 0.060248,
+        "anger": 0.059178
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist"
+        ],
+        "name": "Anna Wintour",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Anna Wintour",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+      "text": "Vogue",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+      "text": "Lauren Weisberger",
+      "relevance": 0.860816,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lauren_Weisberger"
+    },
+    {
+      "text": "The Devil Wears Prada",
+      "relevance": 0.812123,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Devil_Wears_Prada_(film)"
+    },
+    {
+      "text": "Grace Mirabella",
+      "relevance": 0.794278,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grace_Mirabella"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.922562,
+      "label": "/business and industrial/fashion industry"
+    }
+  ]
+}

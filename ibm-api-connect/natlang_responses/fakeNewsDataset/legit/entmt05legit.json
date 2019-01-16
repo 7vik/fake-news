@@ -1,0 +1,233 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 578,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.337837,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Planet Earth",
+      "sentiment": {
+        "score": -0.82216,
+        "label": "negative"
+      },
+      "relevance": 0.961924,
+      "emotion": {
+        "sadness": 0.252514,
+        "joy": 0.536667,
+        "fear": 0.050302,
+        "disgust": 0.091464,
+        "anger": 0.142303
+      },
+      "count": 1
+    },
+    {
+      "text": "Netflix drama",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.895772,
+      "emotion": {
+        "sadness": 0.142033,
+        "joy": 0.264419,
+        "fear": 0.095809,
+        "disgust": 0.01733,
+        "anger": 0.329077
+      },
+      "count": 1
+    },
+    {
+      "text": "nature documentary",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.650641,
+      "emotion": {
+        "sadness": 0.063581,
+        "joy": 0.744776,
+        "fear": 0.016937,
+        "disgust": 0.122185,
+        "anger": 0.04757
+      },
+      "count": 1
+    },
+    {
+      "text": "annual Craft Awards",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.620756,
+      "emotion": {
+        "sadness": 0.063581,
+        "joy": 0.744776,
+        "fear": 0.016937,
+        "disgust": 0.122185,
+        "anger": 0.04757
+      },
+      "count": 1
+    },
+    {
+      "text": "BBC",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.590832,
+      "emotion": {
+        "sadness": 0.054876,
+        "joy": 0.759752,
+        "fear": 0.018445,
+        "disgust": 0.05082,
+        "anger": 0.123282
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "BBC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.829493,
+      "mentions": [
+        {
+          "text": "BBC",
+          "location": [
+            174,
+            177
+          ]
+        },
+        {
+          "text": "BBC",
+          "location": [
+            387,
+            390
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.063581,
+        "joy": 0.744776,
+        "fear": 0.016937,
+        "disgust": 0.122185,
+        "anger": 0.04757
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "Broadcast",
+          "PeriodicalPublisher",
+          "ProductionCompany",
+          "TVNetwork",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalArtist",
+          "TVProducer"
+        ],
+        "name": "BBC",
+        "dbpedia_resource": "http://dbpedia.org/resource/BBC"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Netflix",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.411879,
+      "mentions": [
+        {
+          "text": "Netflix",
+          "location": [
+            321,
+            328
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142033,
+        "joy": 0.264419,
+        "fear": 0.095809,
+        "disgust": 0.01733,
+        "anger": 0.329077
+      },
+      "disambiguation": {
+        "subtype": [
+          "VentureFundedCompany"
+        ],
+        "name": "Netflix",
+        "dbpedia_resource": "http://dbpedia.org/resource/Netflix"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "three weeks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.411879,
+      "mentions": [
+        {
+          "text": "three weeks",
+          "location": [
+            464,
+            475
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "BBC One",
+      "relevance": 0.972416,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC_One"
+    },
+    {
+      "text": "BBC",
+      "relevance": 0.889335,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC"
+    },
+    {
+      "text": "BBC Natural History Unit",
+      "relevance": 0.86204,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC_Natural_History_Unit"
+    },
+    {
+      "text": "BBC HD",
+      "relevance": 0.857722,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC_HD"
+    },
+    {
+      "text": "Nature documentary",
+      "relevance": 0.784561,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nature_documentary"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.979547,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

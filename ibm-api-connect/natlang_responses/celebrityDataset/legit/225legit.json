@@ -1,0 +1,363 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1522,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.342076,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tyra Banks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.742018,
+      "emotion": {
+        "sadness": 0.101968,
+        "joy": 0.701186,
+        "fear": 0.019979,
+        "disgust": 0.153291,
+        "anger": 0.073347
+      },
+      "count": 1
+    },
+    {
+      "text": "America\u2019s Next Top Model star",
+      "sentiment": {
+        "score": -0.444993,
+        "label": "negative"
+      },
+      "relevance": 0.681702,
+      "emotion": {
+        "sadness": 0.094133,
+        "joy": 0.719057,
+        "fear": 0.01697,
+        "disgust": 0.15824,
+        "anger": 0.056374
+      },
+      "count": 1
+    },
+    {
+      "text": "Got Talent",
+      "sentiment": {
+        "score": -0.444993,
+        "label": "negative"
+      },
+      "relevance": 0.665581,
+      "emotion": {
+        "sadness": 0.14901,
+        "joy": 0.633934,
+        "fear": 0.013525,
+        "disgust": 0.159243,
+        "anger": 0.106803
+      },
+      "count": 1
+    },
+    {
+      "text": "new America",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.642899,
+      "emotion": {
+        "sadness": 0.244491,
+        "joy": 0.606271,
+        "fear": 0.065325,
+        "disgust": 0.057373,
+        "anger": 0.072207
+      },
+      "count": 1
+    },
+    {
+      "text": "Talent host",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.615025,
+      "emotion": {
+        "sadness": 0.244491,
+        "joy": 0.606271,
+        "fear": 0.065325,
+        "disgust": 0.057373,
+        "anger": 0.072207
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tyra Banks",
+      "sentiment": {
+        "score": 0.61414,
+        "label": "positive"
+      },
+      "relevance": 0.745647,
+      "mentions": [
+        {
+          "text": "Tyra Banks",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Banks",
+          "location": [
+            120,
+            125
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.204293,
+        "joy": 0.575885,
+        "fear": 0.02485,
+        "disgust": 0.1555,
+        "anger": 0.103743
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardWinner",
+          "Celebrity",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Tyra Banks",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tyra_Banks"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Tyra",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.598906,
+      "mentions": [
+        {
+          "text": "Tyra",
+          "location": [
+            588,
+            592
+          ]
+        },
+        {
+          "text": "Tyra",
+          "location": [
+            1161,
+            1165
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Thyra",
+        "dbpedia_resource": "http://dbpedia.org/resource/Thyra"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Simon Cowell",
+      "sentiment": {
+        "score": 0.400905,
+        "label": "positive"
+      },
+      "relevance": 0.595481,
+      "mentions": [
+        {
+          "text": "Simon Cowell",
+          "location": [
+            483,
+            495
+          ]
+        },
+        {
+          "text": "Simon",
+          "location": [
+            566,
+            571
+          ]
+        },
+        {
+          "text": "Mr Cowell",
+          "location": [
+            645,
+            654
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142965,
+        "joy": 0.680443,
+        "fear": 0.061324,
+        "disgust": 0.082989,
+        "anger": 0.074347
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Simon Cowell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Simon_Cowell"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": 0.61414,
+        "label": "positive"
+      },
+      "relevance": 0.581011,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            54,
+            61
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            160,
+            167
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            355,
+            362
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            1248,
+            1255
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Mel B",
+      "sentiment": {
+        "score": -0.244375,
+        "label": "negative"
+      },
+      "relevance": 0.560043,
+      "mentions": [
+        {
+          "text": "Mel B",
+          "location": [
+            497,
+            502
+          ]
+        },
+        {
+          "text": "Mel",
+          "location": [
+            887,
+            890
+          ]
+        },
+        {
+          "text": "Mel",
+          "location": [
+            982,
+            985
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.643445,
+        "joy": 0.022097,
+        "fear": 0.106451,
+        "disgust": 0.193986,
+        "anger": 0.312109
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Melanie Brown",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melanie_Brown"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "America's Got Talent",
+      "relevance": 0.975653,
+      "dbpedia_resource": "http://dbpedia.org/resource/America's_Got_Talent"
+    },
+    {
+      "text": "Simon Cowell",
+      "relevance": 0.685861,
+      "dbpedia_resource": "http://dbpedia.org/resource/Simon_Cowell"
+    },
+    {
+      "text": "Howie Mandel",
+      "relevance": 0.684534,
+      "dbpedia_resource": "http://dbpedia.org/resource/Howie_Mandel"
+    },
+    {
+      "text": "America's Next Top Model",
+      "relevance": 0.662204,
+      "dbpedia_resource": "http://dbpedia.org/resource/America's_Next_Top_Model"
+    },
+    {
+      "text": "Victoria's Secret",
+      "relevance": 0.53326,
+      "dbpedia_resource": "http://dbpedia.org/resource/Victoria's_Secret"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.627943,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

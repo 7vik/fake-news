@@ -1,0 +1,373 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1218,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.916785,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sean Spicer",
+      "sentiment": {
+        "score": -0.988961,
+        "label": "negative"
+      },
+      "relevance": 0.946372,
+      "emotion": {
+        "sadness": 0.553089,
+        "joy": 0.043184,
+        "fear": 0.113577,
+        "disgust": 0.268228,
+        "anger": 0.327114
+      },
+      "count": 1
+    },
+    {
+      "text": "April Ryan  Washington bureau chief",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.692568,
+      "emotion": {
+        "sadness": 0.320978,
+        "joy": 0.108591,
+        "fear": 0.048057,
+        "disgust": 0.187102,
+        "anger": 0.460449
+      },
+      "count": 1
+    },
+    {
+      "text": "own image of the White House",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.673567,
+      "emotion": {
+        "sadness": 0.442245,
+        "joy": 0.25589,
+        "fear": 0.100927,
+        "disgust": 0.282172,
+        "anger": 0.13523
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump's administration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.620778,
+      "emotion": {
+        "sadness": 0.320978,
+        "joy": 0.108591,
+        "fear": 0.048057,
+        "disgust": 0.187102,
+        "anger": 0.460449
+      },
+      "count": 1
+    },
+    {
+      "text": "daily press",
+      "sentiment": {
+        "score": -0.988961,
+        "label": "negative"
+      },
+      "relevance": 0.614097,
+      "emotion": {
+        "sadness": 0.486343,
+        "joy": 0.08779,
+        "fear": 0.164876,
+        "disgust": 0.242843,
+        "anger": 0.282211
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sean Spicer",
+      "sentiment": {
+        "score": 0.018929,
+        "label": "positive"
+      },
+      "relevance": 0.918782,
+      "mentions": [
+        {
+          "text": "Sean Spicer",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Sean Spicer",
+          "location": [
+            83,
+            94
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            195,
+            201
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            416,
+            422
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            522,
+            524
+          ]
+        },
+        {
+          "text": "his",
+          "location": [
+            717,
+            720
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            774,
+            780
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            1097,
+            1103
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            1118,
+            1120
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.560898,
+        "joy": 0.143512,
+        "fear": 0.477484,
+        "disgust": 0.224643,
+        "anger": 0.199767
+      },
+      "count": 9
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.446487,
+        "label": "positive"
+      },
+      "relevance": 0.257329,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            313,
+            322
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            677,
+            686
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            1032,
+            1041
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            1130,
+            1139
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.328177,
+        "joy": 0.392341,
+        "fear": 0.056228,
+        "disgust": 0.262491,
+        "anger": 0.112599
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.237172,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            323,
+            328
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            879,
+            884
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.373986,
+        "joy": 0.469334,
+        "fear": 0.032538,
+        "disgust": 0.179215,
+        "anger": 0.030512
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.233234,
+      "mentions": [
+        {
+          "text": "Ryan  Washington",
+          "location": [
+            228,
+            244
+          ]
+        },
+        {
+          "text": "Ryan",
+          "location": [
+            786,
+            790
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            864,
+            867
+          ]
+        },
+        {
+          "text": "Ryan",
+          "location": [
+            1112,
+            1116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17392,
+        "joy": 0.191274,
+        "fear": 0.125455,
+        "disgust": 0.169046,
+        "anger": 0.23285
+      },
+      "count": 4
+    },
+    {
+      "type": "JobTitle",
+      "text": "reporter",
+      "sentiment": {
+        "score": -0.40863,
+        "label": "negative"
+      },
+      "relevance": 0.208395,
+      "mentions": [
+        {
+          "text": "reporter",
+          "location": [
+            18,
+            26
+          ]
+        },
+        {
+          "text": "reporter",
+          "location": [
+            102,
+            110
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.475221,
+        "joy": 0.042356,
+        "fear": 0.090526,
+        "disgust": 0.280169,
+        "anger": 0.388675
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.965997,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Condoleezza Rice",
+      "relevance": 0.793795,
+      "dbpedia_resource": "http://dbpedia.org/resource/Condoleezza_Rice"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.783495,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "White House Press Secretary",
+      "relevance": 0.77464,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House_Press_Secretary"
+    },
+    {
+      "text": "Thomas Jefferson",
+      "relevance": 0.739216,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thomas_Jefferson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.754272,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 24,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Dads",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.957921,
+      "emotion": {
+        "sadness": 0.330228,
+        "joy": 0.328003,
+        "fear": 0.147519,
+        "disgust": 0.041052,
+        "anger": 0.131637
+      },
+      "count": 1
+    },
+    {
+      "text": "Bay",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.765931,
+      "emotion": {
+        "sadness": 0.330228,
+        "joy": 0.328003,
+        "fear": 0.147519,
+        "disgust": 0.041052,
+        "anger": 0.131637
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Mentored Bay",
+      "sentiment": {
+        "score": 0.383102,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Mentored Bay",
+          "location": [
+            11,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145788,
+        "joy": 0.258624,
+        "fear": 0.200246,
+        "disgust": 0.049139,
+        "anger": 0.10914
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.724321,
+      "label": "/family and parenting"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 527,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.91762,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "voice recognition",
+      "sentiment": {
+        "score": 0.91762,
+        "label": "positive"
+      },
+      "relevance": 0.810985,
+      "emotion": {
+        "sadness": 0.070949,
+        "joy": 0.203847,
+        "fear": 0.023027,
+        "disgust": 0.011743,
+        "anger": 0.017351
+      },
+      "count": 2
+    },
+    {
+      "text": "good deal",
+      "sentiment": {
+        "score": 0.898187,
+        "label": "positive"
+      },
+      "relevance": 0.759053,
+      "emotion": {
+        "sadness": 0.095496,
+        "joy": 0.262073,
+        "fear": 0.016467,
+        "disgust": 0.007767,
+        "anger": 0.026151
+      },
+      "count": 1
+    },
+    {
+      "text": "operating systems",
+      "sentiment": {
+        "score": 0.936356,
+        "label": "positive"
+      },
+      "relevance": 0.667377,
+      "emotion": {
+        "sadness": 0.066167,
+        "joy": 0.103585,
+        "fear": 0.066941,
+        "disgust": 0.032702,
+        "anger": 0.02069
+      },
+      "count": 1
+    },
+    {
+      "text": "much money Toyota",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.64165,
+      "emotion": {
+        "sadness": 0.146638,
+        "joy": 0.013299,
+        "fear": 0.086161,
+        "disgust": 0.079861,
+        "anger": 0.108171
+      },
+      "count": 1
+    },
+    {
+      "text": "Toyota",
+      "sentiment": {
+        "score": 0.91122,
+        "label": "positive"
+      },
+      "relevance": 0.625596,
+      "emotion": {
+        "sadness": 0.094213,
+        "joy": 0.134986,
+        "fear": 0.035316,
+        "disgust": 0.017352,
+        "anger": 0.026379
+      },
+      "count": 3
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Toyota",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.843294,
+      "mentions": [
+        {
+          "text": "Toyota",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Toyota",
+          "location": [
+            238,
+            244
+          ]
+        },
+        {
+          "text": "Toyota",
+          "location": [
+            467,
+            473
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128818,
+        "joy": 0.213902,
+        "fear": 0.027458,
+        "disgust": 0.01224,
+        "anger": 0.052954
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "ManufacturingPlant",
+          "AwardWinner"
+        ],
+        "name": "Toyota",
+        "dbpedia_resource": "http://dbpedia.org/resource/Toyota"
+      },
+      "count": 3
+    },
+    {
+      "type": "Vehicle",
+      "text": "Toyota will",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.584096,
+      "mentions": [
+        {
+          "text": "Toyota will",
+          "location": [
+            271,
+            282
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.055645,
+        "joy": 0.042777,
+        "fear": 0.04016,
+        "disgust": 0.028022,
+        "anger": 0.028653
+      },
+      "disambiguation": {
+        "subtype": [
+          "Automobile"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Microsoft",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.355818,
+      "mentions": [
+        {
+          "text": "Microsoft",
+          "location": [
+            21,
+            30
+          ]
+        },
+        {
+          "text": "Microsoft",
+          "location": [
+            77,
+            86
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.037877,
+        "joy": 0.226712,
+        "fear": 0.021869,
+        "disgust": 0.031955,
+        "anger": 0.032061
+      },
+      "disambiguation": {
+        "subtype": [
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher",
+          "ProgrammingLanguageDesigner"
+        ],
+        "name": "Microsoft",
+        "dbpedia_resource": "http://dbpedia.org/resource/Microsoft"
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Automotive News",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.259833,
+      "mentions": [
+        {
+          "text": "Automotive News",
+          "location": [
+            246,
+            261
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.235826,
+        "joy": 0.052062,
+        "fear": 0.134716,
+        "disgust": 0.148038,
+        "anger": 0.089479
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Automotive News",
+        "dbpedia_resource": "http://dbpedia.org/resource/Automotive_News"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Operating system",
+      "relevance": 0.943024,
+      "dbpedia_resource": "http://dbpedia.org/resource/Operating_system"
+    },
+    {
+      "text": "Science fiction",
+      "relevance": 0.7273,
+      "dbpedia_resource": "http://dbpedia.org/resource/Science_fiction"
+    },
+    {
+      "text": "Robotics",
+      "relevance": 0.692008,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robotics"
+    },
+    {
+      "text": "General Motors",
+      "relevance": 0.652814,
+      "dbpedia_resource": "http://dbpedia.org/resource/General_Motors"
+    },
+    {
+      "text": "Lexus",
+      "relevance": 0.625166,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lexus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 1.0,
+      "label": "/automotive and vehicles/vehicle brands/toyota"
+    }
+  ]
+}

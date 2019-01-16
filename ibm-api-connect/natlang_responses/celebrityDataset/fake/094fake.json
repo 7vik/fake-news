@@ -1,0 +1,317 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1246,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.26712,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "30-year-old",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.865838,
+      "emotion": {
+        "sadness": 0.434749,
+        "joy": 0.149077,
+        "fear": 0.063457,
+        "disgust": 0.397349,
+        "anger": 0.140744
+      },
+      "count": 1
+    },
+    {
+      "text": "Lady Gaga's Baby Plans",
+      "sentiment": {
+        "score": 0.616919,
+        "label": "positive"
+      },
+      "relevance": 0.832602,
+      "emotion": {
+        "sadness": 0.141341,
+        "joy": 0.600853,
+        "fear": 0.096349,
+        "disgust": 0.1544,
+        "anger": 0.085286
+      },
+      "count": 1
+    },
+    {
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": 0.771369,
+        "label": "positive"
+      },
+      "relevance": 0.713921,
+      "emotion": {
+        "sadness": 0.059512,
+        "joy": 0.807712,
+        "fear": 0.008458,
+        "disgust": 0.053872,
+        "anger": 0.103541
+      },
+      "count": 3
+    },
+    {
+      "text": "Taylor Kinney Split",
+      "sentiment": {
+        "score": 0.616919,
+        "label": "positive"
+      },
+      "relevance": 0.66397,
+      "emotion": {
+        "sadness": 0.141341,
+        "joy": 0.600853,
+        "fear": 0.096349,
+        "disgust": 0.1544,
+        "anger": 0.085286
+      },
+      "count": 1
+    },
+    {
+      "text": "new life",
+      "sentiment": {
+        "score": 0.771369,
+        "label": "positive"
+      },
+      "relevance": 0.586125,
+      "emotion": {
+        "sadness": 0.153047,
+        "joy": 0.74808,
+        "fear": 0.01128,
+        "disgust": 0.043475,
+        "anger": 0.070609
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Kinney",
+      "sentiment": {
+        "score": -0.225704,
+        "label": "negative"
+      },
+      "relevance": 0.871065,
+      "mentions": [
+        {
+          "text": "Taylor Kinney",
+          "location": [
+            45,
+            58
+          ]
+        },
+        {
+          "text": "Taylor Kinney",
+          "location": [
+            186,
+            199
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            242,
+            245
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            384,
+            390
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            414,
+            417
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            501,
+            504
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            995,
+            1001
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            1045,
+            1048
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1115,
+            1118
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            1187,
+            1193
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.628684,
+        "joy": 0.593186,
+        "fear": 0.069911,
+        "disgust": 0.169918,
+        "anger": 0.084458
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Taylor Kinney",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Kinney"
+      },
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": 0.461669,
+        "label": "positive"
+      },
+      "relevance": 0.839898,
+      "mentions": [
+        {
+          "text": "Lady Gaga",
+          "location": [
+            12,
+            21
+          ]
+        },
+        {
+          "text": "Lady Gaga",
+          "location": [
+            75,
+            84
+          ]
+        },
+        {
+          "text": "Lady Gaga",
+          "location": [
+            944,
+            953
+          ]
+        },
+        {
+          "text": "Lady Gaga",
+          "location": [
+            1137,
+            1146
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.061898,
+        "joy": 0.671388,
+        "fear": 0.045715,
+        "disgust": 0.211083,
+        "anger": 0.067278
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lady Gaga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+      },
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "five years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.839898,
+      "mentions": [
+        {
+          "text": "five years",
+          "location": [
+            923,
+            933
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "30-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.839898,
+      "mentions": [
+        {
+          "text": "30-year",
+          "location": [
+            1085,
+            1092
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Fame",
+      "relevance": 0.907322,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Fame"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.750442,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.74792,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Lady Gaga",
+      "relevance": 0.742105,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+      "text": "Thought",
+      "relevance": 0.704171,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thought"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.949396,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

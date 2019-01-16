@@ -1,0 +1,258 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 550,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.669431,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "German scientists test 'artificial sun",
+      "sentiment": {
+        "score": 0.669431,
+        "label": "positive"
+      },
+      "relevance": 0.764691,
+      "emotion": {
+        "sadness": 0.036922,
+        "joy": 0.73191,
+        "fear": 0.121633,
+        "disgust": 0.031625,
+        "anger": 0.014783
+      },
+      "count": 1
+    },
+    {
+      "text": "uses xenon short-arc lamps",
+      "sentiment": {
+        "score": 0.669431,
+        "label": "positive"
+      },
+      "relevance": 0.694068,
+      "emotion": {
+        "sadness": 0.123798,
+        "joy": 0.670329,
+        "fear": 0.073042,
+        "disgust": 0.00246,
+        "anger": 0.017528
+      },
+      "count": 1
+    },
+    {
+      "text": "climate-friendly fuels",
+      "sentiment": {
+        "score": 0.669431,
+        "label": "positive"
+      },
+      "relevance": 0.644802,
+      "emotion": {
+        "sadness": 0.123798,
+        "joy": 0.670329,
+        "fear": 0.073042,
+        "disgust": 0.00246,
+        "anger": 0.017528
+      },
+      "count": 1
+    },
+    {
+      "text": "world's largest artificial sun",
+      "sentiment": {
+        "score": 0.669431,
+        "label": "positive"
+      },
+      "relevance": 0.626918,
+      "emotion": {
+        "sadness": 0.123798,
+        "joy": 0.670329,
+        "fear": 0.073042,
+        "disgust": 0.00246,
+        "anger": 0.017528
+      },
+      "count": 1
+    },
+    {
+      "text": "short supply",
+      "sentiment": {
+        "score": 0.669431,
+        "label": "positive"
+      },
+      "relevance": 0.624904,
+      "emotion": {
+        "sadness": 0.123798,
+        "joy": 0.670329,
+        "fear": 0.073042,
+        "disgust": 0.00246,
+        "anger": 0.017528
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Germany",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.89834,
+      "mentions": [
+        {
+          "text": "Germany",
+          "location": [
+            74,
+            81
+          ]
+        },
+        {
+          "text": "Germany",
+          "location": [
+            520,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.295624,
+        "joy": 0.420871,
+        "fear": 0.084253,
+        "disgust": 0.01778,
+        "anger": 0.041011
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Germany",
+        "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Juelich",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.727867,
+      "mentions": [
+        {
+          "text": "Juelich",
+          "location": [
+            349,
+            356
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "J\u00fclich",
+        "dbpedia_resource": "http://dbpedia.org/resource/J\u00fclich"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cologne",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.603377,
+      "mentions": [
+        {
+          "text": "Cologne",
+          "location": [
+            397,
+            404
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.299402,
+        "joy": 0.170404,
+        "fear": 0.058066,
+        "disgust": 0.049351,
+        "anger": 0.128748
+      },
+      "disambiguation": {
+        "subtype": [
+          "GermanUrbanDistrict",
+          "City"
+        ],
+        "name": "Cologne",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cologne"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "30 kilometers",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.603377,
+      "mentions": [
+        {
+          "text": "30 kilometers",
+          "location": [
+            364,
+            377
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sunlight",
+      "relevance": 0.958415,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sunlight"
+    },
+    {
+      "text": "Germany",
+      "relevance": 0.865936,
+      "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+    },
+    {
+      "text": "Light",
+      "relevance": 0.803372,
+      "dbpedia_resource": "http://dbpedia.org/resource/Light"
+    },
+    {
+      "text": "Sun",
+      "relevance": 0.777652,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sun"
+    },
+    {
+      "text": "Book of Optics",
+      "relevance": 0.738531,
+      "dbpedia_resource": "http://dbpedia.org/resource/Book_of_Optics"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.642642,
+      "label": "/science"
+    }
+  ]
+}

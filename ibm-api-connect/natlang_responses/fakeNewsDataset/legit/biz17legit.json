@@ -1,0 +1,332 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 895,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.481823,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bank of England",
+      "sentiment": {
+        "score": 0.583741,
+        "label": "positive"
+      },
+      "relevance": 0.922842,
+      "emotion": {
+        "sadness": 0.33971,
+        "joy": 0.169758,
+        "fear": 0.095063,
+        "disgust": 0.039215,
+        "anger": 0.198254
+      },
+      "count": 1
+    },
+    {
+      "text": "financial institutions",
+      "sentiment": {
+        "score": 0.583741,
+        "label": "positive"
+      },
+      "relevance": 0.818972,
+      "emotion": {
+        "sadness": 0.33971,
+        "joy": 0.169758,
+        "fear": 0.095063,
+        "disgust": 0.039215,
+        "anger": 0.198254
+      },
+      "count": 1
+    },
+    {
+      "text": "Bank's financial policy committee",
+      "sentiment": {
+        "score": -0.780025,
+        "label": "negative"
+      },
+      "relevance": 0.707653,
+      "emotion": {
+        "sadness": 0.43591,
+        "joy": 0.138237,
+        "fear": 0.201331,
+        "disgust": 0.010669,
+        "anger": 0.033569
+      },
+      "count": 1
+    },
+    {
+      "text": "financial stability",
+      "sentiment": {
+        "score": 0.428152,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.654851,
+      "emotion": {
+        "sadness": 0.365843,
+        "joy": 0.110777,
+        "fear": 0.226829,
+        "disgust": 0.010063,
+        "anger": 0.047017
+      },
+      "count": 2
+    },
+    {
+      "text": "Theresa May's government",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636953,
+      "emotion": {
+        "sadness": 0.241582,
+        "joy": 0.163145,
+        "fear": 0.054557,
+        "disgust": 0.021291,
+        "anger": 0.082422
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.38416,
+        "label": "positive"
+      },
+      "relevance": 0.710568,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            99,
+            101
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            397,
+            399
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            780,
+            782
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.453105,
+        "joy": 0.202285,
+        "fear": 0.226361,
+        "disgust": 0.032068,
+        "anger": 0.130706
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "FPC",
+      "sentiment": {
+        "score": 0.534537,
+        "label": "positive"
+      },
+      "relevance": 0.692293,
+      "mentions": [
+        {
+          "text": "FPC",
+          "location": [
+            614,
+            617
+          ]
+        },
+        {
+          "text": "FPC",
+          "location": [
+            795,
+            798
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213823,
+        "joy": 0.073642,
+        "fear": 0.285632,
+        "disgust": 0.027384,
+        "anger": 0.108744
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Formosa Plastics Corp",
+        "dbpedia_resource": "http://dbpedia.org/resource/Formosa_Plastics_Corp"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Bank of England",
+      "sentiment": {
+        "score": 0.493144,
+        "label": "positive"
+      },
+      "relevance": 0.552563,
+      "mentions": [
+        {
+          "text": "Bank of England",
+          "location": [
+            73,
+            88
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.33971,
+        "joy": 0.169758,
+        "fear": 0.095063,
+        "disgust": 0.039215,
+        "anger": 0.198254
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Invention"
+        ],
+        "name": "Bank of England",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bank_of_England"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Theresa May",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.464433,
+      "mentions": [
+        {
+          "text": "Theresa May",
+          "location": [
+            300,
+            311
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Theresa May",
+        "dbpedia_resource": "http://dbpedia.org/resource/Theresa_May"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "European Union",
+      "sentiment": {
+        "score": 0.493144,
+        "label": "positive"
+      },
+      "relevance": 0.385849,
+      "mentions": [
+        {
+          "text": "European Union",
+          "location": [
+            234,
+            248
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.33971,
+        "joy": 0.169758,
+        "fear": 0.095063,
+        "disgust": 0.039215,
+        "anger": 0.198254
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Kingdom",
+      "relevance": 0.983378,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.859684,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "London",
+      "relevance": 0.780384,
+      "dbpedia_resource": "http://dbpedia.org/resource/London"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.719668,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "Republic of Ireland",
+      "relevance": 0.574689,
+      "dbpedia_resource": "http://dbpedia.org/resource/Republic_of_Ireland"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.860674,
+      "label": "/finance/financial news"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 100,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.777898,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.777898,
+        "label": "negative"
+      },
+      "relevance": 0.999883,
+      "emotion": {
+        "sadness": 0.076413,
+        "joy": 0.043191,
+        "fear": 0.393727,
+        "disgust": 0.241081,
+        "anger": 0.207791
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.777898,
+        "label": "negative"
+      },
+      "relevance": 0.982157,
+      "emotion": {
+        "sadness": 0.076413,
+        "joy": 0.043191,
+        "fear": 0.393727,
+        "disgust": 0.241081,
+        "anger": 0.207791
+      },
+      "count": 1
+    },
+    {
+      "text": "claims of Angelina Jolie",
+      "sentiment": {
+        "score": -0.777898,
+        "label": "negative"
+      },
+      "relevance": 0.119485,
+      "emotion": {
+        "sadness": 0.076413,
+        "joy": 0.043191,
+        "fear": 0.393727,
+        "disgust": 0.241081,
+        "anger": 0.207791
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.668862,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            87,
+            90
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076413,
+        "joy": 0.043191,
+        "fear": 0.393727,
+        "disgust": 0.241081,
+        "anger": 0.207791
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.597827,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            32,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168632,
+        "joy": 0.183524,
+        "fear": 0.054995,
+        "disgust": 0.134428,
+        "anger": 0.100827
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.739898,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            60,
+            74
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074113,
+        "joy": 0.015058,
+        "fear": 0.591228,
+        "disgust": 0.186493,
+        "anger": 0.199824
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.983136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.847629,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.760661,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.616933,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.607739,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.639759,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

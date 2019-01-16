@@ -1,0 +1,277 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 591,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.336635,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justice Department",
+      "sentiment": {
+        "score": 0.639067,
+        "label": "positive"
+      },
+      "relevance": 0.914254,
+      "emotion": {
+        "sadness": 0.399411,
+        "joy": 0.221735,
+        "fear": 0.06078,
+        "disgust": 0.095379,
+        "anger": 0.089409
+      },
+      "count": 1
+    },
+    {
+      "text": "travel ban",
+      "sentiment": {
+        "score": 0.86408,
+        "label": "positive"
+      },
+      "relevance": 0.875656,
+      "emotion": {
+        "sadness": 0.087921,
+        "joy": 0.656392,
+        "fear": 0.01313,
+        "disgust": 0.083586,
+        "anger": 0.143491
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.947066,
+        "label": "negative"
+      },
+      "relevance": 0.875069,
+      "emotion": {
+        "sadness": 0.105708,
+        "joy": 0.086048,
+        "fear": 0.189036,
+        "disgust": 0.11862,
+        "anger": 0.496272
+      },
+      "count": 1
+    },
+    {
+      "text": "good time",
+      "sentiment": {
+        "score": 0.86408,
+        "label": "positive"
+      },
+      "relevance": 0.811816,
+      "emotion": {
+        "sadness": 0.087921,
+        "joy": 0.656392,
+        "fear": 0.01313,
+        "disgust": 0.083586,
+        "anger": 0.143491
+      },
+      "count": 1
+    },
+    {
+      "text": "Department of Homeland Security",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.699851,
+      "emotion": {
+        "sadness": 0.074098,
+        "joy": 0.066738,
+        "fear": 0.023243,
+        "disgust": 0.223228,
+        "anger": 0.116936
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Department of Homeland Security",
+      "sentiment": {
+        "score": -0.4605,
+        "label": "negative"
+      },
+      "relevance": 0.960997,
+      "mentions": [
+        {
+          "text": "Department of Homeland Security",
+          "location": [
+            135,
+            166
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074098,
+        "joy": 0.066738,
+        "fear": 0.023243,
+        "disgust": 0.223228,
+        "anger": 0.116936
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.901224,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            16,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112978,
+        "joy": 0.0686,
+        "fear": 0.253681,
+        "disgust": 0.159097,
+        "anger": 0.584436
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.432748,
+        "label": "positive"
+      },
+      "relevance": 0.798958,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            49,
+            56
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            427,
+            434
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.138124,
+        "joy": 0.09063,
+        "fear": 0.308664,
+        "disgust": 0.198898,
+        "anger": 0.478243
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Homeland Security",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.763029,
+      "mentions": [
+        {
+          "text": "Homeland Security",
+          "location": [
+            73,
+            90
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112978,
+        "joy": 0.0686,
+        "fear": 0.253681,
+        "disgust": 0.159097,
+        "anger": 0.584436
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.4605,
+        "label": "negative"
+      },
+      "relevance": 0.643062,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            194,
+            203
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            550,
+            559
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.103269,
+        "joy": 0.097774,
+        "fear": 0.045581,
+        "disgust": 0.171317,
+        "anger": 0.080971
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Department of Homeland Security",
+      "relevance": 0.943837,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Homeland_Security"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.919662,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

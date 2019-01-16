@@ -1,0 +1,332 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 781,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.864114,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "injury-free England Test summer",
+      "sentiment": {
+        "score": 0.864114,
+        "label": "positive"
+      },
+      "relevance": 0.956961,
+      "emotion": {
+        "sadness": 0.385152,
+        "joy": 0.494525,
+        "fear": 0.038572,
+        "disgust": 0.024356,
+        "anger": 0.013654
+      },
+      "count": 1
+    },
+    {
+      "text": "Jimmy Anderson hopes",
+      "sentiment": {
+        "score": 0.864114,
+        "label": "positive"
+      },
+      "relevance": 0.790561,
+      "emotion": {
+        "sadness": 0.385152,
+        "joy": 0.494525,
+        "fear": 0.038572,
+        "disgust": 0.024356,
+        "anger": 0.013654
+      },
+      "count": 1
+    },
+    {
+      "text": "England's tour",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.731765,
+      "emotion": {
+        "sadness": 0.615666,
+        "joy": 0.333214,
+        "fear": 0.028384,
+        "disgust": 0.038291,
+        "anger": 0.025255
+      },
+      "count": 1
+    },
+    {
+      "text": "fifth Test",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.710049,
+      "emotion": {
+        "sadness": 0.724945,
+        "joy": 0.048675,
+        "fear": 0.345434,
+        "disgust": 0.029337,
+        "anger": 0.018015
+      },
+      "count": 1
+    },
+    {
+      "text": "England's final Test",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.694763,
+      "emotion": {
+        "sadness": 0.724945,
+        "joy": 0.048675,
+        "fear": 0.345434,
+        "disgust": 0.029337,
+        "anger": 0.018015
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jimmy Anderson",
+      "sentiment": {
+        "score": 0.206663,
+        "label": "positive"
+      },
+      "relevance": 0.892876,
+      "mentions": [
+        {
+          "text": "Jimmy Anderson",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Jimmy Anderson",
+          "location": [
+            115,
+            129
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            232,
+            234
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            261,
+            263
+          ]
+        },
+        {
+          "text": "Anderson",
+          "location": [
+            638,
+            646
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.676816,
+        "joy": 0.189959,
+        "fear": 0.183176,
+        "disgust": 0.031433,
+        "anger": 0.029359
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "England",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.705897,
+      "mentions": [
+        {
+          "text": "England",
+          "location": [
+            75,
+            82
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            374,
+            381
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            473,
+            480
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            564,
+            571
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "England",
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Ashes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.422935,
+      "mentions": [
+        {
+          "text": "Ashes",
+          "location": [
+            447,
+            452
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.615666,
+        "joy": 0.333214,
+        "fear": 0.028384,
+        "disgust": 0.038291,
+        "anger": 0.025255
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Ashes (band)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ashes_(band)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lancashire",
+      "sentiment": {
+        "score": -0.350632,
+        "label": "negative"
+      },
+      "relevance": 0.300273,
+      "mentions": [
+        {
+          "text": "Lancashire",
+          "location": [
+            716,
+            726
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.724945,
+        "joy": 0.048675,
+        "fear": 0.345434,
+        "disgust": 0.029337,
+        "anger": 0.018015
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "sentiment": {
+        "score": -0.350632,
+        "label": "negative"
+      },
+      "relevance": 0.216674,
+      "mentions": [
+        {
+          "text": "India",
+          "location": [
+            497,
+            502
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.724945,
+        "joy": 0.048675,
+        "fear": 0.345434,
+        "disgust": 0.029337,
+        "anger": 0.018015
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bowler",
+      "relevance": 0.93427,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bowler_(cricket)"
+    },
+    {
+      "text": "England",
+      "relevance": 0.843956,
+      "dbpedia_resource": "http://dbpedia.org/resource/England"
+    },
+    {
+      "text": "Swing bowling",
+      "relevance": 0.817146,
+      "dbpedia_resource": "http://dbpedia.org/resource/Swing_bowling"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.699188,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "1990s music groups",
+      "relevance": 0.63746,
+      "dbpedia_resource": "http://dbpedia.org/resource/1990s_music_groups"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996495,
+      "label": "/sports/cricket"
+    }
+  ]
+}

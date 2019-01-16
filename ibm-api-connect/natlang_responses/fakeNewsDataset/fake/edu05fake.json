@@ -1,0 +1,274 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 867,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.67922,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Douglas County School District case",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.770794,
+      "emotion": {
+        "sadness": 0.253911,
+        "joy": 0.211679,
+        "fear": 0.075083,
+        "disgust": 0.263378,
+        "anger": 0.142334
+      },
+      "count": 1
+    },
+    {
+      "text": "ridiculous decision students",
+      "sentiment": {
+        "score": -0.849439,
+        "label": "negative"
+      },
+      "relevance": 0.760096,
+      "emotion": {
+        "sadness": 0.340877,
+        "joy": 0.292182,
+        "fear": 0.04013,
+        "disgust": 0.133499,
+        "anger": 0.349462
+      },
+      "count": 1
+    },
+    {
+      "text": "Supreme Court Forces Schools",
+      "sentiment": {
+        "score": -0.849439,
+        "label": "negative"
+      },
+      "relevance": 0.750156,
+      "emotion": {
+        "sadness": 0.252859,
+        "joy": 0.060033,
+        "fear": 0.332599,
+        "disgust": 0.199078,
+        "anger": 0.311431
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. Supreme Court",
+      "sentiment": {
+        "score": -0.590872,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.714625,
+      "emotion": {
+        "sadness": 0.340877,
+        "joy": 0.292182,
+        "fear": 0.04013,
+        "disgust": 0.133499,
+        "anger": 0.349462
+      },
+      "count": 1
+    },
+    {
+      "text": "educational facilities",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.677778,
+      "emotion": {
+        "sadness": 0.253911,
+        "joy": 0.211679,
+        "fear": 0.075083,
+        "disgust": 0.263378,
+        "anger": 0.142334
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Supreme Court Forces Schools Into Socialism",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.96592,
+      "mentions": [
+        {
+          "text": "Supreme Court Forces Schools Into Socialism",
+          "location": [
+            0,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252859,
+        "joy": 0.060033,
+        "fear": 0.332599,
+        "disgust": 0.199078,
+        "anger": 0.311431
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "U.S. Supreme Court",
+      "sentiment": {
+        "score": -0.408155,
+        "label": "negative"
+      },
+      "relevance": 0.592697,
+      "mentions": [
+        {
+          "text": "U.S. Supreme Court",
+          "location": [
+            101,
+            119
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.32652,
+        "joy": 0.517142,
+        "fear": 0.085254,
+        "disgust": 0.024201,
+        "anger": 0.046087
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody"
+        ],
+        "name": "Supreme Court of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Douglas County School District",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.433513,
+      "mentions": [
+        {
+          "text": "Douglas County School District",
+          "location": [
+            260,
+            290
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153467,
+        "joy": 0.170323,
+        "fear": 0.089096,
+        "disgust": 0.110788,
+        "anger": 0.16538
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Douglas County School District",
+        "dbpedia_resource": "http://dbpedia.org/resource/Douglas_County_School_District"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Chief Justice John G. Roberts",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.422953,
+      "mentions": [
+        {
+          "text": "Chief Justice John G. Roberts",
+          "location": [
+            599,
+            628
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.274744,
+        "joy": 0.199394,
+        "fear": 0.184891,
+        "disgust": 0.228333,
+        "anger": 0.338089
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Endrew F.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.30603,
+      "mentions": [
+        {
+          "text": "Endrew F.",
+          "location": [
+            247,
+            256
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.243855,
+        "joy": 0.111281,
+        "fear": 0.110851,
+        "disgust": 0.394811,
+        "anger": 0.060491
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.973086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "John G. Roberts",
+      "relevance": 0.919024,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_G._Roberts"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.808696,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.76038,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "Chief Justice of the United States",
+      "relevance": 0.751061,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chief_Justice_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994133,
+      "label": "/education/special education"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ryan Seacrest",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.404774,
+        "joy": 0.100464,
+        "fear": 0.037384,
+        "disgust": 0.198804,
+        "anger": 0.478998
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ryan Seacrest",
+      "sentiment": {
+        "score": 0.65862,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            3,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.409581,
+        "joy": 0.151706,
+        "fear": 0.032815,
+        "disgust": 0.17666,
+        "anger": 0.42772
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ryan Seacrest",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Regis Philbin",
+      "relevance": 0.891135,
+      "dbpedia_resource": "http://dbpedia.org/resource/Regis_Philbin"
+    },
+    {
+      "text": "Ryan Seacrest",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+    },
+    {
+      "text": "Kelly Ripa",
+      "relevance": 0.88293,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kelly_Ripa"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.616881,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

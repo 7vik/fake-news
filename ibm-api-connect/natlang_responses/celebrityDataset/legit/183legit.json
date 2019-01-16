@@ -1,0 +1,119 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bodyguard Claims",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.987483,
+      "emotion": {
+        "sadness": 0.330575,
+        "joy": 0.108767,
+        "fear": 0.04297,
+        "disgust": 0.227696,
+        "anger": 0.166933
+      },
+      "count": 1
+    },
+    {
+      "text": "Mark Billingham",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.172492,
+      "emotion": {
+        "sadness": 0.236031,
+        "joy": 0.076718,
+        "fear": 0.035807,
+        "disgust": 0.344948,
+        "anger": 0.112237
+      },
+      "count": 1
+    },
+    {
+      "text": "Brangelina's Kids",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.057323,
+      "emotion": {
+        "sadness": 0.330575,
+        "joy": 0.108767,
+        "fear": 0.04297,
+        "disgust": 0.227696,
+        "anger": 0.166933
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mark Billingham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.981429,
+      "mentions": [
+        {
+          "text": "Mark Billingham",
+          "location": [
+            7,
+            22
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.258103,
+        "joy": 0.122474,
+        "fear": 0.032317,
+        "disgust": 0.337995,
+        "anger": 0.099898
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "TVActor"
+        ],
+        "name": "Mark Billingham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mark_Billingham"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Bodyguard",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Bodyguard"
+    },
+    {
+      "text": "The Bodyguard: Original Soundtrack Album",
+      "relevance": 0.862208,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Bodyguard:_Original_Soundtrack_Album"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.960177,
+      "label": "/family and parenting"
+    }
+  ]
+}

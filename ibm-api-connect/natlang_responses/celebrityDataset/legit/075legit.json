@@ -1,0 +1,354 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1211,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.681286,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.343582,
+        "label": "negative"
+      },
+      "relevance": 0.820531,
+      "emotion": {
+        "sadness": 0.042502,
+        "joy": 0.905921,
+        "fear": 0.003632,
+        "disgust": 0.02913,
+        "anger": 0.020592
+      },
+      "count": 1
+    },
+    {
+      "text": "Orlando Bloom Party",
+      "sentiment": {
+        "score": -0.343582,
+        "label": "negative"
+      },
+      "relevance": 0.758509,
+      "emotion": {
+        "sadness": 0.046378,
+        "joy": 0.86596,
+        "fear": 0.016608,
+        "disgust": 0.030274,
+        "anger": 0.021628
+      },
+      "count": 1
+    },
+    {
+      "text": "Happy bday Orly",
+      "sentiment": {
+        "score": 0.949488,
+        "label": "positive"
+      },
+      "relevance": 0.69617,
+      "emotion": {
+        "sadness": 0.072385,
+        "joy": 0.892046,
+        "fear": 0.0075,
+        "disgust": 0.017008,
+        "anger": 0.012291
+      },
+      "count": 1
+    },
+    {
+      "text": "Gomez's ex Justin Bieber",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.654119,
+      "emotion": {
+        "sadness": 0.132739,
+        "joy": 0.4368,
+        "fear": 0.035791,
+        "disgust": 0.289163,
+        "anger": 0.255238
+      },
+      "count": 1
+    },
+    {
+      "text": "23-year-old",
+      "sentiment": {
+        "score": 0.949488,
+        "label": "positive"
+      },
+      "relevance": 0.629297,
+      "emotion": {
+        "sadness": 0.072385,
+        "joy": 0.892046,
+        "fear": 0.0075,
+        "disgust": 0.017008,
+        "anger": 0.012291
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Orlando Bloom",
+      "sentiment": {
+        "score": 0.117214,
+        "label": "positive"
+      },
+      "relevance": 0.806406,
+      "mentions": [
+        {
+          "text": "Orlando Bloom",
+          "location": [
+            90,
+            103
+          ]
+        },
+        {
+          "text": "Myself",
+          "location": [
+            162,
+            168
+          ]
+        },
+        {
+          "text": "Bloom",
+          "location": [
+            340,
+            345
+          ]
+        },
+        {
+          "text": "Bloom",
+          "location": [
+            547,
+            552
+          ]
+        },
+        {
+          "text": "Bloom",
+          "location": [
+            655,
+            660
+          ]
+        },
+        {
+          "text": "Bloom",
+          "location": [
+            864,
+            869
+          ]
+        },
+        {
+          "text": "Bloom",
+          "location": [
+            1109,
+            1114
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.116921,
+        "joy": 0.698709,
+        "fear": 0.062891,
+        "disgust": 0.151698,
+        "anger": 0.117998
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.599467,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Selena Gomez",
+          "location": [
+            73,
+            85
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            874,
+            879
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            1161,
+            1166
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1184,
+            1187
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.127945,
+        "joy": 0.686395,
+        "fear": 0.105901,
+        "disgust": 0.197164,
+        "anger": 0.195747
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Golden Globes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.318871,
+      "mentions": [
+        {
+          "text": "Golden Globes",
+          "location": [
+            700,
+            713
+          ]
+        },
+        {
+          "text": "Golden Globes",
+          "location": [
+            1094,
+            1107
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.087694,
+        "joy": 0.684788,
+        "fear": 0.072868,
+        "disgust": 0.057585,
+        "anger": 0.109278
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Miranda Kerr.Gomez",
+      "sentiment": {
+        "score": -0.361822,
+        "label": "negative"
+      },
+      "relevance": 0.237286,
+      "mentions": [
+        {
+          "text": "Miranda Kerr.Gomez",
+          "location": [
+            966,
+            984
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1012,
+            1015
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1061,
+            1064
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.124659,
+        "joy": 0.412072,
+        "fear": 0.036433,
+        "disgust": 0.324838,
+        "anger": 0.25034
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.361822,
+        "label": "negative"
+      },
+      "relevance": 0.2092,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            885,
+            898
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.275926,
+        "joy": 0.247752,
+        "fear": 0.07769,
+        "disgust": 0.379446,
+        "anger": 0.169747
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.973396,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.642757,
+      "label": "/society/dating"
+    }
+  ]
+}

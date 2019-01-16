@@ -1,0 +1,119 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 33,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Janet Jackson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.523902,
+        "joy": 0.029879,
+        "fear": 0.320787,
+        "disgust": 0.186037,
+        "anger": 0.136501
+      },
+      "count": 1
+    },
+    {
+      "text": "pounds",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.690082,
+      "emotion": {
+        "sadness": 0.523902,
+        "joy": 0.029879,
+        "fear": 0.320787,
+        "disgust": 0.186037,
+        "anger": 0.136501
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Janet Jackson",
+      "sentiment": {
+        "score": -0.716561,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Janet Jackson",
+          "location": [
+            4,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.523902,
+        "joy": 0.029879,
+        "fear": 0.320787,
+        "disgust": 0.186037,
+        "anger": 0.136501
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "DietFollower",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Janet Jackson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Janet_Jackson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "70 pounds",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "70 pounds",
+          "location": [
+            23,
+            32
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.729541,
+      "label": "/health and fitness/weight loss"
+    }
+  ]
+}

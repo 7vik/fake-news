@@ -1,0 +1,113 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 20,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.818225,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cher",
+      "sentiment": {
+        "score": -0.818225,
+        "label": "negative"
+      },
+      "relevance": 0.957921,
+      "emotion": {
+        "sadness": 0.824889,
+        "joy": 0.080407,
+        "fear": 0.188011,
+        "disgust": 0.007691,
+        "anger": 0.038783
+      },
+      "count": 1
+    },
+    {
+      "text": "Die",
+      "sentiment": {
+        "score": -0.818225,
+        "label": "negative"
+      },
+      "relevance": 0.274907,
+      "emotion": {
+        "sadness": 0.824889,
+        "joy": 0.080407,
+        "fear": 0.188011,
+        "disgust": 0.007691,
+        "anger": 0.038783
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Cher",
+      "sentiment": {
+        "score": 0.32522,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Cher",
+          "location": [
+            0,
+            4
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVPersonality",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor"
+        ],
+        "name": "Cher",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cher"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bad Boy Records",
+      "relevance": 0.835078,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bad_Boy_Records"
+    },
+    {
+      "text": "American singer-songwriters",
+      "relevance": 0.649688,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_singer-songwriters"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.596605,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

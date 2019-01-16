@@ -1,0 +1,196 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Laverne Cox",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.165404,
+        "joy": 0.280913,
+        "fear": 0.07148,
+        "disgust": 0.189423,
+        "anger": 0.16294
+      },
+      "count": 1
+    },
+    {
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.952591,
+      "emotion": {
+        "sadness": 0.165404,
+        "joy": 0.280913,
+        "fear": 0.07148,
+        "disgust": 0.189423,
+        "anger": 0.16294
+      },
+      "count": 1
+    },
+    {
+      "text": "Rob Lowe",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.481402,
+      "emotion": {
+        "sadness": 0.165404,
+        "joy": 0.280913,
+        "fear": 0.07148,
+        "disgust": 0.189423,
+        "anger": 0.16294
+      },
+      "count": 1
+    },
+    {
+      "text": "ESPYS speech",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.054087,
+      "emotion": {
+        "sadness": 0.165404,
+        "joy": 0.280913,
+        "fear": 0.07148,
+        "disgust": 0.189423,
+        "anger": 0.16294
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Laverne Cox",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Laverne Cox",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165404,
+        "joy": 0.280913,
+        "fear": 0.07148,
+        "disgust": 0.189423,
+        "anger": 0.16294
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Laverne Cox",
+        "dbpedia_resource": "http://dbpedia.org/resource/Laverne_Cox"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rob Lowe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rob Lowe",
+          "location": [
+            16,
+            24
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165404,
+        "joy": 0.280913,
+        "fear": 0.07148,
+        "disgust": 0.189423,
+        "anger": 0.16294
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Rob Lowe",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rob_Lowe"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            33,
+            47
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165404,
+        "joy": 0.280913,
+        "fear": 0.07148,
+        "disgust": 0.189423,
+        "anger": 0.16294
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American television actors",
+      "relevance": 0.845253,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.839409,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.655633,
+      "label": "/society/gay life"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Joe Giudice",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993909,
+      "emotion": {
+        "sadness": 0.414193,
+        "joy": 0.075115,
+        "fear": 0.035917,
+        "disgust": 0.381702,
+        "anger": 0.145356
+      },
+      "count": 1
+    },
+    {
+      "text": "Real Housewives' husband",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.718872,
+      "emotion": {
+        "sadness": 0.414193,
+        "joy": 0.075115,
+        "fear": 0.035917,
+        "disgust": 0.381702,
+        "anger": 0.145356
+      },
+      "count": 1
+    },
+    {
+      "text": "transfers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613711,
+      "emotion": {
+        "sadness": 0.414193,
+        "joy": 0.075115,
+        "fear": 0.035917,
+        "disgust": 0.381702,
+        "anger": 0.145356
+      },
+      "count": 1
+    },
+    {
+      "text": "New Jersey prison",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.13575,
+      "emotion": {
+        "sadness": 0.414193,
+        "joy": 0.075115,
+        "fear": 0.035917,
+        "disgust": 0.381702,
+        "anger": 0.145356
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Joe Giudice",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Joe Giudice",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Real Housewives",
+      "sentiment": {
+        "score": 0.547047,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Real Housewives",
+          "location": [
+            13,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.210888,
+        "joy": 0.237314,
+        "fear": 0.124039,
+        "disgust": 0.106886,
+        "anger": 0.111774
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New Jersey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "New Jersey",
+          "location": [
+            54,
+            64
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.423101,
+        "joy": 0.06326,
+        "fear": 0.041383,
+        "disgust": 0.258355,
+        "anger": 0.132716
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "New Jersey",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_Jersey"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.901782,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "New Jersey",
+      "relevance": 0.72744,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+      "text": "Desperate Housewives",
+      "relevance": 0.69384,
+      "dbpedia_resource": "http://dbpedia.org/resource/Desperate_Housewives"
+    },
+    {
+      "text": "Major League Soccer",
+      "relevance": 0.673322,
+      "dbpedia_resource": "http://dbpedia.org/resource/Major_League_Soccer"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.627598,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

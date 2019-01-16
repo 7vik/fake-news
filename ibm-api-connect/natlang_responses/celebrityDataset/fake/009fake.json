@@ -1,0 +1,170 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 78,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.526428,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miley Cyrus Wedding Rumors",
+      "sentiment": {
+        "score": -0.526428,
+        "label": "negative"
+      },
+      "relevance": 0.999524,
+      "emotion": {
+        "sadness": 0.379189,
+        "joy": 0.058597,
+        "fear": 0.355999,
+        "disgust": 0.308737,
+        "anger": 0.189281
+      },
+      "count": 1
+    },
+    {
+      "text": "Miley Force Liam Hemsworth",
+      "sentiment": {
+        "score": -0.526428,
+        "label": "negative"
+      },
+      "relevance": 0.311793,
+      "emotion": {
+        "sadness": 0.379189,
+        "joy": 0.058597,
+        "fear": 0.355999,
+        "disgust": 0.308737,
+        "anger": 0.189281
+      },
+      "count": 1
+    },
+    {
+      "text": "Prenup",
+      "sentiment": {
+        "score": -0.526428,
+        "label": "negative"
+      },
+      "relevance": 0.00105,
+      "emotion": {
+        "sadness": 0.379189,
+        "joy": 0.058597,
+        "fear": 0.355999,
+        "disgust": 0.308737,
+        "anger": 0.189281
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0.780546,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            45,
+            59
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.520637,
+        "joy": 0.022597,
+        "fear": 0.185104,
+        "disgust": 0.278353,
+        "anger": 0.190012
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Liam Hemsworth",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.558521,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165886,
+        "joy": 0.307724,
+        "fear": 0.363107,
+        "disgust": 0.264539,
+        "anger": 0.084036
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.971964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "The Last Song",
+      "relevance": 0.860985,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Last_Song_(film)"
+    },
+    {
+      "text": "Liam Hemsworth",
+      "relevance": 0.712312,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+    },
+    {
+      "text": "Billy Ray Cyrus",
+      "relevance": 0.701043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Ray_Cyrus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.596397,
+      "label": "/society/social institution"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1137,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.408294,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "adaptation of Agatha Christie",
+      "sentiment": {
+        "score": -0.671909,
+        "label": "negative"
+      },
+      "relevance": 0.774214,
+      "emotion": {
+        "sadness": 0.066986,
+        "joy": 0.074,
+        "fear": 0.018377,
+        "disgust": 0.711158,
+        "anger": 0.259796
+      },
+      "count": 1
+    },
+    {
+      "text": "Michelle Pfeiffer",
+      "sentiment": {
+        "score": -0.803416,
+        "label": "negative"
+      },
+      "relevance": 0.735796,
+      "emotion": {
+        "sadness": 0.579538,
+        "joy": 0.138928,
+        "fear": 0.112663,
+        "disgust": 0.052594,
+        "anger": 0.084195
+      },
+      "count": 2
+    },
+    {
+      "text": "Interview magazine",
+      "sentiment": {
+        "score": -0.741943,
+        "label": "negative"
+      },
+      "relevance": 0.673791,
+      "emotion": {
+        "sadness": 0.068266,
+        "joy": 0.445041,
+        "fear": 0.070009,
+        "disgust": 0.243013,
+        "anger": 0.111409
+      },
+      "count": 1
+    },
+    {
+      "text": "Orient Express",
+      "sentiment": {
+        "score": -0.671909,
+        "label": "negative"
+      },
+      "relevance": 0.658253,
+      "emotion": {
+        "sadness": 0.066986,
+        "joy": 0.074,
+        "fear": 0.018377,
+        "disgust": 0.711158,
+        "anger": 0.259796
+      },
+      "count": 1
+    },
+    {
+      "text": "Hollywood career",
+      "sentiment": {
+        "score": -0.741943,
+        "label": "negative"
+      },
+      "relevance": 0.650743,
+      "emotion": {
+        "sadness": 0.068266,
+        "joy": 0.445041,
+        "fear": 0.070009,
+        "disgust": 0.243013,
+        "anger": 0.111409
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michelle Pfeiffer",
+      "sentiment": {
+        "score": 0.261012,
+        "label": "positive"
+      },
+      "relevance": 0.84709,
+      "mentions": [
+        {
+          "text": "Michelle Pfeiffer",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            23,
+            26
+          ]
+        },
+        {
+          "text": "Michelle Pfeiffer",
+          "location": [
+            81,
+            98
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            210,
+            213
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            273,
+            276
+          ]
+        },
+        {
+          "text": "Pfeiffer",
+          "location": [
+            467,
+            475
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            650,
+            653
+          ]
+        },
+        {
+          "text": "an \"empty nester",
+          "location": [
+            660,
+            676
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            678,
+            681
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.640422,
+        "joy": 0.181136,
+        "fear": 0.076791,
+        "disgust": 0.232463,
+        "anger": 0.138592
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Michelle Pfeiffer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Pfeiffer"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Claudia Rose Pfeiffer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.422402,
+      "mentions": [
+        {
+          "text": "Claudia Rose Pfeiffer",
+          "location": [
+            701,
+            722
+          ]
+        },
+        {
+          "text": "she'll",
+          "location": [
+            827,
+            833
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246489,
+        "joy": 0.137022,
+        "fear": 0.141095,
+        "disgust": 0.426907,
+        "anger": 0.244164
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Darren Aronofsky",
+      "sentiment": {
+        "score": 0.800997,
+        "label": "positive"
+      },
+      "relevance": 0.380571,
+      "mentions": [
+        {
+          "text": "Darren Aronofsky",
+          "location": [
+            169,
+            185
+          ]
+        },
+        {
+          "text": "Aronofsky",
+          "location": [
+            481,
+            490
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.129397,
+        "joy": 0.351219,
+        "fear": 0.049171,
+        "disgust": 0.394619,
+        "anger": 0.169893
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Darren Aronofsky",
+        "dbpedia_resource": "http://dbpedia.org/resource/Darren_Aronofsky"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Robert De Niro Aronofsky",
+      "sentiment": {
+        "score": -0.225357,
+        "label": "negative"
+      },
+      "relevance": 0.348756,
+      "mentions": [
+        {
+          "text": "Robert De Niro  Aronofsky",
+          "location": [
+            881,
+            906
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163033,
+        "joy": 0.309368,
+        "fear": 0.117221,
+        "disgust": 0.103099,
+        "anger": 0.036405
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Penelope Cruz",
+      "sentiment": {
+        "score": -0.746115,
+        "label": "negative"
+      },
+      "relevance": 0.219804,
+      "mentions": [
+        {
+          "text": "Penelope Cruz",
+          "location": [
+            1036,
+            1049
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            1051,
+            1054
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.029185,
+        "joy": 0.347806,
+        "fear": 0.019081,
+        "disgust": 0.584455,
+        "anger": 0.07973
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVPersonality"
+        ],
+        "name": "Pen\u00e9lope Cruz",
+        "dbpedia_resource": "http://dbpedia.org/resource/Pen\u00e9lope_Cruz"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.970074,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Academy Award for Best Actor",
+      "relevance": 0.815085,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor"
+    },
+    {
+      "text": "Agatha Christie",
+      "relevance": 0.65341,
+      "dbpedia_resource": "http://dbpedia.org/resource/Agatha_Christie"
+    },
+    {
+      "text": "Robert De Niro",
+      "relevance": 0.649714,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_De_Niro"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.634827,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.747343,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 687,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.322668,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New Nintendo Switch game console",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.961765,
+      "emotion": {
+        "sadness": 0.290357,
+        "joy": 0.324399,
+        "fear": 0.016183,
+        "disgust": 0.017524,
+        "anger": 0.005099
+      },
+      "count": 2
+    },
+    {
+      "text": "limited time",
+      "sentiment": {
+        "score": -0.555367,
+        "label": "negative"
+      },
+      "relevance": 0.828757,
+      "emotion": {
+        "sadness": 0.321251,
+        "joy": 0.074228,
+        "fear": 0.00857,
+        "disgust": 0.016131,
+        "anger": 0.008319
+      },
+      "count": 1
+    },
+    {
+      "text": "initial quantities",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.807823,
+      "emotion": {
+        "sadness": 0.089084,
+        "joy": 0.072558,
+        "fear": 0.055374,
+        "disgust": 0.005519,
+        "anger": 0.066223
+      },
+      "count": 1
+    },
+    {
+      "text": "promotional roll",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.668898,
+      "emotion": {
+        "sadness": 0.282803,
+        "joy": 0.205074,
+        "fear": 0.040148,
+        "disgust": 0.022932,
+        "anger": 0.031676
+      },
+      "count": 1
+    },
+    {
+      "text": "sales price",
+      "sentiment": {
+        "score": 0.612267,
+        "label": "positive"
+      },
+      "relevance": 0.58301,
+      "emotion": {
+        "sadness": 0.089084,
+        "joy": 0.072558,
+        "fear": 0.055374,
+        "disgust": 0.005519,
+        "anger": 0.066223
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Nintendo",
+      "sentiment": {
+        "score": -0.361295,
+        "label": "negative"
+      },
+      "relevance": 0.948143,
+      "mentions": [
+        {
+          "text": "Nintendo",
+          "location": [
+            60,
+            68
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            110,
+            118
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            222,
+            230
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.281103,
+        "joy": 0.496085,
+        "fear": 0.039094,
+        "disgust": 0.014777,
+        "anger": 0.023754
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyShareholder",
+          "ComputerDesigner",
+          "GameDesigner",
+          "GamePublisher",
+          "JobTitle",
+          "MusicalArtist",
+          "SoftwareDeveloper",
+          "VideoGameDesigner",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Nintendo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nintendo"
+      },
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "$99",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.948143,
+      "mentions": [
+        {
+          "text": "$99",
+          "location": [
+            56,
+            59
+          ]
+        },
+        {
+          "text": "$99",
+          "location": [
+            216,
+            219
+          ]
+        }
+      ],
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two months",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.948143,
+      "mentions": [
+        {
+          "text": "two months",
+          "location": [
+            464,
+            474
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Time",
+      "relevance": 0.936489,
+      "dbpedia_resource": "http://dbpedia.org/resource/Time"
+    },
+    {
+      "text": "Video game console",
+      "relevance": 0.912951,
+      "dbpedia_resource": "http://dbpedia.org/resource/Video_game_console"
+    },
+    {
+      "text": "Past",
+      "relevance": 0.759951,
+      "dbpedia_resource": "http://dbpedia.org/resource/Past"
+    },
+    {
+      "text": "Future",
+      "relevance": 0.748958,
+      "dbpedia_resource": "http://dbpedia.org/resource/Future"
+    },
+    {
+      "text": "Price",
+      "relevance": 0.67548,
+      "dbpedia_resource": "http://dbpedia.org/resource/Price"
+    }
+  ],
+  "categories": [
+    {
+      "score": 1.0,
+      "label": "/technology and computing/consumer electronics/game systems and consoles/nintendo"
+    }
+  ]
+}

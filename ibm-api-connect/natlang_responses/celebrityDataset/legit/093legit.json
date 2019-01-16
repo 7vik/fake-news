@@ -1,0 +1,186 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 89,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Darker news",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.946779,
+      "emotion": {
+        "sadness": 0.43769,
+        "joy": 0.133669,
+        "fear": 0.371258,
+        "disgust": 0.128685,
+        "anger": 0.087532
+      },
+      "count": 1
+    },
+    {
+      "text": "Shades",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.827545,
+      "emotion": {
+        "sadness": 0.43769,
+        "joy": 0.133669,
+        "fear": 0.371258,
+        "disgust": 0.128685,
+        "anger": 0.087532
+      },
+      "count": 1
+    },
+    {
+      "text": "Jamie Dornan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.767478,
+      "emotion": {
+        "sadness": 0.43769,
+        "joy": 0.133669,
+        "fear": 0.371258,
+        "disgust": 0.128685,
+        "anger": 0.087532
+      },
+      "count": 1
+    },
+    {
+      "text": "TRUTH",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.598221,
+      "emotion": {
+        "sadness": 0.43769,
+        "joy": 0.133669,
+        "fear": 0.371258,
+        "disgust": 0.128685,
+        "anger": 0.087532
+      },
+      "count": 1
+    },
+    {
+      "text": "Dakota Johnson 'awkwardness",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.398645,
+      "emotion": {
+        "sadness": 0.43769,
+        "joy": 0.133669,
+        "fear": 0.371258,
+        "disgust": 0.128685,
+        "anger": 0.087532
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jamie Dornan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jamie Dornan",
+          "location": [
+            26,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.346242,
+        "joy": 0.274568,
+        "fear": 0.188034,
+        "disgust": 0.119685,
+        "anger": 0.135555
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Celebrity",
+          "FilmActor"
+        ],
+        "name": "Jamie Dornan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Dornan"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dakota Johnson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Dakota Johnson",
+          "location": [
+            60,
+            74
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.346242,
+        "joy": 0.274568,
+        "fear": 0.188034,
+        "disgust": 0.119685,
+        "anger": 0.135555
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor"
+        ],
+        "name": "Dakota Johnson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dakota_Johnson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American unisex given names",
+      "relevance": 0.846958,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_unisex_given_names"
+    },
+    {
+      "text": "Colorado",
+      "relevance": 0.824971,
+      "dbpedia_resource": "http://dbpedia.org/resource/Colorado"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.657049,
+      "label": "/news/national news"
+    }
+  ]
+}

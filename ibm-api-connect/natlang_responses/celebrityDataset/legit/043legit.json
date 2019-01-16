@@ -1,0 +1,175 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 99,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Victoria Beckham",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997237,
+      "emotion": {
+        "sadness": 0.151199,
+        "joy": 0.563282,
+        "fear": 0.053819,
+        "disgust": 0.145371,
+        "anger": 0.066274
+      },
+      "count": 1
+    },
+    {
+      "text": "husband David",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885021,
+      "emotion": {
+        "sadness": 0.151199,
+        "joy": 0.563282,
+        "fear": 0.053819,
+        "disgust": 0.145371,
+        "anger": 0.066274
+      },
+      "count": 1
+    },
+    {
+      "text": "claims",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.651447,
+      "emotion": {
+        "sadness": 0.151199,
+        "joy": 0.563282,
+        "fear": 0.053819,
+        "disgust": 0.145371,
+        "anger": 0.066274
+      },
+      "count": 1
+    },
+    {
+      "text": "FIFTH baby",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.29914,
+      "emotion": {
+        "sadness": 0.151199,
+        "joy": 0.563282,
+        "fear": 0.053819,
+        "disgust": 0.145371,
+        "anger": 0.066274
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Victoria Beckham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Victoria Beckham",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            42,
+            45
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151199,
+        "joy": 0.563282,
+        "fear": 0.053819,
+        "disgust": 0.145371,
+        "anger": 0.066274
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Victoria Beckham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Victoria_Beckham"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "David",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "David",
+          "location": [
+            93,
+            98
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151199,
+        "joy": 0.563282,
+        "fear": 0.053819,
+        "disgust": 0.145371,
+        "anger": 0.066274
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Victoria Beckham",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Victoria_Beckham"
+    },
+    {
+      "text": "David Beckham",
+      "relevance": 0.8704,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Beckham"
+    },
+    {
+      "text": "Spice Girls",
+      "relevance": 0.82944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spice_Girls"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.869951,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

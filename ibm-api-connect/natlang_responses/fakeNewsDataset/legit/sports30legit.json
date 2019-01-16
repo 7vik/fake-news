@@ -1,0 +1,330 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 723,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.632654,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Liverpool hire jet",
+      "sentiment": {
+        "score": -0.502779,
+        "label": "negative"
+      },
+      "relevance": 0.912476,
+      "emotion": {
+        "sadness": 0.206481,
+        "joy": 0.122622,
+        "fear": 0.059087,
+        "disgust": 0.058819,
+        "anger": 0.086109
+      },
+      "count": 1
+    },
+    {
+      "text": "Liverpool's owner  Fenway Sports Group",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.771399,
+      "emotion": {
+        "sadness": 0.140318,
+        "joy": 0.535353,
+        "fear": 0.008786,
+        "disgust": 0.041462,
+        "anger": 0.173202
+      },
+      "count": 1
+    },
+    {
+      "text": "local time",
+      "sentiment": {
+        "score": -0.741276,
+        "label": "negative"
+      },
+      "relevance": 0.712459,
+      "emotion": {
+        "sadness": 0.453505,
+        "joy": 0.273583,
+        "fear": 0.214389,
+        "disgust": 0.059572,
+        "anger": 0.074831
+      },
+      "count": 1
+    },
+    {
+      "text": "influential attacking duo",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.670604,
+      "emotion": {
+        "sadness": 0.175718,
+        "joy": 0.53153,
+        "fear": 0.101004,
+        "disgust": 0.143224,
+        "anger": 0.047409
+      },
+      "count": 1
+    },
+    {
+      "text": "return of Philippe Coutinho",
+      "sentiment": {
+        "score": -0.502779,
+        "label": "negative"
+      },
+      "relevance": 0.619566,
+      "emotion": {
+        "sadness": 0.206481,
+        "joy": 0.122622,
+        "fear": 0.059087,
+        "disgust": 0.058819,
+        "anger": 0.086109
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Philippe Coutinho",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.870364,
+      "mentions": [
+        {
+          "text": "Philippe Coutinho",
+          "location": [
+            33,
+            50
+          ]
+        },
+        {
+          "text": "Philippe Coutinho",
+          "location": [
+            189,
+            206
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098189,
+        "joy": 0.383579,
+        "fear": 0.077267,
+        "disgust": 0.048728,
+        "anger": 0.106377
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballPlayer"
+        ],
+        "name": "Philippe Coutinho",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philippe_Coutinho"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Liverpool",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.602174,
+      "mentions": [
+        {
+          "text": "Liverpool",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Liverpool",
+          "location": [
+            71,
+            80
+          ]
+        },
+        {
+          "text": "Liverpool",
+          "location": [
+            556,
+            565
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098189,
+        "joy": 0.383579,
+        "fear": 0.077267,
+        "disgust": 0.048728,
+        "anger": 0.106377
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Liverpool",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liverpool"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Roberto Firmino",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.519096,
+      "mentions": [
+        {
+          "text": "Roberto Firmino",
+          "location": [
+            55,
+            70
+          ]
+        },
+        {
+          "text": "Roberto Firmino",
+          "location": [
+            211,
+            226
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098189,
+        "joy": 0.383579,
+        "fear": 0.077267,
+        "disgust": 0.048728,
+        "anger": 0.106377
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Roberto Firmino",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roberto_Firmino"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "J\u00fcrgen Klopp",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.395432,
+      "mentions": [
+        {
+          "text": "J\u00fcrgen Klopp",
+          "location": [
+            689,
+            701
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "J\u00fcrgen Klopp",
+        "dbpedia_resource": "http://dbpedia.org/resource/J\u00fcrgen_Klopp"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "sentiment": {
+        "score": -0.404917,
+        "label": "negative"
+      },
+      "relevance": 0.384671,
+      "mentions": [
+        {
+          "text": "Brazil",
+          "location": [
+            254,
+            260
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            317,
+            323
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.089127,
+        "joy": 0.423237,
+        "fear": 0.104422,
+        "disgust": 0.044318,
+        "anger": 0.099428
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Colonial Brazil",
+        "dbpedia_resource": "http://dbpedia.org/resource/Colonial_Brazil"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Week-day names",
+      "relevance": 0.969723,
+      "dbpedia_resource": "http://dbpedia.org/resource/Week-day_names"
+    },
+    {
+      "text": "Liverpool",
+      "relevance": 0.851855,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liverpool"
+    },
+    {
+      "text": "Everton F.C.",
+      "relevance": 0.838586,
+      "dbpedia_resource": "http://dbpedia.org/resource/Everton_F.C."
+    },
+    {
+      "text": "Liverpool F.C.",
+      "relevance": 0.800246,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liverpool_F.C."
+    },
+    {
+      "text": "FA Community Shield",
+      "relevance": 0.668613,
+      "dbpedia_resource": "http://dbpedia.org/resource/FA_Community_Shield"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.785861,
+      "label": "/sports/soccer"
+    }
+  ]
+}

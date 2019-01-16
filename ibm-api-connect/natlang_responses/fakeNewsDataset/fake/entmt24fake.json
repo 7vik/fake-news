@@ -1,0 +1,301 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1025,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.811762,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "current sellers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.894025,
+      "emotion": {
+        "sadness": 0.057852,
+        "joy": 0.021656,
+        "fear": 0.017669,
+        "disgust": 0.016238,
+        "anger": 0.073472
+      },
+      "count": 1
+    },
+    {
+      "text": "Times Square",
+      "sentiment": {
+        "score": 0.95374,
+        "label": "positive"
+      },
+      "relevance": 0.886603,
+      "emotion": {
+        "sadness": 0.196749,
+        "joy": 0.598144,
+        "fear": 0.01376,
+        "disgust": 0.055335,
+        "anger": 0.037632
+      },
+      "count": 1
+    },
+    {
+      "text": "square-foot home",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.769331,
+      "emotion": {
+        "sadness": 0.265763,
+        "joy": 0.253267,
+        "fear": 0.029901,
+        "disgust": 0.507696,
+        "anger": 0.072811
+      },
+      "count": 1
+    },
+    {
+      "text": "opportunity of a lifetime",
+      "sentiment": {
+        "score": 0.95374,
+        "label": "positive"
+      },
+      "relevance": 0.764162,
+      "emotion": {
+        "sadness": 0.196749,
+        "joy": 0.598144,
+        "fear": 0.01376,
+        "disgust": 0.055335,
+        "anger": 0.037632
+      },
+      "count": 1
+    },
+    {
+      "text": "current owners",
+      "sentiment": {
+        "score": 0.900539,
+        "label": "positive"
+      },
+      "relevance": 0.754835,
+      "emotion": {
+        "sadness": 0.265763,
+        "joy": 0.253267,
+        "fear": 0.029901,
+        "disgust": 0.507696,
+        "anger": 0.072811
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "David Bowie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.832672,
+      "mentions": [
+        {
+          "text": "David Bowie",
+          "location": [
+            19,
+            30
+          ]
+        },
+        {
+          "text": "David",
+          "location": [
+            283,
+            288
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.039684,
+        "joy": 0.765371,
+        "fear": 0.05971,
+        "disgust": 0.038895,
+        "anger": 0.0147
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "Guitarist",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "David Bowie",
+        "dbpedia_resource": "http://dbpedia.org/resource/David_Bowie"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bernice Leventhal",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.606203,
+      "mentions": [
+        {
+          "text": "Bernice Leventhal",
+          "location": [
+            735,
+            752
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.039684,
+        "joy": 0.765371,
+        "fear": 0.05971,
+        "disgust": 0.038895,
+        "anger": 0.0147
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Times Square",
+      "sentiment": {
+        "score": 0.777649,
+        "label": "positive"
+      },
+      "relevance": 0.529819,
+      "mentions": [
+        {
+          "text": "Times Square",
+          "location": [
+            143,
+            155
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.196749,
+        "joy": 0.598144,
+        "fear": 0.01376,
+        "disgust": 0.055335,
+        "anger": 0.037632
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "NYC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.524837,
+      "mentions": [
+        {
+          "text": "NYC",
+          "location": [
+            0,
+            3
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.177209,
+        "joy": 0.390992,
+        "fear": 0.106808,
+        "disgust": 0.196961,
+        "anger": 0.074764
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Iman",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.480078,
+      "mentions": [
+        {
+          "text": "Iman",
+          "location": [
+            309,
+            313
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.959367,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "David Bowie",
+      "relevance": 0.828287,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Bowie"
+    },
+    {
+      "text": "Times Square",
+      "relevance": 0.634829,
+      "dbpedia_resource": "http://dbpedia.org/resource/Times_Square"
+    },
+    {
+      "text": "Piano",
+      "relevance": 0.613317,
+      "dbpedia_resource": "http://dbpedia.org/resource/Piano"
+    },
+    {
+      "text": "Real estate",
+      "relevance": 0.608422,
+      "dbpedia_resource": "http://dbpedia.org/resource/Real_estate"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.864459,
+      "label": "/art and entertainment/music/musical instruments/pianos"
+    }
+  ]
+}

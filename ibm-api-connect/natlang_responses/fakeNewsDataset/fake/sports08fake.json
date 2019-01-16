@@ -1,0 +1,365 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 659,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.42936,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Stan Wawrinka",
+      "sentiment": {
+        "score": 0.893276,
+        "label": "positive"
+      },
+      "relevance": 0.855877,
+      "emotion": {
+        "sadness": 0.079065,
+        "joy": 0.586321,
+        "fear": 0.030615,
+        "disgust": 0.083824,
+        "anger": 0.213391
+      },
+      "count": 1
+    },
+    {
+      "text": "Svetlana Kuznetsova",
+      "sentiment": {
+        "score": -0.291083,
+        "label": "negative"
+      },
+      "relevance": 0.807388,
+      "emotion": {
+        "sadness": 0.646877,
+        "joy": 0.06799,
+        "fear": 0.054521,
+        "disgust": 0.085871,
+        "anger": 0.117807
+      },
+      "count": 1
+    },
+    {
+      "text": "concurrent last-place finishes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.726573,
+      "emotion": {
+        "sadness": 0.50018,
+        "joy": 0.365381,
+        "fear": 0.025689,
+        "disgust": 0.05346,
+        "anger": 0.158413
+      },
+      "count": 1
+    },
+    {
+      "text": "Elena Vesnina",
+      "sentiment": {
+        "score": -0.291083,
+        "label": "negative"
+      },
+      "relevance": 0.69667,
+      "emotion": {
+        "sadness": 0.646877,
+        "joy": 0.06799,
+        "fear": 0.054521,
+        "disgust": 0.085871,
+        "anger": 0.117807
+      },
+      "count": 1
+    },
+    {
+      "text": "spite of her own set of injuries",
+      "sentiment": {
+        "score": -0.291083,
+        "label": "negative"
+      },
+      "relevance": 0.586817,
+      "emotion": {
+        "sadness": 0.646877,
+        "joy": 0.06799,
+        "fear": 0.054521,
+        "disgust": 0.085871,
+        "anger": 0.117807
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Stan Wawrinka",
+      "sentiment": {
+        "score": 0.218966,
+        "label": "positive"
+      },
+      "relevance": 0.870285,
+      "mentions": [
+        {
+          "text": "Stan Wawrinka",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Stan Wawrinka",
+          "location": [
+            49,
+            62
+          ]
+        },
+        {
+          "text": "Wawrinka",
+          "location": [
+            221,
+            229
+          ]
+        },
+        {
+          "text": "Wawrinka",
+          "location": [
+            268,
+            276
+          ]
+        },
+        {
+          "text": "Wawrinka",
+          "location": [
+            442,
+            450
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            518,
+            520
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            533,
+            535
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.45887,
+        "joy": 0.517493,
+        "fear": 0.053447,
+        "disgust": 0.076965,
+        "anger": 0.097086
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Stanislas Wawrinka",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stanislas_Wawrinka"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": 0.471461,
+        "label": "positive"
+      },
+      "relevance": 0.698628,
+      "mentions": [
+        {
+          "text": "Roger Federer",
+          "location": [
+            35,
+            48
+          ]
+        },
+        {
+          "text": "Roger Federer",
+          "location": [
+            120,
+            133
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            309,
+            312
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.21558,
+        "joy": 0.503041,
+        "fear": 0.027074,
+        "disgust": 0.176857,
+        "anger": 0.192502
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Roger Federer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Elena Vesnina",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.267529,
+      "mentions": [
+        {
+          "text": "Elena Vesnina",
+          "location": [
+            597,
+            610
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.333579,
+        "joy": 0.184667,
+        "fear": 0.034258,
+        "disgust": 0.323777,
+        "anger": 0.18684
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion"
+        ],
+        "name": "Elena Vesnina",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elena_Vesnina"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Svetlana Kuznetsova",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.236494,
+      "mentions": [
+        {
+          "text": "Svetlana Kuznetsova",
+          "location": [
+            571,
+            590
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.333579,
+        "joy": 0.184667,
+        "fear": 0.034258,
+        "disgust": 0.323777,
+        "anger": 0.18684
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Svetlana Kuznetsova",
+        "dbpedia_resource": "http://dbpedia.org/resource/Svetlana_Kuznetsova"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "john",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.147021,
+      "mentions": [
+        {
+          "text": "john",
+          "location": [
+            543,
+            547
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            550,
+            552
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134583,
+        "joy": 0.24796,
+        "fear": 0.045336,
+        "disgust": 0.050054,
+        "anger": 0.050516
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2009 French Open",
+      "relevance": 0.981722,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_French_Open"
+    },
+    {
+      "text": "2009 Wimbledon Championships",
+      "relevance": 0.807654,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_Wimbledon_Championships"
+    },
+    {
+      "text": "Roger Federer",
+      "relevance": 0.758116,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+    },
+    {
+      "text": "2007 Wimbledon Championships",
+      "relevance": 0.662863,
+      "dbpedia_resource": "http://dbpedia.org/resource/2007_Wimbledon_Championships"
+    },
+    {
+      "text": "Stanislas Wawrinka",
+      "relevance": 0.654182,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stanislas_Wawrinka"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.992064,
+      "label": "/sports/tennis"
+    }
+  ]
+}

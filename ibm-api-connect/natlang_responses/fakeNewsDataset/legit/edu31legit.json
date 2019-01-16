@@ -1,0 +1,267 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 581,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.454347,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "precious recess time",
+      "sentiment": {
+        "score": -0.280005,
+        "label": "negative"
+      },
+      "relevance": 0.822247,
+      "emotion": {
+        "sadness": 0.064859,
+        "joy": 0.362339,
+        "fear": 0.057302,
+        "disgust": 0.158937,
+        "anger": 0.140627
+      },
+      "count": 1
+    },
+    {
+      "text": "Corpus Christi Caller-Times",
+      "sentiment": {
+        "score": 0.676323,
+        "label": "positive"
+      },
+      "relevance": 0.783078,
+      "emotion": {
+        "sadness": 0.074701,
+        "joy": 0.818012,
+        "fear": 0.014516,
+        "disgust": 0.01319,
+        "anger": 0.069633
+      },
+      "count": 1
+    },
+    {
+      "text": "school's investment",
+      "sentiment": {
+        "score": -0.280005,
+        "label": "negative"
+      },
+      "relevance": 0.697756,
+      "emotion": {
+        "sadness": 0.064859,
+        "joy": 0.362339,
+        "fear": 0.057302,
+        "disgust": 0.158937,
+        "anger": 0.140627
+      },
+      "count": 1
+    },
+    {
+      "text": "Magee Elementary School",
+      "sentiment": {
+        "score": 0.676323,
+        "label": "positive"
+      },
+      "relevance": 0.666372,
+      "emotion": {
+        "sadness": 0.074701,
+        "joy": 0.818012,
+        "fear": 0.014516,
+        "disgust": 0.01319,
+        "anger": 0.069633
+      },
+      "count": 1
+    },
+    {
+      "text": "fifth-grade teacher",
+      "sentiment": {
+        "score": 0.676323,
+        "label": "positive"
+      },
+      "relevance": 0.657207,
+      "emotion": {
+        "sadness": 0.074701,
+        "joy": 0.818012,
+        "fear": 0.014516,
+        "disgust": 0.01319,
+        "anger": 0.069633
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "PrintMedia",
+      "text": "Corpus Christi Caller-Times",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.859087,
+      "mentions": [
+        {
+          "text": "Corpus Christi Caller-Times",
+          "location": [
+            395,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136903,
+        "joy": 0.485474,
+        "fear": 0.090745,
+        "disgust": 0.175388,
+        "anger": 0.238436
+      },
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ],
+        "name": "Corpus Christi Caller-Times",
+        "dbpedia_resource": "http://dbpedia.org/resource/Corpus_Christi_Caller-Times"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "CORPUS CHRISTI",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.754193,
+      "mentions": [
+        {
+          "text": "CORPUS CHRISTI",
+          "location": [
+            51,
+            65
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.113372,
+        "joy": 0.496798,
+        "fear": 0.075906,
+        "disgust": 0.173985,
+        "anger": 0.270327
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Corpus Christi, Texas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Corpus_Christi,_Texas"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Magee Elementary School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.58403,
+      "mentions": [
+        {
+          "text": "Magee Elementary School",
+          "location": [
+            362,
+            385
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136903,
+        "joy": 0.485474,
+        "fear": 0.090745,
+        "disgust": 0.175388,
+        "anger": 0.238436
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "sentiment": {
+        "score": 0.399371,
+        "label": "positive"
+      },
+      "relevance": 0.521648,
+      "mentions": [
+        {
+          "text": "Texas",
+          "location": [
+            23,
+            28
+          ]
+        },
+        {
+          "text": "Texas",
+          "location": [
+            67,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139897,
+        "joy": 0.444957,
+        "fear": 0.025464,
+        "disgust": 0.009518,
+        "anger": 0.025844
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Texas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.954509,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Corpus Christi",
+      "relevance": 0.60306,
+      "dbpedia_resource": "http://dbpedia.org/resource/Corpus_Christi"
+    },
+    {
+      "text": "Corpus Christi, Texas",
+      "relevance": 0.520872,
+      "dbpedia_resource": "http://dbpedia.org/resource/Corpus_Christi,_Texas"
+    },
+    {
+      "text": "History of education",
+      "relevance": 0.511132,
+      "dbpedia_resource": "http://dbpedia.org/resource/History_of_education"
+    },
+    {
+      "text": "Primary school",
+      "relevance": 0.485219,
+      "dbpedia_resource": "http://dbpedia.org/resource/Primary_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.973714,
+      "label": "/education/teaching and classroom resources"
+    }
+  ]
+}

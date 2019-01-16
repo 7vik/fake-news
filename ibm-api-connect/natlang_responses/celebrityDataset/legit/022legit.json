@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 78,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift's camp",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997049,
+      "emotion": {
+        "sadness": 0.638904,
+        "joy": 0.094693,
+        "fear": 0.01959,
+        "disgust": 0.201946,
+        "anger": 0.12781
+      },
+      "count": 1
+    },
+    {
+      "text": "singer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636757,
+      "emotion": {
+        "sadness": 0.638904,
+        "joy": 0.094693,
+        "fear": 0.01959,
+        "disgust": 0.201946,
+        "anger": 0.12781
+      },
+      "count": 1
+    },
+    {
+      "text": "own streaming service",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.142498,
+      "emotion": {
+        "sadness": 0.638904,
+        "joy": 0.094693,
+        "fear": 0.01959,
+        "disgust": 0.201946,
+        "anger": 0.12781
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.730559,
+      "label": "/automotive and vehicles/campers and rvs"
+    }
+  ]
+}

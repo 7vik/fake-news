@@ -1,0 +1,313 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 793,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.357381,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Philippe Coutinho",
+      "sentiment": {
+        "score": 0.645389,
+        "label": "positive"
+      },
+      "relevance": 0.858984,
+      "emotion": {
+        "sadness": 0.07702,
+        "joy": 0.812844,
+        "fear": 0.03569,
+        "disgust": 0.054838,
+        "anger": 0.02206
+      },
+      "count": 1
+    },
+    {
+      "text": "Liverpool's Coutinho",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.675647,
+      "emotion": {
+        "sadness": 0.235307,
+        "joy": 0.198546,
+        "fear": 0.111822,
+        "disgust": 0.123317,
+        "anger": 0.085979
+      },
+      "count": 1
+    },
+    {
+      "text": "Brazil",
+      "sentiment": {
+        "score": 0.645389,
+        "label": "positive"
+      },
+      "relevance": 0.615652,
+      "emotion": {
+        "sadness": 0.092801,
+        "joy": 0.804752,
+        "fear": 0.027757,
+        "disgust": 0.064056,
+        "anger": 0.020728
+      },
+      "count": 3
+    },
+    {
+      "text": "Merseyside derby",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.606602,
+      "emotion": {
+        "sadness": 0.235307,
+        "joy": 0.198546,
+        "fear": 0.111822,
+        "disgust": 0.123317,
+        "anger": 0.085979
+      },
+      "count": 1
+    },
+    {
+      "text": "World Cup",
+      "sentiment": {
+        "score": 0.645389,
+        "label": "positive"
+      },
+      "relevance": 0.602226,
+      "emotion": {
+        "sadness": 0.092801,
+        "joy": 0.804752,
+        "fear": 0.027757,
+        "disgust": 0.064056,
+        "anger": 0.020728
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Philippe Coutinho",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.968765,
+      "mentions": [
+        {
+          "text": "Philippe Coutinho",
+          "location": [
+            21,
+            38
+          ]
+        },
+        {
+          "text": "Philippe Coutinho",
+          "location": [
+            70,
+            87
+          ]
+        },
+        {
+          "text": "Coutinho",
+          "location": [
+            221,
+            229
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.102822,
+        "joy": 0.746556,
+        "fear": 0.038558,
+        "disgust": 0.08494,
+        "anger": 0.036241
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballPlayer"
+        ],
+        "name": "Philippe Coutinho",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philippe_Coutinho"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Paraguay",
+      "sentiment": {
+        "score": -0.796602,
+        "label": "negative"
+      },
+      "relevance": 0.642038,
+      "mentions": [
+        {
+          "text": "Paraguay",
+          "location": [
+            11,
+            19
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            188,
+            196
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            659,
+            667
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.539867,
+        "joy": 0.319528,
+        "fear": 0.137739,
+        "disgust": 0.069283,
+        "anger": 0.024251
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.54172,
+      "mentions": [
+        {
+          "text": "Brazil",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            109,
+            115
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            726,
+            732
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.103355,
+        "joy": 0.788898,
+        "fear": 0.035952,
+        "disgust": 0.066228,
+        "anger": 0.019667
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Neymar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.416001,
+      "mentions": [
+        {
+          "text": "Neymar",
+          "location": [
+            43,
+            49
+          ]
+        },
+        {
+          "text": "Neymar",
+          "location": [
+            92,
+            98
+          ]
+        },
+        {
+          "text": "Neymar",
+          "location": [
+            378,
+            384
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.412845,
+        "joy": 0.463501,
+        "fear": 0.095926,
+        "disgust": 0.056775,
+        "anger": 0.039245
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Neymar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Neymar"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ice hockey",
+      "relevance": 0.969038,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ice_hockey"
+    },
+    {
+      "text": "FIFA World Cup",
+      "relevance": 0.736429,
+      "dbpedia_resource": "http://dbpedia.org/resource/FIFA_World_Cup"
+    },
+    {
+      "text": "Field hockey",
+      "relevance": 0.724735,
+      "dbpedia_resource": "http://dbpedia.org/resource/Field_hockey"
+    },
+    {
+      "text": "2018 and 2022 FIFA World Cup bids",
+      "relevance": 0.708272,
+      "dbpedia_resource": "http://dbpedia.org/resource/2018_and_2022_FIFA_World_Cup_bids"
+    },
+    {
+      "text": "Ronaldo",
+      "relevance": 0.690938,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ronaldo"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.918155,
+      "label": "/sports/soccer"
+    }
+  ]
+}

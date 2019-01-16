@@ -1,0 +1,159 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye's marriage",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.980281,
+      "emotion": {
+        "sadness": 0.100149,
+        "joy": 0.71928,
+        "fear": 0.065107,
+        "disgust": 0.095366,
+        "anger": 0.049229
+      },
+      "count": 1
+    },
+    {
+      "text": "wedding ring",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.948538,
+      "emotion": {
+        "sadness": 0.100149,
+        "joy": 0.71928,
+        "fear": 0.065107,
+        "disgust": 0.095366,
+        "anger": 0.049229
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.880273,
+      "emotion": {
+        "sadness": 0.100149,
+        "joy": 0.71928,
+        "fear": 0.065107,
+        "disgust": 0.095366,
+        "anger": 0.049229
+      },
+      "count": 1
+    },
+    {
+      "text": "rocks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659489,
+      "emotion": {
+        "sadness": 0.100149,
+        "joy": 0.71928,
+        "fear": 0.065107,
+        "disgust": 0.095366,
+        "anger": 0.049229
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim",
+          "location": [
+            0,
+            3
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.100149,
+        "joy": 0.71928,
+        "fear": 0.065107,
+        "disgust": 0.095366,
+        "anger": 0.049229
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            8,
+            13
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            41,
+            44
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Wedding",
+      "relevance": 0.932809,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wedding"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.663,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.95014,
+      "label": "/society/social institution"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 111,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.943982,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Hiddleston",
+      "sentiment": {
+        "score": -0.943982,
+        "label": "negative"
+      },
+      "relevance": 0.999399,
+      "emotion": {
+        "sadness": 0.470853,
+        "joy": 0.017358,
+        "fear": 0.029808,
+        "disgust": 0.656155,
+        "anger": 0.098896
+      },
+      "count": 1
+    },
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.943982,
+        "label": "negative"
+      },
+      "relevance": 0.971622,
+      "emotion": {
+        "sadness": 0.470853,
+        "joy": 0.017358,
+        "fear": 0.029808,
+        "disgust": 0.656155,
+        "anger": 0.098896
+      },
+      "count": 1
+    },
+    {
+      "text": "Comic-Con",
+      "sentiment": {
+        "score": -0.943982,
+        "label": "negative"
+      },
+      "relevance": 0.895173,
+      "emotion": {
+        "sadness": 0.470853,
+        "joy": 0.017358,
+        "fear": 0.029808,
+        "disgust": 0.656155,
+        "anger": 0.098896
+      },
+      "count": 1
+    },
+    {
+      "text": "Fans",
+      "sentiment": {
+        "score": -0.943982,
+        "label": "negative"
+      },
+      "relevance": 0.600513,
+      "emotion": {
+        "sadness": 0.470853,
+        "joy": 0.017358,
+        "fear": 0.029808,
+        "disgust": 0.656155,
+        "anger": 0.098896
+      },
+      "count": 1
+    },
+    {
+      "text": "Media",
+      "sentiment": {
+        "score": -0.943982,
+        "label": "negative"
+      },
+      "relevance": 0.591145,
+      "emotion": {
+        "sadness": 0.470853,
+        "joy": 0.017358,
+        "fear": 0.029808,
+        "disgust": 0.656155,
+        "anger": 0.098896
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Hiddleston",
+      "sentiment": {
+        "score": -0.476416,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Tom Hiddleston",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.492294,
+        "joy": 0.022136,
+        "fear": 0.040671,
+        "disgust": 0.633877,
+        "anger": 0.034357
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Tom Hiddleston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Hiddleston"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.476416,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            39,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.492294,
+        "joy": 0.022136,
+        "fear": 0.040671,
+        "disgust": 0.633877,
+        "anger": 0.034357
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "Atropates",
+      "relevance": 0.7452,
+      "dbpedia_resource": "http://dbpedia.org/resource/Atropates"
+    },
+    {
+      "text": "Atropatene",
+      "relevance": 0.74391,
+      "dbpedia_resource": "http://dbpedia.org/resource/Atropatene"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.621529,
+      "label": "/art and entertainment/comics and animation/comics"
+    }
+  ]
+}

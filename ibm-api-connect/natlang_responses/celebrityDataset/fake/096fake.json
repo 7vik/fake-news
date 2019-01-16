@@ -1,0 +1,239 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.864732,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": -0.864732,
+        "label": "negative"
+      },
+      "relevance": 0.999783,
+      "emotion": {
+        "sadness": 0.538947,
+        "joy": 0.15198,
+        "fear": 0.104511,
+        "disgust": 0.045507,
+        "anger": 0.355757
+      },
+      "count": 1
+    },
+    {
+      "text": "Adam Levine",
+      "sentiment": {
+        "score": -0.864732,
+        "label": "negative"
+      },
+      "relevance": 0.904626,
+      "emotion": {
+        "sadness": 0.538947,
+        "joy": 0.15198,
+        "fear": 0.104511,
+        "disgust": 0.045507,
+        "anger": 0.355757
+      },
+      "count": 1
+    },
+    {
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.864732,
+        "label": "negative"
+      },
+      "relevance": 0.822044,
+      "emotion": {
+        "sadness": 0.538947,
+        "joy": 0.15198,
+        "fear": 0.104511,
+        "disgust": 0.045507,
+        "anger": 0.355757
+      },
+      "count": 1
+    },
+    {
+      "text": "Tears",
+      "sentiment": {
+        "score": -0.864732,
+        "label": "negative"
+      },
+      "relevance": 0.658101,
+      "emotion": {
+        "sadness": 0.538947,
+        "joy": 0.15198,
+        "fear": 0.104511,
+        "disgust": 0.045507,
+        "anger": 0.355757
+      },
+      "count": 1
+    },
+    {
+      "text": "Voice",
+      "sentiment": {
+        "score": -0.864732,
+        "label": "negative"
+      },
+      "relevance": 0.626777,
+      "emotion": {
+        "sadness": 0.538947,
+        "joy": 0.15198,
+        "fear": 0.104511,
+        "disgust": 0.045507,
+        "anger": 0.355757
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Adam Levine",
+      "sentiment": {
+        "score": -0.251843,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Adam Levine",
+          "location": [
+            64,
+            75
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244331,
+        "joy": 0.461419,
+        "fear": 0.102005,
+        "disgust": 0.036089,
+        "anger": 0.098162
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Adam Levine",
+        "dbpedia_resource": "http://dbpedia.org/resource/Adam_Levine"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.847142,
+        "joy": 0.01056,
+        "fear": 0.055271,
+        "disgust": 0.132998,
+        "anger": 0.172292
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.251843,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Blake Shelton",
+          "location": [
+            80,
+            93
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244331,
+        "joy": 0.461419,
+        "fear": 0.102005,
+        "disgust": 0.036089,
+        "anger": 0.098162
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "American male singers",
+      "relevance": 0.907457,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_male_singers"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.904831,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.597086,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

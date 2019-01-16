@@ -1,0 +1,304 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 374,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.633737,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "DEMI LOVATO",
+      "sentiment": {
+        "score": -0.401533,
+        "label": "negative"
+      },
+      "relevance": 0.999297,
+      "emotion": {
+        "sadness": 0.303722,
+        "joy": 0.232968,
+        "fear": 0.058338,
+        "disgust": 0.430601,
+        "anger": 0.117928
+      },
+      "count": 2
+    },
+    {
+      "text": "Lovato's act",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.599921,
+      "emotion": {
+        "sadness": 0.162778,
+        "joy": 0.267415,
+        "fear": 0.014366,
+        "disgust": 0.078454,
+        "anger": 0.148355
+      },
+      "count": 1
+    },
+    {
+      "text": "Jimmy Fallon's Tonight Show",
+      "sentiment": {
+        "score": -0.401533,
+        "label": "negative"
+      },
+      "relevance": 0.592387,
+      "emotion": {
+        "sadness": 0.273116,
+        "joy": 0.394814,
+        "fear": 0.052124,
+        "disgust": 0.306216,
+        "anger": 0.05741
+      },
+      "count": 1
+    },
+    {
+      "text": "Lovato",
+      "sentiment": {
+        "score": -0.793494,
+        "label": "negative"
+      },
+      "relevance": 0.578702,
+      "emotion": {
+        "sadness": 0.28653,
+        "joy": 0.407366,
+        "fear": 0.014384,
+        "disgust": 0.243403,
+        "anger": 0.157665
+      },
+      "count": 1
+    },
+    {
+      "text": "pillow",
+      "sentiment": {
+        "score": -0.793494,
+        "label": "negative"
+      },
+      "relevance": 0.549368,
+      "emotion": {
+        "sadness": 0.315352,
+        "joy": 0.320831,
+        "fear": 0.019352,
+        "disgust": 0.140266,
+        "anger": 0.264077
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "DEMI LOVATO",
+      "sentiment": {
+        "score": 0.641942,
+        "label": "positive"
+      },
+      "relevance": 0.897169,
+      "mentions": [
+        {
+          "text": "DEMI LOVATO",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Demi Lovato",
+          "location": [
+            61,
+            72
+          ]
+        },
+        {
+          "text": "Lovato",
+          "location": [
+            156,
+            162
+          ]
+        },
+        {
+          "text": "Lovato",
+          "location": [
+            292,
+            298
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188332,
+        "joy": 0.440587,
+        "fear": 0.045062,
+        "disgust": 0.318257,
+        "anger": 0.135281
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Demi Lovato",
+        "dbpedia_resource": "http://dbpedia.org/resource/Demi_Lovato"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jimmy Fallon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.27791,
+      "mentions": [
+        {
+          "text": "Jimmy Fallon",
+          "location": [
+            85,
+            97
+          ]
+        },
+        {
+          "text": "Fallon",
+          "location": [
+            306,
+            312
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145145,
+        "joy": 0.252694,
+        "fear": 0.011264,
+        "disgust": 0.054618,
+        "anger": 0.089917
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVPersonality"
+        ],
+        "name": "Jimmy Fallon",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jimmy_Fallon"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Mario Lopez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.179656,
+      "mentions": [
+        {
+          "text": "Mario Lopez",
+          "location": [
+            361,
+            372
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145145,
+        "joy": 0.252694,
+        "fear": 0.011264,
+        "disgust": 0.054618,
+        "anger": 0.089917
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVPersonality"
+        ],
+        "name": "Mario Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mario_Lopez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ed Sheeran",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.158614,
+      "mentions": [
+        {
+          "text": "Ed Sheeran",
+          "location": [
+            260,
+            270
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ed Sheeran",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ed_Sheeran"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Conan O'Brien",
+      "relevance": 0.912966,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conan_O'Brien"
+    },
+    {
+      "text": "Demi Lovato",
+      "relevance": 0.90459,
+      "dbpedia_resource": "http://dbpedia.org/resource/Demi_Lovato"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.899069,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American people of Irish descent",
+      "relevance": 0.718405,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_people_of_Irish_descent"
+    },
+    {
+      "text": "Jimmy Fallon",
+      "relevance": 0.6141,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jimmy_Fallon"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.88381,
+      "label": "/society/teens"
+    }
+  ]
+}

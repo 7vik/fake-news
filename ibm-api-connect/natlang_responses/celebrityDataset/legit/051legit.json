@@ -1,0 +1,119 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.18711,
+        "joy": 0.081755,
+        "fear": 0.114354,
+        "disgust": 0.179051,
+        "anger": 0.173395
+      },
+      "count": 1
+    },
+    {
+      "text": "Yale",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.690082,
+      "emotion": {
+        "sadness": 0.18711,
+        "joy": 0.081755,
+        "fear": 0.114354,
+        "disgust": 0.179051,
+        "anger": 0.173395
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0.539792,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Prince Harry",
+          "location": [
+            3,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.209814,
+        "joy": 0.132758,
+        "fear": 0.110193,
+        "disgust": 0.168709,
+        "anger": 0.156561
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince Harry of Wales",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_Harry_of_Wales"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Yale",
+      "sentiment": {
+        "score": 0.539792,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Yale",
+          "location": [
+            26,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.209814,
+        "joy": 0.132758,
+        "fear": 0.110193,
+        "disgust": 0.168709,
+        "anger": 0.156561
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.596543,
+      "label": "/law, govt and politics/government/heads of state"
+    }
+  ]
+}

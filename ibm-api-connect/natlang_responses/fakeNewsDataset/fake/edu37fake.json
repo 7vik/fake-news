@@ -1,0 +1,269 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 428,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.73054,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rancho Cucamonga",
+      "sentiment": {
+        "score": -0.659111,
+        "label": "negative"
+      },
+      "relevance": 0.915152,
+      "emotion": {
+        "sadness": 0.279879,
+        "joy": 0.10841,
+        "fear": 0.309955,
+        "disgust": 0.357287,
+        "anger": 0.243902
+      },
+      "count": 1
+    },
+    {
+      "text": "Sun newspaper",
+      "sentiment": {
+        "score": -0.854807,
+        "label": "negative"
+      },
+      "relevance": 0.711389,
+      "emotion": {
+        "sadness": 0.139546,
+        "joy": 0.052947,
+        "fear": 0.312497,
+        "disgust": 0.282641,
+        "anger": 0.575024
+      },
+      "count": 1
+    },
+    {
+      "text": "news weeks",
+      "sentiment": {
+        "score": -0.854807,
+        "label": "negative"
+      },
+      "relevance": 0.69195,
+      "emotion": {
+        "sadness": 0.139546,
+        "joy": 0.052947,
+        "fear": 0.312497,
+        "disgust": 0.282641,
+        "anger": 0.575024
+      },
+      "count": 1
+    },
+    {
+      "text": "Parents",
+      "sentiment": {
+        "score": -0.854807,
+        "label": "negative"
+      },
+      "relevance": 0.643492,
+      "emotion": {
+        "sadness": 0.139546,
+        "joy": 0.052947,
+        "fear": 0.312497,
+        "disgust": 0.282641,
+        "anger": 0.575024
+      },
+      "count": 1
+    },
+    {
+      "text": "Authorities",
+      "sentiment": {
+        "score": -0.657763,
+        "label": "negative"
+      },
+      "relevance": 0.584459,
+      "emotion": {
+        "sadness": 0.411471,
+        "joy": 0.095328,
+        "fear": 0.205132,
+        "disgust": 0.124347,
+        "anger": 0.309576
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Rancho Cucamonga",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.899399,
+      "mentions": [
+        {
+          "text": "Rancho Cucamonga",
+          "location": [
+            28,
+            44
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Sun newspaper",
+      "sentiment": {
+        "score": -0.610801,
+        "label": "negative"
+      },
+      "relevance": 0.722148,
+      "mentions": [
+        {
+          "text": "Sun newspaper",
+          "location": [
+            310,
+            323
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144615,
+        "joy": 0.064177,
+        "fear": 0.284649,
+        "disgust": 0.293834,
+        "anger": 0.573119
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Sun (United Kingdom)",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Sun_(United_Kingdom)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "LA",
+      "sentiment": {
+        "score": -0.425001,
+        "label": "negative"
+      },
+      "relevance": 0.49706,
+      "mentions": [
+        {
+          "text": "LA",
+          "location": [
+            101,
+            103
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.298926,
+        "joy": 0.097108,
+        "fear": 0.327768,
+        "disgust": 0.347569,
+        "anger": 0.232293
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.39927,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            382,
+            390
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172277,
+        "joy": 0.101283,
+        "fear": 0.268232,
+        "disgust": 0.121527,
+        "anger": 0.235733
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "6 year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.39927,
+      "mentions": [
+        {
+          "text": "6 year",
+          "location": [
+            51,
+            57
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Sun",
+      "relevance": 0.975816,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Sun_(newspaper)"
+    },
+    {
+      "text": "News of the World",
+      "relevance": 0.87443,
+      "dbpedia_resource": "http://dbpedia.org/resource/News_of_the_World"
+    },
+    {
+      "text": "Rupert Murdoch",
+      "relevance": 0.855444,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rupert_Murdoch"
+    },
+    {
+      "text": "Newspaper",
+      "relevance": 0.842227,
+      "dbpedia_resource": "http://dbpedia.org/resource/Newspaper"
+    },
+    {
+      "text": "The Times",
+      "relevance": 0.833212,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Times"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.993359,
+      "label": "/news/national news"
+    }
+  ]
+}

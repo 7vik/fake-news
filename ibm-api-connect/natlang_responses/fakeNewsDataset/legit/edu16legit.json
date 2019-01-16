@@ -1,0 +1,209 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 536,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.317,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Obama administration",
+      "sentiment": {
+        "score": 0.317,
+        "label": "positive"
+      },
+      "relevance": 0.886934,
+      "emotion": {
+        "sadness": 0.466005,
+        "joy": 0.257925,
+        "fear": 0.042335,
+        "disgust": 0.059757,
+        "anger": 0.128072
+      },
+      "count": 1
+    },
+    {
+      "text": "Federal Child Care Program",
+      "sentiment": {
+        "score": 0.317,
+        "label": "positive"
+      },
+      "relevance": 0.883808,
+      "emotion": {
+        "sadness": 0.241409,
+        "joy": 0.477829,
+        "fear": 0.023566,
+        "disgust": 0.019252,
+        "anger": 0.07637
+      },
+      "count": 1
+    },
+    {
+      "text": "criminal background checks",
+      "sentiment": {
+        "score": 0.317,
+        "label": "positive"
+      },
+      "relevance": 0.754131,
+      "emotion": {
+        "sadness": 0.466005,
+        "joy": 0.257925,
+        "fear": 0.042335,
+        "disgust": 0.059757,
+        "anger": 0.128072
+      },
+      "count": 1
+    },
+    {
+      "text": "New Rules",
+      "sentiment": {
+        "score": 0.317,
+        "label": "positive"
+      },
+      "relevance": 0.639662,
+      "emotion": {
+        "sadness": 0.241409,
+        "joy": 0.477829,
+        "fear": 0.023566,
+        "disgust": 0.019252,
+        "anger": 0.07637
+      },
+      "count": 1
+    },
+    {
+      "text": "federal program",
+      "sentiment": {
+        "score": 0.317,
+        "label": "positive"
+      },
+      "relevance": 0.62327,
+      "emotion": {
+        "sadness": 0.466005,
+        "joy": 0.257925,
+        "fear": 0.042335,
+        "disgust": 0.059757,
+        "anger": 0.128072
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Obama administration",
+      "sentiment": {
+        "score": 0.280261,
+        "label": "positive"
+      },
+      "relevance": 0.866407,
+      "mentions": [
+        {
+          "text": "Obama administration",
+          "location": [
+            65,
+            85
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186283,
+        "joy": 0.5012,
+        "fear": 0.032982,
+        "disgust": 0.025365,
+        "anger": 0.085077
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": -0.405558,
+        "label": "negative"
+      },
+      "relevance": 0.531681,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            377,
+            386
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.536087,
+        "joy": 0.070804,
+        "fear": 0.073225,
+        "disgust": 0.185701,
+        "anger": 0.180565
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Congress",
+      "sentiment": {
+        "score": -0.405558,
+        "label": "negative"
+      },
+      "relevance": 0.519037,
+      "mentions": [
+        {
+          "text": "Congress",
+          "location": [
+            350,
+            358
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.536087,
+        "joy": 0.070804,
+        "fear": 0.073225,
+        "disgust": 0.185701,
+        "anger": 0.180565
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.955819,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Quality control",
+      "relevance": 0.620602,
+      "dbpedia_resource": "http://dbpedia.org/resource/Quality_control"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.553485,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Management",
+      "relevance": 0.535177,
+      "dbpedia_resource": "http://dbpedia.org/resource/Management"
+    },
+    {
+      "text": "United States Congress",
+      "relevance": 0.520735,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.861097,
+      "label": "/society/welfare/healthcare"
+    }
+  ]
+}

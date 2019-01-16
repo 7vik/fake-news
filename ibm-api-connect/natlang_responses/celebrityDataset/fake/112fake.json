@@ -1,0 +1,167 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Leah Remini",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998059,
+      "emotion": {
+        "sadness": 0.048335,
+        "joy": 0.714955,
+        "fear": 0.024321,
+        "disgust": 0.034153,
+        "anger": 0.035164
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.048335,
+        "joy": 0.714955,
+        "fear": 0.024321,
+        "disgust": 0.034153,
+        "anger": 0.035164
+      },
+      "count": 1
+    },
+    {
+      "text": "Friendship",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.660062,
+      "emotion": {
+        "sadness": 0.048335,
+        "joy": 0.714955,
+        "fear": 0.024321,
+        "disgust": 0.034153,
+        "anger": 0.035164
+      },
+      "count": 1
+    },
+    {
+      "text": "Scientology Connection",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.132856,
+      "emotion": {
+        "sadness": 0.048335,
+        "joy": 0.714955,
+        "fear": 0.024321,
+        "disgust": 0.034153,
+        "anger": 0.035164
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            47,
+            61
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.048335,
+        "joy": 0.714955,
+        "fear": 0.024321,
+        "disgust": 0.034153,
+        "anger": 0.035164
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Leah Remini",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Leah Remini",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.048335,
+        "joy": 0.714955,
+        "fear": 0.024321,
+        "disgust": 0.034153,
+        "anger": 0.035164
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Leah Remini",
+        "dbpedia_resource": "http://dbpedia.org/resource/Leah_Remini"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.686051,
+      "label": "/religion and spirituality/alternative religions"
+    }
+  ]
+}

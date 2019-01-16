@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.187015,
+        "joy": 0.128522,
+        "fear": 0.059967,
+        "disgust": 0.32336,
+        "anger": 0.112778
+      },
+      "count": 1
+    },
+    {
+      "text": "Ralph Lauren",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.986402,
+      "emotion": {
+        "sadness": 0.187015,
+        "joy": 0.128522,
+        "fear": 0.059967,
+        "disgust": 0.32336,
+        "anger": 0.112778
+      },
+      "count": 1
+    },
+    {
+      "text": "husband's inauguration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.035341,
+      "emotion": {
+        "sadness": 0.187015,
+        "joy": 0.128522,
+        "fear": 0.059967,
+        "disgust": 0.32336,
+        "anger": 0.112778
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ralph Lauren",
+      "sentiment": {
+        "score": 0.546083,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ralph Lauren",
+          "location": [
+            25,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187015,
+        "joy": 0.128522,
+        "fear": 0.059967,
+        "disgust": 0.32336,
+        "anger": 0.112778
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "Collector",
+          "CompanyShareholder",
+          "FashionDesigner",
+          "MilitaryPerson"
+        ],
+        "name": "Ralph Lauren",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ralph_Lauren"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": 0.546083,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Melania Trump",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187015,
+        "joy": 0.128522,
+        "fear": 0.059967,
+        "disgust": 0.32336,
+        "anger": 0.112778
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Model"
+        ],
+        "name": "Melania Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "People from New York City",
+      "relevance": 0.941039,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_from_New_York_City"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.6548,
+      "label": "/style and fashion"
+    }
+  ]
+}

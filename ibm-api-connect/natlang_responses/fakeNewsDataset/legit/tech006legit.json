@@ -1,0 +1,300 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 702,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.427408,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Michael Malin",
+      "sentiment": {
+        "score": 0.88475,
+        "label": "positive"
+      },
+      "relevance": 0.799838,
+      "emotion": {
+        "sadness": 0.103685,
+        "joy": 0.667782,
+        "fear": 0.050572,
+        "disgust": 0.088171,
+        "anger": 0.024303
+      },
+      "count": 1
+    },
+    {
+      "text": "groundbreaking discovery",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.749764,
+      "emotion": {
+        "sadness": 0.139857,
+        "joy": 0.730201,
+        "fear": 0.033915,
+        "disgust": 0.078921,
+        "anger": 0.032373
+      },
+      "count": 1
+    },
+    {
+      "text": "NASA Finds Water",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.6947,
+      "emotion": {
+        "sadness": 0.165813,
+        "joy": 0.280898,
+        "fear": 0.111633,
+        "disgust": 0.180028,
+        "anger": 0.095588
+      },
+      "count": 1
+    },
+    {
+      "text": "principal investigator",
+      "sentiment": {
+        "score": 0.88475,
+        "label": "positive"
+      },
+      "relevance": 0.672587,
+      "emotion": {
+        "sadness": 0.103685,
+        "joy": 0.667782,
+        "fear": 0.050572,
+        "disgust": 0.088171,
+        "anger": 0.024303
+      },
+      "count": 1
+    },
+    {
+      "text": "strong evidence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.635701,
+      "emotion": {
+        "sadness": 0.139857,
+        "joy": 0.730201,
+        "fear": 0.033915,
+        "disgust": 0.078921,
+        "anger": 0.032373
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michael Malin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.94858,
+      "mentions": [
+        {
+          "text": "Michael Malin",
+          "location": [
+            389,
+            402
+          ]
+        },
+        {
+          "text": "Malin",
+          "location": [
+            539,
+            544
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.362266,
+        "joy": 0.44679,
+        "fear": 0.133167,
+        "disgust": 0.03659,
+        "anger": 0.091086
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "Michael C. Malin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_C._Malin"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Malin Space Science Systems",
+      "sentiment": {
+        "score": -0.272039,
+        "label": "negative"
+      },
+      "relevance": 0.905212,
+      "mentions": [
+        {
+          "text": "Malin Space Science Systems",
+          "location": [
+            497,
+            524
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.154428,
+        "joy": 0.526291,
+        "fear": 0.064397,
+        "disgust": 0.039694,
+        "anger": 0.022275
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Malin Space Science Systems",
+        "dbpedia_resource": "http://dbpedia.org/resource/Malin_Space_Science_Systems"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Mars Global Surveyer",
+      "sentiment": {
+        "score": -0.272039,
+        "label": "negative"
+      },
+      "relevance": 0.726148,
+      "mentions": [
+        {
+          "text": "Mars Global Surveyer",
+          "location": [
+            462,
+            482
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.154428,
+        "joy": 0.526291,
+        "fear": 0.064397,
+        "disgust": 0.039694,
+        "anger": 0.022275
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "NASA",
+      "sentiment": {
+        "score": -0.368685,
+        "label": "negative"
+      },
+      "relevance": 0.645221,
+      "mentions": [
+        {
+          "text": "NASA",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "NASA",
+          "location": [
+            56,
+            60
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147827,
+        "joy": 0.650895,
+        "fear": 0.060636,
+        "disgust": 0.127228,
+        "anger": 0.051429
+      },
+      "disambiguation": {
+        "subtype": [
+          "Company",
+          "GovernmentAgency",
+          "AirportOperator",
+          "AwardPresentingOrganization",
+          "SoftwareDeveloper",
+          "SpaceAgency",
+          "SpacecraftManufacturer"
+        ],
+        "name": "NASA",
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "principal investigator",
+      "sentiment": {
+        "score": -0.272039,
+        "label": "negative"
+      },
+      "relevance": 0.426637,
+      "mentions": [
+        {
+          "text": "principal investigator",
+          "location": [
+            404,
+            426
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.154428,
+        "joy": 0.526291,
+        "fear": 0.064397,
+        "disgust": 0.039694,
+        "anger": 0.022275
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mars Global Surveyor",
+      "relevance": 0.944788,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mars_Global_Surveyor"
+    },
+    {
+      "text": "Mars",
+      "relevance": 0.864875,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mars"
+    },
+    {
+      "text": "Mars Reconnaissance Orbiter",
+      "relevance": 0.834452,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mars_Reconnaissance_Orbiter"
+    },
+    {
+      "text": "Malin Space Science Systems",
+      "relevance": 0.832582,
+      "dbpedia_resource": "http://dbpedia.org/resource/Malin_Space_Science_Systems"
+    },
+    {
+      "text": "Mars Science Laboratory",
+      "relevance": 0.740374,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mars_Science_Laboratory"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.822427,
+      "label": "/science/physics/space and astronomy"
+    }
+  ]
+}

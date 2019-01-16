@@ -1,0 +1,380 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 930,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.793016,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": -0.739565,
+        "label": "negative"
+      },
+      "relevance": 0.945555,
+      "emotion": {
+        "sadness": 0.131956,
+        "joy": 0.277908,
+        "fear": 0.108593,
+        "disgust": 0.218042,
+        "anger": 0.368149
+      },
+      "count": 1
+    },
+    {
+      "text": "comer Frances Tiafore",
+      "sentiment": {
+        "score": -0.739565,
+        "label": "negative"
+      },
+      "relevance": 0.790904,
+      "emotion": {
+        "sadness": 0.244105,
+        "joy": 0.355655,
+        "fear": 0.104611,
+        "disgust": 0.155472,
+        "anger": 0.266768
+      },
+      "count": 1
+    },
+    {
+      "text": "windy conditions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.652326,
+      "emotion": {
+        "sadness": 0.342216,
+        "joy": 0.223109,
+        "fear": 0.096438,
+        "disgust": 0.131177,
+        "anger": 0.243524
+      },
+      "count": 1
+    },
+    {
+      "text": "American teenager",
+      "sentiment": {
+        "score": -0.739565,
+        "label": "negative"
+      },
+      "relevance": 0.643839,
+      "emotion": {
+        "sadness": 0.244105,
+        "joy": 0.355655,
+        "fear": 0.104611,
+        "disgust": 0.155472,
+        "anger": 0.266768
+      },
+      "count": 1
+    },
+    {
+      "text": "Open tennis match",
+      "sentiment": {
+        "score": -0.739565,
+        "label": "negative"
+      },
+      "relevance": 0.629619,
+      "emotion": {
+        "sadness": 0.244105,
+        "joy": 0.355655,
+        "fear": 0.104611,
+        "disgust": 0.155472,
+        "anger": 0.266768
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": -0.298553,
+        "label": "negative"
+      },
+      "relevance": 0.92688,
+      "mentions": [
+        {
+          "text": "Roger Federer",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Roger Federer",
+          "location": [
+            137,
+            150
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            350,
+            357
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            416,
+            423
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            586,
+            593
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            654,
+            661
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            684,
+            691
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            701,
+            708
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.238133,
+        "joy": 0.153234,
+        "fear": 0.133947,
+        "disgust": 0.182558,
+        "anger": 0.63955
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Roger Federer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Frances Tiafore",
+      "sentiment": {
+        "score": -0.298553,
+        "label": "negative"
+      },
+      "relevance": 0.250663,
+      "mentions": [
+        {
+          "text": "Frances Tiafore",
+          "location": [
+            197,
+            212
+          ]
+        },
+        {
+          "text": "Tiafore",
+          "location": [
+            400,
+            407
+          ]
+        },
+        {
+          "text": "Tiafore",
+          "location": [
+            521,
+            528
+          ]
+        },
+        {
+          "text": "Tiafore",
+          "location": [
+            608,
+            615
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112918,
+        "joy": 0.095846,
+        "fear": 0.086577,
+        "disgust": 0.164848,
+        "anger": 0.755423
+      },
+      "count": 4
+    },
+    {
+      "type": "Sport",
+      "text": "tennis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.221148,
+      "mentions": [
+        {
+          "text": "tennis",
+          "location": [
+            124,
+            130
+          ]
+        },
+        {
+          "text": "tennis",
+          "location": [
+            177,
+            183
+          ]
+        },
+        {
+          "text": "tennis",
+          "location": [
+            236,
+            242
+          ]
+        },
+        {
+          "text": "tennis",
+          "location": [
+            441,
+            447
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168148,
+        "joy": 0.473895,
+        "fear": 0.050538,
+        "disgust": 0.111589,
+        "anger": 0.307163
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Tennis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tennis"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Miami",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.140298,
+      "mentions": [
+        {
+          "text": "Miami",
+          "location": [
+            55,
+            60
+          ]
+        },
+        {
+          "text": "Miami",
+          "location": [
+            225,
+            230
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168914,
+        "joy": 0.292307,
+        "fear": 0.1657,
+        "disgust": 0.16976,
+        "anger": 0.355318
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Frances Tiafoe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.130969,
+      "mentions": [
+        {
+          "text": "Frances Tiafoe",
+          "location": [
+            34,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.08995,
+        "joy": 0.120152,
+        "fear": 0.248095,
+        "disgust": 0.142073,
+        "anger": 0.272168
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Grand Slam",
+      "relevance": 0.966215,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grand_Slam_(tennis)"
+    },
+    {
+      "text": "Australian Open",
+      "relevance": 0.896759,
+      "dbpedia_resource": "http://dbpedia.org/resource/Australian_Open"
+    },
+    {
+      "text": "Andre Agassi",
+      "relevance": 0.876692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andre_Agassi"
+    },
+    {
+      "text": "The Championships, Wimbledon",
+      "relevance": 0.857911,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Championships,_Wimbledon"
+    },
+    {
+      "text": "Tennis",
+      "relevance": 0.817324,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tennis"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999959,
+      "label": "/sports/tennis"
+    }
+  ]
+}

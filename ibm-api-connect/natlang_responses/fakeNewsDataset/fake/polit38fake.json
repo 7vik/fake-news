@@ -1,0 +1,376 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1102,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.640241,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "age of Obama",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.838902,
+      "emotion": {
+        "sadness": 0.162151,
+        "joy": 0.6522,
+        "fear": 0.143819,
+        "disgust": 0.038242,
+        "anger": 0.021441
+      },
+      "count": 1
+    },
+    {
+      "text": "former president Obama",
+      "sentiment": {
+        "score": -0.73285,
+        "label": "negative"
+      },
+      "relevance": 0.683725,
+      "emotion": {
+        "sadness": 0.328153,
+        "joy": 0.505333,
+        "fear": 0.022785,
+        "disgust": 0.038083,
+        "anger": 0.118507
+      },
+      "count": 1
+    },
+    {
+      "text": "original tabloid president",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.677,
+      "emotion": {
+        "sadness": 0.454071,
+        "joy": 0.241964,
+        "fear": 0.170823,
+        "disgust": 0.127046,
+        "anger": 0.097588
+      },
+      "count": 1
+    },
+    {
+      "text": "Ivanka trump",
+      "sentiment": {
+        "score": -0.870016,
+        "label": "negative"
+      },
+      "relevance": 0.648191,
+      "emotion": {
+        "sadness": 0.314054,
+        "joy": 0.344834,
+        "fear": 0.122329,
+        "disgust": 0.211085,
+        "anger": 0.128468
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington Post",
+      "sentiment": {
+        "score": -0.88111,
+        "label": "negative"
+      },
+      "relevance": 0.639572,
+      "emotion": {
+        "sadness": 0.155879,
+        "joy": 0.248335,
+        "fear": 0.403226,
+        "disgust": 0.15232,
+        "anger": 0.100832
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Obama",
+      "sentiment": {
+        "score": -0.437144,
+        "label": "negative"
+      },
+      "relevance": 0.948954,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            10,
+            15
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            51,
+            56
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            106,
+            108
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            438,
+            443
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            495,
+            497
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            638,
+            643
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            688,
+            693
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            802,
+            807
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.243885,
+        "joy": 0.537362,
+        "fear": 0.13212,
+        "disgust": 0.199787,
+        "anger": 0.147044
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Ivanka trump",
+      "sentiment": {
+        "score": 0.621514,
+        "label": "positive"
+      },
+      "relevance": 0.493135,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            17,
+            22
+          ]
+        },
+        {
+          "text": "the new tabloid darling",
+          "location": [
+            26,
+            49
+          ]
+        },
+        {
+          "text": "Ivanka trump",
+          "location": [
+            832,
+            844
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165604,
+        "joy": 0.689923,
+        "fear": 0.093776,
+        "disgust": 0.051125,
+        "anger": 0.037793
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Ivanka Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": -0.316121,
+        "label": "negative"
+      },
+      "relevance": 0.377247,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            85,
+            94
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            428,
+            437
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            792,
+            801
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.350584,
+        "joy": 0.458748,
+        "fear": 0.025138,
+        "disgust": 0.056737,
+        "anger": 0.119825
+      },
+      "count": 3
+    },
+    {
+      "type": "Facility",
+      "text": "Baskin Robbins Ice Cream Parlor",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.288037,
+      "mentions": [
+        {
+          "text": "Baskin Robbins Ice Cream Parlor",
+          "location": [
+            924,
+            955
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.314054,
+        "joy": 0.344834,
+        "fear": 0.122329,
+        "disgust": 0.211085,
+        "anger": 0.128468
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Washington Post",
+      "sentiment": {
+        "score": -0.641201,
+        "label": "negative"
+      },
+      "relevance": 0.263697,
+      "mentions": [
+        {
+          "text": "Washington Post",
+          "location": [
+            606,
+            621
+          ]
+        },
+        {
+          "text": "Washington Post",
+          "location": [
+            669,
+            684
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.161529,
+        "joy": 0.261028,
+        "fear": 0.398648,
+        "disgust": 0.15484,
+        "anger": 0.115501
+      },
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ],
+        "name": "The Washington Post",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George W. Bush",
+      "relevance": 0.970694,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Ronald Reagan",
+      "relevance": 0.700619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+      "text": "Ivanka Trump",
+      "relevance": 0.672203,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+    },
+    {
+      "text": "Ice cream",
+      "relevance": 0.60757,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ice_cream"
+    },
+    {
+      "text": "Baskin-Robbins",
+      "relevance": 0.593083,
+      "dbpedia_resource": "http://dbpedia.org/resource/Baskin-Robbins"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.747412,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

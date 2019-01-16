@@ -1,0 +1,248 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 986,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.561694,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": -0.904129,
+        "label": "negative"
+      },
+      "relevance": 0.790517,
+      "emotion": {
+        "sadness": 0.601349,
+        "joy": 0.104608,
+        "fear": 0.101695,
+        "disgust": 0.086598,
+        "anger": 0.302975
+      },
+      "count": 1
+    },
+    {
+      "text": "European Commission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.741771,
+      "emotion": {
+        "sadness": 0.219412,
+        "joy": 0.284273,
+        "fear": 0.09182,
+        "disgust": 0.079044,
+        "anger": 0.330025
+      },
+      "count": 2
+    },
+    {
+      "text": "EU approval",
+      "sentiment": {
+        "score": -0.700822,
+        "label": "negative"
+      },
+      "relevance": 0.735032,
+      "emotion": {
+        "sadness": 0.325727,
+        "joy": 0.087456,
+        "fear": 0.088288,
+        "disgust": 0.082413,
+        "anger": 0.367323
+      },
+      "count": 1
+    },
+    {
+      "text": "financial markets firm",
+      "sentiment": {
+        "score": -0.700822,
+        "label": "negative"
+      },
+      "relevance": 0.64369,
+      "emotion": {
+        "sadness": 0.664427,
+        "joy": 0.094226,
+        "fear": 0.114877,
+        "disgust": 0.072647,
+        "anger": 0.220812
+      },
+      "count": 1
+    },
+    {
+      "text": "German stock exchange Deutsche Boerse",
+      "sentiment": {
+        "score": -0.904129,
+        "label": "negative"
+      },
+      "relevance": 0.627322,
+      "emotion": {
+        "sadness": 0.433634,
+        "joy": 0.119834,
+        "fear": 0.110877,
+        "disgust": 0.08261,
+        "anger": 0.147574
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.78381,
+      "mentions": [
+        {
+          "text": "London Stock Exchange",
+          "location": [
+            84,
+            105
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Facility",
+          "TouristAttraction"
+        ],
+        "name": "London Stock Exchange",
+        "dbpedia_resource": "http://dbpedia.org/resource/London_Stock_Exchange"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "London Stock Exchange Group",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.739578,
+      "mentions": [
+        {
+          "text": "London Stock Exchange Group",
+          "location": [
+            354,
+            381
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.400898,
+        "joy": 0.233702,
+        "fear": 0.064611,
+        "disgust": 0.062206,
+        "anger": 0.109451
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "London Stock Exchange Group",
+        "dbpedia_resource": "http://dbpedia.org/resource/London_Stock_Exchange_Group"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "EU",
+      "sentiment": {
+        "score": -0.515018,
+        "label": "negative"
+      },
+      "relevance": 0.699104,
+      "mentions": [
+        {
+          "text": "EU",
+          "location": [
+            54,
+            56
+          ]
+        },
+        {
+          "text": "EU",
+          "location": [
+            57,
+            59
+          ]
+        },
+        {
+          "text": "EU",
+          "location": [
+            559,
+            561
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.503284,
+        "joy": 0.08132,
+        "fear": 0.141805,
+        "disgust": 0.068655,
+        "anger": 0.347553
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "European Union",
+      "relevance": 0.971168,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "Stock exchange",
+      "relevance": 0.896415,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock_exchange"
+    },
+    {
+      "text": "German language",
+      "relevance": 0.641876,
+      "dbpedia_resource": "http://dbpedia.org/resource/German_language"
+    },
+    {
+      "text": "European Commission",
+      "relevance": 0.58911,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Commission"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.582374,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.926101,
+      "label": "/finance/investing/day trading"
+    }
+  ]
+}

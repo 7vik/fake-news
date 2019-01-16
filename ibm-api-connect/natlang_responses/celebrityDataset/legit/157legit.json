@@ -1,0 +1,392 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1357,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.331494,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lawrence recalls time",
+      "sentiment": {
+        "score": -0.323427,
+        "label": "negative"
+      },
+      "relevance": 0.869731,
+      "emotion": {
+        "sadness": 0.336848,
+        "joy": 0.049395,
+        "fear": 0.209177,
+        "disgust": 0.424581,
+        "anger": 0.166054
+      },
+      "count": 1
+    },
+    {
+      "text": "reality star\u2019s mom",
+      "sentiment": {
+        "score": -0.323427,
+        "label": "negative"
+      },
+      "relevance": 0.729524,
+      "emotion": {
+        "sadness": 0.190748,
+        "joy": 0.749308,
+        "fear": 0.012298,
+        "disgust": 0.009293,
+        "anger": 0.046401
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": -0.323427,
+        "label": "negative"
+      },
+      "relevance": 0.697031,
+      "emotion": {
+        "sadness": 0.190748,
+        "joy": 0.749308,
+        "fear": 0.012298,
+        "disgust": 0.009293,
+        "anger": 0.046401
+      },
+      "count": 1
+    },
+    {
+      "text": "Jimmy Kimmel Live",
+      "sentiment": {
+        "score": -0.323427,
+        "label": "negative"
+      },
+      "relevance": 0.671389,
+      "emotion": {
+        "sadness": 0.190748,
+        "joy": 0.749308,
+        "fear": 0.012298,
+        "disgust": 0.009293,
+        "anger": 0.046401
+      },
+      "count": 1
+    },
+    {
+      "text": "Lawrence\u2019s guest",
+      "sentiment": {
+        "score": -0.323427,
+        "label": "negative"
+      },
+      "relevance": 0.670474,
+      "emotion": {
+        "sadness": 0.190748,
+        "joy": 0.749308,
+        "fear": 0.012298,
+        "disgust": 0.009293,
+        "anger": 0.046401
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": 0.354473,
+        "label": "positive"
+      },
+      "relevance": 0.738415,
+      "mentions": [
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            31,
+            34
+          ]
+        },
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            81,
+            98
+          ]
+        },
+        {
+          "text": "Lawrence",
+          "location": [
+            305,
+            313
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            367,
+            370
+          ]
+        },
+        {
+          "text": "Lawrence",
+          "location": [
+            531,
+            539
+          ]
+        },
+        {
+          "text": "Lawrence",
+          "location": [
+            934,
+            942
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244091,
+        "joy": 0.566793,
+        "fear": 0.149316,
+        "disgust": 0.13883,
+        "anger": 0.161538
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor"
+        ],
+        "name": "Jennifer Lawrence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lawrence"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": -0.199244,
+        "label": "negative"
+      },
+      "relevance": 0.545054,
+      "mentions": [
+        {
+          "text": "Kim Kardashian West",
+          "location": [
+            189,
+            208
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            293,
+            303
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            608,
+            618
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            643,
+            653
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            724,
+            734
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            874,
+            884
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1055,
+            1065
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.322238,
+        "joy": 0.439262,
+        "fear": 0.083484,
+        "disgust": 0.13214,
+        "anger": 0.153728
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.58638,
+        "label": "positive"
+      },
+      "relevance": 0.468426,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            50,
+            61
+          ]
+        },
+        {
+          "text": "Kris Jenner",
+          "location": [
+            411,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.307879,
+        "joy": 0.067948,
+        "fear": 0.184822,
+        "disgust": 0.392226,
+        "anger": 0.167975
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jimmy Kimmel",
+      "sentiment": {
+        "score": 0.747114,
+        "label": "positive"
+      },
+      "relevance": 0.435841,
+      "mentions": [
+        {
+          "text": "Jimmy Kimmel",
+          "location": [
+            126,
+            138
+          ]
+        },
+        {
+          "text": "Jimmy Kimmel",
+          "location": [
+            343,
+            355
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.198573,
+        "joy": 0.593446,
+        "fear": 0.031516,
+        "disgust": 0.029721,
+        "anger": 0.138661
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner",
+          "Celebrity",
+          "Comedian",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist",
+          "FilmActor",
+          "FilmWriter",
+          "VideoGameActor"
+        ],
+        "name": "Jimmy Kimmel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jimmy_Kimmel"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Javier Bardem",
+      "sentiment": {
+        "score": -0.351487,
+        "label": "negative"
+      },
+      "relevance": 0.367175,
+      "emotion": {
+        "sadness": 0.270288,
+        "joy": 0.528593,
+        "fear": 0.022922,
+        "disgust": 0.15785,
+        "anger": 0.10068
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Javier Bardem",
+        "dbpedia_resource": "http://dbpedia.org/resource/Javier_Bardem"
+      },
+      "count": 4
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.95857,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.929675,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.729612,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.694588,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.680895,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.618717,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.57965,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "EXCLUSIVE PICS",
+      "sentiment": {
+        "score": 0.57965,
+        "label": "positive"
+      },
+      "relevance": 0.984228,
+      "emotion": {
+        "sadness": 0.214531,
+        "joy": 0.300844,
+        "fear": 0.16922,
+        "disgust": 0.205737,
+        "anger": 0.224945
+      },
+      "count": 1
+    },
+    {
+      "text": "First photos of Ariana Grande",
+      "sentiment": {
+        "score": 0.57965,
+        "label": "positive"
+      },
+      "relevance": 0.462881,
+      "emotion": {
+        "sadness": 0.214531,
+        "joy": 0.300844,
+        "fear": 0.16922,
+        "disgust": 0.205737,
+        "anger": 0.224945
+      },
+      "count": 1
+    },
+    {
+      "text": "Manchester attack",
+      "sentiment": {
+        "score": 0.57965,
+        "label": "positive"
+      },
+      "relevance": 0.018255,
+      "emotion": {
+        "sadness": 0.214531,
+        "joy": 0.300844,
+        "fear": 0.16922,
+        "disgust": 0.205737,
+        "anger": 0.224945
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ariana Grande",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ariana Grande",
+          "location": [
+            32,
+            45
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.276753,
+        "joy": 0.221001,
+        "fear": 0.273119,
+        "disgust": 0.184525,
+        "anger": 0.181523
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ariana Grande",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ariana_Grande"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Manchester",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Manchester",
+          "location": [
+            52,
+            62
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.276753,
+        "joy": 0.221001,
+        "fear": 0.273119,
+        "disgust": 0.184525,
+        "anger": 0.181523
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.559367,
+      "label": "/technology and computing/tech news"
+    }
+  ]
+}

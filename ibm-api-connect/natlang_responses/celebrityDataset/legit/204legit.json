@@ -1,0 +1,78 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.906652,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cher",
+      "sentiment": {
+        "score": 0.906652,
+        "label": "positive"
+      },
+      "relevance": 0.899735,
+      "emotion": {
+        "sadness": 0.163906,
+        "joy": 0.537565,
+        "fear": 0.064285,
+        "disgust": 0.203191,
+        "anger": 0.102677
+      },
+      "count": 1
+    },
+    {
+      "text": "Unbelievably Fit",
+      "sentiment": {
+        "score": 0.906652,
+        "label": "positive"
+      },
+      "relevance": 0.801091,
+      "emotion": {
+        "sadness": 0.163906,
+        "joy": 0.537565,
+        "fear": 0.064285,
+        "disgust": 0.203191,
+        "anger": 0.102677
+      },
+      "count": 1
+    },
+    {
+      "text": "Day",
+      "sentiment": {
+        "score": 0.906652,
+        "label": "positive"
+      },
+      "relevance": 0.704642,
+      "emotion": {
+        "sadness": 0.163906,
+        "joy": 0.537565,
+        "fear": 0.064285,
+        "disgust": 0.203191,
+        "anger": 0.102677
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "David Bowie",
+      "relevance": 0.840417,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Bowie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.57203,
+      "label": "/food and drink"
+    }
+  ]
+}

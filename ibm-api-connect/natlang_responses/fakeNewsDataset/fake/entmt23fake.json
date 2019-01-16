@@ -1,0 +1,354 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 919,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.34608,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Michelle Pfeiffer",
+      "sentiment": {
+        "score": 0.391429,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.878276,
+      "emotion": {
+        "sadness": 0.210642,
+        "joy": 0.726877,
+        "fear": 0.002818,
+        "disgust": 0.042168,
+        "anger": 0.035936
+      },
+      "count": 4
+    },
+    {
+      "text": "lots of free time nowadays",
+      "sentiment": {
+        "score": 0.520554,
+        "label": "positive"
+      },
+      "relevance": 0.683446,
+      "emotion": {
+        "sadness": 0.038755,
+        "joy": 0.89707,
+        "fear": 0.005566,
+        "disgust": 0.019202,
+        "anger": 0.031864
+      },
+      "count": 1
+    },
+    {
+      "text": "rest of my years",
+      "sentiment": {
+        "score": 0.759256,
+        "label": "positive"
+      },
+      "relevance": 0.657542,
+      "emotion": {
+        "sadness": 0.290676,
+        "joy": 0.682253,
+        "fear": 0.006151,
+        "disgust": 0.01191,
+        "anger": 0.019813
+      },
+      "count": 1
+    },
+    {
+      "text": "Pfeiffer's Hollywood career",
+      "sentiment": {
+        "score": -0.956869,
+        "label": "negative"
+      },
+      "relevance": 0.58975,
+      "emotion": {
+        "sadness": 0.271711,
+        "joy": 0.531474,
+        "fear": 0.037111,
+        "disgust": 0.11821,
+        "anger": 0.068596
+      },
+      "count": 1
+    },
+    {
+      "text": "Darren Aronofsky",
+      "sentiment": {
+        "score": -0.956869,
+        "label": "negative"
+      },
+      "relevance": 0.589195,
+      "emotion": {
+        "sadness": 0.271711,
+        "joy": 0.531474,
+        "fear": 0.037111,
+        "disgust": 0.11821,
+        "anger": 0.068596
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michelle Pfeiffer",
+      "sentiment": {
+        "score": 0.128679,
+        "label": "positive"
+      },
+      "relevance": 0.932177,
+      "mentions": [
+        {
+          "text": "Michelle Pfeiffer",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "Michelle Pfeiffer",
+          "location": [
+            100,
+            117
+          ]
+        },
+        {
+          "text": "Pfeiffer",
+          "location": [
+            236,
+            244
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            289,
+            292
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            311,
+            314
+          ]
+        },
+        {
+          "text": "Michelle Pfeiffer",
+          "location": [
+            652,
+            669
+          ]
+        },
+        {
+          "text": "Michelle Pfeiffer",
+          "location": [
+            761,
+            778
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            824,
+            827
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            837,
+            840
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.540862,
+        "joy": 0.584766,
+        "fear": 0.074299,
+        "disgust": 0.165418,
+        "anger": 0.110244
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Michelle Pfeiffer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Pfeiffer"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Claudia Rose Pfeiffer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306774,
+      "mentions": [
+        {
+          "text": "Claudia Rose Pfeiffer",
+          "location": [
+            684,
+            705
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.164674,
+        "joy": 0.114236,
+        "fear": 0.098872,
+        "disgust": 0.485831,
+        "anger": 0.234284
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Darren Aronofsky",
+      "sentiment": {
+        "score": -0.309776,
+        "label": "negative"
+      },
+      "relevance": 0.1445,
+      "mentions": [
+        {
+          "text": "Darren Aronofsky",
+          "location": [
+            187,
+            203
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.053503,
+        "joy": 0.435997,
+        "fear": 0.061235,
+        "disgust": 0.173845,
+        "anger": 0.054628
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Darren Aronofsky",
+        "dbpedia_resource": "http://dbpedia.org/resource/Darren_Aronofsky"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "John Henry Kelley",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.130014,
+      "mentions": [
+        {
+          "text": "John Henry Kelley",
+          "location": [
+            725,
+            742
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.281271,
+        "joy": 0.212482,
+        "fear": 0.179775,
+        "disgust": 0.208805,
+        "anger": 0.091375
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Harry Kelley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Harry_Kelley"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": -0.309776,
+        "label": "negative"
+      },
+      "relevance": 0.098667,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            247,
+            256
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.053503,
+        "joy": 0.435997,
+        "fear": 0.061235,
+        "disgust": 0.173845,
+        "anger": 0.054628
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.975395,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Michelle Pfeiffer",
+      "relevance": 0.7866,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Pfeiffer"
+    },
+    {
+      "text": "Darren Aronofsky",
+      "relevance": 0.757269,
+      "dbpedia_resource": "http://dbpedia.org/resource/Darren_Aronofsky"
+    },
+    {
+      "text": "Lost",
+      "relevance": 0.709637,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lost_(TV_series)"
+    },
+    {
+      "text": "Cher",
+      "relevance": 0.685727,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cher"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.870092,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

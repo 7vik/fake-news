@@ -1,0 +1,343 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 615,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.411573,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ellen Show Wednesday",
+      "sentiment": {
+        "score": -0.858467,
+        "label": "negative"
+      },
+      "relevance": 0.934205,
+      "emotion": {
+        "sadness": 0.248674,
+        "joy": 0.630799,
+        "fear": 0.007403,
+        "disgust": 0.050795,
+        "anger": 0.084805
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian Says Kanye West",
+      "sentiment": {
+        "score": -0.858467,
+        "label": "negative"
+      },
+      "relevance": 0.876715,
+      "emotion": {
+        "sadness": 0.209788,
+        "joy": 0.121801,
+        "fear": 0.241362,
+        "disgust": 0.228931,
+        "anger": 0.420631
+      },
+      "count": 1
+    },
+    {
+      "text": "MTV Video Music Awards",
+      "sentiment": {
+        "score": -0.858467,
+        "label": "negative"
+      },
+      "relevance": 0.665272,
+      "emotion": {
+        "sadness": 0.248674,
+        "joy": 0.630799,
+        "fear": 0.007403,
+        "disgust": 0.050795,
+        "anger": 0.084805
+      },
+      "count": 1
+    },
+    {
+      "text": "host Ellen DeGeneres",
+      "sentiment": {
+        "score": -0.858467,
+        "label": "negative"
+      },
+      "relevance": 0.662871,
+      "emotion": {
+        "sadness": 0.248674,
+        "joy": 0.630799,
+        "fear": 0.007403,
+        "disgust": 0.050795,
+        "anger": 0.084805
+      },
+      "count": 1
+    },
+    {
+      "text": "recording artist",
+      "sentiment": {
+        "score": 0.488862,
+        "label": "positive"
+      },
+      "relevance": 0.63483,
+      "emotion": {
+        "sadness": 0.043601,
+        "joy": 0.783963,
+        "fear": 0.030269,
+        "disgust": 0.097742,
+        "anger": 0.073202
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": 0.116322,
+        "label": "positive"
+      },
+      "relevance": 0.930618,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            20,
+            30
+          ]
+        },
+        {
+          "text": "Kim Kardashian West",
+          "location": [
+            122,
+            141
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            193,
+            203
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.382494,
+        "joy": 0.349214,
+        "fear": 0.029216,
+        "disgust": 0.1288,
+        "anger": 0.211538
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.586367,
+        "label": "positive"
+      },
+      "relevance": 0.880616,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            152,
+            167
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            422,
+            427
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            516,
+            519
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217989,
+        "joy": 0.668141,
+        "fear": 0.00389,
+        "disgust": 0.058398,
+        "anger": 0.081623
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.060846,
+        "label": "positive"
+      },
+      "relevance": 0.626669,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "he'll",
+          "location": [
+            495,
+            500
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12518,
+        "joy": 0.36212,
+        "fear": 0.259396,
+        "disgust": 0.067636,
+        "anger": 0.266276
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.483719,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            62,
+            71
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            322,
+            331
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.108294,
+        "joy": 0.594621,
+        "fear": 0.042002,
+        "disgust": 0.097275,
+        "anger": 0.155882
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "MTV",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.344917,
+      "mentions": [
+        {
+          "text": "MTV",
+          "location": [
+            274,
+            277
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.043601,
+        "joy": 0.783963,
+        "fear": 0.030269,
+        "disgust": 0.097742,
+        "anger": 0.073202
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "BroadcastContent",
+          "AwardPresentingOrganization",
+          "ProductionCompany",
+          "TVNetwork",
+          "AwardWinner",
+          "TVProducer"
+        ],
+        "name": "MTV",
+        "dbpedia_resource": "http://dbpedia.org/resource/MTV"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.980855,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.962279,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.861017,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.78936,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.649341,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

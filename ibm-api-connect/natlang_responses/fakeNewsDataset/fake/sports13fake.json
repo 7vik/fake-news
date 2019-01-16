@@ -1,0 +1,280 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 685,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.436978,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "field research",
+      "sentiment": {
+        "score": -0.726532,
+        "label": "negative"
+      },
+      "relevance": 0.67966,
+      "emotion": {
+        "sadness": 0.325435,
+        "joy": 0.304951,
+        "fear": 0.199317,
+        "disgust": 0.045055,
+        "anger": 0.206946
+      },
+      "count": 1
+    },
+    {
+      "text": "energy drinks",
+      "sentiment": {
+        "score": 0.619362,
+        "label": "positive"
+      },
+      "relevance": 0.655528,
+      "emotion": {
+        "sadness": 0.033569,
+        "joy": 0.557368,
+        "fear": 0.147011,
+        "disgust": 0.190548,
+        "anger": 0.109308
+      },
+      "count": 1
+    },
+    {
+      "text": "Barry Fudge",
+      "sentiment": {
+        "score": -0.726532,
+        "label": "negative"
+      },
+      "relevance": 0.631005,
+      "emotion": {
+        "sadness": 0.325435,
+        "joy": 0.304951,
+        "fear": 0.199317,
+        "disgust": 0.045055,
+        "anger": 0.206946
+      },
+      "count": 1
+    },
+    {
+      "text": "Dr. Robin Chakraverty",
+      "sentiment": {
+        "score": -0.700151,
+        "label": "negative"
+      },
+      "relevance": 0.612769,
+      "emotion": {
+        "sadness": 0.051502,
+        "joy": 0.420267,
+        "fear": 0.162166,
+        "disgust": 0.292338,
+        "anger": 0.150262
+      },
+      "count": 1
+    },
+    {
+      "text": "consumer behavior",
+      "sentiment": {
+        "score": -0.726532,
+        "label": "negative"
+      },
+      "relevance": 0.612199,
+      "emotion": {
+        "sadness": 0.325435,
+        "joy": 0.304951,
+        "fear": 0.199317,
+        "disgust": 0.045055,
+        "anger": 0.206946
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Alberto Salazar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.767515,
+      "mentions": [
+        {
+          "text": "Alberto Salazar",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.042539,
+        "joy": 0.445392,
+        "fear": 0.031365,
+        "disgust": 0.222227,
+        "anger": 0.028254
+      },
+      "disambiguation": {
+        "subtype": [
+          "OlympicAthlete"
+        ],
+        "name": "Alberto Salazar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alberto_Salazar"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mo Farah",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.680695,
+      "mentions": [
+        {
+          "text": "Mo Farah",
+          "location": [
+            135,
+            143
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130912,
+        "joy": 0.291369,
+        "fear": 0.160121,
+        "disgust": 0.033788,
+        "anger": 0.178237
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Mo Farah",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mo_Farah"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr. Robin Chakraverty",
+      "sentiment": {
+        "score": -0.688366,
+        "label": "negative"
+      },
+      "relevance": 0.629055,
+      "mentions": [
+        {
+          "text": "Dr. Robin Chakraverty",
+          "location": [
+            400,
+            421
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            534,
+            536
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.03916,
+        "joy": 0.536734,
+        "fear": 0.149061,
+        "disgust": 0.189975,
+        "anger": 0.150644
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Barry Fudge",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.523959,
+      "mentions": [
+        {
+          "text": "Barry Fudge",
+          "location": [
+            555,
+            566
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.079443,
+        "joy": 0.436949,
+        "fear": 0.129074,
+        "disgust": 0.036636,
+        "anger": 0.11025
+      },
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "cancer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.418262,
+      "mentions": [
+        {
+          "text": "cancer",
+          "location": [
+            186,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.77988,
+        "joy": 0.016218,
+        "fear": 0.082295,
+        "disgust": 0.278168,
+        "anger": 0.059738
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Psychology",
+      "relevance": 0.934467,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+      "text": "Brain",
+      "relevance": 0.890135,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brain"
+    },
+    {
+      "text": "Mass",
+      "relevance": 0.739438,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mass"
+    },
+    {
+      "text": "Photon",
+      "relevance": 0.717048,
+      "dbpedia_resource": "http://dbpedia.org/resource/Photon"
+    },
+    {
+      "text": "Educational psychology",
+      "relevance": 0.716017,
+      "dbpedia_resource": "http://dbpedia.org/resource/Educational_psychology"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.903634,
+      "label": "/food and drink/beverages"
+    }
+  ]
+}

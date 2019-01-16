@@ -1,0 +1,179 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.927582,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.927582,
+        "label": "negative"
+      },
+      "relevance": 0.997745,
+      "emotion": {
+        "sadness": 0.291303,
+        "joy": 0.178987,
+        "fear": 0.083221,
+        "disgust": 0.102,
+        "anger": 0.145525
+      },
+      "count": 1
+    },
+    {
+      "text": "Jewelry",
+      "sentiment": {
+        "score": -0.927582,
+        "label": "negative"
+      },
+      "relevance": 0.659489,
+      "emotion": {
+        "sadness": 0.291303,
+        "joy": 0.178987,
+        "fear": 0.083221,
+        "disgust": 0.102,
+        "anger": 0.145525
+      },
+      "count": 1
+    },
+    {
+      "text": "Traumatic Paris Robbery",
+      "sentiment": {
+        "score": -0.927582,
+        "label": "negative"
+      },
+      "relevance": 0.200759,
+      "emotion": {
+        "sadness": 0.291303,
+        "joy": 0.178987,
+        "fear": 0.083221,
+        "disgust": 0.102,
+        "anger": 0.145525
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Crime",
+      "text": "Robbery",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robbery",
+          "location": [
+            59,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158042,
+        "joy": 0.226321,
+        "fear": 0.071292,
+        "disgust": 0.071659,
+        "anger": 0.104681
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.464747,
+        "joy": 0.087875,
+        "fear": 0.110185,
+        "disgust": 0.133288,
+        "anger": 0.147126
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Paris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Paris",
+          "location": [
+            53,
+            58
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158042,
+        "joy": 0.226321,
+        "fear": 0.071292,
+        "disgust": 0.071659,
+        "anger": 0.104681
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Celebrity sex tape",
+      "relevance": 0.636181,
+      "dbpedia_resource": "http://dbpedia.org/resource/Celebrity_sex_tape"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999949,
+      "label": "/style and fashion/jewelry"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 684,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.287414,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Machine Learning",
+      "sentiment": {
+        "score": -0.844621,
+        "label": "negative"
+      },
+      "relevance": 0.878607,
+      "emotion": {
+        "sadness": 0.148082,
+        "joy": 0.398835,
+        "fear": 0.033214,
+        "disgust": 0.211363,
+        "anger": 0.134578
+      },
+      "count": 1
+    },
+    {
+      "text": "Google's machine-learning technology",
+      "sentiment": {
+        "score": 0.985148,
+        "label": "positive"
+      },
+      "relevance": 0.836618,
+      "emotion": {
+        "sadness": 0.121587,
+        "joy": 0.456897,
+        "fear": 0.007579,
+        "disgust": 0.046108,
+        "anger": 0.020532
+      },
+      "count": 1
+    },
+    {
+      "text": "similar assistance",
+      "sentiment": {
+        "score": 0.985148,
+        "label": "positive"
+      },
+      "relevance": 0.711604,
+      "emotion": {
+        "sadness": 0.121587,
+        "joy": 0.456897,
+        "fear": 0.007579,
+        "disgust": 0.046108,
+        "anger": 0.020532
+      },
+      "count": 1
+    },
+    {
+      "text": "sound effects",
+      "sentiment": {
+        "score": -0.844621,
+        "label": "negative"
+      },
+      "relevance": 0.683534,
+      "emotion": {
+        "sadness": 0.231406,
+        "joy": 0.163643,
+        "fear": 0.098814,
+        "disgust": 0.113283,
+        "anger": 0.032784
+      },
+      "count": 1
+    },
+    {
+      "text": "YouTube",
+      "sentiment": {
+        "score": 0.590017,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.630885,
+      "emotion": {
+        "sadness": 0.121587,
+        "joy": 0.456897,
+        "fear": 0.007579,
+        "disgust": 0.046108,
+        "anger": 0.020532
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.271972,
+        "label": "negative"
+      },
+      "relevance": 0.778619,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            227,
+            234
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.323514,
+        "joy": 0.243624,
+        "fear": 0.076259,
+        "disgust": 0.04528,
+        "anger": 0.057813
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.431039,
+        "label": "positive"
+      },
+      "relevance": 0.698785,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            279,
+            285
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hearing impairment",
+      "relevance": 0.957603,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hearing_impairment"
+    },
+    {
+      "text": "Sound",
+      "relevance": 0.888773,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sound"
+    },
+    {
+      "text": "Google",
+      "relevance": 0.699884,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "Hearing",
+      "relevance": 0.678116,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hearing"
+    },
+    {
+      "text": "Audiogram",
+      "relevance": 0.656239,
+      "dbpedia_resource": "http://dbpedia.org/resource/Audiogram"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994636,
+      "label": "/technology and computing/software"
+    }
+  ]
+}

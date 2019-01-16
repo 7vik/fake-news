@@ -1,0 +1,306 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 788,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.310426,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Le Pen Fight",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.883968,
+      "emotion": {
+        "sadness": 0.140577,
+        "joy": 0.232271,
+        "fear": 0.142302,
+        "disgust": 0.328428,
+        "anger": 0.360787
+      },
+      "count": 1
+    },
+    {
+      "text": "Marine Le Pen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.79966,
+      "emotion": {
+        "sadness": 0.454044,
+        "joy": 0.255907,
+        "fear": 0.14971,
+        "disgust": 0.21135,
+        "anger": 0.098833
+      },
+      "count": 1
+    },
+    {
+      "text": "Emmanuel Macron",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.740567,
+      "emotion": {
+        "sadness": 0.454044,
+        "joy": 0.255907,
+        "fear": 0.14971,
+        "disgust": 0.21135,
+        "anger": 0.098833
+      },
+      "count": 1
+    },
+    {
+      "text": "French Election Runoff",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.712741,
+      "emotion": {
+        "sadness": 0.454044,
+        "joy": 0.255907,
+        "fear": 0.14971,
+        "disgust": 0.21135,
+        "anger": 0.098833
+      },
+      "count": 1
+    },
+    {
+      "text": "anti-euro Le Pen",
+      "sentiment": {
+        "score": -0.522522,
+        "label": "negative"
+      },
+      "relevance": 0.692233,
+      "emotion": {
+        "sadness": 0.305894,
+        "joy": 0.165233,
+        "fear": 0.301365,
+        "disgust": 0.067779,
+        "anger": 0.130102
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Emmanuel Macron",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.931406,
+      "mentions": [
+        {
+          "text": "Emmanuel Macron",
+          "location": [
+            161,
+            176
+          ]
+        },
+        {
+          "text": "the centrist Macron",
+          "location": [
+            343,
+            362
+          ]
+        },
+        {
+          "text": "Macron",
+          "location": [
+            562,
+            568
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.400134,
+        "joy": 0.311307,
+        "fear": 0.188927,
+        "disgust": 0.140436,
+        "anger": 0.112257
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Le Pen",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.777787,
+      "mentions": [
+        {
+          "text": "Le Pen",
+          "location": [
+            332,
+            338
+          ]
+        },
+        {
+          "text": "Le Pen",
+          "location": [
+            576,
+            582
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.291299,
+        "joy": 0.189563,
+        "fear": 0.275522,
+        "disgust": 0.062767,
+        "anger": 0.153785
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "France",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.225942,
+      "mentions": [
+        {
+          "text": "France",
+          "location": [
+            263,
+            269
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmDirector",
+          "Country"
+        ],
+        "name": "France",
+        "dbpedia_resource": "http://dbpedia.org/resource/France"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.21884,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            277,
+            286
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.405384,
+        "joy": 0.336866,
+        "fear": 0.126746,
+        "disgust": 0.199111,
+        "anger": 0.065072
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Europe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.215521,
+      "mentions": [
+        {
+          "text": "Europe",
+          "location": [
+            729,
+            735
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.405445,
+        "joy": 0.249635,
+        "fear": 0.145633,
+        "disgust": 0.086984,
+        "anger": 0.089678
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "FilmMusicContributor",
+          "Lyricist",
+          "MusicalArtist",
+          "RecordProducer",
+          "Continent"
+        ],
+        "name": "Europe",
+        "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Voting",
+      "relevance": 0.970658,
+      "dbpedia_resource": "http://dbpedia.org/resource/Voting"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.850691,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Nicolas Sarkozy",
+      "relevance": 0.83175,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicolas_Sarkozy"
+    },
+    {
+      "text": "Jean-Marie Le Pen",
+      "relevance": 0.80073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jean-Marie_Le_Pen"
+    },
+    {
+      "text": "Nationalism",
+      "relevance": 0.785678,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nationalism"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.946006,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

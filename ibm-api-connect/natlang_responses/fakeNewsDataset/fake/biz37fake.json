@@ -1,0 +1,316 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 775,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.829604,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Charles Murphy jump",
+      "sentiment": {
+        "score": -0.946054,
+        "label": "negative"
+      },
+      "relevance": 0.846292,
+      "emotion": {
+        "sadness": 0.436926,
+        "joy": 0.055517,
+        "fear": 0.415563,
+        "disgust": 0.266728,
+        "anger": 0.147563
+      },
+      "count": 1
+    },
+    {
+      "text": "Sofitel Hotel Monday",
+      "sentiment": {
+        "score": -0.946054,
+        "label": "negative"
+      },
+      "relevance": 0.742812,
+      "emotion": {
+        "sadness": 0.436926,
+        "joy": 0.055517,
+        "fear": 0.415563,
+        "disgust": 0.266728,
+        "anger": 0.147563
+      },
+      "count": 1
+    },
+    {
+      "text": "grisly scene",
+      "sentiment": {
+        "score": -0.946054,
+        "label": "negative"
+      },
+      "relevance": 0.701856,
+      "emotion": {
+        "sadness": 0.436926,
+        "joy": 0.055517,
+        "fear": 0.415563,
+        "disgust": 0.266728,
+        "anger": 0.147563
+      },
+      "count": 1
+    },
+    {
+      "text": "Hedge fund exec",
+      "sentiment": {
+        "score": -0.946054,
+        "label": "negative"
+      },
+      "relevance": 0.686465,
+      "emotion": {
+        "sadness": 0.403392,
+        "joy": 0.009609,
+        "fear": 0.453447,
+        "disgust": 0.331978,
+        "anger": 0.146766
+      },
+      "count": 1
+    },
+    {
+      "text": "Bernard Madoff",
+      "sentiment": {
+        "score": -0.683773,
+        "label": "negative"
+      },
+      "relevance": 0.61989,
+      "emotion": {
+        "sadness": 0.346435,
+        "joy": 0.483371,
+        "fear": 0.119566,
+        "disgust": 0.005058,
+        "anger": 0.115136
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Charles Murphy",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.939811,
+      "mentions": [
+        {
+          "text": "Charles Murphy",
+          "location": [
+            196,
+            210
+          ]
+        },
+        {
+          "text": "Murphy",
+          "location": [
+            376,
+            382
+          ]
+        },
+        {
+          "text": "Murphy",
+          "location": [
+            697,
+            703
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.431815,
+        "joy": 0.144665,
+        "fear": 0.069674,
+        "disgust": 0.271007,
+        "anger": 0.109638
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Vasily Svetlana",
+      "sentiment": {
+        "score": -0.360662,
+        "label": "negative"
+      },
+      "relevance": 0.788392,
+      "mentions": [
+        {
+          "text": "Vasily Svetlana",
+          "location": [
+            282,
+            297
+          ]
+        },
+        {
+          "text": "Svetlana",
+          "location": [
+            319,
+            327
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.586542,
+        "joy": 0.019139,
+        "fear": 0.148944,
+        "disgust": 0.266312,
+        "anger": 0.259032
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bernard Madoff",
+      "sentiment": {
+        "score": -0.824131,
+        "label": "negative"
+      },
+      "relevance": 0.743533,
+      "mentions": [
+        {
+          "text": "Madoff",
+          "location": [
+            48,
+            54
+          ]
+        },
+        {
+          "text": "Bernard Madoff",
+          "location": [
+            456,
+            470
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            591,
+            593
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            634,
+            636
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.346435,
+        "joy": 0.483371,
+        "fear": 0.119566,
+        "disgust": 0.005058,
+        "anger": 0.115136
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "CompanyFounder"
+        ],
+        "name": "Bernard Madoff",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bernard_Madoff"
+      },
+      "count": 4
+    },
+    {
+      "type": "Facility",
+      "text": "Sofitel Hotel Monday",
+      "sentiment": {
+        "score": -0.456726,
+        "label": "negative"
+      },
+      "relevance": 0.622292,
+      "mentions": [
+        {
+          "text": "Sofitel Hotel Monday",
+          "location": [
+            151,
+            171
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.42655,
+        "joy": 0.15207,
+        "fear": 0.205243,
+        "disgust": 0.327902,
+        "anger": 0.13945
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Fairfield Greenwich",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.387856,
+      "mentions": [
+        {
+          "text": "Fairfield Greenwich",
+          "location": [
+            399,
+            418
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Fairfield Greenwich Group",
+        "dbpedia_resource": "http://dbpedia.org/resource/Fairfield_Greenwich_Group"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ponzi scheme",
+      "relevance": 0.98688,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ponzi_scheme"
+    },
+    {
+      "text": "Fraud",
+      "relevance": 0.541122,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fraud"
+    },
+    {
+      "text": "Confidence trick",
+      "relevance": 0.519483,
+      "dbpedia_resource": "http://dbpedia.org/resource/Confidence_trick"
+    },
+    {
+      "text": "Mutual fund",
+      "relevance": 0.513107,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mutual_fund"
+    },
+    {
+      "text": "Charles Ponzi",
+      "relevance": 0.496639,
+      "dbpedia_resource": "http://dbpedia.org/resource/Charles_Ponzi"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.964893,
+      "label": "/finance/investing/funds/hedge fund"
+    }
+  ]
+}

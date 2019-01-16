@@ -1,0 +1,224 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 678,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.606066,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tony Green",
+      "sentiment": {
+        "score": -0.758788,
+        "label": "negative"
+      },
+      "relevance": 0.975735,
+      "emotion": {
+        "sadness": 0.370845,
+        "joy": 0.134965,
+        "fear": 0.037106,
+        "disgust": 0.305553,
+        "anger": 0.247523
+      },
+      "count": 1
+    },
+    {
+      "text": "bar owner of Draft Punk",
+      "sentiment": {
+        "score": -0.758788,
+        "label": "negative"
+      },
+      "relevance": 0.65463,
+      "emotion": {
+        "sadness": 0.370845,
+        "joy": 0.134965,
+        "fear": 0.037106,
+        "disgust": 0.305553,
+        "anger": 0.247523
+      },
+      "count": 1
+    },
+    {
+      "text": "BrewDog beers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.583518,
+      "emotion": {
+        "sadness": 0.474262,
+        "joy": 0.189662,
+        "fear": 0.112646,
+        "disgust": 0.044094,
+        "anger": 0.202095
+      },
+      "count": 1
+    },
+    {
+      "text": "BrewDog",
+      "sentiment": {
+        "score": -0.585388,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.569299,
+      "emotion": {
+        "sadness": 0.35206,
+        "joy": 0.292754,
+        "fear": 0.071873,
+        "disgust": 0.073813,
+        "anger": 0.230462
+      },
+      "count": 5
+    },
+    {
+      "text": "brewing process",
+      "sentiment": {
+        "score": -0.690354,
+        "label": "negative"
+      },
+      "relevance": 0.560418,
+      "emotion": {
+        "sadness": 0.153967,
+        "joy": 0.150567,
+        "fear": 0.057572,
+        "disgust": 0.087384,
+        "anger": 0.164833
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "BrewDog",
+      "sentiment": {
+        "score": -0.580852,
+        "label": "negative"
+      },
+      "relevance": 0.919962,
+      "mentions": [
+        {
+          "text": "BrewDog",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "BrewDog",
+          "location": [
+            83,
+            90
+          ]
+        },
+        {
+          "text": "BrewDog",
+          "location": [
+            158,
+            165
+          ]
+        },
+        {
+          "text": "BrewDog",
+          "location": [
+            277,
+            284
+          ]
+        },
+        {
+          "text": "BrewDog",
+          "location": [
+            629,
+            636
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277696,
+        "joy": 0.215633,
+        "fear": 0.057574,
+        "disgust": 0.090036,
+        "anger": 0.20402
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "BrewDog",
+        "dbpedia_resource": "http://dbpedia.org/resource/BrewDog"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Tony Green",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.470662,
+      "mentions": [
+        {
+          "text": "Tony Green",
+          "location": [
+            392,
+            402
+          ]
+        },
+        {
+          "text": "Green",
+          "location": [
+            550,
+            555
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.250768,
+        "joy": 0.314596,
+        "fear": 0.123291,
+        "disgust": 0.063278,
+        "anger": 0.189167
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brewing",
+      "relevance": 0.94732,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brewing"
+    },
+    {
+      "text": "Beer",
+      "relevance": 0.679812,
+      "dbpedia_resource": "http://dbpedia.org/resource/Beer"
+    },
+    {
+      "text": "Enzyme",
+      "relevance": 0.606966,
+      "dbpedia_resource": "http://dbpedia.org/resource/Enzyme"
+    },
+    {
+      "text": "Malt",
+      "relevance": 0.513728,
+      "dbpedia_resource": "http://dbpedia.org/resource/Malt"
+    },
+    {
+      "text": "Fermentation",
+      "relevance": 0.49331,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fermentation_(food)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999999,
+      "label": "/food and drink/beverages/alcoholic beverages/cocktails and beer"
+    }
+  ]
+}

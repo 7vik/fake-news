@@ -1,0 +1,133 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 90,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.716416,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": -0.716416,
+        "label": "negative"
+      },
+      "relevance": 0.996706,
+      "emotion": {
+        "sadness": 0.264684,
+        "joy": 0.281949,
+        "fear": 0.186125,
+        "disgust": 0.181324,
+        "anger": 0.250987
+      },
+      "count": 1
+    },
+    {
+      "text": "Caitlyn's Scapegoat",
+      "sentiment": {
+        "score": -0.716416,
+        "label": "negative"
+      },
+      "relevance": 0.403667,
+      "emotion": {
+        "sadness": 0.264684,
+        "joy": 0.281949,
+        "fear": 0.186125,
+        "disgust": 0.181324,
+        "anger": 0.250987
+      },
+      "count": 1
+    },
+    {
+      "text": "Memoir Drama",
+      "sentiment": {
+        "score": -0.716416,
+        "label": "negative"
+      },
+      "relevance": 0.174564,
+      "emotion": {
+        "sadness": 0.264684,
+        "joy": 0.281949,
+        "fear": 0.186125,
+        "disgust": 0.181324,
+        "anger": 0.250987
+      },
+      "count": 1
+    },
+    {
+      "text": "Kardashians",
+      "sentiment": {
+        "score": -0.716416,
+        "label": "negative"
+      },
+      "relevance": 0.022567,
+      "emotion": {
+        "sadness": 0.264684,
+        "joy": 0.281949,
+        "fear": 0.186125,
+        "disgust": 0.181324,
+        "anger": 0.250987
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.264684,
+        "joy": 0.281949,
+        "fear": 0.186125,
+        "disgust": 0.181324,
+        "anger": 0.250987
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.880267,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.625469,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

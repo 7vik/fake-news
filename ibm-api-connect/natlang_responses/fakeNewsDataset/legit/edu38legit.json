@@ -1,0 +1,301 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 619,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.834949,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New York City's schools chancellor",
+      "sentiment": {
+        "score": -0.625237,
+        "label": "negative"
+      },
+      "relevance": 0.888051,
+      "emotion": {
+        "sadness": 0.398557,
+        "joy": 0.14275,
+        "fear": 0.232692,
+        "disgust": 0.119667,
+        "anger": 0.176788
+      },
+      "count": 1
+    },
+    {
+      "text": "senior adviser",
+      "sentiment": {
+        "score": -0.977885,
+        "label": "negative"
+      },
+      "relevance": 0.724071,
+      "emotion": {
+        "sadness": 0.398557,
+        "joy": 0.14275,
+        "fear": 0.232692,
+        "disgust": 0.119667,
+        "anger": 0.176788
+      },
+      "count": 1
+    },
+    {
+      "text": "School administrators",
+      "sentiment": {
+        "score": -0.977885,
+        "label": "negative"
+      },
+      "relevance": 0.703297,
+      "emotion": {
+        "sadness": 0.398557,
+        "joy": 0.14275,
+        "fear": 0.232692,
+        "disgust": 0.119667,
+        "anger": 0.176788
+      },
+      "count": 1
+    },
+    {
+      "text": "undocumented immigrants",
+      "sentiment": {
+        "score": -0.977885,
+        "label": "negative"
+      },
+      "relevance": 0.672852,
+      "emotion": {
+        "sadness": 0.398557,
+        "joy": 0.14275,
+        "fear": 0.232692,
+        "disgust": 0.119667,
+        "anger": 0.176788
+      },
+      "count": 1
+    },
+    {
+      "text": "Immigration Agents",
+      "sentiment": {
+        "score": -0.625237,
+        "label": "negative"
+      },
+      "relevance": 0.65248,
+      "emotion": {
+        "sadness": 0.117073,
+        "joy": 0.181062,
+        "fear": 0.139573,
+        "disgust": 0.165744,
+        "anger": 0.137011
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Immigration Agents",
+      "sentiment": {
+        "score": -0.329865,
+        "label": "negative"
+      },
+      "relevance": 0.848076,
+      "mentions": [
+        {
+          "text": "Immigration Agents",
+          "location": [
+            22,
+            40
+          ]
+        },
+        {
+          "text": "immigration agents",
+          "location": [
+            256,
+            274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.093512,
+        "joy": 0.092773,
+        "fear": 0.10597,
+        "disgust": 0.132268,
+        "anger": 0.114833
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Maite Junco",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.781748,
+      "mentions": [
+        {
+          "text": "Maite Junco",
+          "location": [
+            369,
+            380
+          ]
+        },
+        {
+          "text": "Ms. Junco",
+          "location": [
+            603,
+            612
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.418646,
+        "joy": 0.179042,
+        "fear": 0.146034,
+        "disgust": 0.157962,
+        "anger": 0.160714
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "New York City",
+      "sentiment": {
+        "score": -0.418281,
+        "label": "negative"
+      },
+      "relevance": 0.712043,
+      "mentions": [
+        {
+          "text": "New York City",
+          "location": [
+            72,
+            85
+          ]
+        },
+        {
+          "text": "the city",
+          "location": [
+            186,
+            194
+          ]
+        },
+        {
+          "text": "the city",
+          "location": [
+            402,
+            410
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10215,
+        "joy": 0.063993,
+        "fear": 0.089037,
+        "disgust": 0.107059,
+        "anger": 0.092176
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.506697,
+        "label": "negative"
+      },
+      "relevance": 0.390763,
+      "mentions": [
+        {
+          "text": "Trump administration",
+          "location": [
+            494,
+            514
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "senior adviser",
+      "sentiment": {
+        "score": -0.506697,
+        "label": "negative"
+      },
+      "relevance": 0.381942,
+      "mentions": [
+        {
+          "text": "senior adviser",
+          "location": [
+            384,
+            398
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.519049,
+        "joy": 0.067762,
+        "fear": 0.367674,
+        "disgust": 0.084762,
+        "anger": 0.138915
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.981205,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Immigration to the United States",
+      "relevance": 0.8598,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration_to_the_United_States"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.807409,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Toronto",
+      "relevance": 0.764008,
+      "dbpedia_resource": "http://dbpedia.org/resource/Toronto"
+    },
+    {
+      "text": "American Broadcasting Company",
+      "relevance": 0.652276,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Broadcasting_Company"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999606,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

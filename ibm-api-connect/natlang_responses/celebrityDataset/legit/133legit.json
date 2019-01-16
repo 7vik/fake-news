@@ -1,0 +1,103 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.815965,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Weeknd Holds Hands",
+      "sentiment": {
+        "score": 0.815965,
+        "label": "positive"
+      },
+      "relevance": 0.948292,
+      "emotion": {
+        "sadness": 0.112539,
+        "joy": 0.501694,
+        "fear": 0.046591,
+        "disgust": 0.203695,
+        "anger": 0.128664
+      },
+      "count": 1
+    },
+    {
+      "text": "Justin Bieber's Ex Yovanna Ventura",
+      "sentiment": {
+        "score": 0.815965,
+        "label": "positive"
+      },
+      "relevance": 0.051708,
+      "emotion": {
+        "sadness": 0.112539,
+        "joy": 0.501694,
+        "fear": 0.046591,
+        "disgust": 0.203695,
+        "anger": 0.128664
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            28,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Justin Bieber",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.90232,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.552145,
+      "label": "/automotive and vehicles/cars/coupe"
+    }
+  ]
+}

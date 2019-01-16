@@ -1,0 +1,223 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 369,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.730014,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "star Lauren Cohan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.991872,
+      "emotion": {
+        "sadness": 0.679978,
+        "joy": 0.037605,
+        "fear": 0.161739,
+        "disgust": 0.248481,
+        "anger": 0.16155
+      },
+      "count": 1
+    },
+    {
+      "text": "Lauren Cohen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.92027,
+      "emotion": {
+        "sadness": 0.295808,
+        "joy": 0.29915,
+        "fear": 0.159655,
+        "disgust": 0.212909,
+        "anger": 0.241885
+      },
+      "count": 1
+    },
+    {
+      "text": "star of AMC",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.786943,
+      "emotion": {
+        "sadness": 0.295808,
+        "joy": 0.29915,
+        "fear": 0.159655,
+        "disgust": 0.212909,
+        "anger": 0.241885
+      },
+      "count": 1
+    },
+    {
+      "text": "cast members",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.695659,
+      "emotion": {
+        "sadness": 0.54754,
+        "joy": 0.052281,
+        "fear": 0.138622,
+        "disgust": 0.297784,
+        "anger": 0.305737
+      },
+      "count": 1
+    },
+    {
+      "text": "room",
+      "sentiment": {
+        "score": -0.662606,
+        "label": "negative"
+      },
+      "relevance": 0.527797,
+      "emotion": {
+        "sadness": 0.608379,
+        "joy": 0.057985,
+        "fear": 0.023559,
+        "disgust": 0.25816,
+        "anger": 0.292743
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lauren Cohan",
+      "sentiment": {
+        "score": 0.437683,
+        "label": "positive"
+      },
+      "relevance": 0.903656,
+      "mentions": [
+        {
+          "text": "Lauren Cohan",
+          "location": [
+            20,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.322634,
+        "joy": 0.343923,
+        "fear": 0.096444,
+        "disgust": 0.139148,
+        "anger": 0.096538
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lauren Cohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lauren_Cohan"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lauren Cohen",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.756145,
+      "mentions": [
+        {
+          "text": "Lauren Cohen",
+          "location": [
+            65,
+            77
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187813,
+        "joy": 0.166676,
+        "fear": 0.067645,
+        "disgust": 0.138074,
+        "anger": 0.095021
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "AMC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.438988,
+      "mentions": [
+        {
+          "text": "AMC",
+          "location": [
+            87,
+            90
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144314,
+        "joy": 0.444621,
+        "fear": 0.073577,
+        "disgust": 0.058857,
+        "anger": 0.038267
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "AMC Networks",
+        "dbpedia_resource": "http://dbpedia.org/resource/AMC_Networks"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lauren Cohan",
+      "relevance": 0.967495,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lauren_Cohan"
+    },
+    {
+      "text": "Comedy",
+      "relevance": 0.656453,
+      "dbpedia_resource": "http://dbpedia.org/resource/Comedy"
+    },
+    {
+      "text": "Humor",
+      "relevance": 0.627053,
+      "dbpedia_resource": "http://dbpedia.org/resource/Humor"
+    },
+    {
+      "text": "1982 births",
+      "relevance": 0.59453,
+      "dbpedia_resource": "http://dbpedia.org/resource/1982_births"
+    },
+    {
+      "text": "Stefano Formaggio",
+      "relevance": 0.577205,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stefano_Formaggio_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.586073,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

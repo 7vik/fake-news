@@ -1,0 +1,385 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 630,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.899722,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mr. Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.891376,
+      "emotion": {
+        "sadness": 0.079326,
+        "joy": 0.311883,
+        "fear": 0.028258,
+        "disgust": 0.213762,
+        "anger": 0.266202
+      },
+      "count": 2
+    },
+    {
+      "text": "Donald J. Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.887091,
+      "emotion": {
+        "sadness": 0.230798,
+        "joy": 0.060062,
+        "fear": 0.158919,
+        "disgust": 0.222378,
+        "anger": 0.207916
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.884779,
+        "label": "negative"
+      },
+      "relevance": 0.867835,
+      "emotion": {
+        "sadness": 0.221639,
+        "joy": 0.041599,
+        "fear": 0.197662,
+        "disgust": 0.499449,
+        "anger": 0.276492
+      },
+      "count": 2
+    },
+    {
+      "text": "President Vladimir V. Putin of Russia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.772251,
+      "emotion": {
+        "sadness": 0.127847,
+        "joy": 0.288743,
+        "fear": 0.034476,
+        "disgust": 0.147793,
+        "anger": 0.249952
+      },
+      "count": 1
+    },
+    {
+      "text": "Mrs. Clinton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.607998,
+      "emotion": {
+        "sadness": 0.079326,
+        "joy": 0.311883,
+        "fear": 0.028258,
+        "disgust": 0.213762,
+        "anger": 0.266202
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.112309,
+        "label": "positive"
+      },
+      "relevance": 0.921187,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            124,
+            139
+          ]
+        },
+        {
+          "text": "Mrs. Clinton",
+          "location": [
+            291,
+            303
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            359,
+            362
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            395,
+            398
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            480,
+            483
+          ]
+        },
+        {
+          "text": "Mrs. Clinton",
+          "location": [
+            485,
+            497
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.108671,
+        "joy": 0.681569,
+        "fear": 0.049172,
+        "disgust": 0.096261,
+        "anger": 0.068728
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Donald J. Trump",
+      "sentiment": {
+        "score": 0.641971,
+        "label": "positive"
+      },
+      "relevance": 0.678963,
+      "mentions": [
+        {
+          "text": "Donald J. Trump",
+          "location": [
+            157,
+            172
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            222,
+            231
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            406,
+            415
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            546,
+            555
+          ]
+        },
+        {
+          "text": "He'd",
+          "location": [
+            558,
+            562
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147967,
+        "joy": 0.132182,
+        "fear": 0.068028,
+        "disgust": 0.151751,
+        "anger": 0.141595
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "President Vladimir V. Putin",
+      "sentiment": {
+        "score": 0.489765,
+        "label": "positive"
+      },
+      "relevance": 0.33677,
+      "mentions": [
+        {
+          "text": "President Vladimir V. Putin",
+          "location": [
+            421,
+            448
+          ]
+        },
+        {
+          "text": "Mr. Putin",
+          "location": [
+            516,
+            525
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152926,
+        "joy": 0.227047,
+        "fear": 0.041268,
+        "disgust": 0.15972,
+        "anger": 0.237698
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "MartialArtist",
+          "PoliticalAppointer",
+          "TVActor"
+        ],
+        "name": "Vladimir Putin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vladimir_Putin"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Las Vegas",
+      "sentiment": {
+        "score": 0.794177,
+        "label": "positive"
+      },
+      "relevance": 0.177332,
+      "mentions": [
+        {
+          "text": "Las Vegas",
+          "location": [
+            254,
+            263
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.081252,
+        "joy": 0.15138,
+        "fear": 0.068766,
+        "disgust": 0.299261,
+        "anger": 0.203873
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Las Vegas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Las_Vegas"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.172608,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            587,
+            596
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163695,
+        "joy": 0.222707,
+        "fear": 0.047396,
+        "disgust": 0.265874,
+        "anger": 0.219775
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Vladimir Putin",
+      "relevance": 0.976833,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vladimir_Putin"
+    },
+    {
+      "text": "George W. Bush",
+      "relevance": 0.960047,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Russia",
+      "relevance": 0.759792,
+      "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.703346,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Boris Yeltsin",
+      "relevance": 0.695607,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boris_Yeltsin"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.9416,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

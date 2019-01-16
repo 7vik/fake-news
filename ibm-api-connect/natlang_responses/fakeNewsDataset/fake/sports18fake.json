@@ -1,0 +1,252 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 409,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.35713,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lebron James",
+      "sentiment": {
+        "score": -0.860986,
+        "label": "negative"
+      },
+      "relevance": 0.896687,
+      "emotion": {
+        "sadness": 0.714452,
+        "joy": 0.072293,
+        "fear": 0.216756,
+        "disgust": 0.10909,
+        "anger": 0.046311
+      },
+      "count": 1
+    },
+    {
+      "text": "full facial bright orange balaclava",
+      "sentiment": {
+        "score": 0.738286,
+        "label": "positive"
+      },
+      "relevance": 0.729043,
+      "emotion": {
+        "sadness": 0.070992,
+        "joy": 0.668576,
+        "fear": 0.013424,
+        "disgust": 0.216738,
+        "anger": 0.029278
+      },
+      "count": 1
+    },
+    {
+      "text": "bright color",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.694938,
+      "emotion": {
+        "sadness": 0.399088,
+        "joy": 0.246214,
+        "fear": 0.104515,
+        "disgust": 0.283253,
+        "anger": 0.140047
+      },
+      "count": 1
+    },
+    {
+      "text": "eye holes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.656243,
+      "emotion": {
+        "sadness": 0.399088,
+        "joy": 0.246214,
+        "fear": 0.104515,
+        "disgust": 0.283253,
+        "anger": 0.140047
+      },
+      "count": 1
+    },
+    {
+      "text": "NBA spokesperson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.615911,
+      "emotion": {
+        "sadness": 0.399088,
+        "joy": 0.246214,
+        "fear": 0.104515,
+        "disgust": 0.283253,
+        "anger": 0.140047
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lebron James",
+      "sentiment": {
+        "score": -0.73021,
+        "label": "negative"
+      },
+      "relevance": 0.951405,
+      "mentions": [
+        {
+          "text": "Lebron James",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.714452,
+        "joy": 0.072293,
+        "fear": 0.216756,
+        "disgust": 0.10909,
+        "anger": 0.046311
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardWinner",
+          "BasketballPlayer",
+          "FilmProducer",
+          "OlympicAthlete",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "LeBron James",
+        "dbpedia_resource": "http://dbpedia.org/resource/LeBron_James"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Charlotte Hornets",
+      "sentiment": {
+        "score": -0.73021,
+        "label": "negative"
+      },
+      "relevance": 0.801797,
+      "mentions": [
+        {
+          "text": "Charlotte Hornets",
+          "location": [
+            70,
+            87
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.714452,
+        "joy": 0.072293,
+        "fear": 0.216756,
+        "disgust": 0.10909,
+        "anger": 0.046311
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "NBA",
+      "sentiment": {
+        "score": -0.662115,
+        "label": "negative"
+      },
+      "relevance": 0.565976,
+      "mentions": [
+        {
+          "text": "NBA",
+          "location": [
+            299,
+            302
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224226,
+        "joy": 0.450435,
+        "fear": 0.077656,
+        "disgust": 0.109955,
+        "anger": 0.155895
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsAssociation",
+          "Profession"
+        ],
+        "name": "National Basketball Association",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Basketball_Association"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Wizards",
+      "sentiment": {
+        "score": -0.662115,
+        "label": "negative"
+      },
+      "relevance": 0.534533,
+      "mentions": [
+        {
+          "text": "Wizards",
+          "location": [
+            382,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224226,
+        "joy": 0.450435,
+        "fear": 0.077656,
+        "disgust": 0.109955,
+        "anger": 0.155895
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Boston Celtics",
+      "relevance": 0.926149,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boston_Celtics"
+    },
+    {
+      "text": "Kobe Bryant",
+      "relevance": 0.883188,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kobe_Bryant"
+    },
+    {
+      "text": "Washington Wizards",
+      "relevance": 0.80875,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington_Wizards"
+    },
+    {
+      "text": "Dwyane Wade",
+      "relevance": 0.799749,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dwyane_Wade"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.934208,
+      "label": "/sports/basketball"
+    }
+  ]
+}

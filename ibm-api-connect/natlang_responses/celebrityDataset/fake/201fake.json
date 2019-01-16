@@ -1,0 +1,121 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New Report Claims",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.996003,
+      "emotion": {
+        "sadness": 0.12677,
+        "joy": 0.080729,
+        "fear": 0.067836,
+        "disgust": 0.076377,
+        "anger": 0.102703
+      },
+      "count": 1
+    },
+    {
+      "text": "Beyonce",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.794804,
+      "emotion": {
+        "sadness": 0.086461,
+        "joy": 0.367449,
+        "fear": 0.078628,
+        "disgust": 0.122536,
+        "anger": 0.171452
+      },
+      "count": 1
+    },
+    {
+      "text": "Birth",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.625663,
+      "emotion": {
+        "sadness": 0.086461,
+        "joy": 0.367449,
+        "fear": 0.078628,
+        "disgust": 0.122536,
+        "anger": 0.171452
+      },
+      "count": 1
+    },
+    {
+      "text": "Twins",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.598748,
+      "emotion": {
+        "sadness": 0.086461,
+        "joy": 0.367449,
+        "fear": 0.078628,
+        "disgust": 0.122536,
+        "anger": 0.171452
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": 0.439301,
+        "label": "positive"
+      },
+      "relevance": 0.978037,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            4,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.087948,
+        "joy": 0.45357,
+        "fear": 0.067668,
+        "disgust": 0.10119,
+        "anger": 0.139466
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Childbirth",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Childbirth"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.634792,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

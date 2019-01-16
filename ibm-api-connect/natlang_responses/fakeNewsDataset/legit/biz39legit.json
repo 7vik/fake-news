@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 907,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.70436,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Westinghouse Electric",
+      "sentiment": {
+        "score": -0.860399,
+        "label": "negative"
+      },
+      "relevance": 0.899213,
+      "emotion": {
+        "sadness": 0.171751,
+        "joy": 0.114095,
+        "fear": 0.067568,
+        "disgust": 0.057618,
+        "anger": 0.087519
+      },
+      "count": 1
+    },
+    {
+      "text": "bankruptcy filing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.780532,
+      "emotion": {
+        "sadness": 0.458833,
+        "joy": 0.072782,
+        "fear": 0.088004,
+        "disgust": 0.059599,
+        "anger": 0.18656
+      },
+      "count": 1
+    },
+    {
+      "text": "key advocate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.695093,
+      "emotion": {
+        "sadness": 0.123024,
+        "joy": 0.280216,
+        "fear": 0.065121,
+        "disgust": 0.035529,
+        "anger": 0.081406
+      },
+      "count": 1
+    },
+    {
+      "text": "Japanese firm",
+      "sentiment": {
+        "score": -0.486733,
+        "label": "negative"
+      },
+      "relevance": 0.680534,
+      "emotion": {
+        "sadness": 0.336964,
+        "joy": 0.196891,
+        "fear": 0.043006,
+        "disgust": 0.016009,
+        "anger": 0.106192
+      },
+      "count": 1
+    },
+    {
+      "text": "electrical current",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.665652,
+      "emotion": {
+        "sadness": 0.123024,
+        "joy": 0.280216,
+        "fear": 0.065121,
+        "disgust": 0.035529,
+        "anger": 0.081406
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Westinghouse",
+      "sentiment": {
+        "score": -0.472097,
+        "label": "negative"
+      },
+      "relevance": 0.971041,
+      "mentions": [
+        {
+          "text": "Westinghouse",
+          "location": [
+            120,
+            132
+          ]
+        },
+        {
+          "text": "Westinghouse",
+          "location": [
+            249,
+            261
+          ]
+        },
+        {
+          "text": "Westinghouse",
+          "location": [
+            316,
+            328
+          ]
+        },
+        {
+          "text": "Westinghouse",
+          "location": [
+            420,
+            432
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.699568,
+        "joy": 0.135726,
+        "fear": 0.079562,
+        "disgust": 0.008386,
+        "anger": 0.093949
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Westinghouse Electric",
+      "sentiment": {
+        "score": -0.548708,
+        "label": "negative"
+      },
+      "relevance": 0.549776,
+      "mentions": [
+        {
+          "text": "Westinghouse Electric",
+          "location": [
+            0,
+            21
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.171751,
+        "joy": 0.114095,
+        "fear": 0.067568,
+        "disgust": 0.057618,
+        "anger": 0.087519
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Westinghouse Electric (1886)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Westinghouse_Electric_(1886)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "George Westinghouse",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.480699,
+      "mentions": [
+        {
+          "text": "George Westinghouse",
+          "location": [
+            588,
+            607
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.084593,
+        "joy": 0.174364,
+        "fear": 0.03342,
+        "disgust": 0.025686,
+        "anger": 0.011734
+      },
+      "disambiguation": {
+        "subtype": [
+          "Academic",
+          "Inventor",
+          "ProjectParticipant",
+          "Scientist"
+        ],
+        "name": "George Westinghouse",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Westinghouse"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Toshiba",
+      "sentiment": {
+        "score": -0.490882,
+        "label": "negative"
+      },
+      "relevance": 0.280348,
+      "mentions": [
+        {
+          "text": "Toshiba",
+          "location": [
+            47,
+            54
+          ]
+        },
+        {
+          "text": "Toshiba",
+          "location": [
+            195,
+            202
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.622238,
+        "joy": 0.038833,
+        "fear": 0.334578,
+        "disgust": 0.061356,
+        "anger": 0.193456
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Thomas Edison",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.178893,
+      "mentions": [
+        {
+          "text": "Thomas Edison",
+          "location": [
+            892,
+            905
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123024,
+        "joy": 0.280216,
+        "fear": 0.065121,
+        "disgust": 0.035529,
+        "anger": 0.081406
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyFounder",
+          "FilmDirector",
+          "FilmProducer",
+          "Inventor"
+        ],
+        "name": "Thomas Edison",
+        "dbpedia_resource": "http://dbpedia.org/resource/Thomas_Edison"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Alternating current",
+      "relevance": 0.952686,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alternating_current"
+    },
+    {
+      "text": "Thomas Edison",
+      "relevance": 0.817147,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thomas_Edison"
+    },
+    {
+      "text": "Electricity",
+      "relevance": 0.776997,
+      "dbpedia_resource": "http://dbpedia.org/resource/Electricity"
+    },
+    {
+      "text": "Nikola Tesla",
+      "relevance": 0.667235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nikola_Tesla"
+    },
+    {
+      "text": "Electrical engineering",
+      "relevance": 0.590529,
+      "dbpedia_resource": "http://dbpedia.org/resource/Electrical_engineering"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.836809,
+      "label": "/business and industrial/energy/nuclear power"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1289,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.30179,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "next Immigration Daze",
+      "sentiment": {
+        "score": -0.887647,
+        "label": "negative"
+      },
+      "relevance": 0.710427,
+      "emotion": {
+        "sadness": 0.10941,
+        "joy": 0.214609,
+        "fear": 0.182104,
+        "disgust": 0.171498,
+        "anger": 0.132357
+      },
+      "count": 1
+    },
+    {
+      "text": "huge success",
+      "sentiment": {
+        "score": 0.527452,
+        "label": "positive"
+      },
+      "relevance": 0.708699,
+      "emotion": {
+        "sadness": 0.049663,
+        "joy": 0.842797,
+        "fear": 0.032221,
+        "disgust": 0.032843,
+        "anger": 0.032706
+      },
+      "count": 1
+    },
+    {
+      "text": "NYC's schools chancellor",
+      "sentiment": {
+        "score": -0.887647,
+        "label": "negative"
+      },
+      "relevance": 0.703903,
+      "emotion": {
+        "sadness": 0.236363,
+        "joy": 0.127578,
+        "fear": 0.080808,
+        "disgust": 0.11478,
+        "anger": 0.41041
+      },
+      "count": 1
+    },
+    {
+      "text": "Maite Junco",
+      "sentiment": {
+        "score": 0.527452,
+        "label": "positive"
+      },
+      "relevance": 0.701863,
+      "emotion": {
+        "sadness": 0.049663,
+        "joy": 0.842797,
+        "fear": 0.032221,
+        "disgust": 0.032843,
+        "anger": 0.032706
+      },
+      "count": 1
+    },
+    {
+      "text": "Federal Agents",
+      "sentiment": {
+        "score": -0.75283,
+        "label": "negative"
+      },
+      "relevance": 0.639609,
+      "emotion": {
+        "sadness": 0.389965,
+        "joy": 0.261485,
+        "fear": 0.026595,
+        "disgust": 0.103277,
+        "anger": 0.346834
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Maite Junco",
+      "sentiment": {
+        "score": -0.383434,
+        "label": "negative"
+      },
+      "relevance": 0.882584,
+      "mentions": [
+        {
+          "text": "Maite Junco",
+          "location": [
+            445,
+            456
+          ]
+        },
+        {
+          "text": "Maite",
+          "location": [
+            862,
+            867
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066031,
+        "joy": 0.760372,
+        "fear": 0.098673,
+        "disgust": 0.011376,
+        "anger": 0.043802
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Carmen Fanina",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.805401,
+      "mentions": [
+        {
+          "text": "Carmen Fanina",
+          "location": [
+            77,
+            90
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            205,
+            208
+          ]
+        },
+        {
+          "text": "Fanina",
+          "location": [
+            477,
+            483
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.409105,
+        "joy": 0.333259,
+        "fear": 0.050982,
+        "disgust": 0.053544,
+        "anger": 0.112141
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Speedy Gonzales",
+      "sentiment": {
+        "score": -0.383434,
+        "label": "negative"
+      },
+      "relevance": 0.45351,
+      "mentions": [
+        {
+          "text": "Speedy Gonzales",
+          "location": [
+            1010,
+            1025
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172858,
+        "joy": 0.190645,
+        "fear": 0.13571,
+        "disgust": 0.01908,
+        "anger": 0.139262
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "NYC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.453041,
+      "mentions": [
+        {
+          "text": "NYC",
+          "location": [
+            92,
+            95
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.204562,
+        "label": "negative"
+      },
+      "relevance": 0.446737,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            1201,
+            1206
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1212,
+            1214
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.108985,
+        "joy": 0.288811,
+        "fear": 0.05915,
+        "disgust": 0.053504,
+        "anger": 0.195695
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Speedy Gonzales",
+      "relevance": 0.918896,
+      "dbpedia_resource": "http://dbpedia.org/resource/Speedy_Gonzales"
+    },
+    {
+      "text": "School",
+      "relevance": 0.901303,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.868183,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.845467,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Mel Blanc",
+      "relevance": 0.60411,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mel_Blanc"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.995609,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

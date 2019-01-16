@@ -1,0 +1,327 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 940,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.837014,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jake Gyllenhaal",
+      "sentiment": {
+        "score": -0.661394,
+        "label": "negative"
+      },
+      "relevance": 0.952202,
+      "emotion": {
+        "sadness": 0.291709,
+        "joy": 0.616173,
+        "fear": 0.056876,
+        "disgust": 0.062117,
+        "anger": 0.008472
+      },
+      "count": 1
+    },
+    {
+      "text": "rival Ryan Reynolds",
+      "sentiment": {
+        "score": -0.661394,
+        "label": "negative"
+      },
+      "relevance": 0.836487,
+      "emotion": {
+        "sadness": 0.206836,
+        "joy": 0.650461,
+        "fear": 0.109978,
+        "disgust": 0.063367,
+        "anger": 0.013085
+      },
+      "count": 1
+    },
+    {
+      "text": "new romantic comedy film",
+      "sentiment": {
+        "score": -0.661394,
+        "label": "negative"
+      },
+      "relevance": 0.757882,
+      "emotion": {
+        "sadness": 0.206836,
+        "joy": 0.650461,
+        "fear": 0.109978,
+        "disgust": 0.063367,
+        "anger": 0.013085
+      },
+      "count": 1
+    },
+    {
+      "text": "romantic interest of Gyllenhaal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.755146,
+      "emotion": {
+        "sadness": 0.214471,
+        "joy": 0.324815,
+        "fear": 0.05946,
+        "disgust": 0.137209,
+        "anger": 0.109616
+      },
+      "count": 1
+    },
+    {
+      "text": "Dr. David Jordan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732248,
+      "emotion": {
+        "sadness": 0.214471,
+        "joy": 0.324815,
+        "fear": 0.05946,
+        "disgust": 0.137209,
+        "anger": 0.109616
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jake Gyllenhaal",
+      "sentiment": {
+        "score": 0.397736,
+        "label": "positive"
+      },
+      "relevance": 0.917786,
+      "mentions": [
+        {
+          "text": "Jake Gyllenhaal",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Jake Gyllenhaal",
+          "location": [
+            73,
+            88
+          ]
+        },
+        {
+          "text": "Gyllenhaal",
+          "location": [
+            272,
+            282
+          ]
+        },
+        {
+          "text": "Gyllenhaal",
+          "location": [
+            451,
+            461
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.388389,
+        "joy": 0.483773,
+        "fear": 0.056532,
+        "disgust": 0.111321,
+        "anger": 0.048566
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Jake Gyllenhaal",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Reynolds",
+      "sentiment": {
+        "score": 0.059926,
+        "label": "positive"
+      },
+      "relevance": 0.709816,
+      "mentions": [
+        {
+          "text": "Ryan Reynolds",
+          "location": [
+            59,
+            72
+          ]
+        },
+        {
+          "text": "Ryan Reynolds",
+          "location": [
+            203,
+            216
+          ]
+        },
+        {
+          "text": "Ryan",
+          "location": [
+            218,
+            222
+          ]
+        },
+        {
+          "text": "Ryan",
+          "location": [
+            472,
+            476
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.332553,
+        "joy": 0.467635,
+        "fear": 0.069118,
+        "disgust": 0.13168,
+        "anger": 0.036982
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Michael Strahan",
+      "sentiment": {
+        "score": 0.786537,
+        "label": "positive"
+      },
+      "relevance": 0.210096,
+      "mentions": [
+        {
+          "text": "Michael Strahan",
+          "location": [
+            118,
+            133
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.222073,
+        "joy": 0.644549,
+        "fear": 0.099319,
+        "disgust": 0.060958,
+        "anger": 0.014414
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "Celebrity",
+          "FootballPlayer",
+          "TVActor"
+        ],
+        "name": "Michael Strahan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Strahan"
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Good Morning America",
+      "sentiment": {
+        "score": -0.747116,
+        "label": "negative"
+      },
+      "relevance": 0.192296,
+      "mentions": [
+        {
+          "text": "Good Morning America",
+          "location": [
+            863,
+            883
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.810162,
+        "joy": 0.07806,
+        "fear": 0.147926,
+        "disgust": 0.020981,
+        "anger": 0.092311
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Good Morning America",
+        "dbpedia_resource": "http://dbpedia.org/resource/Good_Morning_America"
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "CBS Evening News",
+      "sentiment": {
+        "score": 0.526041,
+        "label": "positive"
+      },
+      "relevance": 0.182389,
+      "emotion": {
+        "sadness": 0.112233,
+        "joy": 0.712171,
+        "fear": 0.030886,
+        "disgust": 0.040287,
+        "anger": 0.033519
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "CBS Evening News",
+        "dbpedia_resource": "http://dbpedia.org/resource/CBS_Evening_News"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jake Gyllenhaal",
+      "relevance": 0.94605,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+    },
+    {
+      "text": "2000s American television series",
+      "relevance": 0.791121,
+      "dbpedia_resource": "http://dbpedia.org/resource/2000s_American_television_series"
+    },
+    {
+      "text": "Venus",
+      "relevance": 0.76845,
+      "dbpedia_resource": "http://dbpedia.org/resource/Venus"
+    },
+    {
+      "text": "CBS",
+      "relevance": 0.768251,
+      "dbpedia_resource": "http://dbpedia.org/resource/CBS"
+    },
+    {
+      "text": "Solar System",
+      "relevance": 0.754747,
+      "dbpedia_resource": "http://dbpedia.org/resource/Solar_System"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.717306,
+      "label": "/news"
+    }
+  ]
+}

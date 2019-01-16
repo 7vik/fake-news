@@ -1,0 +1,419 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1722,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.634758,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.695836,
+        "label": "negative"
+      },
+      "relevance": 0.740078,
+      "emotion": {
+        "sadness": 0.109971,
+        "joy": 0.098282,
+        "fear": 0.035365,
+        "disgust": 0.603803,
+        "anger": 0.421773
+      },
+      "count": 2
+    },
+    {
+      "text": "Kanye West Refuse Charity Donation",
+      "sentiment": {
+        "score": -0.695836,
+        "label": "negative"
+      },
+      "relevance": 0.73396,
+      "emotion": {
+        "sadness": 0.174778,
+        "joy": 0.26289,
+        "fear": 0.027367,
+        "disgust": 0.524403,
+        "anger": 0.16287
+      },
+      "count": 1
+    },
+    {
+      "text": "YouTube founder Chad Hurley",
+      "sentiment": {
+        "score": -0.891452,
+        "label": "negative"
+      },
+      "relevance": 0.704578,
+      "emotion": {
+        "sadness": 0.178646,
+        "joy": 0.063501,
+        "fear": 0.088886,
+        "disgust": 0.572277,
+        "anger": 0.405504
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.695836,
+        "label": "negative"
+      },
+      "relevance": 0.622292,
+      "emotion": {
+        "sadness": 0.109971,
+        "joy": 0.098282,
+        "fear": 0.035365,
+        "disgust": 0.603803,
+        "anger": 0.421773
+      },
+      "count": 1
+    },
+    {
+      "text": "huge settlement",
+      "sentiment": {
+        "score": -0.891452,
+        "label": "negative"
+      },
+      "relevance": 0.583653,
+      "emotion": {
+        "sadness": 0.178646,
+        "joy": 0.063501,
+        "fear": 0.088886,
+        "disgust": 0.572277,
+        "anger": 0.405504
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chad Hurley",
+      "sentiment": {
+        "score": -0.504894,
+        "label": "negative"
+      },
+      "relevance": 0.795274,
+      "mentions": [
+        {
+          "text": "Chad Hurley",
+          "location": [
+            272,
+            283
+          ]
+        },
+        {
+          "text": "Hurley",
+          "location": [
+            508,
+            514
+          ]
+        },
+        {
+          "text": "Chad",
+          "location": [
+            710,
+            714
+          ]
+        },
+        {
+          "text": "Hurley",
+          "location": [
+            1061,
+            1067
+          ]
+        },
+        {
+          "text": "Hurley",
+          "location": [
+            1400,
+            1406
+          ]
+        },
+        {
+          "text": "Hurley",
+          "location": [
+            1539,
+            1545
+          ]
+        },
+        {
+          "text": "Chad",
+          "location": [
+            1648,
+            1652
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1674,
+            1676
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.261653,
+        "joy": 0.092417,
+        "fear": 0.112772,
+        "disgust": 0.632058,
+        "anger": 0.330166
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyFounder"
+        ],
+        "name": "Chad Hurley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chad_Hurley"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.345239,
+        "label": "negative"
+      },
+      "relevance": 0.588448,
+      "mentions": [
+        {
+          "text": "Kim Kardashian & Kanye West",
+          "location": [
+            25,
+            52
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            186,
+            196
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            848,
+            853
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1281,
+            1285
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1371,
+            1375
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.337912,
+        "joy": 0.209146,
+        "fear": 0.068814,
+        "disgust": 0.466302,
+        "anger": 0.132047
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.317584,
+        "label": "negative"
+      },
+      "relevance": 0.48788,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            167,
+            181
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            840,
+            843
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1266,
+            1276
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1356,
+            1366
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.298,
+        "joy": 0.193084,
+        "fear": 0.066691,
+        "disgust": 0.189251,
+        "anger": 0.235234
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Kardashians",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.394935,
+      "mentions": [
+        {
+          "text": "Kardashians",
+          "location": [
+            998,
+            1009
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            1037,
+            1041
+          ]
+        },
+        {
+          "text": "them",
+          "location": [
+            1097,
+            1101
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            1220,
+            1224
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            1496,
+            1500
+          ]
+        },
+        {
+          "text": "their",
+          "location": [
+            1580,
+            1585
+          ]
+        },
+        {
+          "text": "favor.They",
+          "location": [
+            1586,
+            1596
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 7
+    },
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.209756,
+        "label": "negative"
+      },
+      "relevance": 0.391613,
+      "emotion": {
+        "sadness": 0.183835,
+        "joy": 0.450088,
+        "fear": 0.174464,
+        "disgust": 0.480788,
+        "anger": 0.679401
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.954839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.890045,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Law",
+      "relevance": 0.697992,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.635468,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

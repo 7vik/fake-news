@@ -1,0 +1,273 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1200,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.47325,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Caitlyn Jenner\u2019s Secret Cyber Hookups",
+      "sentiment": {
+        "score": 0.820329,
+        "label": "positive"
+      },
+      "relevance": 0.923941,
+      "emotion": {
+        "sadness": 0.136942,
+        "joy": 0.426012,
+        "fear": 0.057242,
+        "disgust": 0.028334,
+        "anger": 0.074838
+      },
+      "count": 1
+    },
+    {
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0.820329,
+        "label": "positive"
+      },
+      "relevance": 0.803148,
+      "emotion": {
+        "sadness": 0.069599,
+        "joy": 0.66435,
+        "fear": 0.028004,
+        "disgust": 0.012078,
+        "anger": 0.144184
+      },
+      "count": 1
+    },
+    {
+      "text": "ex-wife",
+      "sentiment": {
+        "score": -0.963924,
+        "label": "negative"
+      },
+      "relevance": 0.750428,
+      "emotion": {
+        "sadness": 0.165614,
+        "joy": 0.170242,
+        "fear": 0.021677,
+        "disgust": 0.517287,
+        "anger": 0.325662
+      },
+      "count": 1
+    },
+    {
+      "text": "Angry Kris Jenner Steps",
+      "sentiment": {
+        "score": -0.963924,
+        "label": "negative"
+      },
+      "relevance": 0.654788,
+      "emotion": {
+        "sadness": 0.165614,
+        "joy": 0.170242,
+        "fear": 0.021677,
+        "disgust": 0.517287,
+        "anger": 0.325662
+      },
+      "count": 1
+    },
+    {
+      "text": "sexual preference",
+      "sentiment": {
+        "score": 0.635189,
+        "label": "positive"
+      },
+      "relevance": 0.615472,
+      "emotion": {
+        "sadness": 0.192472,
+        "joy": 0.152697,
+        "fear": 0.067899,
+        "disgust": 0.177204,
+        "anger": 0.13681
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0.147815,
+        "label": "positive"
+      },
+      "relevance": 0.833623,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            21,
+            35
+          ]
+        },
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            104,
+            118
+          ]
+        },
+        {
+          "text": "Caitlyn",
+          "location": [
+            417,
+            424
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            509,
+            515
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            599,
+            605
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            654,
+            657
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.092245,
+        "joy": 0.593851,
+        "fear": 0.062714,
+        "disgust": 0.454283,
+        "anger": 0.556107
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.435787,
+      "emotion": {
+        "sadness": 0.094476,
+        "joy": 0.050439,
+        "fear": 0.055667,
+        "disgust": 0.098966,
+        "anger": 0.582934
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Radar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.18507,
+      "mentions": [
+        {
+          "text": "Radar",
+          "location": [
+            583,
+            588
+          ]
+        },
+        {
+          "text": "Radar",
+          "location": [
+            1064,
+            1069
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Nacional Typefoundry",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nacional_Typefoundry"
+      },
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two decades",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.18507,
+      "mentions": [
+        {
+          "text": "two decades",
+          "location": [
+            761,
+            772
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sexual intercourse",
+      "relevance": 0.98757,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sexual_intercourse"
+    },
+    {
+      "text": "Human sexuality",
+      "relevance": 0.901684,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_sexuality"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.794651,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Sexual arousal",
+      "relevance": 0.779869,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sexual_arousal"
+    },
+    {
+      "text": "Transgender",
+      "relevance": 0.738055,
+      "dbpedia_resource": "http://dbpedia.org/resource/Transgender"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.822086,
+      "label": "/health and fitness/sexuality"
+    }
+  ]
+}

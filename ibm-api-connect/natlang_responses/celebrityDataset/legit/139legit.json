@@ -1,0 +1,82 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.292532,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Spice Girls",
+      "sentiment": {
+        "score": 0.766083,
+        "label": "positive"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.056481,
+        "joy": 0.52464,
+        "fear": 0.09428,
+        "disgust": 0.106362,
+        "anger": 0.094545
+      },
+      "count": 1
+    },
+    {
+      "text": "Reunion",
+      "sentiment": {
+        "score": 0.766083,
+        "label": "positive"
+      },
+      "relevance": 0.669577,
+      "emotion": {
+        "sadness": 0.056481,
+        "joy": 0.52464,
+        "fear": 0.09428,
+        "disgust": 0.106362,
+        "anger": 0.094545
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Spice Girls",
+      "relevance": 0.988496,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spice_Girls"
+    },
+    {
+      "text": "Too Much",
+      "relevance": 0.927961,
+      "dbpedia_resource": "http://dbpedia.org/resource/Too_Much_(Spice_Girls_song)"
+    },
+    {
+      "text": "Stop",
+      "relevance": 0.912247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stop_(Spice_Girls_song)"
+    },
+    {
+      "text": "Geri Halliwell",
+      "relevance": 0.911469,
+      "dbpedia_resource": "http://dbpedia.org/resource/Geri_Halliwell"
+    },
+    {
+      "text": "Spiceworld",
+      "relevance": 0.897809,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spiceworld_(album)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994959,
+      "label": "/careers/career planning"
+    }
+  ]
+}

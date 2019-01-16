@@ -1,0 +1,336 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 633,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.678979,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.791855,
+      "emotion": {
+        "sadness": 0.545214,
+        "joy": 0.297323,
+        "fear": 0.076241,
+        "disgust": 0.09586,
+        "anger": 0.038731
+      },
+      "count": 1
+    },
+    {
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.783549,
+      "emotion": {
+        "sadness": 0.545214,
+        "joy": 0.297323,
+        "fear": 0.076241,
+        "disgust": 0.09586,
+        "anger": 0.038731
+      },
+      "count": 1
+    },
+    {
+      "text": "young kid",
+      "sentiment": {
+        "score": -0.914929,
+        "label": "negative"
+      },
+      "relevance": 0.718909,
+      "emotion": {
+        "sadness": 0.554058,
+        "joy": 0.281267,
+        "fear": 0.103734,
+        "disgust": 0.089386,
+        "anger": 0.088051
+      },
+      "count": 1
+    },
+    {
+      "text": "Guardians of the Galaxy actor",
+      "sentiment": {
+        "score": -0.680825,
+        "label": "negative"
+      },
+      "relevance": 0.644136,
+      "emotion": {
+        "sadness": 0.589686,
+        "joy": 0.254867,
+        "fear": 0.100901,
+        "disgust": 0.077012,
+        "anger": 0.032991
+      },
+      "count": 1
+    },
+    {
+      "text": "celebrity-magnet Hillsong church",
+      "sentiment": {
+        "score": -0.680825,
+        "label": "negative"
+      },
+      "relevance": 0.637104,
+      "emotion": {
+        "sadness": 0.589686,
+        "joy": 0.254867,
+        "fear": 0.100901,
+        "disgust": 0.077012,
+        "anger": 0.032991
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.073427,
+        "label": "negative"
+      },
+      "relevance": 0.891431,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            18,
+            31
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            105,
+            118
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            263,
+            269
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            372,
+            378
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            399,
+            402
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            446,
+            449
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            455,
+            457
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            495,
+            501
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.644277,
+        "joy": 0.672801,
+        "fear": 0.103518,
+        "disgust": 0.168967,
+        "anger": 0.141539
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": -0.49186,
+        "label": "negative"
+      },
+      "relevance": 0.542794,
+      "mentions": [
+        {
+          "text": "Chris Pratt",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Chris Pratt",
+          "location": [
+            123,
+            134
+          ]
+        },
+        {
+          "text": "Chris",
+          "location": [
+            356,
+            361
+          ]
+        },
+        {
+          "text": "Chris",
+          "location": [
+            428,
+            433
+          ]
+        },
+        {
+          "text": "Chris",
+          "location": [
+            516,
+            521
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            534,
+            537
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.290139,
+        "joy": 0.654074,
+        "fear": 0.122256,
+        "disgust": 0.156343,
+        "anger": 0.262794
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Pratt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+      },
+      "count": 6
+    },
+    {
+      "type": "Facility",
+      "text": "Hillsong church",
+      "sentiment": {
+        "score": -0.442436,
+        "label": "negative"
+      },
+      "relevance": 0.204344,
+      "mentions": [
+        {
+          "text": "Hillsong church",
+          "location": [
+            209,
+            224
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.262729,
+        "joy": 0.24567,
+        "fear": 0.127607,
+        "disgust": 0.216129,
+        "anger": 0.054194
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Building"
+        ],
+        "name": "Hillsong Church",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillsong_Church"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "LA",
+      "sentiment": {
+        "score": -0.442436,
+        "label": "negative"
+      },
+      "relevance": 0.139323,
+      "mentions": [
+        {
+          "text": "LA",
+          "location": [
+            228,
+            230
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.262729,
+        "joy": 0.24567,
+        "fear": 0.127607,
+        "disgust": 0.216129,
+        "anger": 0.054194
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.902161,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Wanted",
+      "relevance": 0.872547,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wanted_(2008_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.579473,
+      "label": "/society/dating"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 512,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.748784,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Former Secretary of Education Arne Duncan",
+      "sentiment": {
+        "score": -0.557182,
+        "label": "negative"
+      },
+      "relevance": 0.980134,
+      "emotion": {
+        "sadness": 0.220479,
+        "joy": 0.081562,
+        "fear": 0.050316,
+        "disgust": 0.394159,
+        "anger": 0.116191
+      },
+      "count": 1
+    },
+    {
+      "text": "Arne Duncan",
+      "sentiment": {
+        "score": -0.557182,
+        "label": "negative"
+      },
+      "relevance": 0.939633,
+      "emotion": {
+        "sadness": 0.167124,
+        "joy": 0.097713,
+        "fear": 0.044371,
+        "disgust": 0.400249,
+        "anger": 0.137343
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington Post",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.756314,
+      "emotion": {
+        "sadness": 0.225919,
+        "joy": 0.151052,
+        "fear": 0.257473,
+        "disgust": 0.201545,
+        "anger": 0.120855
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.898165,
+        "label": "negative"
+      },
+      "relevance": 0.648265,
+      "emotion": {
+        "sadness": 0.220725,
+        "joy": 0.058526,
+        "fear": 0.062229,
+        "disgust": 0.5942,
+        "anger": 0.336596
+      },
+      "count": 2
+    },
+    {
+      "text": "LGBT community",
+      "sentiment": {
+        "score": -0.898165,
+        "label": "negative"
+      },
+      "relevance": 0.596247,
+      "emotion": {
+        "sadness": 0.212618,
+        "joy": 0.044596,
+        "fear": 0.054053,
+        "disgust": 0.467238,
+        "anger": 0.522884
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Arne Duncan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.911991,
+      "mentions": [
+        {
+          "text": "Arne Duncan",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Arne Duncan",
+          "location": [
+            67,
+            78
+          ]
+        },
+        {
+          "text": "Duncan",
+          "location": [
+            190,
+            196
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            348,
+            350
+          ]
+        },
+        {
+          "text": "Duncan",
+          "location": [
+            387,
+            393
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.167331,
+        "joy": 0.120072,
+        "fear": 0.112921,
+        "disgust": 0.474509,
+        "anger": 0.122314
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "BasketballPlayer",
+          "OfficeHolder"
+        ],
+        "name": "Arne Duncan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Arne_Duncan"
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Trump administration",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.602053,
+      "mentions": [
+        {
+          "text": "the Trump administration",
+          "location": [
+            232,
+            256
+          ]
+        },
+        {
+          "text": "Trump administration",
+          "location": [
+            490,
+            510
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.346759,
+        "joy": 0.181471,
+        "fear": 0.088272,
+        "disgust": 0.210754,
+        "anger": 0.100042
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.487778,
+        "label": "positive"
+      },
+      "relevance": 0.459222,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            13,
+            18
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.203905,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            44,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.220479,
+        "joy": 0.081562,
+        "fear": 0.050316,
+        "disgust": 0.394159,
+        "anger": 0.116191
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Washington Post",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.192935,
+      "mentions": [
+        {
+          "text": "Washington Post",
+          "location": [
+            407,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106012,
+        "joy": 0.20026,
+        "fear": 0.29937,
+        "disgust": 0.129541,
+        "anger": 0.075477
+      },
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ],
+        "name": "The Washington Post",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Washington Post",
+      "relevance": 0.920965,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+    },
+    {
+      "text": "LGBT",
+      "relevance": 0.87699,
+      "dbpedia_resource": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+      "text": "Arne Duncan",
+      "relevance": 0.86043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arne_Duncan"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.827848,
+      "label": "/society/gay life"
+    }
+  ]
+}

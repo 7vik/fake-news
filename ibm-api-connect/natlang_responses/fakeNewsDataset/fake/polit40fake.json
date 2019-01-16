@@ -1,0 +1,283 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 526,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.811144,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "months of Trump",
+      "sentiment": {
+        "score": -0.864242,
+        "label": "negative"
+      },
+      "relevance": 0.955726,
+      "emotion": {
+        "sadness": 0.283893,
+        "joy": 0.411386,
+        "fear": 0.133861,
+        "disgust": 0.198428,
+        "anger": 0.038082
+      },
+      "count": 1
+    },
+    {
+      "text": "prime minister of Germany",
+      "sentiment": {
+        "score": -0.882396,
+        "label": "negative"
+      },
+      "relevance": 0.753322,
+      "emotion": {
+        "sadness": 0.257965,
+        "joy": 0.178434,
+        "fear": 0.063054,
+        "disgust": 0.307148,
+        "anger": 0.071366
+      },
+      "count": 1
+    },
+    {
+      "text": "Merkel",
+      "sentiment": {
+        "score": -0.893359,
+        "label": "negative"
+      },
+      "relevance": 0.679421,
+      "emotion": {
+        "sadness": 0.465141,
+        "joy": 0.204302,
+        "fear": 0.183392,
+        "disgust": 0.303014,
+        "anger": 0.060044
+      },
+      "count": 3
+    },
+    {
+      "text": "face talk",
+      "sentiment": {
+        "score": -0.928465,
+        "label": "negative"
+      },
+      "relevance": 0.6601,
+      "emotion": {
+        "sadness": 0.579076,
+        "joy": 0.067148,
+        "fear": 0.318613,
+        "disgust": 0.191447,
+        "anger": 0.131282
+      },
+      "count": 1
+    },
+    {
+      "text": "specific remark",
+      "sentiment": {
+        "score": -0.882396,
+        "label": "negative"
+      },
+      "relevance": 0.629257,
+      "emotion": {
+        "sadness": 0.257965,
+        "joy": 0.178434,
+        "fear": 0.063054,
+        "disgust": 0.307148,
+        "anger": 0.071366
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.364551,
+        "label": "negative"
+      },
+      "relevance": 0.885541,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            44,
+            49
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            223,
+            228
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            412,
+            417
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            437,
+            442
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            453,
+            455
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.546355,
+        "joy": 0.115574,
+        "fear": 0.125894,
+        "disgust": 0.386324,
+        "anger": 0.068302
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Merkel",
+      "sentiment": {
+        "score": -0.459875,
+        "label": "negative"
+      },
+      "relevance": 0.581775,
+      "mentions": [
+        {
+          "text": "Merkel",
+          "location": [
+            58,
+            64
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            101,
+            104
+          ]
+        },
+        {
+          "text": "Merkel",
+          "location": [
+            142,
+            148
+          ]
+        },
+        {
+          "text": "Merkel",
+          "location": [
+            318,
+            324
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.270895,
+        "joy": 0.432549,
+        "fear": 0.123443,
+        "disgust": 0.197286,
+        "anger": 0.039046
+      },
+      "count": 4
+    },
+    {
+      "type": "JobTitle",
+      "text": "prime minister",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.218184,
+      "mentions": [
+        {
+          "text": "prime minister",
+          "location": [
+            337,
+            351
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.263481,
+        "joy": 0.172315,
+        "fear": 0.066088,
+        "disgust": 0.305144,
+        "anger": 0.068985
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Germany",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.162893,
+      "mentions": [
+        {
+          "text": "Germany",
+          "location": [
+            355,
+            362
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.263481,
+        "joy": 0.172315,
+        "fear": 0.066088,
+        "disgust": 0.305144,
+        "anger": 0.068985
+      },
+      "disambiguation": {
+        "subtype": [
+          "HumanLanguage",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "West Germany",
+        "dbpedia_resource": "http://dbpedia.org/resource/West_Germany"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Comment",
+      "relevance": 0.980612,
+      "dbpedia_resource": "http://dbpedia.org/resource/Comment"
+    },
+    {
+      "text": "Prime minister",
+      "relevance": 0.732325,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prime_minister"
+    },
+    {
+      "text": "Germany",
+      "relevance": 0.648917,
+      "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.821857,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

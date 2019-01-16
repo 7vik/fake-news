@@ -1,0 +1,298 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 784,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.790462,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ex-US Attorney",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.781485,
+      "emotion": {
+        "sadness": 0.298587,
+        "joy": 0.070368,
+        "fear": 0.021437,
+        "disgust": 0.339101,
+        "anger": 0.512209
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.860672,
+        "label": "negative"
+      },
+      "relevance": 0.772564,
+      "emotion": {
+        "sadness": 0.416487,
+        "joy": 0.14967,
+        "fear": 0.08547,
+        "disgust": 0.145125,
+        "anger": 0.293203
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. Attorney Barbara McQuade",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.679989,
+      "emotion": {
+        "sadness": 0.217787,
+        "joy": 0.109735,
+        "fear": 0.029792,
+        "disgust": 0.311309,
+        "anger": 0.543918
+      },
+      "count": 1
+    },
+    {
+      "text": "assistant U.S. attorney",
+      "sentiment": {
+        "score": -0.860672,
+        "label": "negative"
+      },
+      "relevance": 0.652104,
+      "emotion": {
+        "sadness": 0.40126,
+        "joy": 0.250875,
+        "fear": 0.115671,
+        "disgust": 0.069693,
+        "anger": 0.150144
+      },
+      "count": 1
+    },
+    {
+      "text": "University of Michigan law school",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.64921,
+      "emotion": {
+        "sadness": 0.217787,
+        "joy": 0.109735,
+        "fear": 0.029792,
+        "disgust": 0.311309,
+        "anger": 0.543918
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Barbara McQuade",
+      "sentiment": {
+        "score": -0.43606,
+        "label": "negative"
+      },
+      "relevance": 0.967524,
+      "mentions": [
+        {
+          "text": "Barbara McQuade",
+          "location": [
+            48,
+            63
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.298587,
+        "joy": 0.070368,
+        "fear": 0.021437,
+        "disgust": 0.339101,
+        "anger": 0.512209
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Barbara L. McQuade",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barbara_L._McQuade"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Michigan",
+      "sentiment": {
+        "score": -0.43606,
+        "label": "negative"
+      },
+      "relevance": 0.669443,
+      "mentions": [
+        {
+          "text": "Michigan",
+          "location": [
+            82,
+            90
+          ]
+        },
+        {
+          "text": "Michigan",
+          "location": [
+            425,
+            433
+          ]
+        },
+        {
+          "text": "Michigan",
+          "location": [
+            607,
+            615
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.376616,
+        "joy": 0.125392,
+        "fear": 0.040413,
+        "disgust": 0.24351,
+        "anger": 0.429032
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Michigan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michigan"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "University of Michigan law school",
+      "sentiment": {
+        "score": -0.597683,
+        "label": "negative"
+      },
+      "relevance": 0.665436,
+      "mentions": [
+        {
+          "text": "University of Michigan law school",
+          "location": [
+            181,
+            214
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217787,
+        "joy": 0.109735,
+        "fear": 0.029792,
+        "disgust": 0.311309,
+        "anger": 0.543918
+      },
+      "disambiguation": {
+        "subtype": [
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "University of Michigan Law School",
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_Michigan_Law_School"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bill Clinton",
+      "sentiment": {
+        "score": -0.516871,
+        "label": "negative"
+      },
+      "relevance": 0.650472,
+      "mentions": [
+        {
+          "text": "Bill Clinton",
+          "location": [
+            26,
+            38
+          ]
+        },
+        {
+          "text": "Bill Clinton",
+          "location": [
+            120,
+            132
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.212617,
+        "joy": 0.105653,
+        "fear": 0.016379,
+        "disgust": 0.338545,
+        "anger": 0.567074
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Politician",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "MusicalGroupMember",
+          "OfficeHolder",
+          "PoliticalAppointer",
+          "TVPersonality",
+          "FilmActor",
+          "FilmWriter",
+          "USPresident"
+        ],
+        "name": "Bill Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.987588,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.875622,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.866791,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.823714,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "United States presidential election, 2008",
+      "relevance": 0.756571,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_presidential_election,_2008"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.716435,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.167757,
+        "joy": 0.369957,
+        "fear": 0.078188,
+        "disgust": 0.047515,
+        "anger": 0.120047
+      },
+      "count": 1
+    },
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.973956,
+      "emotion": {
+        "sadness": 0.167757,
+        "joy": 0.369957,
+        "fear": 0.078188,
+        "disgust": 0.047515,
+        "anger": 0.120047
+      },
+      "count": 1
+    },
+    {
+      "text": "Voice",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.663188,
+      "emotion": {
+        "sadness": 0.167757,
+        "joy": 0.369957,
+        "fear": 0.078188,
+        "disgust": 0.047515,
+        "anger": 0.120047
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": 0.491569,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Gwen Stefani",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.143675,
+        "joy": 0.483618,
+        "fear": 0.08675,
+        "disgust": 0.022826,
+        "anger": 0.086219
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Gwen Stefani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.498967,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            57,
+            68
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "Gwen Stefani",
+      "relevance": 0.90459,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.733557,
+      "label": "/art and entertainment/music/singing"
+    }
+  ]
+}

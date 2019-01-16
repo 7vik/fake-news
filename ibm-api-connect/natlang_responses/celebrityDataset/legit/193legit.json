@@ -1,0 +1,402 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3558,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.480678,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Drake's New Single Mean",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.76922,
+      "emotion": {
+        "sadness": 0.339995,
+        "joy": 0.491326,
+        "fear": 0.078288,
+        "disgust": 0.131645,
+        "anger": 0.04328
+      },
+      "count": 1
+    },
+    {
+      "text": "much time",
+      "sentiment": {
+        "score": -0.354811,
+        "label": "negative"
+      },
+      "relevance": 0.609571,
+      "emotion": {
+        "sadness": 0.468361,
+        "joy": 0.391578,
+        "fear": 0.097685,
+        "disgust": 0.02048,
+        "anger": 0.02389
+      },
+      "count": 1
+    },
+    {
+      "text": "signature song",
+      "sentiment": {
+        "score": -0.857882,
+        "label": "negative"
+      },
+      "relevance": 0.584874,
+      "emotion": {
+        "sadness": 0.257108,
+        "joy": 0.405722,
+        "fear": 0.214889,
+        "disgust": 0.027774,
+        "anger": 0.152919
+      },
+      "count": 1
+    },
+    {
+      "text": "short time",
+      "sentiment": {
+        "score": -0.878544,
+        "label": "negative"
+      },
+      "relevance": 0.581682,
+      "emotion": {
+        "sadness": 0.485704,
+        "joy": 0.140101,
+        "fear": 0.183906,
+        "disgust": 0.113307,
+        "anger": 0.321933
+      },
+      "count": 1
+    },
+    {
+      "text": "next big hit",
+      "sentiment": {
+        "score": 0.356299,
+        "label": "positive"
+      },
+      "relevance": 0.58065,
+      "emotion": {
+        "sadness": 0.373217,
+        "joy": 0.475583,
+        "fear": 0.141601,
+        "disgust": 0.02948,
+        "anger": 0.023745
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Drake",
+      "sentiment": {
+        "score": 0.093446,
+        "label": "positive"
+      },
+      "relevance": 0.916419,
+      "mentions": [
+        {
+          "text": "Drake",
+          "location": [
+            5,
+            10
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            29,
+            31
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            907,
+            912
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1015,
+            1017
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            1211,
+            1216
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1255,
+            1257
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1336,
+            1338
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            1367,
+            1369
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1641,
+            1643
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            1705,
+            1710
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            2827,
+            2832
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            2984,
+            2986
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            2993,
+            2995
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            3119,
+            3124
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            3363,
+            3368
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            3385,
+            3392
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.547736,
+        "joy": 0.650713,
+        "fear": 0.115976,
+        "disgust": 0.069778,
+        "anger": 0.085206
+      },
+      "count": 17
+    },
+    {
+      "type": "Movie",
+      "text": "Signs",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.27265,
+      "mentions": [
+        {
+          "text": "Signs",
+          "location": [
+            336,
+            341
+          ]
+        },
+        {
+          "text": "Signs",
+          "location": [
+            702,
+            707
+          ]
+        },
+        {
+          "text": "Signs",
+          "location": [
+            3055,
+            3060
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.428573,
+        "joy": 0.108648,
+        "fear": 0.094426,
+        "disgust": 0.14627,
+        "anger": 0.056676
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Louis Vuitton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.243471,
+      "mentions": [
+        {
+          "text": "Louis Vuitton",
+          "location": [
+            240,
+            253
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.528578,
+        "joy": 0.086753,
+        "fear": 0.14184,
+        "disgust": 0.216205,
+        "anger": 0.194484
+      },
+      "disambiguation": {
+        "subtype": [
+          "Person",
+          "FashionLabel"
+        ],
+        "name": "Louis Vuitton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Louis_Vuitton"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "lead artist",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.231743,
+      "mentions": [
+        {
+          "text": "lead artist",
+          "location": [
+            675,
+            686
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214743,
+        "joy": 0.567851,
+        "fear": 0.033953,
+        "disgust": 0.094531,
+        "anger": 0.142619
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Spotify",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.221994,
+      "mentions": [
+        {
+          "text": "Spotify",
+          "location": [
+            359,
+            366
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110459,
+        "joy": 0.068301,
+        "fear": 0.082585,
+        "disgust": 0.017079,
+        "anger": 0.027164
+      },
+      "disambiguation": {
+        "subtype": [
+          "Software"
+        ],
+        "name": "Spotify",
+        "dbpedia_resource": "http://dbpedia.org/resource/Spotify"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Billboard charts",
+      "relevance": 0.969842,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billboard_charts"
+    },
+    {
+      "text": "Billboard",
+      "relevance": 0.79905,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billboard_(magazine)"
+    },
+    {
+      "text": "American Top 40",
+      "relevance": 0.763687,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Top_40"
+    },
+    {
+      "text": "Billboard Hot 100",
+      "relevance": 0.720936,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billboard_Hot_100"
+    },
+    {
+      "text": "Billboard 200",
+      "relevance": 0.718735,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billboard_200"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.833787,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

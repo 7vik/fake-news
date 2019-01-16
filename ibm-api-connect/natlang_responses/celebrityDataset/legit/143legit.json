@@ -1,0 +1,173 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.304686,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.304686,
+        "label": "negative"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.059524,
+        "joy": 0.555521,
+        "fear": 0.024201,
+        "disgust": 0.21398,
+        "anger": 0.092385
+      },
+      "count": 1
+    },
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.304686,
+        "label": "negative"
+      },
+      "relevance": 0.995401,
+      "emotion": {
+        "sadness": 0.059524,
+        "joy": 0.555521,
+        "fear": 0.024201,
+        "disgust": 0.21398,
+        "anger": 0.092385
+      },
+      "count": 1
+    },
+    {
+      "text": "Hockey Game",
+      "sentiment": {
+        "score": -0.304686,
+        "label": "negative"
+      },
+      "relevance": 0.948538,
+      "emotion": {
+        "sadness": 0.059524,
+        "joy": 0.555521,
+        "fear": 0.024201,
+        "disgust": 0.21398,
+        "anger": 0.092385
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.310277,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.059524,
+        "joy": 0.555521,
+        "fear": 0.024201,
+        "disgust": 0.21398,
+        "anger": 0.092385
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.310277,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            17,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.059524,
+        "joy": 0.555521,
+        "fear": 0.024201,
+        "disgust": 0.21398,
+        "anger": 0.092385
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "Hockey",
+      "sentiment": {
+        "score": -0.310277,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Hockey",
+          "location": [
+            50,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.059524,
+        "joy": 0.555521,
+        "fear": 0.024201,
+        "disgust": 0.21398,
+        "anger": 0.092385
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.999998,
+      "label": "/sports/hockey"
+    }
+  ]
+}

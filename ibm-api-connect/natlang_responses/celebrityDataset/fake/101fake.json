@@ -1,0 +1,448 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2901,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.578217,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Pregnant Kylie Jenner",
+      "sentiment": {
+        "score": -0.864766,
+        "label": "negative"
+      },
+      "relevance": 0.766158,
+      "emotion": {
+        "sadness": 0.333172,
+        "joy": 0.226087,
+        "fear": 0.150898,
+        "disgust": 0.328995,
+        "anger": 0.06021
+      },
+      "count": 1
+    },
+    {
+      "text": "Says SourceSince Kylie Jenner\u2019s pregnancy",
+      "sentiment": {
+        "score": -0.864766,
+        "label": "negative"
+      },
+      "relevance": 0.673536,
+      "emotion": {
+        "sadness": 0.333172,
+        "joy": 0.226087,
+        "fear": 0.150898,
+        "disgust": 0.328995,
+        "anger": 0.06021
+      },
+      "count": 1
+    },
+    {
+      "text": "rapper Travis Scott",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66039,
+      "emotion": {
+        "sadness": 0.318904,
+        "joy": 0.597121,
+        "fear": 0.016736,
+        "disgust": 0.047544,
+        "anger": 0.053099
+      },
+      "count": 1
+    },
+    {
+      "text": "20-year-old reality star",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.63604,
+      "emotion": {
+        "sadness": 0.318904,
+        "joy": 0.597121,
+        "fear": 0.016736,
+        "disgust": 0.047544,
+        "anger": 0.053099
+      },
+      "count": 1
+    },
+    {
+      "text": "closest friends",
+      "sentiment": {
+        "score": 0.493266,
+        "label": "positive"
+      },
+      "relevance": 0.621755,
+      "emotion": {
+        "sadness": 0.251957,
+        "joy": 0.472389,
+        "fear": 0.06013,
+        "disgust": 0.099268,
+        "anger": 0.166308
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.876949,
+      "mentions": [
+        {
+          "text": "Kylie",
+          "location": [
+            270,
+            275
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            340,
+            343
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            388,
+            391
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            433,
+            436
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            467,
+            470
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            494,
+            497
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            516,
+            519
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            1147,
+            1152
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1183,
+            1186
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            1286,
+            1291
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1455,
+            1458
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1492,
+            1495
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            1547,
+            1550
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1579,
+            1582
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            1777,
+            1782
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 15
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.27198,
+        "label": "negative"
+      },
+      "relevance": 0.86983,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            9,
+            21
+          ]
+        },
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            89,
+            101
+          ]
+        },
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            1921,
+            1933
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            2035,
+            2041
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            2560,
+            2566
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            2687,
+            2693
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114245,
+        "joy": 0.309164,
+        "fear": 0.084057,
+        "disgust": 0.225873,
+        "anger": 0.101024
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Travis Scott",
+      "sentiment": {
+        "score": 0.668342,
+        "label": "positive"
+      },
+      "relevance": 0.620387,
+      "mentions": [
+        {
+          "text": "Travis Scott",
+          "location": [
+            743,
+            755
+          ]
+        },
+        {
+          "text": "Travis",
+          "location": [
+            876,
+            882
+          ]
+        },
+        {
+          "text": "Travis",
+          "location": [
+            1125,
+            1131
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1157,
+            1159
+          ]
+        },
+        {
+          "text": "Travis",
+          "location": [
+            1787,
+            1793
+          ]
+        },
+        {
+          "text": "Travis Scott",
+          "location": [
+            1970,
+            1982
+          ]
+        },
+        {
+          "text": "Travis",
+          "location": [
+            2256,
+            2262
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137052,
+        "joy": 0.732776,
+        "fear": 0.049773,
+        "disgust": 0.070714,
+        "anger": 0.03201
+      },
+      "count": 7
+    },
+    {
+      "type": "Company",
+      "text": "Kylie Cosmetics",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.363952,
+      "mentions": [
+        {
+          "text": "Kylie Cosmetics",
+          "location": [
+            553,
+            568
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.148111,
+        "joy": 0.167374,
+        "fear": 0.05465,
+        "disgust": 0.145404,
+        "anger": 0.125453
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": 0.128123,
+        "label": "positive"
+      },
+      "relevance": 0.270174,
+      "mentions": [
+        {
+          "text": "Kim Kardashian West",
+          "location": [
+            2582,
+            2601
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            2660,
+            2670
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.470802,
+        "joy": 0.692856,
+        "fear": 0.091495,
+        "disgust": 0.116462,
+        "anger": 0.055832
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.943261,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.857223,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.772351,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.715037,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.707872,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.855271,
+      "label": "/society/dating"
+    }
+  ]
+}

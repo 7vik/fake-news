@@ -1,0 +1,228 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 126,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.356774,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Intense Emotional Support",
+      "sentiment": {
+        "score": 0.45621,
+        "label": "positive"
+      },
+      "relevance": 0.674103,
+      "emotion": {
+        "sadness": 0.470584,
+        "joy": 0.20223,
+        "fear": 0.010035,
+        "disgust": 0.079306,
+        "anger": 0.295214
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.481435,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie Divorce",
+      "sentiment": {
+        "score": 0.45621,
+        "label": "positive"
+      },
+      "relevance": 0.434317,
+      "emotion": {
+        "sadness": 0.470584,
+        "joy": 0.20223,
+        "fear": 0.010035,
+        "disgust": 0.079306,
+        "anger": 0.295214
+      },
+      "count": 1
+    },
+    {
+      "text": "Brad Pitt Texts Jennifer Aniston Nonstop",
+      "sentiment": {
+        "score": 0.45621,
+        "label": "positive"
+      },
+      "relevance": 0.404139,
+      "emotion": {
+        "sadness": 0.470584,
+        "joy": 0.20223,
+        "fear": 0.010035,
+        "disgust": 0.079306,
+        "anger": 0.295214
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.719046,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162978,
+        "joy": 0.194582,
+        "fear": 0.052324,
+        "disgust": 0.137553,
+        "anger": 0.104247
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.719046,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            16,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162978,
+        "joy": 0.194582,
+        "fear": 0.052324,
+        "disgust": 0.137553,
+        "anger": 0.104247
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.336911,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            80,
+            94
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.555899,
+        "joy": 0.218314,
+        "fear": 0.010585,
+        "disgust": 0.074616,
+        "anger": 0.247757
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.983136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.970813,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.760661,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "People",
+      "relevance": 0.641217,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.616933,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.981503,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

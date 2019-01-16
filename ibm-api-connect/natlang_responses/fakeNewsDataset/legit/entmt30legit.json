@@ -1,0 +1,372 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1269,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.383908,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Olivia Newton-John hints",
+      "sentiment": {
+        "score": 0.650754,
+        "label": "positive"
+      },
+      "relevance": 0.833426,
+      "emotion": {
+        "sadness": 0.135193,
+        "joy": 0.352254,
+        "fear": 0.016768,
+        "disgust": 0.045045,
+        "anger": 0.035907
+      },
+      "count": 1
+    },
+    {
+      "text": "John Travolta",
+      "sentiment": {
+        "score": 0.650754,
+        "label": "positive"
+      },
+      "relevance": 0.749443,
+      "emotion": {
+        "sadness": 0.072198,
+        "joy": 0.656654,
+        "fear": 0.007679,
+        "disgust": 0.068987,
+        "anger": 0.020002
+      },
+      "count": 1
+    },
+    {
+      "text": "Good news",
+      "sentiment": {
+        "score": 0.650754,
+        "label": "positive"
+      },
+      "relevance": 0.738852,
+      "emotion": {
+        "sadness": 0.069789,
+        "joy": 0.651995,
+        "fear": 0.010963,
+        "disgust": 0.127595,
+        "anger": 0.019164
+      },
+      "count": 1
+    },
+    {
+      "text": "Australian actress",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.722002,
+      "emotion": {
+        "sadness": 0.149555,
+        "joy": 0.390805,
+        "fear": 0.028633,
+        "disgust": 0.016526,
+        "anger": 0.011222
+      },
+      "count": 1
+    },
+    {
+      "text": "Fame Awards",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.653618,
+      "emotion": {
+        "sadness": 0.181335,
+        "joy": 0.656201,
+        "fear": 0.028502,
+        "disgust": 0.060195,
+        "anger": 0.031331
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Olivia Newton-John",
+      "sentiment": {
+        "score": -0.027667,
+        "label": "negative"
+      },
+      "relevance": 0.922904,
+      "mentions": [
+        {
+          "text": "Olivia Newton-John",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Olivia Newton-John",
+          "location": [
+            171,
+            189
+          ]
+        },
+        {
+          "text": "the Icon Award  Newton-John",
+          "location": [
+            558,
+            585
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            716,
+            719
+          ]
+        },
+        {
+          "text": "Newton-John",
+          "location": [
+            815,
+            826
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            854,
+            857
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            963,
+            966
+          ]
+        },
+        {
+          "text": "Newton-John",
+          "location": [
+            1206,
+            1217
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.476583,
+        "joy": 0.54908,
+        "fear": 0.067394,
+        "disgust": 0.120975,
+        "anger": 0.074606
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Olivia Newton-John",
+        "dbpedia_resource": "http://dbpedia.org/resource/Olivia_Newton-John"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "John Travolta",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.424051,
+      "mentions": [
+        {
+          "text": "John Travolta",
+          "location": [
+            50,
+            63
+          ]
+        },
+        {
+          "text": "John Travolta",
+          "location": [
+            153,
+            166
+          ]
+        },
+        {
+          "text": "Travolta",
+          "location": [
+            381,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.14415,
+        "joy": 0.473466,
+        "fear": 0.009758,
+        "disgust": 0.033854,
+        "anger": 0.01776
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "John Travolta",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Travolta"
+      },
+      "count": 3
+    },
+    {
+      "type": "Movie",
+      "text": "Grease",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.278322,
+      "mentions": [
+        {
+          "text": "Grease",
+          "location": [
+            139,
+            145
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Film"
+        ],
+        "name": "Grease (film)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Grease_(film)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Las Vegas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.171613,
+      "mentions": [
+        {
+          "text": "Las Vegas",
+          "location": [
+            523,
+            532
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.182593,
+        "joy": 0.642713,
+        "fear": 0.024577,
+        "disgust": 0.051398,
+        "anger": 0.023586
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Britain",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.160062,
+      "mentions": [
+        {
+          "text": "Britain",
+          "location": [
+            209,
+            216
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Olivia Newton-John",
+      "relevance": 0.976393,
+      "dbpedia_resource": "http://dbpedia.org/resource/Olivia_Newton-John"
+    },
+    {
+      "text": "Grease",
+      "relevance": 0.871235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grease_(film)"
+    },
+    {
+      "text": "John Travolta",
+      "relevance": 0.860821,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_Travolta"
+    },
+    {
+      "text": "Mind",
+      "relevance": 0.852611,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mind"
+    },
+    {
+      "text": "Thought",
+      "relevance": 0.810052,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thought"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.58047,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

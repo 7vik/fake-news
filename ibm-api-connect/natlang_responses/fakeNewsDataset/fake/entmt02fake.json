@@ -1,0 +1,341 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 955,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.747367,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Emma Thompson",
+      "sentiment": {
+        "score": -0.782392,
+        "label": "negative"
+      },
+      "relevance": 0.843369,
+      "emotion": {
+        "sadness": 0.546968,
+        "joy": 0.137892,
+        "fear": 0.059547,
+        "disgust": 0.2271,
+        "anger": 0.190121
+      },
+      "count": 2
+    },
+    {
+      "text": "Fat shaming",
+      "sentiment": {
+        "score": -0.782392,
+        "label": "negative"
+      },
+      "relevance": 0.806013,
+      "emotion": {
+        "sadness": 0.222097,
+        "joy": 0.120726,
+        "fear": 0.091144,
+        "disgust": 0.282002,
+        "anger": 0.253426
+      },
+      "count": 2
+    },
+    {
+      "text": "young women",
+      "sentiment": {
+        "score": -0.486671,
+        "label": "negative"
+      },
+      "relevance": 0.768815,
+      "emotion": {
+        "sadness": 0.696922,
+        "joy": 0.238995,
+        "fear": 0.046457,
+        "disgust": 0.059395,
+        "anger": 0.043655
+      },
+      "count": 1
+    },
+    {
+      "text": "Swedish television",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.741663,
+      "emotion": {
+        "sadness": 0.077702,
+        "joy": 0.408637,
+        "fear": 0.1914,
+        "disgust": 0.059001,
+        "anger": 0.039625
+      },
+      "count": 1
+    },
+    {
+      "text": "producer fat shaming",
+      "sentiment": {
+        "score": -0.875138,
+        "label": "negative"
+      },
+      "relevance": 0.635987,
+      "emotion": {
+        "sadness": 0.341245,
+        "joy": 0.131568,
+        "fear": 0.055718,
+        "disgust": 0.492795,
+        "anger": 0.237768
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Emma Thompson",
+      "sentiment": {
+        "score": -0.691033,
+        "label": "negative"
+      },
+      "relevance": 0.850822,
+      "mentions": [
+        {
+          "text": "Emma Thompson",
+          "location": [
+            17,
+            30
+          ]
+        },
+        {
+          "text": "Emma Thompson",
+          "location": [
+            82,
+            95
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            216,
+            219
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            225,
+            228
+          ]
+        },
+        {
+          "text": "Thompson",
+          "location": [
+            286,
+            294
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            359,
+            362
+          ]
+        },
+        {
+          "text": "Thompson",
+          "location": [
+            621,
+            629
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            640,
+            643
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.63645,
+        "joy": 0.076642,
+        "fear": 0.205024,
+        "disgust": 0.226365,
+        "anger": 0.196485
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Emma Thompson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Emma_Thompson"
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": -0.884275,
+        "label": "negative"
+      },
+      "relevance": 0.28473,
+      "mentions": [
+        {
+          "text": "Los Angeles",
+          "location": [
+            38,
+            49
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "location": [
+            111,
+            122
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.192596,
+        "joy": 0.161195,
+        "fear": 0.074844,
+        "disgust": 0.240245,
+        "anger": 0.214188
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Brideshead Revisited",
+      "sentiment": {
+        "score": -0.657199,
+        "label": "negative"
+      },
+      "relevance": 0.204511,
+      "mentions": [
+        {
+          "text": "Brideshead Revisited",
+          "location": [
+            673,
+            693
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.534746,
+        "joy": 0.041253,
+        "fear": 0.410447,
+        "disgust": 0.211254,
+        "anger": 0.118938
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "producer",
+      "sentiment": {
+        "score": -0.863717,
+        "label": "negative"
+      },
+      "relevance": 0.158678,
+      "mentions": [
+        {
+          "text": "producer",
+          "location": [
+            752,
+            760
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.341245,
+        "joy": 0.131568,
+        "fear": 0.055718,
+        "disgust": 0.492795,
+        "anger": 0.237768
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": -0.301371,
+        "label": "negative"
+      },
+      "relevance": 0.149564,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            134,
+            143
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.711326,
+        "joy": 0.073462,
+        "fear": 0.102636,
+        "disgust": 0.107313,
+        "anger": 0.162843
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nutrition",
+      "relevance": 0.969883,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nutrition"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.950709,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Brideshead Revisited",
+      "relevance": 0.825489,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brideshead_Revisited"
+    },
+    {
+      "text": "Dieting",
+      "relevance": 0.698774,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dieting"
+    },
+    {
+      "text": "Actor",
+      "relevance": 0.678832,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.892701,
+      "label": "/health and fitness/weight loss"
+    }
+  ]
+}

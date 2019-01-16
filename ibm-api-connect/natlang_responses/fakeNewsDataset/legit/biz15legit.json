@@ -1,0 +1,266 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 824,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.858532,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "bank employees",
+      "sentiment": {
+        "score": -0.635936,
+        "label": "negative"
+      },
+      "relevance": 0.890086,
+      "emotion": {
+        "sadness": 0.140171,
+        "joy": 0.195434,
+        "fear": 0.095856,
+        "disgust": 0.248203,
+        "anger": 0.357087
+      },
+      "count": 1
+    },
+    {
+      "text": "Wells Fargo profits",
+      "sentiment": {
+        "score": -0.990275,
+        "label": "negative"
+      },
+      "relevance": 0.831113,
+      "emotion": {
+        "sadness": 0.063597,
+        "joy": 0.184363,
+        "fear": 0.15188,
+        "disgust": 0.116012,
+        "anger": 0.311162
+      },
+      "count": 1
+    },
+    {
+      "text": "fake accounts scandal",
+      "sentiment": {
+        "score": -0.990275,
+        "label": "negative"
+      },
+      "relevance": 0.806862,
+      "emotion": {
+        "sadness": 0.271142,
+        "joy": 0.032176,
+        "fear": 0.044998,
+        "disgust": 0.342031,
+        "anger": 0.282366
+      },
+      "count": 1
+    },
+    {
+      "text": "Third quarter profit",
+      "sentiment": {
+        "score": -0.883809,
+        "label": "negative"
+      },
+      "relevance": 0.614919,
+      "emotion": {
+        "sadness": 0.18057,
+        "joy": 0.155998,
+        "fear": 0.116309,
+        "disgust": 0.033242,
+        "anger": 0.083449
+      },
+      "count": 1
+    },
+    {
+      "text": "potential costs",
+      "sentiment": {
+        "score": -0.990275,
+        "label": "negative"
+      },
+      "relevance": 0.597567,
+      "emotion": {
+        "sadness": 0.271142,
+        "joy": 0.032176,
+        "fear": 0.044998,
+        "disgust": 0.342031,
+        "anger": 0.282366
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Wells Fargo",
+      "sentiment": {
+        "score": -0.656739,
+        "label": "negative"
+      },
+      "relevance": 0.87933,
+      "mentions": [
+        {
+          "text": "Wells Fargo",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Wells Fargo",
+          "location": [
+            47,
+            58
+          ]
+        },
+        {
+          "text": "Wells Fargo",
+          "location": [
+            495,
+            506
+          ]
+        },
+        {
+          "text": "Wells Fargo",
+          "location": [
+            534,
+            545
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.11775,
+        "joy": 0.022164,
+        "fear": 0.031941,
+        "disgust": 0.462158,
+        "anger": 0.582721
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Wells Fargo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wells_Fargo"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "John Stumpf",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.192245,
+      "mentions": [
+        {
+          "text": "John Stumpf",
+          "location": [
+            512,
+            523
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.165948,
+        "joy": 0.029546,
+        "fear": 0.102595,
+        "disgust": 0.252312,
+        "anger": 0.536681
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember"
+        ],
+        "name": "John Stumpf",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Stumpf"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.904474,
+        "label": "negative"
+      },
+      "relevance": 0.16125,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            39,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.271142,
+        "joy": 0.032176,
+        "fear": 0.044998,
+        "disgust": 0.342031,
+        "anger": 0.282366
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "185m",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.16125,
+      "mentions": [
+        {
+          "text": "185m",
+          "location": [
+            450,
+            454
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Wells Fargo",
+      "relevance": 0.973895,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wells_Fargo"
+    },
+    {
+      "text": "Bank of America",
+      "relevance": 0.544757,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bank_of_America"
+    },
+    {
+      "text": "David Wenham",
+      "relevance": 0.50742,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Wenham"
+    },
+    {
+      "text": "Civil procedure",
+      "relevance": 0.450646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Civil_procedure"
+    },
+    {
+      "text": "Costs",
+      "relevance": 0.45034,
+      "dbpedia_resource": "http://dbpedia.org/resource/Costs_(English_law)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.992978,
+      "label": "/business and industrial/company/earnings"
+    }
+  ]
+}

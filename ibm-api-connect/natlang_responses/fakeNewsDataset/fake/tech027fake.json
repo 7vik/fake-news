@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 522,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.444207,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great examples of love",
+      "sentiment": {
+        "score": 0.952603,
+        "label": "positive"
+      },
+      "relevance": 0.756836,
+      "emotion": {
+        "sadness": 0.194591,
+        "joy": 0.742448,
+        "fear": 0.009054,
+        "disgust": 0.032651,
+        "anger": 0.011493
+      },
+      "count": 1
+    },
+    {
+      "text": "lovely ceremony",
+      "sentiment": {
+        "score": -0.527998,
+        "label": "negative"
+      },
+      "relevance": 0.731346,
+      "emotion": {
+        "sadness": 0.3053,
+        "joy": 0.550622,
+        "fear": 0.026822,
+        "disgust": 0.09032,
+        "anger": 0.047501
+      },
+      "count": 1
+    },
+    {
+      "text": "official Bert",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.697799,
+      "emotion": {
+        "sadness": 0.047842,
+        "joy": 0.477623,
+        "fear": 0.109932,
+        "disgust": 0.264453,
+        "anger": 0.124136
+      },
+      "count": 1
+    },
+    {
+      "text": "Ernie of Sesame Street fame",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.648945,
+      "emotion": {
+        "sadness": 0.047842,
+        "joy": 0.477623,
+        "fear": 0.109932,
+        "disgust": 0.264453,
+        "anger": 0.124136
+      },
+      "count": 1
+    },
+    {
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.636416,
+        "label": "negative"
+      },
+      "relevance": 0.631161,
+      "emotion": {
+        "sadness": 0.194591,
+        "joy": 0.742448,
+        "fear": 0.009054,
+        "disgust": 0.032651,
+        "anger": 0.011493
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bert",
+      "sentiment": {
+        "score": 0.628896,
+        "label": "positive"
+      },
+      "relevance": 0.796955,
+      "mentions": [
+        {
+          "text": "Bert",
+          "location": [
+            14,
+            18
+          ]
+        },
+        {
+          "text": "Bert",
+          "location": [
+            362,
+            366
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.023012,
+        "joy": 0.949934,
+        "fear": 0.00407,
+        "disgust": 0.014378,
+        "anger": 0.007714
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ernie",
+      "sentiment": {
+        "score": 0.628896,
+        "label": "positive"
+      },
+      "relevance": 0.779327,
+      "mentions": [
+        {
+          "text": "Ernie",
+          "location": [
+            23,
+            28
+          ]
+        },
+        {
+          "text": "Ernie",
+          "location": [
+            371,
+            376
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.023012,
+        "joy": 0.949934,
+        "fear": 0.00407,
+        "disgust": 0.014378,
+        "anger": 0.007714
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.334476,
+        "label": "negative"
+      },
+      "relevance": 0.47992,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            208,
+            215
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.349205,
+        "joy": 0.283546,
+        "fear": 0.069524,
+        "disgust": 0.317172,
+        "anger": 0.080927
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.348082,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            5,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.063999,
+        "joy": 0.428507,
+        "fear": 0.116378,
+        "disgust": 0.281464,
+        "anger": 0.122047
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ernie",
+      "relevance": 0.983094,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ernie"
+    },
+    {
+      "text": "The Muppets Take Manhattan",
+      "relevance": 0.72267,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Muppets_Take_Manhattan"
+    },
+    {
+      "text": "Jim Henson",
+      "relevance": 0.644461,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jim_Henson"
+    },
+    {
+      "text": "Love",
+      "relevance": 0.612848,
+      "dbpedia_resource": "http://dbpedia.org/resource/Love"
+    },
+    {
+      "text": "Sesame Street",
+      "relevance": 0.605474,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sesame_Street"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.763422,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

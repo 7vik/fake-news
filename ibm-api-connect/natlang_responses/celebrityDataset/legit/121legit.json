@@ -1,0 +1,208 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 73,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.683026,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.19821,
+        "joy": 0.101123,
+        "fear": 0.050634,
+        "disgust": 0.391155,
+        "anger": 0.29711
+      },
+      "count": 1
+    },
+    {
+      "text": "Robert Kardashian Believed O.J. Simpson Guilty of Murder",
+      "sentiment": {
+        "score": -0.683026,
+        "label": "negative"
+      },
+      "relevance": 0.012194,
+      "emotion": {
+        "sadness": 0.19821,
+        "joy": 0.101123,
+        "fear": 0.050634,
+        "disgust": 0.391155,
+        "anger": 0.29711
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.183992,
+        "fear": 0.087573,
+        "disgust": 0.088232,
+        "anger": 0.090723
+      },
+      "count": 1
+    },
+    {
+      "type": "Crime",
+      "text": "Murder",
+      "sentiment": {
+        "score": -0.546112,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Murder",
+          "location": [
+            66,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20904,
+        "joy": 0.073584,
+        "fear": 0.04213,
+        "disgust": 0.514392,
+        "anger": 0.361381
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Kardashian",
+      "sentiment": {
+        "score": -0.546112,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robert Kardashian",
+          "location": [
+            16,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20904,
+        "joy": 0.073584,
+        "fear": 0.04213,
+        "disgust": 0.514392,
+        "anger": 0.361381
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Robert Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "O.J. Simpson",
+      "sentiment": {
+        "score": -0.546112,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "O.J. Simpson",
+          "location": [
+            43,
+            55
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20904,
+        "joy": 0.073584,
+        "fear": 0.04213,
+        "disgust": 0.514392,
+        "anger": 0.361381
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Criminal",
+          "FootballPlayer",
+          "HallOfFameInductee",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "O. J. Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "O. J. Simpson murder case",
+      "relevance": 0.942338,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson_murder_case"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.83886,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.816753,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.796257,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.790353,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.629585,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

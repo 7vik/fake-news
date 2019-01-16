@@ -1,0 +1,176 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.559042,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.661144,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    },
+    {
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.452517,
+      "emotion": {
+        "sadness": 0.152621,
+        "joy": 0.120543,
+        "fear": 0.149421,
+        "disgust": 0.224576,
+        "anger": 0.141669
+      },
+      "count": 1
+    },
+    {
+      "text": "Sarah Jessica Parker Inherits Vogue Magazine Control",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.38275,
+      "emotion": {
+        "sadness": 0.152621,
+        "joy": 0.120543,
+        "fear": 0.149421,
+        "disgust": 0.224576,
+        "anger": 0.141669
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anna Wintour",
+          "location": [
+            58,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16734,
+        "joy": 0.188343,
+        "fear": 0.141239,
+        "disgust": 0.213084,
+        "anger": 0.121421
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist"
+        ],
+        "name": "Anna Wintour",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sarah Jessica Parker",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Sarah Jessica Parker",
+          "location": [
+            0,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16734,
+        "joy": 0.188343,
+        "fear": 0.141239,
+        "disgust": 0.213084,
+        "anger": 0.121421
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "Hobbyist",
+          "TheaterActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Sarah Jessica Parker",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sarah_Jessica_Parker"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Anna Wintour",
+      "relevance": 0.980795,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+      "text": "Vogue",
+      "relevance": 0.980795,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+      "text": "Lauren Weisberger",
+      "relevance": 0.932313,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lauren_Weisberger"
+    },
+    {
+      "text": "Grace Mirabella",
+      "relevance": 0.878567,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grace_Mirabella"
+    },
+    {
+      "text": "The Devil Wears Prada",
+      "relevance": 0.878352,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Devil_Wears_Prada_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.771276,
+      "label": "/style and fashion/men 's fashion"
+    }
+  ]
+}

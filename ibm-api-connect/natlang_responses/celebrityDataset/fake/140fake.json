@@ -1,0 +1,285 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 455,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.880027,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0.893174,
+        "label": "positive"
+      },
+      "relevance": 0.984267,
+      "emotion": {
+        "sadness": 0.028644,
+        "joy": 0.888993,
+        "fear": 0.004019,
+        "disgust": 0.035176,
+        "anger": 0.037514
+      },
+      "count": 2
+    },
+    {
+      "text": "Kate Winslet",
+      "sentiment": {
+        "score": 0.893174,
+        "label": "positive"
+      },
+      "relevance": 0.826438,
+      "emotion": {
+        "sadness": 0.028644,
+        "joy": 0.888993,
+        "fear": 0.004019,
+        "disgust": 0.035176,
+        "anger": 0.037514
+      },
+      "count": 2
+    },
+    {
+      "text": "Santa Monica restaurant Giorgio Baldi",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.793224,
+      "emotion": {
+        "sadness": 0.291018,
+        "joy": 0.309454,
+        "fear": 0.154753,
+        "disgust": 0.150275,
+        "anger": 0.168309
+      },
+      "count": 1
+    },
+    {
+      "text": "Friday night",
+      "sentiment": {
+        "score": 0.81268,
+        "label": "positive"
+      },
+      "relevance": 0.70956,
+      "emotion": {
+        "sadness": 0.087516,
+        "joy": 0.824818,
+        "fear": 0.010723,
+        "disgust": 0.020977,
+        "anger": 0.029481
+      },
+      "count": 1
+    },
+    {
+      "text": "Date Night",
+      "sentiment": {
+        "score": 0.955631,
+        "label": "positive"
+      },
+      "relevance": 0.604117,
+      "emotion": {
+        "sadness": 0.021998,
+        "joy": 0.8424,
+        "fear": 0.006881,
+        "disgust": 0.061586,
+        "anger": 0.034419
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0.686215,
+        "label": "positive"
+      },
+      "relevance": 0.924928,
+      "mentions": [
+        {
+          "text": "Leonardo DiCaprio",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "Leonardo DiCaprio",
+          "location": [
+            89,
+            106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.038366,
+        "joy": 0.832316,
+        "fear": 0.009764,
+        "disgust": 0.053379,
+        "anger": 0.043891
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Leonardo DiCaprio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kate Winslet",
+      "sentiment": {
+        "score": 0.916316,
+        "label": "positive"
+      },
+      "relevance": 0.872278,
+      "mentions": [
+        {
+          "text": "Kate Winslet",
+          "location": [
+            43,
+            55
+          ]
+        },
+        {
+          "text": "Kate Winslet",
+          "location": [
+            145,
+            157
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.029715,
+        "joy": 0.804787,
+        "fear": 0.007433,
+        "disgust": 0.07348,
+        "anger": 0.038009
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kate Winslet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Giorgio Baldi",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.404814,
+      "mentions": [
+        {
+          "text": "Giorgio Baldi",
+          "location": [
+            298,
+            311
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272527,
+        "joy": 0.42996,
+        "fear": 0.086769,
+        "disgust": 0.101236,
+        "anger": 0.08831
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Santa Monica",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.318933,
+      "mentions": [
+        {
+          "text": "Santa Monica",
+          "location": [
+            274,
+            286
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272527,
+        "joy": 0.42996,
+        "fear": 0.086769,
+        "disgust": 0.101236,
+        "anger": 0.08831
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two hours",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.318933,
+      "mentions": [
+        {
+          "text": "two hours",
+          "location": [
+            248,
+            257
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kate Winslet",
+      "relevance": 0.967974,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+    },
+    {
+      "text": "Leonardo DiCaprio",
+      "relevance": 0.817236,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+    },
+    {
+      "text": "Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture",
+      "relevance": 0.814232,
+      "dbpedia_resource": "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.666875,
+      "label": "/automotive and vehicles/cars/car culture"
+    }
+  ]
+}

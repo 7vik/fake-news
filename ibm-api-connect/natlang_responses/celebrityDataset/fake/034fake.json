@@ -1,0 +1,323 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 537,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.323198,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.570642,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.971184,
+      "emotion": {
+        "sadness": 0.073489,
+        "joy": 0.831226,
+        "fear": 0.027502,
+        "disgust": 0.062982,
+        "anger": 0.013895
+      },
+      "count": 2
+    },
+    {
+      "text": "Starring Glenn Close",
+      "sentiment": {
+        "score": -0.429408,
+        "label": "negative"
+      },
+      "relevance": 0.757159,
+      "emotion": {
+        "sadness": 0.204481,
+        "joy": 0.527514,
+        "fear": 0.045743,
+        "disgust": 0.101349,
+        "anger": 0.056023
+      },
+      "count": 1
+    },
+    {
+      "text": "Golden Globes",
+      "sentiment": {
+        "score": -0.610015,
+        "label": "negative"
+      },
+      "relevance": 0.692801,
+      "emotion": {
+        "sadness": 0.169307,
+        "joy": 0.610672,
+        "fear": 0.143632,
+        "disgust": 0.065864,
+        "anger": 0.091109
+      },
+      "count": 1
+    },
+    {
+      "text": "Movie",
+      "sentiment": {
+        "score": -0.429408,
+        "label": "negative"
+      },
+      "relevance": 0.657669,
+      "emotion": {
+        "sadness": 0.204481,
+        "joy": 0.527514,
+        "fear": 0.045743,
+        "disgust": 0.101349,
+        "anger": 0.056023
+      },
+      "count": 2
+    },
+    {
+      "text": "legendary actress Glenn Close",
+      "sentiment": {
+        "score": 0.911821,
+        "label": "positive"
+      },
+      "relevance": 0.62172,
+      "emotion": {
+        "sadness": 0.089388,
+        "joy": 0.816692,
+        "fear": 0.042261,
+        "disgust": 0.04952,
+        "anger": 0.009567
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.697122,
+        "label": "positive"
+      },
+      "relevance": 0.859677,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            80,
+            95
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            441,
+            448
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.06388,
+        "joy": 0.852573,
+        "fear": 0.027404,
+        "disgust": 0.024539,
+        "anger": 0.019164
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Glenn Close",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.831203,
+      "mentions": [
+        {
+          "text": "Glenn Close",
+          "location": [
+            37,
+            48
+          ]
+        },
+        {
+          "text": "Glenn Close",
+          "location": [
+            140,
+            151
+          ]
+        },
+        {
+          "text": "Glenn",
+          "location": [
+            226,
+            231
+          ]
+        },
+        {
+          "text": "Close",
+          "location": [
+            388,
+            393
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.222958,
+        "joy": 0.624983,
+        "fear": 0.110967,
+        "disgust": 0.104336,
+        "anger": 0.059121
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Glenn Close",
+        "dbpedia_resource": "http://dbpedia.org/resource/Glenn_Close"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Rob Shuter",
+      "sentiment": {
+        "score": 0.270998,
+        "label": "positive"
+      },
+      "relevance": 0.484415,
+      "mentions": [
+        {
+          "text": "Rob Shuter",
+          "location": [
+            499,
+            509
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20458,
+        "joy": 0.461706,
+        "fear": 0.043708,
+        "disgust": 0.126155,
+        "anger": 0.171715
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Rob Shuter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rob_Shuter"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Meryl [Streep",
+      "sentiment": {
+        "score": -0.639362,
+        "label": "negative"
+      },
+      "relevance": 0.380412,
+      "emotion": {
+        "sadness": 0.259624,
+        "joy": 0.391497,
+        "fear": 0.060393,
+        "disgust": 0.122884,
+        "anger": 0.22599
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Golden Globes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.281108,
+      "mentions": [
+        {
+          "text": "Golden Globes",
+          "location": [
+            325,
+            338
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Meryl Streep",
+      "relevance": 0.94962,
+      "dbpedia_resource": "http://dbpedia.org/resource/Meryl_Streep"
+    },
+    {
+      "text": "First Lady of the United States",
+      "relevance": 0.943547,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    },
+    {
+      "text": "Glenn Close",
+      "relevance": 0.940682,
+      "dbpedia_resource": "http://dbpedia.org/resource/Glenn_Close"
+    },
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.91809,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.87663,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.920021,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

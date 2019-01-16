@@ -1,0 +1,311 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 505,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.558427,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ray J",
+      "sentiment": {
+        "score": -0.880044,
+        "label": "negative"
+      },
+      "relevance": 0.905631,
+      "emotion": {
+        "sadness": 0.024663,
+        "joy": 0.569661,
+        "fear": 0.008311,
+        "disgust": 0.009312,
+        "anger": 0.064857
+      },
+      "count": 2
+    },
+    {
+      "text": "Secret Service",
+      "sentiment": {
+        "score": -0.880044,
+        "label": "negative"
+      },
+      "relevance": 0.794359,
+      "emotion": {
+        "sadness": 0.043799,
+        "joy": 0.148621,
+        "fear": 0.02065,
+        "disgust": 0.004108,
+        "anger": 0.034944
+      },
+      "count": 2
+    },
+    {
+      "text": "president\u2019s daughter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.621143,
+      "emotion": {
+        "sadness": 0.036484,
+        "joy": 0.509432,
+        "fear": 0.01253,
+        "disgust": 0.006351,
+        "anger": 0.019535
+      },
+      "count": 1
+    },
+    {
+      "text": "Barack wasn\u2019t",
+      "sentiment": {
+        "score": -0.909719,
+        "label": "negative"
+      },
+      "relevance": 0.603152,
+      "emotion": {
+        "sadness": 0.036484,
+        "joy": 0.509432,
+        "fear": 0.01253,
+        "disgust": 0.006351,
+        "anger": 0.019535
+      },
+      "count": 1
+    },
+    {
+      "text": "Malia Obama",
+      "sentiment": {
+        "score": -0.880044,
+        "label": "negative"
+      },
+      "relevance": 0.568743,
+      "emotion": {
+        "sadness": 0.025418,
+        "joy": 0.503962,
+        "fear": 0.007531,
+        "disgust": 0.007872,
+        "anger": 0.044384
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Malia Obama",
+      "sentiment": {
+        "score": 0.499179,
+        "label": "positive"
+      },
+      "relevance": 0.895106,
+      "mentions": [
+        {
+          "text": "Malia Obama",
+          "location": [
+            46,
+            57
+          ]
+        },
+        {
+          "text": "Malia Obama",
+          "location": [
+            102,
+            113
+          ]
+        },
+        {
+          "text": "Malia Obama",
+          "location": [
+            386,
+            397
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.037522,
+        "joy": 0.111182,
+        "fear": 0.015722,
+        "disgust": 0.013501,
+        "anger": 0.103221
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ray J",
+      "sentiment": {
+        "score": 0.58166,
+        "label": "positive"
+      },
+      "relevance": 0.78553,
+      "mentions": [
+        {
+          "text": "Ray J",
+          "location": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "Ray J",
+          "location": [
+            58,
+            63
+          ]
+        },
+        {
+          "text": "Ray J",
+          "location": [
+            138,
+            143
+          ]
+        },
+        {
+          "text": "Ray J",
+          "location": [
+            498,
+            503
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.071239,
+        "joy": 0.155393,
+        "fear": 0.014273,
+        "disgust": 0.012104,
+        "anger": 0.169906
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Ray J",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ray_J"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Ray J DM",
+      "sentiment": {
+        "score": -0.239754,
+        "label": "negative"
+      },
+      "relevance": 0.660899,
+      "mentions": [
+        {
+          "text": "Ray J DM",
+          "location": [
+            375,
+            383
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            462,
+            465
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.025145,
+        "joy": 0.251718,
+        "fear": 0.035198,
+        "disgust": 0.008042,
+        "anger": 0.00527
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.167463,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            191,
+            200
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "public\u2026Barack",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.144076,
+      "mentions": [
+        {
+          "text": "public\u2026Barack",
+          "location": [
+            299,
+            312
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.200061,
+        "joy": 0.715317,
+        "fear": 0.035491,
+        "disgust": 0.037562,
+        "anger": 0.02476
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.931395,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "United States Secret Service",
+      "relevance": 0.762763,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Secret_Service"
+    },
+    {
+      "text": "Young Justice",
+      "relevance": 0.659271,
+      "dbpedia_resource": "http://dbpedia.org/resource/Young_Justice"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996601,
+      "label": "/law, govt and politics/espionage and intelligence/secret service"
+    }
+  ]
+}

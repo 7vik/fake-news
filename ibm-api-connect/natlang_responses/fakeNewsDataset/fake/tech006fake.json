@@ -1,0 +1,276 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 755,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.873481,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Michael Malin",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.96293,
+      "emotion": {
+        "sadness": 0.327248,
+        "joy": 0.257917,
+        "fear": 0.170481,
+        "disgust": 0.320706,
+        "anger": 0.053341
+      },
+      "count": 1
+    },
+    {
+      "text": "colleague Ken Edgett",
+      "sentiment": {
+        "score": 0.500376,
+        "label": "positive"
+      },
+      "relevance": 0.780533,
+      "emotion": {
+        "sadness": 0.044039,
+        "joy": 0.259905,
+        "fear": 0.02428,
+        "disgust": 0.144984,
+        "anger": 0.054251
+      },
+      "count": 1
+    },
+    {
+      "text": "Liquid Water",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.708875,
+      "emotion": {
+        "sadness": 0.187038,
+        "joy": 0.183766,
+        "fear": 0.178823,
+        "disgust": 0.194347,
+        "anger": 0.069751
+      },
+      "count": 1
+    },
+    {
+      "text": "official statement",
+      "sentiment": {
+        "score": 0.500376,
+        "label": "positive"
+      },
+      "relevance": 0.674152,
+      "emotion": {
+        "sadness": 0.044039,
+        "joy": 0.259905,
+        "fear": 0.02428,
+        "disgust": 0.144984,
+        "anger": 0.054251
+      },
+      "count": 1
+    },
+    {
+      "text": "Mars Global Surveyor spacecraft",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.607508,
+      "emotion": {
+        "sadness": 0.327248,
+        "joy": 0.257917,
+        "fear": 0.170481,
+        "disgust": 0.320706,
+        "anger": 0.053341
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michael Malin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.912946,
+      "mentions": [
+        {
+          "text": "Michael Malin",
+          "location": [
+            81,
+            94
+          ]
+        },
+        {
+          "text": "Malin",
+          "location": [
+            377,
+            382
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.047992,
+        "joy": 0.258688,
+        "fear": 0.020224,
+        "disgust": 0.181382,
+        "anger": 0.058378
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "Michael C. Malin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_C._Malin"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Mars Global Surveyor",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.745113,
+      "mentions": [
+        {
+          "text": "Mars Global Surveyor",
+          "location": [
+            123,
+            143
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.193593,
+        "joy": 0.185263,
+        "fear": 0.160176,
+        "disgust": 0.095481,
+        "anger": 0.109144
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "NASA",
+      "sentiment": {
+        "score": 0.185667,
+        "label": "positive"
+      },
+      "relevance": 0.731975,
+      "mentions": [
+        {
+          "text": "NASA",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "NASA",
+          "location": [
+            300,
+            304
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.040137,
+        "joy": 0.739257,
+        "fear": 0.045873,
+        "disgust": 0.047405,
+        "anger": 0.020934
+      },
+      "disambiguation": {
+        "subtype": [
+          "Company",
+          "GovernmentAgency",
+          "AirportOperator",
+          "AwardPresentingOrganization",
+          "SoftwareDeveloper",
+          "SpaceAgency",
+          "SpacecraftManufacturer"
+        ],
+        "name": "NASA",
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ken Edgett",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.518177,
+      "mentions": [
+        {
+          "text": "Ken Edgett",
+          "location": [
+            401,
+            411
+          ]
+        },
+        {
+          "text": "Edgett",
+          "location": [
+            523,
+            529
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.046162,
+        "joy": 0.264405,
+        "fear": 0.031021,
+        "disgust": 0.210661,
+        "anger": 0.066971
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mars",
+      "relevance": 0.988827,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mars"
+    },
+    {
+      "text": "Mars Global Surveyor",
+      "relevance": 0.642799,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mars_Global_Surveyor"
+    },
+    {
+      "text": "Solar System",
+      "relevance": 0.638501,
+      "dbpedia_resource": "http://dbpedia.org/resource/Solar_System"
+    },
+    {
+      "text": "NASA",
+      "relevance": 0.624565,
+      "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+    },
+    {
+      "text": "Mercury",
+      "relevance": 0.550478,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mercury_(planet)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.645806,
+      "label": "/science/geology/mineralogy"
+    }
+  ]
+}

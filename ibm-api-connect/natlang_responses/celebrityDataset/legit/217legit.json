@@ -1,0 +1,237 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 460,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.534504,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Carter push party",
+      "sentiment": {
+        "score": 0.534504,
+        "label": "positive"
+      },
+      "relevance": 0.769637,
+      "emotion": {
+        "sadness": 0.070268,
+        "joy": 0.836867,
+        "fear": 0.011927,
+        "disgust": 0.037537,
+        "anger": 0.059479
+      },
+      "count": 1
+    },
+    {
+      "text": "baby shower",
+      "sentiment": {
+        "score": 0.534504,
+        "label": "positive"
+      },
+      "relevance": 0.756129,
+      "emotion": {
+        "sadness": 0.070268,
+        "joy": 0.836867,
+        "fear": 0.011927,
+        "disgust": 0.037537,
+        "anger": 0.059479
+      },
+      "count": 1
+    },
+    {
+      "text": "social media",
+      "sentiment": {
+        "score": 0.534504,
+        "label": "positive"
+      },
+      "relevance": 0.725011,
+      "emotion": {
+        "sadness": 0.070268,
+        "joy": 0.836867,
+        "fear": 0.011927,
+        "disgust": 0.037537,
+        "anger": 0.059479
+      },
+      "count": 1
+    },
+    {
+      "text": "husband Jay Z",
+      "sentiment": {
+        "score": 0.534504,
+        "label": "positive"
+      },
+      "relevance": 0.666883,
+      "emotion": {
+        "sadness": 0.070268,
+        "joy": 0.836867,
+        "fear": 0.011927,
+        "disgust": 0.037537,
+        "anger": 0.059479
+      },
+      "count": 1
+    },
+    {
+      "text": "Queen Bey",
+      "sentiment": {
+        "score": 0.534504,
+        "label": "positive"
+      },
+      "relevance": 0.625104,
+      "emotion": {
+        "sadness": 0.070268,
+        "joy": 0.836867,
+        "fear": 0.011927,
+        "disgust": 0.037537,
+        "anger": 0.059479
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": -0.564653,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            31,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244605,
+        "joy": 0.348028,
+        "fear": 0.154511,
+        "disgust": 0.068111,
+        "anger": 0.356519
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Shawn Carter.Thanks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "whose legal name",
+          "location": [
+            232,
+            248
+          ]
+        },
+        {
+          "text": "Shawn Carter.Thanks",
+          "location": [
+            252,
+            271
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.050194,
+        "joy": 0.175939,
+        "fear": 0.050171,
+        "disgust": 0.147718,
+        "anger": 0.05224
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bey",
+      "sentiment": {
+        "score": -0.564653,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Bey",
+          "location": [
+            103,
+            106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244605,
+        "joy": 0.348028,
+        "fear": 0.154511,
+        "disgust": 0.068111,
+        "anger": 0.356519
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Carter",
+          "location": [
+            110,
+            116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.267971,
+        "joy": 0.343177,
+        "fear": 0.136422,
+        "disgust": 0.091141,
+        "anger": 0.130992
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lil Wayne",
+      "relevance": 0.91484,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lil_Wayne"
+    },
+    {
+      "text": "Debut albums",
+      "relevance": 0.656035,
+      "dbpedia_resource": "http://dbpedia.org/resource/Debut_albums"
+    },
+    {
+      "text": "Photography",
+      "relevance": 0.647191,
+      "dbpedia_resource": "http://dbpedia.org/resource/Photography"
+    },
+    {
+      "text": "Jay-Z",
+      "relevance": 0.57156,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.72506,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

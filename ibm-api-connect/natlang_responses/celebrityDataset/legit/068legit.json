@@ -1,0 +1,95 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.574686,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lena Dunham",
+      "sentiment": {
+        "score": 0.574686,
+        "label": "positive"
+      },
+      "relevance": 0.974544,
+      "emotion": {
+        "sadness": 0.177551,
+        "joy": 0.190511,
+        "fear": 0.147737,
+        "disgust": 0.078731,
+        "anger": 0.129799
+      },
+      "count": 1
+    },
+    {
+      "text": "Vogue's Latest Covergirl",
+      "sentiment": {
+        "score": 0.574686,
+        "label": "positive"
+      },
+      "relevance": 0.025456,
+      "emotion": {
+        "sadness": 0.177551,
+        "joy": 0.190511,
+        "fear": 0.147737,
+        "disgust": 0.078731,
+        "anger": 0.129799
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lena Dunham",
+      "sentiment": {
+        "score": 0.924523,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Lena Dunham",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Latest Covergirl",
+          "location": [
+            23,
+            39
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156107,
+        "joy": 0.233372,
+        "fear": 0.125633,
+        "disgust": 0.080505,
+        "anger": 0.143786
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lena Dunham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lena_Dunham"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.785121,
+      "label": "/style and fashion/beauty/cosmetics"
+    }
+  ]
+}

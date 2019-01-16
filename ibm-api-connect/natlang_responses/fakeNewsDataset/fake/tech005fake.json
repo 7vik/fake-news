@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 687,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.656439,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "late Apple founder",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.859432,
+      "emotion": {
+        "sadness": 0.829916,
+        "joy": 0.075921,
+        "fear": 0.029725,
+        "disgust": 0.016824,
+        "anger": 0.018709
+      },
+      "count": 1
+    },
+    {
+      "text": "bold new color",
+      "sentiment": {
+        "score": 0.938459,
+        "label": "positive"
+      },
+      "relevance": 0.837934,
+      "emotion": {
+        "sadness": 0.829916,
+        "joy": 0.075921,
+        "fear": 0.029725,
+        "disgust": 0.016824,
+        "anger": 0.018709
+      },
+      "count": 1
+    },
+    {
+      "text": "particular fondness",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.775546,
+      "emotion": {
+        "sadness": 0.058465,
+        "joy": 0.45666,
+        "fear": 0.094663,
+        "disgust": 0.05855,
+        "anger": 0.024322
+      },
+      "count": 1
+    },
+    {
+      "text": "original Apple Computer logos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711288,
+      "emotion": {
+        "sadness": 0.058465,
+        "joy": 0.45666,
+        "fear": 0.094663,
+        "disgust": 0.05855,
+        "anger": 0.024322
+      },
+      "count": 1
+    },
+    {
+      "text": "staff meeting",
+      "sentiment": {
+        "score": -0.79848,
+        "label": "negative"
+      },
+      "relevance": 0.690418,
+      "emotion": {
+        "sadness": 0.606271,
+        "joy": 0.14391,
+        "fear": 0.034538,
+        "disgust": 0.023952,
+        "anger": 0.157871
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Steve Jobs",
+      "sentiment": {
+        "score": 0.097059,
+        "label": "positive"
+      },
+      "relevance": 0.849236,
+      "mentions": [
+        {
+          "text": "Steve Jobs",
+          "location": [
+            193,
+            203
+          ]
+        },
+        {
+          "text": "Jobs",
+          "location": [
+            299,
+            303
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            446,
+            448
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            486,
+            488
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296223,
+        "joy": 0.414121,
+        "fear": 0.03041,
+        "disgust": 0.010442,
+        "anger": 0.047434
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "CompanyFounder",
+          "ComputerDesigner",
+          "FilmProducer"
+        ],
+        "name": "Steve Jobs",
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_Jobs"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Steve Wozniak",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.762016,
+      "mentions": [
+        {
+          "text": "Steve Wozniak",
+          "location": [
+            263,
+            276
+          ]
+        },
+        {
+          "text": "Wozniak",
+          "location": [
+            565,
+            572
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.127385,
+        "joy": 0.373763,
+        "fear": 0.279723,
+        "disgust": 0.262177,
+        "anger": 0.026488
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyFounder",
+          "ComputerDesigner",
+          "ComputerScientist",
+          "Hobbyist",
+          "Inventor",
+          "VideoGameDesigner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Steve Wozniak",
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_Wozniak"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Apple",
+      "sentiment": {
+        "score": 0.643827,
+        "label": "positive"
+      },
+      "relevance": 0.633314,
+      "mentions": [
+        {
+          "text": "Apple",
+          "location": [
+            46,
+            51
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            179,
+            184
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.206568,
+        "joy": 0.406512,
+        "fear": 0.072914,
+        "disgust": 0.025519,
+        "anger": 0.048662
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper",
+          "ProtocolProvider",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Apple Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Steve Jobs",
+      "relevance": 0.975533,
+      "dbpedia_resource": "http://dbpedia.org/resource/Steve_Jobs"
+    },
+    {
+      "text": "Apple Inc.",
+      "relevance": 0.914174,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+    },
+    {
+      "text": "IPhone",
+      "relevance": 0.802771,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone"
+    },
+    {
+      "text": "Steve Wozniak",
+      "relevance": 0.757467,
+      "dbpedia_resource": "http://dbpedia.org/resource/Steve_Wozniak"
+    },
+    {
+      "text": "IPod",
+      "relevance": 0.596418,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPod"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.880139,
+      "label": "/technology and computing/hardware/computer"
+    }
+  ]
+}

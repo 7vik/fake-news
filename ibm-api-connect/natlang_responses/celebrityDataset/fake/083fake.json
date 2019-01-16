@@ -1,0 +1,174 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.922689,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wedding Disaster",
+      "sentiment": {
+        "score": -0.922689,
+        "label": "negative"
+      },
+      "relevance": 0.842484,
+      "emotion": {
+        "sadness": 0.350175,
+        "joy": 0.161952,
+        "fear": 0.03708,
+        "disgust": 0.147619,
+        "anger": 0.42755
+      },
+      "count": 1
+    },
+    {
+      "text": "Clooney",
+      "sentiment": {
+        "score": -0.922689,
+        "label": "negative"
+      },
+      "relevance": 0.699247,
+      "emotion": {
+        "sadness": 0.350175,
+        "joy": 0.161952,
+        "fear": 0.03708,
+        "disgust": 0.147619,
+        "anger": 0.42755
+      },
+      "count": 1
+    },
+    {
+      "text": "Prenup Feud",
+      "sentiment": {
+        "score": -0.922689,
+        "label": "negative"
+      },
+      "relevance": 0.698164,
+      "emotion": {
+        "sadness": 0.350175,
+        "joy": 0.161952,
+        "fear": 0.03708,
+        "disgust": 0.147619,
+        "anger": 0.42755
+      },
+      "count": 1
+    },
+    {
+      "text": "Guest List Flub",
+      "sentiment": {
+        "score": -0.922689,
+        "label": "negative"
+      },
+      "relevance": 0.604417,
+      "emotion": {
+        "sadness": 0.350175,
+        "joy": 0.161952,
+        "fear": 0.03708,
+        "disgust": 0.147619,
+        "anger": 0.42755
+      },
+      "count": 1
+    },
+    {
+      "text": "Planner Quit",
+      "sentiment": {
+        "score": -0.922689,
+        "label": "negative"
+      },
+      "relevance": 0.24483,
+      "emotion": {
+        "sadness": 0.350175,
+        "joy": 0.161952,
+        "fear": 0.03708,
+        "disgust": 0.147619,
+        "anger": 0.42755
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "George Clooney",
+      "sentiment": {
+        "score": -0.339747,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "George Clooney",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "George Clooney",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "220M",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "220M",
+          "location": [
+            18,
+            22
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George Clooney",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.969966,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

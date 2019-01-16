@@ -1,0 +1,293 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 628,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.943991,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "US Secret Service",
+      "sentiment": {
+        "score": -0.93386,
+        "label": "negative"
+      },
+      "relevance": 0.834757,
+      "emotion": {
+        "sadness": 0.146215,
+        "joy": 0.324906,
+        "fear": 0.061177,
+        "disgust": 0.214503,
+        "anger": 0.401805
+      },
+      "count": 1
+    },
+    {
+      "text": "south grounds of the US Treasury Building",
+      "sentiment": {
+        "score": -0.93386,
+        "label": "negative"
+      },
+      "relevance": 0.775549,
+      "emotion": {
+        "sadness": 0.146215,
+        "joy": 0.324906,
+        "fear": 0.061177,
+        "disgust": 0.214503,
+        "anger": 0.401805
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington Metropolitan Police Department spokesman",
+      "sentiment": {
+        "score": -0.93386,
+        "label": "negative"
+      },
+      "relevance": 0.702469,
+      "emotion": {
+        "sadness": 0.146215,
+        "joy": 0.324906,
+        "fear": 0.061177,
+        "disgust": 0.214503,
+        "anger": 0.401805
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.953412,
+        "label": "negative"
+      },
+      "relevance": 0.697633,
+      "emotion": {
+        "sadness": 0.372886,
+        "joy": 0.122783,
+        "fear": 0.102273,
+        "disgust": 0.254888,
+        "anger": 0.403963
+      },
+      "count": 1
+    },
+    {
+      "text": "Secret Service",
+      "sentiment": {
+        "score": -0.93386,
+        "label": "negative"
+      },
+      "relevance": 0.691139,
+      "emotion": {
+        "sadness": 0.146215,
+        "joy": 0.324906,
+        "fear": 0.061177,
+        "disgust": 0.214503,
+        "anger": 0.401805
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump.Marci Anderson Wahl",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.837741,
+      "mentions": [
+        {
+          "text": "President Donald Trump.Marci Anderson Wahl",
+          "location": [
+            264,
+            306
+          ]
+        },
+        {
+          "text": "Wahl",
+          "location": [
+            598,
+            602
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.19031,
+        "joy": 0.148122,
+        "fear": 0.104384,
+        "disgust": 0.358236,
+        "anger": 0.355921
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Secret Service",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.4675,
+      "mentions": [
+        {
+          "text": "the US Secret Service",
+          "location": [
+            352,
+            373
+          ]
+        },
+        {
+          "text": "Secret Service",
+          "location": [
+            515,
+            529
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136018,
+        "joy": 0.609071,
+        "fear": 0.045092,
+        "disgust": 0.090415,
+        "anger": 0.163833
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "United States Secret Service",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Secret_Service"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Washington Metropolitan Police Department",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.403002,
+      "mentions": [
+        {
+          "text": "Washington Metropolitan Police Department",
+          "location": [
+            446,
+            487
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.03361,
+        "joy": 0.50089,
+        "fear": 0.044682,
+        "disgust": 0.093619,
+        "anger": 0.117047
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.359848,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            47,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.372886,
+        "joy": 0.122783,
+        "fear": 0.102273,
+        "disgust": 0.254888,
+        "anger": 0.403963
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.300918,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            404,
+            406
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.303998,
+        "joy": 0.493201,
+        "fear": 0.07095,
+        "disgust": 0.062536,
+        "anger": 0.10812
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Secret Service",
+      "relevance": 0.949785,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Secret_Service"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.799079,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "United States Department of the Treasury",
+      "relevance": 0.677681,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_the_Treasury"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.670934,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.629191,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.99915,
+      "label": "/law, govt and politics/espionage and intelligence/secret service"
+    }
+  ]
+}

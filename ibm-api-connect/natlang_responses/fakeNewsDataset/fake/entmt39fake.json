@@ -1,0 +1,296 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 650,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.485473,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": -0.878343,
+        "label": "negative"
+      },
+      "relevance": 0.929861,
+      "emotion": {
+        "sadness": 0.35327,
+        "joy": 0.05655,
+        "fear": 0.272351,
+        "disgust": 0.247755,
+        "anger": 0.347612
+      },
+      "count": 1
+    },
+    {
+      "text": "small Chris Pratt",
+      "sentiment": {
+        "score": -0.878343,
+        "label": "negative"
+      },
+      "relevance": 0.867239,
+      "emotion": {
+        "sadness": 0.365094,
+        "joy": 0.087412,
+        "fear": 0.330471,
+        "disgust": 0.255295,
+        "anger": 0.231589
+      },
+      "count": 1
+    },
+    {
+      "text": "bold manner",
+      "sentiment": {
+        "score": 0.688478,
+        "label": "positive"
+      },
+      "relevance": 0.663113,
+      "emotion": {
+        "sadness": 0.450917,
+        "joy": 0.113218,
+        "fear": 0.220455,
+        "disgust": 0.384841,
+        "anger": 0.108161
+      },
+      "count": 1
+    },
+    {
+      "text": "Guardians of the Universe star",
+      "sentiment": {
+        "score": -0.878343,
+        "label": "negative"
+      },
+      "relevance": 0.565346,
+      "emotion": {
+        "sadness": 0.365094,
+        "joy": 0.087412,
+        "fear": 0.330471,
+        "disgust": 0.255295,
+        "anger": 0.231589
+      },
+      "count": 1
+    },
+    {
+      "text": "instagram",
+      "sentiment": {
+        "score": 0.688478,
+        "label": "positive"
+      },
+      "relevance": 0.560619,
+      "emotion": {
+        "sadness": 0.450917,
+        "joy": 0.113218,
+        "fear": 0.220455,
+        "disgust": 0.384841,
+        "anger": 0.108161
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": -0.03562,
+        "label": "negative"
+      },
+      "relevance": 0.892121,
+      "mentions": [
+        {
+          "text": "Chris Pratt",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            45,
+            48
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            49,
+            51
+          ]
+        },
+        {
+          "text": "gaunt",
+          "location": [
+            55,
+            60
+          ]
+        },
+        {
+          "text": "Chris Pratt",
+          "location": [
+            93,
+            104
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            209,
+            211
+          ]
+        },
+        {
+          "text": "Pratt",
+          "location": [
+            235,
+            240
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            277,
+            279
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            342,
+            344
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            423,
+            425
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            452,
+            455
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            516,
+            518
+          ]
+        },
+        {
+          "text": "Chris",
+          "location": [
+            563,
+            568
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            594,
+            596
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.282629,
+        "joy": 0.45257,
+        "fear": 0.182704,
+        "disgust": 0.265825,
+        "anger": 0.133855
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Pratt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+      },
+      "count": 14
+    },
+    {
+      "type": "Company",
+      "text": "instagram",
+      "sentiment": {
+        "score": 0.572452,
+        "label": "positive"
+      },
+      "relevance": 0.128736,
+      "mentions": [
+        {
+          "text": "instagram",
+          "location": [
+            363,
+            372
+          ]
+        },
+        {
+          "text": "Instagram",
+          "location": [
+            491,
+            500
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.419058,
+        "joy": 0.140792,
+        "fear": 0.201536,
+        "disgust": 0.39006,
+        "anger": 0.116085
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Instagram",
+        "dbpedia_resource": "http://dbpedia.org/resource/Instagram"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Universe",
+      "relevance": 0.940307,
+      "dbpedia_resource": "http://dbpedia.org/resource/Universe"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.771847,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Space",
+      "relevance": 0.726631,
+      "dbpedia_resource": "http://dbpedia.org/resource/Space"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.698485,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Academy Award for Best Actor",
+      "relevance": 0.620771,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actor"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.721475,
+      "label": "/food and drink/food"
+    }
+  ]
+}

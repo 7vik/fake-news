@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 528,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lawrence Okolie",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978398,
+      "emotion": {
+        "sadness": 0.846331,
+        "joy": 0.009857,
+        "fear": 0.167883,
+        "disgust": 0.076393,
+        "anger": 0.137741
+      },
+      "count": 1
+    },
+    {
+      "text": "Olympian Lawrence Okolie",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.925221,
+      "emotion": {
+        "sadness": 0.691955,
+        "joy": 0.034439,
+        "fear": 0.173912,
+        "disgust": 0.125968,
+        "anger": 0.234057
+      },
+      "count": 1
+    },
+    {
+      "text": "Rio Olympics",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.883977,
+      "emotion": {
+        "sadness": 0.525994,
+        "joy": 0.205914,
+        "fear": 0.059155,
+        "disgust": 0.239464,
+        "anger": 0.115342
+      },
+      "count": 1
+    },
+    {
+      "text": "Cuban Erislandy Savonat",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.756876,
+      "emotion": {
+        "sadness": 0.525994,
+        "joy": 0.205914,
+        "fear": 0.059155,
+        "disgust": 0.239464,
+        "anger": 0.115342
+      },
+      "count": 1
+    },
+    {
+      "text": "world champion",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.607096,
+      "emotion": {
+        "sadness": 0.099547,
+        "joy": 0.598014,
+        "fear": 0.076538,
+        "disgust": 0.047162,
+        "anger": 0.012737
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lawrence Okolie",
+      "sentiment": {
+        "score": -0.539582,
+        "label": "negative"
+      },
+      "relevance": 0.810135,
+      "mentions": [
+        {
+          "text": "Lawrence Okolie",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Lawrence Okolie",
+          "location": [
+            91,
+            106
+          ]
+        },
+        {
+          "text": "Okolie",
+          "location": [
+            170,
+            176
+          ]
+        },
+        {
+          "text": "Okolie",
+          "location": [
+            408,
+            414
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.602424,
+        "joy": 0.144372,
+        "fear": 0.058803,
+        "disgust": 0.201203,
+        "anger": 0.14452
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Rio",
+      "sentiment": {
+        "score": -0.505045,
+        "label": "negative"
+      },
+      "relevance": 0.530145,
+      "mentions": [
+        {
+          "text": "Rio",
+          "location": [
+            73,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.694412,
+        "joy": 0.047187,
+        "fear": 0.118616,
+        "disgust": 0.103765,
+        "anger": 0.144999
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Rio de Janeiro",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rio_de_Janeiro"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Rio Olympics",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.501712,
+      "mentions": [
+        {
+          "text": "Rio Olympics",
+          "location": [
+            271,
+            283
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.525994,
+        "joy": 0.205914,
+        "fear": 0.059155,
+        "disgust": 0.239464,
+        "anger": 0.115342
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Geoffrey Cave",
+      "sentiment": {
+        "score": -0.201682,
+        "label": "negative"
+      },
+      "relevance": 0.340552,
+      "mentions": [
+        {
+          "text": "Geoffrey Cave",
+          "location": [
+            427,
+            440
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.133933,
+        "joy": 0.190498,
+        "fear": 0.08397,
+        "disgust": 0.077654,
+        "anger": 0.085551
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "20 seconds",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.340552,
+      "mentions": [
+        {
+          "text": "20 seconds",
+          "location": [
+            121,
+            131
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2016 Summer Olympics",
+      "relevance": 0.924903,
+      "dbpedia_resource": "http://dbpedia.org/resource/2016_Summer_Olympics"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.624054,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Boxing",
+      "relevance": 0.623675,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boxing"
+    },
+    {
+      "text": "2006 albums",
+      "relevance": 0.592856,
+      "dbpedia_resource": "http://dbpedia.org/resource/2006_albums"
+    },
+    {
+      "text": "Rio All Suite Hotel and Casino",
+      "relevance": 0.5874,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rio_All_Suite_Hotel_and_Casino"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.948405,
+      "label": "/sports/boxing"
+    }
+  ]
+}

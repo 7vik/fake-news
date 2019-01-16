@@ -1,0 +1,200 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 524,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.662313,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chief Nicold Sapstead",
+      "sentiment": {
+        "score": -0.944527,
+        "label": "negative"
+      },
+      "relevance": 0.814298,
+      "emotion": {
+        "sadness": 0.372667,
+        "joy": 0.057787,
+        "fear": 0.392072,
+        "disgust": 0.1669,
+        "anger": 0.368957
+      },
+      "count": 1
+    },
+    {
+      "text": "recent poll",
+      "sentiment": {
+        "score": 0.304304,
+        "label": "positive"
+      },
+      "relevance": 0.813756,
+      "emotion": {
+        "sadness": 0.31604,
+        "joy": 0.077161,
+        "fear": 0.147526,
+        "disgust": 0.196123,
+        "anger": 0.068268
+      },
+      "count": 1
+    },
+    {
+      "text": "Drug Crisis of Doping",
+      "sentiment": {
+        "score": -0.805491,
+        "label": "negative"
+      },
+      "relevance": 0.752468,
+      "emotion": {
+        "sadness": 0.350955,
+        "joy": 0.051633,
+        "fear": 0.367509,
+        "disgust": 0.246662,
+        "anger": 0.288048
+      },
+      "count": 1
+    },
+    {
+      "text": "widespread use of performance",
+      "sentiment": {
+        "score": -0.41259,
+        "label": "negative"
+      },
+      "relevance": 0.661114,
+      "emotion": {
+        "sadness": 0.226127,
+        "joy": 0.05805,
+        "fear": 0.197996,
+        "disgust": 0.157835,
+        "anger": 0.123938
+      },
+      "count": 1
+    },
+    {
+      "text": "UK Anit Doping",
+      "sentiment": {
+        "score": -0.805491,
+        "label": "negative"
+      },
+      "relevance": 0.613572,
+      "emotion": {
+        "sadness": 0.14669,
+        "joy": 0.241802,
+        "fear": 0.130752,
+        "disgust": 0.118578,
+        "anger": 0.273366
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chief Nicold Sapstead",
+      "sentiment": {
+        "score": -0.896879,
+        "label": "negative"
+      },
+      "relevance": 0.855614,
+      "mentions": [
+        {
+          "text": "Chief Nicold Sapstead",
+          "location": [
+            413,
+            434
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.372667,
+        "joy": 0.057787,
+        "fear": 0.392072,
+        "disgust": 0.1669,
+        "anger": 0.368957
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.562121,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            61,
+            63
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.015472,
+        "joy": 0.320071,
+        "fear": 0.08128,
+        "disgust": 0.06075,
+        "anger": 0.211554
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "15%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.56212,
+      "mentions": [
+        {
+          "text": "15%",
+          "location": [
+            171,
+            174
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "70%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.56212,
+      "mentions": [
+        {
+          "text": "70%",
+          "location": [
+            235,
+            238
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.951363,
+      "label": "/health and fitness"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Katie Holmes Honors Daughter Suri",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993434,
+      "emotion": {
+        "sadness": 0.123988,
+        "joy": 0.593243,
+        "fear": 0.023285,
+        "disgust": 0.199643,
+        "anger": 0.063959
+      },
+      "count": 1
+    },
+    {
+      "text": "Film Credit",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.948538,
+      "emotion": {
+        "sadness": 0.123988,
+        "joy": 0.593243,
+        "fear": 0.023285,
+        "disgust": 0.199643,
+        "anger": 0.063959
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0.766871,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123988,
+        "joy": 0.593243,
+        "fear": 0.023285,
+        "disgust": 0.199643,
+        "anger": 0.063959
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.736271,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

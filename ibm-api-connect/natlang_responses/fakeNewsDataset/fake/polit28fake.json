@@ -1,0 +1,197 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 434,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.8774,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump's travel ban",
+      "sentiment": {
+        "score": -0.947288,
+        "label": "negative"
+      },
+      "relevance": 0.921796,
+      "emotion": {
+        "sadness": 0.263568,
+        "joy": 0.054511,
+        "fear": 0.067361,
+        "disgust": 0.30206,
+        "anger": 0.540849
+      },
+      "count": 2
+    },
+    {
+      "text": "federal appellate court",
+      "sentiment": {
+        "score": -0.947288,
+        "label": "negative"
+      },
+      "relevance": 0.832439,
+      "emotion": {
+        "sadness": 0.258538,
+        "joy": 0.032645,
+        "fear": 0.089242,
+        "disgust": 0.291769,
+        "anger": 0.580038
+      },
+      "count": 1
+    },
+    {
+      "text": "majority-Muslim nations leaves",
+      "sentiment": {
+        "score": -0.79822,
+        "label": "negative"
+      },
+      "relevance": 0.691633,
+      "emotion": {
+        "sadness": 0.345877,
+        "joy": 0.035255,
+        "fear": 0.026128,
+        "disgust": 0.30312,
+        "anger": 0.595741
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.79822,
+        "label": "negative"
+      },
+      "relevance": 0.648706,
+      "emotion": {
+        "sadness": 0.345877,
+        "joy": 0.035255,
+        "fear": 0.026128,
+        "disgust": 0.30312,
+        "anger": 0.595741
+      },
+      "count": 1
+    },
+    {
+      "text": "legal precedent",
+      "sentiment": {
+        "score": -0.79822,
+        "label": "negative"
+      },
+      "relevance": 0.628514,
+      "emotion": {
+        "sadness": 0.229372,
+        "joy": 0.115273,
+        "fear": 0.07633,
+        "disgust": 0.067018,
+        "anger": 0.699678
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.648257,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            108,
+            113
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            417,
+            432
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.383845,
+        "joy": 0.051224,
+        "fear": 0.028425,
+        "disgust": 0.266878,
+        "anger": 0.550956
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.196494,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            188,
+            199
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162792,
+        "joy": 0.366416,
+        "fear": 0.04966,
+        "disgust": 0.01552,
+        "anger": 0.43519
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.967863,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.93005,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Franklin D. Roosevelt",
+      "relevance": 0.822135,
+      "dbpedia_resource": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.814741,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+      "text": "World War II",
+      "relevance": 0.785216,
+      "dbpedia_resource": "http://dbpedia.org/resource/World_War_II"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.811699,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

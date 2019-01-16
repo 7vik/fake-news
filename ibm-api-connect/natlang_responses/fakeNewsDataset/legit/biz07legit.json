@@ -1,0 +1,280 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 932,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.506892,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "consultancy firm PwC",
+      "sentiment": {
+        "score": -0.826907,
+        "label": "negative"
+      },
+      "relevance": 0.740334,
+      "emotion": {
+        "sadness": 0.111588,
+        "joy": 0.03035,
+        "fear": 0.359126,
+        "disgust": 0.039167,
+        "anger": 0.056982
+      },
+      "count": 1
+    },
+    {
+      "text": "high risk",
+      "sentiment": {
+        "score": -0.781861,
+        "label": "negative"
+      },
+      "relevance": 0.739731,
+      "emotion": {
+        "sadness": 0.452659,
+        "joy": 0.10957,
+        "fear": 0.457915,
+        "disgust": 0.081383,
+        "anger": 0.091409
+      },
+      "count": 2
+    },
+    {
+      "text": "UK workers",
+      "sentiment": {
+        "score": -0.880939,
+        "label": "negative"
+      },
+      "relevance": 0.687575,
+      "emotion": {
+        "sadness": 0.537067,
+        "joy": 0.173247,
+        "fear": 0.235361,
+        "disgust": 0.046787,
+        "anger": 0.118091
+      },
+      "count": 2
+    },
+    {
+      "text": "automation of routine tasks gathers",
+      "sentiment": {
+        "score": -0.880939,
+        "label": "negative"
+      },
+      "relevance": 0.67834,
+      "emotion": {
+        "sadness": 0.418627,
+        "joy": 0.291287,
+        "fear": 0.241099,
+        "disgust": 0.035243,
+        "anger": 0.081136
+      },
+      "count": 1
+    },
+    {
+      "text": "fresh job opportunities",
+      "sentiment": {
+        "score": 0.988825,
+        "label": "positive"
+      },
+      "relevance": 0.653699,
+      "emotion": {
+        "sadness": 0.029819,
+        "joy": 0.578907,
+        "fear": 0.047326,
+        "disgust": 0.025041,
+        "anger": 0.14216
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.832516,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            12,
+            14
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            93,
+            95
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            786,
+            788
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.493458,
+        "joy": 0.079668,
+        "fear": 0.404632,
+        "disgust": 0.08116,
+        "anger": 0.137044
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "England",
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "PwC",
+      "sentiment": {
+        "score": -0.35956,
+        "label": "negative"
+      },
+      "relevance": 0.769304,
+      "mentions": [
+        {
+          "text": "PwC",
+          "location": [
+            268,
+            271
+          ]
+        },
+        {
+          "text": "PwC",
+          "location": [
+            669,
+            672
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241897,
+        "joy": 0.035149,
+        "fear": 0.599867,
+        "disgust": 0.139748,
+        "anger": 0.076865
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "AI",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.387402,
+      "mentions": [
+        {
+          "text": "AI",
+          "location": [
+            383,
+            385
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardPresentingOrganization",
+          "Non-ProfitOrganisation",
+          "AwardWinner"
+        ],
+        "name": "Amnesty International",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amnesty_International"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Britain",
+      "sentiment": {
+        "score": -0.35956,
+        "label": "negative"
+      },
+      "relevance": 0.336402,
+      "mentions": [
+        {
+          "text": "Britain",
+          "location": [
+            298,
+            305
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.124134,
+        "joy": 0.036176,
+        "fear": 0.418935,
+        "disgust": 0.060474,
+        "anger": 0.076124
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.918361,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Million",
+      "relevance": 0.876278,
+      "dbpedia_resource": "http://dbpedia.org/resource/Million"
+    },
+    {
+      "text": "Robotics",
+      "relevance": 0.801388,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robotics"
+    },
+    {
+      "text": "Cybernetics",
+      "relevance": 0.747974,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cybernetics"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.736913,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.985736,
+      "label": "/business and industrial/automation"
+    }
+  ]
+}

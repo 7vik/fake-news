@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 539,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.555844,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "group of Streamwood High School students",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.878096,
+      "emotion": {
+        "sadness": 0.079419,
+        "joy": 0.73843,
+        "fear": 0.090381,
+        "disgust": 0.041251,
+        "anger": 0.068776
+      },
+      "count": 1
+    },
+    {
+      "text": "small generator",
+      "sentiment": {
+        "score": 0.555844,
+        "label": "positive"
+      },
+      "relevance": 0.876057,
+      "emotion": {
+        "sadness": 0.079419,
+        "joy": 0.73843,
+        "fear": 0.090381,
+        "disgust": 0.041251,
+        "anger": 0.068776
+      },
+      "count": 1
+    },
+    {
+      "text": "state competition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.730119,
+      "emotion": {
+        "sadness": 0.079419,
+        "joy": 0.73843,
+        "fear": 0.090381,
+        "disgust": 0.041251,
+        "anger": 0.068776
+      },
+      "count": 1
+    },
+    {
+      "text": "big dividends",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.685527,
+      "emotion": {
+        "sadness": 0.079419,
+        "joy": 0.73843,
+        "fear": 0.090381,
+        "disgust": 0.041251,
+        "anger": 0.068776
+      },
+      "count": 1
+    },
+    {
+      "text": "small light",
+      "sentiment": {
+        "score": 0.555844,
+        "label": "positive"
+      },
+      "relevance": 0.683141,
+      "emotion": {
+        "sadness": 0.079419,
+        "joy": 0.73843,
+        "fear": 0.090381,
+        "disgust": 0.041251,
+        "anger": 0.068776
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Streamwood High School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.873925,
+      "mentions": [
+        {
+          "text": "Streamwood High School",
+          "location": [
+            142,
+            164
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.094743,
+        "joy": 0.66873,
+        "fear": 0.155279,
+        "disgust": 0.063906,
+        "anger": 0.065559
+      },
+      "disambiguation": {
+        "subtype": [
+          "School"
+        ],
+        "name": "Streamwood High School",
+        "dbpedia_resource": "http://dbpedia.org/resource/Streamwood_High_School"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "STREAMWOOD",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.7922,
+      "mentions": [
+        {
+          "text": "STREAMWOOD",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.08188,
+        "joy": 0.678592,
+        "fear": 0.13855,
+        "disgust": 0.068082,
+        "anger": 0.083533
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Streamwood, Illinois",
+        "dbpedia_resource": "http://dbpedia.org/resource/Streamwood,_Illinois"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Samsung",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.468541,
+      "mentions": [
+        {
+          "text": "Samsung",
+          "location": [
+            241,
+            248
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.094743,
+        "joy": 0.66873,
+        "fear": 0.155279,
+        "disgust": 0.063906,
+        "anger": 0.065559
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Samsung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samsung"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Ill.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306316,
+      "mentions": [
+        {
+          "text": "Ill.",
+          "location": [
+            12,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Illinois",
+        "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$200,000",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306316,
+      "mentions": [
+        {
+          "text": "$200,000",
+          "location": [
+            529,
+            537
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.928933,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Science",
+      "relevance": 0.774944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Science"
+    },
+    {
+      "text": "Engineering",
+      "relevance": 0.750073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Engineering"
+    },
+    {
+      "text": "Physics",
+      "relevance": 0.710995,
+      "dbpedia_resource": "http://dbpedia.org/resource/Physics"
+    },
+    {
+      "text": "Mathematics",
+      "relevance": 0.703297,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mathematics"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.963591,
+      "label": "/education/teaching and classroom resources"
+    }
+  ]
+}

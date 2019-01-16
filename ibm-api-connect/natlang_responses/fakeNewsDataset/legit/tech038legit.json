@@ -1,0 +1,194 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 900,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.759836,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "power source",
+      "sentiment": {
+        "score": 0.878766,
+        "label": "positive"
+      },
+      "relevance": 0.885577,
+      "emotion": {
+        "sadness": 0.28173,
+        "joy": 0.470336,
+        "fear": 0.037548,
+        "disgust": 0.008953,
+        "anger": 0.025557
+      },
+      "count": 1
+    },
+    {
+      "text": "new type",
+      "sentiment": {
+        "score": 0.968494,
+        "label": "positive"
+      },
+      "relevance": 0.752698,
+      "emotion": {
+        "sadness": 0.230785,
+        "joy": 0.562379,
+        "fear": 0.070687,
+        "disgust": 0.020921,
+        "anger": 0.032644
+      },
+      "count": 1
+    },
+    {
+      "text": "natural source",
+      "sentiment": {
+        "score": 0.878766,
+        "label": "positive"
+      },
+      "relevance": 0.710843,
+      "emotion": {
+        "sadness": 0.28173,
+        "joy": 0.470336,
+        "fear": 0.037548,
+        "disgust": 0.008953,
+        "anger": 0.025557
+      },
+      "count": 1
+    },
+    {
+      "text": "electronic skin",
+      "sentiment": {
+        "score": 0.925724,
+        "label": "positive"
+      },
+      "relevance": 0.680893,
+      "emotion": {
+        "sadness": 0.261157,
+        "joy": 0.634404,
+        "fear": 0.029105,
+        "disgust": 0.005933,
+        "anger": 0.019354
+      },
+      "count": 2
+    },
+    {
+      "text": "similar materials",
+      "sentiment": {
+        "score": 0.878766,
+        "label": "positive"
+      },
+      "relevance": 0.675349,
+      "emotion": {
+        "sadness": 0.28173,
+        "joy": 0.470336,
+        "fear": 0.037548,
+        "disgust": 0.008953,
+        "anger": 0.025557
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "University of Glasgow",
+      "sentiment": {
+        "score": 0.548287,
+        "label": "positive"
+      },
+      "relevance": 0.737732,
+      "mentions": [
+        {
+          "text": "University of Glasgow",
+          "location": [
+            498,
+            519
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153413,
+        "joy": 0.622425,
+        "fear": 0.036702,
+        "disgust": 0.007658,
+        "anger": 0.024499
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.548287,
+        "label": "positive"
+      },
+      "relevance": 0.637617,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            527,
+            529
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153413,
+        "joy": 0.622425,
+        "fear": 0.036702,
+        "disgust": 0.007658,
+        "anger": 0.024499
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sun",
+      "relevance": 0.955852,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sun"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.894181,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Skin",
+      "relevance": 0.858112,
+      "dbpedia_resource": "http://dbpedia.org/resource/Skin"
+    },
+    {
+      "text": "Prosthesis",
+      "relevance": 0.657132,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prosthesis"
+    },
+    {
+      "text": "Energy",
+      "relevance": 0.621857,
+      "dbpedia_resource": "http://dbpedia.org/resource/Energy"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.700879,
+      "label": "/automotive and vehicles/electric vehicles"
+    }
+  ]
+}

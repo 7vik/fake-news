@@ -1,0 +1,303 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 760,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.628834,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gas-rich Gulf state",
+      "sentiment": {
+        "score": 0.873775,
+        "label": "positive"
+      },
+      "relevance": 0.741081,
+      "emotion": {
+        "sadness": 0.386816,
+        "joy": 0.156779,
+        "fear": 0.074196,
+        "disgust": 0.006507,
+        "anger": 0.023338
+      },
+      "count": 1
+    },
+    {
+      "text": "Prime Minister Theresa May",
+      "sentiment": {
+        "score": 0.487875,
+        "label": "positive"
+      },
+      "relevance": 0.643399,
+      "emotion": {
+        "sadness": 0.217032,
+        "joy": 0.290409,
+        "fear": 0.257044,
+        "disgust": 0.082318,
+        "anger": 0.07157
+      },
+      "count": 1
+    },
+    {
+      "text": "string of trophy assets",
+      "sentiment": {
+        "score": 0.873775,
+        "label": "positive"
+      },
+      "relevance": 0.595383,
+      "emotion": {
+        "sadness": 0.386816,
+        "joy": 0.156779,
+        "fear": 0.074196,
+        "disgust": 0.006507,
+        "anger": 0.023338
+      },
+      "count": 1
+    },
+    {
+      "text": "news",
+      "sentiment": {
+        "score": 0.487875,
+        "label": "positive"
+      },
+      "relevance": 0.594008,
+      "emotion": {
+        "sadness": 0.217032,
+        "joy": 0.290409,
+        "fear": 0.257044,
+        "disgust": 0.082318,
+        "anger": 0.07157
+      },
+      "count": 1
+    },
+    {
+      "text": "opportunities of this new era",
+      "sentiment": {
+        "score": 0.596619,
+        "label": "positive"
+      },
+      "relevance": 0.579463,
+      "emotion": {
+        "sadness": 0.150725,
+        "joy": 0.657273,
+        "fear": 0.14066,
+        "disgust": 0.050843,
+        "anger": 0.046365
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prime Minister Sheikh Abdullah",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.831643,
+      "mentions": [
+        {
+          "text": "Prime Minister Sheikh Abdullah",
+          "location": [
+            279,
+            309
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.399823,
+        "joy": 0.288204,
+        "fear": 0.147299,
+        "disgust": 0.23924,
+        "anger": 0.062202
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Qatar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.791221,
+      "mentions": [
+        {
+          "text": "Qatar",
+          "location": [
+            14,
+            19
+          ]
+        },
+        {
+          "text": "Qatar",
+          "location": [
+            335,
+            340
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.406511,
+        "joy": 0.36946,
+        "fear": 0.125387,
+        "disgust": 0.119775,
+        "anger": 0.063496
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Country"
+        ],
+        "name": "Qatar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Qatar"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "U.K",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.765623,
+      "mentions": [
+        {
+          "text": "U.K",
+          "location": [
+            54,
+            57
+          ]
+        },
+        {
+          "text": "U.K.",
+          "location": [
+            711,
+            715
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.397903,
+        "joy": 0.45344,
+        "fear": 0.114311,
+        "disgust": 0.008201,
+        "anger": 0.071947
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Prime Minister",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.656612,
+      "mentions": [
+        {
+          "text": "Prime Minister",
+          "location": [
+            490,
+            504
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217032,
+        "joy": 0.290409,
+        "fear": 0.257044,
+        "disgust": 0.082318,
+        "anger": 0.07157
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Liam Fox",
+      "sentiment": {
+        "score": 0.508293,
+        "label": "positive"
+      },
+      "relevance": 0.510806,
+      "mentions": [
+        {
+          "text": "Liam Fox",
+          "location": [
+            701,
+            709
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.101518,
+        "joy": 0.640644,
+        "fear": 0.1384,
+        "disgust": 0.115799,
+        "anger": 0.040662
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "MemberOfParliament"
+        ],
+        "name": "Liam Fox",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liam_Fox"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Europe",
+      "relevance": 0.972671,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "Republic of Ireland",
+      "relevance": 0.848131,
+      "dbpedia_resource": "http://dbpedia.org/resource/Republic_of_Ireland"
+    },
+    {
+      "text": "London",
+      "relevance": 0.848034,
+      "dbpedia_resource": "http://dbpedia.org/resource/London"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.824044,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.749757,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.743948,
+      "label": "/finance/investing"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3048,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.294125,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Angelina Jolie Embraces",
+      "sentiment": {
+        "score": -0.951723,
+        "label": "negative"
+      },
+      "relevance": 0.781481,
+      "emotion": {
+        "sadness": 0.21775,
+        "joy": 0.583572,
+        "fear": 0.029686,
+        "disgust": 0.167269,
+        "anger": 0.108404
+      },
+      "count": 1
+    },
+    {
+      "text": "Inner-Witch",
+      "sentiment": {
+        "score": -0.951723,
+        "label": "negative"
+      },
+      "relevance": 0.677487,
+      "emotion": {
+        "sadness": 0.21775,
+        "joy": 0.583572,
+        "fear": 0.029686,
+        "disgust": 0.167269,
+        "anger": 0.108404
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie's daughter",
+      "sentiment": {
+        "score": -0.951723,
+        "label": "negative"
+      },
+      "relevance": 0.643156,
+      "emotion": {
+        "sadness": 0.21775,
+        "joy": 0.583572,
+        "fear": 0.029686,
+        "disgust": 0.167269,
+        "anger": 0.108404
+      },
+      "count": 1
+    },
+    {
+      "text": "live-action movie Maleficent",
+      "sentiment": {
+        "score": -0.951723,
+        "label": "negative"
+      },
+      "relevance": 0.619484,
+      "emotion": {
+        "sadness": 0.21775,
+        "joy": 0.583572,
+        "fear": 0.029686,
+        "disgust": 0.167269,
+        "anger": 0.108404
+      },
+      "count": 1
+    },
+    {
+      "text": "pages of gossip rags",
+      "sentiment": {
+        "score": -0.697871,
+        "label": "negative"
+      },
+      "relevance": 0.615334,
+      "emotion": {
+        "sadness": 0.035161,
+        "joy": 0.635053,
+        "fear": 0.012344,
+        "disgust": 0.214427,
+        "anger": 0.178932
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.205155,
+        "label": "negative"
+      },
+      "relevance": 0.877726,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            68,
+            82
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            190,
+            195
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            413,
+            418
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            541,
+            546
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            751,
+            756
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            845,
+            848
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            985,
+            990
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            1476,
+            1481
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            1602,
+            1607
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1652,
+            1655
+          ]
+        },
+        {
+          "text": "an enchantress",
+          "location": [
+            1660,
+            1674
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            1869,
+            1874
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            2880,
+            2885
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            2922,
+            2927
+          ]
+        },
+        {
+          "text": "an unfit mother",
+          "location": [
+            2932,
+            2947
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.169167,
+        "joy": 0.627843,
+        "fear": 0.082769,
+        "disgust": 0.112861,
+        "anger": 0.532198
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 16
+    },
+    {
+      "type": "Person",
+      "text": "Jolie don",
+      "sentiment": {
+        "score": -0.545622,
+        "label": "negative"
+      },
+      "relevance": 0.252302,
+      "mentions": [
+        {
+          "text": "seven years",
+          "location": [
+            1505,
+            1516
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.095267,
+        "joy": 0.703915,
+        "fear": 0.011324,
+        "disgust": 0.041572,
+        "anger": 0.175357
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Vivienne",
+      "sentiment": {
+        "score": 0.254198,
+        "label": "positive"
+      },
+      "relevance": 0.229124,
+      "mentions": [
+        {
+          "text": "Vivienne",
+          "location": [
+            106,
+            114
+          ]
+        },
+        {
+          "text": "Vivienne",
+          "location": [
+            303,
+            311
+          ]
+        },
+        {
+          "text": "Vivienne",
+          "location": [
+            2820,
+            2828
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.363861,
+        "joy": 0.069995,
+        "fear": 0.27094,
+        "disgust": 0.431951,
+        "anger": 0.173677
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.341092,
+        "label": "negative"
+      },
+      "relevance": 0.162008,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            1428,
+            1437
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            1801,
+            1805
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109251,
+        "joy": 0.679658,
+        "fear": 0.01006,
+        "disgust": 0.087801,
+        "anger": 0.130978
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jonny Lee Miller",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.141518,
+      "mentions": [
+        {
+          "text": "Jonny Lee Miller",
+          "location": [
+            733,
+            749
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.101677,
+        "joy": 0.594624,
+        "fear": 0.088412,
+        "disgust": 0.08134,
+        "anger": 0.042282
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jonny Lee Miller",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jonny_Lee_Miller"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.945082,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.646164,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Billy Bob Thornton",
+      "relevance": 0.521336,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Bob_Thornton"
+    },
+    {
+      "text": "Jonny Lee Miller",
+      "relevance": 0.491582,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jonny_Lee_Miller"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.426164,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.825836,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 791,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.291289,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": -0.490087,
+        "label": "negative"
+      },
+      "relevance": 0.930753,
+      "emotion": {
+        "sadness": 0.461397,
+        "joy": 0.207529,
+        "fear": 0.188574,
+        "disgust": 0.156325,
+        "anger": 0.08084
+      },
+      "count": 1
+    },
+    {
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": -0.490087,
+        "label": "negative"
+      },
+      "relevance": 0.809836,
+      "emotion": {
+        "sadness": 0.461397,
+        "joy": 0.207529,
+        "fear": 0.188574,
+        "disgust": 0.156325,
+        "anger": 0.08084
+      },
+      "count": 1
+    },
+    {
+      "text": "actor Liam Hemsworth",
+      "sentiment": {
+        "score": -0.490087,
+        "label": "negative"
+      },
+      "relevance": 0.60505,
+      "emotion": {
+        "sadness": 0.622702,
+        "joy": 0.153602,
+        "fear": 0.074732,
+        "disgust": 0.063709,
+        "anger": 0.093506
+      },
+      "count": 1
+    },
+    {
+      "text": "Miley\u2019s happiness",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.604641,
+      "emotion": {
+        "sadness": 0.095118,
+        "joy": 0.82224,
+        "fear": 0.049868,
+        "disgust": 0.012757,
+        "anger": 0.014777
+      },
+      "count": 1
+    },
+    {
+      "text": "Last Song co-stars",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.590927,
+      "emotion": {
+        "sadness": 0.066736,
+        "joy": 0.866297,
+        "fear": 0.039335,
+        "disgust": 0.014312,
+        "anger": 0.01013
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.45327,
+        "label": "positive"
+      },
+      "relevance": 0.871134,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            28,
+            39
+          ]
+        },
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            91,
+            102
+          ]
+        },
+        {
+          "text": "Cyrus",
+          "location": [
+            259,
+            264
+          ]
+        },
+        {
+          "text": "Miley",
+          "location": [
+            302,
+            307
+          ]
+        },
+        {
+          "text": "Miley",
+          "location": [
+            351,
+            356
+          ]
+        },
+        {
+          "text": "Miley",
+          "location": [
+            559,
+            564
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.242549,
+        "joy": 0.624045,
+        "fear": 0.048897,
+        "disgust": 0.068283,
+        "anger": 0.028618
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0.453708,
+        "label": "positive"
+      },
+      "relevance": 0.785857,
+      "mentions": [
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            41,
+            55
+          ]
+        },
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            113,
+            127
+          ]
+        },
+        {
+          "text": "Liam",
+          "location": [
+            312,
+            316
+          ]
+        },
+        {
+          "text": "Liam",
+          "location": [
+            378,
+            382
+          ]
+        },
+        {
+          "text": "Hemsworth",
+          "location": [
+            780,
+            789
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.249476,
+        "joy": 0.641452,
+        "fear": 0.038954,
+        "disgust": 0.042647,
+        "anger": 0.033205
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Liam Hemsworth",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+      },
+      "count": 5
+    },
+    {
+      "type": "MusicGroup",
+      "text": "Wrecking Ball",
+      "sentiment": {
+        "score": 0.384214,
+        "label": "positive"
+      },
+      "relevance": 0.19567,
+      "emotion": {
+        "sadness": 0.228544,
+        "joy": 0.467387,
+        "fear": 0.215587,
+        "disgust": 0.036188,
+        "anger": 0.021001
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "OK\u2009Magazine.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.160916,
+      "mentions": [
+        {
+          "text": "OK\u2009Magazine.",
+          "location": [
+            289,
+            301
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.979869,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "Liam Hemsworth",
+      "relevance": 0.643698,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+    },
+    {
+      "text": "Pregnancy",
+      "relevance": 0.594032,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+      "text": "The Last Song",
+      "relevance": 0.584933,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Last_Song_(film)"
+    },
+    {
+      "text": "Miley Stewart",
+      "relevance": 0.51383,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Stewart"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.720878,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1156,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.611923,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jeremy Scott Throws Star",
+      "sentiment": {
+        "score": 0.852625,
+        "label": "positive"
+      },
+      "relevance": 0.711778,
+      "emotion": {
+        "sadness": 0.077913,
+        "joy": 0.705583,
+        "fear": 0.023403,
+        "disgust": 0.165647,
+        "anger": 0.07619
+      },
+      "count": 1
+    },
+    {
+      "text": "red carpet style",
+      "sentiment": {
+        "score": 0.852625,
+        "label": "positive"
+      },
+      "relevance": 0.687622,
+      "emotion": {
+        "sadness": 0.061925,
+        "joy": 0.838852,
+        "fear": 0.012109,
+        "disgust": 0.063603,
+        "anger": 0.026545
+      },
+      "count": 1
+    },
+    {
+      "text": "MTV Video Music Awards",
+      "sentiment": {
+        "score": 0.852625,
+        "label": "positive"
+      },
+      "relevance": 0.676322,
+      "emotion": {
+        "sadness": 0.061925,
+        "joy": 0.838852,
+        "fear": 0.012109,
+        "disgust": 0.063603,
+        "anger": 0.026545
+      },
+      "count": 1
+    },
+    {
+      "text": "New Ugg Capsule Collection",
+      "sentiment": {
+        "score": 0.852625,
+        "label": "positive"
+      },
+      "relevance": 0.648502,
+      "emotion": {
+        "sadness": 0.077913,
+        "joy": 0.705583,
+        "fear": 0.023403,
+        "disgust": 0.165647,
+        "anger": 0.07619
+      },
+      "count": 1
+    },
+    {
+      "text": "St\u00e9phane Rolland Couture gown",
+      "sentiment": {
+        "score": -0.845759,
+        "label": "negative"
+      },
+      "relevance": 0.583502,
+      "emotion": {
+        "sadness": 0.055066,
+        "joy": 0.737158,
+        "fear": 0.028092,
+        "disgust": 0.091994,
+        "anger": 0.071843
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jeremy Scott",
+      "sentiment": {
+        "score": 0.697604,
+        "label": "positive"
+      },
+      "relevance": 0.797965,
+      "mentions": [
+        {
+          "text": "Jeremy Scott",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Jeremy Scott",
+          "location": [
+            258,
+            270
+          ]
+        },
+        {
+          "text": "Scott",
+          "location": [
+            799,
+            804
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147973,
+        "joy": 0.58284,
+        "fear": 0.024063,
+        "disgust": 0.172552,
+        "anger": 0.099222
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "FashionDesigner"
+        ],
+        "name": "Jeremy Scott",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jeremy_Scott"
+      },
+      "count": 3
+    },
+    {
+      "type": "Facility",
+      "text": "New Ugg Capsule Collection",
+      "sentiment": {
+        "score": 0.589785,
+        "label": "positive"
+      },
+      "relevance": 0.697889,
+      "mentions": [
+        {
+          "text": "New Ugg Capsule Collection",
+          "location": [
+            56,
+            82
+          ]
+        },
+        {
+          "text": "The collection",
+          "location": [
+            960,
+            974
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.079105,
+        "joy": 0.676995,
+        "fear": 0.013127,
+        "disgust": 0.163372,
+        "anger": 0.072923
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jared Leto",
+      "sentiment": {
+        "score": 0.553534,
+        "label": "positive"
+      },
+      "relevance": 0.659857,
+      "mentions": [
+        {
+          "text": "Jared Leto",
+          "location": [
+            500,
+            510
+          ]
+        },
+        {
+          "text": "Jared Leto",
+          "location": [
+            703,
+            713
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278834,
+        "joy": 0.185554,
+        "fear": 0.049134,
+        "disgust": 0.114611,
+        "anger": 0.071926
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Celebrity",
+          "FilmActor",
+          "Guitarist",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Jared Leto",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jared_Leto"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": 0.884981,
+        "label": "positive"
+      },
+      "relevance": 0.488237,
+      "mentions": [
+        {
+          "text": "Los Angeles",
+          "location": [
+            411,
+            422
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "location": [
+            915,
+            926
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152146,
+        "joy": 0.57979,
+        "fear": 0.035853,
+        "disgust": 0.087205,
+        "anger": 0.076407
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Roberto Cavalli Couture",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.470206,
+      "mentions": [
+        {
+          "text": "Roberto Cavalli Couture",
+          "location": [
+            636,
+            659
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.058522,
+        "joy": 0.597989,
+        "fear": 0.109023,
+        "disgust": 0.080561,
+        "anger": 0.064717
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "MTV Video Music Awards",
+      "relevance": 0.988682,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Roberto Cavalli",
+      "relevance": 0.649528,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roberto_Cavalli"
+    },
+    {
+      "text": "MTV",
+      "relevance": 0.629565,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV"
+    },
+    {
+      "text": "Florence",
+      "relevance": 0.613723,
+      "dbpedia_resource": "http://dbpedia.org/resource/Florence"
+    },
+    {
+      "text": "Italy",
+      "relevance": 0.523004,
+      "dbpedia_resource": "http://dbpedia.org/resource/Italy"
+    }
+  ],
+  "categories": [
+    {
+      "score": 1.0,
+      "label": "/style and fashion/footwear/boots"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 738,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.585038,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Marine Le Pen",
+      "sentiment": {
+        "score": -0.63139,
+        "label": "negative"
+      },
+      "relevance": 0.912367,
+      "emotion": {
+        "sadness": 0.444877,
+        "joy": 0.250585,
+        "fear": 0.146437,
+        "disgust": 0.224684,
+        "anger": 0.115773
+      },
+      "count": 1
+    },
+    {
+      "text": "Emmanuel Macron",
+      "sentiment": {
+        "score": -0.63139,
+        "label": "negative"
+      },
+      "relevance": 0.848652,
+      "emotion": {
+        "sadness": 0.444877,
+        "joy": 0.250585,
+        "fear": 0.146437,
+        "disgust": 0.224684,
+        "anger": 0.115773
+      },
+      "count": 1
+    },
+    {
+      "text": "French Election Runoff",
+      "sentiment": {
+        "score": -0.63139,
+        "label": "negative"
+      },
+      "relevance": 0.746918,
+      "emotion": {
+        "sadness": 0.444877,
+        "joy": 0.250585,
+        "fear": 0.146437,
+        "disgust": 0.224684,
+        "anger": 0.115773
+      },
+      "count": 1
+    },
+    {
+      "text": "anti-euro Le Pen",
+      "sentiment": {
+        "score": -0.52969,
+        "label": "negative"
+      },
+      "relevance": 0.738042,
+      "emotion": {
+        "sadness": 0.380175,
+        "joy": 0.214151,
+        "fear": 0.270788,
+        "disgust": 0.040029,
+        "anger": 0.169427
+      },
+      "count": 1
+    },
+    {
+      "text": "Le Pen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.679807,
+      "emotion": {
+        "sadness": 0.341326,
+        "joy": 0.201502,
+        "fear": 0.191494,
+        "disgust": 0.207132,
+        "anger": 0.317296
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Emmanuel Macron",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.869778,
+      "mentions": [
+        {
+          "text": "Emmanuel Macron",
+          "location": [
+            129,
+            144
+          ]
+        },
+        {
+          "text": "the centrist Macron",
+          "location": [
+            311,
+            330
+          ]
+        },
+        {
+          "text": "Macron",
+          "location": [
+            529,
+            535
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.414686,
+        "joy": 0.328733,
+        "fear": 0.16235,
+        "disgust": 0.101171,
+        "anger": 0.14508
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Le Pen",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.708165,
+      "mentions": [
+        {
+          "text": "Le Pen",
+          "location": [
+            300,
+            306
+          ]
+        },
+        {
+          "text": "Le Pen",
+          "location": [
+            543,
+            549
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.356049,
+        "joy": 0.233383,
+        "fear": 0.250414,
+        "disgust": 0.039549,
+        "anger": 0.196802
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "France",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.237142,
+      "mentions": [
+        {
+          "text": "France",
+          "location": [
+            231,
+            237
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmDirector",
+          "Country"
+        ],
+        "name": "France",
+        "dbpedia_resource": "http://dbpedia.org/resource/France"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.231132,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            245,
+            254
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.397633,
+        "joy": 0.332141,
+        "fear": 0.122894,
+        "disgust": 0.213169,
+        "anger": 0.079769
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Europe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.221389,
+      "mentions": [
+        {
+          "text": "Europe",
+          "location": [
+            679,
+            685
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.405445,
+        "joy": 0.249635,
+        "fear": 0.145633,
+        "disgust": 0.086984,
+        "anger": 0.089678
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "FilmMusicContributor",
+          "Lyricist",
+          "MusicalArtist",
+          "RecordProducer",
+          "Continent"
+        ],
+        "name": "Europe",
+        "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "France",
+      "relevance": 0.978667,
+      "dbpedia_resource": "http://dbpedia.org/resource/France"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.921067,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Nicolas Sarkozy",
+      "relevance": 0.830169,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicolas_Sarkozy"
+    },
+    {
+      "text": "Nationalism",
+      "relevance": 0.798363,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nationalism"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.769086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.946869,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

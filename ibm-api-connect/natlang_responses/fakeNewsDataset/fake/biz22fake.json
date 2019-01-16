@@ -1,0 +1,243 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 877,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.789971,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": -0.84597,
+        "label": "negative"
+      },
+      "relevance": 0.751327,
+      "emotion": {
+        "sadness": 0.459829,
+        "joy": 0.140979,
+        "fear": 0.167455,
+        "disgust": 0.067027,
+        "anger": 0.206314
+      },
+      "count": 1
+    },
+    {
+      "text": "subsequent purchase of a firm",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.681739,
+      "emotion": {
+        "sadness": 0.426403,
+        "joy": 0.074915,
+        "fear": 0.101572,
+        "disgust": 0.04625,
+        "anger": 0.165261
+      },
+      "count": 1
+    },
+    {
+      "text": "European Commission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66837,
+      "emotion": {
+        "sadness": 0.258666,
+        "joy": 0.073781,
+        "fear": 0.145538,
+        "disgust": 0.096726,
+        "anger": 0.507412
+      },
+      "count": 1
+    },
+    {
+      "text": "German stock exchange Deutsche Boerse",
+      "sentiment": {
+        "score": -0.84597,
+        "label": "negative"
+      },
+      "relevance": 0.65243,
+      "emotion": {
+        "sadness": 0.433634,
+        "joy": 0.119834,
+        "fear": 0.110877,
+        "disgust": 0.08261,
+        "anger": 0.147574
+      },
+      "count": 1
+    },
+    {
+      "text": "Deutche Boerse's involvement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.619779,
+      "emotion": {
+        "sadness": 0.426403,
+        "joy": 0.074915,
+        "fear": 0.101572,
+        "disgust": 0.04625,
+        "anger": 0.165261
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.759978,
+      "mentions": [
+        {
+          "text": "London Stock Exchange",
+          "location": [
+            85,
+            106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Facility",
+          "TouristAttraction"
+        ],
+        "name": "London Stock Exchange",
+        "dbpedia_resource": "http://dbpedia.org/resource/London_Stock_Exchange"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "EU",
+      "sentiment": {
+        "score": -0.369994,
+        "label": "negative"
+      },
+      "relevance": 0.54957,
+      "mentions": [
+        {
+          "text": "EU",
+          "location": [
+            54,
+            56
+          ]
+        },
+        {
+          "text": "EU",
+          "location": [
+            58,
+            60
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.478654,
+        "joy": 0.120086,
+        "fear": 0.185953,
+        "disgust": 0.06494,
+        "anger": 0.205016
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Igotchu Enterprises",
+      "sentiment": {
+        "score": -0.76613,
+        "label": "negative"
+      },
+      "relevance": 0.500394,
+      "mentions": [
+        {
+          "text": "Igotchu Enterprises",
+          "location": [
+            430,
+            449
+          ]
+        },
+        {
+          "text": "Igotchu Enterprises",
+          "location": [
+            571,
+            590
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.7208,
+        "joy": 0.019427,
+        "fear": 0.125955,
+        "disgust": 0.133391,
+        "anger": 0.17823
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "European Union",
+      "relevance": 0.973161,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "Stock exchange",
+      "relevance": 0.713762,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock_exchange"
+    },
+    {
+      "text": "European Commission",
+      "relevance": 0.678674,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Commission"
+    },
+    {
+      "text": "German language",
+      "relevance": 0.667685,
+      "dbpedia_resource": "http://dbpedia.org/resource/German_language"
+    },
+    {
+      "text": "Frankfurt am Main",
+      "relevance": 0.576267,
+      "dbpedia_resource": "http://dbpedia.org/resource/Frankfurt_am_Main"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.951734,
+      "label": "/business and industrial/company/merger and acquisition"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.416625,
+        "joy": 0.256364,
+        "fear": 0.040116,
+        "disgust": 0.088125,
+        "anger": 0.103106
+      },
+      "count": 1
+    },
+    {
+      "text": "Prince William Try",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.394144,
+      "emotion": {
+        "sadness": 0.416625,
+        "joy": 0.256364,
+        "fear": 0.040116,
+        "disgust": 0.088125,
+        "anger": 0.103106
+      },
+      "count": 1
+    },
+    {
+      "text": "Crumbling Marriage",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.020953,
+      "emotion": {
+        "sadness": 0.416625,
+        "joy": 0.256364,
+        "fear": 0.040116,
+        "disgust": 0.088125,
+        "anger": 0.103106
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince William",
+      "sentiment": {
+        "score": -0.489736,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Prince William",
+          "location": [
+            17,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.41208,
+        "joy": 0.338809,
+        "fear": 0.032207,
+        "disgust": 0.07396,
+        "anger": 0.081157
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince William, Duke of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": -0.489736,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kate Middleton",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.41208,
+        "joy": 0.338809,
+        "fear": 0.032207,
+        "disgust": 0.07396,
+        "anger": 0.081157
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Catherine, Duchess of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Prince William of Wales",
+      "relevance": 0.938227,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_William_of_Wales"
+    },
+    {
+      "text": "Concert for Diana",
+      "relevance": 0.782088,
+      "dbpedia_resource": "http://dbpedia.org/resource/Concert_for_Diana"
+    },
+    {
+      "text": "University of St Andrews",
+      "relevance": 0.722406,
+      "dbpedia_resource": "http://dbpedia.org/resource/University_of_St_Andrews"
+    },
+    {
+      "text": "Kate Middleton",
+      "relevance": 0.700949,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kate_Middleton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.954078,
+      "label": "/society/social institution"
+    }
+  ]
+}

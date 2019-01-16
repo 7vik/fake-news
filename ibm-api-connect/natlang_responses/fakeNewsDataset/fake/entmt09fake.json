@@ -1,0 +1,310 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 509,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.649508,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sienna Miller",
+      "sentiment": {
+        "score": -0.851248,
+        "label": "negative"
+      },
+      "relevance": 0.922928,
+      "emotion": {
+        "sadness": 0.33902,
+        "joy": 0.186014,
+        "fear": 0.018158,
+        "disgust": 0.420782,
+        "anger": 0.180965
+      },
+      "count": 1
+    },
+    {
+      "text": "sense of commonality",
+      "sentiment": {
+        "score": -0.391514,
+        "label": "negative"
+      },
+      "relevance": 0.773923,
+      "emotion": {
+        "sadness": 0.071114,
+        "joy": 0.3074,
+        "fear": 0.122604,
+        "disgust": 0.06383,
+        "anger": 0.258811
+      },
+      "count": 1
+    },
+    {
+      "text": "high praise",
+      "sentiment": {
+        "score": -0.851248,
+        "label": "negative"
+      },
+      "relevance": 0.741665,
+      "emotion": {
+        "sadness": 0.438799,
+        "joy": 0.133224,
+        "fear": 0.021378,
+        "disgust": 0.376437,
+        "anger": 0.204758
+      },
+      "count": 1
+    },
+    {
+      "text": "Charlie Hunnam",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.671301,
+      "emotion": {
+        "sadness": 0.438799,
+        "joy": 0.133224,
+        "fear": 0.021378,
+        "disgust": 0.376437,
+        "anger": 0.204758
+      },
+      "count": 1
+    },
+    {
+      "text": "script writer of her new film",
+      "sentiment": {
+        "score": -0.851248,
+        "label": "negative"
+      },
+      "relevance": 0.628226,
+      "emotion": {
+        "sadness": 0.438799,
+        "joy": 0.133224,
+        "fear": 0.021378,
+        "disgust": 0.376437,
+        "anger": 0.204758
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sienna Miller",
+      "sentiment": {
+        "score": 0.464231,
+        "label": "positive"
+      },
+      "relevance": 0.881928,
+      "mentions": [
+        {
+          "text": "Sienna Miller",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Sienna Miller",
+          "location": [
+            42,
+            55
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.067667,
+        "joy": 0.41322,
+        "fear": 0.029013,
+        "disgust": 0.316807,
+        "anger": 0.082605
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Sienna Miller",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sienna_Miller"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "director",
+      "sentiment": {
+        "score": 0.104861,
+        "label": "positive"
+      },
+      "relevance": 0.483553,
+      "mentions": [
+        {
+          "text": "director",
+          "location": [
+            80,
+            88
+          ]
+        },
+        {
+          "text": "director",
+          "location": [
+            393,
+            401
+          ]
+        },
+        {
+          "text": "director",
+          "location": [
+            454,
+            462
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.054172,
+        "joy": 0.51753,
+        "fear": 0.064774,
+        "disgust": 0.104627,
+        "anger": 0.202244
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Sienna",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.46613,
+      "mentions": [
+        {
+          "text": "Sienna",
+          "location": [
+            501,
+            507
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.164894,
+        "joy": 0.219469,
+        "fear": 0.083195,
+        "disgust": 0.07756,
+        "anger": 0.15803
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Percy Fawcett",
+      "sentiment": {
+        "score": -0.286162,
+        "label": "negative"
+      },
+      "relevance": 0.347609,
+      "mentions": [
+        {
+          "text": "Percy Fawcett",
+          "location": [
+            208,
+            221
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.503758,
+        "joy": 0.026333,
+        "fear": 0.032965,
+        "disgust": 0.213066,
+        "anger": 0.277338
+      },
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson"
+        ],
+        "name": "Percy Fawcett",
+        "dbpedia_resource": "http://dbpedia.org/resource/Percy_Fawcett"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charlie Hunnam",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33627,
+      "mentions": [
+        {
+          "text": "Charlie Hunnam",
+          "location": [
+            233,
+            247
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278047,
+        "joy": 0.318662,
+        "fear": 0.044078,
+        "disgust": 0.271303,
+        "anger": 0.128112
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Charlie Hunnam",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charlie_Hunnam"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American novels",
+      "relevance": 0.944183,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_novels"
+    },
+    {
+      "text": "Screenwriter",
+      "relevance": 0.715122,
+      "dbpedia_resource": "http://dbpedia.org/resource/Screenwriter"
+    },
+    {
+      "text": "Narrative",
+      "relevance": 0.687359,
+      "dbpedia_resource": "http://dbpedia.org/resource/Narrative"
+    },
+    {
+      "text": "Film director",
+      "relevance": 0.686227,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film_director"
+    },
+    {
+      "text": "Choice Music Prize",
+      "relevance": 0.673853,
+      "dbpedia_resource": "http://dbpedia.org/resource/Choice_Music_Prize"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.762105,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

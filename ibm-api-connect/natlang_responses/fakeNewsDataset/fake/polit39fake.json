@@ -1,0 +1,360 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 448,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.542681,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Arnold Schwarzenegger",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.980467,
+      "emotion": {
+        "sadness": 0.12771,
+        "joy": 0.392954,
+        "fear": 0.04695,
+        "disgust": 0.102698,
+        "anger": 0.389883
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.899606,
+      "emotion": {
+        "sadness": 0.12771,
+        "joy": 0.392954,
+        "fear": 0.04695,
+        "disgust": 0.102698,
+        "anger": 0.389883
+      },
+      "count": 1
+    },
+    {
+      "text": "Schwarzenegger swings",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.833561,
+      "emotion": {
+        "sadness": 0.29075,
+        "joy": 0.561953,
+        "fear": 0.020475,
+        "disgust": 0.05266,
+        "anger": 0.053089
+      },
+      "count": 1
+    },
+    {
+      "text": "previous claim",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.655058,
+      "emotion": {
+        "sadness": 0.12771,
+        "joy": 0.392954,
+        "fear": 0.04695,
+        "disgust": 0.102698,
+        "anger": 0.389883
+      },
+      "count": 1
+    },
+    {
+      "text": "Arnold",
+      "sentiment": {
+        "score": -0.542681,
+        "label": "negative"
+      },
+      "relevance": 0.594054,
+      "emotion": {
+        "sadness": 0.447318,
+        "joy": 0.093221,
+        "fear": 0.152794,
+        "disgust": 0.178851,
+        "anger": 0.411334
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gov. Arnold Schwarzenegger",
+      "sentiment": {
+        "score": -0.163853,
+        "label": "negative"
+      },
+      "relevance": 0.870255,
+      "mentions": [
+        {
+          "text": "Schwarzenegger",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Gov. Arnold Schwarzenegger",
+          "location": [
+            62,
+            88
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            126,
+            128
+          ]
+        },
+        {
+          "text": "Arnold",
+          "location": [
+            221,
+            227
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            252,
+            255
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            271,
+            273
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            327,
+            329
+          ]
+        },
+        {
+          "text": "Arnold",
+          "location": [
+            337,
+            343
+          ]
+        },
+        {
+          "text": "Arnold",
+          "location": [
+            420,
+            426
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.659941,
+        "joy": 0.469389,
+        "fear": 0.144522,
+        "disgust": 0.128204,
+        "anger": 0.151337
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Politician",
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "Governor",
+          "HonoraryDegreeRecipient",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Arnold Schwarzenegger",
+        "dbpedia_resource": "http://dbpedia.org/resource/Arnold_Schwarzenegger"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.448664,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            161,
+            173
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            404,
+            409
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.266638,
+        "joy": 0.159681,
+        "fear": 0.076876,
+        "disgust": 0.299069,
+        "anger": 0.40364
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.414982,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.242396,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            151,
+            160
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            199,
+            208
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.249208,
+        "joy": 0.310837,
+        "fear": 0.043059,
+        "disgust": 0.248016,
+        "anger": 0.320629
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.160137,
+      "emotion": {
+        "sadness": 0.20188,
+        "joy": 0.461169,
+        "fear": 0.027363,
+        "disgust": 0.126048,
+        "anger": 0.259025
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "Appellation",
+          "GovernmentalJurisdiction",
+          "USState",
+          "WineRegion",
+          "StateOrCounty"
+        ],
+        "name": "California",
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jesse Ventura",
+      "relevance": 0.909772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jesse_Ventura"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.8811,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Arnold Schwarzenegger",
+      "relevance": 0.86526,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arnold_Schwarzenegger"
+    },
+    {
+      "text": "University of Pennsylvania",
+      "relevance": 0.81583,
+      "dbpedia_resource": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.738153,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.653091,
+      "label": "/sports/boxing"
+    }
+  ]
+}

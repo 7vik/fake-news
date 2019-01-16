@@ -1,0 +1,327 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 727,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.337771,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "U.S. ambassador",
+      "sentiment": {
+        "score": -0.749393,
+        "label": "negative"
+      },
+      "relevance": 0.759962,
+      "emotion": {
+        "sadness": 0.09514,
+        "joy": 0.583969,
+        "fear": 0.038866,
+        "disgust": 0.073583,
+        "anger": 0.032341
+      },
+      "count": 1
+    },
+    {
+      "text": "strong opposition",
+      "sentiment": {
+        "score": -0.749393,
+        "label": "negative"
+      },
+      "relevance": 0.756113,
+      "emotion": {
+        "sadness": 0.428872,
+        "joy": 0.220769,
+        "fear": 0.112411,
+        "disgust": 0.200764,
+        "anger": 0.137012
+      },
+      "count": 1
+    },
+    {
+      "text": "David Friedman",
+      "sentiment": {
+        "score": -0.749393,
+        "label": "negative"
+      },
+      "relevance": 0.693624,
+      "emotion": {
+        "sadness": 0.428872,
+        "joy": 0.220769,
+        "fear": 0.112411,
+        "disgust": 0.200764,
+        "anger": 0.137012
+      },
+      "count": 1
+    },
+    {
+      "text": "unanimous consent",
+      "sentiment": {
+        "score": 0.963988,
+        "label": "positive"
+      },
+      "relevance": 0.688099,
+      "emotion": {
+        "sadness": 0.131867,
+        "joy": 0.598737,
+        "fear": 0.045698,
+        "disgust": 0.099088,
+        "anger": 0.051383
+      },
+      "count": 1
+    },
+    {
+      "text": "voice vote",
+      "sentiment": {
+        "score": 0.963988,
+        "label": "positive"
+      },
+      "relevance": 0.66316,
+      "emotion": {
+        "sadness": 0.131867,
+        "joy": 0.598737,
+        "fear": 0.045698,
+        "disgust": 0.099088,
+        "anger": 0.051383
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.751268,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            48,
+            70
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            520,
+            525
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Israel",
+      "sentiment": {
+        "score": -0.399794,
+        "label": "negative"
+      },
+      "relevance": 0.651857,
+      "mentions": [
+        {
+          "text": "Israel",
+          "location": [
+            41,
+            47
+          ]
+        },
+        {
+          "text": "Israel",
+          "location": [
+            98,
+            104
+          ]
+        },
+        {
+          "text": "Israel",
+          "location": [
+            293,
+            299
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144234,
+        "joy": 0.297871,
+        "fear": 0.064284,
+        "disgust": 0.069362,
+        "anger": 0.052616
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "FilmArtDirector",
+          "Country"
+        ],
+        "name": "Israel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Israel"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "David Friedman",
+      "sentiment": {
+        "score": -0.402939,
+        "label": "negative"
+      },
+      "relevance": 0.587607,
+      "mentions": [
+        {
+          "text": "Friedman",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "David Friedman",
+          "location": [
+            106,
+            120
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.09546,
+        "joy": 0.110732,
+        "fear": 0.035455,
+        "disgust": 0.078457,
+        "anger": 0.031104
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Middle East",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.363363,
+      "mentions": [
+        {
+          "text": "Middle East",
+          "location": [
+            622,
+            633
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.369758,
+        "joy": 0.132292,
+        "fear": 0.091103,
+        "disgust": 0.129021,
+        "anger": 0.25382
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ],
+        "name": "Middle East",
+        "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Senate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.341226,
+      "mentions": [
+        {
+          "text": "Senate",
+          "location": [
+            143,
+            149
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109687,
+        "joy": 0.088748,
+        "fear": 0.093533,
+        "disgust": 0.018775,
+        "anger": 0.033565
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody",
+          "Legislature"
+        ],
+        "name": "United States Senate",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Israel",
+      "relevance": 0.965066,
+      "dbpedia_resource": "http://dbpedia.org/resource/Israel"
+    },
+    {
+      "text": "Middle East",
+      "relevance": 0.593807,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+      "text": "United States Congress",
+      "relevance": 0.488814,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+    },
+    {
+      "text": "West Bank",
+      "relevance": 0.480898,
+      "dbpedia_resource": "http://dbpedia.org/resource/West_Bank"
+    },
+    {
+      "text": "Jordan",
+      "relevance": 0.478855,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jordan"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.784793,
+      "label": "/law, govt and politics/espionage and intelligence/terrorism"
+    }
+  ]
+}

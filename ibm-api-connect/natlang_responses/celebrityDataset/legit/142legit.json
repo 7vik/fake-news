@@ -1,0 +1,167 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.991359,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian's Sweet Message",
+      "sentiment": {
+        "score": 0.991359,
+        "label": "positive"
+      },
+      "relevance": 0.997289,
+      "emotion": {
+        "sadness": 0.020063,
+        "joy": 0.946183,
+        "fear": 0.007648,
+        "disgust": 0.001704,
+        "anger": 0.010505
+      },
+      "count": 1
+    },
+    {
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": 0.991359,
+        "label": "positive"
+      },
+      "relevance": 0.974368,
+      "emotion": {
+        "sadness": 0.020063,
+        "joy": 0.946183,
+        "fear": 0.007648,
+        "disgust": 0.001704,
+        "anger": 0.010505
+      },
+      "count": 1
+    },
+    {
+      "text": "Prince",
+      "sentiment": {
+        "score": 0.991359,
+        "label": "positive"
+      },
+      "relevance": 0.594309,
+      "emotion": {
+        "sadness": 0.020063,
+        "joy": 0.946183,
+        "fear": 0.007648,
+        "disgust": 0.001704,
+        "anger": 0.010505
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.515761,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": 0.655796,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Serena Williams",
+          "location": [
+            37,
+            52
+          ]
+        },
+        {
+          "text": "Her",
+          "location": [
+            74,
+            77
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.018015,
+        "joy": 0.959601,
+        "fear": 0.006143,
+        "disgust": 0.001217,
+        "anger": 0.008336
+      },
+      "disambiguation": {
+        "subtype": [
+          "TennisPlayer",
+          "AwardWinner",
+          "Celebrity",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Serena Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Serena Williams",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.916107,
+      "label": "/sports/tennis"
+    }
+  ]
+}

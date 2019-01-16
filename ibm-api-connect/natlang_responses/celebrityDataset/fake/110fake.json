@@ -1,0 +1,294 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 776,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.480824,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "David Foster",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.938129,
+      "emotion": {
+        "sadness": 0.097484,
+        "joy": 0.555883,
+        "fear": 0.018085,
+        "disgust": 0.175454,
+        "anger": 0.120535
+      },
+      "count": 1
+    },
+    {
+      "text": "Katharine McPhee",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888882,
+      "emotion": {
+        "sadness": 0.097484,
+        "joy": 0.555883,
+        "fear": 0.018085,
+        "disgust": 0.175454,
+        "anger": 0.120535
+      },
+      "count": 3
+    },
+    {
+      "text": "older musician David Foster",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.795459,
+      "emotion": {
+        "sadness": 0.122401,
+        "joy": 0.324842,
+        "fear": 0.033454,
+        "disgust": 0.058679,
+        "anger": 0.05677
+      },
+      "count": 1
+    },
+    {
+      "text": "top of the Hollywood pyramid",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.788129,
+      "emotion": {
+        "sadness": 0.122401,
+        "joy": 0.324842,
+        "fear": 0.033454,
+        "disgust": 0.058679,
+        "anger": 0.05677
+      },
+      "count": 1
+    },
+    {
+      "text": "faux couple",
+      "sentiment": {
+        "score": -0.872178,
+        "label": "negative"
+      },
+      "relevance": 0.548645,
+      "emotion": {
+        "sadness": 0.6911,
+        "joy": 0.097253,
+        "fear": 0.177475,
+        "disgust": 0.123765,
+        "anger": 0.130977
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katharine McPhee",
+      "sentiment": {
+        "score": 0.763965,
+        "label": "positive"
+      },
+      "relevance": 0.957111,
+      "mentions": [
+        {
+          "text": "Katharine McPhee",
+          "location": [
+            15,
+            31
+          ]
+        },
+        {
+          "text": "Katharine McPhee",
+          "location": [
+            103,
+            119
+          ]
+        },
+        {
+          "text": "Katharine McPhee",
+          "location": [
+            526,
+            542
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106069,
+        "joy": 0.598278,
+        "fear": 0.027082,
+        "disgust": 0.213415,
+        "anger": 0.098068
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Katharine McPhee",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katharine_McPhee"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "David Foster",
+      "sentiment": {
+        "score": 0.779703,
+        "label": "positive"
+      },
+      "relevance": 0.680455,
+      "mentions": [
+        {
+          "text": "David Foster",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "David Foster",
+          "location": [
+            77,
+            89
+          ]
+        },
+        {
+          "text": "David Foster",
+          "location": [
+            658,
+            670
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.105222,
+        "joy": 0.613376,
+        "fear": 0.017414,
+        "disgust": 0.149217,
+        "anger": 0.091201
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "David Foster",
+        "dbpedia_resource": "http://dbpedia.org/resource/David_Foster"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "SAG-AFTRA Foundation",
+      "sentiment": {
+        "score": 0.83767,
+        "label": "positive"
+      },
+      "relevance": 0.18747,
+      "mentions": [
+        {
+          "text": "SAG-AFTRA Foundation",
+          "location": [
+            166,
+            186
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035611,
+        "joy": 0.656827,
+        "fear": 0.043758,
+        "disgust": 0.1712,
+        "anger": 0.041837
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.159708,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            601,
+            610
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13131,
+        "joy": 0.298229,
+        "fear": 0.037674,
+        "disgust": 0.055441,
+        "anger": 0.054114
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Katharine McPhee",
+      "relevance": 0.958558,
+      "dbpedia_resource": "http://dbpedia.org/resource/Katharine_McPhee"
+    },
+    {
+      "text": "David Foster",
+      "relevance": 0.664283,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Foster"
+    },
+    {
+      "text": "Andrea Bocelli",
+      "relevance": 0.629461,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andrea_Bocelli"
+    },
+    {
+      "text": "The House Bunny",
+      "relevance": 0.569405,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_House_Bunny"
+    },
+    {
+      "text": "The Spotlight",
+      "relevance": 0.496784,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Spotlight"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.732927,
+      "label": "/society/dating"
+    }
+  ]
+}

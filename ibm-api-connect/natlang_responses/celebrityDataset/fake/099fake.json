@@ -1,0 +1,219 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 726,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.321154,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beyonce Gets Taylor Swift",
+      "sentiment": {
+        "score": 0.588416,
+        "label": "positive"
+      },
+      "relevance": 0.828468,
+      "emotion": {
+        "sadness": 0.235146,
+        "joy": 0.0751,
+        "fear": 0.047595,
+        "disgust": 0.392986,
+        "anger": 0.485806
+      },
+      "count": 1
+    },
+    {
+      "text": "list singer",
+      "sentiment": {
+        "score": -0.903273,
+        "label": "negative"
+      },
+      "relevance": 0.678203,
+      "emotion": {
+        "sadness": 0.454156,
+        "joy": 0.10314,
+        "fear": 0.03116,
+        "disgust": 0.047815,
+        "anger": 0.256325
+      },
+      "count": 2
+    },
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.274162,
+        "label": "negative"
+      },
+      "relevance": 0.659641,
+      "emotion": {
+        "sadness": 0.423134,
+        "joy": 0.151177,
+        "fear": 0.156549,
+        "disgust": 0.10267,
+        "anger": 0.400122
+      },
+      "count": 2
+    },
+    {
+      "text": "important person",
+      "sentiment": {
+        "score": 0.588416,
+        "label": "positive"
+      },
+      "relevance": 0.635758,
+      "emotion": {
+        "sadness": 0.105591,
+        "joy": 0.46151,
+        "fear": 0.053024,
+        "disgust": 0.091132,
+        "anger": 0.033972
+      },
+      "count": 1
+    },
+    {
+      "text": "BLIND ITEM",
+      "sentiment": {
+        "score": -0.903273,
+        "label": "negative"
+      },
+      "relevance": 0.629219,
+      "emotion": {
+        "sadness": 0.454156,
+        "joy": 0.10314,
+        "fear": 0.03116,
+        "disgust": 0.047815,
+        "anger": 0.256325
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": -0.096546,
+        "label": "negative"
+      },
+      "relevance": 0.90877,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            12,
+            19
+          ]
+        },
+        {
+          "text": "BEYONCE",
+          "location": [
+            152,
+            159
+          ]
+        },
+        {
+          "text": "Beyonce",
+          "location": [
+            298,
+            305
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17517,
+        "joy": 0.260161,
+        "fear": 0.020281,
+        "disgust": 0.185468,
+        "anger": 0.513341
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.772955,
+        "label": "negative"
+      },
+      "relevance": 0.657365,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            25,
+            37
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            201,
+            213
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.226608,
+        "joy": 0.30456,
+        "fear": 0.046165,
+        "disgust": 0.298138,
+        "anger": 0.291184
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.963614,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "MTV Video Music Awards",
+      "relevance": 0.78464,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Video_Music_Awards"
+    },
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.688214,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.677324,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "Performing arts",
+      "relevance": 0.650856,
+      "dbpedia_resource": "http://dbpedia.org/resource/Performing_arts"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.810892,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

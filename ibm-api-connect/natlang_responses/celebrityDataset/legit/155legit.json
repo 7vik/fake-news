@@ -1,0 +1,343 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 910,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.377134,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Daytime Emmy Awards",
+      "sentiment": {
+        "score": 0.828936,
+        "label": "positive"
+      },
+      "relevance": 0.810505,
+      "emotion": {
+        "sadness": 0.015254,
+        "joy": 0.630148,
+        "fear": 0.018318,
+        "disgust": 0.058346,
+        "anger": 0.012038
+      },
+      "count": 2
+    },
+    {
+      "text": "talk-show hosts",
+      "sentiment": {
+        "score": 0.694843,
+        "label": "positive"
+      },
+      "relevance": 0.777031,
+      "emotion": {
+        "sadness": 0.021719,
+        "joy": 0.72976,
+        "fear": 0.025793,
+        "disgust": 0.068825,
+        "anger": 0.012594
+      },
+      "count": 1
+    },
+    {
+      "text": "Betty White",
+      "sentiment": {
+        "score": 0.932532,
+        "label": "positive"
+      },
+      "relevance": 0.733979,
+      "emotion": {
+        "sadness": 0.079545,
+        "joy": 0.810703,
+        "fear": 0.003088,
+        "disgust": 0.067213,
+        "anger": 0.038969
+      },
+      "count": 2
+    },
+    {
+      "text": "Tyra Banks",
+      "sentiment": {
+        "score": 0.557214,
+        "label": "positive"
+      },
+      "relevance": 0.682606,
+      "emotion": {
+        "sadness": 0.163185,
+        "joy": 0.745619,
+        "fear": 0.002192,
+        "disgust": 0.075455,
+        "anger": 0.034937
+      },
+      "count": 1
+    },
+    {
+      "text": "special prize",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.630993,
+      "emotion": {
+        "sadness": 0.163185,
+        "joy": 0.745619,
+        "fear": 0.002192,
+        "disgust": 0.075455,
+        "anger": 0.034937
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.401747,
+        "label": "positive"
+      },
+      "relevance": 0.93319,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            39,
+            54
+          ]
+        },
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            861,
+            876
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.103127,
+        "joy": 0.463414,
+        "fear": 0.031169,
+        "disgust": 0.065585,
+        "anger": 0.069631
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Betty White",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.827173,
+      "mentions": [
+        {
+          "text": "Betty White",
+          "location": [
+            26,
+            37
+          ]
+        },
+        {
+          "text": "Betty",
+          "location": [
+            632,
+            637
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.154529,
+        "joy": 0.591498,
+        "fear": 0.026991,
+        "disgust": 0.114443,
+        "anger": 0.138152
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "HallOfFameInductee",
+          "TVActor"
+        ],
+        "name": "Betty White",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betty_White"
+      },
+      "count": 2
+    },
+    {
+      "type": "Award",
+      "text": "Emmy",
+      "sentiment": {
+        "score": 0.300399,
+        "label": "positive"
+      },
+      "relevance": 0.76091,
+      "mentions": [
+        {
+          "text": "Emmy",
+          "location": [
+            13,
+            17
+          ]
+        },
+        {
+          "text": "Emmy",
+          "location": [
+            249,
+            253
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213941,
+        "joy": 0.317867,
+        "fear": 0.030494,
+        "disgust": 0.077983,
+        "anger": 0.05952
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ],
+        "name": "Emmy Award",
+        "dbpedia_resource": "http://dbpedia.org/resource/Emmy_Award"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Tyra Banks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.561396,
+      "mentions": [
+        {
+          "text": "Tyra Banks",
+          "location": [
+            272,
+            282
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.203361,
+        "joy": 0.628921,
+        "fear": 0.036065,
+        "disgust": 0.074449,
+        "anger": 0.068731
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardWinner",
+          "Celebrity",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Tyra Banks",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tyra_Banks"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Regis Philbin",
+      "sentiment": {
+        "score": 0.497467,
+        "label": "positive"
+      },
+      "relevance": 0.521744,
+      "mentions": [
+        {
+          "text": "Regis Philbin",
+          "location": [
+            481,
+            494
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151341,
+        "joy": 0.651715,
+        "fear": 0.025879,
+        "disgust": 0.081013,
+        "anger": 0.070689
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardWinner",
+          "Celebrity",
+          "HallOfFameInductee",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Regis Philbin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Regis_Philbin"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.954043,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.921706,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Daytime Emmy Award",
+      "relevance": 0.86175,
+      "dbpedia_resource": "http://dbpedia.org/resource/Daytime_Emmy_Award"
+    },
+    {
+      "text": "Daytime Emmy Award winners",
+      "relevance": 0.853355,
+      "dbpedia_resource": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+    },
+    {
+      "text": "Emmy Award",
+      "relevance": 0.828025,
+      "dbpedia_resource": "http://dbpedia.org/resource/Emmy_Award"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.900747,
+      "label": "/art and entertainment/movies and tv/talk shows"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 922,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.519827,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Honorable Company of Edinburgh Golfers",
+      "sentiment": {
+        "score": -0.427704,
+        "label": "negative"
+      },
+      "relevance": 0.815128,
+      "emotion": {
+        "sadness": 0.288692,
+        "joy": 0.176424,
+        "fear": 0.033298,
+        "disgust": 0.439184,
+        "anger": 0.036175
+      },
+      "count": 1
+    },
+    {
+      "text": "Muirfield women membership saga",
+      "sentiment": {
+        "score": 0.880892,
+        "label": "positive"
+      },
+      "relevance": 0.796245,
+      "emotion": {
+        "sadness": 0.164617,
+        "joy": 0.095579,
+        "fear": 0.054813,
+        "disgust": 0.468962,
+        "anger": 0.093055
+      },
+      "count": 1
+    },
+    {
+      "text": "Rory McIlroy",
+      "sentiment": {
+        "score": 0.34576,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.789348,
+      "emotion": {
+        "sadness": 0.34521,
+        "joy": 0.135168,
+        "fear": 0.01525,
+        "disgust": 0.548458,
+        "anger": 0.175261
+      },
+      "count": 2
+    },
+    {
+      "text": "Muirfield golfers",
+      "sentiment": {
+        "score": -0.691358,
+        "label": "negative"
+      },
+      "relevance": 0.635286,
+      "emotion": {
+        "sadness": 0.424253,
+        "joy": 0.141141,
+        "fear": 0.013919,
+        "disgust": 0.477528,
+        "anger": 0.18403
+      },
+      "count": 1
+    },
+    {
+      "text": "Lothian links",
+      "sentiment": {
+        "score": -0.427704,
+        "label": "negative"
+      },
+      "relevance": 0.634271,
+      "emotion": {
+        "sadness": 0.288692,
+        "joy": 0.176424,
+        "fear": 0.033298,
+        "disgust": 0.439184,
+        "anger": 0.036175
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rory McIlroy",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.87866,
+      "mentions": [
+        {
+          "text": "Rory McIlroy",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Rory McIlroy",
+          "location": [
+            110,
+            122
+          ]
+        },
+        {
+          "text": "McIlroy",
+          "location": [
+            748,
+            755
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.42177,
+        "joy": 0.118568,
+        "fear": 0.010092,
+        "disgust": 0.13153,
+        "anger": 0.524313
+      },
+      "disambiguation": {
+        "subtype": [
+          "Golfer"
+        ],
+        "name": "Rory McIlroy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rory_McIlroy"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Honorable Company of Edinburgh Golfers",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.307313,
+      "mentions": [
+        {
+          "text": "Honorable Company of Edinburgh Golfers",
+          "location": [
+            232,
+            270
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.288692,
+        "joy": 0.176424,
+        "fear": 0.033298,
+        "disgust": 0.439184,
+        "anger": 0.036175
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Muirfield",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.298044,
+      "mentions": [
+        {
+          "text": "Muirfield",
+          "location": [
+            141,
+            150
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.631174,
+        "joy": 0.094451,
+        "fear": 0.051018,
+        "disgust": 0.069319,
+        "anger": 0.177694
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Arnold Palmer Invitational",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.217329,
+      "mentions": [
+        {
+          "text": "Arnold Palmer Invitational",
+          "location": [
+            792,
+            818
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188661,
+        "joy": 0.139251,
+        "fear": 0.009707,
+        "disgust": 0.177125,
+        "anger": 0.665625
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "East Lothian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.196207,
+      "mentions": [
+        {
+          "text": "East Lothian",
+          "location": [
+            294,
+            306
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.288692,
+        "joy": 0.176424,
+        "fear": 0.033298,
+        "disgust": 0.439184,
+        "anger": 0.036175
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Open Championship",
+      "relevance": 0.94826,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Open_Championship"
+    },
+    {
+      "text": "Gary Player",
+      "relevance": 0.831866,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gary_Player"
+    },
+    {
+      "text": "Jack Nicklaus",
+      "relevance": 0.815936,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jack_Nicklaus"
+    },
+    {
+      "text": "Arnold Palmer",
+      "relevance": 0.795123,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arnold_Palmer"
+    },
+    {
+      "text": "Links",
+      "relevance": 0.76259,
+      "dbpedia_resource": "http://dbpedia.org/resource/Links_(golf)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.993188,
+      "label": "/sports/golf"
+    }
+  ]
+}

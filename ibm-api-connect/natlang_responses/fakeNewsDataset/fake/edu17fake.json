@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 696,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.946072,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ILLEGAL IMMIGRANTS",
+      "sentiment": {
+        "score": -0.986593,
+        "label": "negative"
+      },
+      "relevance": 0.842903,
+      "emotion": {
+        "sadness": 0.186812,
+        "joy": 0.121036,
+        "fear": 0.020221,
+        "disgust": 0.190827,
+        "anger": 0.640185
+      },
+      "count": 2
+    },
+    {
+      "text": "teaching positions",
+      "sentiment": {
+        "score": -0.986593,
+        "label": "negative"
+      },
+      "relevance": 0.773158,
+      "emotion": {
+        "sadness": 0.543155,
+        "joy": 0.031713,
+        "fear": 0.088546,
+        "disgust": 0.12508,
+        "anger": 0.297254
+      },
+      "count": 1
+    },
+    {
+      "text": "school districts",
+      "sentiment": {
+        "score": -0.900036,
+        "label": "negative"
+      },
+      "relevance": 0.669512,
+      "emotion": {
+        "sadness": 0.194961,
+        "joy": 0.057458,
+        "fear": 0.167983,
+        "disgust": 0.055954,
+        "anger": 0.144204
+      },
+      "count": 1
+    },
+    {
+      "text": "TEACHING VACANCIES",
+      "sentiment": {
+        "score": -0.986593,
+        "label": "negative"
+      },
+      "relevance": 0.656569,
+      "emotion": {
+        "sadness": 0.186812,
+        "joy": 0.121036,
+        "fear": 0.020221,
+        "disgust": 0.190827,
+        "anger": 0.640185
+      },
+      "count": 1
+    },
+    {
+      "text": "traditional hiring pools",
+      "sentiment": {
+        "score": -0.986593,
+        "label": "negative"
+      },
+      "relevance": 0.618047,
+      "emotion": {
+        "sadness": 0.543155,
+        "joy": 0.031713,
+        "fear": 0.088546,
+        "disgust": 0.12508,
+        "anger": 0.297254
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Learning Policy Institute",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.806773,
+      "mentions": [
+        {
+          "text": "Learning Policy Institute",
+          "location": [
+            324,
+            349
+          ]
+        },
+        {
+          "text": "the Institute",
+          "location": [
+            382,
+            395
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.029294,
+        "joy": 0.302568,
+        "fear": 0.037096,
+        "disgust": 0.022026,
+        "anger": 0.075562
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Oklahoma",
+      "sentiment": {
+        "score": -0.356376,
+        "label": "negative"
+      },
+      "relevance": 0.379206,
+      "mentions": [
+        {
+          "text": "Oklahoma",
+          "location": [
+            129,
+            137
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15112,
+        "joy": 0.199574,
+        "fear": 0.075841,
+        "disgust": 0.07672,
+        "anger": 0.099248
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Oklahoma",
+        "dbpedia_resource": "http://dbpedia.org/resource/Oklahoma"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.371309,
+      "mentions": [
+        {
+          "text": "Florida",
+          "location": [
+            120,
+            127
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1066,
+        "joy": 0.064188,
+        "fear": 0.05958,
+        "disgust": 0.034107,
+        "anger": 0.057322
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Arizona",
+      "sentiment": {
+        "score": -0.356376,
+        "label": "negative"
+      },
+      "relevance": 0.356052,
+      "mentions": [
+        {
+          "text": "Arizona",
+          "location": [
+            142,
+            149
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15112,
+        "joy": 0.199574,
+        "fear": 0.075841,
+        "disgust": 0.07672,
+        "anger": 0.099248
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Immigration to the United States",
+      "relevance": 0.912174,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration_to_the_United_States"
+    },
+    {
+      "text": "Illegal immigration",
+      "relevance": 0.856636,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illegal_immigration"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.829498,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "School",
+      "relevance": 0.787647,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "History of education",
+      "relevance": 0.783209,
+      "dbpedia_resource": "http://dbpedia.org/resource/History_of_education"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999432,
+      "label": "/education/special education"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 624,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.356143,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Meet James Robart",
+      "sentiment": {
+        "score": -0.775263,
+        "label": "negative"
+      },
+      "relevance": 0.915781,
+      "emotion": {
+        "sadness": 0.251283,
+        "joy": 0.116145,
+        "fear": 0.035462,
+        "disgust": 0.346465,
+        "anger": 0.440691
+      },
+      "count": 1
+    },
+    {
+      "text": "similar fashion",
+      "sentiment": {
+        "score": -0.582903,
+        "label": "negative"
+      },
+      "relevance": 0.864203,
+      "emotion": {
+        "sadness": 0.128416,
+        "joy": 0.734614,
+        "fear": 0.068731,
+        "disgust": 0.012167,
+        "anger": 0.077249
+      },
+      "count": 1
+    },
+    {
+      "text": "Barack Obama",
+      "sentiment": {
+        "score": -0.582903,
+        "label": "negative"
+      },
+      "relevance": 0.737329,
+      "emotion": {
+        "sadness": 0.128416,
+        "joy": 0.734614,
+        "fear": 0.068731,
+        "disgust": 0.012167,
+        "anger": 0.077249
+      },
+      "count": 1
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.582903,
+        "label": "negative"
+      },
+      "relevance": 0.72687,
+      "emotion": {
+        "sadness": 0.128416,
+        "joy": 0.734614,
+        "fear": 0.068731,
+        "disgust": 0.012167,
+        "anger": 0.077249
+      },
+      "count": 1
+    },
+    {
+      "text": "federal judge James Robart",
+      "sentiment": {
+        "score": -0.775263,
+        "label": "negative"
+      },
+      "relevance": 0.720693,
+      "emotion": {
+        "sadness": 0.454085,
+        "joy": 0.077793,
+        "fear": 0.073659,
+        "disgust": 0.13964,
+        "anger": 0.483534
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "James Robart",
+      "sentiment": {
+        "score": 0.45049,
+        "label": "positive"
+      },
+      "relevance": 0.830673,
+      "mentions": [
+        {
+          "text": "James Robart",
+          "location": [
+            5,
+            17
+          ]
+        },
+        {
+          "text": "James Robart",
+          "location": [
+            160,
+            172
+          ]
+        },
+        {
+          "text": "Robart",
+          "location": [
+            175,
+            181
+          ]
+        },
+        {
+          "text": "Robart",
+          "location": [
+            322,
+            328
+          ]
+        },
+        {
+          "text": "Mr. Robart",
+          "location": [
+            445,
+            455
+          ]
+        },
+        {
+          "text": "a key part",
+          "location": [
+            468,
+            478
+          ]
+        },
+        {
+          "text": "Robart",
+          "location": [
+            521,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.212376,
+        "joy": 0.524478,
+        "fear": 0.091053,
+        "disgust": 0.132431,
+        "anger": 0.204753
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "James L. Robart",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_L._Robart"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.45049,
+        "label": "positive"
+      },
+      "relevance": 0.27651,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            42,
+            47
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            76,
+            81
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            308,
+            313
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.111465,
+        "joy": 0.587273,
+        "fear": 0.104629,
+        "disgust": 0.116836,
+        "anger": 0.082436
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "President George W. Bush",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.195696,
+      "mentions": [
+        {
+          "text": "President George W. Bush",
+          "location": [
+            553,
+            577
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.289108,
+        "joy": 0.140693,
+        "fear": 0.142874,
+        "disgust": 0.239695,
+        "anger": 0.247001
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter",
+          "MusicalArtist",
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardNominee",
+          "AwardWinner",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "MilitaryPerson",
+          "PoliticalAppointer",
+          "USPresident",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "George W. Bush",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Barack Obama",
+      "sentiment": {
+        "score": 0.381523,
+        "label": "positive"
+      },
+      "relevance": 0.171429,
+      "mentions": [
+        {
+          "text": "Barack Obama",
+          "location": [
+            294,
+            306
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.177669,
+        "joy": 0.166112,
+        "fear": 0.1158,
+        "disgust": 0.117406,
+        "anger": 0.093125
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.560136,
+        "label": "positive"
+      },
+      "relevance": 0.163616,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            66,
+            75
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.454085,
+        "joy": 0.077793,
+        "fear": 0.073659,
+        "disgust": 0.13964,
+        "anger": 0.483534
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.982638,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.959863,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "George W. Bush",
+      "relevance": 0.895432,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.841696,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.774652,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999728,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

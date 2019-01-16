@@ -1,0 +1,197 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 106,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.750426,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "rad Pitt",
+      "sentiment": {
+        "score": 0.750426,
+        "label": "positive"
+      },
+      "relevance": 0.986003,
+      "emotion": {
+        "sadness": 0.210606,
+        "joy": 0.172809,
+        "fear": 0.013283,
+        "disgust": 0.112163,
+        "anger": 0.037257
+      },
+      "count": 1
+    },
+    {
+      "text": "charity concert",
+      "sentiment": {
+        "score": 0.750426,
+        "label": "positive"
+      },
+      "relevance": 0.971622,
+      "emotion": {
+        "sadness": 0.210606,
+        "joy": 0.172809,
+        "fear": 0.013283,
+        "disgust": 0.112163,
+        "anger": 0.037257
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.750426,
+        "label": "positive"
+      },
+      "relevance": 0.769084,
+      "emotion": {
+        "sadness": 0.210606,
+        "joy": 0.172809,
+        "fear": 0.013283,
+        "disgust": 0.112163,
+        "anger": 0.037257
+      },
+      "count": 1
+    },
+    {
+      "text": "rare public appearance",
+      "sentiment": {
+        "score": 0.750426,
+        "label": "positive"
+      },
+      "relevance": 0.511592,
+      "emotion": {
+        "sadness": 0.210606,
+        "joy": 0.172809,
+        "fear": 0.013283,
+        "disgust": 0.112163,
+        "anger": 0.037257
+      },
+      "count": 1
+    },
+    {
+      "text": "Sting",
+      "sentiment": {
+        "score": 0.750426,
+        "label": "positive"
+      },
+      "relevance": 0.062095,
+      "emotion": {
+        "sadness": 0.210606,
+        "joy": 0.172809,
+        "fear": 0.013283,
+        "disgust": 0.112163,
+        "anger": 0.037257
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "rad Pitt",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "rad Pitt",
+          "location": [
+            0,
+            8
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.210606,
+        "joy": 0.172809,
+        "fear": 0.013283,
+        "disgust": 0.112163,
+        "anger": 0.037257
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            91,
+            105
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.210606,
+        "joy": 0.172809,
+        "fear": 0.013283,
+        "disgust": 0.112163,
+        "anger": 0.037257
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.971432,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.962181,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.862147,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.837583,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.753617,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.717278,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

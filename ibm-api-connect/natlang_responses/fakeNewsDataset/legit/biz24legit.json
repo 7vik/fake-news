@@ -1,0 +1,312 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 824,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.24428,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.830523,
+      "emotion": {
+        "sadness": 0.42806,
+        "joy": 0.163175,
+        "fear": 0.077962,
+        "disgust": 0.089675,
+        "anger": 0.0899
+      },
+      "count": 2
+    },
+    {
+      "text": "European Commission clearance",
+      "sentiment": {
+        "score": -0.429276,
+        "label": "negative"
+      },
+      "relevance": 0.738621,
+      "emotion": {
+        "sadness": 0.510547,
+        "joy": 0.112868,
+        "fear": 0.212558,
+        "disgust": 0.044891,
+        "anger": 0.180203
+      },
+      "count": 1
+    },
+    {
+      "text": "formal approval",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644451,
+      "emotion": {
+        "sadness": 0.274412,
+        "joy": 0.237839,
+        "fear": 0.047615,
+        "disgust": 0.044782,
+        "anger": 0.087203
+      },
+      "count": 1
+    },
+    {
+      "text": "LSE's latest comments",
+      "sentiment": {
+        "score": 0.707652,
+        "label": "positive"
+      },
+      "relevance": 0.643956,
+      "emotion": {
+        "sadness": 0.110685,
+        "joy": 0.244473,
+        "fear": 0.280511,
+        "disgust": 0.119047,
+        "anger": 0.19899
+      },
+      "count": 1
+    },
+    {
+      "text": "Deutsche Boerse merger",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.643522,
+      "emotion": {
+        "sadness": 0.383782,
+        "joy": 0.130863,
+        "fear": 0.120943,
+        "disgust": 0.056898,
+        "anger": 0.059049
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": -0.582029,
+        "label": "negative"
+      },
+      "relevance": 0.905303,
+      "mentions": [
+        {
+          "text": "London Stock Exchange",
+          "location": [
+            0,
+            21
+          ]
+        },
+        {
+          "text": "London Stock Exchange",
+          "location": [
+            67,
+            88
+          ]
+        },
+        {
+          "text": "LSE",
+          "location": [
+            197,
+            200
+          ]
+        },
+        {
+          "text": "LSE",
+          "location": [
+            318,
+            321
+          ]
+        },
+        {
+          "text": "LSE",
+          "location": [
+            389,
+            392
+          ]
+        },
+        {
+          "text": "LSE",
+          "location": [
+            440,
+            443
+          ]
+        },
+        {
+          "text": "the exchange",
+          "location": [
+            470,
+            482
+          ]
+        },
+        {
+          "text": "LSE",
+          "location": [
+            593,
+            596
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.532848,
+        "joy": 0.132706,
+        "fear": 0.14048,
+        "disgust": 0.09159,
+        "anger": 0.138646
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Facility",
+          "TouristAttraction"
+        ],
+        "name": "London Stock Exchange",
+        "dbpedia_resource": "http://dbpedia.org/resource/London_Stock_Exchange"
+      },
+      "count": 8
+    },
+    {
+      "type": "Company",
+      "text": "Deutsche Boerse",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.631935,
+      "mentions": [
+        {
+          "text": "Deutsche Boerse",
+          "location": [
+            40,
+            55
+          ]
+        },
+        {
+          "text": "Deutsche Boerse",
+          "location": [
+            157,
+            172
+          ]
+        },
+        {
+          "text": "Deutsche Boerse",
+          "location": [
+            729,
+            744
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.226036,
+        "joy": 0.258734,
+        "fear": 0.04843,
+        "disgust": 0.053248,
+        "anger": 0.092002
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Deutsche B\u00f6rse",
+        "dbpedia_resource": "http://dbpedia.org/resource/Deutsche_B\u00f6rse"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "European Commission",
+      "sentiment": {
+        "score": -0.676917,
+        "label": "negative"
+      },
+      "relevance": 0.210418,
+      "mentions": [
+        {
+          "text": "European Commission",
+          "location": [
+            256,
+            275
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.510547,
+        "joy": 0.112868,
+        "fear": 0.212558,
+        "disgust": 0.044891,
+        "anger": 0.180203
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "MTS",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.171268,
+      "mentions": [
+        {
+          "text": "MTS",
+          "location": [
+            347,
+            350
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.175067,
+        "joy": 0.051042,
+        "fear": 0.191851,
+        "disgust": 0.066497,
+        "anger": 0.168853
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "London Stock Exchange",
+      "relevance": 0.967725,
+      "dbpedia_resource": "http://dbpedia.org/resource/London_Stock_Exchange"
+    },
+    {
+      "text": "Stock market",
+      "relevance": 0.947165,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock_market"
+    },
+    {
+      "text": "Stock exchange",
+      "relevance": 0.774362,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock_exchange"
+    },
+    {
+      "text": "London",
+      "relevance": 0.479111,
+      "dbpedia_resource": "http://dbpedia.org/resource/London"
+    },
+    {
+      "text": "Stock",
+      "relevance": 0.465817,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.987924,
+      "label": "/business and industrial/company/merger and acquisition"
+    }
+  ]
+}

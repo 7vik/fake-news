@@ -1,0 +1,321 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 536,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.731539,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jehovah's Witness",
+      "sentiment": {
+        "score": -0.732496,
+        "label": "negative"
+      },
+      "relevance": 0.836751,
+      "emotion": {
+        "sadness": 0.148697,
+        "joy": 0.521351,
+        "fear": 0.360933,
+        "disgust": 0.023914,
+        "anger": 0.030346
+      },
+      "count": 1
+    },
+    {
+      "text": "deadly disease",
+      "sentiment": {
+        "score": -0.732496,
+        "label": "negative"
+      },
+      "relevance": 0.807474,
+      "emotion": {
+        "sadness": 0.148697,
+        "joy": 0.521351,
+        "fear": 0.360933,
+        "disgust": 0.023914,
+        "anger": 0.030346
+      },
+      "count": 1
+    },
+    {
+      "text": "last stages",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.776404,
+      "emotion": {
+        "sadness": 0.806892,
+        "joy": 0.029341,
+        "fear": 0.238513,
+        "disgust": 0.011555,
+        "anger": 0.086007
+      },
+      "count": 1
+    },
+    {
+      "text": "ENQUIRER",
+      "sentiment": {
+        "score": -0.700931,
+        "label": "negative"
+      },
+      "relevance": 0.597553,
+      "emotion": {
+        "sadness": 0.720184,
+        "joy": 0.019129,
+        "fear": 0.345695,
+        "disgust": 0.054078,
+        "anger": 0.08343
+      },
+      "count": 2
+    },
+    {
+      "text": "Drug Overdose",
+      "sentiment": {
+        "score": -0.635103,
+        "label": "negative"
+      },
+      "relevance": 0.579688,
+      "emotion": {
+        "sadness": 0.384794,
+        "joy": 0.092148,
+        "fear": 0.181736,
+        "disgust": 0.220111,
+        "anger": 0.129467
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince",
+      "sentiment": {
+        "score": -0.084261,
+        "label": "negative"
+      },
+      "relevance": 0.937278,
+      "mentions": [
+        {
+          "text": "Prince",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Prince",
+          "location": [
+            70,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.330669,
+        "joy": 0.063487,
+        "fear": 0.265029,
+        "disgust": 0.11839,
+        "anger": 0.079479
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The ENQUIRER",
+      "sentiment": {
+        "score": -0.082407,
+        "label": "negative"
+      },
+      "relevance": 0.920383,
+      "mentions": [
+        {
+          "text": "The ENQUIRER",
+          "location": [
+            47,
+            59
+          ]
+        },
+        {
+          "text": "The ENQUIRER",
+          "location": [
+            474,
+            486
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109039,
+        "joy": 0.059944,
+        "fear": 0.05242,
+        "disgust": 0.065143,
+        "anger": 0.213336
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "National Enquirer",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Enquirer"
+      },
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "AIDS",
+      "sentiment": {
+        "score": -0.500821,
+        "label": "negative"
+      },
+      "relevance": 0.902422,
+      "mentions": [
+        {
+          "text": "AIDS",
+          "location": [
+            128,
+            132
+          ]
+        },
+        {
+          "text": "AIDS",
+          "location": [
+            330,
+            334
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.422847,
+        "joy": 0.078321,
+        "fear": 0.425869,
+        "disgust": 0.108718,
+        "anger": 0.163077
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "DiseaseCause",
+          "RiskFactor",
+          "Disease",
+          "OrganizationSector"
+        ],
+        "name": "AIDS",
+        "dbpedia_resource": "http://dbpedia.org/resource/AIDS"
+      },
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "Drug Overdose",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.717348,
+      "mentions": [
+        {
+          "text": "Drug Overdose",
+          "location": [
+            30,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.420245,
+        "joy": 0.068564,
+        "fear": 0.197614,
+        "disgust": 0.23797,
+        "anger": 0.127696
+      },
+      "disambiguation": {
+        "subtype": [
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "Disease"
+        ],
+        "name": "Drug overdose",
+        "dbpedia_resource": "http://dbpedia.org/resource/Drug_overdose"
+      },
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "HIV",
+      "sentiment": {
+        "score": -0.504253,
+        "label": "negative"
+      },
+      "relevance": 0.505117,
+      "mentions": [
+        {
+          "text": "HIV",
+          "location": [
+            101,
+            104
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.371879,
+        "joy": 0.043522,
+        "fear": 0.316039,
+        "disgust": 0.125349,
+        "anger": 0.078764
+      },
+      "disambiguation": {
+        "subtype": [
+          "OrganismClassification",
+          "DiseaseOrMedicalCondition",
+          "CauseOfDeath",
+          "InfectiousDisease",
+          "RiskFactor",
+          "MedicalSpecialty"
+        ],
+        "name": "HIV",
+        "dbpedia_resource": "http://dbpedia.org/resource/HIV"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Blood transfusion",
+      "relevance": 0.954541,
+      "dbpedia_resource": "http://dbpedia.org/resource/Blood_transfusion"
+    },
+    {
+      "text": "Jesus",
+      "relevance": 0.77583,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jesus"
+    },
+    {
+      "text": "Tetragrammaton",
+      "relevance": 0.725324,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tetragrammaton"
+    },
+    {
+      "text": "Barbiturate",
+      "relevance": 0.674709,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barbiturate"
+    },
+    {
+      "text": "AIDS",
+      "relevance": 0.671126,
+      "dbpedia_resource": "http://dbpedia.org/resource/AIDS"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998917,
+      "label": "/health and fitness/disease/aids and hiv"
+    }
+  ]
+}

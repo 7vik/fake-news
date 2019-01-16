@@ -1,0 +1,193 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.69377,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston Doubts Justin Bieber",
+      "sentiment": {
+        "score": -0.69377,
+        "label": "negative"
+      },
+      "relevance": 0.996996,
+      "emotion": {
+        "sadness": 0.094418,
+        "joy": 0.440681,
+        "fear": 0.046857,
+        "disgust": 0.158623,
+        "anger": 0.150174
+      },
+      "count": 1
+    },
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.69377,
+        "label": "negative"
+      },
+      "relevance": 0.885021,
+      "emotion": {
+        "sadness": 0.094418,
+        "joy": 0.440681,
+        "fear": 0.046857,
+        "disgust": 0.158623,
+        "anger": 0.150174
+      },
+      "count": 1
+    },
+    {
+      "text": "Right Man",
+      "sentiment": {
+        "score": -0.69377,
+        "label": "negative"
+      },
+      "relevance": 0.081464,
+      "emotion": {
+        "sadness": 0.094418,
+        "joy": 0.440681,
+        "fear": 0.046857,
+        "disgust": 0.158623,
+        "anger": 0.150174
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.899466,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            24,
+            37
+          ]
+        },
+        {
+          "text": "The Right Man",
+          "location": [
+            41,
+            54
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.063542,
+        "joy": 0.513312,
+        "fear": 0.029715,
+        "disgust": 0.16225,
+        "anger": 0.167226
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.899466,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            59,
+            71
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.094418,
+        "joy": 0.440681,
+        "fear": 0.046857,
+        "disgust": 0.158623,
+        "anger": 0.150174
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.899466,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.094418,
+        "joy": 0.440681,
+        "fear": 0.046857,
+        "disgust": 0.158623,
+        "anger": 0.150174
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.976899,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.585206,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

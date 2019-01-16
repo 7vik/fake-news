@@ -1,0 +1,359 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6563,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.417666,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "husband Brad Pitt",
+      "sentiment": {
+        "score": 0.48676,
+        "label": "positive"
+      },
+      "relevance": 0.609033,
+      "emotion": {
+        "sadness": 0.299433,
+        "joy": 0.473715,
+        "fear": 0.054292,
+        "disgust": 0.12999,
+        "anger": 0.181052
+      },
+      "count": 1
+    },
+    {
+      "text": "Carrie Kirkpatrick",
+      "sentiment": {
+        "score": -0.91178,
+        "label": "negative"
+      },
+      "relevance": 0.605411,
+      "emotion": {
+        "sadness": 0.299433,
+        "joy": 0.473715,
+        "fear": 0.054292,
+        "disgust": 0.12999,
+        "anger": 0.181052
+      },
+      "count": 1
+    },
+    {
+      "text": "White Witch",
+      "sentiment": {
+        "score": 0.48676,
+        "label": "positive"
+      },
+      "relevance": 0.587434,
+      "emotion": {
+        "sadness": 0.299433,
+        "joy": 0.473715,
+        "fear": 0.054292,
+        "disgust": 0.12999,
+        "anger": 0.181052
+      },
+      "count": 2
+    },
+    {
+      "text": "Hollywood star Angelina Jolie",
+      "sentiment": {
+        "score": 0.48676,
+        "label": "positive"
+      },
+      "relevance": 0.578982,
+      "emotion": {
+        "sadness": 0.299433,
+        "joy": 0.473715,
+        "fear": 0.054292,
+        "disgust": 0.12999,
+        "anger": 0.181052
+      },
+      "count": 1
+    },
+    {
+      "text": "equal love",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.565823,
+      "emotion": {
+        "sadness": 0.26124,
+        "joy": 0.516933,
+        "fear": 0.008491,
+        "disgust": 0.065972,
+        "anger": 0.072426
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.872223,
+      "mentions": [
+        {
+          "text": "Angelina",
+          "location": [
+            18,
+            26
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            121,
+            135
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            250,
+            258
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            567,
+            575
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            1014,
+            1022
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            1241,
+            1249
+          ]
+        },
+        {
+          "text": "'Angelina",
+          "location": [
+            1527,
+            1536
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            1801,
+            1809
+          ]
+        },
+        {
+          "text": "Angelina",
+          "location": [
+            5319,
+            5327
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.197557,
+        "joy": 0.525547,
+        "fear": 0.043524,
+        "disgust": 0.132922,
+        "anger": 0.179725
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt.Back",
+      "sentiment": {
+        "score": 0.133655,
+        "label": "positive"
+      },
+      "relevance": 0.658593,
+      "mentions": [
+        {
+          "text": "Brad Pitt.Back",
+          "location": [
+            193,
+            207
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            338,
+            342
+          ]
+        },
+        {
+          "text": "'Brad",
+          "location": [
+            557,
+            562
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            1027,
+            1031
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            3901,
+            3905
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            4236,
+            4240
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            5452,
+            5456
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.237402,
+        "joy": 0.631595,
+        "fear": 0.125909,
+        "disgust": 0.078797,
+        "anger": 0.11968
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Carrie Kirkpatrick",
+      "sentiment": {
+        "score": -0.409895,
+        "label": "negative"
+      },
+      "relevance": 0.496177,
+      "mentions": [
+        {
+          "text": "Carrie Kirkpatrick",
+          "location": [
+            354,
+            372
+          ]
+        },
+        {
+          "text": "Carrie",
+          "location": [
+            537,
+            543
+          ]
+        },
+        {
+          "text": "Carrie",
+          "location": [
+            5782,
+            5788
+          ]
+        },
+        {
+          "text": "Carrie",
+          "location": [
+            6093,
+            6099
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.330141,
+        "joy": 0.48701,
+        "fear": 0.069265,
+        "disgust": 0.071701,
+        "anger": 0.078754
+      },
+      "count": 4
+    },
+    {
+      "type": "Movie",
+      "text": "Goddess of Love",
+      "sentiment": {
+        "score": -0.711888,
+        "label": "negative"
+      },
+      "relevance": 0.426266,
+      "emotion": {
+        "sadness": 0.082265,
+        "joy": 0.693472,
+        "fear": 0.130944,
+        "disgust": 0.01445,
+        "anger": 0.159501
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.978609,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.963081,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Brangelina",
+      "relevance": 0.685897,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brangelina"
+    },
+    {
+      "text": "Witchcraft",
+      "relevance": 0.650238,
+      "dbpedia_resource": "http://dbpedia.org/resource/Witchcraft"
+    },
+    {
+      "text": "News of the World",
+      "relevance": 0.564456,
+      "dbpedia_resource": "http://dbpedia.org/resource/News_of_the_World"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.879887,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

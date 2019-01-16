@@ -1,0 +1,381 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1284,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.599659,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.973881,
+        "label": "negative"
+      },
+      "relevance": 0.951769,
+      "emotion": {
+        "sadness": 0.208188,
+        "joy": 0.145375,
+        "fear": 0.065575,
+        "disgust": 0.567362,
+        "anger": 0.139814
+      },
+      "count": 2
+    },
+    {
+      "text": "Next time Justin Bieber",
+      "sentiment": {
+        "score": -0.973881,
+        "label": "negative"
+      },
+      "relevance": 0.82845,
+      "emotion": {
+        "sadness": 0.208865,
+        "joy": 0.137744,
+        "fear": 0.090443,
+        "disgust": 0.558941,
+        "anger": 0.182311
+      },
+      "count": 1
+    },
+    {
+      "text": "former President Bill Clinton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.639747,
+      "emotion": {
+        "sadness": 0.127503,
+        "joy": 0.156715,
+        "fear": 0.033583,
+        "disgust": 0.246128,
+        "anger": 0.527524
+      },
+      "count": 1
+    },
+    {
+      "text": "Bieber's ex Selena Gomez",
+      "sentiment": {
+        "score": -0.793472,
+        "label": "negative"
+      },
+      "relevance": 0.629827,
+      "emotion": {
+        "sadness": 0.318198,
+        "joy": 0.359726,
+        "fear": 0.010688,
+        "disgust": 0.307984,
+        "anger": 0.091529
+      },
+      "count": 1
+    },
+    {
+      "text": "Cold Water",
+      "sentiment": {
+        "score": -0.55787,
+        "label": "negative"
+      },
+      "relevance": 0.614341,
+      "emotion": {
+        "sadness": 0.383424,
+        "joy": 0.364984,
+        "fear": 0.008591,
+        "disgust": 0.040997,
+        "anger": 0.076959
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.385637,
+        "label": "negative"
+      },
+      "relevance": 0.844101,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            4,
+            17
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            54,
+            67
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            90,
+            92
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            161,
+            174
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            482,
+            488
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            600,
+            606
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            695,
+            701
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            786,
+            789
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            891,
+            897
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            953,
+            955
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.176964,
+        "joy": 0.19713,
+        "fear": 0.443706,
+        "disgust": 0.435564,
+        "anger": 0.443239
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.519191,
+        "label": "negative"
+      },
+      "relevance": 0.202478,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            494,
+            506
+          ]
+        },
+        {
+          "text": "a fan",
+          "location": [
+            515,
+            520
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162725,
+        "joy": 0.392396,
+        "fear": 0.020877,
+        "disgust": 0.3772,
+        "anger": 0.118428
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bill Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.180386,
+      "mentions": [
+        {
+          "text": "Bill Clinton",
+          "location": [
+            829,
+            841
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            853,
+            855
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.254968,
+        "joy": 0.128523,
+        "fear": 0.053555,
+        "disgust": 0.16899,
+        "anger": 0.511896
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Politician",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "MusicalGroupMember",
+          "OfficeHolder",
+          "PoliticalAppointer",
+          "TVPersonality",
+          "FilmActor",
+          "FilmWriter",
+          "USPresident"
+        ],
+        "name": "Bill Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.349763,
+        "label": "positive"
+      },
+      "relevance": 0.161793,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            933,
+            940
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.058425,
+        "joy": 0.148001,
+        "fear": 0.049806,
+        "disgust": 0.017274,
+        "anger": 0.214698
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "LA",
+      "sentiment": {
+        "score": -0.522741,
+        "label": "negative"
+      },
+      "relevance": 0.149242,
+      "mentions": [
+        {
+          "text": "LA",
+          "location": [
+            190,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.100593,
+        "joy": 0.188018,
+        "fear": 0.092788,
+        "disgust": 0.208054,
+        "anger": 0.138982
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.986194,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.48567,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.453596,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.974461,
+      "label": "/style and fashion/clothing/pants"
+    }
+  ]
+}

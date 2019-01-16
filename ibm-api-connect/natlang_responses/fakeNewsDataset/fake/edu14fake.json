@@ -1,0 +1,245 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 741,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.340492,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new iteration of the popular building game",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.860128,
+      "emotion": {
+        "sadness": 0.135438,
+        "joy": 0.539364,
+        "fear": 0.235922,
+        "disgust": 0.057346,
+        "anger": 0.050529
+      },
+      "count": 1
+    },
+    {
+      "text": "Mark Minghella",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.850885,
+      "emotion": {
+        "sadness": 0.112068,
+        "joy": 0.128239,
+        "fear": 0.063139,
+        "disgust": 0.054806,
+        "anger": 0.026065
+      },
+      "count": 1
+    },
+    {
+      "text": "game-play",
+      "sentiment": {
+        "score": 0.421917,
+        "label": "positive"
+      },
+      "relevance": 0.692268,
+      "emotion": {
+        "sadness": 0.357912,
+        "joy": 0.41145,
+        "fear": 0.014541,
+        "disgust": 0.281091,
+        "anger": 0.04818
+      },
+      "count": 1
+    },
+    {
+      "text": "Syrian refugee crisis",
+      "sentiment": {
+        "score": 0.258961,
+        "label": "positive"
+      },
+      "relevance": 0.664105,
+      "emotion": {
+        "sadness": 0.195718,
+        "joy": 0.379826,
+        "fear": 0.349767,
+        "disgust": 0.153989,
+        "anger": 0.040543
+      },
+      "count": 1
+    },
+    {
+      "text": "Children",
+      "sentiment": {
+        "score": 0.421917,
+        "label": "positive"
+      },
+      "relevance": 0.611179,
+      "emotion": {
+        "sadness": 0.357912,
+        "joy": 0.41145,
+        "fear": 0.014541,
+        "disgust": 0.281091,
+        "anger": 0.04818
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mark Minghella",
+      "sentiment": {
+        "score": -0.333297,
+        "label": "negative"
+      },
+      "relevance": 0.78612,
+      "mentions": [
+        {
+          "text": "Mark Minghella",
+          "location": [
+            217,
+            231
+          ]
+        },
+        {
+          "text": "Minghella",
+          "location": [
+            441,
+            450
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065787,
+        "joy": 0.341641,
+        "fear": 0.108181,
+        "disgust": 0.02556,
+        "anger": 0.012249
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.444365,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            424,
+            439
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277723,
+        "joy": 0.075993,
+        "fear": 0.380466,
+        "disgust": 0.231443,
+        "anger": 0.278209
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Microsoft",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.387951,
+      "mentions": [
+        {
+          "text": "Microsoft",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.018058,
+        "joy": 0.654264,
+        "fear": 0.067648,
+        "disgust": 0.026926,
+        "anger": 0.002991
+      },
+      "disambiguation": {
+        "subtype": [
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher",
+          "ProgrammingLanguageDesigner"
+        ],
+        "name": "Microsoft",
+        "dbpedia_resource": "http://dbpedia.org/resource/Microsoft"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.985108,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Republic",
+      "relevance": 0.866114,
+      "dbpedia_resource": "http://dbpedia.org/resource/Republic"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.863328,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Liberal democracy",
+      "relevance": 0.809132,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liberal_democracy"
+    },
+    {
+      "text": "Liberalism in the United States",
+      "relevance": 0.800701,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liberalism_in_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.894465,
+      "label": "/education/teaching and classroom resources"
+    }
+  ]
+}

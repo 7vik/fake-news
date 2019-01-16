@@ -1,0 +1,143 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.602869,
+        "joy": 0.230009,
+        "fear": 0.01759,
+        "disgust": 0.095848,
+        "anger": 0.080807
+      },
+      "count": 1
+    },
+    {
+      "text": "own makeup line",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.407375,
+      "emotion": {
+        "sadness": 0.602869,
+        "joy": 0.230009,
+        "fear": 0.01759,
+        "disgust": 0.095848,
+        "anger": 0.080807
+      },
+      "count": 1
+    },
+    {
+      "text": "Donda",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.007213,
+      "emotion": {
+        "sadness": 0.602869,
+        "joy": 0.230009,
+        "fear": 0.01759,
+        "disgust": 0.095848,
+        "anger": 0.080807
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.602869,
+        "joy": 0.230009,
+        "fear": 0.01759,
+        "disgust": 0.095848,
+        "anger": 0.080807
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Donda",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Donda",
+          "location": [
+            51,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.602869,
+        "joy": 0.230009,
+        "fear": 0.01759,
+        "disgust": 0.095848,
+        "anger": 0.080807
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kanye West",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999989,
+      "label": "/style and fashion/beauty/cosmetics/eyeshadow"
+    }
+  ]
+}

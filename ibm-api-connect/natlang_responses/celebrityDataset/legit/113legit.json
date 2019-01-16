@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kylie Jenner's Plastic Surgeon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998951,
+      "emotion": {
+        "sadness": 0.170906,
+        "joy": 0.299775,
+        "fear": 0.109304,
+        "disgust": 0.075,
+        "anger": 0.143882
+      },
+      "count": 1
+    },
+    {
+      "text": "Message",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.610963,
+      "emotion": {
+        "sadness": 0.170906,
+        "joy": 0.299775,
+        "fear": 0.109304,
+        "disgust": 0.075,
+        "anger": 0.143882
+      },
+      "count": 1
+    },
+    {
+      "text": "Lip Fillers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.07952,
+      "emotion": {
+        "sadness": 0.170906,
+        "joy": 0.299775,
+        "fear": 0.109304,
+        "disgust": 0.075,
+        "anger": 0.143882
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lip enhancement",
+      "relevance": 0.893095,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lip_enhancement"
+    },
+    {
+      "text": "Rhinoplasty",
+      "relevance": 0.881437,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rhinoplasty"
+    },
+    {
+      "text": "Surgery",
+      "relevance": 0.858345,
+      "dbpedia_resource": "http://dbpedia.org/resource/Surgery"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.600776,
+      "label": "/style and fashion/beauty/cosmetics"
+    }
+  ]
+}

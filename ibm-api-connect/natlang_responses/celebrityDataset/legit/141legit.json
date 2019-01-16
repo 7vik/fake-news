@@ -1,0 +1,292 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 667,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.946681,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New father Ryan Gosling puffs",
+      "sentiment": {
+        "score": 0.946681,
+        "label": "positive"
+      },
+      "relevance": 0.909317,
+      "emotion": {
+        "sadness": 0.073165,
+        "joy": 0.678672,
+        "fear": 0.017552,
+        "disgust": 0.249028,
+        "anger": 0.037128
+      },
+      "count": 1
+    },
+    {
+      "text": "set of his new film",
+      "sentiment": {
+        "score": 0.946681,
+        "label": "positive"
+      },
+      "relevance": 0.855509,
+      "emotion": {
+        "sadness": 0.062672,
+        "joy": 0.691887,
+        "fear": 0.012829,
+        "disgust": 0.134426,
+        "anger": 0.150652
+      },
+      "count": 1
+    },
+    {
+      "text": "Nice Guys",
+      "sentiment": {
+        "score": 0.946681,
+        "label": "positive"
+      },
+      "relevance": 0.690356,
+      "emotion": {
+        "sadness": 0.050824,
+        "joy": 0.678688,
+        "fear": 0.007646,
+        "disgust": 0.188798,
+        "anger": 0.135049
+      },
+      "count": 2
+    },
+    {
+      "text": "police officers",
+      "sentiment": {
+        "score": 0.946681,
+        "label": "positive"
+      },
+      "relevance": 0.655083,
+      "emotion": {
+        "sadness": 0.062672,
+        "joy": 0.691887,
+        "fear": 0.012829,
+        "disgust": 0.134426,
+        "anger": 0.150652
+      },
+      "count": 1
+    },
+    {
+      "text": "portrayal of private investigator Holland March",
+      "sentiment": {
+        "score": 0.946681,
+        "label": "positive"
+      },
+      "relevance": 0.638724,
+      "emotion": {
+        "sadness": 0.062672,
+        "joy": 0.691887,
+        "fear": 0.012829,
+        "disgust": 0.134426,
+        "anger": 0.150652
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ryan Gosling",
+      "sentiment": {
+        "score": 0.570201,
+        "label": "positive"
+      },
+      "relevance": 0.833083,
+      "mentions": [
+        {
+          "text": "Ryan Gosling",
+          "location": [
+            11,
+            23
+          ]
+        },
+        {
+          "text": "Ryan Gosling",
+          "location": [
+            81,
+            93
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.050778,
+        "joy": 0.752245,
+        "fear": 0.014846,
+        "disgust": 0.163272,
+        "anger": 0.056072
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Ryan Gosling",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Gosling"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Atlanta",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.386229,
+      "mentions": [
+        {
+          "text": "Atlanta",
+          "location": [
+            140,
+            147
+          ]
+        },
+        {
+          "text": "Atlanta",
+          "location": [
+            357,
+            364
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.234354,
+        "joy": 0.203123,
+        "fear": 0.017726,
+        "disgust": 0.064902,
+        "anger": 0.077048
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "investigator",
+      "sentiment": {
+        "score": 0.325083,
+        "label": "positive"
+      },
+      "relevance": 0.278272,
+      "mentions": [
+        {
+          "text": "investigator",
+          "location": [
+            275,
+            287
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.07142,
+        "joy": 0.745868,
+        "fear": 0.038771,
+        "disgust": 0.137754,
+        "anger": 0.041077
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Georgio",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.272918,
+      "mentions": [
+        {
+          "text": "Georgio",
+          "location": [
+            366,
+            373
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": 0.411968,
+        "label": "positive"
+      },
+      "relevance": 0.267286,
+      "mentions": [
+        {
+          "text": "Los Angeles",
+          "location": [
+            471,
+            482
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.174236,
+        "joy": 0.262112,
+        "fear": 0.137811,
+        "disgust": 0.352019,
+        "anger": 0.261712
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Film",
+      "relevance": 0.989833,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film"
+    },
+    {
+      "text": "Actor",
+      "relevance": 0.660528,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    },
+    {
+      "text": "Los Angeles",
+      "relevance": 0.615185,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.827115,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

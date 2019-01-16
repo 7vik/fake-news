@@ -1,0 +1,184 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 73,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.839062,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.978093,
+        "label": "positive"
+      },
+      "relevance": 0.999942,
+      "emotion": {
+        "sadness": 0.031552,
+        "joy": 0.886943,
+        "fear": 0.006042,
+        "disgust": 0.016257,
+        "anger": 0.015899
+      },
+      "count": 1
+    },
+    {
+      "text": "Alex Rodriguez",
+      "sentiment": {
+        "score": 0.978093,
+        "label": "positive"
+      },
+      "relevance": 0.989767,
+      "emotion": {
+        "sadness": 0.031552,
+        "joy": 0.886943,
+        "fear": 0.006042,
+        "disgust": 0.016257,
+        "anger": 0.015899
+      },
+      "count": 1
+    },
+    {
+      "text": "Love",
+      "sentiment": {
+        "score": 0.978093,
+        "label": "positive"
+      },
+      "relevance": 0.61385,
+      "emotion": {
+        "sadness": 0.031552,
+        "joy": 0.886943,
+        "fear": 0.006042,
+        "disgust": 0.016257,
+        "anger": 0.015899
+      },
+      "count": 1
+    },
+    {
+      "text": "Beauty",
+      "sentiment": {
+        "score": 0.978093,
+        "label": "positive"
+      },
+      "relevance": 0.594425,
+      "emotion": {
+        "sadness": 0.031552,
+        "joy": 0.886943,
+        "fear": 0.006042,
+        "disgust": 0.016257,
+        "anger": 0.015899
+      },
+      "count": 1
+    },
+    {
+      "text": "Redemption",
+      "sentiment": {
+        "score": 0.978093,
+        "label": "positive"
+      },
+      "relevance": 0.578175,
+      "emotion": {
+        "sadness": 0.031552,
+        "joy": 0.886943,
+        "fear": 0.006042,
+        "disgust": 0.016257,
+        "anger": 0.015899
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.585565,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            7,
+            21
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.036422,
+        "joy": 0.864127,
+        "fear": 0.008608,
+        "disgust": 0.021033,
+        "anger": 0.017387
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alex Rodriguez",
+      "sentiment": {
+        "score": 0.585565,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Alex Rodriguez",
+          "location": [
+            26,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.036422,
+        "joy": 0.864127,
+        "fear": 0.008608,
+        "disgust": 0.021033,
+        "anger": 0.017387
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Lopez",
+      "relevance": 0.975968,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+    },
+    {
+      "text": "Alex Rodriguez",
+      "relevance": 0.5607,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alex_Rodriguez"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.979051,
+      "label": "/style and fashion"
+    }
+  ]
+}

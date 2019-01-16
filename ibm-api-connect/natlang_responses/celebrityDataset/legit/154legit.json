@@ -1,0 +1,309 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 889,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.514242,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.61036,
+        "label": "negative"
+      },
+      "relevance": 0.940218,
+      "emotion": {
+        "sadness": 0.207777,
+        "joy": 0.629493,
+        "fear": 0.070403,
+        "disgust": 0.063291,
+        "anger": 0.076887
+      },
+      "count": 2
+    },
+    {
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": -0.61036,
+        "label": "negative"
+      },
+      "relevance": 0.787433,
+      "emotion": {
+        "sadness": 0.207777,
+        "joy": 0.629493,
+        "fear": 0.070403,
+        "disgust": 0.063291,
+        "anger": 0.076887
+      },
+      "count": 2
+    },
+    {
+      "text": "low-key relationship",
+      "sentiment": {
+        "score": 0.399938,
+        "label": "positive"
+      },
+      "relevance": 0.710611,
+      "emotion": {
+        "sadness": 0.570336,
+        "joy": 0.253579,
+        "fear": 0.107779,
+        "disgust": 0.110777,
+        "anger": 0.068938
+      },
+      "count": 1
+    },
+    {
+      "text": "private relationship thing",
+      "sentiment": {
+        "score": -0.61036,
+        "label": "negative"
+      },
+      "relevance": 0.70589,
+      "emotion": {
+        "sadness": 0.208101,
+        "joy": 0.625513,
+        "fear": 0.10668,
+        "disgust": 0.056237,
+        "anger": 0.062008
+      },
+      "count": 1
+    },
+    {
+      "text": "only way Swift",
+      "sentiment": {
+        "score": -0.61036,
+        "label": "negative"
+      },
+      "relevance": 0.674842,
+      "emotion": {
+        "sadness": 0.208101,
+        "joy": 0.625513,
+        "fear": 0.10668,
+        "disgust": 0.056237,
+        "anger": 0.062008
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.499888,
+        "label": "positive"
+      },
+      "relevance": 0.908727,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            5,
+            17
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            69,
+            81
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            209,
+            214
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            426,
+            431
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            529,
+            535
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            672,
+            678
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            706,
+            709
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.205734,
+        "joy": 0.684372,
+        "fear": 0.10194,
+        "disgust": 0.118425,
+        "anger": 0.060651
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": 0.278766,
+        "label": "positive"
+      },
+      "relevance": 0.559562,
+      "mentions": [
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            22,
+            31
+          ]
+        },
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            86,
+            95
+          ]
+        },
+        {
+          "text": "Alwyn",
+          "location": [
+            416,
+            421
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.26723,
+        "joy": 0.371976,
+        "fear": 0.178646,
+        "disgust": 0.168164,
+        "anger": 0.040504
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Us Weekly",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.171114,
+      "mentions": [
+        {
+          "text": "Us Weekly",
+          "location": [
+            345,
+            354
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.374831,
+        "joy": 0.116416,
+        "fear": 0.103172,
+        "disgust": 0.102375,
+        "anger": 0.127397
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "Us Weekly",
+        "dbpedia_resource": "http://dbpedia.org/resource/Us_Weekly"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.13448,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Interpersonal relationship",
+      "relevance": 0.970553,
+      "dbpedia_resource": "http://dbpedia.org/resource/Interpersonal_relationship"
+    },
+    {
+      "text": "Love",
+      "relevance": 0.898249,
+      "dbpedia_resource": "http://dbpedia.org/resource/Love"
+    },
+    {
+      "text": "Romance",
+      "relevance": 0.717388,
+      "dbpedia_resource": "http://dbpedia.org/resource/Romance_(love)"
+    },
+    {
+      "text": "Interpersonal attraction",
+      "relevance": 0.688431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Interpersonal_attraction"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.618485,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.729648,
+      "label": "/society/dating"
+    }
+  ]
+}

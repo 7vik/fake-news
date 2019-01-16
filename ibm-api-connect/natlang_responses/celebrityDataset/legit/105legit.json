@@ -1,0 +1,606 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11015,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.27502,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ms. Jolie",
+      "sentiment": {
+        "score": 0.32845,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.705869,
+      "emotion": {
+        "sadness": 0.043962,
+        "joy": 0.680381,
+        "fear": 0.00077,
+        "disgust": 0.00989,
+        "anger": 0.314445
+      },
+      "count": 25
+    },
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.818055,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.698207,
+      "emotion": {
+        "sadness": 0.217649,
+        "joy": 0.479182,
+        "fear": 0.084391,
+        "disgust": 0.15036,
+        "anger": 0.177989
+      },
+      "count": 4
+    },
+    {
+      "text": "Mr. Pitt",
+      "sentiment": {
+        "score": -0.572954,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.559874,
+      "emotion": {
+        "sadness": 0.239278,
+        "joy": 0.513033,
+        "fear": 0.038269,
+        "disgust": 0.034002,
+        "anger": 0.265022
+      },
+      "count": 5
+    },
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.723383,
+        "label": "negative"
+      },
+      "relevance": 0.551971,
+      "emotion": {
+        "sadness": 0.260675,
+        "joy": 0.574468,
+        "fear": 0.045881,
+        "disgust": 0.129802,
+        "anger": 0.049581
+      },
+      "count": 1
+    },
+    {
+      "text": "last sentence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.549014,
+      "emotion": {
+        "sadness": 0.206518,
+        "joy": 0.193402,
+        "fear": 0.100756,
+        "disgust": 0.258741,
+        "anger": 0.251901
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.245466,
+        "label": "negative"
+      },
+      "relevance": 0.829268,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            93,
+            107
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            253,
+            267
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            359,
+            373
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            665,
+            674
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            922,
+            931
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            1042,
+            1047
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            1490,
+            1499
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            1908,
+            1917
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            2739,
+            2748
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            3022,
+            3031
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            3054,
+            3063
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            3442,
+            3447
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            3911,
+            3916
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            5109,
+            5118
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            5341,
+            5350
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            5467,
+            5472
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            6334,
+            6343
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            7009,
+            7018
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            7712,
+            7721
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            7897,
+            7906
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            8072,
+            8081
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            8565,
+            8574
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            8873,
+            8882
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            8982,
+            8991
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            9169,
+            9178
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            9541,
+            9550
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            9678,
+            9687
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            9824,
+            9833
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            10103,
+            10112
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            10340,
+            10345
+          ]
+        },
+        {
+          "text": "Ms. Jolie",
+          "location": [
+            10771,
+            10780
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.578036,
+        "joy": 0.473289,
+        "fear": 0.121084,
+        "disgust": 0.128049,
+        "anger": 0.129299
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 32
+    },
+    {
+      "type": "Person",
+      "text": "Maddox \u2014",
+      "sentiment": {
+        "score": -0.524055,
+        "label": "negative"
+      },
+      "relevance": 0.208975,
+      "mentions": [
+        {
+          "text": "Maddox",
+          "location": [
+            4767,
+            4773
+          ]
+        },
+        {
+          "text": "Maddox",
+          "location": [
+            5938,
+            5944
+          ]
+        },
+        {
+          "text": "Maddox",
+          "location": [
+            6114,
+            6120
+          ]
+        },
+        {
+          "text": "Maddox",
+          "location": [
+            6714,
+            6720
+          ]
+        },
+        {
+          "text": "Maddox \u2014",
+          "location": [
+            6948,
+            6956
+          ]
+        },
+        {
+          "text": "Maddox",
+          "location": [
+            9184,
+            9190
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.539066,
+        "joy": 0.111322,
+        "fear": 0.086536,
+        "disgust": 0.248497,
+        "anger": 0.137323
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Mr. Pitt",
+      "sentiment": {
+        "score": 0.113172,
+        "label": "positive"
+      },
+      "relevance": 0.207412,
+      "mentions": [
+        {
+          "text": "Mr. Pitt",
+          "location": [
+            3685,
+            3693
+          ]
+        },
+        {
+          "text": "Mr. Pitt",
+          "location": [
+            6692,
+            6700
+          ]
+        },
+        {
+          "text": "Mr. Pitt",
+          "location": [
+            6935,
+            6943
+          ]
+        },
+        {
+          "text": "Mr. Pitt",
+          "location": [
+            8482,
+            8490
+          ]
+        },
+        {
+          "text": "Mr. Pitt",
+          "location": [
+            10431,
+            10439
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.227884,
+        "joy": 0.057245,
+        "fear": 0.137527,
+        "disgust": 0.101183,
+        "anger": 0.5638
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Loung Ung",
+      "sentiment": {
+        "score": -0.21502,
+        "label": "negative"
+      },
+      "relevance": 0.198772,
+      "mentions": [
+        {
+          "text": "Loung Ung",
+          "location": [
+            2941,
+            2950
+          ]
+        },
+        {
+          "text": "Ms. Ung",
+          "location": [
+            8512,
+            8519
+          ]
+        },
+        {
+          "text": "Ms. Ung",
+          "location": [
+            8732,
+            8739
+          ]
+        },
+        {
+          "text": "Ung",
+          "location": [
+            9815,
+            9818
+          ]
+        },
+        {
+          "text": "Ms. Ung",
+          "location": [
+            10026,
+            10033
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241155,
+        "joy": 0.568751,
+        "fear": 0.072123,
+        "disgust": 0.109081,
+        "anger": 0.041059
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Loung Ung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Loung_Ung"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Cambodia",
+      "sentiment": {
+        "score": 0.709545,
+        "label": "positive"
+      },
+      "relevance": 0.158592,
+      "mentions": [
+        {
+          "text": "Cambodia",
+          "location": [
+            3948,
+            3956
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            9909,
+            9917
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.206619,
+        "joy": 0.421123,
+        "fear": 0.072515,
+        "disgust": 0.047587,
+        "anger": 0.086388
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Cambodia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cambodia"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.979882,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.871233,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Lara Croft",
+      "relevance": 0.741136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lara_Croft"
+    },
+    {
+      "text": "Billy Bob Thornton",
+      "relevance": 0.7275,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Bob_Thornton"
+    },
+    {
+      "text": "Kung Fu Panda",
+      "relevance": 0.674423,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kung_Fu_Panda"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.819733,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 768,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.551059,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good news",
+      "sentiment": {
+        "score": -0.606544,
+        "label": "negative"
+      },
+      "relevance": 0.862039,
+      "emotion": {
+        "sadness": 0.069513,
+        "joy": 0.711756,
+        "fear": 0.032925,
+        "disgust": 0.0476,
+        "anger": 0.031274
+      },
+      "count": 1
+    },
+    {
+      "text": "Wall Street Journal survey",
+      "sentiment": {
+        "score": -0.71421,
+        "label": "negative"
+      },
+      "relevance": 0.825034,
+      "emotion": {
+        "sadness": 0.409274,
+        "joy": 0.104775,
+        "fear": 0.153122,
+        "disgust": 0.157428,
+        "anger": 0.216502
+      },
+      "count": 1
+    },
+    {
+      "text": "corporate executives",
+      "sentiment": {
+        "score": -0.71421,
+        "label": "negative"
+      },
+      "relevance": 0.81236,
+      "emotion": {
+        "sadness": 0.409274,
+        "joy": 0.104775,
+        "fear": 0.153122,
+        "disgust": 0.157428,
+        "anger": 0.216502
+      },
+      "count": 1
+    },
+    {
+      "text": "exhaustive list",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.794202,
+      "emotion": {
+        "sadness": 0.12647,
+        "joy": 0.051157,
+        "fear": 0.079669,
+        "disgust": 0.369442,
+        "anger": 0.646613
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. Labor Department",
+      "sentiment": {
+        "score": -0.266808,
+        "label": "negative"
+      },
+      "relevance": 0.732978,
+      "emotion": {
+        "sadness": 0.327655,
+        "joy": 0.357033,
+        "fear": 0.071219,
+        "disgust": 0.049674,
+        "anger": 0.076521
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "U.S. Labor Department",
+      "sentiment": {
+        "score": -0.53322,
+        "label": "negative"
+      },
+      "relevance": 0.808634,
+      "mentions": [
+        {
+          "text": "U.S. Labor Department",
+          "location": [
+            58,
+            79
+          ]
+        },
+        {
+          "text": "Labor Department",
+          "location": [
+            221,
+            237
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.384966,
+        "joy": 0.283921,
+        "fear": 0.051681,
+        "disgust": 0.072113,
+        "anger": 0.098462
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "United States Department of Labor",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Labor"
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Wall Street Journal",
+      "sentiment": {
+        "score": 0.323145,
+        "label": "positive"
+      },
+      "relevance": 0.463049,
+      "mentions": [
+        {
+          "text": "Wall Street Journal",
+          "location": [
+            364,
+            383
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224337,
+        "joy": 0.227584,
+        "fear": 0.200879,
+        "disgust": 0.114357,
+        "anger": 0.118051
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner",
+          "Newspaper"
+        ],
+        "name": "The Wall Street Journal",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Wall_Street_Journal"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.449352,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            35,
+            39
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            111,
+            115
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.450967,
+        "joy": 0.278391,
+        "fear": 0.077383,
+        "disgust": 0.036878,
+        "anger": 0.139945
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "97.5%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.409263,
+      "mentions": [
+        {
+          "text": "97.5%",
+          "location": [
+            397,
+            402
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.936043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Economy of the United States",
+      "relevance": 0.895216,
+      "dbpedia_resource": "http://dbpedia.org/resource/Economy_of_the_United_States"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.839843,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Robotics",
+      "relevance": 0.748416,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robotics"
+    },
+    {
+      "text": "Liberal arts college",
+      "relevance": 0.694827,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liberal_arts_college"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.955259,
+      "label": "/society/work"
+    }
+  ]
+}

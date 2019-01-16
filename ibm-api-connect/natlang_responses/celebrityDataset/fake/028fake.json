@@ -1,0 +1,123 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.324426,
+        "joy": 0.284331,
+        "fear": 0.054218,
+        "disgust": 0.290853,
+        "anger": 0.070084
+      },
+      "count": 1
+    },
+    {
+      "text": "First Lady Melania Keep Separate Bedrooms",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.008948,
+      "emotion": {
+        "sadness": 0.324426,
+        "joy": 0.284331,
+        "fear": 0.054218,
+        "disgust": 0.290853,
+        "anger": 0.070084
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.324426,
+        "joy": 0.284331,
+        "fear": 0.054218,
+        "disgust": 0.290853,
+        "anger": 0.070084
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.96648,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Melania Trump",
+      "relevance": 0.843797,
+      "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+    },
+    {
+      "text": "Trump family",
+      "relevance": 0.719017,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_family"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.654495,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.652097,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.982231,
+      "label": "/home and garden/bed and bath/bedroom"
+    }
+  ]
+}

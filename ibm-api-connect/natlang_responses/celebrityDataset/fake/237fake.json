@@ -1,0 +1,128 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.724273,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Cruise misses",
+      "sentiment": {
+        "score": -0.724273,
+        "label": "negative"
+      },
+      "relevance": 0.977496,
+      "emotion": {
+        "sadness": 0.65213,
+        "joy": 0.084762,
+        "fear": 0.202407,
+        "disgust": 0.086193,
+        "anger": 0.060743
+      },
+      "count": 1
+    },
+    {
+      "text": "family",
+      "sentiment": {
+        "score": -0.724273,
+        "label": "negative"
+      },
+      "relevance": 0.66103,
+      "emotion": {
+        "sadness": 0.65213,
+        "joy": 0.084762,
+        "fear": 0.202407,
+        "disgust": 0.086193,
+        "anger": 0.060743
+      },
+      "count": 1
+    },
+    {
+      "text": "Mummy actor",
+      "sentiment": {
+        "score": -0.724273,
+        "label": "negative"
+      },
+      "relevance": 0.559138,
+      "emotion": {
+        "sadness": 0.65213,
+        "joy": 0.084762,
+        "fear": 0.202407,
+        "disgust": 0.086193,
+        "anger": 0.060743
+      },
+      "count": 1
+    },
+    {
+      "text": "daughter Suri Cruise",
+      "sentiment": {
+        "score": -0.724273,
+        "label": "negative"
+      },
+      "relevance": 0.385161,
+      "emotion": {
+        "sadness": 0.65213,
+        "joy": 0.084762,
+        "fear": 0.202407,
+        "disgust": 0.086193,
+        "anger": 0.060743
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Suri Cruise",
+      "sentiment": {
+        "score": -0.048051,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Tom Cruise",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Suri Cruise",
+          "location": [
+            80,
+            91
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.655186,
+        "joy": 0.123933,
+        "fear": 0.181512,
+        "disgust": 0.071932,
+        "anger": 0.048528
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Mummy",
+      "relevance": 0.883583,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Mummy_(1959_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.774989,
+      "label": "/travel/transports/sea travel/cruises"
+    }
+  ]
+}

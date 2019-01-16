@@ -1,0 +1,337 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 716,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.514425,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Broadway director Michael Mayer",
+      "sentiment": {
+        "score": 0.444214,
+        "label": "positive"
+      },
+      "relevance": 0.848931,
+      "emotion": {
+        "sadness": 0.062919,
+        "joy": 0.589204,
+        "fear": 0.032534,
+        "disgust": 0.064942,
+        "anger": 0.095692
+      },
+      "count": 1
+    },
+    {
+      "text": "music producer",
+      "sentiment": {
+        "score": 0.962911,
+        "label": "positive"
+      },
+      "relevance": 0.777799,
+      "emotion": {
+        "sadness": 0.149874,
+        "joy": 0.665384,
+        "fear": 0.075224,
+        "disgust": 0.064545,
+        "anger": 0.062126
+      },
+      "count": 1
+    },
+    {
+      "text": "Pharrell Williams' early life",
+      "sentiment": {
+        "score": -0.382953,
+        "label": "negative"
+      },
+      "relevance": 0.75828,
+      "emotion": {
+        "sadness": 0.149874,
+        "joy": 0.665384,
+        "fear": 0.075224,
+        "disgust": 0.064545,
+        "anger": 0.062126
+      },
+      "count": 1
+    },
+    {
+      "text": "singer-songwriter",
+      "sentiment": {
+        "score": 0.962911,
+        "label": "positive"
+      },
+      "relevance": 0.752179,
+      "emotion": {
+        "sadness": 0.149874,
+        "joy": 0.665384,
+        "fear": 0.075224,
+        "disgust": 0.064545,
+        "anger": 0.062126
+      },
+      "count": 1
+    },
+    {
+      "text": "Tony award",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.689942,
+      "emotion": {
+        "sadness": 0.015707,
+        "joy": 0.859302,
+        "fear": 0.033019,
+        "disgust": 0.027321,
+        "anger": 0.077601
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Pharrell Williams",
+      "sentiment": {
+        "score": 0.674494,
+        "label": "positive"
+      },
+      "relevance": 0.918887,
+      "mentions": [
+        {
+          "text": "Pharrell Williams",
+          "location": [
+            145,
+            162
+          ]
+        },
+        {
+          "text": "Williams",
+          "location": [
+            231,
+            239
+          ]
+        },
+        {
+          "text": "Williams",
+          "location": [
+            320,
+            328
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.164063,
+        "joy": 0.17771,
+        "fear": 0.088857,
+        "disgust": 0.068859,
+        "anger": 0.072368
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVActor"
+        ],
+        "name": "Pharrell Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Pharrell_Williams"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Michael Mayer",
+      "sentiment": {
+        "score": 0.617436,
+        "label": "positive"
+      },
+      "relevance": 0.581376,
+      "mentions": [
+        {
+          "text": "Michael Mayer",
+          "location": [
+            418,
+            431
+          ]
+        },
+        {
+          "text": "Mayer",
+          "location": [
+            472,
+            477
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            541,
+            543
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.009858,
+        "joy": 0.854425,
+        "fear": 0.018543,
+        "disgust": 0.03126,
+        "anger": 0.102469
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmDirector",
+          "TheaterActor",
+          "TheaterDirector"
+        ],
+        "name": "Michael Mayer (director)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Mayer_(director)"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Atlantis",
+      "sentiment": {
+        "score": 0.644496,
+        "label": "positive"
+      },
+      "relevance": 0.501995,
+      "mentions": [
+        {
+          "text": "Atlantis",
+          "location": [
+            347,
+            355
+          ]
+        },
+        {
+          "text": "Atlantis",
+          "location": [
+            622,
+            630
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.177612,
+        "joy": 0.255712,
+        "fear": 0.051072,
+        "disgust": 0.050719,
+        "anger": 0.082787
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Martin Hynes",
+      "sentiment": {
+        "score": 0.562051,
+        "label": "positive"
+      },
+      "relevance": 0.373193,
+      "mentions": [
+        {
+          "text": "Martin Hynes",
+          "location": [
+            647,
+            659
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.060586,
+        "joy": 0.661263,
+        "fear": 0.050196,
+        "disgust": 0.209631,
+        "anger": 0.035379
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmDirector",
+          "FilmActor",
+          "FilmWriter"
+        ],
+        "name": "Martin Hynes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Martin_Hynes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Tony award",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.346644,
+      "mentions": [
+        {
+          "text": "Tony award",
+          "location": [
+            550,
+            560
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.015707,
+        "joy": 0.859302,
+        "fear": 0.033019,
+        "disgust": 0.027321,
+        "anger": 0.077601
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ],
+        "name": "Tony Award",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tony_Award"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Los Angeles",
+      "relevance": 0.985493,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+      "text": "Broadway theatre",
+      "relevance": 0.980418,
+      "dbpedia_resource": "http://dbpedia.org/resource/Broadway_theatre"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.962899,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American Idiot",
+      "relevance": 0.824434,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Idiot_(musical)"
+    },
+    {
+      "text": "Romeo and Juliet",
+      "relevance": 0.767197,
+      "dbpedia_resource": "http://dbpedia.org/resource/Romeo_and_Juliet"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.938565,
+      "label": "/art and entertainment/theatre/theatre awards"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 880,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.628039,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Latin American countries",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.760865,
+      "emotion": {
+        "sadness": 0.570845,
+        "joy": 0.146309,
+        "fear": 0.071328,
+        "disgust": 0.016547,
+        "anger": 0.08257
+      },
+      "count": 1
+    },
+    {
+      "text": "Fruit shape sensor",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.749336,
+      "emotion": {
+        "sadness": 0.259455,
+        "joy": 0.130639,
+        "fear": 0.178994,
+        "disgust": 0.086894,
+        "anger": 0.111145
+      },
+      "count": 1
+    },
+    {
+      "text": "drug shipments",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.715463,
+      "emotion": {
+        "sadness": 0.259455,
+        "joy": 0.130639,
+        "fear": 0.178994,
+        "disgust": 0.086894,
+        "anger": 0.111145
+      },
+      "count": 1
+    },
+    {
+      "text": "chief officer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.694527,
+      "emotion": {
+        "sadness": 0.167121,
+        "joy": 0.019557,
+        "fear": 0.191483,
+        "disgust": 0.231009,
+        "anger": 0.090977
+      },
+      "count": 1
+    },
+    {
+      "text": "Larry Allen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66561,
+      "emotion": {
+        "sadness": 0.167121,
+        "joy": 0.019557,
+        "fear": 0.191483,
+        "disgust": 0.231009,
+        "anger": 0.090977
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.157047,
+        "label": "negative"
+      },
+      "relevance": 0.769676,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            509,
+            511
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            527,
+            529
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            672,
+            674
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            843,
+            845
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.220014,
+        "joy": 0.059996,
+        "fear": 0.194036,
+        "disgust": 0.155461,
+        "anger": 0.185321
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Larry Allen",
+      "sentiment": {
+        "score": -0.310962,
+        "label": "negative"
+      },
+      "relevance": 0.427682,
+      "mentions": [
+        {
+          "text": "Larry Allen",
+          "location": [
+            514,
+            525
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer",
+          "TVActor"
+        ],
+        "name": "Larry Allen",
+        "dbpedia_resource": "http://dbpedia.org/resource/Larry_Allen"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "DEA",
+      "sentiment": {
+        "score": -0.259881,
+        "label": "negative"
+      },
+      "relevance": 0.386707,
+      "mentions": [
+        {
+          "text": "DEA",
+          "location": [
+            530,
+            533
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241647,
+        "joy": 0.018886,
+        "fear": 0.286351,
+        "disgust": 0.321957,
+        "anger": 0.470244
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Drug Enforcement Administration",
+        "dbpedia_resource": "http://dbpedia.org/resource/Drug_Enforcement_Administration"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "sentiment": {
+        "score": -0.396344,
+        "label": "negative"
+      },
+      "relevance": 0.348631,
+      "mentions": [
+        {
+          "text": "Mexico",
+          "location": [
+            402,
+            408
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.717858,
+        "joy": 0.080568,
+        "fear": 0.046497,
+        "disgust": 0.058077,
+        "anger": 0.123711
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "FilmCinematographer",
+          "Country"
+        ],
+        "name": "Mexico",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mexico"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Illegal drug trade",
+      "relevance": 0.947973,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illegal_drug_trade"
+    },
+    {
+      "text": "Smuggling",
+      "relevance": 0.717857,
+      "dbpedia_resource": "http://dbpedia.org/resource/Smuggling"
+    },
+    {
+      "text": "The Yogurt Connection",
+      "relevance": 0.550868,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Yogurt_Connection"
+    },
+    {
+      "text": "Drug",
+      "relevance": 0.543554,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drug"
+    },
+    {
+      "text": "MDMA",
+      "relevance": 0.461553,
+      "dbpedia_resource": "http://dbpedia.org/resource/MDMA"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.774222,
+      "label": "/health and fitness"
+    }
+  ]
+}

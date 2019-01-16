@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 889,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.582366,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "None of the celebrities",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.794762,
+      "emotion": {
+        "sadness": 0.066428,
+        "joy": 0.445222,
+        "fear": 0.014161,
+        "disgust": 0.341291,
+        "anger": 0.047184
+      },
+      "count": 1
+    },
+    {
+      "text": "English singer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.777203,
+      "emotion": {
+        "sadness": 0.682051,
+        "joy": 0.219976,
+        "fear": 0.03054,
+        "disgust": 0.071195,
+        "anger": 0.110304
+      },
+      "count": 1
+    },
+    {
+      "text": "Elton John",
+      "sentiment": {
+        "score": 0.660206,
+        "label": "positive"
+      },
+      "relevance": 0.758538,
+      "emotion": {
+        "sadness": 0.032276,
+        "joy": 0.776606,
+        "fear": 0.005312,
+        "disgust": 0.159017,
+        "anger": 0.046808
+      },
+      "count": 2
+    },
+    {
+      "text": "friends family",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.646029,
+      "emotion": {
+        "sadness": 0.682051,
+        "joy": 0.219976,
+        "fear": 0.03054,
+        "disgust": 0.071195,
+        "anger": 0.110304
+      },
+      "count": 1
+    },
+    {
+      "text": "Elton John AIDS Foundation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.626563,
+      "emotion": {
+        "sadness": 0.066428,
+        "joy": 0.445222,
+        "fear": 0.014161,
+        "disgust": 0.341291,
+        "anger": 0.047184
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Elton John",
+      "sentiment": {
+        "score": -0.636226,
+        "label": "negative"
+      },
+      "relevance": 0.864957,
+      "mentions": [
+        {
+          "text": "Elton John",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Elton John",
+          "location": [
+            73,
+            83
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            104,
+            106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.033507,
+        "joy": 0.850728,
+        "fear": 0.020404,
+        "disgust": 0.041986,
+        "anger": 0.059491
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "ChivalricOrderMember",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "Songwriter",
+          "TheatricalComposer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Elton John",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elton_John"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Elton John AIDS Foundation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.600455,
+      "mentions": [
+        {
+          "text": "Elton John AIDS Foundation",
+          "location": [
+            669,
+            695
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066428,
+        "joy": 0.445222,
+        "fear": 0.014161,
+        "disgust": 0.341291,
+        "anger": 0.047184
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Elton John AIDS Foundation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elton_John_AIDS_Foundation"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Stevie Wonder",
+      "sentiment": {
+        "score": -0.372535,
+        "label": "negative"
+      },
+      "relevance": 0.540269,
+      "mentions": [
+        {
+          "text": "Stevie Wonder",
+          "location": [
+            373,
+            386
+          ]
+        },
+        {
+          "text": "Wonder",
+          "location": [
+            452,
+            458
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.127056,
+        "joy": 0.545135,
+        "fear": 0.08711,
+        "disgust": 0.234342,
+        "anger": 0.057877
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Stevie Wonder",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stevie_Wonder"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lady Gaga Ryan Adams",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.493293,
+      "mentions": [
+        {
+          "text": "Lady Gaga Ryan Adams",
+          "location": [
+            387,
+            407
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.155635,
+        "joy": 0.465296,
+        "fear": 0.089258,
+        "disgust": 0.301579,
+        "anger": 0.052842
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.478403,
+      "mentions": [
+        {
+          "text": "Lady Gaga",
+          "location": [
+            539,
+            548
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.173172,
+        "joy": 0.432333,
+        "fear": 0.066273,
+        "disgust": 0.118713,
+        "anger": 0.074966
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lady Gaga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Stevie Wonder",
+      "relevance": 0.956848,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stevie_Wonder"
+    },
+    {
+      "text": "Elton John",
+      "relevance": 0.920504,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elton_John"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.669554,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

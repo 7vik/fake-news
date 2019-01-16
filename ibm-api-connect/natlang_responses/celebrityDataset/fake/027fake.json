@@ -1,0 +1,374 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1427,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.590074,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": -0.702765,
+        "label": "negative"
+      },
+      "relevance": 0.753822,
+      "emotion": {
+        "sadness": 0.132209,
+        "joy": 0.684459,
+        "fear": 0.005257,
+        "disgust": 0.057332,
+        "anger": 0.151794
+      },
+      "count": 3
+    },
+    {
+      "text": "wet sponge' private parts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.751685,
+      "emotion": {
+        "sadness": 0.09966,
+        "joy": 0.01944,
+        "fear": 0.812528,
+        "disgust": 0.194926,
+        "anger": 0.165289
+      },
+      "count": 1
+    },
+    {
+      "text": "47-year-old Black Swan director",
+      "sentiment": {
+        "score": -0.861471,
+        "label": "negative"
+      },
+      "relevance": 0.668138,
+      "emotion": {
+        "sadness": 0.213127,
+        "joy": 0.569996,
+        "fear": 0.009924,
+        "disgust": 0.096847,
+        "anger": 0.130507
+      },
+      "count": 1
+    },
+    {
+      "text": "Real Housewives",
+      "sentiment": {
+        "score": -0.861471,
+        "label": "negative"
+      },
+      "relevance": 0.65714,
+      "emotion": {
+        "sadness": 0.213127,
+        "joy": 0.569996,
+        "fear": 0.009924,
+        "disgust": 0.096847,
+        "anger": 0.130507
+      },
+      "count": 1
+    },
+    {
+      "text": "Kurt Vonnegut",
+      "sentiment": {
+        "score": -0.898919,
+        "label": "negative"
+      },
+      "relevance": 0.638632,
+      "emotion": {
+        "sadness": 0.300628,
+        "joy": 0.205323,
+        "fear": 0.212574,
+        "disgust": 0.410165,
+        "anger": 0.129777
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": -0.218045,
+        "label": "negative"
+      },
+      "relevance": 0.786991,
+      "mentions": [
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            11,
+            28
+          ]
+        },
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            74,
+            91
+          ]
+        },
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            447,
+            464
+          ]
+        },
+        {
+          "text": "Lawrence",
+          "location": [
+            546,
+            554
+          ]
+        },
+        {
+          "text": "Lawrence",
+          "location": [
+            726,
+            734
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            779,
+            782
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            829,
+            832
+          ]
+        },
+        {
+          "text": "Lawrence",
+          "location": [
+            1400,
+            1408
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.206538,
+        "joy": 0.578997,
+        "fear": 0.09566,
+        "disgust": 0.42644,
+        "anger": 0.107257
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor"
+        ],
+        "name": "Jennifer Lawrence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lawrence"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Darren Aronofsky",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.532054,
+      "mentions": [
+        {
+          "text": "Darren Aronofsky",
+          "location": [
+            31,
+            47
+          ]
+        },
+        {
+          "text": "Darren Aronofsky",
+          "location": [
+            96,
+            112
+          ]
+        },
+        {
+          "text": "Aronofsky",
+          "location": [
+            645,
+            654
+          ]
+        },
+        {
+          "text": "Darren",
+          "location": [
+            1329,
+            1335
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.306461,
+        "joy": 0.140208,
+        "fear": 0.059862,
+        "disgust": 0.111005,
+        "anger": 0.126559
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Darren Aronofsky",
+        "dbpedia_resource": "http://dbpedia.org/resource/Darren_Aronofsky"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kurt Vonnegut",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.249467,
+      "mentions": [
+        {
+          "text": "47-year",
+          "location": [
+            592,
+            599
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.243447,
+        "joy": 0.294261,
+        "fear": 0.082965,
+        "disgust": 0.46185,
+        "anger": 0.103554
+      },
+      "disambiguation": {
+        "subtype": [
+          "Writer",
+          "AwardNominee",
+          "AwardWinner",
+          "Dedicator",
+          "FilmWriter",
+          "MilitaryPerson",
+          "FilmActor"
+        ],
+        "name": "Kurt Vonnegut",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kurt_Vonnegut"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Eddie Redmayne",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.245558,
+      "mentions": [
+        {
+          "text": "Eddie Redmayne",
+          "location": [
+            466,
+            480
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.218827,
+        "joy": 0.557817,
+        "fear": 0.027337,
+        "disgust": 0.013271,
+        "anger": 0.052541
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Eddie Redmayne",
+        "dbpedia_resource": "http://dbpedia.org/resource/Eddie_Redmayne"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Black Swan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.207361,
+      "mentions": [
+        {
+          "text": "Black Swan",
+          "location": [
+            604,
+            614
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kurt Vonnegut",
+      "relevance": 0.964934,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kurt_Vonnegut"
+    },
+    {
+      "text": "Darren Aronofsky",
+      "relevance": 0.912324,
+      "dbpedia_resource": "http://dbpedia.org/resource/Darren_Aronofsky"
+    },
+    {
+      "text": "Desperate Housewives",
+      "relevance": 0.686044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Desperate_Housewives"
+    },
+    {
+      "text": "Mila Kunis",
+      "relevance": 0.577214,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mila_Kunis"
+    },
+    {
+      "text": "Natalie Portman",
+      "relevance": 0.558396,
+      "dbpedia_resource": "http://dbpedia.org/resource/Natalie_Portman"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.693006,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

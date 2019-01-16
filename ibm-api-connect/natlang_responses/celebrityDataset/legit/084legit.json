@@ -1,0 +1,88 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 31,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999967,
+      "emotion": {
+        "sadness": 0.214944,
+        "joy": 0.235236,
+        "fear": 0.086108,
+        "disgust": 0.11479,
+        "anger": 0.144148
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.593968,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            16,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214944,
+        "joy": 0.235236,
+        "fear": 0.086108,
+        "disgust": 0.11479,
+        "anger": 0.144148
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.929062,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.611923,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.653631,
+      "label": "/style and fashion/beauty/cosmetics"
+    }
+  ]
+}

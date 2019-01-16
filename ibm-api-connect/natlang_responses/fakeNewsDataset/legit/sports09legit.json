@@ -1,0 +1,356 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1089,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.47138,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Novak Djokovic joins Andy Murray",
+      "sentiment": {
+        "score": 0.314395,
+        "label": "positive"
+      },
+      "relevance": 0.789739,
+      "emotion": {
+        "sadness": 0.258847,
+        "joy": 0.407122,
+        "fear": 0.164578,
+        "disgust": 0.092466,
+        "anger": 0.085078
+      },
+      "count": 1
+    },
+    {
+      "text": "world number",
+      "sentiment": {
+        "score": -0.363339,
+        "label": "negative"
+      },
+      "relevance": 0.78521,
+      "emotion": {
+        "sadness": 0.427575,
+        "joy": 0.285745,
+        "fear": 0.08514,
+        "disgust": 0.210375,
+        "anger": 0.080565
+      },
+      "count": 1
+    },
+    {
+      "text": "29-year-old Serb",
+      "sentiment": {
+        "score": -0.363339,
+        "label": "negative"
+      },
+      "relevance": 0.746584,
+      "emotion": {
+        "sadness": 0.427575,
+        "joy": 0.285745,
+        "fear": 0.08514,
+        "disgust": 0.210375,
+        "anger": 0.080565
+      },
+      "count": 1
+    },
+    {
+      "text": "Miami Open",
+      "sentiment": {
+        "score": 0.314395,
+        "label": "positive"
+      },
+      "relevance": 0.71195,
+      "emotion": {
+        "sadness": 0.197735,
+        "joy": 0.454542,
+        "fear": 0.161264,
+        "disgust": 0.079065,
+        "anger": 0.068858
+      },
+      "count": 1
+    },
+    {
+      "text": "Novak Djokovic",
+      "sentiment": {
+        "score": 0.314395,
+        "label": "positive"
+      },
+      "relevance": 0.656609,
+      "emotion": {
+        "sadness": 0.197735,
+        "joy": 0.454542,
+        "fear": 0.161264,
+        "disgust": 0.079065,
+        "anger": 0.068858
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Novak Djokovic",
+      "sentiment": {
+        "score": -0.529838,
+        "label": "negative"
+      },
+      "relevance": 0.872673,
+      "mentions": [
+        {
+          "text": "Novak Djokovic",
+          "location": [
+            12,
+            26
+          ]
+        },
+        {
+          "text": "Novak Djokovic",
+          "location": [
+            95,
+            109
+          ]
+        },
+        {
+          "text": "Djokovic",
+          "location": [
+            339,
+            347
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            397,
+            400
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            416,
+            418
+          ]
+        },
+        {
+          "text": "Djokovic",
+          "location": [
+            879,
+            887
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            909,
+            911
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.60182,
+        "joy": 0.330693,
+        "fear": 0.073591,
+        "disgust": 0.160588,
+        "anger": 0.098807
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Novak Djokovic",
+        "dbpedia_resource": "http://dbpedia.org/resource/Novak_Djokovic"
+      },
+      "count": 7
+    },
+    {
+      "type": "Location",
+      "text": "Miami",
+      "sentiment": {
+        "score": -0.671249,
+        "label": "negative"
+      },
+      "relevance": 0.418167,
+      "mentions": [
+        {
+          "text": "Miami",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Miami",
+          "location": [
+            140,
+            145
+          ]
+        },
+        {
+          "text": "Miami",
+          "location": [
+            409,
+            414
+          ]
+        },
+        {
+          "text": "Miami",
+          "location": [
+            935,
+            940
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272008,
+        "joy": 0.522337,
+        "fear": 0.016796,
+        "disgust": 0.187961,
+        "anger": 0.074848
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Briton Murray",
+      "sentiment": {
+        "score": -0.298832,
+        "label": "negative"
+      },
+      "relevance": 0.301717,
+      "mentions": [
+        {
+          "text": "Andy Murray",
+          "location": [
+            274,
+            285
+          ]
+        },
+        {
+          "text": "Briton Murray",
+          "location": [
+            782,
+            795
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.517438,
+        "joy": 0.311443,
+        "fear": 0.055717,
+        "disgust": 0.128008,
+        "anger": 0.092669
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Andy Murray",
+      "sentiment": {
+        "score": -0.306456,
+        "label": "negative"
+      },
+      "relevance": 0.239697,
+      "mentions": [
+        {
+          "text": "Andy Murray",
+          "location": [
+            33,
+            44
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.29339,
+        "joy": 0.366575,
+        "fear": 0.213667,
+        "disgust": 0.123028,
+        "anger": 0.09195
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Andy Murray",
+        "dbpedia_resource": "http://dbpedia.org/resource/Andy_Murray"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Indian Wells",
+      "sentiment": {
+        "score": -0.611809,
+        "label": "negative"
+      },
+      "relevance": 0.136389,
+      "mentions": [
+        {
+          "text": "Indian Wells",
+          "location": [
+            486,
+            498
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.785775,
+        "joy": 0.08892,
+        "fear": 0.047158,
+        "disgust": 0.065566,
+        "anger": 0.157331
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Novak Djokovic",
+      "relevance": 0.938227,
+      "dbpedia_resource": "http://dbpedia.org/resource/Novak_Djokovic"
+    },
+    {
+      "text": "BNP Paribas Open",
+      "relevance": 0.902487,
+      "dbpedia_resource": "http://dbpedia.org/resource/BNP_Paribas_Open"
+    },
+    {
+      "text": "Rafael Nadal",
+      "relevance": 0.852856,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rafael_Nadal"
+    },
+    {
+      "text": "Roger Federer",
+      "relevance": 0.846605,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+    },
+    {
+      "text": "ATP World Tour Masters 1000",
+      "relevance": 0.838251,
+      "dbpedia_resource": "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998133,
+      "label": "/sports/tennis"
+    }
+  ]
+}

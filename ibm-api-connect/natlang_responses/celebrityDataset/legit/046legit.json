@@ -1,0 +1,188 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 76,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.653325,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.653325,
+        "label": "positive"
+      },
+      "relevance": 0.995401,
+      "emotion": {
+        "sadness": 0.099343,
+        "joy": 0.409237,
+        "fear": 0.066457,
+        "disgust": 0.387257,
+        "anger": 0.047334
+      },
+      "count": 1
+    },
+    {
+      "text": "Fans",
+      "sentiment": {
+        "score": 0.653325,
+        "label": "positive"
+      },
+      "relevance": 0.880273,
+      "emotion": {
+        "sadness": 0.099343,
+        "joy": 0.409237,
+        "fear": 0.066457,
+        "disgust": 0.387257,
+        "anger": 0.047334
+      },
+      "count": 1
+    },
+    {
+      "text": "Drake",
+      "sentiment": {
+        "score": 0.653325,
+        "label": "positive"
+      },
+      "relevance": 0.633014,
+      "emotion": {
+        "sadness": 0.099343,
+        "joy": 0.409237,
+        "fear": 0.066457,
+        "disgust": 0.387257,
+        "anger": 0.047334
+      },
+      "count": 1
+    },
+    {
+      "text": "evidence",
+      "sentiment": {
+        "score": 0.653325,
+        "label": "positive"
+      },
+      "relevance": 0.591658,
+      "emotion": {
+        "sadness": 0.099343,
+        "joy": 0.409237,
+        "fear": 0.066457,
+        "disgust": 0.387257,
+        "anger": 0.047334
+      },
+      "count": 1
+    },
+    {
+      "text": "dating",
+      "sentiment": {
+        "score": 0.653325,
+        "label": "positive"
+      },
+      "relevance": 0.214511,
+      "emotion": {
+        "sadness": 0.099343,
+        "joy": 0.409237,
+        "fear": 0.066457,
+        "disgust": 0.387257,
+        "anger": 0.047334
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            11,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.084928,
+        "joy": 0.368321,
+        "fear": 0.035955,
+        "disgust": 0.380324,
+        "anger": 0.060192
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Drake",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Drake",
+          "location": [
+            28,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.084928,
+        "joy": 0.368321,
+        "fear": 0.035955,
+        "disgust": 0.380324,
+        "anger": 0.060192
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "Dustin Thomason",
+      "relevance": 0.7452,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dustin_Thomason"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999838,
+      "label": "/society/dating"
+    }
+  ]
+}

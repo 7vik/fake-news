@@ -1,0 +1,115 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.928749,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sour Note",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992432,
+      "emotion": {
+        "sadness": 0.101003,
+        "joy": 0.229775,
+        "fear": 0.085964,
+        "disgust": 0.095868,
+        "anger": 0.065585
+      },
+      "count": 1
+    },
+    {
+      "text": "Zayn",
+      "sentiment": {
+        "score": -0.928749,
+        "label": "negative"
+      },
+      "relevance": 0.870157,
+      "emotion": {
+        "sadness": 0.325876,
+        "joy": 0.060982,
+        "fear": 0.170836,
+        "disgust": 0.225926,
+        "anger": 0.232754
+      },
+      "count": 1
+    },
+    {
+      "text": "Disastrous Duet",
+      "sentiment": {
+        "score": -0.928749,
+        "label": "negative"
+      },
+      "relevance": 0.834795,
+      "emotion": {
+        "sadness": 0.325876,
+        "joy": 0.060982,
+        "fear": 0.170836,
+        "disgust": 0.225926,
+        "anger": 0.232754
+      },
+      "count": 1
+    },
+    {
+      "text": "Taylor",
+      "sentiment": {
+        "score": -0.928749,
+        "label": "negative"
+      },
+      "relevance": 0.613903,
+      "emotion": {
+        "sadness": 0.325876,
+        "joy": 0.060982,
+        "fear": 0.170836,
+        "disgust": 0.225926,
+        "anger": 0.232754
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor",
+      "sentiment": {
+        "score": -0.778051,
+        "label": "negative"
+      },
+      "relevance": 0.927226,
+      "mentions": [
+        {
+          "text": "Taylor",
+          "location": [
+            49,
+            55
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325876,
+        "joy": 0.060982,
+        "fear": 0.170836,
+        "disgust": 0.225926,
+        "anger": 0.232754
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.638576,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

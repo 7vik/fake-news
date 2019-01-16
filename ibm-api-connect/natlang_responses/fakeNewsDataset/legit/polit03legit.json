@@ -1,0 +1,278 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 650,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.776481,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "basic lack of competence",
+      "sentiment": {
+        "score": -0.97512,
+        "label": "negative"
+      },
+      "relevance": 0.766428,
+      "emotion": {
+        "sadness": 0.173683,
+        "joy": 0.584253,
+        "fear": 0.039357,
+        "disgust": 0.179504,
+        "anger": 0.058257
+      },
+      "count": 2
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.97512,
+        "label": "negative"
+      },
+      "relevance": 0.724013,
+      "emotion": {
+        "sadness": 0.209469,
+        "joy": 0.145393,
+        "fear": 0.044855,
+        "disgust": 0.431114,
+        "anger": 0.452029
+      },
+      "count": 1
+    },
+    {
+      "text": "health care bill",
+      "sentiment": {
+        "score": -0.97512,
+        "label": "negative"
+      },
+      "relevance": 0.667723,
+      "emotion": {
+        "sadness": 0.196115,
+        "joy": 0.284532,
+        "fear": 0.031074,
+        "disgust": 0.33922,
+        "anger": 0.369844
+      },
+      "count": 1
+    },
+    {
+      "text": "House floor Friday",
+      "sentiment": {
+        "score": -0.97512,
+        "label": "negative"
+      },
+      "relevance": 0.597886,
+      "emotion": {
+        "sadness": 0.209469,
+        "joy": 0.145393,
+        "fear": 0.044855,
+        "disgust": 0.431114,
+        "anger": 0.452029
+      },
+      "count": 1
+    },
+    {
+      "text": "enough support",
+      "sentiment": {
+        "score": -0.97512,
+        "label": "negative"
+      },
+      "relevance": 0.593038,
+      "emotion": {
+        "sadness": 0.209469,
+        "joy": 0.145393,
+        "fear": 0.044855,
+        "disgust": 0.431114,
+        "anger": 0.452029
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chuck Schumer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.866734,
+      "mentions": [
+        {
+          "text": "Schumer",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Chuck Schumer",
+          "location": [
+            92,
+            105
+          ]
+        },
+        {
+          "text": "Schumer",
+          "location": [
+            358,
+            365
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134861,
+        "joy": 0.222702,
+        "fear": 0.03588,
+        "disgust": 0.416937,
+        "anger": 0.449208
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Senator"
+        ],
+        "name": "Chuck Schumer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chuck_Schumer"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.409163,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            127,
+            139
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.206624,
+        "joy": 0.137016,
+        "fear": 0.061449,
+        "disgust": 0.395606,
+        "anger": 0.485359
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.361623,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            9,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.212054,
+        "joy": 0.170937,
+        "fear": 0.050736,
+        "disgust": 0.239504,
+        "anger": 0.071452
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.319022,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            117,
+            126
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            259,
+            268
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.150309,
+        "joy": 0.217271,
+        "fear": 0.027882,
+        "disgust": 0.39861,
+        "anger": 0.459378
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.958418,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "This Week",
+      "relevance": 0.956563,
+      "dbpedia_resource": "http://dbpedia.org/resource/This_Week_(ABC_TV_series)"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.934805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Good Morning America",
+      "relevance": 0.920344,
+      "dbpedia_resource": "http://dbpedia.org/resource/Good_Morning_America"
+    },
+    {
+      "text": "111th United States Congress",
+      "relevance": 0.852947,
+      "dbpedia_resource": "http://dbpedia.org/resource/111th_United_States_Congress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.861582,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

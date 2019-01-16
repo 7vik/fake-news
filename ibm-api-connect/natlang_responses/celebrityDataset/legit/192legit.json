@@ -1,0 +1,356 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2427,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.427733,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "American Family",
+      "sentiment": {
+        "score": -0.944512,
+        "label": "negative"
+      },
+      "relevance": 0.677553,
+      "emotion": {
+        "sadness": 0.63926,
+        "joy": 0.271886,
+        "fear": 0.035041,
+        "disgust": 0.045267,
+        "anger": 0.136817
+      },
+      "count": 1
+    },
+    {
+      "text": "co-host",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.665115,
+      "emotion": {
+        "sadness": 0.466539,
+        "joy": 0.472288,
+        "fear": 0.031106,
+        "disgust": 0.017093,
+        "anger": 0.053676
+      },
+      "count": 1
+    },
+    {
+      "text": "Seacrest tear",
+      "sentiment": {
+        "score": -0.714712,
+        "label": "negative"
+      },
+      "relevance": 0.663875,
+      "emotion": {
+        "sadness": 0.466539,
+        "joy": 0.472288,
+        "fear": 0.031106,
+        "disgust": 0.017093,
+        "anger": 0.053676
+      },
+      "count": 1
+    },
+    {
+      "text": "Kelly Ripa",
+      "sentiment": {
+        "score": -0.714712,
+        "label": "negative"
+      },
+      "relevance": 0.648296,
+      "emotion": {
+        "sadness": 0.466539,
+        "joy": 0.472288,
+        "fear": 0.031106,
+        "disgust": 0.017093,
+        "anger": 0.053676
+      },
+      "count": 1
+    },
+    {
+      "text": "47-year-old host",
+      "sentiment": {
+        "score": 0.246708,
+        "label": "positive"
+      },
+      "relevance": 0.610578,
+      "emotion": {
+        "sadness": 0.692891,
+        "joy": 0.215762,
+        "fear": 0.029532,
+        "disgust": 0.048042,
+        "anger": 0.113809
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kelly Ripa",
+      "sentiment": {
+        "score": 0.639744,
+        "label": "positive"
+      },
+      "relevance": 0.887629,
+      "mentions": [
+        {
+          "text": "Kelly Ripa",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Kelly",
+          "location": [
+            162,
+            167
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            203,
+            206
+          ]
+        },
+        {
+          "text": "Ripa",
+          "location": [
+            286,
+            290
+          ]
+        },
+        {
+          "text": "Ripa",
+          "location": [
+            1762,
+            1766
+          ]
+        },
+        {
+          "text": "Ripa",
+          "location": [
+            1994,
+            1998
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.717741,
+        "joy": 0.53795,
+        "fear": 0.066662,
+        "disgust": 0.079915,
+        "anger": 0.098776
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kelly Ripa",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kelly_Ripa"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Ryan Seacrest",
+      "sentiment": {
+        "score": 0.434023,
+        "label": "positive"
+      },
+      "relevance": 0.650957,
+      "mentions": [
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            15,
+            28
+          ]
+        },
+        {
+          "text": "Ryan",
+          "location": [
+            172,
+            176
+          ]
+        },
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            234,
+            247
+          ]
+        },
+        {
+          "text": "Seacrest",
+          "location": [
+            1573,
+            1581
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1623,
+            1626
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.64049,
+        "joy": 0.540122,
+        "fear": 0.045289,
+        "disgust": 0.146949,
+        "anger": 0.093152
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ryan Seacrest",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "dyslexiaKelly Ripa",
+      "sentiment": {
+        "score": 0.393662,
+        "label": "positive"
+      },
+      "relevance": 0.4764,
+      "mentions": [
+        {
+          "text": "47-year",
+          "location": [
+            1526,
+            1533
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114424,
+        "joy": 0.697635,
+        "fear": 0.126317,
+        "disgust": 0.035849,
+        "anger": 0.087895
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Joaquin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440361,
+      "mentions": [
+        {
+          "text": "Joaquin",
+          "location": [
+            328,
+            335
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            515,
+            517
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "middle school",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.339515,
+      "mentions": [
+        {
+          "text": "middle school",
+          "location": [
+            2143,
+            2156
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kelly Ripa",
+      "relevance": 0.982,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kelly_Ripa"
+    },
+    {
+      "text": "Tears",
+      "relevance": 0.945819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tears"
+    },
+    {
+      "text": "Crying",
+      "relevance": 0.820638,
+      "dbpedia_resource": "http://dbpedia.org/resource/Crying"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.810377,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.785172,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.661344,
+      "label": "/education/special education"
+    }
+  ]
+}

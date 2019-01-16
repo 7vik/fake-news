@@ -1,0 +1,167 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Julia Roberts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.365043,
+        "joy": 0.019191,
+        "fear": 0.271474,
+        "disgust": 0.12489,
+        "anger": 0.36414
+      },
+      "count": 1
+    },
+    {
+      "text": "Divorce",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613711,
+      "emotion": {
+        "sadness": 0.365043,
+        "joy": 0.019191,
+        "fear": 0.271474,
+        "disgust": 0.12489,
+        "anger": 0.36414
+      },
+      "count": 1
+    },
+    {
+      "text": "Danny Moder",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.610999,
+      "emotion": {
+        "sadness": 0.365043,
+        "joy": 0.019191,
+        "fear": 0.271474,
+        "disgust": 0.12489,
+        "anger": 0.36414
+      },
+      "count": 1
+    },
+    {
+      "text": "Problems Keep",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.129889,
+      "emotion": {
+        "sadness": 0.365043,
+        "joy": 0.019191,
+        "fear": 0.271474,
+        "disgust": 0.12489,
+        "anger": 0.36414
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Julia Roberts",
+      "sentiment": {
+        "score": -0.851506,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Julia Roberts",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162819,
+        "joy": 0.063752,
+        "fear": 0.152035,
+        "disgust": 0.06648,
+        "anger": 0.18222
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Julia Roberts",
+        "dbpedia_resource": "http://dbpedia.org/resource/Julia_Roberts"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Danny Moder",
+      "sentiment": {
+        "score": -0.851506,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Danny Moder",
+          "location": [
+            18,
+            29
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162819,
+        "joy": 0.063752,
+        "fear": 0.152035,
+        "disgust": 0.06648,
+        "anger": 0.18222
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Eric Roberts",
+      "relevance": 0.859374,
+      "dbpedia_resource": "http://dbpedia.org/resource/Eric_Roberts"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.788491,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.99963,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

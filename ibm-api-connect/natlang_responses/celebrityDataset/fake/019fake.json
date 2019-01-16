@@ -1,0 +1,374 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1101,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.735709,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.942231,
+        "label": "negative"
+      },
+      "relevance": 0.839752,
+      "emotion": {
+        "sadness": 0.413654,
+        "joy": 0.038653,
+        "fear": 0.080125,
+        "disgust": 0.335119,
+        "anger": 0.475757
+      },
+      "count": 2
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.942231,
+        "label": "negative"
+      },
+      "relevance": 0.757607,
+      "emotion": {
+        "sadness": 0.413654,
+        "joy": 0.038653,
+        "fear": 0.080125,
+        "disgust": 0.335119,
+        "anger": 0.475757
+      },
+      "count": 2
+    },
+    {
+      "text": "Marquette King",
+      "sentiment": {
+        "score": -0.942231,
+        "label": "negative"
+      },
+      "relevance": 0.652053,
+      "emotion": {
+        "sadness": 0.413654,
+        "joy": 0.038653,
+        "fear": 0.080125,
+        "disgust": 0.335119,
+        "anger": 0.475757
+      },
+      "count": 1
+    },
+    {
+      "text": "NFL star",
+      "sentiment": {
+        "score": -0.655497,
+        "label": "negative"
+      },
+      "relevance": 0.639208,
+      "emotion": {
+        "sadness": 0.43577,
+        "joy": 0.041879,
+        "fear": 0.136174,
+        "disgust": 0.330614,
+        "anger": 0.393629
+      },
+      "count": 1
+    },
+    {
+      "text": "Oakland Raiders punter Marquette King",
+      "sentiment": {
+        "score": -0.727762,
+        "label": "negative"
+      },
+      "relevance": 0.634054,
+      "emotion": {
+        "sadness": 0.43577,
+        "joy": 0.041879,
+        "fear": 0.136174,
+        "disgust": 0.330614,
+        "anger": 0.393629
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.585059,
+        "label": "negative"
+      },
+      "relevance": 0.848759,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            134,
+            148
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            204,
+            207
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            646,
+            649
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            843,
+            846
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            956,
+            959
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1045,
+            1048
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1069,
+            1072
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.616216,
+        "joy": 0.131646,
+        "fear": 0.062094,
+        "disgust": 0.166107,
+        "anger": 0.232689
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.680339,
+        "label": "negative"
+      },
+      "relevance": 0.61503,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            88,
+            98
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            183,
+            193
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            232,
+            235
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.443835,
+        "joy": 0.106083,
+        "fear": 0.032891,
+        "disgust": 0.212727,
+        "anger": 0.469281
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kanye",
+      "sentiment": {
+        "score": -0.488567,
+        "label": "negative"
+      },
+      "relevance": 0.520855,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            373,
+            378
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            1081,
+            1086
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            1088,
+            1091
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.405886,
+        "joy": 0.301448,
+        "fear": 0.053541,
+        "disgust": 0.131562,
+        "anger": 0.192286
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Laura Wasser",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.347439,
+      "mentions": [
+        {
+          "text": "Laura Wasser",
+          "location": [
+            696,
+            708
+          ]
+        },
+        {
+          "text": "Laura",
+          "location": [
+            779,
+            784
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Laura Wasser",
+        "dbpedia_resource": "http://dbpedia.org/resource/Laura_Wasser"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Marquette King",
+      "sentiment": {
+        "score": -0.737833,
+        "label": "negative"
+      },
+      "relevance": 0.334307,
+      "mentions": [
+        {
+          "text": "Marquette King",
+          "location": [
+            40,
+            54
+          ]
+        },
+        {
+          "text": "Marquette King",
+          "location": [
+            264,
+            278
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.486956,
+        "joy": 0.051859,
+        "fear": 0.037259,
+        "disgust": 0.266043,
+        "anger": 0.462511
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Marriage",
+      "relevance": 0.954703,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Oakland Raiders",
+      "relevance": 0.905223,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oakland_Raiders"
+    },
+    {
+      "text": "People from Los Angeles, California",
+      "relevance": 0.843939,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_from_Los_Angeles,_California"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.809615,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Nas",
+      "relevance": 0.677973,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nas"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.980436,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

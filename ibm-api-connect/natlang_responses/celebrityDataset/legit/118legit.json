@@ -1,0 +1,324 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1034,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.819638,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miranda Lambert",
+      "sentiment": {
+        "score": 0.763863,
+        "label": "positive"
+      },
+      "relevance": 0.760713,
+      "emotion": {
+        "sadness": 0.09194,
+        "joy": 0.850137,
+        "fear": 0.006498,
+        "disgust": 0.02315,
+        "anger": 0.036078
+      },
+      "count": 1
+    },
+    {
+      "text": "PushingTime\u0001F3B",
+      "sentiment": {
+        "score": -0.717335,
+        "label": "negative"
+      },
+      "relevance": 0.75626,
+      "emotion": {
+        "sadness": 0.15513,
+        "joy": 0.810388,
+        "fear": 0.002917,
+        "disgust": 0.018528,
+        "anger": 0.017436
+      },
+      "count": 1
+    },
+    {
+      "text": "George Strait",
+      "sentiment": {
+        "score": -0.717335,
+        "label": "negative"
+      },
+      "relevance": 0.645944,
+      "emotion": {
+        "sadness": 0.15513,
+        "joy": 0.810388,
+        "fear": 0.002917,
+        "disgust": 0.018528,
+        "anger": 0.017436
+      },
+      "count": 1
+    },
+    {
+      "text": "Anderson East\u00a0Tuesday",
+      "sentiment": {
+        "score": 0.763863,
+        "label": "positive"
+      },
+      "relevance": 0.645724,
+      "emotion": {
+        "sadness": 0.085053,
+        "joy": 0.867953,
+        "fear": 0.010635,
+        "disgust": 0.019969,
+        "anger": 0.017403
+      },
+      "count": 1
+    },
+    {
+      "text": "andersoneast\u00a0\u0001F4F7",
+      "sentiment": {
+        "score": -0.717335,
+        "label": "negative"
+      },
+      "relevance": 0.644298,
+      "emotion": {
+        "sadness": 0.15513,
+        "joy": 0.810388,
+        "fear": 0.002917,
+        "disgust": 0.018528,
+        "anger": 0.017436
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Boyfriend Anderson East",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.898461,
+      "mentions": [
+        {
+          "text": "Boyfriend Anderson East",
+          "location": [
+            63,
+            86
+          ]
+        },
+        {
+          "text": "Anderson East",
+          "location": [
+            138,
+            151
+          ]
+        },
+        {
+          "text": "",
+          "location": [
+            593,
+            597
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156515,
+        "joy": 0.70886,
+        "fear": 0.013021,
+        "disgust": 0.053381,
+        "anger": 0.061244
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Miranda Lambert",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.815957,
+      "mentions": [
+        {
+          "text": "Miranda Lambert",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Miranda Lambert",
+          "location": [
+            87,
+            102
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            200,
+            207
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.094639,
+        "joy": 0.84087,
+        "fear": 0.003983,
+        "disgust": 0.034235,
+        "anger": 0.038717
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Miranda Lambert",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Lambert"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.40264,
+      "mentions": [
+        {
+          "text": "",
+          "location": [
+            672,
+            685
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.182024,
+        "joy": 0.761984,
+        "fear": 0.009708,
+        "disgust": 0.011922,
+        "anger": 0.036866
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Instagram",
+      "sentiment": {
+        "score": 0.443088,
+        "label": "positive"
+      },
+      "relevance": 0.399406,
+      "mentions": [
+        {
+          "text": "Instagram",
+          "location": [
+            187,
+            196
+          ]
+        },
+        {
+          "text": "",
+          "location": [
+            811,
+            820
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.049538,
+        "joy": 0.879011,
+        "fear": 0.009427,
+        "disgust": 0.033078,
+        "anger": 0.041003
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Instagram",
+        "dbpedia_resource": "http://dbpedia.org/resource/Instagram"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "George Strait.Lambert",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.326707,
+      "mentions": [
+        {
+          "text": "",
+          "location": [
+            562,
+            583
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185031,
+        "joy": 0.171692,
+        "fear": 0.064682,
+        "disgust": 0.139281,
+        "anger": 0.097123
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Blake Shelton",
+      "relevance": 0.984932,
+      "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+    },
+    {
+      "text": "Miranda Lambert",
+      "relevance": 0.959844,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Lambert"
+    },
+    {
+      "text": "Nashville Star",
+      "relevance": 0.826715,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nashville_Star"
+    },
+    {
+      "text": "Sun",
+      "relevance": 0.822962,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sun"
+    },
+    {
+      "text": "Startin' Fires",
+      "relevance": 0.818193,
+      "dbpedia_resource": "http://dbpedia.org/resource/Startin'_Fires"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.649059,
+      "label": "/art and entertainment/music/singing"
+    }
+  ]
+}

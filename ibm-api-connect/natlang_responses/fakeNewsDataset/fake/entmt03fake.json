@@ -1,0 +1,319 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 729,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.634029,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brian Cox's home",
+      "sentiment": {
+        "score": -0.318359,
+        "label": "negative"
+      },
+      "relevance": 0.837438,
+      "emotion": {
+        "sadness": 0.128768,
+        "joy": 0.216992,
+        "fear": 0.145272,
+        "disgust": 0.223629,
+        "anger": 0.191332
+      },
+      "count": 1
+    },
+    {
+      "text": "Postman Pat",
+      "sentiment": {
+        "score": -0.859672,
+        "label": "negative"
+      },
+      "relevance": 0.81854,
+      "emotion": {
+        "sadness": 0.137508,
+        "joy": 0.570716,
+        "fear": 0.011659,
+        "disgust": 0.231444,
+        "anger": 0.115529
+      },
+      "count": 1
+    },
+    {
+      "text": "Professor Ryan Farrow",
+      "sentiment": {
+        "score": -0.859672,
+        "label": "negative"
+      },
+      "relevance": 0.774948,
+      "emotion": {
+        "sadness": 0.255028,
+        "joy": 0.494569,
+        "fear": 0.022481,
+        "disgust": 0.252052,
+        "anger": 0.053181
+      },
+      "count": 1
+    },
+    {
+      "text": "Higgs boson particle",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.658089,
+      "emotion": {
+        "sadness": 0.214909,
+        "joy": 0.273069,
+        "fear": 0.039406,
+        "disgust": 0.22997,
+        "anger": 0.20382
+      },
+      "count": 2
+    },
+    {
+      "text": "black hole",
+      "sentiment": {
+        "score": -0.859672,
+        "label": "negative"
+      },
+      "relevance": 0.652642,
+      "emotion": {
+        "sadness": 0.214909,
+        "joy": 0.273069,
+        "fear": 0.039406,
+        "disgust": 0.22997,
+        "anger": 0.20382
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Professor Postman Pat",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.947012,
+      "mentions": [
+        {
+          "text": "Postman Pat",
+          "location": [
+            26,
+            37
+          ]
+        },
+        {
+          "text": "Professor Postman Pat",
+          "location": [
+            38,
+            59
+          ]
+        },
+        {
+          "text": "Postman Pat",
+          "location": [
+            290,
+            301
+          ]
+        },
+        {
+          "text": "Professor Postman Pat",
+          "location": [
+            489,
+            510
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139308,
+        "joy": 0.637242,
+        "fear": 0.009106,
+        "disgust": 0.176551,
+        "anger": 0.083995
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Brian Cox",
+      "sentiment": {
+        "score": -0.313031,
+        "label": "negative"
+      },
+      "relevance": 0.577427,
+      "mentions": [
+        {
+          "text": "Brian Cox",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Brian Cox",
+          "location": [
+            91,
+            100
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            130,
+            132
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            213,
+            215
+          ]
+        },
+        {
+          "text": "Brian Cox",
+          "location": [
+            320,
+            329
+          ]
+        },
+        {
+          "text": "Brian",
+          "location": [
+            474,
+            479
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1714,
+        "joy": 0.542669,
+        "fear": 0.016256,
+        "disgust": 0.293626,
+        "anger": 0.062165
+      },
+      "disambiguation": {
+        "subtype": [
+          "Academic",
+          "Scientist",
+          "TVActor"
+        ],
+        "name": "Brian Cox (physicist)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brian_Cox_(physicist)"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Professor Ryan Farrow",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.355544,
+      "mentions": [
+        {
+          "text": "Professor Ryan Farrow",
+          "location": [
+            333,
+            354
+          ]
+        },
+        {
+          "text": "Professor Farrow",
+          "location": [
+            356,
+            372
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.116195,
+        "joy": 0.657659,
+        "fear": 0.022274,
+        "disgust": 0.215306,
+        "anger": 0.024026
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Greendale",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.202136,
+      "mentions": [
+        {
+          "text": "Greendale",
+          "location": [
+            111,
+            120
+          ]
+        },
+        {
+          "text": "Greendale",
+          "location": [
+            401,
+            410
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035731,
+        "joy": 0.69326,
+        "fear": 0.048734,
+        "disgust": 0.095306,
+        "anger": 0.034464
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Higgs boson",
+      "relevance": 0.9867,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higgs_boson"
+    },
+    {
+      "text": "Guess with Jess",
+      "relevance": 0.93539,
+      "dbpedia_resource": "http://dbpedia.org/resource/Guess_with_Jess"
+    },
+    {
+      "text": "Standard Model",
+      "relevance": 0.923607,
+      "dbpedia_resource": "http://dbpedia.org/resource/Standard_Model"
+    },
+    {
+      "text": "Particle physics",
+      "relevance": 0.920972,
+      "dbpedia_resource": "http://dbpedia.org/resource/Particle_physics"
+    },
+    {
+      "text": "Boson",
+      "relevance": 0.894073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.736967,
+      "label": "/science/physics/electromagnetism"
+    }
+  ]
+}

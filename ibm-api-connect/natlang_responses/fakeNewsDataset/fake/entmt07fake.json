@@ -1,0 +1,333 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 549,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.921673,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Shailene Woodley",
+      "sentiment": {
+        "score": -0.921673,
+        "label": "negative"
+      },
+      "relevance": 0.950278,
+      "emotion": {
+        "sadness": 0.316108,
+        "joy": 0.106767,
+        "fear": 0.233602,
+        "disgust": 0.192578,
+        "anger": 0.313864
+      },
+      "count": 1
+    },
+    {
+      "text": "hunger strike",
+      "sentiment": {
+        "score": -0.921673,
+        "label": "negative"
+      },
+      "relevance": 0.895917,
+      "emotion": {
+        "sadness": 0.337844,
+        "joy": 0.136008,
+        "fear": 0.121529,
+        "disgust": 0.319673,
+        "anger": 0.220076
+      },
+      "count": 3
+    },
+    {
+      "text": "fellow inmates",
+      "sentiment": {
+        "score": -0.921673,
+        "label": "negative"
+      },
+      "relevance": 0.759928,
+      "emotion": {
+        "sadness": 0.386495,
+        "joy": 0.124358,
+        "fear": 0.217599,
+        "disgust": 0.125934,
+        "anger": 0.255951
+      },
+      "count": 1
+    },
+    {
+      "text": "guards of a North Dakota jail",
+      "sentiment": {
+        "score": -0.921673,
+        "label": "negative"
+      },
+      "relevance": 0.728076,
+      "emotion": {
+        "sadness": 0.386495,
+        "joy": 0.124358,
+        "fear": 0.217599,
+        "disgust": 0.125934,
+        "anger": 0.255951
+      },
+      "count": 1
+    },
+    {
+      "text": "Dakota Access oil pipeline",
+      "sentiment": {
+        "score": -0.921673,
+        "label": "negative"
+      },
+      "relevance": 0.602359,
+      "emotion": {
+        "sadness": 0.386495,
+        "joy": 0.124358,
+        "fear": 0.217599,
+        "disgust": 0.125934,
+        "anger": 0.255951
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Shailene Woodley",
+      "sentiment": {
+        "score": -0.70969,
+        "label": "negative"
+      },
+      "relevance": 0.83188,
+      "mentions": [
+        {
+          "text": "Shailene Woodley",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Shailene Woodley",
+          "location": [
+            72,
+            88
+          ]
+        },
+        {
+          "text": "Woodley",
+          "location": [
+            230,
+            237
+          ]
+        },
+        {
+          "text": "the start",
+          "location": [
+            241,
+            250
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.415908,
+        "joy": 0.171319,
+        "fear": 0.246862,
+        "disgust": 0.085205,
+        "anger": 0.225835
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Shailene Woodley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Shailene_Woodley"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "North Dakota",
+      "sentiment": {
+        "score": -0.846218,
+        "label": "negative"
+      },
+      "relevance": 0.42415,
+      "mentions": [
+        {
+          "text": "North Dakota",
+          "location": [
+            137,
+            149
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.386495,
+        "joy": 0.124358,
+        "fear": 0.217599,
+        "disgust": 0.125934,
+        "anger": 0.255951
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "North Dakota",
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Dakota"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Dakota",
+      "sentiment": {
+        "score": -0.35547,
+        "label": "negative"
+      },
+      "relevance": 0.39291,
+      "mentions": [
+        {
+          "text": "Dakota",
+          "location": [
+            300,
+            306
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.475351,
+        "joy": 0.072302,
+        "fear": 0.18508,
+        "disgust": 0.093606,
+        "anger": 0.28939
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "South Dakota",
+        "dbpedia_resource": "http://dbpedia.org/resource/South_Dakota"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.612441,
+        "label": "negative"
+      },
+      "relevance": 0.292514,
+      "mentions": [
+        {
+          "text": "pipeline",
+          "location": [
+            52,
+            60
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            61,
+            63
+          ]
+        },
+        {
+          "text": "the pipeline",
+          "location": [
+            481,
+            493
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.356688,
+        "joy": 0.099695,
+        "fear": 0.221495,
+        "disgust": 0.189089,
+        "anger": 0.30952
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Divergent Series",
+      "sentiment": {
+        "score": -0.629243,
+        "label": "negative"
+      },
+      "relevance": 0.27334,
+      "mentions": [
+        {
+          "text": "Divergent Series",
+          "location": [
+            258,
+            274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.35571,
+        "joy": 0.322915,
+        "fear": 0.154972,
+        "disgust": 0.013719,
+        "anger": 0.044159
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Native Americans in the United States",
+      "relevance": 0.97112,
+      "dbpedia_resource": "http://dbpedia.org/resource/Native_Americans_in_the_United_States"
+    },
+    {
+      "text": "South Dakota",
+      "relevance": 0.826057,
+      "dbpedia_resource": "http://dbpedia.org/resource/South_Dakota"
+    },
+    {
+      "text": "North Dakota",
+      "relevance": 0.708989,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_Dakota"
+    },
+    {
+      "text": "Montana",
+      "relevance": 0.611043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Montana"
+    },
+    {
+      "text": "Minnesota",
+      "relevance": 0.571746,
+      "dbpedia_resource": "http://dbpedia.org/resource/Minnesota"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.644154,
+      "label": "/family and parenting/parenting teens"
+    }
+  ]
+}

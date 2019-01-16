@@ -1,0 +1,132 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Melania's camp",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.98886,
+      "emotion": {
+        "sadness": 0.497407,
+        "joy": 0.036761,
+        "fear": 0.057701,
+        "disgust": 0.237174,
+        "anger": 0.171161
+      },
+      "count": 1
+    },
+    {
+      "text": "US Weekly",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.148744,
+      "emotion": {
+        "sadness": 0.497407,
+        "joy": 0.036761,
+        "fear": 0.057701,
+        "disgust": 0.237174,
+        "anger": 0.171161
+      },
+      "count": 1
+    },
+    {
+      "text": "separate bed' report",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.060567,
+      "emotion": {
+        "sadness": 0.497407,
+        "joy": 0.036761,
+        "fear": 0.057701,
+        "disgust": 0.237174,
+        "anger": 0.171161
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Melania",
+      "sentiment": {
+        "score": -0.491936,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Melania",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "US Weekly",
+      "sentiment": {
+        "score": -0.491936,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "US Weekly",
+          "location": [
+            22,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "Us Weekly",
+        "dbpedia_resource": "http://dbpedia.org/resource/Us_Weekly"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.592382,
+      "label": "/automotive and vehicles/campers and rvs"
+    }
+  ]
+}

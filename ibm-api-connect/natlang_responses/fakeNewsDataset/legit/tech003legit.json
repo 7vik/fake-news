@@ -1,0 +1,334 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 629,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.763311,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Google computer",
+      "sentiment": {
+        "score": 0.888338,
+        "label": "positive"
+      },
+      "relevance": 0.826287,
+      "emotion": {
+        "sadness": 0.038692,
+        "joy": 0.672105,
+        "fear": 0.044192,
+        "disgust": 0.024526,
+        "anger": 0.055547
+      },
+      "count": 2
+    },
+    {
+      "text": "clear winner",
+      "sentiment": {
+        "score": 0.733378,
+        "label": "positive"
+      },
+      "relevance": 0.745717,
+      "emotion": {
+        "sadness": 0.065268,
+        "joy": 0.773374,
+        "fear": 0.028946,
+        "disgust": 0.002574,
+        "anger": 0.112314
+      },
+      "count": 1
+    },
+    {
+      "text": "Google DeepMind CEO Demis Hassabis",
+      "sentiment": {
+        "score": 0.51637,
+        "label": "positive"
+      },
+      "relevance": 0.687338,
+      "emotion": {
+        "sadness": 0.27961,
+        "joy": 0.5124,
+        "fear": 0.075245,
+        "disgust": 0.045713,
+        "anger": 0.111952
+      },
+      "count": 1
+    },
+    {
+      "text": "achievements of the Google DeepMind computer",
+      "sentiment": {
+        "score": 0.733378,
+        "label": "positive"
+      },
+      "relevance": 0.678066,
+      "emotion": {
+        "sadness": 0.065268,
+        "joy": 0.773374,
+        "fear": 0.028946,
+        "disgust": 0.002574,
+        "anger": 0.112314
+      },
+      "count": 1
+    },
+    {
+      "text": "Lee Se-dol",
+      "sentiment": {
+        "score": 0.879136,
+        "label": "positive"
+      },
+      "relevance": 0.640141,
+      "emotion": {
+        "sadness": 0.016078,
+        "joy": 0.617437,
+        "fear": 0.024698,
+        "disgust": 0.017093,
+        "anger": 0.025851
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.630486,
+        "label": "positive"
+      },
+      "relevance": 0.788903,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            2,
+            8
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            75,
+            81
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            313,
+            319
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            459,
+            465
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.025102,
+        "joy": 0.797757,
+        "fear": 0.023355,
+        "disgust": 0.006013,
+        "anger": 0.148834
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Lee Se-dol",
+      "sentiment": {
+        "score": -0.278908,
+        "label": "negative"
+      },
+      "relevance": 0.503909,
+      "mentions": [
+        {
+          "text": "Lee Se-dol",
+          "location": [
+            134,
+            144
+          ]
+        },
+        {
+          "text": "Lee Se-dol",
+          "location": [
+            549,
+            559
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            588,
+            591
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.019083,
+        "joy": 0.281502,
+        "fear": 0.035024,
+        "disgust": 0.010344,
+        "anger": 0.026107
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lee Se-Dol",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lee_Se-Dol"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Demis Hassabis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.349138,
+      "mentions": [
+        {
+          "text": "Demis Hassabis",
+          "location": [
+            479,
+            493
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277032,
+        "joy": 0.186856,
+        "fear": 0.086245,
+        "disgust": 0.103623,
+        "anger": 0.122888
+      },
+      "disambiguation": {
+        "subtype": [
+          "Writer"
+        ],
+        "name": "Demis Hassabis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Demis_Hassabis"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "AlphaGo",
+      "sentiment": {
+        "score": -0.278908,
+        "label": "negative"
+      },
+      "relevance": 0.317356,
+      "mentions": [
+        {
+          "text": "AlphaGo",
+          "location": [
+            339,
+            346
+          ]
+        },
+        {
+          "text": "AlphaGo",
+          "location": [
+            501,
+            508
+          ]
+        },
+        {
+          "text": "AlphaGo",
+          "location": [
+            605,
+            612
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12023,
+        "joy": 0.411778,
+        "fear": 0.045834,
+        "disgust": 0.03215,
+        "anger": 0.079221
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.249187,
+      "mentions": [
+        {
+          "text": "CEO",
+          "location": [
+            475,
+            478
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277032,
+        "joy": 0.186856,
+        "fear": 0.086245,
+        "disgust": 0.103623,
+        "anger": 0.122888
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Artificial island",
+      "relevance": 0.889645,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_island"
+    },
+    {
+      "text": "Board game",
+      "relevance": 0.888071,
+      "dbpedia_resource": "http://dbpedia.org/resource/Board_game"
+    },
+    {
+      "text": "Game",
+      "relevance": 0.852001,
+      "dbpedia_resource": "http://dbpedia.org/resource/Game"
+    },
+    {
+      "text": "World",
+      "relevance": 0.7831,
+      "dbpedia_resource": "http://dbpedia.org/resource/World"
+    },
+    {
+      "text": "Victory",
+      "relevance": 0.76208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Victory"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.939132,
+      "label": "/science/computer science/artificial intelligence"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 625,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.785468,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new law",
+      "sentiment": {
+        "score": -0.620057,
+        "label": "negative"
+      },
+      "relevance": 0.898327,
+      "emotion": {
+        "sadness": 0.302799,
+        "joy": 0.081566,
+        "fear": 0.152136,
+        "disgust": 0.505107,
+        "anger": 0.16435
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillsborough Law",
+      "sentiment": {
+        "score": -0.694962,
+        "label": "negative"
+      },
+      "relevance": 0.752485,
+      "emotion": {
+        "sadness": 0.339773,
+        "joy": 0.151469,
+        "fear": 0.184075,
+        "disgust": 0.398669,
+        "anger": 0.121517
+      },
+      "count": 1
+    },
+    {
+      "text": "police officers",
+      "sentiment": {
+        "score": -0.620057,
+        "label": "negative"
+      },
+      "relevance": 0.745093,
+      "emotion": {
+        "sadness": 0.302799,
+        "joy": 0.081566,
+        "fear": 0.152136,
+        "disgust": 0.505107,
+        "anger": 0.16435
+      },
+      "count": 1
+    },
+    {
+      "text": "Labor MP Andy Burnham",
+      "sentiment": {
+        "score": -0.959159,
+        "label": "negative"
+      },
+      "relevance": 0.728316,
+      "emotion": {
+        "sadness": 0.618716,
+        "joy": 0.054109,
+        "fear": 0.033013,
+        "disgust": 0.279079,
+        "anger": 0.056352
+      },
+      "count": 1
+    },
+    {
+      "text": "two-year sentences",
+      "sentiment": {
+        "score": -0.620057,
+        "label": "negative"
+      },
+      "relevance": 0.699282,
+      "emotion": {
+        "sadness": 0.302799,
+        "joy": 0.081566,
+        "fear": 0.152136,
+        "disgust": 0.505107,
+        "anger": 0.16435
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Andy Burnham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.853865,
+      "mentions": [
+        {
+          "text": "Andy Burnham",
+          "location": [
+            505,
+            517
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076669,
+        "joy": 0.043693,
+        "fear": 0.02407,
+        "disgust": 0.298384,
+        "anger": 0.057399
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Andy Burnham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Andy_Burnham"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": -0.573352,
+        "label": "negative"
+      },
+      "relevance": 0.574348,
+      "mentions": [
+        {
+          "text": "London",
+          "location": [
+            37,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.402005,
+        "joy": 0.076698,
+        "fear": 0.141356,
+        "disgust": 0.394358,
+        "anger": 0.11115
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.574348,
+      "mentions": [
+        {
+          "text": "two-year",
+          "location": [
+            328,
+            336
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "In open court",
+      "relevance": 0.919747,
+      "dbpedia_resource": "http://dbpedia.org/resource/In_open_court"
+    },
+    {
+      "text": "Member of Parliament",
+      "relevance": 0.874328,
+      "dbpedia_resource": "http://dbpedia.org/resource/Member_of_Parliament"
+    },
+    {
+      "text": "Police",
+      "relevance": 0.865288,
+      "dbpedia_resource": "http://dbpedia.org/resource/Police"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.859921,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

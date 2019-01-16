@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 431,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.376317,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "futuristic authentication",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.753449,
+      "emotion": {
+        "sadness": 0.063302,
+        "joy": 0.194537,
+        "fear": 0.068848,
+        "disgust": 0.084438,
+        "anger": 0.105473
+      },
+      "count": 1
+    },
+    {
+      "text": "facial recognition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711398,
+      "emotion": {
+        "sadness": 0.063302,
+        "joy": 0.194537,
+        "fear": 0.068848,
+        "disgust": 0.084438,
+        "anger": 0.105473
+      },
+      "count": 1
+    },
+    {
+      "text": "complete stop",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.684309,
+      "emotion": {
+        "sadness": 0.16402,
+        "joy": 0.052157,
+        "fear": 0.016394,
+        "disgust": 0.03719,
+        "anger": 0.121557
+      },
+      "count": 1
+    },
+    {
+      "text": "Instagram",
+      "sentiment": {
+        "score": 0.376317,
+        "label": "positive"
+      },
+      "relevance": 0.641501,
+      "emotion": {
+        "sadness": 0.173629,
+        "joy": 0.140252,
+        "fear": 0.006226,
+        "disgust": 0.013491,
+        "anger": 0.108006
+      },
+      "count": 2
+    },
+    {
+      "text": "user",
+      "sentiment": {
+        "score": 0.376317,
+        "label": "positive"
+      },
+      "relevance": 0.637447,
+      "emotion": {
+        "sadness": 0.350552,
+        "joy": 0.170943,
+        "fear": 0.009838,
+        "disgust": 0.005604,
+        "anger": 0.068632
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Instagram",
+      "sentiment": {
+        "score": 0.726628,
+        "label": "positive"
+      },
+      "relevance": 0.956072,
+      "mentions": [
+        {
+          "text": "Instagram",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Instagram",
+          "location": [
+            75,
+            84
+          ]
+        },
+        {
+          "text": "Instagram",
+          "location": [
+            221,
+            230
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.236826,
+        "joy": 0.112951,
+        "fear": 0.006743,
+        "disgust": 0.009772,
+        "anger": 0.092081
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Instagram",
+        "dbpedia_resource": "http://dbpedia.org/resource/Instagram"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.452389,
+        "label": "positive"
+      },
+      "relevance": 0.656765,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            340,
+            347
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.582613,
+      "mentions": [
+        {
+          "text": "Facebook",
+          "location": [
+            349,
+            357
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110606,
+        "joy": 0.111323,
+        "fear": 0.107492,
+        "disgust": 0.045515,
+        "anger": 0.042088
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.524277,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            362,
+            368
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110606,
+        "joy": 0.111323,
+        "fear": 0.107492,
+        "disgust": 0.045515,
+        "anger": 0.042088
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Password",
+      "relevance": 0.915715,
+      "dbpedia_resource": "http://dbpedia.org/resource/Password"
+    },
+    {
+      "text": "Access control",
+      "relevance": 0.79065,
+      "dbpedia_resource": "http://dbpedia.org/resource/Access_control"
+    },
+    {
+      "text": "Internet",
+      "relevance": 0.65086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet"
+    },
+    {
+      "text": "Authentication",
+      "relevance": 0.625762,
+      "dbpedia_resource": "http://dbpedia.org/resource/Authentication"
+    },
+    {
+      "text": "Authorization",
+      "relevance": 0.609945,
+      "dbpedia_resource": "http://dbpedia.org/resource/Authorization"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.995862,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1129,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.649295,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New Suicide Fears",
+      "sentiment": {
+        "score": -0.969397,
+        "label": "negative"
+      },
+      "relevance": 0.771603,
+      "emotion": {
+        "sadness": 0.342064,
+        "joy": 0.005197,
+        "fear": 0.794056,
+        "disgust": 0.051907,
+        "anger": 0.056583
+      },
+      "count": 1
+    },
+    {
+      "text": "Owen Wilson",
+      "sentiment": {
+        "score": -0.969397,
+        "label": "negative"
+      },
+      "relevance": 0.760502,
+      "emotion": {
+        "sadness": 0.654237,
+        "joy": 0.010181,
+        "fear": 0.513205,
+        "disgust": 0.054699,
+        "anger": 0.036995
+      },
+      "count": 1
+    },
+    {
+      "text": "Legendary TV producer Robert Wilson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.685877,
+      "emotion": {
+        "sadness": 0.833712,
+        "joy": 0.053942,
+        "fear": 0.121673,
+        "disgust": 0.057261,
+        "anger": 0.066541
+      },
+      "count": 1
+    },
+    {
+      "text": "suicide attempt",
+      "sentiment": {
+        "score": -0.976148,
+        "label": "negative"
+      },
+      "relevance": 0.637298,
+      "emotion": {
+        "sadness": 0.61217,
+        "joy": 0.006885,
+        "fear": 0.55366,
+        "disgust": 0.04654,
+        "anger": 0.073411
+      },
+      "count": 1
+    },
+    {
+      "text": "fistful of prescription pills",
+      "sentiment": {
+        "score": -0.976148,
+        "label": "negative"
+      },
+      "relevance": 0.614939,
+      "emotion": {
+        "sadness": 0.61217,
+        "joy": 0.006885,
+        "fear": 0.55366,
+        "disgust": 0.04654,
+        "anger": 0.073411
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Wilson",
+      "sentiment": {
+        "score": -0.655498,
+        "label": "negative"
+      },
+      "relevance": 0.835653,
+      "mentions": [
+        {
+          "text": "Owen Wilson",
+          "location": [
+            22,
+            33
+          ]
+        },
+        {
+          "text": "Owen Wilson",
+          "location": [
+            65,
+            76
+          ]
+        },
+        {
+          "text": "Robert Wilson",
+          "location": [
+            285,
+            298
+          ]
+        },
+        {
+          "text": "Wilson",
+          "location": [
+            605,
+            611
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.551696,
+        "joy": 0.020967,
+        "fear": 0.505151,
+        "disgust": 0.119069,
+        "anger": 0.072794
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "MilitaryPerson",
+          "Senator",
+          "U.S.Congressperson"
+        ],
+        "name": "Robert Wilson (Missouri)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Wilson_(Missouri)"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Owen",
+      "sentiment": {
+        "score": -0.681485,
+        "label": "negative"
+      },
+      "relevance": 0.738815,
+      "mentions": [
+        {
+          "text": "Owen",
+          "location": [
+            174,
+            178
+          ]
+        },
+        {
+          "text": "Owen",
+          "location": [
+            318,
+            322
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            420,
+            422
+          ]
+        },
+        {
+          "text": "Owen",
+          "location": [
+            913,
+            917
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.873082,
+        "joy": 0.014287,
+        "fear": 0.172654,
+        "disgust": 0.083645,
+        "anger": 0.049247
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Wedding Crashers",
+      "sentiment": {
+        "score": -0.490675,
+        "label": "negative"
+      },
+      "relevance": 0.412593,
+      "mentions": [
+        {
+          "text": "Wedding Crashers",
+          "location": [
+            1054,
+            1070
+          ]
+        },
+        {
+          "text": "We",
+          "location": [
+            1093,
+            1095
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.331427,
+        "joy": 0.013423,
+        "fear": 0.80423,
+        "disgust": 0.020664,
+        "anger": 0.045455
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Santa Monica",
+      "sentiment": {
+        "score": -0.342588,
+        "label": "negative"
+      },
+      "relevance": 0.360182,
+      "mentions": [
+        {
+          "text": "Santa Monica",
+          "location": [
+            642,
+            654
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.412348,
+        "joy": 0.087635,
+        "fear": 0.210081,
+        "disgust": 0.207434,
+        "anger": 0.152516
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "City"
+        ],
+        "name": "Santa Monica, California",
+        "dbpedia_resource": "http://dbpedia.org/resource/Santa_Monica,_California"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Owen Wilson",
+      "relevance": 0.988749,
+      "dbpedia_resource": "http://dbpedia.org/resource/Owen_Wilson"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.597359,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Will Ferrell",
+      "relevance": 0.591118,
+      "dbpedia_resource": "http://dbpedia.org/resource/Will_Ferrell"
+    },
+    {
+      "text": "Vince Vaughn",
+      "relevance": 0.581037,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vince_Vaughn"
+    },
+    {
+      "text": "Actor",
+      "relevance": 0.561003,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.629636,
+      "label": "/society/dating"
+    }
+  ]
+}

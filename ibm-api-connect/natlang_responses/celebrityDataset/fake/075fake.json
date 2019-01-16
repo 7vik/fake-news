@@ -1,0 +1,364 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 979,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.40413,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.79206,
+        "label": "negative"
+      },
+      "relevance": 0.896818,
+      "emotion": {
+        "sadness": 0.10535,
+        "joy": 0.328689,
+        "fear": 0.037763,
+        "disgust": 0.276837,
+        "anger": 0.397562
+      },
+      "count": 2
+    },
+    {
+      "text": "Chelsea Handler performance",
+      "sentiment": {
+        "score": -0.453585,
+        "label": "negative"
+      },
+      "relevance": 0.663291,
+      "emotion": {
+        "sadness": 0.220807,
+        "joy": 0.303228,
+        "fear": 0.067667,
+        "disgust": 0.254396,
+        "anger": 0.226784
+      },
+      "count": 1
+    },
+    {
+      "text": "Orlando Bloom",
+      "sentiment": {
+        "score": -0.79206,
+        "label": "negative"
+      },
+      "relevance": 0.658816,
+      "emotion": {
+        "sadness": 0.10535,
+        "joy": 0.328689,
+        "fear": 0.037763,
+        "disgust": 0.276837,
+        "anger": 0.397562
+      },
+      "count": 2
+    },
+    {
+      "text": "Justin Bieber Jealous",
+      "sentiment": {
+        "score": -0.693946,
+        "label": "negative"
+      },
+      "relevance": 0.624376,
+      "emotion": {
+        "sadness": 0.127003,
+        "joy": 0.393422,
+        "fear": 0.050146,
+        "disgust": 0.154131,
+        "anger": 0.344907
+      },
+      "count": 1
+    },
+    {
+      "text": "first time",
+      "sentiment": {
+        "score": -0.872792,
+        "label": "negative"
+      },
+      "relevance": 0.622574,
+      "emotion": {
+        "sadness": 0.220807,
+        "joy": 0.303228,
+        "fear": 0.067667,
+        "disgust": 0.254396,
+        "anger": 0.226784
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.659003,
+        "label": "negative"
+      },
+      "relevance": 0.920453,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            20,
+            32
+          ]
+        },
+        {
+          "text": "Selena Gomez",
+          "location": [
+            157,
+            169
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.117116,
+        "joy": 0.676429,
+        "fear": 0.02876,
+        "disgust": 0.084391,
+        "anger": 0.128698
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.686255,
+        "label": "negative"
+      },
+      "relevance": 0.724269,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            91,
+            104
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            708,
+            721
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            824,
+            830
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.364811,
+        "joy": 0.11798,
+        "fear": 0.026561,
+        "disgust": 0.292887,
+        "anger": 0.474501
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Selena",
+      "sentiment": {
+        "score": -0.652925,
+        "label": "negative"
+      },
+      "relevance": 0.654556,
+      "mentions": [
+        {
+          "text": "Selena",
+          "location": [
+            588,
+            594
+          ]
+        },
+        {
+          "text": "Selena",
+          "location": [
+            674,
+            680
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            685,
+            688
+          ]
+        },
+        {
+          "text": "wayyyyy",
+          "location": [
+            691,
+            698
+          ]
+        },
+        {
+          "text": "Selena",
+          "location": [
+            793,
+            799
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.3944,
+        "joy": 0.063858,
+        "fear": 0.033564,
+        "disgust": 0.303852,
+        "anger": 0.510139
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Selena",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Miranda Kerr",
+      "sentiment": {
+        "score": -0.70292,
+        "label": "negative"
+      },
+      "relevance": 0.594183,
+      "mentions": [
+        {
+          "text": "Miranda Kerr",
+          "location": [
+            74,
+            86
+          ]
+        },
+        {
+          "text": "Miranda Kerr",
+          "location": [
+            835,
+            847
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.383939,
+        "joy": 0.135833,
+        "fear": 0.034443,
+        "disgust": 0.263847,
+        "anger": 0.444807
+      },
+      "disambiguation": {
+        "subtype": [
+          "Model"
+        ],
+        "name": "Miranda Kerr",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Kerr"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Orlando",
+      "sentiment": {
+        "score": -0.652925,
+        "label": "negative"
+      },
+      "relevance": 0.366041,
+      "mentions": [
+        {
+          "text": "Orlando",
+          "location": [
+            781,
+            788
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.503515,
+        "joy": 0.173911,
+        "fear": 0.026735,
+        "disgust": 0.251925,
+        "anger": 0.266454
+      },
+      "disambiguation": {
+        "subtype": [
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Orlando, Florida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Orlando,_Florida"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.975143,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Pirates of the Caribbean: Dead Man's Chest",
+      "relevance": 0.974307,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Man's_Chest"
+    },
+    {
+      "text": "Miranda Kerr",
+      "relevance": 0.967982,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Kerr"
+    },
+    {
+      "text": "Pirates of the Caribbean: At World's End",
+      "relevance": 0.931035,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_At_World's_End"
+    },
+    {
+      "text": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "relevance": 0.921954,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.619109,
+      "label": "/society/dating"
+    }
+  ]
+}

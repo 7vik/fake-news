@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.632958,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Good Time",
+      "sentiment": {
+        "score": 0.632958,
+        "label": "positive"
+      },
+      "relevance": 0.998557,
+      "emotion": {
+        "sadness": 0.086057,
+        "joy": 0.683708,
+        "fear": 0.01395,
+        "disgust": 0.014263,
+        "anger": 0.025312
+      },
+      "count": 1
+    },
+    {
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": 0.632958,
+        "label": "positive"
+      },
+      "relevance": 0.960868,
+      "emotion": {
+        "sadness": 0.086057,
+        "joy": 0.683708,
+        "fear": 0.01395,
+        "disgust": 0.014263,
+        "anger": 0.025312
+      },
+      "count": 1
+    },
+    {
+      "text": "Better Actor",
+      "sentiment": {
+        "score": 0.632958,
+        "label": "positive"
+      },
+      "relevance": 0.034265,
+      "emotion": {
+        "sadness": 0.086057,
+        "joy": 0.683708,
+        "fear": 0.01395,
+        "disgust": 0.014263,
+        "anger": 0.025312
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": 0.532637,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Me",
+          "location": [
+            38,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120405,
+        "joy": 0.487373,
+        "fear": 0.046988,
+        "disgust": 0.018025,
+        "anger": 0.033418
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Robert Pattinson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Robert Pattinson",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.643658,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.766409,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chelsea Handler",
+      "sentiment": {
+        "score": -0.766409,
+        "label": "negative"
+      },
+      "relevance": 0.997384,
+      "emotion": {
+        "sadness": 0.19837,
+        "joy": 0.157374,
+        "fear": 0.161615,
+        "disgust": 0.198131,
+        "anger": 0.229068
+      },
+      "count": 1
+    },
+    {
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": -0.766409,
+        "label": "negative"
+      },
+      "relevance": 0.949084,
+      "emotion": {
+        "sadness": 0.19837,
+        "joy": 0.157374,
+        "fear": 0.161615,
+        "disgust": 0.198131,
+        "anger": 0.229068
+      },
+      "count": 1
+    },
+    {
+      "text": "EXCLUSIVE",
+      "sentiment": {
+        "score": -0.766409,
+        "label": "negative"
+      },
+      "relevance": 0.013643,
+      "emotion": {
+        "sadness": 0.19837,
+        "joy": 0.157374,
+        "fear": 0.161615,
+        "disgust": 0.198131,
+        "anger": 0.229068
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": -0.351374,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ben Affleck",
+          "location": [
+            46,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246627,
+        "joy": 0.139093,
+        "fear": 0.220672,
+        "disgust": 0.265153,
+        "anger": 0.256823
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Ben Affleck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Chelsea",
+      "sentiment": {
+        "score": -0.351374,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chelsea",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246627,
+        "joy": 0.139093,
+        "fear": 0.220672,
+        "disgust": 0.265153,
+        "anger": 0.256823
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Chelsea Lately",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chelsea_Lately"
+    },
+    {
+      "text": "Chelsea Handler",
+      "relevance": 0.824495,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chelsea_Handler"
+    },
+    {
+      "text": "The Chelsea Handler Show",
+      "relevance": 0.708642,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Chelsea_Handler_Show"
+    },
+    {
+      "text": "Ben Affleck",
+      "relevance": 0.627417,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.706728,
+      "label": "/art and entertainment/movies and tv/talk shows"
+    }
+  ]
+}

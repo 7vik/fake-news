@@ -1,0 +1,372 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 988,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.6916,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bill O'Reilly",
+      "sentiment": {
+        "score": -0.866602,
+        "label": "negative"
+      },
+      "relevance": 0.890984,
+      "emotion": {
+        "sadness": 0.10019,
+        "joy": 0.157851,
+        "fear": 0.041339,
+        "disgust": 0.687774,
+        "anger": 0.179903
+      },
+      "count": 1
+    },
+    {
+      "text": "Friends  O'Reilly",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711686,
+      "emotion": {
+        "sadness": 0.362137,
+        "joy": 0.351826,
+        "fear": 0.025394,
+        "disgust": 0.203158,
+        "anger": 0.087403
+      },
+      "count": 1
+    },
+    {
+      "text": "Maxine Waters",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.70624,
+      "emotion": {
+        "sadness": 0.302039,
+        "joy": 0.134748,
+        "fear": 0.059433,
+        "disgust": 0.397826,
+        "anger": 0.308772
+      },
+      "count": 1
+    },
+    {
+      "text": "O'Reilly",
+      "sentiment": {
+        "score": -0.757418,
+        "label": "negative"
+      },
+      "relevance": 0.610365,
+      "emotion": {
+        "sadness": 0.075074,
+        "joy": 0.130073,
+        "fear": 0.005124,
+        "disgust": 0.725124,
+        "anger": 0.281316
+      },
+      "count": 2
+    },
+    {
+      "text": "Tuesday morning",
+      "sentiment": {
+        "score": -0.647584,
+        "label": "negative"
+      },
+      "relevance": 0.591856,
+      "emotion": {
+        "sadness": 0.027873,
+        "joy": 0.085117,
+        "fear": 0.009538,
+        "disgust": 0.790106,
+        "anger": 0.214762
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bill O'Reilly",
+      "sentiment": {
+        "score": -0.458255,
+        "label": "negative"
+      },
+      "relevance": 0.915747,
+      "mentions": [
+        {
+          "text": "Bill O'Reilly",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Bill O'Reilly",
+          "location": [
+            94,
+            107
+          ]
+        },
+        {
+          "text": "O'Reilly",
+          "location": [
+            233,
+            241
+          ]
+        },
+        {
+          "text": "O'Reilly",
+          "location": [
+            386,
+            394
+          ]
+        },
+        {
+          "text": "O'Reilly",
+          "location": [
+            597,
+            605
+          ]
+        },
+        {
+          "text": "O'Reilly",
+          "location": [
+            691,
+            699
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            833,
+            835
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269843,
+        "joy": 0.198728,
+        "fear": 0.057054,
+        "disgust": 0.539699,
+        "anger": 0.184845
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality",
+          "TVProducer",
+          "TVActor"
+        ],
+        "name": "Bill O'Reilly (political commentator)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_O'Reilly_(political_commentator)"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Congresswoman Maxine Waters",
+      "sentiment": {
+        "score": -0.426812,
+        "label": "negative"
+      },
+      "relevance": 0.707395,
+      "mentions": [
+        {
+          "text": "Rep. Maxine Waters",
+          "location": [
+            263,
+            281
+          ]
+        },
+        {
+          "text": "Waters",
+          "location": [
+            403,
+            409
+          ]
+        },
+        {
+          "text": "Congresswoman Maxine Waters",
+          "location": [
+            771,
+            798
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            891,
+            894
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.428189,
+        "joy": 0.255672,
+        "fear": 0.026738,
+        "disgust": 0.307551,
+        "anger": 0.132518
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson"
+        ],
+        "name": "Maxine Waters",
+        "dbpedia_resource": "http://dbpedia.org/resource/Maxine_Waters"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "James Brown",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.239331,
+      "mentions": [
+        {
+          "text": "James Brown",
+          "location": [
+            432,
+            443
+          ]
+        },
+        {
+          "text": "James Brown",
+          "location": [
+            475,
+            486
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            509,
+            511
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186841,
+        "joy": 0.428855,
+        "fear": 0.038288,
+        "disgust": 0.194924,
+        "anger": 0.07862
+      },
+      "disambiguation": {
+        "subtype": [
+          "BasketballPlayer",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "James Brown (sportscaster)",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Brown_(sportscaster)"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Fox",
+      "sentiment": {
+        "score": -0.247771,
+        "label": "negative"
+      },
+      "relevance": 0.199623,
+      "mentions": [
+        {
+          "text": "Fox & Friends",
+          "location": [
+            218,
+            231
+          ]
+        },
+        {
+          "text": "Fox",
+          "location": [
+            869,
+            872
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.349436,
+        "joy": 0.295905,
+        "fear": 0.029064,
+        "disgust": 0.38279,
+        "anger": 0.107005
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Fox",
+      "sentiment": {
+        "score": -0.409748,
+        "label": "negative"
+      },
+      "relevance": 0.192692,
+      "mentions": [
+        {
+          "text": "Fox",
+          "location": [
+            80,
+            83
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.349436,
+        "joy": 0.295905,
+        "fear": 0.029064,
+        "disgust": 0.38279,
+        "anger": 0.107005
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States House of Representatives",
+      "relevance": 0.961218,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_House_of_Representatives"
+    },
+    {
+      "text": "Fox News Channel",
+      "relevance": 0.880703,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fox_News_Channel"
+    },
+    {
+      "text": "The O'Reilly Factor",
+      "relevance": 0.853722,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_O'Reilly_Factor"
+    },
+    {
+      "text": "Bill O'Reilly",
+      "relevance": 0.826187,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_O'Reilly_(political_commentator)"
+    },
+    {
+      "text": "Maxine Waters",
+      "relevance": 0.732325,
+      "dbpedia_resource": "http://dbpedia.org/resource/Maxine_Waters"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.623443,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

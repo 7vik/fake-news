@@ -1,0 +1,161 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.672851,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.672851,
+        "label": "positive"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.089752,
+        "joy": 0.579327,
+        "fear": 0.035001,
+        "disgust": 0.038448,
+        "anger": 0.062118
+      },
+      "count": 1
+    },
+    {
+      "text": "MTV Video Music Awards",
+      "sentiment": {
+        "score": 0.672851,
+        "label": "positive"
+      },
+      "relevance": 0.994411,
+      "emotion": {
+        "sadness": 0.089752,
+        "joy": 0.579327,
+        "fear": 0.035001,
+        "disgust": 0.038448,
+        "anger": 0.062118
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.444663,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            12,
+            24
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.089752,
+        "joy": 0.579327,
+        "fear": 0.035001,
+        "disgust": 0.038448,
+        "anger": 0.062118
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    },
+    {
+      "type": "Broadcaster",
+      "text": "MTV",
+      "sentiment": {
+        "score": -0.444663,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "MTV",
+          "location": [
+            46,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.089752,
+        "joy": 0.579327,
+        "fear": 0.035001,
+        "disgust": 0.038448,
+        "anger": 0.062118
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Broadcast",
+          "BroadcastContent",
+          "Company",
+          "AwardPresentingOrganization",
+          "ProductionCompany",
+          "TVNetwork",
+          "AwardWinner",
+          "TVProducer",
+          "TelevisionStation"
+        ],
+        "name": "MTV",
+        "dbpedia_resource": "http://dbpedia.org/resource/MTV"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "MTV Video Music Awards",
+      "relevance": 0.947771,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Music video",
+      "relevance": 0.725911,
+      "dbpedia_resource": "http://dbpedia.org/resource/Music_video"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.589033,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.578222,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.997705,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

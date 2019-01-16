@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 796,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.331251,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Oval Office",
+      "sentiment": {
+        "score": 0.337368,
+        "label": "positive"
+      },
+      "relevance": 0.703455,
+      "emotion": {
+        "sadness": 0.500659,
+        "joy": 0.206947,
+        "fear": 0.188191,
+        "disgust": 0.125438,
+        "anger": 0.111701
+      },
+      "count": 1
+    },
+    {
+      "text": "long hours",
+      "sentiment": {
+        "score": 0.337368,
+        "label": "positive"
+      },
+      "relevance": 0.692896,
+      "emotion": {
+        "sadness": 0.500659,
+        "joy": 0.206947,
+        "fear": 0.188191,
+        "disgust": 0.125438,
+        "anger": 0.111701
+      },
+      "count": 1
+    },
+    {
+      "text": "social media",
+      "sentiment": {
+        "score": 0.882001,
+        "label": "positive"
+      },
+      "relevance": 0.685509,
+      "emotion": {
+        "sadness": 0.166487,
+        "joy": 0.506145,
+        "fear": 0.147916,
+        "disgust": 0.094011,
+        "anger": 0.077216
+      },
+      "count": 1
+    },
+    {
+      "text": "phone calls",
+      "sentiment": {
+        "score": 0.337368,
+        "label": "positive"
+      },
+      "relevance": 0.67794,
+      "emotion": {
+        "sadness": 0.500659,
+        "joy": 0.206947,
+        "fear": 0.188191,
+        "disgust": 0.125438,
+        "anger": 0.111701
+      },
+      "count": 1
+    },
+    {
+      "text": "age of Trump",
+      "sentiment": {
+        "score": -0.89341,
+        "label": "negative"
+      },
+      "relevance": 0.673012,
+      "emotion": {
+        "sadness": 0.162151,
+        "joy": 0.6522,
+        "fear": 0.143819,
+        "disgust": 0.038242,
+        "anger": 0.021441
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.537747,
+        "label": "negative"
+      },
+      "relevance": 0.977359,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            50,
+            62
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            114,
+            116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.231984,
+        "joy": 0.166517,
+        "fear": 0.158963,
+        "disgust": 0.206998,
+        "anger": 0.123742
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Oval Office",
+      "sentiment": {
+        "score": -0.537747,
+        "label": "negative"
+      },
+      "relevance": 0.718952,
+      "mentions": [
+        {
+          "text": "Oval Office",
+          "location": [
+            176,
+            187
+          ]
+        },
+        {
+          "text": "the office",
+          "location": [
+            440,
+            450
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16475,
+        "joy": 0.173551,
+        "fear": 0.268213,
+        "disgust": 0.098059,
+        "anger": 0.10723
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.518235,
+        "label": "positive"
+      },
+      "relevance": 0.645414,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            93,
+            102
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            757,
+            766
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.229829,
+        "joy": 0.14134,
+        "fear": 0.044286,
+        "disgust": 0.240118,
+        "anger": 0.097453
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Obama",
+      "sentiment": {
+        "score": 0.743389,
+        "label": "positive"
+      },
+      "relevance": 0.611436,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            17,
+            22
+          ]
+        },
+        {
+          "text": "the new tabloid darling",
+          "location": [
+            26,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.111156,
+        "joy": 0.718857,
+        "fear": 0.099718,
+        "disgust": 0.021151,
+        "anger": 0.021553
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.537747,
+        "label": "negative"
+      },
+      "relevance": 0.485969,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            210,
+            217
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.194308,
+        "joy": 0.167147,
+        "fear": 0.289079,
+        "disgust": 0.108628,
+        "anger": 0.11435
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George W. Bush",
+      "relevance": 0.959821,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Richard Nixon",
+      "relevance": 0.913346,
+      "dbpedia_resource": "http://dbpedia.org/resource/Richard_Nixon"
+    },
+    {
+      "text": "Ronald Reagan",
+      "relevance": 0.892147,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.76957,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Seal of the President of the United States",
+      "relevance": 0.718185,
+      "dbpedia_resource": "http://dbpedia.org/resource/Seal_of_the_President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.741564,
+      "label": "/style and fashion"
+    }
+  ]
+}

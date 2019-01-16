@@ -1,0 +1,399 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1032,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.57641,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": 0.705965,
+        "label": "positive"
+      },
+      "relevance": 0.937566,
+      "emotion": {
+        "sadness": 0.084869,
+        "joy": 0.738995,
+        "fear": 0.038087,
+        "disgust": 0.029328,
+        "anger": 0.073717
+      },
+      "count": 1
+    },
+    {
+      "text": "Stan Wawrinka",
+      "sentiment": {
+        "score": 0.705965,
+        "label": "positive"
+      },
+      "relevance": 0.812763,
+      "emotion": {
+        "sadness": 0.084869,
+        "joy": 0.738995,
+        "fear": 0.038087,
+        "disgust": 0.029328,
+        "anger": 0.073717
+      },
+      "count": 2
+    },
+    {
+      "text": "World number",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.771652,
+      "emotion": {
+        "sadness": 0.37027,
+        "joy": 0.416836,
+        "fear": 0.065109,
+        "disgust": 0.040808,
+        "anger": 0.100621
+      },
+      "count": 2
+    },
+    {
+      "text": "Australian Open champion Roger Federer",
+      "sentiment": {
+        "score": 0.705965,
+        "label": "positive"
+      },
+      "relevance": 0.765025,
+      "emotion": {
+        "sadness": 0.075595,
+        "joy": 0.748005,
+        "fear": 0.042767,
+        "disgust": 0.041304,
+        "anger": 0.065072
+      },
+      "count": 1
+    },
+    {
+      "text": "Indian Wells",
+      "sentiment": {
+        "score": 0.705965,
+        "label": "positive"
+      },
+      "relevance": 0.713603,
+      "emotion": {
+        "sadness": 0.084869,
+        "joy": 0.738995,
+        "fear": 0.038087,
+        "disgust": 0.029328,
+        "anger": 0.073717
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": 0.520711,
+        "label": "positive"
+      },
+      "relevance": 0.906292,
+      "mentions": [
+        {
+          "text": "Roger Federer",
+          "location": [
+            14,
+            27
+          ]
+        },
+        {
+          "text": "Roger Federer",
+          "location": [
+            97,
+            110
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            238,
+            245
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            426,
+            433
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            563,
+            570
+          ]
+        },
+        {
+          "text": "the oldest champion",
+          "location": [
+            579,
+            598
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            726,
+            733
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            779,
+            786
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            897,
+            904
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.608541,
+        "joy": 0.650513,
+        "fear": 0.058803,
+        "disgust": 0.064914,
+        "anger": 0.116967
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Roger Federer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Stan Wawrinka",
+      "sentiment": {
+        "score": 0.520711,
+        "label": "positive"
+      },
+      "relevance": 0.203251,
+      "mentions": [
+        {
+          "text": "Stan Wawrinka",
+          "location": [
+            34,
+            47
+          ]
+        },
+        {
+          "text": "Stan Wawrinka",
+          "location": [
+            116,
+            129
+          ]
+        },
+        {
+          "text": "Wawrinka",
+          "location": [
+            769,
+            777
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035954,
+        "joy": 0.743415,
+        "fear": 0.010914,
+        "disgust": 0.052384,
+        "anger": 0.168559
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Stanislas Wawrinka",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stanislas_Wawrinka"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "BNP",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.174695,
+      "mentions": [
+        {
+          "text": "BNP",
+          "location": [
+            55,
+            58
+          ]
+        },
+        {
+          "text": "BNP",
+          "location": [
+            171,
+            174
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.046377,
+        "joy": 0.685751,
+        "fear": 0.027161,
+        "disgust": 0.098064,
+        "anger": 0.10599
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "AdministrativeDivision",
+          "FrenchDepartment",
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "OlympicHostCity",
+          "PlaceWithNeighborhoods",
+          "CityTown"
+        ],
+        "name": "Paris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paris"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Elena Vesnina",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.119785,
+      "mentions": [
+        {
+          "text": "Elena Vesnina",
+          "location": [
+            484,
+            497
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.333579,
+        "joy": 0.184667,
+        "fear": 0.034258,
+        "disgust": 0.323777,
+        "anger": 0.18684
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion"
+        ],
+        "name": "Elena Vesnina",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elena_Vesnina"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jimmy Connors",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.110438,
+      "mentions": [
+        {
+          "text": "Jimmy Connors",
+          "location": [
+            639,
+            652
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            670,
+            672
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112852,
+        "joy": 0.442713,
+        "fear": 0.110343,
+        "disgust": 0.055523,
+        "anger": 0.064813
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "HallOfFameInductee",
+          "TennisTournamentChampion"
+        ],
+        "name": "Jimmy Connors",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jimmy_Connors"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Roger Federer",
+      "relevance": 0.948625,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+    },
+    {
+      "text": "2009 French Open",
+      "relevance": 0.912956,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_French_Open"
+    },
+    {
+      "text": "Rafael Nadal",
+      "relevance": 0.807991,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rafael_Nadal"
+    },
+    {
+      "text": "Grand Slam",
+      "relevance": 0.793948,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grand_Slam_(tennis)"
+    },
+    {
+      "text": "Andy Murray",
+      "relevance": 0.73541,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andy_Murray"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999282,
+      "label": "/sports/tennis"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 492,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.330379,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "pop star",
+      "sentiment": {
+        "score": -0.793305,
+        "label": "negative"
+      },
+      "relevance": 0.891573,
+      "emotion": {
+        "sadness": 0.1458,
+        "joy": 0.396078,
+        "fear": 0.008561,
+        "disgust": 0.140865,
+        "anger": 0.443918
+      },
+      "count": 1
+    },
+    {
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": -0.793305,
+        "label": "negative"
+      },
+      "relevance": 0.783259,
+      "emotion": {
+        "sadness": 0.081601,
+        "joy": 0.455655,
+        "fear": 0.01433,
+        "disgust": 0.168886,
+        "anger": 0.058055
+      },
+      "count": 1
+    },
+    {
+      "text": "famous pop star",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.742029,
+      "emotion": {
+        "sadness": 0.292219,
+        "joy": 0.200288,
+        "fear": 0.013434,
+        "disgust": 0.090852,
+        "anger": 0.59679
+      },
+      "count": 1
+    },
+    {
+      "text": "insider",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.658982,
+      "emotion": {
+        "sadness": 0.292219,
+        "joy": 0.200288,
+        "fear": 0.013434,
+        "disgust": 0.090852,
+        "anger": 0.59679
+      },
+      "count": 1
+    },
+    {
+      "text": "singers",
+      "sentiment": {
+        "score": -0.793305,
+        "label": "negative"
+      },
+      "relevance": 0.62526,
+      "emotion": {
+        "sadness": 0.1458,
+        "joy": 0.396078,
+        "fear": 0.008561,
+        "disgust": 0.140865,
+        "anger": 0.443918
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.892572,
+      "mentions": [
+        {
+          "text": "GAGA",
+          "location": [
+            12,
+            16
+          ]
+        },
+        {
+          "text": "Lady Gaga",
+          "location": [
+            129,
+            138
+          ]
+        },
+        {
+          "text": "Gaga",
+          "location": [
+            319,
+            323
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.164841,
+        "joy": 0.364702,
+        "fear": 0.009558,
+        "disgust": 0.238293,
+        "anger": 0.339936
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lady Gaga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Madonna",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.29263,
+      "mentions": [
+        {
+          "text": "Madonna",
+          "location": [
+            167,
+            174
+          ]
+        },
+        {
+          "text": "Madonna",
+          "location": [
+            303,
+            310
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.3042,
+        "joy": 0.205354,
+        "fear": 0.00992,
+        "disgust": 0.286962,
+        "anger": 0.336142
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lady G.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.249181,
+      "mentions": [
+        {
+          "text": "Lady G.",
+          "location": [
+            283,
+            290
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.279801,
+        "joy": 0.44978,
+        "fear": 0.078727,
+        "disgust": 0.056102,
+        "anger": 0.178296
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Madonna",
+      "relevance": 0.974446,
+      "dbpedia_resource": "http://dbpedia.org/resource/Madonna_(entertainer)"
+    },
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.926313,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Britney Spears",
+      "relevance": 0.801572,
+      "dbpedia_resource": "http://dbpedia.org/resource/Britney_Spears"
+    },
+    {
+      "text": "Kylie Minogue",
+      "relevance": 0.798533,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Minogue"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.755764,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.846583,
+      "label": "/art and entertainment/music/music genres/pop music"
+    }
+  ]
+}

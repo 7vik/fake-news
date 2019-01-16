@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 605,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.450837,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sherman Oaks",
+      "sentiment": {
+        "score": -0.867711,
+        "label": "negative"
+      },
+      "relevance": 0.721082,
+      "emotion": {
+        "sadness": 0.061515,
+        "joy": 0.871098,
+        "fear": 0.031544,
+        "disgust": 0.026945,
+        "anger": 0.019363
+      },
+      "count": 1
+    },
+    {
+      "text": "longtime friend",
+      "sentiment": {
+        "score": -0.867711,
+        "label": "negative"
+      },
+      "relevance": 0.69225,
+      "emotion": {
+        "sadness": 0.061515,
+        "joy": 0.871098,
+        "fear": 0.031544,
+        "disgust": 0.026945,
+        "anger": 0.019363
+      },
+      "count": 1
+    },
+    {
+      "text": "Kardashian sisters",
+      "sentiment": {
+        "score": 0.805174,
+        "label": "positive"
+      },
+      "relevance": 0.683398,
+      "emotion": {
+        "sadness": 0.061515,
+        "joy": 0.871098,
+        "fear": 0.031544,
+        "disgust": 0.026945,
+        "anger": 0.019363
+      },
+      "count": 1
+    },
+    {
+      "text": "launch of her kids line collaboration",
+      "sentiment": {
+        "score": -0.867711,
+        "label": "negative"
+      },
+      "relevance": 0.668487,
+      "emotion": {
+        "sadness": 0.061515,
+        "joy": 0.871098,
+        "fear": 0.031544,
+        "disgust": 0.026945,
+        "anger": 0.019363
+      },
+      "count": 1
+    },
+    {
+      "text": "Cinco de Mayo celebration",
+      "sentiment": {
+        "score": 0.805174,
+        "label": "positive"
+      },
+      "relevance": 0.651085,
+      "emotion": {
+        "sadness": 0.061515,
+        "joy": 0.871098,
+        "fear": 0.031544,
+        "disgust": 0.026945,
+        "anger": 0.019363
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim",
+      "sentiment": {
+        "score": 0.486015,
+        "label": "positive"
+      },
+      "relevance": 0.798821,
+      "mentions": [
+        {
+          "text": "Kim",
+          "location": [
+            0,
+            3
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            126,
+            129
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            338,
+            341
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            470,
+            473
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            524,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10782,
+        "joy": 0.655189,
+        "fear": 0.038401,
+        "disgust": 0.100277,
+        "anger": 0.027005
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Cinco de Mayo",
+      "sentiment": {
+        "score": 0.665349,
+        "label": "positive"
+      },
+      "relevance": 0.554933,
+      "mentions": [
+        {
+          "text": "Cinco de Mayo",
+          "location": [
+            43,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.068589,
+        "joy": 0.810025,
+        "fear": 0.037177,
+        "disgust": 0.055274,
+        "anger": 0.022178
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Khloe Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.416917,
+      "mentions": [
+        {
+          "text": "Khloe Kardashian",
+          "location": [
+            16,
+            32
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            68,
+            78
+          ]
+        },
+        {
+          "text": "Khloe",
+          "location": [
+            144,
+            149
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.175298,
+        "joy": 0.66859,
+        "fear": 0.090901,
+        "disgust": 0.019854,
+        "anger": 0.069314
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Khlo\u00e9 Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.38043,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            272,
+            283
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134473,
+        "joy": 0.119243,
+        "fear": 0.404043,
+        "disgust": 0.20047,
+        "anger": 0.09331
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Casa Vega",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.35974,
+      "mentions": [
+        {
+          "text": "Casa Vega",
+          "location": [
+            179,
+            188
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.986719,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.981038,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.974297,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Cinco de Mayo",
+      "relevance": 0.842,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cinco_de_Mayo"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.81546,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.686001,
+      "label": "/style and fashion/clothing"
+    }
+  ]
+}

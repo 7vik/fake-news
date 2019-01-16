@@ -1,0 +1,256 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1028,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.793838,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Malory C. Johnson",
+      "sentiment": {
+        "score": 0.909656,
+        "label": "positive"
+      },
+      "relevance": 0.805452,
+      "emotion": {
+        "sadness": 0.234663,
+        "joy": 0.643843,
+        "fear": 0.016837,
+        "disgust": 0.063789,
+        "anger": 0.043249
+      },
+      "count": 1
+    },
+    {
+      "text": "company Patriots Media Corporation",
+      "sentiment": {
+        "score": 0.909656,
+        "label": "positive"
+      },
+      "relevance": 0.729116,
+      "emotion": {
+        "sadness": 0.234663,
+        "joy": 0.643843,
+        "fear": 0.016837,
+        "disgust": 0.063789,
+        "anger": 0.043249
+      },
+      "count": 1
+    },
+    {
+      "text": "inaugural race of the Formula",
+      "sentiment": {
+        "score": 0.897727,
+        "label": "positive"
+      },
+      "relevance": 0.69686,
+      "emotion": {
+        "sadness": 0.085999,
+        "joy": 0.839957,
+        "fear": 0.051037,
+        "disgust": 0.013339,
+        "anger": 0.015981
+      },
+      "count": 1
+    },
+    {
+      "text": "Bernadete Ecclestones",
+      "sentiment": {
+        "score": 0.897727,
+        "label": "positive"
+      },
+      "relevance": 0.651484,
+      "emotion": {
+        "sadness": 0.085999,
+        "joy": 0.839957,
+        "fear": 0.051037,
+        "disgust": 0.013339,
+        "anger": 0.015981
+      },
+      "count": 1
+    },
+    {
+      "text": "Carey Smith",
+      "sentiment": {
+        "score": 0.44133,
+        "label": "positive"
+      },
+      "relevance": 0.64872,
+      "emotion": {
+        "sadness": 0.122026,
+        "joy": 0.154141,
+        "fear": 0.094175,
+        "disgust": 0.081309,
+        "anger": 0.097661
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bernadete Ecclestones",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.319955,
+      "mentions": [
+        {
+          "text": "Bernadete Ecclestones",
+          "location": [
+            62,
+            83
+          ]
+        },
+        {
+          "text": "Ecclestones",
+          "location": [
+            448,
+            459
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.190684,
+        "joy": 0.687211,
+        "fear": 0.075713,
+        "disgust": 0.021525,
+        "anger": 0.055554
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Patriots Media Corporation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.319119,
+      "mentions": [
+        {
+          "text": "Patriots Media Corporation",
+          "location": [
+            268,
+            294
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.293469,
+        "joy": 0.13099,
+        "fear": 0.065035,
+        "disgust": 0.230292,
+        "anger": 0.093088
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Patriots Media Co",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.304596,
+      "mentions": [
+        {
+          "text": "Patriots Media Co",
+          "location": [
+            581,
+            598
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.366451,
+        "joy": 0.098855,
+        "fear": 0.166343,
+        "disgust": 0.430177,
+        "anger": 0.147272
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carey Smith",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.27096,
+      "mentions": [
+        {
+          "text": "Carey Smith",
+          "location": [
+            709,
+            720
+          ]
+        },
+        {
+          "text": "head",
+          "location": [
+            728,
+            732
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            825,
+            828
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.143694,
+        "joy": 0.15659,
+        "fear": 0.07838,
+        "disgust": 0.11028,
+        "anger": 0.102048
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.942653,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Race",
+      "relevance": 0.933532,
+      "dbpedia_resource": "http://dbpedia.org/resource/Race"
+    },
+    {
+      "text": "Race",
+      "relevance": 0.712328,
+      "dbpedia_resource": "http://dbpedia.org/resource/Race_(classification_of_human_beings)"
+    },
+    {
+      "text": "Melbourne",
+      "relevance": 0.711113,
+      "dbpedia_resource": "http://dbpedia.org/resource/Melbourne"
+    },
+    {
+      "text": "Formula One",
+      "relevance": 0.646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Formula_One"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.939344,
+      "label": "/sports/boat racing"
+    }
+  ]
+}

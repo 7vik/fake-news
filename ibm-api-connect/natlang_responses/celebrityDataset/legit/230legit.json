@@ -1,0 +1,396 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1265,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Amber Heard Shares Picture",
+      "sentiment": {
+        "score": 0.757295,
+        "label": "positive"
+      },
+      "relevance": 0.86608,
+      "emotion": {
+        "sadness": 0.085082,
+        "joy": 0.251523,
+        "fear": 0.04501,
+        "disgust": 0.036776,
+        "anger": 0.101333
+      },
+      "count": 1
+    },
+    {
+      "text": "Jason Momoa",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.862945,
+      "emotion": {
+        "sadness": 0.07716,
+        "joy": 0.377391,
+        "fear": 0.00692,
+        "disgust": 0.292052,
+        "anger": 0.148076
+      },
+      "count": 2
+    },
+    {
+      "text": "Wan's Twitter handles",
+      "sentiment": {
+        "score": -0.540391,
+        "label": "negative"
+      },
+      "relevance": 0.733896,
+      "emotion": {
+        "sadness": 0.287958,
+        "joy": 0.180061,
+        "fear": 0.025467,
+        "disgust": 0.108494,
+        "anger": 0.163431
+      },
+      "count": 1
+    },
+    {
+      "text": "Aquaman Set",
+      "sentiment": {
+        "score": 0.757295,
+        "label": "positive"
+      },
+      "relevance": 0.732017,
+      "emotion": {
+        "sadness": 0.085082,
+        "joy": 0.251523,
+        "fear": 0.04501,
+        "disgust": 0.036776,
+        "anger": 0.101333
+      },
+      "count": 1
+    },
+    {
+      "text": "actress Amber Heard",
+      "sentiment": {
+        "score": 0.757295,
+        "label": "positive"
+      },
+      "relevance": 0.650491,
+      "emotion": {
+        "sadness": 0.081818,
+        "joy": 0.639306,
+        "fear": 0.040552,
+        "disgust": 0.08461,
+        "anger": 0.064933
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Amber Heard",
+      "sentiment": {
+        "score": -0.120601,
+        "label": "negative"
+      },
+      "relevance": 0.843024,
+      "mentions": [
+        {
+          "text": "Amber Heard",
+          "location": [
+            136,
+            147
+          ]
+        },
+        {
+          "text": "Heard",
+          "location": [
+            161,
+            166
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            210,
+            217
+          ]
+        },
+        {
+          "text": "Heard",
+          "location": [
+            558,
+            563
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            576,
+            579
+          ]
+        },
+        {
+          "text": "Amber Heard",
+          "location": [
+            1091,
+            1102
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131985,
+        "joy": 0.475645,
+        "fear": 0.053556,
+        "disgust": 0.172951,
+        "anger": 0.110992
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Amber Heard",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amber_Heard"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Jason Momoa",
+      "sentiment": {
+        "score": -0.114838,
+        "label": "negative"
+      },
+      "relevance": 0.39363,
+      "mentions": [
+        {
+          "text": "Jason Momoa",
+          "location": [
+            223,
+            234
+          ]
+        },
+        {
+          "text": "Momoa",
+          "location": [
+            380,
+            385
+          ]
+        },
+        {
+          "text": "Momoa",
+          "location": [
+            586,
+            591
+          ]
+        },
+        {
+          "text": "Momoa",
+          "location": [
+            667,
+            672
+          ]
+        },
+        {
+          "text": "Momoa",
+          "location": [
+            676,
+            681
+          ]
+        },
+        {
+          "text": "Jason Momoa",
+          "location": [
+            1078,
+            1089
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13691,
+        "joy": 0.485175,
+        "fear": 0.04154,
+        "disgust": 0.182775,
+        "anger": 0.109987
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ],
+        "name": "Jason Momoa",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jason_Momoa"
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.639543,
+        "label": "negative"
+      },
+      "relevance": 0.343193,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            180,
+            187
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            602,
+            609
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            634,
+            641
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065433,
+        "joy": 0.283008,
+        "fear": 0.024774,
+        "disgust": 0.278154,
+        "anger": 0.189965
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Justice League",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.221731,
+      "mentions": [
+        {
+          "text": "Justice League",
+          "location": [
+            871,
+            885
+          ]
+        },
+        {
+          "text": "Justice League",
+          "location": [
+            973,
+            987
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.679081,
+        "joy": 0.206717,
+        "fear": 0.044641,
+        "disgust": 0.052396,
+        "anger": 0.104819
+      },
+      "disambiguation": {
+        "subtype": [
+          "ComicBookSeries"
+        ],
+        "name": "Justice League",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justice_League"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dolph Lundgren",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.189013,
+      "mentions": [
+        {
+          "text": "Dolph Lundgren",
+          "location": [
+            1129,
+            1143
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "FilmDirector",
+          "MartialArtist",
+          "TVActor"
+        ],
+        "name": "Dolph Lundgren",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dolph_Lundgren"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.980414,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Justice League",
+      "relevance": 0.974966,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justice_League"
+    },
+    {
+      "text": "Superhero",
+      "relevance": 0.908313,
+      "dbpedia_resource": "http://dbpedia.org/resource/Superhero"
+    },
+    {
+      "text": "Flash",
+      "relevance": 0.844591,
+      "dbpedia_resource": "http://dbpedia.org/resource/Flash_(Barry_Allen)"
+    },
+    {
+      "text": "Wonder Woman",
+      "relevance": 0.844547,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wonder_Woman"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.927006,
+      "label": "/art and entertainment/comics and animation/comics"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 675,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.324804,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "KENTUCKY's JOHN CALIPARI",
+      "sentiment": {
+        "score": -0.537187,
+        "label": "negative"
+      },
+      "relevance": 0.936736,
+      "emotion": {
+        "sadness": 0.1975,
+        "joy": 0.216823,
+        "fear": 0.085109,
+        "disgust": 0.15582,
+        "anger": 0.188321
+      },
+      "count": 1
+    },
+    {
+      "text": "De'Aaron Fox",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78182,
+      "emotion": {
+        "sadness": 0.222449,
+        "joy": 0.193082,
+        "fear": 0.157183,
+        "disgust": 0.166691,
+        "anger": 0.073662
+      },
+      "count": 1
+    },
+    {
+      "text": "North Carolina",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732451,
+      "emotion": {
+        "sadness": 0.145541,
+        "joy": 0.544287,
+        "fear": 0.08674,
+        "disgust": 0.073519,
+        "anger": 0.061781
+      },
+      "count": 1
+    },
+    {
+      "text": "rest of the team",
+      "sentiment": {
+        "score": -0.537187,
+        "label": "negative"
+      },
+      "relevance": 0.704977,
+      "emotion": {
+        "sadness": 0.480277,
+        "joy": 0.074163,
+        "fear": 0.012196,
+        "disgust": 0.417305,
+        "anger": 0.145716
+      },
+      "count": 2
+    },
+    {
+      "text": "next game",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.591362,
+      "emotion": {
+        "sadness": 0.145541,
+        "joy": 0.544287,
+        "fear": 0.08674,
+        "disgust": 0.073519,
+        "anger": 0.061781
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "FOX",
+      "sentiment": {
+        "score": -0.269565,
+        "label": "negative"
+      },
+      "relevance": 0.912295,
+      "mentions": [
+        {
+          "text": "FOX",
+          "location": [
+            62,
+            65
+          ]
+        },
+        {
+          "text": "De'Aaron Fox",
+          "location": [
+            215,
+            227
+          ]
+        },
+        {
+          "text": "Fox",
+          "location": [
+            265,
+            268
+          ]
+        },
+        {
+          "text": "Fox",
+          "location": [
+            465,
+            468
+          ]
+        },
+        {
+          "text": "Fox",
+          "location": [
+            486,
+            489
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.173205,
+        "joy": 0.281824,
+        "fear": 0.071234,
+        "disgust": 0.171472,
+        "anger": 0.116231
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Coach John Calipari",
+      "sentiment": {
+        "score": -0.269565,
+        "label": "negative"
+      },
+      "relevance": 0.710633,
+      "mentions": [
+        {
+          "text": "JOHN CALIPARI",
+          "location": [
+            11,
+            24
+          ]
+        },
+        {
+          "text": "Coach John Calipari",
+          "location": [
+            83,
+            102
+          ]
+        },
+        {
+          "text": "Calipari",
+          "location": [
+            402,
+            410
+          ]
+        },
+        {
+          "text": "Calipari",
+          "location": [
+            607,
+            615
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.288963,
+        "joy": 0.161978,
+        "fear": 0.040185,
+        "disgust": 0.214575,
+        "anger": 0.343955
+      },
+      "disambiguation": {
+        "subtype": [
+          "BasketballCoach",
+          "BasketballPlayer",
+          "CollegeCoach"
+        ],
+        "name": "John Calipari",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Calipari"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Kentucky Wildcat",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.369947,
+      "mentions": [
+        {
+          "text": "Kentucky Wildcat",
+          "location": [
+            66,
+            82
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.33443,
+        "joy": 0.100111,
+        "fear": 0.015252,
+        "disgust": 0.208089,
+        "anger": 0.13669
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "KENTUCKY",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.297015,
+      "mentions": [
+        {
+          "text": "KENTUCKY",
+          "location": [
+            0,
+            8
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "FedEx",
+      "sentiment": {
+        "score": -0.537009,
+        "label": "negative"
+      },
+      "relevance": 0.259914,
+      "mentions": [
+        {
+          "text": "FedEx",
+          "location": [
+            389,
+            394
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.596914,
+        "joy": 0.041327,
+        "fear": 0.040068,
+        "disgust": 0.241993,
+        "anger": 0.048928
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "FedEx",
+        "dbpedia_resource": "http://dbpedia.org/resource/FedEx"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "John Calipari",
+      "relevance": 0.971962,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_Calipari"
+    },
+    {
+      "text": "Kentucky Wildcats men's basketball",
+      "relevance": 0.937309,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball"
+    },
+    {
+      "text": "Southeastern Conference",
+      "relevance": 0.832427,
+      "dbpedia_resource": "http://dbpedia.org/resource/Southeastern_Conference"
+    },
+    {
+      "text": "Memphis Tigers basketball",
+      "relevance": 0.827823,
+      "dbpedia_resource": "http://dbpedia.org/resource/Memphis_Tigers_basketball"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.821395,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.775279,
+      "label": "/sports/basketball"
+    }
+  ]
+}

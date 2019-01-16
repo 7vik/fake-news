@@ -1,0 +1,183 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 126,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Queen Elizabeth",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999075,
+      "emotion": {
+        "sadness": 0.353316,
+        "joy": 0.083766,
+        "fear": 0.612313,
+        "disgust": 0.085871,
+        "anger": 0.040532
+      },
+      "count": 1
+    },
+    {
+      "text": "Kate Middleton Clash",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.851611,
+      "emotion": {
+        "sadness": 0.353316,
+        "joy": 0.083766,
+        "fear": 0.612313,
+        "disgust": 0.085871,
+        "anger": 0.040532
+      },
+      "count": 1
+    },
+    {
+      "text": "Duchess",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.606896,
+      "emotion": {
+        "sadness": 0.353316,
+        "joy": 0.083766,
+        "fear": 0.612313,
+        "disgust": 0.085871,
+        "anger": 0.040532
+      },
+      "count": 1
+    },
+    {
+      "text": "Reports",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.534344,
+      "emotion": {
+        "sadness": 0.353316,
+        "joy": 0.083766,
+        "fear": 0.612313,
+        "disgust": 0.085871,
+        "anger": 0.040532
+      },
+      "count": 1
+    },
+    {
+      "text": "Difficult Pregnancy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.463264,
+      "emotion": {
+        "sadness": 0.353316,
+        "joy": 0.083766,
+        "fear": 0.612313,
+        "disgust": 0.085871,
+        "anger": 0.040532
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Queen Elizabeth",
+      "sentiment": {
+        "score": -0.690173,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Queen Elizabeth",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.316819,
+        "joy": 0.434011,
+        "fear": 0.053566,
+        "disgust": 0.048455,
+        "anger": 0.124257
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Queen Elizabeth The Queen Mother",
+        "dbpedia_resource": "http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": -0.690173,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kate Middleton",
+          "location": [
+            20,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.316819,
+        "joy": 0.434011,
+        "fear": 0.053566,
+        "disgust": 0.048455,
+        "anger": 0.124257
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Catherine, Duchess of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Elizabeth II of the United Kingdom",
+      "relevance": 0.947712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elizabeth_II_of_the_United_Kingdom"
+    },
+    {
+      "text": "Monarch",
+      "relevance": 0.804644,
+      "dbpedia_resource": "http://dbpedia.org/resource/Monarch"
+    },
+    {
+      "text": "Elizabeth I of England",
+      "relevance": 0.72744,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elizabeth_I_of_England"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999744,
+      "label": "/family and parenting/motherhood/pregnancy"
+    }
+  ]
+}

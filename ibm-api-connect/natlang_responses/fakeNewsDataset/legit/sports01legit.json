@@ -1,0 +1,296 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 877,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Dr. James Naismith's two-page",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.881049,
+      "emotion": {
+        "sadness": 0.451582,
+        "joy": 0.145105,
+        "fear": 0.180525,
+        "disgust": 0.211264,
+        "anger": 0.137272
+      },
+      "count": 1
+    },
+    {
+      "text": "auction house",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.841533,
+      "emotion": {
+        "sadness": 0.451582,
+        "joy": 0.145105,
+        "fear": 0.180525,
+        "disgust": 0.211264,
+        "anger": 0.137272
+      },
+      "count": 1
+    },
+    {
+      "text": "Basketball 'bible",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.775899,
+      "emotion": {
+        "sadness": 0.189947,
+        "joy": 0.459993,
+        "fear": 0.035731,
+        "disgust": 0.066425,
+        "anger": 0.138213
+      },
+      "count": 1
+    },
+    {
+      "text": "rules of basketball",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.681871,
+      "emotion": {
+        "sadness": 0.120383,
+        "joy": 0.636768,
+        "fear": 0.050653,
+        "disgust": 0.013231,
+        "anger": 0.043348
+      },
+      "count": 2
+    },
+    {
+      "text": "sports memorabilia record",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.639204,
+      "emotion": {
+        "sadness": 0.189947,
+        "joy": 0.459993,
+        "fear": 0.035731,
+        "disgust": 0.066425,
+        "anger": 0.138213
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Dr. James Naismith",
+      "sentiment": {
+        "score": 0.453119,
+        "label": "positive"
+      },
+      "relevance": 0.859956,
+      "mentions": [
+        {
+          "text": "Dr. James Naismith",
+          "location": [
+            288,
+            306
+          ]
+        },
+        {
+          "text": "Naismith",
+          "location": [
+            586,
+            594
+          ]
+        },
+        {
+          "text": "Naismith",
+          "location": [
+            751,
+            759
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156413,
+        "joy": 0.450275,
+        "fear": 0.272256,
+        "disgust": 0.072254,
+        "anger": 0.061681
+      },
+      "disambiguation": {
+        "subtype": [
+          "Academic",
+          "BasketballCoach",
+          "CollegeCoach",
+          "HallOfFameInductee",
+          "Inventor"
+        ],
+        "name": "James Naismith",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Naismith"
+      },
+      "count": 3
+    },
+    {
+      "type": "Sport",
+      "text": "Basketball",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.674819,
+      "mentions": [
+        {
+          "text": "Basketball",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "basketball",
+          "location": [
+            80,
+            90
+          ]
+        },
+        {
+          "text": "Basketball",
+          "location": [
+            337,
+            347
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.200421,
+        "joy": 0.605784,
+        "fear": 0.053386,
+        "disgust": 0.024942,
+        "anger": 0.040531
+      },
+      "disambiguation": {
+        "subtype": [
+          "Invention",
+          "FieldOfStudy",
+          "AwardDiscipline",
+          "OlympicEventCompetition"
+        ],
+        "name": "Basketball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Basketball"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Sotheby",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.602952,
+      "mentions": [
+        {
+          "text": "Sotheby",
+          "location": [
+            211,
+            218
+          ]
+        },
+        {
+          "text": "Sotheby",
+          "location": [
+            523,
+            530
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Sotheby's",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sotheby's"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "New England YMCA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.370421,
+      "mentions": [
+        {
+          "text": "New England YMCA",
+          "location": [
+            650,
+            666
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.135711,
+        "joy": 0.338455,
+        "fear": 0.110403,
+        "disgust": 0.111495,
+        "anger": 0.084685
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "James Naismith",
+      "relevance": 0.952548,
+      "dbpedia_resource": "http://dbpedia.org/resource/James_Naismith"
+    },
+    {
+      "text": "Basketball",
+      "relevance": 0.870376,
+      "dbpedia_resource": "http://dbpedia.org/resource/Basketball"
+    },
+    {
+      "text": "Springfield, Massachusetts",
+      "relevance": 0.676126,
+      "dbpedia_resource": "http://dbpedia.org/resource/Springfield,_Massachusetts"
+    },
+    {
+      "text": "International Basketball Federation",
+      "relevance": 0.611576,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_Basketball_Federation"
+    },
+    {
+      "text": "YMCA",
+      "relevance": 0.589934,
+      "dbpedia_resource": "http://dbpedia.org/resource/YMCA"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999976,
+      "label": "/sports/basketball"
+    }
+  ]
+}

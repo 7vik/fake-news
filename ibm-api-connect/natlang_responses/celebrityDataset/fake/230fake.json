@@ -1,0 +1,145 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 73,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Aquaman actresses Nicole Kidman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.996911,
+      "emotion": {
+        "sadness": 0.153705,
+        "joy": 0.233323,
+        "fear": 0.034209,
+        "disgust": 0.022406,
+        "anger": 0.076085
+      },
+      "count": 1
+    },
+    {
+      "text": "Amber",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.63129,
+      "emotion": {
+        "sadness": 0.153705,
+        "joy": 0.233323,
+        "fear": 0.034209,
+        "disgust": 0.022406,
+        "anger": 0.076085
+      },
+      "count": 1
+    },
+    {
+      "text": "DC movie set",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.123911,
+      "emotion": {
+        "sadness": 0.153705,
+        "joy": 0.233323,
+        "fear": 0.034209,
+        "disgust": 0.022406,
+        "anger": 0.076085
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nicole Kidman",
+      "sentiment": {
+        "score": 0.974932,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Nicole Kidman",
+          "location": [
+            18,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.160604,
+        "joy": 0.309026,
+        "fear": 0.030882,
+        "disgust": 0.020238,
+        "anger": 0.058502
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Nicole Kidman",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nicole_Kidman"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amber",
+      "sentiment": {
+        "score": 0.974932,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Amber",
+          "location": [
+            36,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.160604,
+        "joy": 0.309026,
+        "fear": 0.030882,
+        "disgust": 0.020238,
+        "anger": 0.058502
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.934937,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.958342,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

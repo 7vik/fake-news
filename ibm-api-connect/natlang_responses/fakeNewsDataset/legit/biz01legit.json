@@ -1,0 +1,249 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1160,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.675357,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Alex Jones",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.830152,
+      "emotion": {
+        "sadness": 0.037511,
+        "joy": 0.495718,
+        "fear": 0.028264,
+        "disgust": 0.273123,
+        "anger": 0.047563
+      },
+      "count": 1
+    },
+    {
+      "text": "Pizzagate conspiracy theory",
+      "sentiment": {
+        "score": -0.652486,
+        "label": "negative"
+      },
+      "relevance": 0.666523,
+      "emotion": {
+        "sadness": 0.254424,
+        "joy": 0.064884,
+        "fear": 0.378839,
+        "disgust": 0.359625,
+        "anger": 0.275412
+      },
+      "count": 1
+    },
+    {
+      "text": "Mr. Jones",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636487,
+      "emotion": {
+        "sadness": 0.05541,
+        "joy": 0.648571,
+        "fear": 0.047021,
+        "disgust": 0.141101,
+        "anger": 0.086711
+      },
+      "count": 1
+    },
+    {
+      "text": "online forums",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.629585,
+      "emotion": {
+        "sadness": 0.101218,
+        "joy": 0.436563,
+        "fear": 0.108618,
+        "disgust": 0.148176,
+        "anger": 0.076198
+      },
+      "count": 1
+    },
+    {
+      "text": "satanic child pornography ring",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.626626,
+      "emotion": {
+        "sadness": 0.101218,
+        "joy": 0.436563,
+        "fear": 0.108618,
+        "disgust": 0.148176,
+        "anger": 0.076198
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Alex Jones",
+      "sentiment": {
+        "score": -0.518975,
+        "label": "negative"
+      },
+      "relevance": 0.881851,
+      "mentions": [
+        {
+          "text": "Alex Jones",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Alex Jones",
+          "location": [
+            53,
+            63
+          ]
+        },
+        {
+          "text": "Mr. Jones",
+          "location": [
+            251,
+            260
+          ]
+        },
+        {
+          "text": "Alex Jones",
+          "location": [
+            279,
+            289
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            410,
+            412
+          ]
+        },
+        {
+          "text": "Mr. Jones",
+          "location": [
+            941,
+            950
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151768,
+        "joy": 0.532868,
+        "fear": 0.150112,
+        "disgust": 0.233771,
+        "anger": 0.131465
+      },
+      "count": 6
+    },
+    {
+      "type": "Organization",
+      "text": "Sandy Hook Elementary School",
+      "sentiment": {
+        "score": -0.518975,
+        "label": "negative"
+      },
+      "relevance": 0.192934,
+      "mentions": [
+        {
+          "text": "Sandy Hook Elementary School",
+          "location": [
+            544,
+            572
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.189832,
+        "joy": 0.057963,
+        "fear": 0.418965,
+        "disgust": 0.34316,
+        "anger": 0.335275
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Pizzagate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.18191,
+      "mentions": [
+        {
+          "text": "Pizzagate",
+          "location": [
+            213,
+            222
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.092243,
+        "joy": 0.256063,
+        "fear": 0.061352,
+        "disgust": 0.230982,
+        "anger": 0.031344
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.940876,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Conspiracy theory",
+      "relevance": 0.90459,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conspiracy_theory"
+    },
+    {
+      "text": "Conspiracy?",
+      "relevance": 0.77152,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conspiracy?"
+    },
+    {
+      "text": "Conspiracy theories",
+      "relevance": 0.715724,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conspiracy_theories"
+    },
+    {
+      "text": "Child pornography",
+      "relevance": 0.710408,
+      "dbpedia_resource": "http://dbpedia.org/resource/Child_pornography"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.661757,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

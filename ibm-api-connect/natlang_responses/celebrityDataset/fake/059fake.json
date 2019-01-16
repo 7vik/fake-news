@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 75,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tory ministers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.985432,
+      "emotion": {
+        "sadness": 0.275502,
+        "joy": 0.181848,
+        "fear": 0.034062,
+        "disgust": 0.62309,
+        "anger": 0.046034
+      },
+      "count": 1
+    },
+    {
+      "text": "Princess Diana",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885021,
+      "emotion": {
+        "sadness": 0.275502,
+        "joy": 0.181848,
+        "fear": 0.034062,
+        "disgust": 0.62309,
+        "anger": 0.046034
+      },
+      "count": 1
+    },
+    {
+      "text": "iconic gay bar",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.32542,
+      "emotion": {
+        "sadness": 0.275502,
+        "joy": 0.181848,
+        "fear": 0.034062,
+        "disgust": 0.62309,
+        "anger": 0.046034
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Princess Diana",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Princess Diana",
+          "location": [
+            60,
+            74
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.275502,
+        "joy": 0.181848,
+        "fear": 0.034062,
+        "disgust": 0.62309,
+        "anger": 0.046034
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Charles II of England",
+      "relevance": 0.908737,
+      "dbpedia_resource": "http://dbpedia.org/resource/Charles_II_of_England"
+    },
+    {
+      "text": "Diana, Princess of Wales",
+      "relevance": 0.85974,
+      "dbpedia_resource": "http://dbpedia.org/resource/Diana,_Princess_of_Wales"
+    },
+    {
+      "text": "Bar",
+      "relevance": 0.8211,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bar_(establishment)"
+    },
+    {
+      "text": "Elizabeth II of the United Kingdom",
+      "relevance": 0.816673,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elizabeth_II_of_the_United_Kingdom"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.870349,
+      "label": "/society/gay life"
+    }
+  ]
+}

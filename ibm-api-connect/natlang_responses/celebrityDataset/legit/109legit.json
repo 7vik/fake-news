@@ -1,0 +1,275 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1066,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.450299,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New Crystal Gardenia Fragrance",
+      "sentiment": {
+        "score": -0.678345,
+        "label": "negative"
+      },
+      "relevance": 0.847186,
+      "emotion": {
+        "sadness": 0.106938,
+        "joy": 0.851508,
+        "fear": 0.020097,
+        "disgust": 0.011703,
+        "anger": 0.010985
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.678345,
+        "label": "negative"
+      },
+      "relevance": 0.755166,
+      "emotion": {
+        "sadness": 0.106938,
+        "joy": 0.851508,
+        "fear": 0.020097,
+        "disgust": 0.011703,
+        "anger": 0.010985
+      },
+      "count": 1
+    },
+    {
+      "text": "citrine bring\u00a0happiness",
+      "sentiment": {
+        "score": 0.839653,
+        "label": "positive"
+      },
+      "relevance": 0.690285,
+      "emotion": {
+        "sadness": 0.031907,
+        "joy": 0.858437,
+        "fear": 0.012819,
+        "disgust": 0.007078,
+        "anger": 0.004532
+      },
+      "count": 1
+    },
+    {
+      "text": "whole Paris situation",
+      "sentiment": {
+        "score": 0.732633,
+        "label": "positive"
+      },
+      "relevance": 0.665165,
+      "emotion": {
+        "sadness": 0.356396,
+        "joy": 0.484633,
+        "fear": 0.079116,
+        "disgust": 0.064151,
+        "anger": 0.047492
+      },
+      "count": 1
+    },
+    {
+      "text": "healing properties",
+      "sentiment": {
+        "score": 0.839653,
+        "label": "positive"
+      },
+      "relevance": 0.654852,
+      "emotion": {
+        "sadness": 0.031907,
+        "joy": 0.858437,
+        "fear": 0.012819,
+        "disgust": 0.007078,
+        "anger": 0.004532
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.546837,
+        "label": "positive"
+      },
+      "relevance": 0.9473,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.038591,
+        "joy": 0.88441,
+        "fear": 0.021643,
+        "disgust": 0.020442,
+        "anger": 0.024299
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Crystal Gardenia",
+      "sentiment": {
+        "score": 0.593158,
+        "label": "positive"
+      },
+      "relevance": 0.923248,
+      "mentions": [
+        {
+          "text": "Crystal Gardenia",
+          "location": [
+            166,
+            182
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.024938,
+        "joy": 0.874388,
+        "fear": 0.030403,
+        "disgust": 0.024315,
+        "anger": 0.021766
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": 0.673652,
+        "label": "positive"
+      },
+      "relevance": 0.886335,
+      "mentions": [
+        {
+          "text": "Kim Kardashian West",
+          "location": [
+            122,
+            141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Keltie Knight",
+      "sentiment": {
+        "score": 0.065019,
+        "label": "positive"
+      },
+      "relevance": 0.845266,
+      "mentions": [
+        {
+          "text": "Keltie Knight",
+          "location": [
+            445,
+            458
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            694,
+            696
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277973,
+        "joy": 0.580562,
+        "fear": 0.09967,
+        "disgust": 0.0243,
+        "anger": 0.047851
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kim",
+      "sentiment": {
+        "score": 0.498419,
+        "label": "positive"
+      },
+      "relevance": 0.695724,
+      "mentions": [
+        {
+          "text": "Kim",
+          "location": [
+            431,
+            434
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.028763,
+        "joy": 0.850852,
+        "fear": 0.028949,
+        "disgust": 0.04465,
+        "anger": 0.028754
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Piezoelectricity",
+      "relevance": 0.9287,
+      "dbpedia_resource": "http://dbpedia.org/resource/Piezoelectricity"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.886815,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.873562,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Crystal oscillator",
+      "relevance": 0.87228,
+      "dbpedia_resource": "http://dbpedia.org/resource/Crystal_oscillator"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.702079,
+      "label": "/style and fashion/beauty/perfume"
+    }
+  ]
+}

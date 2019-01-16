@@ -1,0 +1,317 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 678,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ms. Graff",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.921291,
+      "emotion": {
+        "sadness": 0.235958,
+        "joy": 0.150811,
+        "fear": 0.198634,
+        "disgust": 0.173673,
+        "anger": 0.109581
+      },
+      "count": 2
+    },
+    {
+      "text": "major White House figure",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.866163,
+      "emotion": {
+        "sadness": 0.242732,
+        "joy": 0.129776,
+        "fear": 0.19448,
+        "disgust": 0.127906,
+        "anger": 0.084484
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump's Gatekeeper",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.795782,
+      "emotion": {
+        "sadness": 0.146998,
+        "joy": 0.081208,
+        "fear": 0.185829,
+        "disgust": 0.161817,
+        "anger": 0.409378
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.772337,
+      "emotion": {
+        "sadness": 0.242732,
+        "joy": 0.129776,
+        "fear": 0.19448,
+        "disgust": 0.127906,
+        "anger": 0.084484
+      },
+      "count": 1
+    },
+    {
+      "text": "White House officials",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.717079,
+      "emotion": {
+        "sadness": 0.097225,
+        "joy": 0.420957,
+        "fear": 0.128361,
+        "disgust": 0.392594,
+        "anger": 0.090842
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ms. Graff",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.982487,
+      "mentions": [
+        {
+          "text": "Ms. Graff",
+          "location": [
+            201,
+            210
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            355,
+            358
+          ]
+        },
+        {
+          "text": "Graff",
+          "location": [
+            516,
+            521
+          ]
+        },
+        {
+          "text": "Ms. Graff",
+          "location": [
+            647,
+            656
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.085731,
+        "joy": 0.363351,
+        "fear": 0.192359,
+        "disgust": 0.256334,
+        "anger": 0.223621
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.876806,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            270,
+            281
+          ]
+        },
+        {
+          "text": "White House",
+          "location": [
+            326,
+            337
+          ]
+        },
+        {
+          "text": "White House",
+          "location": [
+            475,
+            486
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145072,
+        "joy": 0.286298,
+        "fear": 0.231276,
+        "disgust": 0.2285,
+        "anger": 0.175222
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.58799,
+        "label": "positive"
+      },
+      "relevance": 0.744477,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            36,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.527275,
+        "label": "negative"
+      },
+      "relevance": 0.707057,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            74,
+            83
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            314,
+            323
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            573,
+            582
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.351077,
+        "joy": 0.104524,
+        "fear": 0.045261,
+        "disgust": 0.565004,
+        "anger": 0.091749
+      },
+      "count": 3
+    },
+    {
+      "type": "Facility",
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.533354,
+      "mentions": [
+        {
+          "text": "Trump Tower",
+          "location": [
+            231,
+            242
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.254635,
+        "joy": 0.116697,
+        "fear": 0.194624,
+        "disgust": 0.129909,
+        "anger": 0.078734
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.945097,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Theodore Roosevelt",
+      "relevance": 0.623227,
+      "dbpedia_resource": "http://dbpedia.org/resource/Theodore_Roosevelt"
+    },
+    {
+      "text": "Herbert Hoover",
+      "relevance": 0.6083,
+      "dbpedia_resource": "http://dbpedia.org/resource/Herbert_Hoover"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.606183,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Richard Nixon",
+      "relevance": 0.601631,
+      "dbpedia_resource": "http://dbpedia.org/resource/Richard_Nixon"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.866546,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

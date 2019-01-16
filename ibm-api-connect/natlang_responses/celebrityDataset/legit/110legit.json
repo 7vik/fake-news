@@ -1,0 +1,330 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 737,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.628837,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Katharine McPhee",
+      "sentiment": {
+        "score": 0.739464,
+        "label": "positive"
+      },
+      "relevance": 0.936501,
+      "emotion": {
+        "sadness": 0.083701,
+        "joy": 0.869092,
+        "fear": 0.012051,
+        "disgust": 0.008463,
+        "anger": 0.036505
+      },
+      "count": 2
+    },
+    {
+      "text": "December issue of Health magazine",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.817357,
+      "emotion": {
+        "sadness": 0.182537,
+        "joy": 0.740769,
+        "fear": 0.030903,
+        "disgust": 0.01254,
+        "anger": 0.036166
+      },
+      "count": 1
+    },
+    {
+      "text": "David Foster",
+      "sentiment": {
+        "score": 0.739464,
+        "label": "positive"
+      },
+      "relevance": 0.782916,
+      "emotion": {
+        "sadness": 0.1121,
+        "joy": 0.84993,
+        "fear": 0.005603,
+        "disgust": 0.003587,
+        "anger": 0.030448
+      },
+      "count": 1
+    },
+    {
+      "text": "Instagram story of Katharine McPhee",
+      "sentiment": {
+        "score": -0.272666,
+        "label": "negative"
+      },
+      "relevance": 0.709193,
+      "emotion": {
+        "sadness": 0.102288,
+        "joy": 0.730492,
+        "fear": 0.08968,
+        "disgust": 0.072055,
+        "anger": 0.051478
+      },
+      "count": 1
+    },
+    {
+      "text": "Record Straight",
+      "sentiment": {
+        "score": 0.739464,
+        "label": "positive"
+      },
+      "relevance": 0.650849,
+      "emotion": {
+        "sadness": 0.075219,
+        "joy": 0.881052,
+        "fear": 0.005095,
+        "disgust": 0.006123,
+        "anger": 0.02132
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katharine McPhee",
+      "sentiment": {
+        "score": 0.747193,
+        "label": "positive"
+      },
+      "relevance": 0.860582,
+      "mentions": [
+        {
+          "text": "Katharine McPhee",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Katharine McPhee",
+          "location": [
+            92,
+            108
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            134,
+            137
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            151,
+            154
+          ]
+        },
+        {
+          "text": "Katharine",
+          "location": [
+            228,
+            237
+          ]
+        },
+        {
+          "text": "Katharine McPhee",
+          "location": [
+            395,
+            411
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.155941,
+        "joy": 0.747927,
+        "fear": 0.084186,
+        "disgust": 0.137493,
+        "anger": 0.048051
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Katharine McPhee",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katharine_McPhee"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "David Foster",
+      "sentiment": {
+        "score": 0.393302,
+        "label": "positive"
+      },
+      "relevance": 0.28153,
+      "mentions": [
+        {
+          "text": "David Foster",
+          "location": [
+            79,
+            91
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296012,
+        "joy": 0.079295,
+        "fear": 0.072309,
+        "disgust": 0.420384,
+        "anger": 0.073443
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "David Foster",
+        "dbpedia_resource": "http://dbpedia.org/resource/David_Foster"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "David Foster.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.205177,
+      "mentions": [
+        {
+          "text": "David Foster.",
+          "location": [
+            297,
+            310
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.273196,
+        "joy": 0.48011,
+        "fear": 0.02741,
+        "disgust": 0.043009,
+        "anger": 0.039081
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "David",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.204353,
+      "mentions": [
+        {
+          "text": "David",
+          "location": [
+            330,
+            335
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "American Idol",
+      "sentiment": {
+        "score": 0.530675,
+        "label": "positive"
+      },
+      "relevance": 0.199904,
+      "mentions": [
+        {
+          "text": "American Idol",
+          "location": [
+            507,
+            520
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.273196,
+        "joy": 0.48011,
+        "fear": 0.02741,
+        "disgust": 0.043009,
+        "anger": 0.039081
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "TVSeason"
+        ],
+        "name": "American Idol",
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Katharine McPhee",
+      "relevance": 0.946659,
+      "dbpedia_resource": "http://dbpedia.org/resource/Katharine_McPhee"
+    },
+    {
+      "text": "American Idol",
+      "relevance": 0.600644,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Idol_(season_5)"
+    },
+    {
+      "text": "American Idol",
+      "relevance": 0.556004,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+    },
+    {
+      "text": "Andrea Bocelli",
+      "relevance": 0.479492,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andrea_Bocelli"
+    },
+    {
+      "text": "Elliott Yamin",
+      "relevance": 0.446578,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elliott_Yamin"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.635044,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

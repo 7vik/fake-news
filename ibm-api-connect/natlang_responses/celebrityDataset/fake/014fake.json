@@ -1,0 +1,149 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.651395,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998588,
+      "emotion": {
+        "sadness": 0.206244,
+        "joy": 0.052369,
+        "fear": 0.698874,
+        "disgust": 0.067195,
+        "anger": 0.148356
+      },
+      "count": 1
+    },
+    {
+      "text": "Nervous Breakdown",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.941356,
+      "emotion": {
+        "sadness": 0.206244,
+        "joy": 0.052369,
+        "fear": 0.698874,
+        "disgust": 0.067195,
+        "anger": 0.148356
+      },
+      "count": 1
+    },
+    {
+      "text": "Edge",
+      "sentiment": {
+        "score": -0.651395,
+        "label": "negative"
+      },
+      "relevance": 0.680623,
+      "emotion": {
+        "sadness": 0.76774,
+        "joy": 0.157721,
+        "fear": 0.068764,
+        "disgust": 0.026023,
+        "anger": 0.078126
+      },
+      "count": 1
+    },
+    {
+      "text": "Anniversary of Mom",
+      "sentiment": {
+        "score": -0.651395,
+        "label": "negative"
+      },
+      "relevance": 0.646912,
+      "emotion": {
+        "sadness": 0.76774,
+        "joy": 0.157721,
+        "fear": 0.068764,
+        "disgust": 0.026023,
+        "anger": 0.078126
+      },
+      "count": 1
+    },
+    {
+      "text": "Funeral",
+      "sentiment": {
+        "score": -0.651395,
+        "label": "negative"
+      },
+      "relevance": 0.58449,
+      "emotion": {
+        "sadness": 0.76774,
+        "joy": 0.157721,
+        "fear": 0.068764,
+        "disgust": 0.026023,
+        "anger": 0.078126
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.318998,
+        "label": "positive"
+      },
+      "relevance": 0.992203,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.335828,
+        "joy": 0.161399,
+        "fear": 0.045748,
+        "disgust": 0.087825,
+        "anger": 0.130488
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sampling",
+      "relevance": 0.919922,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sampling_(music)"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.87576,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.729287,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

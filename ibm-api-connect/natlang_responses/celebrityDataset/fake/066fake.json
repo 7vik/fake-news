@@ -1,0 +1,124 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ROSIE O",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999684,
+      "emotion": {
+        "sadness": 0.360085,
+        "joy": 0.07381,
+        "fear": 0.419373,
+        "disgust": 0.190401,
+        "anger": 0.215163
+      },
+      "count": 1
+    },
+    {
+      "text": "HOUSEWIVES",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636172,
+      "emotion": {
+        "sadness": 0.360085,
+        "joy": 0.07381,
+        "fear": 0.419373,
+        "disgust": 0.190401,
+        "anger": 0.215163
+      },
+      "count": 1
+    },
+    {
+      "text": "NEIGHBORS",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.360085,
+        "joy": 0.07381,
+        "fear": 0.419373,
+        "disgust": 0.190401,
+        "anger": 0.215163
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "ROSIE O",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "ROSIE O",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.239118,
+        "joy": 0.049988,
+        "fear": 0.689587,
+        "disgust": 0.159033,
+        "anger": 0.07671
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Rosie O'Donnell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Rosie O'Donnell",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.596792,
+      "label": "/travel/traveling with kids"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 801,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.662244,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Colombia University Busts",
+      "sentiment": {
+        "score": -0.569325,
+        "label": "negative"
+      },
+      "relevance": 0.920931,
+      "emotion": {
+        "sadness": 0.179769,
+        "joy": 0.182095,
+        "fear": 0.059906,
+        "disgust": 0.146724,
+        "anger": 0.102248
+      },
+      "count": 1
+    },
+    {
+      "text": "Colombia University Mailman School applicant",
+      "sentiment": {
+        "score": -0.292809,
+        "label": "negative"
+      },
+      "relevance": 0.764805,
+      "emotion": {
+        "sadness": 0.171066,
+        "joy": 0.342856,
+        "fear": 0.074376,
+        "disgust": 0.052206,
+        "anger": 0.291817
+      },
+      "count": 1
+    },
+    {
+      "text": "Steve Harvey",
+      "sentiment": {
+        "score": -0.569325,
+        "label": "negative"
+      },
+      "relevance": 0.687846,
+      "emotion": {
+        "sadness": 0.686226,
+        "joy": 0.139156,
+        "fear": 0.129178,
+        "disgust": 0.072818,
+        "anger": 0.09421
+      },
+      "count": 1
+    },
+    {
+      "text": "prospective students",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.681901,
+      "emotion": {
+        "sadness": 0.377356,
+        "joy": 0.023972,
+        "fear": 0.177993,
+        "disgust": 0.269957,
+        "anger": 0.476494
+      },
+      "count": 1
+    },
+    {
+      "text": "moment",
+      "sentiment": {
+        "score": -0.896854,
+        "label": "negative"
+      },
+      "relevance": 0.58158,
+      "emotion": {
+        "sadness": 0.805584,
+        "joy": 0.070735,
+        "fear": 0.102294,
+        "disgust": 0.048569,
+        "anger": 0.162582
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Steve Harvey",
+      "sentiment": {
+        "score": -0.490536,
+        "label": "negative"
+      },
+      "relevance": 0.823788,
+      "mentions": [
+        {
+          "text": "Steve Harvey",
+          "location": [
+            28,
+            40
+          ]
+        },
+        {
+          "text": "Steve Harvey",
+          "location": [
+            474,
+            486
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            563,
+            565
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.653551,
+        "joy": 0.153035,
+        "fear": 0.129763,
+        "disgust": 0.066042,
+        "anger": 0.087186
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor",
+          "BroadcastArtist",
+          "BroadcastContent",
+          "FilmWriter"
+        ],
+        "name": "Steve Harvey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_Harvey"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Colombia University Mailman School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.686878,
+      "mentions": [
+        {
+          "text": "Colombia University Mailman School",
+          "location": [
+            50,
+            84
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.26077,
+        "joy": 0.112078,
+        "fear": 0.12305,
+        "disgust": 0.103984,
+        "anger": 0.390022
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Colombia University",
+      "sentiment": {
+        "score": -0.525272,
+        "label": "negative"
+      },
+      "relevance": 0.569302,
+      "mentions": [
+        {
+          "text": "Colombia University",
+          "location": [
+            0,
+            19
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.179769,
+        "joy": 0.182095,
+        "fear": 0.059906,
+        "disgust": 0.146724,
+        "anger": 0.102248
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Columbia University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Columbia_University"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Debut albums",
+      "relevance": 0.907751,
+      "dbpedia_resource": "http://dbpedia.org/resource/Debut_albums"
+    },
+    {
+      "text": "2006 albums",
+      "relevance": 0.770585,
+      "dbpedia_resource": "http://dbpedia.org/resource/2006_albums"
+    },
+    {
+      "text": "Future",
+      "relevance": 0.708968,
+      "dbpedia_resource": "http://dbpedia.org/resource/Future"
+    },
+    {
+      "text": "2004 albums",
+      "relevance": 0.707264,
+      "dbpedia_resource": "http://dbpedia.org/resource/2004_albums"
+    },
+    {
+      "text": "Association of American Universities",
+      "relevance": 0.696694,
+      "dbpedia_resource": "http://dbpedia.org/resource/Association_of_American_Universities"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.679186,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

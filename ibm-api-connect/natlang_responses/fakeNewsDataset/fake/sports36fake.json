@@ -1,0 +1,336 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 829,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.658284,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "first team",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.71948,
+      "emotion": {
+        "sadness": 0.083609,
+        "joy": 0.82133,
+        "fear": 0.018505,
+        "disgust": 0.036035,
+        "anger": 0.014557
+      },
+      "count": 1
+    },
+    {
+      "text": "Philippe Countinho",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711253,
+      "emotion": {
+        "sadness": 0.185495,
+        "joy": 0.220953,
+        "fear": 0.116348,
+        "disgust": 0.241366,
+        "anger": 0.210275
+      },
+      "count": 1
+    },
+    {
+      "text": "late goals",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706518,
+      "emotion": {
+        "sadness": 0.685836,
+        "joy": 0.049065,
+        "fear": 0.090638,
+        "disgust": 0.013292,
+        "anger": 0.088351
+      },
+      "count": 1
+    },
+    {
+      "text": "World Cup",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.653769,
+      "emotion": {
+        "sadness": 0.093385,
+        "joy": 0.804656,
+        "fear": 0.024897,
+        "disgust": 0.075662,
+        "anger": 0.01517
+      },
+      "count": 2
+    },
+    {
+      "text": "qualifying campaign Paraguay",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.651709,
+      "emotion": {
+        "sadness": 0.113154,
+        "joy": 0.728602,
+        "fear": 0.035189,
+        "disgust": 0.129005,
+        "anger": 0.0182
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Paraguay",
+      "sentiment": {
+        "score": -0.449264,
+        "label": "negative"
+      },
+      "relevance": 0.909645,
+      "mentions": [
+        {
+          "text": "Paraguay",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            54,
+            62
+          ]
+        },
+        {
+          "text": "the first team",
+          "location": [
+            70,
+            84
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            313,
+            321
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            448,
+            456
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            634,
+            642
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            726,
+            734
+          ]
+        },
+        {
+          "text": "the first country",
+          "location": [
+            743,
+            760
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.608952,
+        "joy": 0.676475,
+        "fear": 0.055686,
+        "disgust": 0.096401,
+        "anger": 0.043283
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "sentiment": {
+        "score": -0.408679,
+        "label": "negative"
+      },
+      "relevance": 0.65569,
+      "mentions": [
+        {
+          "text": "Brazil",
+          "location": [
+            17,
+            23
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            167,
+            173
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            205,
+            211
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            382,
+            388
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            477,
+            483
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.394225,
+        "joy": 0.548471,
+        "fear": 0.034964,
+        "disgust": 0.037862,
+        "anger": 0.017073
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Russia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.222615,
+      "mentions": [
+        {
+          "text": "Russia",
+          "location": [
+            122,
+            128
+          ]
+        },
+        {
+          "text": "Russia",
+          "location": [
+            811,
+            817
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.083823,
+        "joy": 0.817125,
+        "fear": 0.01875,
+        "disgust": 0.076411,
+        "anger": 0.013754
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Russia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Philippe Countinho",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.146157,
+      "mentions": [
+        {
+          "text": "Philippe Countinho",
+          "location": [
+            486,
+            504
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142115,
+        "joy": 0.20978,
+        "fear": 0.074216,
+        "disgust": 0.437257,
+        "anger": 0.146385
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "FIFA World Cup",
+      "relevance": 0.935148,
+      "dbpedia_resource": "http://dbpedia.org/resource/FIFA_World_Cup"
+    },
+    {
+      "text": "2018 and 2022 FIFA World Cup bids",
+      "relevance": 0.899393,
+      "dbpedia_resource": "http://dbpedia.org/resource/2018_and_2022_FIFA_World_Cup_bids"
+    },
+    {
+      "text": "Brazil",
+      "relevance": 0.871524,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+      "text": "Argentina",
+      "relevance": 0.757326,
+      "dbpedia_resource": "http://dbpedia.org/resource/Argentina"
+    },
+    {
+      "text": "Uruguay",
+      "relevance": 0.755518,
+      "dbpedia_resource": "http://dbpedia.org/resource/Uruguay"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.742308,
+      "label": "/sports/soccer"
+    }
+  ]
+}

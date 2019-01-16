@@ -1,0 +1,337 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 798,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.634012,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Instragram photo",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.883567,
+      "emotion": {
+        "sadness": 0.034704,
+        "joy": 0.332119,
+        "fear": 0.027899,
+        "disgust": 0.017701,
+        "anger": 0.038583
+      },
+      "count": 1
+    },
+    {
+      "text": "Instagram post",
+      "sentiment": {
+        "score": 0.847399,
+        "label": "positive"
+      },
+      "relevance": 0.698574,
+      "emotion": {
+        "sadness": 0.030945,
+        "joy": 0.901222,
+        "fear": 0.010847,
+        "disgust": 0.011382,
+        "anger": 0.02784
+      },
+      "count": 1
+    },
+    {
+      "text": "Alfonso Ribeiro",
+      "sentiment": {
+        "score": 0.847399,
+        "label": "positive"
+      },
+      "relevance": 0.638202,
+      "emotion": {
+        "sadness": 0.030945,
+        "joy": 0.901222,
+        "fear": 0.010847,
+        "disgust": 0.011382,
+        "anger": 0.02784
+      },
+      "count": 1
+    },
+    {
+      "text": "Fresh Prince Pals",
+      "sentiment": {
+        "score": 0.852378,
+        "label": "positive"
+      },
+      "relevance": 0.602381,
+      "emotion": {
+        "sadness": 0.042385,
+        "joy": 0.749529,
+        "fear": 0.06075,
+        "disgust": 0.027978,
+        "anger": 0.072124
+      },
+      "count": 1
+    },
+    {
+      "text": "New Show",
+      "sentiment": {
+        "score": 0.852378,
+        "label": "positive"
+      },
+      "relevance": 0.59635,
+      "emotion": {
+        "sadness": 0.042385,
+        "joy": 0.749529,
+        "fear": 0.06075,
+        "disgust": 0.027978,
+        "anger": 0.072124
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Will Smith",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.856722,
+      "mentions": [
+        {
+          "text": "Will Smith",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Smith",
+          "location": [
+            65,
+            70
+          ]
+        },
+        {
+          "text": "Smith",
+          "location": [
+            660,
+            665
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.18444,
+        "fear": 0.094528,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVDirector",
+          "TVPersonality",
+          "TVProducer"
+        ],
+        "name": "Will Smith",
+        "dbpedia_resource": "http://dbpedia.org/resource/Will_Smith"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Fresh Prince Pals",
+      "sentiment": {
+        "score": 0.967392,
+        "label": "positive"
+      },
+      "relevance": 0.589547,
+      "mentions": [
+        {
+          "text": "Fresh Prince Pals",
+          "location": [
+            25,
+            42
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.042385,
+        "joy": 0.749529,
+        "fear": 0.06075,
+        "disgust": 0.027978,
+        "anger": 0.072124
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alfonso Ribeiro",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.57315,
+      "mentions": [
+        {
+          "text": "Alfonso Ribeiro",
+          "location": [
+            279,
+            294
+          ]
+        },
+        {
+          "text": "Ribeiro",
+          "location": [
+            670,
+            677
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Alfonso Ribeiro",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alfonso_Ribeiro"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "James Avery",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.409373,
+      "mentions": [
+        {
+          "text": "James Avery",
+          "location": [
+            416,
+            427
+          ]
+        },
+        {
+          "text": "Avery",
+          "location": [
+            470,
+            475
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.078824,
+        "joy": 0.506841,
+        "fear": 0.107606,
+        "disgust": 0.054525,
+        "anger": 0.11138
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "MilitaryPerson",
+          "TVActor"
+        ],
+        "name": "James Avery (actor)",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Avery_(actor)"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Daphne Maxwell Reid",
+      "sentiment": {
+        "score": 0.405237,
+        "label": "positive"
+      },
+      "relevance": 0.31857,
+      "mentions": [
+        {
+          "text": "Daphne Maxwell Reid",
+          "location": [
+            737,
+            756
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ],
+        "name": "Daphne Maxwell Reid",
+        "dbpedia_resource": "http://dbpedia.org/resource/Daphne_Maxwell_Reid"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Fresh Prince of Bel-Air",
+      "relevance": 0.966981,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Fresh_Prince_of_Bel-Air"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.590875,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "African American actors",
+      "relevance": 0.465008,
+      "dbpedia_resource": "http://dbpedia.org/resource/African_American_actors"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.410991,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Will Smith",
+      "relevance": 0.333317,
+      "dbpedia_resource": "http://dbpedia.org/resource/Will_Smith"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.613534,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

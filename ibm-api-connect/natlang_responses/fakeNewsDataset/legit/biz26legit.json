@@ -1,0 +1,249 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 786,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.75298,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "week  hosts Dan Moss",
+      "sentiment": {
+        "score": 0.682556,
+        "label": "positive"
+      },
+      "relevance": 0.798961,
+      "emotion": {
+        "sadness": 0.171174,
+        "joy": 0.601405,
+        "fear": 0.074921,
+        "disgust": 0.136329,
+        "anger": 0.095358
+      },
+      "count": 1
+    },
+    {
+      "text": "Sadik Kukic",
+      "sentiment": {
+        "score": 0.522637,
+        "label": "positive"
+      },
+      "relevance": 0.789576,
+      "emotion": {
+        "sadness": 0.125776,
+        "joy": 0.509044,
+        "fear": 0.047934,
+        "disgust": 0.128166,
+        "anger": 0.077102
+      },
+      "count": 1
+    },
+    {
+      "text": "industrial Midwestern America",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.685341,
+      "emotion": {
+        "sadness": 0.217008,
+        "joy": 0.306859,
+        "fear": 0.023401,
+        "disgust": 0.131034,
+        "anger": 0.112924
+      },
+      "count": 1
+    },
+    {
+      "text": "wave of Bosnian refugees",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.618955,
+      "emotion": {
+        "sadness": 0.511611,
+        "joy": 0.211127,
+        "fear": 0.107981,
+        "disgust": 0.271362,
+        "anger": 0.087555
+      },
+      "count": 1
+    },
+    {
+      "text": "Red State City Fell",
+      "sentiment": {
+        "score": 0.682556,
+        "label": "positive"
+      },
+      "relevance": 0.609778,
+      "emotion": {
+        "sadness": 0.082683,
+        "joy": 0.713406,
+        "fear": 0.019511,
+        "disgust": 0.150492,
+        "anger": 0.081399
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Bosnian Chamber of Commerce",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.841076,
+      "mentions": [
+        {
+          "text": "Bosnian Chamber of Commerce",
+          "location": [
+            728,
+            755
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.111906,
+        "joy": 0.238013,
+        "fear": 0.04446,
+        "disgust": 0.142092,
+        "anger": 0.150374
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dan Moss",
+      "sentiment": {
+        "score": -0.597365,
+        "label": "negative"
+      },
+      "relevance": 0.72062,
+      "mentions": [
+        {
+          "text": "Dan Moss",
+          "location": [
+            75,
+            83
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.171174,
+        "joy": 0.601405,
+        "fear": 0.074921,
+        "disgust": 0.136329,
+        "anger": 0.095358
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.644115,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            227,
+            239
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217008,
+        "joy": 0.306859,
+        "fear": 0.023401,
+        "disgust": 0.131034,
+        "anger": 0.112924
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Scott Lanman",
+      "sentiment": {
+        "score": -0.597365,
+        "label": "negative"
+      },
+      "relevance": 0.631148,
+      "mentions": [
+        {
+          "text": "Scott Lanman",
+          "location": [
+            88,
+            100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.171174,
+        "joy": 0.601405,
+        "fear": 0.074921,
+        "disgust": 0.136329,
+        "anger": 0.095358
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.97418,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Illinois",
+      "relevance": 0.569658,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+      "text": "Chicago",
+      "relevance": 0.53376,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.520677,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.506237,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.941511,
+      "label": "/religion and spirituality/islam"
+    }
+  ]
+}

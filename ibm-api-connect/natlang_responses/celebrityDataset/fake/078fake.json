@@ -1,0 +1,136 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Portia cancel appearance",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.973127,
+      "emotion": {
+        "sadness": 0.626833,
+        "joy": 0.228485,
+        "fear": 0.0578,
+        "disgust": 0.033808,
+        "anger": 0.052151
+      },
+      "count": 1
+    },
+    {
+      "text": "Ellen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.899735,
+      "emotion": {
+        "sadness": 0.626833,
+        "joy": 0.228485,
+        "fear": 0.0578,
+        "disgust": 0.033808,
+        "anger": 0.052151
+      },
+      "count": 1
+    },
+    {
+      "text": "epic' fight",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.253309,
+      "emotion": {
+        "sadness": 0.626833,
+        "joy": 0.228485,
+        "fear": 0.0578,
+        "disgust": 0.033808,
+        "anger": 0.052151
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen",
+      "sentiment": {
+        "score": 0.337387,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ellen",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Portia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Portia",
+          "location": [
+            7,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.602404,
+        "joy": 0.208312,
+        "fear": 0.048586,
+        "disgust": 0.023015,
+        "anger": 0.037609
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.868929,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    },
+    {
+      "text": "Portia de Rossi",
+      "relevance": 0.796427,
+      "dbpedia_resource": "http://dbpedia.org/resource/Portia_de_Rossi"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.905502,
+      "label": "/sports/boxing"
+    }
+  ]
+}

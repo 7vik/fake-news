@@ -1,0 +1,335 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 761,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.76296,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Debbie Reynolds",
+      "sentiment": {
+        "score": -0.982691,
+        "label": "negative"
+      },
+      "relevance": 0.860079,
+      "emotion": {
+        "sadness": 0.476171,
+        "joy": 0.198,
+        "fear": 0.114887,
+        "disgust": 0.141266,
+        "anger": 0.249402
+      },
+      "count": 1
+    },
+    {
+      "text": "Carrie Fisher",
+      "sentiment": {
+        "score": -0.982691,
+        "label": "negative"
+      },
+      "relevance": 0.757574,
+      "emotion": {
+        "sadness": 0.476171,
+        "joy": 0.198,
+        "fear": 0.114887,
+        "disgust": 0.141266,
+        "anger": 0.249402
+      },
+      "count": 2
+    },
+    {
+      "text": "mother Debbie Reynolds",
+      "sentiment": {
+        "score": -0.982691,
+        "label": "negative"
+      },
+      "relevance": 0.662285,
+      "emotion": {
+        "sadness": 0.60649,
+        "joy": 0.198473,
+        "fear": 0.144259,
+        "disgust": 0.064069,
+        "anger": 0.147
+      },
+      "count": 1
+    },
+    {
+      "text": "mental health care",
+      "sentiment": {
+        "score": 0.626391,
+        "label": "positive"
+      },
+      "relevance": 0.638744,
+      "emotion": {
+        "sadness": 0.529804,
+        "joy": 0.135728,
+        "fear": 0.052632,
+        "disgust": 0.141839,
+        "anger": 0.081391
+      },
+      "count": 1
+    },
+    {
+      "text": "Vanity Fair",
+      "sentiment": {
+        "score": -0.80486,
+        "label": "negative"
+      },
+      "relevance": 0.635151,
+      "emotion": {
+        "sadness": 0.476367,
+        "joy": 0.157522,
+        "fear": 0.077297,
+        "disgust": 0.071449,
+        "anger": 0.117079
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Debbie Reynolds",
+      "sentiment": {
+        "score": -0.619711,
+        "label": "negative"
+      },
+      "relevance": 0.932821,
+      "mentions": [
+        {
+          "text": "Debbie Reynolds",
+          "location": [
+            38,
+            53
+          ]
+        },
+        {
+          "text": "Debbie Reynolds",
+          "location": [
+            162,
+            177
+          ]
+        },
+        {
+          "text": "Reynolds",
+          "location": [
+            538,
+            546
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            682,
+            685
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            722,
+            725
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.432561,
+        "joy": 0.037762,
+        "fear": 0.069978,
+        "disgust": 0.38352,
+        "anger": 0.422553
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Debbie Reynolds",
+        "dbpedia_resource": "http://dbpedia.org/resource/Debbie_Reynolds"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Carrie Fisher",
+      "sentiment": {
+        "score": -0.6744,
+        "label": "negative"
+      },
+      "relevance": 0.605886,
+      "mentions": [
+        {
+          "text": "Carrie Fisher",
+          "location": [
+            20,
+            33
+          ]
+        },
+        {
+          "text": "Carrie Fisher",
+          "location": [
+            133,
+            146
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.472337,
+        "joy": 0.247004,
+        "fear": 0.111677,
+        "disgust": 0.105223,
+        "anger": 0.211758
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Carrie Fisher",
+        "dbpedia_resource": "http://dbpedia.org/resource/Carrie_Fisher"
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Atheist National Temple",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.452972,
+      "mentions": [
+        {
+          "text": "Atheist National Temple",
+          "location": [
+            251,
+            274
+          ]
+        },
+        {
+          "text": "the temple",
+          "location": [
+            526,
+            536
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277376,
+        "joy": 0.13535,
+        "fear": 0.083907,
+        "disgust": 0.120812,
+        "anger": 0.116263
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Billy Bob Todd John",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.297671,
+      "mentions": [
+        {
+          "text": "Billy Bob Todd John",
+          "location": [
+            552,
+            571
+          ]
+        },
+        {
+          "text": "he'd",
+          "location": [
+            629,
+            633
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.451377,
+        "joy": 0.18847,
+        "fear": 0.069733,
+        "disgust": 0.069995,
+        "anger": 0.128483
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Vanity Fair",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.239439,
+      "mentions": [
+        {
+          "text": "Vanity Fair",
+          "location": [
+            577,
+            588
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.485415,
+        "joy": 0.148969,
+        "fear": 0.078889,
+        "disgust": 0.07082,
+        "anger": 0.113527
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Debbie Reynolds",
+      "relevance": 0.914134,
+      "dbpedia_resource": "http://dbpedia.org/resource/Debbie_Reynolds"
+    },
+    {
+      "text": "Health care",
+      "relevance": 0.900019,
+      "dbpedia_resource": "http://dbpedia.org/resource/Health_care"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.852839,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Carrie Fisher",
+      "relevance": 0.837735,
+      "dbpedia_resource": "http://dbpedia.org/resource/Carrie_Fisher"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.814181,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.635561,
+      "label": "/religion and spirituality/atheism and agnosticism"
+    }
+  ]
+}

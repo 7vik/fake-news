@@ -1,0 +1,151 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift Drops Album",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998716,
+      "emotion": {
+        "sadness": 0.608474,
+        "joy": 0.213721,
+        "fear": 0.089812,
+        "disgust": 0.09279,
+        "anger": 0.064193
+      },
+      "count": 1
+    },
+    {
+      "text": "Reputation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.633503,
+      "emotion": {
+        "sadness": 0.608474,
+        "joy": 0.213721,
+        "fear": 0.089812,
+        "disgust": 0.09279,
+        "anger": 0.064193
+      },
+      "count": 1
+    },
+    {
+      "text": "Joe Alywn",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.105357,
+      "emotion": {
+        "sadness": 0.608474,
+        "joy": 0.213721,
+        "fear": 0.089812,
+        "disgust": 0.09279,
+        "anger": 0.064193
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.8223,
+        "joy": 0.110485,
+        "fear": 0.05457,
+        "disgust": 0.061543,
+        "anger": 0.033121
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Joe Alywn",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Joe Alywn",
+          "location": [
+            39,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.171781,
+        "joy": 0.238114,
+        "fear": 0.139878,
+        "disgust": 0.123341,
+        "anger": 0.103352
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.982604,
+      "label": "/careers/career planning"
+    }
+  ]
+}

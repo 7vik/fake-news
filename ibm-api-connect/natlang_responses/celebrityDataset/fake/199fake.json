@@ -1,0 +1,272 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1030,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.521822,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.81786,
+        "label": "negative"
+      },
+      "relevance": 0.903978,
+      "emotion": {
+        "sadness": 0.510875,
+        "joy": 0.045196,
+        "fear": 0.056907,
+        "disgust": 0.126096,
+        "anger": 0.268248
+      },
+      "count": 2
+    },
+    {
+      "text": "indefinite amount of time",
+      "sentiment": {
+        "score": -0.81786,
+        "label": "negative"
+      },
+      "relevance": 0.786173,
+      "emotion": {
+        "sadness": 0.51098,
+        "joy": 0.041114,
+        "fear": 0.104963,
+        "disgust": 0.15313,
+        "anger": 0.249158
+      },
+      "count": 2
+    },
+    {
+      "text": "public events",
+      "sentiment": {
+        "score": -0.56267,
+        "label": "negative"
+      },
+      "relevance": 0.60874,
+      "emotion": {
+        "sadness": 0.467391,
+        "joy": 0.058511,
+        "fear": 0.18258,
+        "disgust": 0.203346,
+        "anger": 0.36246
+      },
+      "count": 1
+    },
+    {
+      "text": "Rumor",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.56785,
+      "emotion": {
+        "sadness": 0.444026,
+        "joy": 0.07576,
+        "fear": 0.253373,
+        "disgust": 0.181919,
+        "anger": 0.156397
+      },
+      "count": 1
+    },
+    {
+      "text": "social media accounts",
+      "sentiment": {
+        "score": -0.81786,
+        "label": "negative"
+      },
+      "relevance": 0.5673,
+      "emotion": {
+        "sadness": 0.477306,
+        "joy": 0.035765,
+        "fear": 0.060974,
+        "disgust": 0.110842,
+        "anger": 0.250592
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.377234,
+        "label": "negative"
+      },
+      "relevance": 0.910366,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            15,
+            25
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            174,
+            178
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            216,
+            218
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            377,
+            382
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            409,
+            411
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            486,
+            489
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            501,
+            503
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            621,
+            624
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            661,
+            663
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            695,
+            702
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            800,
+            805
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.51923,
+        "joy": 0.681955,
+        "fear": 0.090148,
+        "disgust": 0.066221,
+        "anger": 0.119559
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 11
+    },
+    {
+      "type": "Location",
+      "text": "Malibu",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.281315,
+      "mentions": [
+        {
+          "text": "Malibu",
+          "location": [
+            829,
+            835
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Wyoming",
+      "sentiment": {
+        "score": -0.374613,
+        "label": "negative"
+      },
+      "relevance": 0.263843,
+      "emotion": {
+        "sadness": 0.513914,
+        "joy": 0.237943,
+        "fear": 0.05301,
+        "disgust": 0.065038,
+        "anger": 0.210672
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Talk About Our Love",
+      "relevance": 0.928712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Talk_About_Our_Love"
+    },
+    {
+      "text": "Sampling",
+      "relevance": 0.887894,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sampling_(music)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.717983,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

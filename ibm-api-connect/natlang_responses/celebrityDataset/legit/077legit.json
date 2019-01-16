@@ -1,0 +1,137 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.653296,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "AMAL CLOONEY",
+      "sentiment": {
+        "score": 0.653296,
+        "label": "positive"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.169336,
+        "joy": 0.253007,
+        "fear": 0.037873,
+        "disgust": 0.508854,
+        "anger": 0.175376
+      },
+      "count": 1
+    },
+    {
+      "text": "INFLUENTIAL WOMAN",
+      "sentiment": {
+        "score": 0.653296,
+        "label": "positive"
+      },
+      "relevance": 0.997175,
+      "emotion": {
+        "sadness": 0.169336,
+        "joy": 0.253007,
+        "fear": 0.037873,
+        "disgust": 0.508854,
+        "anger": 0.175376
+      },
+      "count": 1
+    },
+    {
+      "text": "LONDON",
+      "sentiment": {
+        "score": 0.653296,
+        "label": "positive"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.169336,
+        "joy": 0.253007,
+        "fear": 0.037873,
+        "disgust": 0.508854,
+        "anger": 0.175376
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "AMAL CLOONEY",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "AMAL CLOONEY",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "THE MOST INFLUENTIAL WOMAN",
+          "location": [
+            16,
+            42
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128618,
+        "joy": 0.253497,
+        "fear": 0.026985,
+        "disgust": 0.48883,
+        "anger": 0.302472
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "LONDON",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "LONDON",
+          "location": [
+            46,
+            52
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.169336,
+        "joy": 0.253007,
+        "fear": 0.037873,
+        "disgust": 0.508854,
+        "anger": 0.175376
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.60205,
+      "label": "/religion and spirituality/hinduism"
+    }
+  ]
+}

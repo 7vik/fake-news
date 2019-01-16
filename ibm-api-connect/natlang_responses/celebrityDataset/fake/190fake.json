@@ -1,0 +1,337 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 670,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.750147,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jay-Z",
+      "sentiment": {
+        "score": -0.57516,
+        "label": "negative"
+      },
+      "relevance": 0.811023,
+      "emotion": {
+        "sadness": 0.087767,
+        "joy": 0.581752,
+        "fear": 0.008137,
+        "disgust": 0.01996,
+        "anger": 0.046434
+      },
+      "count": 2
+    },
+    {
+      "text": "Malibu renta l",
+      "sentiment": {
+        "score": -0.81877,
+        "label": "negative"
+      },
+      "relevance": 0.71914,
+      "emotion": {
+        "sadness": 0.169263,
+        "joy": 0.066959,
+        "fear": 0.09529,
+        "disgust": 0.040433,
+        "anger": 0.070451
+      },
+      "count": 1
+    },
+    {
+      "text": "longtime pal",
+      "sentiment": {
+        "score": -0.252457,
+        "label": "negative"
+      },
+      "relevance": 0.598041,
+      "emotion": {
+        "sadness": 0.100203,
+        "joy": 0.718693,
+        "fear": 0.004804,
+        "disgust": 0.030523,
+        "anger": 0.029464
+      },
+      "count": 1
+    },
+    {
+      "text": "metal detectors",
+      "sentiment": {
+        "score": -0.930649,
+        "label": "negative"
+      },
+      "relevance": 0.565228,
+      "emotion": {
+        "sadness": 0.037046,
+        "joy": 0.110601,
+        "fear": 0.874231,
+        "disgust": 0.033579,
+        "anger": 0.033137
+      },
+      "count": 1
+    },
+    {
+      "text": "Obama\u2019s team",
+      "sentiment": {
+        "score": -0.81877,
+        "label": "negative"
+      },
+      "relevance": 0.562353,
+      "emotion": {
+        "sadness": 0.169263,
+        "joy": 0.066959,
+        "fear": 0.09529,
+        "disgust": 0.040433,
+        "anger": 0.070451
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Barack Obama",
+      "sentiment": {
+        "score": 0.325007,
+        "label": "positive"
+      },
+      "relevance": 0.692761,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            38,
+            43
+          ]
+        },
+        {
+          "text": "President Barack Obama",
+          "location": [
+            159,
+            181
+          ]
+        },
+        {
+          "text": "Obama",
+          "location": [
+            292,
+            297
+          ]
+        },
+        {
+          "text": "Barack",
+          "location": [
+            411,
+            417
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.063111,
+        "joy": 0.584763,
+        "fear": 0.005544,
+        "disgust": 0.070505,
+        "anger": 0.048675
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jay-Z",
+      "sentiment": {
+        "score": 0.325007,
+        "label": "positive"
+      },
+      "relevance": 0.426375,
+      "mentions": [
+        {
+          "text": "Jay-Z",
+          "location": [
+            127,
+            132
+          ]
+        },
+        {
+          "text": "Jay-Z",
+          "location": [
+            282,
+            287
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            369,
+            372
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.032998,
+        "joy": 0.646425,
+        "fear": 0.003241,
+        "disgust": 0.086209,
+        "anger": 0.077956
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVProducer",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor"
+        ],
+        "name": "Jay-Z",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.276651,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158481,
+        "joy": 0.408312,
+        "fear": 0.022795,
+        "disgust": 0.078543,
+        "anger": 0.075484
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.276159,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            28,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158481,
+        "joy": 0.408312,
+        "fear": 0.022795,
+        "disgust": 0.078543,
+        "anger": 0.075484
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rumi",
+      "sentiment": {
+        "score": 0.325007,
+        "label": "positive"
+      },
+      "relevance": 0.227506,
+      "mentions": [
+        {
+          "text": "Rumi",
+          "location": [
+            257,
+            261
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.100203,
+        "joy": 0.718693,
+        "fear": 0.004804,
+        "disgust": 0.030523,
+        "anger": 0.029464
+      },
+      "disambiguation": {
+        "subtype": [
+          "Philosopher"
+        ],
+        "name": "Rumi",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rumi"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.962105,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.826321,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Illinois",
+      "relevance": 0.818369,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+      "text": "Michelle Obama",
+      "relevance": 0.81752,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.769441,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.704375,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

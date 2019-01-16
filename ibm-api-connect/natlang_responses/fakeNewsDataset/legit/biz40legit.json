@@ -1,0 +1,315 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 912,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.822254,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "net neutrality",
+      "sentiment": {
+        "score": -0.791246,
+        "label": "negative"
+      },
+      "relevance": 0.841529,
+      "emotion": {
+        "sadness": 0.412412,
+        "joy": 0.309363,
+        "fear": 0.085523,
+        "disgust": 0.084711,
+        "anger": 0.110063
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.883507,
+        "label": "negative"
+      },
+      "relevance": 0.73267,
+      "emotion": {
+        "sadness": 0.181337,
+        "joy": 0.37353,
+        "fear": 0.092257,
+        "disgust": 0.156099,
+        "anger": 0.199324
+      },
+      "count": 1
+    },
+    {
+      "text": "net neutrality rules",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.716802,
+      "emotion": {
+        "sadness": 0.442653,
+        "joy": 0.204657,
+        "fear": 0.087511,
+        "disgust": 0.082092,
+        "anger": 0.126406
+      },
+      "count": 1
+    },
+    {
+      "text": "protest song",
+      "sentiment": {
+        "score": -0.860631,
+        "label": "negative"
+      },
+      "relevance": 0.68674,
+      "emotion": {
+        "sadness": 0.361707,
+        "joy": 0.309361,
+        "fear": 0.066273,
+        "disgust": 0.198288,
+        "anger": 0.169849
+      },
+      "count": 1
+    },
+    {
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.800506,
+        "label": "negative"
+      },
+      "relevance": 0.665627,
+      "emotion": {
+        "sadness": 0.301847,
+        "joy": 0.217848,
+        "fear": 0.127849,
+        "disgust": 0.225021,
+        "anger": 0.24333
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.739698,
+        "label": "negative"
+      },
+      "relevance": 0.849609,
+      "mentions": [
+        {
+          "text": "Silicon Valley",
+          "location": [
+            4,
+            18
+          ]
+        },
+        {
+          "text": "Silicon Valley",
+          "location": [
+            449,
+            463
+          ]
+        },
+        {
+          "text": "Silicon Valley",
+          "location": [
+            617,
+            631
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.25584,
+        "joy": 0.330623,
+        "fear": 0.111505,
+        "disgust": 0.079253,
+        "anger": 0.128704
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.843214,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            191,
+            206
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            477,
+            482
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            555,
+            560
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211766,
+        "joy": 0.21893,
+        "fear": 0.096641,
+        "disgust": 0.343662,
+        "anger": 0.340953
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Federal Communications Commission",
+      "sentiment": {
+        "score": 0.596415,
+        "label": "positive"
+      },
+      "relevance": 0.314985,
+      "mentions": [
+        {
+          "text": "Federal Communications Commission",
+          "location": [
+            675,
+            708
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.442653,
+        "joy": 0.204657,
+        "fear": 0.087511,
+        "disgust": 0.082092,
+        "anger": 0.126406
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Federal Communications Commission",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Communications_Commission"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "San Francisco",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.276187,
+      "mentions": [
+        {
+          "text": "San Francisco",
+          "location": [
+            210,
+            223
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.181337,
+        "joy": 0.37353,
+        "fear": 0.092257,
+        "disgust": 0.156099,
+        "anger": 0.199324
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "USCounty",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "San Francisco",
+        "dbpedia_resource": "http://dbpedia.org/resource/San_Francisco"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Comcast",
+      "sentiment": {
+        "score": -0.341322,
+        "label": "negative"
+      },
+      "relevance": 0.269669,
+      "mentions": [
+        {
+          "text": "Comcast",
+          "location": [
+            303,
+            310
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.328383,
+        "joy": 0.119277,
+        "fear": 0.038438,
+        "disgust": 0.081017,
+        "anger": 0.094434
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Comcast",
+        "dbpedia_resource": "http://dbpedia.org/resource/Comcast"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Internet activism",
+      "relevance": 0.961908,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet_activism"
+    },
+    {
+      "text": "Federal Communications Commission",
+      "relevance": 0.936214,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Communications_Commission"
+    },
+    {
+      "text": "Network neutrality",
+      "relevance": 0.905173,
+      "dbpedia_resource": "http://dbpedia.org/resource/Network_neutrality"
+    },
+    {
+      "text": "Internet",
+      "relevance": 0.728035,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet"
+    },
+    {
+      "text": "Wi-Fi",
+      "relevance": 0.721772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wi-Fi"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.993712,
+      "label": "/technology and computing/internet technology"
+    }
+  ]
+}

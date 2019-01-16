@@ -1,0 +1,289 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 596,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.571691,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "campaign promises",
+      "sentiment": {
+        "score": -0.782427,
+        "label": "negative"
+      },
+      "relevance": 0.908858,
+      "emotion": {
+        "sadness": 0.376053,
+        "joy": 0.059522,
+        "fear": 0.037236,
+        "disgust": 0.500736,
+        "anger": 0.292294
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.782427,
+        "label": "negative"
+      },
+      "relevance": 0.905838,
+      "emotion": {
+        "sadness": 0.376053,
+        "joy": 0.059522,
+        "fear": 0.037236,
+        "disgust": 0.500736,
+        "anger": 0.292294
+      },
+      "count": 1
+    },
+    {
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.820668,
+        "label": "negative"
+      },
+      "relevance": 0.845385,
+      "emotion": {
+        "sadness": 0.266545,
+        "joy": 0.084545,
+        "fear": 0.045655,
+        "disgust": 0.329307,
+        "anger": 0.45908
+      },
+      "count": 2
+    },
+    {
+      "text": "Republican businessman",
+      "sentiment": {
+        "score": -0.782427,
+        "label": "negative"
+      },
+      "relevance": 0.648147,
+      "emotion": {
+        "sadness": 0.376053,
+        "joy": 0.059522,
+        "fear": 0.037236,
+        "disgust": 0.500736,
+        "anger": 0.292294
+      },
+      "count": 1
+    },
+    {
+      "text": "top of the contentious travel ban",
+      "sentiment": {
+        "score": -0.855119,
+        "label": "negative"
+      },
+      "relevance": 0.639142,
+      "emotion": {
+        "sadness": 0.156349,
+        "joy": 0.135027,
+        "fear": 0.079398,
+        "disgust": 0.074786,
+        "anger": 0.305983
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.555607,
+        "label": "positive"
+      },
+      "relevance": 0.843182,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            47,
+            59
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            517,
+            522
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.303607,
+        "joy": 0.216439,
+        "fear": 0.180871,
+        "disgust": 0.25745,
+        "anger": 0.079931
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.693869,
+        "label": "negative"
+      },
+      "relevance": 0.766044,
+      "mentions": [
+        {
+          "text": "Silicon Valley",
+          "location": [
+            111,
+            125
+          ]
+        },
+        {
+          "text": "Silicon Valley",
+          "location": [
+            318,
+            332
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139268,
+        "joy": 0.12762,
+        "fear": 0.015471,
+        "disgust": 0.27384,
+        "anger": 0.25562
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": -0.441635,
+        "label": "negative"
+      },
+      "relevance": 0.630128,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            183,
+            190
+          ]
+        },
+        {
+          "text": "Americans",
+          "location": [
+            210,
+            219
+          ]
+        },
+        {
+          "text": "Americans",
+          "location": [
+            241,
+            250
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            575,
+            582
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.345642,
+        "joy": 0.101962,
+        "fear": 0.074603,
+        "disgust": 0.541919,
+        "anger": 0.044086
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.311048,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            92,
+            101
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.14374,
+        "joy": 0.080849,
+        "fear": 0.008978,
+        "disgust": 0.434705,
+        "anger": 0.303704
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.86939,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.852025,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.833351,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.812315,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.968203,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 805,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.662056,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "oil-rich Gulf country Qatar",
+      "sentiment": {
+        "score": -0.805885,
+        "label": "negative"
+      },
+      "relevance": 0.788965,
+      "emotion": {
+        "sadness": 0.143416,
+        "joy": 0.593096,
+        "fear": 0.096206,
+        "disgust": 0.024325,
+        "anger": 0.150238
+      },
+      "count": 1
+    },
+    {
+      "text": "UK Prime Minister Theresa May",
+      "sentiment": {
+        "score": 0.714063,
+        "label": "positive"
+      },
+      "relevance": 0.774236,
+      "emotion": {
+        "sadness": 0.075936,
+        "joy": 0.449279,
+        "fear": 0.232118,
+        "disgust": 0.030764,
+        "anger": 0.009474
+      },
+      "count": 1
+    },
+    {
+      "text": "Liam Fox",
+      "sentiment": {
+        "score": -0.871068,
+        "label": "negative"
+      },
+      "relevance": 0.72323,
+      "emotion": {
+        "sadness": 0.473617,
+        "joy": 0.247931,
+        "fear": 0.176301,
+        "disgust": 0.163446,
+        "anger": 0.078913
+      },
+      "count": 1
+    },
+    {
+      "text": "news conference",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.688911,
+      "emotion": {
+        "sadness": 0.529282,
+        "joy": 0.079837,
+        "fear": 0.215862,
+        "disgust": 0.354295,
+        "anger": 0.083013
+      },
+      "count": 1
+    },
+    {
+      "text": "international trade",
+      "sentiment": {
+        "score": -0.871068,
+        "label": "negative"
+      },
+      "relevance": 0.654746,
+      "emotion": {
+        "sadness": 0.473617,
+        "joy": 0.247931,
+        "fear": 0.176301,
+        "disgust": 0.163446,
+        "anger": 0.078913
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Qatar",
+      "sentiment": {
+        "score": -0.792873,
+        "label": "negative"
+      },
+      "relevance": 0.882092,
+      "mentions": [
+        {
+          "text": "Qatar",
+          "location": [
+            43,
+            48
+          ]
+        },
+        {
+          "text": "Qatar",
+          "location": [
+            291,
+            296
+          ]
+        },
+        {
+          "text": "Qatar",
+          "location": [
+            504,
+            509
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.369583,
+        "joy": 0.444563,
+        "fear": 0.070043,
+        "disgust": 0.022474,
+        "anger": 0.097008
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Country"
+        ],
+        "name": "Qatar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Qatar"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Prime Minister Sheikh Abdullah",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.589894,
+      "mentions": [
+        {
+          "text": "Prime Minister Sheikh Abdullah",
+          "location": [
+            106,
+            136
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.529282,
+        "joy": 0.079837,
+        "fear": 0.215862,
+        "disgust": 0.354295,
+        "anger": 0.083013
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": -0.499631,
+        "label": "negative"
+      },
+      "relevance": 0.575859,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            232,
+            234
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            376,
+            378
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            548,
+            550
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            644,
+            646
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.634107,
+        "joy": 0.103691,
+        "fear": 0.300463,
+        "disgust": 0.148173,
+        "anger": 0.041504
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "England",
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Nasser Al Thani",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.514814,
+      "mentions": [
+        {
+          "text": "Nasser Al Thani",
+          "location": [
+            141,
+            156
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            277,
+            279
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.385297,
+        "joy": 0.342647,
+        "fear": 0.109633,
+        "disgust": 0.159196,
+        "anger": 0.088102
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Prime Minister",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.430603,
+      "mentions": [
+        {
+          "text": "Prime Minister",
+          "location": [
+            379,
+            393
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.075936,
+        "joy": 0.449279,
+        "fear": 0.232118,
+        "disgust": 0.030764,
+        "anger": 0.009474
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Kingdom",
+      "relevance": 0.951491,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.873438,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.843424,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "Republic of Ireland",
+      "relevance": 0.764662,
+      "dbpedia_resource": "http://dbpedia.org/resource/Republic_of_Ireland"
+    },
+    {
+      "text": "International trade",
+      "relevance": 0.699607,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_trade"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.882334,
+      "label": "/finance/investing"
+    }
+  ]
+}

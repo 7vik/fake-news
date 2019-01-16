@@ -1,0 +1,192 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 559,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.342475,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "iPad models",
+      "sentiment": {
+        "score": -0.795403,
+        "label": "negative"
+      },
+      "relevance": 0.79453,
+      "emotion": {
+        "sadness": 0.283109,
+        "joy": 0.206085,
+        "fear": 0.027514,
+        "disgust": 0.057018,
+        "anger": 0.028933
+      },
+      "count": 1
+    },
+    {
+      "text": "higher-end iPad",
+      "sentiment": {
+        "score": 0.782055,
+        "label": "positive"
+      },
+      "relevance": 0.671714,
+      "emotion": {
+        "sadness": 0.283109,
+        "joy": 0.206085,
+        "fear": 0.027514,
+        "disgust": 0.057018,
+        "anger": 0.028933
+      },
+      "count": 1
+    },
+    {
+      "text": "lower-end iPads",
+      "sentiment": {
+        "score": -0.795403,
+        "label": "negative"
+      },
+      "relevance": 0.668609,
+      "emotion": {
+        "sadness": 0.444959,
+        "joy": 0.040991,
+        "fear": 0.088668,
+        "disgust": 0.417467,
+        "anger": 0.171057
+      },
+      "count": 1
+    },
+    {
+      "text": "new versions",
+      "sentiment": {
+        "score": 0.782055,
+        "label": "positive"
+      },
+      "relevance": 0.664596,
+      "emotion": {
+        "sadness": 0.283109,
+        "joy": 0.206085,
+        "fear": 0.027514,
+        "disgust": 0.057018,
+        "anger": 0.028933
+      },
+      "count": 1
+    },
+    {
+      "text": "Apple",
+      "sentiment": {
+        "score": -0.35582,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.656969,
+      "emotion": {
+        "sadness": 0.343946,
+        "joy": 0.123192,
+        "fear": 0.043963,
+        "disgust": 0.121158,
+        "anger": 0.051988
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Apple",
+      "sentiment": {
+        "score": -0.374848,
+        "label": "negative"
+      },
+      "relevance": 0.816091,
+      "mentions": [
+        {
+          "text": "Apple",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            59,
+            64
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            430,
+            435
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.457775,
+        "joy": 0.05263,
+        "fear": 0.03259,
+        "disgust": 0.28048,
+        "anger": 0.150332
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper",
+          "ProtocolProvider",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Apple Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+      },
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "10.5-inch",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.70835,
+      "mentions": [
+        {
+          "text": "10.5-inch",
+          "location": [
+            219,
+            228
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "IPad",
+      "relevance": 0.961299,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPad"
+    },
+    {
+      "text": "IPhone",
+      "relevance": 0.775759,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.894828,
+      "label": "/technology and computing/hardware/computer/portable computer/tablet"
+    }
+  ]
+}

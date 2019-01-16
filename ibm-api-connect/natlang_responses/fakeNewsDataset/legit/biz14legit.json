@@ -1,0 +1,256 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 739,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.548795,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Middle East",
+      "sentiment": {
+        "score": 0.820314,
+        "label": "positive"
+      },
+      "relevance": 0.727032,
+      "emotion": {
+        "sadness": 0.188826,
+        "joy": 0.420989,
+        "fear": 0.092513,
+        "disgust": 0.13159,
+        "anger": 0.128014
+      },
+      "count": 2
+    },
+    {
+      "text": "customers  invention",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.691573,
+      "emotion": {
+        "sadness": 0.202529,
+        "joy": 0.327684,
+        "fear": 0.090515,
+        "disgust": 0.063016,
+        "anger": 0.159397
+      },
+      "count": 1
+    },
+    {
+      "text": "long-term thinking",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.686282,
+      "emotion": {
+        "sadness": 0.202529,
+        "joy": 0.327684,
+        "fear": 0.090515,
+        "disgust": 0.063016,
+        "anger": 0.159397
+      },
+      "count": 1
+    },
+    {
+      "text": "region's largest online retailer  Souq",
+      "sentiment": {
+        "score": 0.820314,
+        "label": "positive"
+      },
+      "relevance": 0.657078,
+      "emotion": {
+        "sadness": 0.152955,
+        "joy": 0.508962,
+        "fear": 0.094987,
+        "disgust": 0.105712,
+        "anger": 0.098597
+      },
+      "count": 1
+    },
+    {
+      "text": "Emaar Malls",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.629985,
+      "emotion": {
+        "sadness": 0.131257,
+        "joy": 0.658931,
+        "fear": 0.047507,
+        "disgust": 0.047327,
+        "anger": 0.005413
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": 0.144483,
+        "label": "positive"
+      },
+      "relevance": 0.873337,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            47,
+            53
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            382,
+            388
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            484,
+            490
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            559,
+            565
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.149968,
+        "joy": 0.422584,
+        "fear": 0.046975,
+        "disgust": 0.097255,
+        "anger": 0.150655
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Middle East",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.419482,
+      "mentions": [
+        {
+          "text": "Middle East",
+          "location": [
+            14,
+            25
+          ]
+        },
+        {
+          "text": "Middle East",
+          "location": [
+            87,
+            98
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.192971,
+        "joy": 0.409925,
+        "fear": 0.087686,
+        "disgust": 0.129634,
+        "anger": 0.126379
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ],
+        "name": "Middle East",
+        "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Emaar Malls",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.252418,
+      "mentions": [
+        {
+          "text": "Emaar Malls",
+          "location": [
+            647,
+            658
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.350835,
+        "joy": 0.479896,
+        "fear": 0.157227,
+        "disgust": 0.041238,
+        "anger": 0.017227
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Arab Emirates",
+      "relevance": 0.972963,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Arab_Emirates"
+    },
+    {
+      "text": "Asia",
+      "relevance": 0.871262,
+      "dbpedia_resource": "http://dbpedia.org/resource/Asia"
+    },
+    {
+      "text": "Retailing",
+      "relevance": 0.862431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Retailing"
+    },
+    {
+      "text": "Middle East",
+      "relevance": 0.85262,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+      "text": "Near East",
+      "relevance": 0.722416,
+      "dbpedia_resource": "http://dbpedia.org/resource/Near_East"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.651852,
+      "label": "/real estate/buying and selling homes"
+    }
+  ]
+}

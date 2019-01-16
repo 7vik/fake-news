@@ -1,0 +1,359 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1017,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.523649,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "recent morning",
+      "sentiment": {
+        "score": -0.862398,
+        "label": "negative"
+      },
+      "relevance": 0.851752,
+      "emotion": {
+        "sadness": 0.412886,
+        "joy": 0.414984,
+        "fear": 0.108976,
+        "disgust": 0.011012,
+        "anger": 0.117521
+      },
+      "count": 1
+    },
+    {
+      "text": "spring training",
+      "sentiment": {
+        "score": -0.862398,
+        "label": "negative"
+      },
+      "relevance": 0.777461,
+      "emotion": {
+        "sadness": 0.412886,
+        "joy": 0.414984,
+        "fear": 0.108976,
+        "disgust": 0.011012,
+        "anger": 0.117521
+      },
+      "count": 1
+    },
+    {
+      "text": "full major league season",
+      "sentiment": {
+        "score": -0.862398,
+        "label": "negative"
+      },
+      "relevance": 0.747563,
+      "emotion": {
+        "sadness": 0.412886,
+        "joy": 0.414984,
+        "fear": 0.108976,
+        "disgust": 0.011012,
+        "anger": 0.117521
+      },
+      "count": 1
+    },
+    {
+      "text": "firm believer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.747002,
+      "emotion": {
+        "sadness": 0.227956,
+        "joy": 0.099807,
+        "fear": 0.157581,
+        "disgust": 0.211993,
+        "anger": 0.12799
+      },
+      "count": 1
+    },
+    {
+      "text": "Water Sport",
+      "sentiment": {
+        "score": -0.511324,
+        "label": "negative"
+      },
+      "relevance": 0.64134,
+      "emotion": {
+        "sadness": 0.133965,
+        "joy": 0.44193,
+        "fear": 0.029268,
+        "disgust": 0.198677,
+        "anger": 0.145906
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Curtis Granderson",
+      "sentiment": {
+        "score": -0.406759,
+        "label": "negative"
+      },
+      "relevance": 0.928632,
+      "mentions": [
+        {
+          "text": "Granderson",
+          "location": [
+            51,
+            61
+          ]
+        },
+        {
+          "text": "Curtis Granderson",
+          "location": [
+            83,
+            100
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            116,
+            123
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            225,
+            227
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            262,
+            264
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            330,
+            332
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            341,
+            343
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            412,
+            414
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            593,
+            596
+          ]
+        },
+        {
+          "text": "Granderson",
+          "location": [
+            692,
+            702
+          ]
+        },
+        {
+          "text": "Granderson",
+          "location": [
+            704,
+            714
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            734,
+            736
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.524829,
+        "joy": 0.508316,
+        "fear": 0.093626,
+        "disgust": 0.13523,
+        "anger": 0.14888
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete"
+        ],
+        "name": "Curtis Granderson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Curtis_Granderson"
+      },
+      "count": 12
+    },
+    {
+      "type": "Sport",
+      "text": "Water Sport",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.209179,
+      "mentions": [
+        {
+          "text": "Water Sport",
+          "location": [
+            26,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137782,
+        "joy": 0.433727,
+        "fear": 0.030208,
+        "disgust": 0.199582,
+        "anger": 0.144385
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Mets",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.163567,
+      "mentions": [
+        {
+          "text": "Mets",
+          "location": [
+            45,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137782,
+        "joy": 0.433727,
+        "fear": 0.030208,
+        "disgust": 0.199582,
+        "anger": 0.144385
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "ProfessionalSportsTeam",
+          "Company"
+        ],
+        "name": "New York Mets",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_Mets"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Michael Conforto",
+      "sentiment": {
+        "score": -0.402388,
+        "label": "negative"
+      },
+      "relevance": 0.146638,
+      "mentions": [
+        {
+          "text": "Michael Conforto",
+          "location": [
+            645,
+            661
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.542628,
+        "joy": 0.153532,
+        "fear": 0.042533,
+        "disgust": 0.269958,
+        "anger": 0.142586
+      },
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "Baseball",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.137441,
+      "mentions": [
+        {
+          "text": "Baseball",
+          "location": [
+            0,
+            8
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137782,
+        "joy": 0.433727,
+        "fear": 0.030208,
+        "disgust": 0.199582,
+        "anger": 0.144385
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Baseball",
+        "dbpedia_resource": "http://dbpedia.org/resource/Baseball"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Center fielder",
+      "relevance": 0.961094,
+      "dbpedia_resource": "http://dbpedia.org/resource/Center_fielder"
+    },
+    {
+      "text": "Major League Baseball",
+      "relevance": 0.724265,
+      "dbpedia_resource": "http://dbpedia.org/resource/Major_League_Baseball"
+    },
+    {
+      "text": "Curtis Granderson",
+      "relevance": 0.632591,
+      "dbpedia_resource": "http://dbpedia.org/resource/Curtis_Granderson"
+    },
+    {
+      "text": "Gary Sheffield",
+      "relevance": 0.601313,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gary_Sheffield"
+    },
+    {
+      "text": "Detroit Tigers",
+      "relevance": 0.541967,
+      "dbpedia_resource": "http://dbpedia.org/resource/Detroit_Tigers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.878273,
+      "label": "/sports/baseball"
+    }
+  ]
+}

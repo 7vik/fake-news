@@ -1,0 +1,144 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.779848,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Shocking Claims",
+      "sentiment": {
+        "score": -0.898514,
+        "label": "negative"
+      },
+      "relevance": 0.696297,
+      "emotion": {
+        "sadness": 0.248682,
+        "joy": 0.01054,
+        "fear": 0.037317,
+        "disgust": 0.418245,
+        "anger": 0.25062
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie Fake Maddox Jolie Pitt's Adoption",
+      "sentiment": {
+        "score": -0.629648,
+        "label": "negative"
+      },
+      "relevance": 0.303703,
+      "emotion": {
+        "sadness": 0.483513,
+        "joy": 0.019217,
+        "fear": 0.06647,
+        "disgust": 0.336698,
+        "anger": 0.399115
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.84935,
+        "label": "negative"
+      },
+      "relevance": 0.964911,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            4,
+            18
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.51468,
+        "joy": 0.026562,
+        "fear": 0.059163,
+        "disgust": 0.325154,
+        "anger": 0.374123
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jolie Pitt",
+      "sentiment": {
+        "score": -0.84935,
+        "label": "negative"
+      },
+      "relevance": 0.839958,
+      "mentions": [
+        {
+          "text": "Jolie Pitt",
+          "location": [
+            31,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.949988,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.7636,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.677696,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.658387,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.978355,
+      "label": "/family and parenting/adoption"
+    }
+  ]
+}

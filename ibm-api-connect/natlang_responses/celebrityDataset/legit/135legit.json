@@ -1,0 +1,353 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1024,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.526728,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.33719,
+        "label": "positive"
+      },
+      "relevance": 0.944807,
+      "emotion": {
+        "sadness": 0.105136,
+        "joy": 0.741122,
+        "fear": 0.015751,
+        "disgust": 0.039558,
+        "anger": 0.13084
+      },
+      "count": 2
+    },
+    {
+      "text": "Princess of Monaco Charlotte Casiraghi",
+      "sentiment": {
+        "score": 0.33719,
+        "label": "positive"
+      },
+      "relevance": 0.701957,
+      "emotion": {
+        "sadness": 0.140163,
+        "joy": 0.732282,
+        "fear": 0.027883,
+        "disgust": 0.027451,
+        "anger": 0.104328
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.33719,
+        "label": "positive"
+      },
+      "relevance": 0.678165,
+      "emotion": {
+        "sadness": 0.140163,
+        "joy": 0.732282,
+        "fear": 0.027883,
+        "disgust": 0.027451,
+        "anger": 0.104328
+      },
+      "count": 1
+    },
+    {
+      "text": "previous relationship",
+      "sentiment": {
+        "score": -0.792824,
+        "label": "negative"
+      },
+      "relevance": 0.658312,
+      "emotion": {
+        "sadness": 0.598347,
+        "joy": 0.133248,
+        "fear": 0.064209,
+        "disgust": 0.296293,
+        "anger": 0.088928
+      },
+      "count": 1
+    },
+    {
+      "text": "close friend of Casiraghi",
+      "sentiment": {
+        "score": -0.792824,
+        "label": "negative"
+      },
+      "relevance": 0.63912,
+      "emotion": {
+        "sadness": 0.598347,
+        "joy": 0.133248,
+        "fear": 0.064209,
+        "disgust": 0.296293,
+        "anger": 0.088928
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.037996,
+        "label": "negative"
+      },
+      "relevance": 0.856387,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            30,
+            32
+          ]
+        },
+        {
+          "text": "Brad Pitt",
+          "location": [
+            145,
+            154
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            621,
+            625
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            778,
+            782
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            940,
+            944
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065616,
+        "joy": 0.640883,
+        "fear": 0.017294,
+        "disgust": 0.133917,
+        "anger": 0.112844
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 6
+    },
+    {
+      "type": "Facility",
+      "text": "Monaco Charlotte Casiraghi",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.399528,
+      "mentions": [
+        {
+          "text": "Monaco Charlotte Casiraghi",
+          "location": [
+            204,
+            230
+          ]
+        },
+        {
+          "text": "Casiraghi",
+          "location": [
+            631,
+            640
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110975,
+        "joy": 0.514045,
+        "fear": 0.059008,
+        "disgust": 0.101791,
+        "anger": 0.0948
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.508851,
+        "label": "negative"
+      },
+      "relevance": 0.353894,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            236,
+            250
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            864,
+            869
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.354039,
+        "joy": 0.37989,
+        "fear": 0.026387,
+        "disgust": 0.103168,
+        "anger": 0.199397
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Los Angeles County Museum of Art",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.324499,
+      "mentions": [
+        {
+          "text": "Los Angeles County Museum of Art",
+          "location": [
+            362,
+            394
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.077741,
+        "joy": 0.711844,
+        "fear": 0.029119,
+        "disgust": 0.023257,
+        "anger": 0.173113
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Location",
+          "TouristAttraction",
+          "Museum"
+        ],
+        "name": "Los Angeles County Museum of Art",
+        "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Monaco",
+      "sentiment": {
+        "score": 0.483112,
+        "label": "positive"
+      },
+      "relevance": 0.299638,
+      "mentions": [
+        {
+          "text": "Monaco",
+          "location": [
+            64,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10121,
+        "joy": 0.479445,
+        "fear": 0.016164,
+        "disgust": 0.136058,
+        "anger": 0.093798
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.957744,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Rainier III, Prince of Monaco",
+      "relevance": 0.900293,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rainier_III,_Prince_of_Monaco"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.894815,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.786132,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.776766,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.590493,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

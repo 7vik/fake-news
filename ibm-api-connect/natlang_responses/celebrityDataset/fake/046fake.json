@@ -1,0 +1,192 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Drake Invites Taylor Swift",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999095,
+      "emotion": {
+        "sadness": 0.131214,
+        "joy": 0.283882,
+        "fear": 0.129737,
+        "disgust": 0.235757,
+        "anger": 0.276693
+      },
+      "count": 1
+    },
+    {
+      "text": "House",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613711,
+      "emotion": {
+        "sadness": 0.131214,
+        "joy": 0.283882,
+        "fear": 0.129737,
+        "disgust": 0.235757,
+        "anger": 0.276693
+      },
+      "count": 1
+    },
+    {
+      "text": "Incident",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.564564,
+      "emotion": {
+        "sadness": 0.131214,
+        "joy": 0.283882,
+        "fear": 0.129737,
+        "disgust": 0.235757,
+        "anger": 0.276693
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Drake",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Drake",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131214,
+        "joy": 0.283882,
+        "fear": 0.129737,
+        "disgust": 0.235757,
+        "anger": 0.276693
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            14,
+            26
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131214,
+        "joy": 0.283882,
+        "fear": 0.129737,
+        "disgust": 0.235757,
+        "anger": 0.276693
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    },
+    {
+      "type": "Crime",
+      "text": "Stalking",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Stalking",
+          "location": [
+            62,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131214,
+        "joy": 0.283882,
+        "fear": 0.129737,
+        "disgust": 0.235757,
+        "anger": 0.276693
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fearless Tour",
+      "relevance": 0.913342,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fearless_Tour"
+    },
+    {
+      "text": "CMT Music Awards",
+      "relevance": 0.87791,
+      "dbpedia_resource": "http://dbpedia.org/resource/CMT_Music_Awards"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.863915,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.76208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "51st Grammy Awards",
+      "relevance": 0.746956,
+      "dbpedia_resource": "http://dbpedia.org/resource/51st_Grammy_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.659837,
+      "label": "/society/crime/personal offense"
+    }
+  ]
+}

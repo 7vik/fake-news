@@ -1,0 +1,232 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 560,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.602463,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Intro' button",
+      "sentiment": {
+        "score": -0.400734,
+        "label": "negative"
+      },
+      "relevance": 0.7529,
+      "emotion": {
+        "sadness": 0.140991,
+        "joy": 0.639191,
+        "fear": 0.021015,
+        "disgust": 0.006712,
+        "anger": 0.013573
+      },
+      "count": 1
+    },
+    {
+      "text": "CNNMoney Friday",
+      "sentiment": {
+        "score": -0.895169,
+        "label": "negative"
+      },
+      "relevance": 0.7293,
+      "emotion": {
+        "sadness": 0.4763,
+        "joy": 0.415226,
+        "fear": 0.025819,
+        "disgust": 0.013661,
+        "anger": 0.043146
+      },
+      "count": 1
+    },
+    {
+      "text": "Netflix members",
+      "sentiment": {
+        "score": -0.895169,
+        "label": "negative"
+      },
+      "relevance": 0.725025,
+      "emotion": {
+        "sadness": 0.4763,
+        "joy": 0.415226,
+        "fear": 0.025819,
+        "disgust": 0.013661,
+        "anger": 0.043146
+      },
+      "count": 1
+    },
+    {
+      "text": "Netflix  spokesperson Smita Saran",
+      "sentiment": {
+        "score": -0.621433,
+        "label": "negative"
+      },
+      "relevance": 0.703297,
+      "emotion": {
+        "sadness": 0.4763,
+        "joy": 0.415226,
+        "fear": 0.025819,
+        "disgust": 0.013661,
+        "anger": 0.043146
+      },
+      "count": 1
+    },
+    {
+      "text": "Netflix",
+      "sentiment": {
+        "score": -0.699003,
+        "label": "negative"
+      },
+      "relevance": 0.697659,
+      "emotion": {
+        "sadness": 0.34249,
+        "joy": 0.571046,
+        "fear": 0.013881,
+        "disgust": 0.007524,
+        "anger": 0.032081
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Smita Saran",
+      "sentiment": {
+        "score": -0.503565,
+        "label": "negative"
+      },
+      "relevance": 0.950074,
+      "mentions": [
+        {
+          "text": "Smita Saran",
+          "location": [
+            352,
+            363
+          ]
+        },
+        {
+          "text": "Saran",
+          "location": [
+            548,
+            553
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.534601,
+        "joy": 0.169413,
+        "fear": 0.059819,
+        "disgust": 0.119718,
+        "anger": 0.053065
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Netflix",
+      "sentiment": {
+        "score": -0.525091,
+        "label": "negative"
+      },
+      "relevance": 0.514204,
+      "mentions": [
+        {
+          "text": "Netflix",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Netflix",
+          "location": [
+            174,
+            181
+          ]
+        },
+        {
+          "text": "Netflix",
+          "location": [
+            213,
+            220
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.339506,
+        "joy": 0.480343,
+        "fear": 0.037103,
+        "disgust": 0.021277,
+        "anger": 0.113889
+      },
+      "disambiguation": {
+        "subtype": [
+          "VentureFundedCompany"
+        ],
+        "name": "Netflix",
+        "dbpedia_resource": "http://dbpedia.org/resource/Netflix"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "CNNMoney",
+      "sentiment": {
+        "score": -0.502327,
+        "label": "negative"
+      },
+      "relevance": 0.388486,
+      "mentions": [
+        {
+          "text": "CNNMoney",
+          "location": [
+            187,
+            195
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.39216,
+        "joy": 0.384862,
+        "fear": 0.055408,
+        "disgust": 0.034794,
+        "anger": 0.1749
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "CNNMoney.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNNMoney.com"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Black",
+      "relevance": 0.959125,
+      "dbpedia_resource": "http://dbpedia.org/resource/Black"
+    },
+    {
+      "text": "The new black",
+      "relevance": 0.948947,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_new_black"
+    },
+    {
+      "text": "The New Black",
+      "relevance": 0.836299,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_New_Black"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.712198,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

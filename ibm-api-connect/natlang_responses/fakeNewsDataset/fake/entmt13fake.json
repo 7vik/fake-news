@@ -1,0 +1,259 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 508,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.580624,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new exhibition",
+      "sentiment": {
+        "score": 0.438065,
+        "label": "positive"
+      },
+      "relevance": 0.881946,
+      "emotion": {
+        "sadness": 0.286101,
+        "joy": 0.452185,
+        "fear": 0.088083,
+        "disgust": 0.056661,
+        "anger": 0.04505
+      },
+      "count": 1
+    },
+    {
+      "text": "inner cities of Philadelphia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.735166,
+      "emotion": {
+        "sadness": 0.104158,
+        "joy": 0.714987,
+        "fear": 0.086396,
+        "disgust": 0.027214,
+        "anger": 0.044993
+      },
+      "count": 1
+    },
+    {
+      "text": "modern urban graffiti",
+      "sentiment": {
+        "score": 0.438065,
+        "label": "positive"
+      },
+      "relevance": 0.718955,
+      "emotion": {
+        "sadness": 0.170328,
+        "joy": 0.684879,
+        "fear": 0.077533,
+        "disgust": 0.030182,
+        "anger": 0.034674
+      },
+      "count": 1
+    },
+    {
+      "text": "former graffiti artist Errol Donald",
+      "sentiment": {
+        "score": 0.438065,
+        "label": "positive"
+      },
+      "relevance": 0.642847,
+      "emotion": {
+        "sadness": 0.286101,
+        "joy": 0.452185,
+        "fear": 0.088083,
+        "disgust": 0.056661,
+        "anger": 0.04505
+      },
+      "count": 1
+    },
+    {
+      "text": "New York",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.631727,
+      "emotion": {
+        "sadness": 0.104158,
+        "joy": 0.714987,
+        "fear": 0.086396,
+        "disgust": 0.027214,
+        "anger": 0.044993
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Errol Donald",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.888751,
+      "mentions": [
+        {
+          "text": "Errol Donald",
+          "location": [
+            73,
+            85
+          ]
+        },
+        {
+          "text": "Errol Donald",
+          "location": [
+            163,
+            175
+          ]
+        },
+        {
+          "text": "Errol Donald",
+          "location": [
+            401,
+            413
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.079155,
+        "joy": 0.528082,
+        "fear": 0.065549,
+        "disgust": 0.118631,
+        "anger": 0.072657
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Philadelphia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.177522,
+      "mentions": [
+        {
+          "text": "Philadelphia",
+          "location": [
+            337,
+            349
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.104158,
+        "joy": 0.714987,
+        "fear": 0.086396,
+        "disgust": 0.027214,
+        "anger": 0.044993
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "PlaceWithNeighborhoods",
+          "AirportOperator",
+          "City"
+        ],
+        "name": "Philadelphia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philadelphia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.169728,
+      "mentions": [
+        {
+          "text": "New York",
+          "location": [
+            354,
+            362
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.104158,
+        "joy": 0.714987,
+        "fear": 0.086396,
+        "disgust": 0.027214,
+        "anger": 0.044993
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "30 years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.169728,
+      "mentions": [
+        {
+          "text": "30 years",
+          "location": [
+            229,
+            237
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Graffiti",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Graffiti"
+    },
+    {
+      "text": "Philadelphia",
+      "relevance": 0.902751,
+      "dbpedia_resource": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+      "text": "Suburb",
+      "relevance": 0.897072,
+      "dbpedia_resource": "http://dbpedia.org/resource/Suburb"
+    },
+    {
+      "text": "Modern history",
+      "relevance": 0.887314,
+      "dbpedia_resource": "http://dbpedia.org/resource/Modern_history"
+    },
+    {
+      "text": "City",
+      "relevance": 0.835016,
+      "dbpedia_resource": "http://dbpedia.org/resource/City"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.82601,
+      "label": "/art and entertainment/shows and events/exhibition"
+    }
+  ]
+}

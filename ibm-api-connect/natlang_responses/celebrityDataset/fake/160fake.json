@@ -1,0 +1,294 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 495,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.321952,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "BRAD PITT",
+      "sentiment": {
+        "score": 0.900554,
+        "label": "positive"
+      },
+      "relevance": 0.985107,
+      "emotion": {
+        "sadness": 0.015796,
+        "joy": 0.803608,
+        "fear": 0.020011,
+        "disgust": 0.01572,
+        "anger": 0.030897
+      },
+      "count": 2
+    },
+    {
+      "text": "Journalist Critic",
+      "sentiment": {
+        "score": -0.757201,
+        "label": "negative"
+      },
+      "relevance": 0.737477,
+      "emotion": {
+        "sadness": 0.054119,
+        "joy": 0.700436,
+        "fear": 0.011729,
+        "disgust": 0.200977,
+        "anger": 0.068923
+      },
+      "count": 1
+    },
+    {
+      "text": "Best President",
+      "sentiment": {
+        "score": 0.457752,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.604343,
+      "emotion": {
+        "sadness": 0.02783,
+        "joy": 0.760608,
+        "fear": 0.007772,
+        "disgust": 0.141421,
+        "anger": 0.088066
+      },
+      "count": 2
+    },
+    {
+      "text": "TRUMP",
+      "sentiment": {
+        "score": 0.900554,
+        "label": "positive"
+      },
+      "relevance": 0.567504,
+      "emotion": {
+        "sadness": 0.015796,
+        "joy": 0.803608,
+        "fear": 0.020011,
+        "disgust": 0.01572,
+        "anger": 0.030897
+      },
+      "count": 2
+    },
+    {
+      "text": "Today",
+      "sentiment": {
+        "score": -0.757201,
+        "label": "negative"
+      },
+      "relevance": 0.561784,
+      "emotion": {
+        "sadness": 0.054119,
+        "joy": 0.700436,
+        "fear": 0.011729,
+        "disgust": 0.200977,
+        "anger": 0.068923
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "BRAD PITT",
+      "sentiment": {
+        "score": 0.489393,
+        "label": "positive"
+      },
+      "relevance": 0.959702,
+      "mentions": [
+        {
+          "text": "BRAD PITT",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Him",
+          "location": [
+            86,
+            89
+          ]
+        },
+        {
+          "text": "Brad Pitt",
+          "location": [
+            93,
+            102
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            348,
+            352
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            413,
+            415
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            422,
+            424
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.127378,
+        "joy": 0.443308,
+        "fear": 0.015684,
+        "disgust": 0.375354,
+        "anger": 0.136876
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "TRUMP",
+      "sentiment": {
+        "score": 0.332186,
+        "label": "positive"
+      },
+      "relevance": 0.495159,
+      "mentions": [
+        {
+          "text": "TRUMP",
+          "location": [
+            22,
+            27
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            173,
+            178
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            210,
+            215
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.019956,
+        "joy": 0.633536,
+        "fear": 0.00446,
+        "disgust": 0.212739,
+        "anger": 0.199004
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.332186,
+        "label": "positive"
+      },
+      "relevance": 0.308413,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            45,
+            54
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            233,
+            242
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.024988,
+        "joy": 0.743885,
+        "fear": 0.023575,
+        "disgust": 0.036835,
+        "anger": 0.058693
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "U.S",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.292118,
+      "emotion": {
+        "sadness": 0.024988,
+        "joy": 0.743885,
+        "fear": 0.023575,
+        "disgust": 0.036835,
+        "anger": 0.058693
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.971261,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.713332,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "81st Academy Awards",
+      "relevance": 0.66322,
+      "dbpedia_resource": "http://dbpedia.org/resource/81st_Academy_Awards"
+    },
+    {
+      "text": "People",
+      "relevance": 0.639601,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    },
+    {
+      "text": "Matt Damon",
+      "relevance": 0.634509,
+      "dbpedia_resource": "http://dbpedia.org/resource/Matt_Damon"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.970851,
+      "label": "/society/work/unemployment"
+    }
+  ]
+}

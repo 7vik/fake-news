@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 103,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.92572,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Expectant Kylie Jenner",
+      "sentiment": {
+        "score": -0.92572,
+        "label": "negative"
+      },
+      "relevance": 0.995563,
+      "emotion": {
+        "sadness": 0.719417,
+        "joy": 0.078012,
+        "fear": 0.164576,
+        "disgust": 0.014405,
+        "anger": 0.213741
+      },
+      "count": 1
+    },
+    {
+      "text": "Source",
+      "sentiment": {
+        "score": -0.92572,
+        "label": "negative"
+      },
+      "relevance": 0.594309,
+      "emotion": {
+        "sadness": 0.719417,
+        "joy": 0.078012,
+        "fear": 0.164576,
+        "disgust": 0.014405,
+        "anger": 0.213741
+      },
+      "count": 1
+    },
+    {
+      "text": "Emotional Wreck",
+      "sentiment": {
+        "score": -0.92572,
+        "label": "negative"
+      },
+      "relevance": 0.310734,
+      "emotion": {
+        "sadness": 0.719417,
+        "joy": 0.078012,
+        "fear": 0.164576,
+        "disgust": 0.014405,
+        "anger": 0.213741
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.612967,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            10,
+            22
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.589584,
+        "joy": 0.07579,
+        "fear": 0.064969,
+        "disgust": 0.098919,
+        "anger": 0.309395
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.685563,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 83,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.620025,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Michelle Obama's Marriage Meltdown",
+      "sentiment": {
+        "score": -0.620025,
+        "label": "negative"
+      },
+      "relevance": 0.988743,
+      "emotion": {
+        "sadness": 0.092039,
+        "joy": 0.281325,
+        "fear": 0.109592,
+        "disgust": 0.370303,
+        "anger": 0.184863
+      },
+      "count": 1
+    },
+    {
+      "text": "Barack",
+      "sentiment": {
+        "score": -0.620025,
+        "label": "negative"
+      },
+      "relevance": 0.861851,
+      "emotion": {
+        "sadness": 0.092039,
+        "joy": 0.281325,
+        "fear": 0.109592,
+        "disgust": 0.370303,
+        "anger": 0.184863
+      },
+      "count": 1
+    },
+    {
+      "text": "Taxpayers",
+      "sentiment": {
+        "score": -0.620025,
+        "label": "negative"
+      },
+      "relevance": 0.592004,
+      "emotion": {
+        "sadness": 0.092039,
+        "joy": 0.281325,
+        "fear": 0.109592,
+        "disgust": 0.370303,
+        "anger": 0.184863
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Barack",
+      "sentiment": {
+        "score": -0.467599,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Barack",
+          "location": [
+            0,
+            6
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.178333,
+        "joy": 0.404076,
+        "fear": 0.121675,
+        "disgust": 0.114793,
+        "anger": 0.071276
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Michelle Obama",
+      "sentiment": {
+        "score": -0.467599,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Michelle Obama",
+          "location": [
+            9,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "OfficeHolder"
+        ],
+        "name": "Michelle Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Michelle Obama",
+      "relevance": 0.988458,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.979422,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "2008 Democratic National Convention",
+      "relevance": 0.878018,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Democratic_National_Convention"
+    },
+    {
+      "text": "Harvard Law School",
+      "relevance": 0.855334,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harvard_Law_School"
+    },
+    {
+      "text": "Sidley Austin",
+      "relevance": 0.784242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sidley_Austin"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.924627,
+      "label": "/society/social institution"
+    }
+  ]
+}

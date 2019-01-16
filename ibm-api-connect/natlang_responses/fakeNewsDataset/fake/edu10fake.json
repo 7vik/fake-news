@@ -1,0 +1,254 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 546,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.806187,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Friday morning",
+      "sentiment": {
+        "score": -0.828669,
+        "label": "negative"
+      },
+      "relevance": 0.956376,
+      "emotion": {
+        "sadness": 0.056578,
+        "joy": 0.611197,
+        "fear": 0.075378,
+        "disgust": 0.100076,
+        "anger": 0.09225
+      },
+      "count": 1
+    },
+    {
+      "text": "group of protesters",
+      "sentiment": {
+        "score": -0.828669,
+        "label": "negative"
+      },
+      "relevance": 0.907569,
+      "emotion": {
+        "sadness": 0.056578,
+        "joy": 0.611197,
+        "fear": 0.075378,
+        "disgust": 0.100076,
+        "anger": 0.09225
+      },
+      "count": 1
+    },
+    {
+      "text": "middle school",
+      "sentiment": {
+        "score": -0.828669,
+        "label": "negative"
+      },
+      "relevance": 0.85811,
+      "emotion": {
+        "sadness": 0.056578,
+        "joy": 0.611197,
+        "fear": 0.075378,
+        "disgust": 0.100076,
+        "anger": 0.09225
+      },
+      "count": 1
+    },
+    {
+      "text": "high school students",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.77999,
+      "emotion": {
+        "sadness": 0.118044,
+        "joy": 0.079509,
+        "fear": 0.301793,
+        "disgust": 0.290852,
+        "anger": 0.389709
+      },
+      "count": 1
+    },
+    {
+      "text": "Education Secretary",
+      "sentiment": {
+        "score": -0.828669,
+        "label": "negative"
+      },
+      "relevance": 0.705166,
+      "emotion": {
+        "sadness": 0.052374,
+        "joy": 0.577001,
+        "fear": 0.05154,
+        "disgust": 0.101809,
+        "anger": 0.133719
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.884203,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            10,
+            19
+          ]
+        },
+        {
+          "text": "Secretary",
+          "location": [
+            178,
+            187
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.075443,
+        "joy": 0.320016,
+        "fear": 0.076417,
+        "disgust": 0.1275,
+        "anger": 0.138224
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.813615,
+      "mentions": [
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            188,
+            199
+          ]
+        },
+        {
+          "text": "DeVos",
+          "location": [
+            277,
+            282
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147347,
+        "joy": 0.246642,
+        "fear": 0.222017,
+        "disgust": 0.266977,
+        "anger": 0.161031
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "D.C. middle school",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.722463,
+      "mentions": [
+        {
+          "text": "D.C. middle school",
+          "location": [
+            100,
+            118
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.071186,
+        "joy": 0.376381,
+        "fear": 0.091485,
+        "disgust": 0.137952,
+        "anger": 0.107013
+      },
+      "count": 1
+    },
+    {
+      "type": "MusicGroup",
+      "text": "Pink Floyd",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.596475,
+      "mentions": [
+        {
+          "text": "Pink Floyd",
+          "location": [
+            149,
+            159
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.071186,
+        "joy": 0.376381,
+        "fear": 0.091485,
+        "disgust": 0.137952,
+        "anger": 0.107013
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.954332,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Pink Floyd",
+      "relevance": 0.762388,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pink_Floyd"
+    },
+    {
+      "text": "College",
+      "relevance": 0.711224,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Police",
+      "relevance": 0.656674,
+      "dbpedia_resource": "http://dbpedia.org/resource/Police"
+    },
+    {
+      "text": "Middle school",
+      "relevance": 0.625485,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.851135,
+      "label": "/education"
+    }
+  ]
+}

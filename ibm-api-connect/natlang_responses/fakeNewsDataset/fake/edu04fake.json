@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 644,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.43921,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "bipartisan support",
+      "sentiment": {
+        "score": 0.758453,
+        "label": "positive"
+      },
+      "relevance": 0.933003,
+      "emotion": {
+        "sadness": 0.195555,
+        "joy": 0.1935,
+        "fear": 0.16319,
+        "disgust": 0.162233,
+        "anger": 0.401196
+      },
+      "count": 1
+    },
+    {
+      "text": "bipartisan approval",
+      "sentiment": {
+        "score": 0.533885,
+        "label": "positive"
+      },
+      "relevance": 0.894151,
+      "emotion": {
+        "sadness": 0.155084,
+        "joy": 0.099788,
+        "fear": 0.07658,
+        "disgust": 0.190048,
+        "anger": 0.118178
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.758453,
+        "label": "positive"
+      },
+      "relevance": 0.835501,
+      "emotion": {
+        "sadness": 0.103368,
+        "joy": 0.37567,
+        "fear": 0.05702,
+        "disgust": 0.046649,
+        "anger": 0.478126
+      },
+      "count": 2
+    },
+    {
+      "text": "Trump's Uses",
+      "sentiment": {
+        "score": 0.533885,
+        "label": "positive"
+      },
+      "relevance": 0.733615,
+      "emotion": {
+        "sadness": 0.181847,
+        "joy": 0.230693,
+        "fear": 0.18932,
+        "disgust": 0.236432,
+        "anger": 0.181934
+      },
+      "count": 1
+    },
+    {
+      "text": "Big Brain",
+      "sentiment": {
+        "score": 0.652493,
+        "label": "positive"
+      },
+      "relevance": 0.698988,
+      "emotion": {
+        "sadness": 0.098733,
+        "joy": 0.37542,
+        "fear": 0.047003,
+        "disgust": 0.079667,
+        "anger": 0.479123
+      },
+      "count": 4
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.44799,
+        "label": "positive"
+      },
+      "relevance": 0.918852,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            114,
+            129
+          ]
+        },
+        {
+          "text": "his",
+          "location": [
+            153,
+            156
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            176,
+            179
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            360,
+            375
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.146698,
+        "joy": 0.326367,
+        "fear": 0.018378,
+        "disgust": 0.053201,
+        "anger": 0.427531
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.622275,
+        "label": "positive"
+      },
+      "relevance": 0.512926,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": 0.668385,
+        "label": "positive"
+      },
+      "relevance": 0.305424,
+      "mentions": [
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            74,
+            85
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.124304,
+        "joy": 0.1662,
+        "fear": 0.064018,
+        "disgust": 0.109148,
+        "anger": 0.06649
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "co-president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.266126,
+      "mentions": [
+        {
+          "text": "co-president",
+          "location": [
+            299,
+            311
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.194743,
+        "joy": 0.250793,
+        "fear": 0.165357,
+        "disgust": 0.228569,
+        "anger": 0.275394
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Senate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.257462,
+      "mentions": [
+        {
+          "text": "Senate",
+          "location": [
+            31,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Senate",
+      "relevance": 0.913308,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.864082,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "United States House of Representatives",
+      "relevance": 0.823568,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_House_of_Representatives"
+    },
+    {
+      "text": "President pro tempore of the United States Senate",
+      "relevance": 0.822474,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_pro_tempore_of_the_United_States_Senate"
+    },
+    {
+      "text": "Personality psychology",
+      "relevance": 0.790447,
+      "dbpedia_resource": "http://dbpedia.org/resource/Personality_psychology"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.900939,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

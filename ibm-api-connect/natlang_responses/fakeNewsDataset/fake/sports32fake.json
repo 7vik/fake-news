@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 557,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.451186,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "tennis news",
+      "sentiment": {
+        "score": -0.792695,
+        "label": "negative"
+      },
+      "relevance": 0.882775,
+      "emotion": {
+        "sadness": 0.413742,
+        "joy": 0.075763,
+        "fear": 0.1011,
+        "disgust": 0.342406,
+        "anger": 0.25557
+      },
+      "count": 1
+    },
+    {
+      "text": "Roger Federer Beats Roberto Agut",
+      "sentiment": {
+        "score": -0.792695,
+        "label": "negative"
+      },
+      "relevance": 0.818584,
+      "emotion": {
+        "sadness": 0.604481,
+        "joy": 0.025315,
+        "fear": 0.091316,
+        "disgust": 0.257617,
+        "anger": 0.274918
+      },
+      "count": 1
+    },
+    {
+      "text": "next point",
+      "sentiment": {
+        "score": -0.514466,
+        "label": "negative"
+      },
+      "relevance": 0.71615,
+      "emotion": {
+        "sadness": 0.173116,
+        "joy": 0.212602,
+        "fear": 0.131804,
+        "disgust": 0.273044,
+        "anger": 0.359636
+      },
+      "count": 1
+    },
+    {
+      "text": "match officials",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.641036,
+      "emotion": {
+        "sadness": 0.374512,
+        "joy": 0.26002,
+        "fear": 0.140659,
+        "disgust": 0.09049,
+        "anger": 0.108794
+      },
+      "count": 1
+    },
+    {
+      "text": "athlete Roger Federer",
+      "sentiment": {
+        "score": -0.792695,
+        "label": "negative"
+      },
+      "relevance": 0.614233,
+      "emotion": {
+        "sadness": 0.413742,
+        "joy": 0.075763,
+        "fear": 0.1011,
+        "disgust": 0.342406,
+        "anger": 0.25557
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Roberto Batista Agut",
+      "sentiment": {
+        "score": -0.633454,
+        "label": "negative"
+      },
+      "relevance": 0.89527,
+      "mentions": [
+        {
+          "text": "Roberto Agut",
+          "location": [
+            20,
+            32
+          ]
+        },
+        {
+          "text": "Roberto Batista Agut",
+          "location": [
+            191,
+            211
+          ]
+        },
+        {
+          "text": "Agut",
+          "location": [
+            250,
+            254
+          ]
+        },
+        {
+          "text": "Agut",
+          "location": [
+            356,
+            360
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296994,
+        "joy": 0.2527,
+        "fear": 0.078943,
+        "disgust": 0.250788,
+        "anger": 0.218869
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": -0.525926,
+        "label": "negative"
+      },
+      "relevance": 0.692621,
+      "mentions": [
+        {
+          "text": "Roger Federer",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Roger Federer",
+          "location": [
+            108,
+            121
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.352089,
+        "joy": 0.120546,
+        "fear": 0.068818,
+        "disgust": 0.307193,
+        "anger": 0.222163
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Roger Federer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+      },
+      "count": 2
+    },
+    {
+      "type": "Sport",
+      "text": "tennis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.222645,
+      "mentions": [
+        {
+          "text": "tennis",
+          "location": [
+            60,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.259804,
+        "joy": 0.215621,
+        "fear": 0.148741,
+        "disgust": 0.171189,
+        "anger": 0.236026
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Tennis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tennis"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Miami",
+      "sentiment": {
+        "score": -0.525926,
+        "label": "negative"
+      },
+      "relevance": 0.203864,
+      "mentions": [
+        {
+          "text": "Miami",
+          "location": [
+            157,
+            162
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.408551,
+        "joy": 0.073266,
+        "fear": 0.090616,
+        "disgust": 0.309332,
+        "anger": 0.202049
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Serve",
+      "relevance": 0.97436,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serve_(tennis)"
+    },
+    {
+      "text": "Roger Federer",
+      "relevance": 0.971964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+    },
+    {
+      "text": "Boris Becker",
+      "relevance": 0.827087,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boris_Becker"
+    },
+    {
+      "text": "Pete Sampras",
+      "relevance": 0.814902,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pete_Sampras"
+    },
+    {
+      "text": "Andre Agassi",
+      "relevance": 0.792189,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andre_Agassi"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998059,
+      "label": "/sports/tennis"
+    }
+  ]
+}

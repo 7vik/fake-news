@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.972326,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ellen DeGeneres Talks Feelings",
+      "sentiment": {
+        "score": 0.972326,
+        "label": "positive"
+      },
+      "relevance": 0.999317,
+      "emotion": {
+        "sadness": 0.138206,
+        "joy": 0.81058,
+        "fear": 0.032444,
+        "disgust": 0.005834,
+        "anger": 0.013358
+      },
+      "count": 1
+    },
+    {
+      "text": "Fun",
+      "sentiment": {
+        "score": 0.972326,
+        "label": "positive"
+      },
+      "relevance": 0.633014,
+      "emotion": {
+        "sadness": 0.138206,
+        "joy": 0.81058,
+        "fear": 0.032444,
+        "disgust": 0.005834,
+        "anger": 0.013358
+      },
+      "count": 1
+    },
+    {
+      "text": "Finding Dory",
+      "sentiment": {
+        "score": 0.972326,
+        "label": "positive"
+      },
+      "relevance": 0.07872,
+      "emotion": {
+        "sadness": 0.138206,
+        "joy": 0.81058,
+        "fear": 0.032444,
+        "disgust": 0.005834,
+        "anger": 0.013358
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.460402,
+        "joy": 0.336457,
+        "fear": 0.129449,
+        "disgust": 0.033783,
+        "anger": 0.077237
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.958558,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    },
+    {
+      "text": "Finding Nemo",
+      "relevance": 0.622828,
+      "dbpedia_resource": "http://dbpedia.org/resource/Finding_Nemo"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.873555,
+      "label": "/art and entertainment/movies and tv/animated"
+    }
+  ]
+}

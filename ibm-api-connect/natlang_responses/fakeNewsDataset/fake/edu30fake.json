@@ -1,0 +1,241 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 665,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.421181,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Central Missouri",
+      "sentiment": {
+        "score": 0.630156,
+        "label": "positive"
+      },
+      "relevance": 0.856366,
+      "emotion": {
+        "sadness": 0.10952,
+        "joy": 0.139135,
+        "fear": 0.012403,
+        "disgust": 0.19265,
+        "anger": 0.473877
+      },
+      "count": 1
+    },
+    {
+      "text": "campus officials",
+      "sentiment": {
+        "score": -0.373747,
+        "label": "negative"
+      },
+      "relevance": 0.759708,
+      "emotion": {
+        "sadness": 0.081787,
+        "joy": 0.520457,
+        "fear": 0.031728,
+        "disgust": 0.157701,
+        "anger": 0.266317
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump's executive order",
+      "sentiment": {
+        "score": 0.630156,
+        "label": "positive"
+      },
+      "relevance": 0.739796,
+      "emotion": {
+        "sadness": 0.10952,
+        "joy": 0.139135,
+        "fear": 0.012403,
+        "disgust": 0.19265,
+        "anger": 0.473877
+      },
+      "count": 1
+    },
+    {
+      "text": "state border",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.735963,
+      "emotion": {
+        "sadness": 0.033803,
+        "joy": 0.31022,
+        "fear": 0.121311,
+        "disgust": 0.228833,
+        "anger": 0.094096
+      },
+      "count": 1
+    },
+    {
+      "text": "such higher education institution",
+      "sentiment": {
+        "score": 0.630156,
+        "label": "positive"
+      },
+      "relevance": 0.696274,
+      "emotion": {
+        "sadness": 0.10952,
+        "joy": 0.139135,
+        "fear": 0.012403,
+        "disgust": 0.19265,
+        "anger": 0.473877
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.81705,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            164,
+            186
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Missouri",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.583305,
+      "mentions": [
+        {
+          "text": "Missouri",
+          "location": [
+            90,
+            98
+          ]
+        },
+        {
+          "text": "education institution",
+          "location": [
+            118,
+            139
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.090564,
+        "joy": 0.167075,
+        "fear": 0.010142,
+        "disgust": 0.196466,
+        "anger": 0.48359
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Missouri",
+        "dbpedia_resource": "http://dbpedia.org/resource/Missouri"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.428535,
+      "mentions": [
+        {
+          "text": "executive",
+          "location": [
+            189,
+            198
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10952,
+        "joy": 0.139135,
+        "fear": 0.012403,
+        "disgust": 0.19265,
+        "anger": 0.473877
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Higher education",
+      "relevance": 0.977085,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higher_education"
+    },
+    {
+      "text": "University",
+      "relevance": 0.920137,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.859325,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.822096,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.781242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.983531,
+      "label": "/finance/grants, scholarships and financial aid"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 810,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.420323,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "School Starts Too Late",
+      "sentiment": {
+        "score": -0.837752,
+        "label": "negative"
+      },
+      "relevance": 0.816879,
+      "emotion": {
+        "sadness": 0.291202,
+        "joy": 0.361889,
+        "fear": 0.249095,
+        "disgust": 0.0747,
+        "anger": 0.19621
+      },
+      "count": 1
+    },
+    {
+      "text": "Senator Anthony Portantino",
+      "sentiment": {
+        "score": -0.837752,
+        "label": "negative"
+      },
+      "relevance": 0.717569,
+      "emotion": {
+        "sadness": 0.521795,
+        "joy": 0.294141,
+        "fear": 0.023179,
+        "disgust": 0.185218,
+        "anger": 0.044641
+      },
+      "count": 1
+    },
+    {
+      "text": "quality of their parents life",
+      "sentiment": {
+        "score": 0.970086,
+        "label": "positive"
+      },
+      "relevance": 0.687866,
+      "emotion": {
+        "sadness": 0.261655,
+        "joy": 0.620537,
+        "fear": 0.071662,
+        "disgust": 0.017394,
+        "anger": 0.03295
+      },
+      "count": 1
+    },
+    {
+      "text": "younger children",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.656912,
+      "emotion": {
+        "sadness": 0.425999,
+        "joy": 0.091873,
+        "fear": 0.221345,
+        "disgust": 0.255721,
+        "anger": 0.163209
+      },
+      "count": 1
+    },
+    {
+      "text": "California school districts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.621827,
+      "emotion": {
+        "sadness": 0.425999,
+        "joy": 0.091873,
+        "fear": 0.221345,
+        "disgust": 0.255721,
+        "anger": 0.163209
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Senator Anthony Portantino",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.934647,
+      "mentions": [
+        {
+          "text": "Senator Anthony Portantino",
+          "location": [
+            62,
+            88
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            237,
+            239
+          ]
+        },
+        {
+          "text": "Portantino",
+          "location": [
+            464,
+            474
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.290107,
+        "joy": 0.21524,
+        "fear": 0.167858,
+        "disgust": 0.181964,
+        "anger": 0.166579
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Anthony Portantino",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anthony_Portantino"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": 0.567068,
+        "label": "positive"
+      },
+      "relevance": 0.545075,
+      "mentions": [
+        {
+          "text": "California",
+          "location": [
+            103,
+            113
+          ]
+        },
+        {
+          "text": "the first state",
+          "location": [
+            122,
+            137
+          ]
+        },
+        {
+          "text": "California",
+          "location": [
+            277,
+            287
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.532432,
+        "joy": 0.246757,
+        "fear": 0.042973,
+        "disgust": 0.184419,
+        "anger": 0.031202
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "Appellation",
+          "GovernmentalJurisdiction",
+          "USState",
+          "WineRegion",
+          "StateOrCounty"
+        ],
+        "name": "California",
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "School",
+      "relevance": 0.927709,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Elementary school",
+      "relevance": 0.903822,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elementary_school"
+    },
+    {
+      "text": "Entropy",
+      "relevance": 0.748251,
+      "dbpedia_resource": "http://dbpedia.org/resource/Entropy"
+    },
+    {
+      "text": "Energy",
+      "relevance": 0.741904,
+      "dbpedia_resource": "http://dbpedia.org/resource/Energy"
+    },
+    {
+      "text": "Time",
+      "relevance": 0.721008,
+      "dbpedia_resource": "http://dbpedia.org/resource/Time"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999565,
+      "label": "/education/special education"
+    }
+  ]
+}

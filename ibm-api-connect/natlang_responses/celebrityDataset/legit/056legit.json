@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Cattrall",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.938646,
+      "emotion": {
+        "sadness": 0.228778,
+        "joy": 0.373169,
+        "fear": 0.132941,
+        "disgust": 0.304862,
+        "anger": 0.07371
+      },
+      "count": 1
+    },
+    {
+      "text": "Sarah Jessica Parker Puts Rumors of Feud",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.426478,
+      "emotion": {
+        "sadness": 0.228778,
+        "joy": 0.373169,
+        "fear": 0.132941,
+        "disgust": 0.304862,
+        "anger": 0.07371
+      },
+      "count": 1
+    },
+    {
+      "text": "Birthday Instagram",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.389208,
+      "emotion": {
+        "sadness": 0.228778,
+        "joy": 0.373169,
+        "fear": 0.132941,
+        "disgust": 0.304862,
+        "anger": 0.07371
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Cattrall",
+      "sentiment": {
+        "score": 0.98238,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Cattrall",
+          "location": [
+            46,
+            58
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.228778,
+        "joy": 0.373169,
+        "fear": 0.132941,
+        "disgust": 0.304862,
+        "anger": 0.07371
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Cattrall",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Cattrall"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sarah Jessica Parker",
+      "sentiment": {
+        "score": 0.98238,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Sarah Jessica Parker",
+          "location": [
+            0,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.228778,
+        "joy": 0.373169,
+        "fear": 0.132941,
+        "disgust": 0.304862,
+        "anger": 0.07371
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "Hobbyist",
+          "TheaterActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Sarah Jessica Parker",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sarah_Jessica_Parker"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Cattrall",
+      "relevance": 0.895888,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Cattrall"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.718715,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

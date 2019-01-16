@@ -1,0 +1,270 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 793,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.540731,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.784038,
+        "label": "negative"
+      },
+      "relevance": 0.806528,
+      "emotion": {
+        "sadness": 0.499088,
+        "joy": 0.225534,
+        "fear": 0.289804,
+        "disgust": 0.074336,
+        "anger": 0.088537
+      },
+      "count": 2
+    },
+    {
+      "text": "American trade",
+      "sentiment": {
+        "score": -0.808839,
+        "label": "negative"
+      },
+      "relevance": 0.732049,
+      "emotion": {
+        "sadness": 0.542906,
+        "joy": 0.266036,
+        "fear": 0.191432,
+        "disgust": 0.089379,
+        "anger": 0.049927
+      },
+      "count": 1
+    },
+    {
+      "text": "Mexican leadership",
+      "sentiment": {
+        "score": -0.760347,
+        "label": "negative"
+      },
+      "relevance": 0.721009,
+      "emotion": {
+        "sadness": 0.288122,
+        "joy": 0.245638,
+        "fear": 0.299818,
+        "disgust": 0.070218,
+        "anger": 0.200733
+      },
+      "count": 1
+    },
+    {
+      "text": "expense of American companies",
+      "sentiment": {
+        "score": 0.532517,
+        "label": "positive"
+      },
+      "relevance": 0.701296,
+      "emotion": {
+        "sadness": 0.414312,
+        "joy": 0.056323,
+        "fear": 0.159815,
+        "disgust": 0.393263,
+        "anger": 0.202756
+      },
+      "count": 1
+    },
+    {
+      "text": "trade deal",
+      "sentiment": {
+        "score": -0.760347,
+        "label": "negative"
+      },
+      "relevance": 0.700928,
+      "emotion": {
+        "sadness": 0.288122,
+        "joy": 0.245638,
+        "fear": 0.299818,
+        "disgust": 0.070218,
+        "anger": 0.200733
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.904403,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            412,
+            427
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            747,
+            762
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.382221,
+        "joy": 0.240504,
+        "fear": 0.100406,
+        "disgust": 0.213524,
+        "anger": 0.142556
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "sentiment": {
+        "score": -0.51232,
+        "label": "negative"
+      },
+      "relevance": 0.66297,
+      "mentions": [
+        {
+          "text": "Mexicans",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Mexico",
+          "location": [
+            70,
+            76
+          ]
+        },
+        {
+          "text": "Mexico",
+          "location": [
+            603,
+            609
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.429071,
+        "joy": 0.363097,
+        "fear": 0.183239,
+        "disgust": 0.043842,
+        "anger": 0.12076
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "FilmCinematographer",
+          "Country"
+        ],
+        "name": "Mexico",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mexico"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.698579,
+        "label": "negative"
+      },
+      "relevance": 0.34011,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            596,
+            598
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.457925,
+        "joy": 0.3146,
+        "fear": 0.28425,
+        "disgust": 0.039913,
+        "anger": 0.048721
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$500 billion",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.34011,
+      "mentions": [
+        {
+          "text": "$500 billion",
+          "location": [
+            558,
+            570
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mexico",
+      "relevance": 0.951879,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mexico"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.656,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Maize",
+      "relevance": 0.541512,
+      "dbpedia_resource": "http://dbpedia.org/resource/Maize"
+    },
+    {
+      "text": "North American Free Trade Agreement",
+      "relevance": 0.513461,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_American_Free_Trade_Agreement"
+    },
+    {
+      "text": "Economics",
+      "relevance": 0.415113,
+      "dbpedia_resource": "http://dbpedia.org/resource/Economics"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.771088,
+      "label": "/society/work/unemployment"
+    }
+  ]
+}

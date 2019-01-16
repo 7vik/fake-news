@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 595,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.714638,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wellesley College",
+      "sentiment": {
+        "score": -0.818278,
+        "label": "negative"
+      },
+      "relevance": 0.91935,
+      "emotion": {
+        "sadness": 0.06693,
+        "joy": 0.483281,
+        "fear": 0.017839,
+        "disgust": 0.406317,
+        "anger": 0.14617
+      },
+      "count": 2
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.818278,
+        "label": "negative"
+      },
+      "relevance": 0.865178,
+      "emotion": {
+        "sadness": 0.06693,
+        "joy": 0.483281,
+        "fear": 0.017839,
+        "disgust": 0.406317,
+        "anger": 0.14617
+      },
+      "count": 1
+    },
+    {
+      "text": "Former Secretary of State Hillary Clinton",
+      "sentiment": {
+        "score": -0.818278,
+        "label": "negative"
+      },
+      "relevance": 0.835861,
+      "emotion": {
+        "sadness": 0.07528,
+        "joy": 0.467723,
+        "fear": 0.028649,
+        "disgust": 0.43063,
+        "anger": 0.122103
+      },
+      "count": 1
+    },
+    {
+      "text": "Wellesley's student newspaper reports",
+      "sentiment": {
+        "score": -0.818278,
+        "label": "negative"
+      },
+      "relevance": 0.808506,
+      "emotion": {
+        "sadness": 0.07528,
+        "joy": 0.467723,
+        "fear": 0.028649,
+        "disgust": 0.43063,
+        "anger": 0.122103
+      },
+      "count": 1
+    },
+    {
+      "text": "commencement speech",
+      "sentiment": {
+        "score": -0.818278,
+        "label": "negative"
+      },
+      "relevance": 0.782341,
+      "emotion": {
+        "sadness": 0.07528,
+        "joy": 0.467723,
+        "fear": 0.028649,
+        "disgust": 0.43063,
+        "anger": 0.122103
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.268281,
+        "label": "negative"
+      },
+      "relevance": 0.835174,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            99,
+            114
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            532,
+            539
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.433478,
+        "joy": 0.164005,
+        "fear": 0.035763,
+        "disgust": 0.13703,
+        "anger": 0.096473
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Wellesley College",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.792514,
+      "mentions": [
+        {
+          "text": "Wellesley College",
+          "location": [
+            27,
+            44
+          ]
+        },
+        {
+          "text": "Wellesley College",
+          "location": [
+            146,
+            163
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.379176,
+        "joy": 0.299299,
+        "fear": 0.159012,
+        "disgust": 0.110274,
+        "anger": 0.088949
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Wellesley College",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wellesley_College"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Wellesley",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.410022,
+      "mentions": [
+        {
+          "text": "Wellesley",
+          "location": [
+            227,
+            236
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.379176,
+        "joy": 0.299299,
+        "fear": 0.159012,
+        "disgust": 0.110274,
+        "anger": 0.088949
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "College Government",
+      "sentiment": {
+        "score": -0.268281,
+        "label": "negative"
+      },
+      "relevance": 0.330402,
+      "mentions": [
+        {
+          "text": "College Government",
+          "location": [
+            475,
+            493
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252814,
+        "joy": 0.146946,
+        "fear": 0.020595,
+        "disgust": 0.657508,
+        "anger": 0.10036
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Young Republicans Club",
+      "sentiment": {
+        "score": -0.268281,
+        "label": "negative"
+      },
+      "relevance": 0.284885,
+      "mentions": [
+        {
+          "text": "Young Republicans Club",
+          "location": [
+            431,
+            453
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252814,
+        "joy": 0.146946,
+        "fear": 0.020595,
+        "disgust": 0.657508,
+        "anger": 0.10036
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.948063,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Graduation",
+      "relevance": 0.82566,
+      "dbpedia_resource": "http://dbpedia.org/resource/Graduation"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.821655,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.720369,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Commencement speech",
+      "relevance": 0.69993,
+      "dbpedia_resource": "http://dbpedia.org/resource/Commencement_speech"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.96573,
+      "label": "/education/graduate school/college administration"
+    }
+  ]
+}

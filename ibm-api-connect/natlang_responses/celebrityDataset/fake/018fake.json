@@ -1,0 +1,123 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 40,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.712502,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian Divorce Kanye West",
+      "sentiment": {
+        "score": -0.712502,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.523427,
+        "joy": 0.045909,
+        "fear": 0.036974,
+        "disgust": 0.16019,
+        "anger": 0.315499
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.798005,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            5,
+            19
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.556105,
+        "joy": 0.069386,
+        "fear": 0.033148,
+        "disgust": 0.145399,
+        "anger": 0.289615
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.798005,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            28,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.556105,
+        "joy": 0.069386,
+        "fear": 0.033148,
+        "disgust": 0.145399,
+        "anger": 0.289615
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998698,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

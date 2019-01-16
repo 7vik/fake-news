@@ -1,0 +1,268 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 520,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.314275,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0.953142,
+        "label": "positive"
+      },
+      "relevance": 0.932255,
+      "emotion": {
+        "sadness": 0.027908,
+        "joy": 0.889606,
+        "fear": 0.019987,
+        "disgust": 0.018343,
+        "anger": 0.037779
+      },
+      "count": 1
+    },
+    {
+      "text": "Sebastian Vettel's win",
+      "sentiment": {
+        "score": 0.953142,
+        "label": "positive"
+      },
+      "relevance": 0.895581,
+      "emotion": {
+        "sadness": 0.027908,
+        "joy": 0.889606,
+        "fear": 0.019987,
+        "disgust": 0.018343,
+        "anger": 0.037779
+      },
+      "count": 1
+    },
+    {
+      "text": "Sunday's Australian Grand Prix",
+      "sentiment": {
+        "score": 0.953142,
+        "label": "positive"
+      },
+      "relevance": 0.816099,
+      "emotion": {
+        "sadness": 0.027908,
+        "joy": 0.889606,
+        "fear": 0.019987,
+        "disgust": 0.018343,
+        "anger": 0.037779
+      },
+      "count": 1
+    },
+    {
+      "text": "16-time world champion",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.77567,
+      "emotion": {
+        "sadness": 0.069233,
+        "joy": 0.824379,
+        "fear": 0.024267,
+        "disgust": 0.027349,
+        "anger": 0.055694
+      },
+      "count": 1
+    },
+    {
+      "text": "Singapore Grand Prix",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.725852,
+      "emotion": {
+        "sadness": 0.069233,
+        "joy": 0.824379,
+        "fear": 0.024267,
+        "disgust": 0.027349,
+        "anger": 0.055694
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Ferrari",
+      "sentiment": {
+        "score": 0.087134,
+        "label": "positive"
+      },
+      "relevance": 0.907337,
+      "mentions": [
+        {
+          "text": "Ferrari",
+          "location": [
+            14,
+            21
+          ]
+        },
+        {
+          "text": "Ferrari",
+          "location": [
+            310,
+            317
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.040724,
+        "joy": 0.853231,
+        "fear": 0.028533,
+        "disgust": 0.026071,
+        "anger": 0.070459
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam"
+        ],
+        "name": "Scuderia Ferrari",
+        "dbpedia_resource": "http://dbpedia.org/resource/Scuderia_Ferrari"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Singapore Grand Prix",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.879055,
+      "mentions": [
+        {
+          "text": "Singapore Grand Prix",
+          "location": [
+            498,
+            518
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.069233,
+        "joy": 0.824379,
+        "fear": 0.024267,
+        "disgust": 0.027349,
+        "anger": 0.055694
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Grand Prix",
+      "sentiment": {
+        "score": 0.601757,
+        "label": "positive"
+      },
+      "relevance": 0.812829,
+      "mentions": [
+        {
+          "text": "Grand Prix",
+          "location": [
+            267,
+            277
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.057335,
+        "joy": 0.84532,
+        "fear": 0.027111,
+        "disgust": 0.032654,
+        "anger": 0.039618
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sebastian Vettel",
+      "sentiment": {
+        "score": 0.601757,
+        "label": "positive"
+      },
+      "relevance": 0.755437,
+      "mentions": [
+        {
+          "text": "Sebastian Vettel",
+          "location": [
+            221,
+            237
+          ]
+        },
+        {
+          "text": "Vettel",
+          "location": [
+            483,
+            489
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.069233,
+        "joy": 0.824379,
+        "fear": 0.024267,
+        "disgust": 0.027349,
+        "anger": 0.055694
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete"
+        ],
+        "name": "Sebastian Vettel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sebastian_Vettel"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Formula One",
+      "relevance": 0.969916,
+      "dbpedia_resource": "http://dbpedia.org/resource/Formula_One"
+    },
+    {
+      "text": "2008 Formula One season",
+      "relevance": 0.74479,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Formula_One_season"
+    },
+    {
+      "text": "Michael Schumacher",
+      "relevance": 0.7221,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michael_Schumacher"
+    },
+    {
+      "text": "Fernando Alonso",
+      "relevance": 0.653826,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fernando_Alonso"
+    },
+    {
+      "text": "Red Bull Racing",
+      "relevance": 0.639813,
+      "dbpedia_resource": "http://dbpedia.org/resource/Red_Bull_Racing"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.88255,
+      "label": "/automotive and vehicles/cars/performance vehicles"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 717,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.504249,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.498255,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.850165,
+      "emotion": {
+        "sadness": 0.179716,
+        "joy": 0.170959,
+        "fear": 0.155159,
+        "disgust": 0.206452,
+        "anger": 0.381309
+      },
+      "count": 2
+    },
+    {
+      "text": "Trump rally",
+      "sentiment": {
+        "score": -0.94824,
+        "label": "negative"
+      },
+      "relevance": 0.850083,
+      "emotion": {
+        "sadness": 0.245605,
+        "joy": 0.03211,
+        "fear": 0.027127,
+        "disgust": 0.310327,
+        "anger": 0.599351
+      },
+      "count": 1
+    },
+    {
+      "text": "Federal Communications Commission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.816829,
+      "emotion": {
+        "sadness": 0.451709,
+        "joy": 0.130869,
+        "fear": 0.080663,
+        "disgust": 0.138567,
+        "anger": 0.056943
+      },
+      "count": 1
+    },
+    {
+      "text": "industry leaders Comcast",
+      "sentiment": {
+        "score": -0.94824,
+        "label": "negative"
+      },
+      "relevance": 0.723283,
+      "emotion": {
+        "sadness": 0.245605,
+        "joy": 0.03211,
+        "fear": 0.027127,
+        "disgust": 0.310327,
+        "anger": 0.599351
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump supports",
+      "sentiment": {
+        "score": -0.94824,
+        "label": "negative"
+      },
+      "relevance": 0.710427,
+      "emotion": {
+        "sadness": 0.381822,
+        "joy": 0.1473,
+        "fear": 0.042116,
+        "disgust": 0.165565,
+        "anger": 0.363411
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.913693,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            203,
+            208
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            424,
+            429
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.435132,
+        "joy": 0.054427,
+        "fear": 0.035937,
+        "disgust": 0.241013,
+        "anger": 0.406668
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.032824,
+        "label": "negative"
+      },
+      "relevance": 0.884147,
+      "mentions": [
+        {
+          "text": "Silicon Valley",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Silicon Valley",
+          "location": [
+            219,
+            233
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20304,
+        "joy": 0.215305,
+        "fear": 0.119042,
+        "disgust": 0.085281,
+        "anger": 0.417021
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Silicon Valley California",
+      "sentiment": {
+        "score": -0.658187,
+        "label": "negative"
+      },
+      "relevance": 0.620112,
+      "mentions": [
+        {
+          "text": "Silicon Valley California",
+          "location": [
+            690,
+            715
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.169749,
+        "joy": 0.087181,
+        "fear": 0.192467,
+        "disgust": 0.240706,
+        "anger": 0.114042
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Federal Communications Commission",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.363733,
+      "mentions": [
+        {
+          "text": "Federal Communications Commission",
+          "location": [
+            346,
+            379
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.451709,
+        "joy": 0.130869,
+        "fear": 0.080663,
+        "disgust": 0.138567,
+        "anger": 0.056943
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Federal Communications Commission",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Communications_Commission"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Internet",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet"
+    },
+    {
+      "text": "Silicon Valley",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Silicon_Valley"
+    },
+    {
+      "text": "Federal Communications Commission",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Communications_Commission"
+    },
+    {
+      "text": "Comcast",
+      "relevance": 0.857396,
+      "dbpedia_resource": "http://dbpedia.org/resource/Comcast"
+    },
+    {
+      "text": "Stanford University",
+      "relevance": 0.780247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stanford_University"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998391,
+      "label": "/technology and computing/internet technology"
+    }
+  ]
+}

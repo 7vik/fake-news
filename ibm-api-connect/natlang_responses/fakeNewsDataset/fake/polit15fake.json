@@ -1,0 +1,297 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 787,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.45324,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "win-win",
+      "sentiment": {
+        "score": 0.739067,
+        "label": "positive"
+      },
+      "relevance": 0.886513,
+      "emotion": {
+        "sadness": 0.079776,
+        "joy": 0.776919,
+        "fear": 0.053508,
+        "disgust": 0.029407,
+        "anger": 0.069546
+      },
+      "count": 1
+    },
+    {
+      "text": "Justification documents",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.748202,
+      "emotion": {
+        "sadness": 0.043185,
+        "joy": 0.261326,
+        "fear": 0.163306,
+        "disgust": 0.06569,
+        "anger": 0.111586
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.751295,
+        "label": "negative"
+      },
+      "relevance": 0.724993,
+      "emotion": {
+        "sadness": 0.274554,
+        "joy": 0.296964,
+        "fear": 0.19059,
+        "disgust": 0.090254,
+        "anger": 0.045286
+      },
+      "count": 1
+    },
+    {
+      "text": "first section",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.698419,
+      "emotion": {
+        "sadness": 0.385136,
+        "joy": 0.110722,
+        "fear": 0.031938,
+        "disgust": 0.017078,
+        "anger": 0.166477
+      },
+      "count": 1
+    },
+    {
+      "text": "Press Secretary Sean Spicer",
+      "sentiment": {
+        "score": -0.722958,
+        "label": "negative"
+      },
+      "relevance": 0.665704,
+      "emotion": {
+        "sadness": 0.293648,
+        "joy": 0.337068,
+        "fear": 0.086136,
+        "disgust": 0.16605,
+        "anger": 0.144648
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sean Spicer",
+      "sentiment": {
+        "score": -0.533304,
+        "label": "negative"
+      },
+      "relevance": 0.929883,
+      "mentions": [
+        {
+          "text": "Sean Spicer",
+          "location": [
+            623,
+            634
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            674,
+            676
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            774,
+            780
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.52847,
+        "joy": 0.101326,
+        "fear": 0.15247,
+        "disgust": 0.210211,
+        "anger": 0.206014
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.839542,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            9,
+            12
+          ]
+        },
+        {
+          "text": "CNN",
+          "location": [
+            94,
+            97
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.291598,
+        "joy": 0.271938,
+        "fear": 0.023309,
+        "disgust": 0.06835,
+        "anger": 0.069584
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Department of Homeland Security",
+      "sentiment": {
+        "score": 0.302281,
+        "label": "positive"
+      },
+      "relevance": 0.536375,
+      "mentions": [
+        {
+          "text": "Department of Homeland Security",
+          "location": [
+            327,
+            358
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.070932,
+        "joy": 0.205191,
+        "fear": 0.198051,
+        "disgust": 0.085284,
+        "anger": 0.105271
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Press Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.419822,
+      "mentions": [
+        {
+          "text": "Press Secretary",
+          "location": [
+            607,
+            622
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.220875,
+        "joy": 0.169627,
+        "fear": 0.134356,
+        "disgust": 0.160865,
+        "anger": 0.073555
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.398362,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            82,
+            92
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Immigration",
+      "relevance": 0.919999,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration"
+    },
+    {
+      "text": "Human migration",
+      "relevance": 0.702561,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_migration"
+    },
+    {
+      "text": "United States Department of Homeland Security",
+      "relevance": 0.657892,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Homeland_Security"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.613142,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Immigration to the United States",
+      "relevance": 0.56994,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration_to_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.911131,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

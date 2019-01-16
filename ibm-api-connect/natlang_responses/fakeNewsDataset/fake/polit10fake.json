@@ -1,0 +1,295 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 773,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.69482,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Moderator Chris Wallace",
+      "sentiment": {
+        "score": -0.784049,
+        "label": "negative"
+      },
+      "relevance": 0.873237,
+      "emotion": {
+        "sadness": 0.175771,
+        "joy": 0.231524,
+        "fear": 0.340465,
+        "disgust": 0.260165,
+        "anger": 0.20997
+      },
+      "count": 1
+    },
+    {
+      "text": "Wednesday night's debate",
+      "sentiment": {
+        "score": -0.784049,
+        "label": "negative"
+      },
+      "relevance": 0.736203,
+      "emotion": {
+        "sadness": 0.175771,
+        "joy": 0.231524,
+        "fear": 0.340465,
+        "disgust": 0.260165,
+        "anger": 0.20997
+      },
+      "count": 1
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.312497,
+        "label": "negative"
+      },
+      "relevance": 0.649778,
+      "emotion": {
+        "sadness": 0.242297,
+        "joy": 0.392115,
+        "fear": 0.034195,
+        "disgust": 0.285141,
+        "anger": 0.213176
+      },
+      "count": 1
+    },
+    {
+      "text": "own issues",
+      "sentiment": {
+        "score": -0.312497,
+        "label": "negative"
+      },
+      "relevance": 0.631935,
+      "emotion": {
+        "sadness": 0.242297,
+        "joy": 0.392115,
+        "fear": 0.034195,
+        "disgust": 0.285141,
+        "anger": 0.213176
+      },
+      "count": 1
+    },
+    {
+      "text": "town hall style debate",
+      "sentiment": {
+        "score": -0.654442,
+        "label": "negative"
+      },
+      "relevance": 0.610616,
+      "emotion": {
+        "sadness": 0.141261,
+        "joy": 0.067607,
+        "fear": 0.162129,
+        "disgust": 0.622687,
+        "anger": 0.186106
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Clinton",
+      "sentiment": {
+        "score": -0.498456,
+        "label": "negative"
+      },
+      "relevance": 0.900779,
+      "mentions": [
+        {
+          "text": "Clinton",
+          "location": [
+            76,
+            83
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            103,
+            110
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            392,
+            399
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.071952,
+        "joy": 0.180142,
+        "fear": 0.253837,
+        "disgust": 0.081955,
+        "anger": 0.607493
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Chris Wallace",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.415605,
+      "mentions": [
+        {
+          "text": "Chris Wallace",
+          "location": [
+            10,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.349356,
+        "joy": 0.096667,
+        "fear": 0.10975,
+        "disgust": 0.256593,
+        "anger": 0.107855
+      },
+      "disambiguation": {
+        "subtype": [
+          "ComputerScientist"
+        ],
+        "name": "Chris Wallace",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Wallace"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "town hall",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.34248,
+      "mentions": [
+        {
+          "text": "town hall",
+          "location": [
+            256,
+            265
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147605,
+        "joy": 0.176263,
+        "fear": 0.163679,
+        "disgust": 0.41184,
+        "anger": 0.190113
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Building"
+        ],
+        "name": "The Town Hall",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Town_Hall"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "NAFTA",
+      "sentiment": {
+        "score": -0.434954,
+        "label": "negative"
+      },
+      "relevance": 0.336761,
+      "mentions": [
+        {
+          "text": "NAFTA",
+          "location": [
+            484,
+            489
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076197,
+        "joy": 0.087382,
+        "fear": 0.058846,
+        "disgust": 0.037201,
+        "anger": 0.734932
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "North American Free Trade Agreement",
+        "dbpedia_resource": "http://dbpedia.org/resource/North_American_Free_Trade_Agreement"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.297896,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            583,
+            594
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156214,
+        "joy": 0.317131,
+        "fear": 0.203049,
+        "disgust": 0.20091,
+        "anger": 0.185136
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.98801,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.889474,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.708223,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Thomas Jefferson",
+      "relevance": 0.659877,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thomas_Jefferson"
+    },
+    {
+      "text": "Elections",
+      "relevance": 0.566979,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elections"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.913503,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

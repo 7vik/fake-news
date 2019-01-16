@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 618,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.650671,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Toshiba's Westinghouse",
+      "sentiment": {
+        "score": 0.960584,
+        "label": "positive"
+      },
+      "relevance": 0.857622,
+      "emotion": {
+        "sadness": 0.04064,
+        "joy": 0.413088,
+        "fear": 0.140551,
+        "disgust": 0.060966,
+        "anger": 0.109597
+      },
+      "count": 2
+    },
+    {
+      "text": "US citizens",
+      "sentiment": {
+        "score": 0.960584,
+        "label": "positive"
+      },
+      "relevance": 0.856251,
+      "emotion": {
+        "sadness": 0.130389,
+        "joy": 0.355005,
+        "fear": 0.070606,
+        "disgust": 0.055987,
+        "anger": 0.102191
+      },
+      "count": 1
+    },
+    {
+      "text": "parent company",
+      "sentiment": {
+        "score": -0.44731,
+        "label": "negative"
+      },
+      "relevance": 0.721851,
+      "emotion": {
+        "sadness": 0.210012,
+        "joy": 0.66899,
+        "fear": 0.023554,
+        "disgust": 0.016146,
+        "anger": 0.037041
+      },
+      "count": 1
+    },
+    {
+      "text": "US units",
+      "sentiment": {
+        "score": -0.44731,
+        "label": "negative"
+      },
+      "relevance": 0.665551,
+      "emotion": {
+        "sadness": 0.210012,
+        "joy": 0.66899,
+        "fear": 0.023554,
+        "disgust": 0.016146,
+        "anger": 0.037041
+      },
+      "count": 1
+    },
+    {
+      "text": "job market",
+      "sentiment": {
+        "score": 0.960584,
+        "label": "positive"
+      },
+      "relevance": 0.6595,
+      "emotion": {
+        "sadness": 0.130389,
+        "joy": 0.355005,
+        "fear": 0.070606,
+        "disgust": 0.055987,
+        "anger": 0.102191
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.723631,
+        "label": "positive"
+      },
+      "relevance": 0.889874,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            115,
+            117
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            329,
+            331
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            357,
+            359
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.104736,
+        "joy": 0.760166,
+        "fear": 0.030326,
+        "disgust": 0.015904,
+        "anger": 0.067956
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Westinghouse",
+      "sentiment": {
+        "score": 0.780333,
+        "label": "positive"
+      },
+      "relevance": 0.870944,
+      "mentions": [
+        {
+          "text": "Westinghouse",
+          "location": [
+            10,
+            22
+          ]
+        },
+        {
+          "text": "Westinghouse",
+          "location": [
+            129,
+            141
+          ]
+        },
+        {
+          "text": "Westinghouse",
+          "location": [
+            538,
+            550
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.005725,
+        "joy": 0.566918,
+        "fear": 0.023493,
+        "disgust": 0.039187,
+        "anger": 0.045114
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Westinghouse Electric Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Westinghouse_Electric_Company"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Toshiba",
+      "sentiment": {
+        "score": 0.890949,
+        "label": "positive"
+      },
+      "relevance": 0.705754,
+      "mentions": [
+        {
+          "text": "Toshiba",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            56,
+            58
+          ]
+        },
+        {
+          "text": "Toshiba",
+          "location": [
+            119,
+            126
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            190,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.042828,
+        "joy": 0.40693,
+        "fear": 0.140132,
+        "disgust": 0.062016,
+        "anger": 0.110878
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.723631,
+        "label": "positive"
+      },
+      "relevance": 0.395481,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            73,
+            78
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            157,
+            159
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.038673,
+        "joy": 0.330236,
+        "fear": 0.160143,
+        "disgust": 0.075511,
+        "anger": 0.09524
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Southern United States",
+      "relevance": 0.908411,
+      "dbpedia_resource": "http://dbpedia.org/resource/Southern_United_States"
+    },
+    {
+      "text": "North Carolina",
+      "relevance": 0.790268,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina"
+    },
+    {
+      "text": "Thomas Jefferson",
+      "relevance": 0.763592,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thomas_Jefferson"
+    },
+    {
+      "text": "Georgia",
+      "relevance": 0.746117,
+      "dbpedia_resource": "http://dbpedia.org/resource/Georgia_(U.S._state)"
+    },
+    {
+      "text": "Tennessee",
+      "relevance": 0.729814,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tennessee"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.841535,
+      "label": "/business and industrial/company/earnings"
+    }
+  ]
+}

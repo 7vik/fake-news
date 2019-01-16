@@ -1,0 +1,301 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 990,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.511916,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.653743,
+        "label": "positive"
+      },
+      "relevance": 0.822973,
+      "emotion": {
+        "sadness": 0.248296,
+        "joy": 0.488724,
+        "fear": 0.057557,
+        "disgust": 0.169955,
+        "anger": 0.1496
+      },
+      "count": 1
+    },
+    {
+      "text": "French thing",
+      "sentiment": {
+        "score": -0.639792,
+        "label": "negative"
+      },
+      "relevance": 0.805443,
+      "emotion": {
+        "sadness": 0.556074,
+        "joy": 0.122093,
+        "fear": 0.294868,
+        "disgust": 0.060333,
+        "anger": 0.186042
+      },
+      "count": 1
+    },
+    {
+      "text": "maternal grandfather",
+      "sentiment": {
+        "score": -0.285677,
+        "label": "negative"
+      },
+      "relevance": 0.717505,
+      "emotion": {
+        "sadness": 0.248296,
+        "joy": 0.488724,
+        "fear": 0.057557,
+        "disgust": 0.169955,
+        "anger": 0.1496
+      },
+      "count": 1
+    },
+    {
+      "text": "41-year-old mother",
+      "sentiment": {
+        "score": -0.285677,
+        "label": "negative"
+      },
+      "relevance": 0.683052,
+      "emotion": {
+        "sadness": 0.248296,
+        "joy": 0.488724,
+        "fear": 0.057557,
+        "disgust": 0.169955,
+        "anger": 0.1496
+      },
+      "count": 1
+    },
+    {
+      "text": "Angie\u2019s camp",
+      "sentiment": {
+        "score": -0.639792,
+        "label": "negative"
+      },
+      "relevance": 0.677504,
+      "emotion": {
+        "sadness": 0.030188,
+        "joy": 0.251936,
+        "fear": 0.074423,
+        "disgust": 0.025595,
+        "anger": 0.292129
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.760214,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            74,
+            77
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.381211,
+        "joy": 0.492919,
+        "fear": 0.047335,
+        "disgust": 0.015887,
+        "anger": 0.115296
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.233801,
+        "label": "positive"
+      },
+      "relevance": 0.554465,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            305,
+            314
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.174994,
+        "joy": 0.474097,
+        "fear": 0.092448,
+        "disgust": 0.126349,
+        "anger": 0.072142
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Angie",
+      "sentiment": {
+        "score": -0.315609,
+        "label": "negative"
+      },
+      "relevance": 0.547503,
+      "mentions": [
+        {
+          "text": "Angie",
+          "location": [
+            351,
+            356
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            414,
+            417
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.431161,
+        "joy": 0.47162,
+        "fear": 0.038928,
+        "disgust": 0.010036,
+        "anger": 0.105422
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The National ENQUIRER",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.439822,
+      "mentions": [
+        {
+          "text": "The National ENQUIRER",
+          "location": [
+            105,
+            126
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.533953,
+        "joy": 0.071278,
+        "fear": 0.099087,
+        "disgust": 0.269429,
+        "anger": 0.315274
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "National Enquirer",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Enquirer"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "41-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.439822,
+      "mentions": [
+        {
+          "text": "41-year",
+          "location": [
+            131,
+            138
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.966989,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.85895,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.761354,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.729103,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.645959,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.742734,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

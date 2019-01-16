@@ -1,0 +1,337 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 624,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.665218,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.936396,
+      "emotion": {
+        "sadness": 0.199944,
+        "joy": 0.059977,
+        "fear": 0.0527,
+        "disgust": 0.672011,
+        "anger": 0.287865
+      },
+      "count": 2
+    },
+    {
+      "text": "businessman Donald Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.854572,
+      "emotion": {
+        "sadness": 0.243026,
+        "joy": 0.062056,
+        "fear": 0.057195,
+        "disgust": 0.642051,
+        "anger": 0.253183
+      },
+      "count": 1
+    },
+    {
+      "text": "Presidential nominee",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.701709,
+      "emotion": {
+        "sadness": 0.243026,
+        "joy": 0.062056,
+        "fear": 0.057195,
+        "disgust": 0.642051,
+        "anger": 0.253183
+      },
+      "count": 1
+    },
+    {
+      "text": "size of his towers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.656659,
+      "emotion": {
+        "sadness": 0.619427,
+        "joy": 0.051223,
+        "fear": 0.08794,
+        "disgust": 0.152106,
+        "anger": 0.083575
+      },
+      "count": 1
+    },
+    {
+      "text": "republican opponent",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.653598,
+      "emotion": {
+        "sadness": 0.243026,
+        "joy": 0.062056,
+        "fear": 0.057195,
+        "disgust": 0.642051,
+        "anger": 0.253183
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.074229,
+        "label": "negative"
+      },
+      "relevance": 0.796587,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            172,
+            184
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            201,
+            206
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            245,
+            247
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            345,
+            350
+          ]
+        },
+        {
+          "text": "Donald",
+          "location": [
+            449,
+            455
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            518,
+            523
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.616801,
+        "joy": 0.101523,
+        "fear": 0.059849,
+        "disgust": 0.217061,
+        "anger": 0.095644
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.668587,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            38,
+            53
+          ]
+        },
+        {
+          "text": "Hillary",
+          "location": [
+            186,
+            193
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            385,
+            388
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            475,
+            478
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.243323,
+        "joy": 0.386934,
+        "fear": 0.095866,
+        "disgust": 0.259965,
+        "anger": 0.065208
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Vladimir Putin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.222286,
+      "emotion": {
+        "sadness": 0.298879,
+        "joy": 0.118489,
+        "fear": 0.234866,
+        "disgust": 0.07601,
+        "anger": 0.035687
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "MartialArtist",
+          "PoliticalAppointer",
+          "TVActor"
+        ],
+        "name": "Vladimir Putin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vladimir_Putin"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194916,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            301,
+            308
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George W. Bush",
+      "relevance": 0.950489,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "John McCain",
+      "relevance": 0.690732,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_McCain"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.636111,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.636101,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.602528,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.991173,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

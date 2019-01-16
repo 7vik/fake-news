@@ -1,0 +1,212 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 76,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999883,
+      "emotion": {
+        "sadness": 0.271308,
+        "joy": 0.08886,
+        "fear": 0.068284,
+        "disgust": 0.557314,
+        "anger": 0.194527
+      },
+      "count": 1
+    },
+    {
+      "text": "son Maddox",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.241363,
+      "emotion": {
+        "sadness": 0.271308,
+        "joy": 0.08886,
+        "fear": 0.068284,
+        "disgust": 0.557314,
+        "anger": 0.194527
+      },
+      "count": 1
+    },
+    {
+      "text": "mum Angelina Jolie",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.06006,
+      "emotion": {
+        "sadness": 0.271308,
+        "joy": 0.08886,
+        "fear": 0.068284,
+        "disgust": 0.557314,
+        "anger": 0.194527
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Maddox",
+      "sentiment": {
+        "score": -0.531166,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Maddox",
+          "location": [
+            25,
+            31
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            37,
+            39
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246551,
+        "joy": 0.105768,
+        "fear": 0.056547,
+        "disgust": 0.564203,
+        "anger": 0.20809
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.531166,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            60,
+            74
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.271308,
+        "joy": 0.08886,
+        "fear": 0.068284,
+        "disgust": 0.557314,
+        "anger": 0.194527
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.531166,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.271308,
+        "joy": 0.08886,
+        "fear": 0.068284,
+        "disgust": 0.557314,
+        "anger": 0.194527
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.967725,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.895155,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.800157,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.766173,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    },
+    {
+      "text": "People",
+      "relevance": 0.677957,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.568521,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

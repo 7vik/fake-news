@@ -1,0 +1,315 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1156,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.799607,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kylie Jenner Desperate",
+      "sentiment": {
+        "score": -0.623662,
+        "label": "negative"
+      },
+      "relevance": 0.862637,
+      "emotion": {
+        "sadness": 0.251585,
+        "joy": 0.125955,
+        "fear": 0.149376,
+        "disgust": 0.181124,
+        "anger": 0.206777
+      },
+      "count": 1
+    },
+    {
+      "text": "ex-sugar mama Kylie Jenner",
+      "sentiment": {
+        "score": -0.623662,
+        "label": "negative"
+      },
+      "relevance": 0.741218,
+      "emotion": {
+        "sadness": 0.15284,
+        "joy": 0.603523,
+        "fear": 0.019501,
+        "disgust": 0.04512,
+        "anger": 0.096089
+      },
+      "count": 1
+    },
+    {
+      "text": "surprise Kris Jenner",
+      "sentiment": {
+        "score": -0.927292,
+        "label": "negative"
+      },
+      "relevance": 0.720606,
+      "emotion": {
+        "sadness": 0.468167,
+        "joy": 0.053571,
+        "fear": 0.133174,
+        "disgust": 0.500734,
+        "anger": 0.131833
+      },
+      "count": 1
+    },
+    {
+      "text": "26-year-old Tyga's shock",
+      "sentiment": {
+        "score": -0.927292,
+        "label": "negative"
+      },
+      "relevance": 0.720558,
+      "emotion": {
+        "sadness": 0.468167,
+        "joy": 0.053571,
+        "fear": 0.133174,
+        "disgust": 0.500734,
+        "anger": 0.131833
+      },
+      "count": 1
+    },
+    {
+      "text": "fiscal responsibility",
+      "sentiment": {
+        "score": -0.946411,
+        "label": "negative"
+      },
+      "relevance": 0.612141,
+      "emotion": {
+        "sadness": 0.497206,
+        "joy": 0.227439,
+        "fear": 0.202938,
+        "disgust": 0.042744,
+        "anger": 0.19556
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.289563,
+        "label": "negative"
+      },
+      "relevance": 0.719166,
+      "mentions": [
+        {
+          "text": "$2 million",
+          "location": [
+            580,
+            590
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.196128,
+        "joy": 0.152884,
+        "fear": 0.64441,
+        "disgust": 0.434753,
+        "anger": 0.176629
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.442825,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            656,
+            667
+          ]
+        },
+        {
+          "text": "Kris",
+          "location": [
+            761,
+            765
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            843,
+            846
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            898,
+            901
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            931,
+            933
+          ]
+        },
+        {
+          "text": "Kris",
+          "location": [
+            1054,
+            1058
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Tyga",
+      "sentiment": {
+        "score": -0.587953,
+        "label": "negative"
+      },
+      "relevance": 0.24616,
+      "mentions": [
+        {
+          "text": "Tyga",
+          "location": [
+            67,
+            71
+          ]
+        },
+        {
+          "text": "Tyga",
+          "location": [
+            117,
+            121
+          ]
+        },
+        {
+          "text": "Tyga",
+          "location": [
+            207,
+            211
+          ]
+        },
+        {
+          "text": "Tyga",
+          "location": [
+            613,
+            617
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.230302,
+        "joy": 0.525026,
+        "fear": 0.032105,
+        "disgust": 0.069499,
+        "anger": 0.1114
+      },
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "$2 Million",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.24616,
+      "mentions": [
+        {
+          "text": "$2 Million",
+          "location": [
+            51,
+            61
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$2 million",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.24616,
+      "mentions": [
+        {
+          "text": "$2 million",
+          "location": [
+            580,
+            590
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.879184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.876762,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.874073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.867592,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.643278,
+      "label": "/finance/financial news"
+    }
+  ]
+}

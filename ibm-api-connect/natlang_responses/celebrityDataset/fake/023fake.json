@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 75,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.533823,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber Parties",
+      "sentiment": {
+        "score": -0.533823,
+        "label": "negative"
+      },
+      "relevance": 0.996242,
+      "emotion": {
+        "sadness": 0.235117,
+        "joy": 0.342844,
+        "fear": 0.036254,
+        "disgust": 0.198179,
+        "anger": 0.131513
+      },
+      "count": 1
+    },
+    {
+      "text": "Weeknd",
+      "sentiment": {
+        "score": -0.533823,
+        "label": "negative"
+      },
+      "relevance": 0.555596,
+      "emotion": {
+        "sadness": 0.235117,
+        "joy": 0.342844,
+        "fear": 0.036254,
+        "disgust": 0.198179,
+        "anger": 0.131513
+      },
+      "count": 1
+    },
+    {
+      "text": "Grammy Event",
+      "sentiment": {
+        "score": -0.533823,
+        "label": "negative"
+      },
+      "relevance": 0.37824,
+      "emotion": {
+        "sadness": 0.235117,
+        "joy": 0.342844,
+        "fear": 0.036254,
+        "disgust": 0.198179,
+        "anger": 0.131513
+      },
+      "count": 1
+    },
+    {
+      "text": "Ex Selena Gomez",
+      "sentiment": {
+        "score": -0.533823,
+        "label": "negative"
+      },
+      "relevance": 0.232107,
+      "emotion": {
+        "sadness": 0.235117,
+        "joy": 0.342844,
+        "fear": 0.036254,
+        "disgust": 0.198179,
+        "anger": 0.131513
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.460528,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            49,
+            61
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.235117,
+        "joy": 0.342844,
+        "fear": 0.036254,
+        "disgust": 0.198179,
+        "anger": 0.131513
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.460528,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.235117,
+        "joy": 0.342844,
+        "fear": 0.036254,
+        "disgust": 0.198179,
+        "anger": 0.131513
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.69109,
+      "label": "/law, govt and politics/politics/political parties"
+    }
+  ]
+}

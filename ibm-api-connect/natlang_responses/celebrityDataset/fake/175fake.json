@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 882,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.516823,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Star Ariel Winter Wants",
+      "sentiment": {
+        "score": 0.396654,
+        "label": "positive"
+      },
+      "relevance": 0.931582,
+      "emotion": {
+        "sadness": 0.220491,
+        "joy": 0.137652,
+        "fear": 0.060518,
+        "disgust": 0.124906,
+        "anger": 0.06267
+      },
+      "count": 1
+    },
+    {
+      "text": "former Modern Family star",
+      "sentiment": {
+        "score": 0.396654,
+        "label": "positive"
+      },
+      "relevance": 0.675694,
+      "emotion": {
+        "sadness": 0.205779,
+        "joy": 0.662168,
+        "fear": 0.058747,
+        "disgust": 0.013648,
+        "anger": 0.013092
+      },
+      "count": 1
+    },
+    {
+      "text": "Ariel Winter",
+      "sentiment": {
+        "score": -0.721549,
+        "label": "negative"
+      },
+      "relevance": 0.666097,
+      "emotion": {
+        "sadness": 0.313718,
+        "joy": 0.481034,
+        "fear": 0.018748,
+        "disgust": 0.110196,
+        "anger": 0.13889
+      },
+      "count": 1
+    },
+    {
+      "text": "young years",
+      "sentiment": {
+        "score": 0.396654,
+        "label": "positive"
+      },
+      "relevance": 0.652282,
+      "emotion": {
+        "sadness": 0.205779,
+        "joy": 0.662168,
+        "fear": 0.058747,
+        "disgust": 0.013648,
+        "anger": 0.013092
+      },
+      "count": 1
+    },
+    {
+      "text": "new report",
+      "sentiment": {
+        "score": 0.396654,
+        "label": "positive"
+      },
+      "relevance": 0.648668,
+      "emotion": {
+        "sadness": 0.205779,
+        "joy": 0.662168,
+        "fear": 0.058747,
+        "disgust": 0.013648,
+        "anger": 0.013092
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ariel Winter",
+      "sentiment": {
+        "score": -0.246417,
+        "label": "negative"
+      },
+      "relevance": 0.821678,
+      "mentions": [
+        {
+          "text": "Ariel Winter",
+          "location": [
+            13,
+            25
+          ]
+        },
+        {
+          "text": "Winter",
+          "location": [
+            189,
+            195
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            203,
+            206
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            254,
+            257
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            288,
+            291
+          ]
+        },
+        {
+          "text": "Ariel Winter",
+          "location": [
+            325,
+            337
+          ]
+        },
+        {
+          "text": "Winter",
+          "location": [
+            384,
+            390
+          ]
+        },
+        {
+          "text": "Winter",
+          "location": [
+            552,
+            558
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            661,
+            664
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.496719,
+        "joy": 0.334184,
+        "fear": 0.052622,
+        "disgust": 0.069208,
+        "anger": 0.106828
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Ariel Winter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ariel_Winter"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Levi Meaden",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.245602,
+      "mentions": [
+        {
+          "text": "Levi Meaden",
+          "location": [
+            422,
+            433
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            467,
+            470
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109882,
+        "joy": 0.761374,
+        "fear": 0.012187,
+        "disgust": 0.021159,
+        "anger": 0.124563
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Radar Online",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.19375,
+      "mentions": [
+        {
+          "text": "Radar Online",
+          "location": [
+            175,
+            187
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.007156,
+        "joy": 0.370096,
+        "fear": 0.078197,
+        "disgust": 0.023032,
+        "anger": 0.024039
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ariel Winter",
+      "relevance": 0.949713,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ariel_Winter"
+    },
+    {
+      "text": "Modern Family",
+      "relevance": 0.847173,
+      "dbpedia_resource": "http://dbpedia.org/resource/Modern_Family"
+    },
+    {
+      "text": "Plan",
+      "relevance": 0.689979,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plan"
+    },
+    {
+      "text": "Revelation",
+      "relevance": 0.655735,
+      "dbpedia_resource": "http://dbpedia.org/resource/Revelation"
+    },
+    {
+      "text": "According to Jim",
+      "relevance": 0.655345,
+      "dbpedia_resource": "http://dbpedia.org/resource/According_to_Jim"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.798318,
+      "label": "/society/dating"
+    }
+  ]
+}

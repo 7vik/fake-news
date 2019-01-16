@@ -1,0 +1,111 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.968453,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Betty White",
+      "sentiment": {
+        "score": 0.968453,
+        "label": "positive"
+      },
+      "relevance": 0.986622,
+      "emotion": {
+        "sadness": 0.076541,
+        "joy": 0.842725,
+        "fear": 0.01448,
+        "disgust": 0.025768,
+        "anger": 0.019599
+      },
+      "count": 1
+    },
+    {
+      "text": "95th birthday",
+      "sentiment": {
+        "score": 0.968453,
+        "label": "positive"
+      },
+      "relevance": 0.892072,
+      "emotion": {
+        "sadness": 0.076541,
+        "joy": 0.842725,
+        "fear": 0.01448,
+        "disgust": 0.025768,
+        "anger": 0.019599
+      },
+      "count": 1
+    },
+    {
+      "text": "life advice",
+      "sentiment": {
+        "score": 0.968453,
+        "label": "positive"
+      },
+      "relevance": 0.119197,
+      "emotion": {
+        "sadness": 0.076541,
+        "joy": 0.842725,
+        "fear": 0.01448,
+        "disgust": 0.025768,
+        "anger": 0.019599
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Betty White",
+      "sentiment": {
+        "score": 0.560665,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Betty White",
+          "location": [
+            27,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134272,
+        "joy": 0.618498,
+        "fear": 0.024655,
+        "disgust": 0.099166,
+        "anger": 0.071428
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "HallOfFameInductee",
+          "TVActor"
+        ],
+        "name": "Betty White",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betty_White"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.548499,
+      "label": "/travel/traveling with kids"
+    }
+  ]
+}

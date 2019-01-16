@@ -1,0 +1,141 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 121,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.705248,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kate Middleton Desperate",
+      "sentiment": {
+        "score": -0.705248,
+        "label": "negative"
+      },
+      "relevance": 0.963142,
+      "emotion": {
+        "sadness": 0.141024,
+        "joy": 0.178881,
+        "fear": 0.057796,
+        "disgust": 0.442227,
+        "anger": 0.144333
+      },
+      "count": 1
+    },
+    {
+      "text": "Prince William Marriage",
+      "sentiment": {
+        "score": -0.705248,
+        "label": "negative"
+      },
+      "relevance": 0.513325,
+      "emotion": {
+        "sadness": 0.141024,
+        "joy": 0.178881,
+        "fear": 0.057796,
+        "disgust": 0.442227,
+        "anger": 0.144333
+      },
+      "count": 1
+    },
+    {
+      "text": "Pampered Royal Lifestyle",
+      "sentiment": {
+        "score": -0.705248,
+        "label": "negative"
+      },
+      "relevance": 0.253552,
+      "emotion": {
+        "sadness": 0.141024,
+        "joy": 0.178881,
+        "fear": 0.057796,
+        "disgust": 0.442227,
+        "anger": 0.144333
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.705248,
+        "label": "negative"
+      },
+      "relevance": 0.096504,
+      "emotion": {
+        "sadness": 0.141024,
+        "joy": 0.178881,
+        "fear": 0.057796,
+        "disgust": 0.442227,
+        "anger": 0.144333
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kate Middleton",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.227824,
+        "joy": 0.3711,
+        "fear": 0.060382,
+        "disgust": 0.199616,
+        "anger": 0.222399
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Catherine, Duchess of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Prince William of Wales",
+      "relevance": 0.958558,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_William_of_Wales"
+    },
+    {
+      "text": "Concert for Diana",
+      "relevance": 0.603001,
+      "dbpedia_resource": "http://dbpedia.org/resource/Concert_for_Diana"
+    },
+    {
+      "text": "University of St Andrews",
+      "relevance": 0.556986,
+      "dbpedia_resource": "http://dbpedia.org/resource/University_of_St_Andrews"
+    },
+    {
+      "text": "Kate Middleton",
+      "relevance": 0.540442,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kate_Middleton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.869209,
+      "label": "/society/social institution"
+    }
+  ]
+}

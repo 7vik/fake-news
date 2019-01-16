@@ -1,0 +1,346 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1317,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.85393,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mel Gibson",
+      "sentiment": {
+        "score": -0.834111,
+        "label": "negative"
+      },
+      "relevance": 0.844344,
+      "emotion": {
+        "sadness": 0.172878,
+        "joy": 0.004013,
+        "fear": 0.166162,
+        "disgust": 0.588864,
+        "anger": 0.460479
+      },
+      "count": 1
+    },
+    {
+      "text": "sexual abuse scandal",
+      "sentiment": {
+        "score": -0.834111,
+        "label": "negative"
+      },
+      "relevance": 0.651179,
+      "emotion": {
+        "sadness": 0.172878,
+        "joy": 0.004013,
+        "fear": 0.166162,
+        "disgust": 0.588864,
+        "anger": 0.460479
+      },
+      "count": 1
+    },
+    {
+      "text": "recent years",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.650767,
+      "emotion": {
+        "sadness": 0.412092,
+        "joy": 0.239176,
+        "fear": 0.056617,
+        "disgust": 0.183817,
+        "anger": 0.349072
+      },
+      "count": 1
+    },
+    {
+      "text": "Newstalk Breakfast\u2019s Henry McKean",
+      "sentiment": {
+        "score": -0.834111,
+        "label": "negative"
+      },
+      "relevance": 0.645575,
+      "emotion": {
+        "sadness": 0.14315,
+        "joy": 0.764863,
+        "fear": 0.05832,
+        "disgust": 0.045149,
+        "anger": 0.01981
+      },
+      "count": 1
+    },
+    {
+      "text": "Best Film",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.641356,
+      "emotion": {
+        "sadness": 0.412092,
+        "joy": 0.239176,
+        "fear": 0.056617,
+        "disgust": 0.183817,
+        "anger": 0.349072
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mel Gibson",
+      "sentiment": {
+        "score": -0.237096,
+        "label": "negative"
+      },
+      "relevance": 0.758274,
+      "mentions": [
+        {
+          "text": "Mel Gibson",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Gibson",
+          "location": [
+            62,
+            68
+          ]
+        },
+        {
+          "text": "Gibson",
+          "location": [
+            389,
+            395
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            406,
+            408
+          ]
+        },
+        {
+          "text": "Gibson",
+          "location": [
+            770,
+            776
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            807,
+            809
+          ]
+        },
+        {
+          "text": "Gibson",
+          "location": [
+            966,
+            972
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.537156,
+        "joy": 0.189744,
+        "fear": 0.083199,
+        "disgust": 0.557005,
+        "anger": 0.17414
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Mel Gibson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mel_Gibson"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Henry McKean",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.426023,
+      "mentions": [
+        {
+          "text": "Henry McKean",
+          "location": [
+            312,
+            324
+          ]
+        },
+        {
+          "text": "Henry",
+          "location": [
+            1256,
+            1261
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.149132,
+        "joy": 0.469283,
+        "fear": 0.014921,
+        "disgust": 0.051297,
+        "anger": 0.039038
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Henry McKean",
+        "dbpedia_resource": "http://dbpedia.org/resource/Henry_McKean"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Newstalk Breakfast",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.390403,
+      "mentions": [
+        {
+          "text": "Newstalk Breakfast",
+          "location": [
+            291,
+            309
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": -0.678655,
+        "label": "negative"
+      },
+      "relevance": 0.326265,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            12,
+            21
+          ]
+        },
+        {
+          "text": "Hollywood",
+          "location": [
+            107,
+            116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.138814,
+        "joy": 0.005326,
+        "fear": 0.138368,
+        "disgust": 0.619231,
+        "anger": 0.478825
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Best Director",
+      "sentiment": {
+        "score": 0.574329,
+        "label": "positive"
+      },
+      "relevance": 0.315706,
+      "mentions": [
+        {
+          "text": "Best Director",
+          "location": [
+            1085,
+            1098
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.008835,
+        "joy": 0.699166,
+        "fear": 0.018053,
+        "disgust": 0.005199,
+        "anger": 0.020581
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sexual harassment",
+      "relevance": 0.919212,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sexual_harassment"
+    },
+    {
+      "text": "Academy Award for Best Picture",
+      "relevance": 0.837024,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Picture"
+    },
+    {
+      "text": "Mel Gibson",
+      "relevance": 0.834335,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mel_Gibson"
+    },
+    {
+      "text": "Film director",
+      "relevance": 0.717545,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film_director"
+    },
+    {
+      "text": "Bullying",
+      "relevance": 0.707351,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bullying"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.925588,
+      "label": "/society/crime/sexual offence"
+    }
+  ]
+}

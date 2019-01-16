@@ -1,0 +1,141 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Open-Heart Surgery",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.942381,
+      "emotion": {
+        "sadness": 0.474989,
+        "joy": 0.353112,
+        "fear": 0.137346,
+        "disgust": 0.116358,
+        "anger": 0.006512
+      },
+      "count": 1
+    },
+    {
+      "text": "Obama",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.844357,
+      "emotion": {
+        "sadness": 0.474989,
+        "joy": 0.353112,
+        "fear": 0.137346,
+        "disgust": 0.116358,
+        "anger": 0.006512
+      },
+      "count": 1
+    },
+    {
+      "text": "College Was",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.810109,
+      "emotion": {
+        "sadness": 0.474989,
+        "joy": 0.353112,
+        "fear": 0.137346,
+        "disgust": 0.116358,
+        "anger": 0.006512
+      },
+      "count": 1
+    },
+    {
+      "text": "Malia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.651447,
+      "emotion": {
+        "sadness": 0.474989,
+        "joy": 0.353112,
+        "fear": 0.137346,
+        "disgust": 0.116358,
+        "anger": 0.006512
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Obama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.474989,
+        "joy": 0.353112,
+        "fear": 0.137346,
+        "disgust": 0.116358,
+        "anger": 0.006512
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cardiothoracic surgery",
+      "relevance": 0.842933,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cardiothoracic_surgery"
+    },
+    {
+      "text": "Princeton University",
+      "relevance": 0.607797,
+      "dbpedia_resource": "http://dbpedia.org/resource/Princeton_University"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.613105,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

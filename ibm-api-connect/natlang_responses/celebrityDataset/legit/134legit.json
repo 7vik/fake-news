@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.565399,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": -0.565399,
+        "label": "negative"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.162666,
+        "joy": 0.398902,
+        "fear": 0.061143,
+        "disgust": 0.206501,
+        "anger": 0.152259
+      },
+      "count": 1
+    },
+    {
+      "text": "Netflix Documentary",
+      "sentiment": {
+        "score": -0.565399,
+        "label": "negative"
+      },
+      "relevance": 0.148744,
+      "emotion": {
+        "sadness": 0.162666,
+        "joy": 0.398902,
+        "fear": 0.061143,
+        "disgust": 0.206501,
+        "anger": 0.152259
+      },
+      "count": 1
+    },
+    {
+      "text": "Talks Madonna Feud",
+      "sentiment": {
+        "score": -0.565399,
+        "label": "negative"
+      },
+      "relevance": 0.060567,
+      "emotion": {
+        "sadness": 0.162666,
+        "joy": 0.398902,
+        "fear": 0.061143,
+        "disgust": 0.206501,
+        "anger": 0.152259
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lady Gaga",
+      "sentiment": {
+        "score": 0.565459,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Lady Gaga",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142708,
+        "joy": 0.439935,
+        "fear": 0.050239,
+        "disgust": 0.205111,
+        "anger": 0.121402
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lady Gaga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Netflix",
+      "sentiment": {
+        "score": 0.565459,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Netflix",
+          "location": [
+            20,
+            27
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142708,
+        "joy": 0.439935,
+        "fear": 0.050239,
+        "disgust": 0.205111,
+        "anger": 0.121402
+      },
+      "disambiguation": {
+        "subtype": [
+          "VentureFundedCompany"
+        ],
+        "name": "Netflix",
+        "dbpedia_resource": "http://dbpedia.org/resource/Netflix"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.924444,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Grammy Award for Best Electronic/Dance Album",
+      "relevance": 0.766382,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_for_Best_Electronic/Dance_Album"
+    },
+    {
+      "text": "Lady Gaga",
+      "relevance": 0.7476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+      "text": "Kylie Minogue",
+      "relevance": 0.738511,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Minogue"
+    },
+    {
+      "text": "Britney Spears",
+      "relevance": 0.728563,
+      "dbpedia_resource": "http://dbpedia.org/resource/Britney_Spears"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.956882,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

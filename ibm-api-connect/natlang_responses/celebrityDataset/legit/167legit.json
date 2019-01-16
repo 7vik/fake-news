@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 805,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.509391,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Associated Press",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.736315,
+      "emotion": {
+        "sadness": 0.203104,
+        "joy": 0.753409,
+        "fear": 0.02,
+        "disgust": 0.012295,
+        "anger": 0.021859
+      },
+      "count": 1
+    },
+    {
+      "text": "important thing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.697168,
+      "emotion": {
+        "sadness": 0.203104,
+        "joy": 0.753409,
+        "fear": 0.02,
+        "disgust": 0.012295,
+        "anger": 0.021859
+      },
+      "count": 1
+    },
+    {
+      "text": "great friends",
+      "sentiment": {
+        "score": 0.67644,
+        "label": "positive"
+      },
+      "relevance": 0.695984,
+      "emotion": {
+        "sadness": 0.230378,
+        "joy": 0.716803,
+        "fear": 0.032057,
+        "disgust": 0.008112,
+        "anger": 0.031731
+      },
+      "count": 2
+    },
+    {
+      "text": "Black Eyed Peas singer",
+      "sentiment": {
+        "score": -0.361109,
+        "label": "negative"
+      },
+      "relevance": 0.695756,
+      "emotion": {
+        "sadness": 0.705913,
+        "joy": 0.169876,
+        "fear": 0.086329,
+        "disgust": 0.048528,
+        "anger": 0.093567
+      },
+      "count": 1
+    },
+    {
+      "text": "4-year-old Axl",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.640133,
+      "emotion": {
+        "sadness": 0.203104,
+        "joy": 0.753409,
+        "fear": 0.02,
+        "disgust": 0.012295,
+        "anger": 0.021859
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Fergie",
+      "sentiment": {
+        "score": -0.600502,
+        "label": "negative"
+      },
+      "relevance": 0.898784,
+      "mentions": [
+        {
+          "text": "Fergie",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "she and Josh Duhamel",
+          "location": [
+            12,
+            32
+          ]
+        },
+        {
+          "text": "Fergie",
+          "location": [
+            55,
+            61
+          ]
+        },
+        {
+          "text": "she and husband Josh Duhamel",
+          "location": [
+            79,
+            107
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.204078,
+        "joy": 0.63628,
+        "fear": 0.077694,
+        "disgust": 0.076861,
+        "anger": 0.085517
+      },
+      "count": 4
+    },
+    {
+      "type": "Facility",
+      "text": "iPic Theaters Fulton Market",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.551794,
+      "mentions": [
+        {
+          "text": "iPic Theaters Fulton Market",
+          "location": [
+            307,
+            334
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.125484,
+        "joy": 0.229242,
+        "fear": 0.06875,
+        "disgust": 0.05953,
+        "anger": 0.155118
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.406607,
+      "mentions": [
+        {
+          "text": "New York",
+          "location": [
+            338,
+            346
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.125484,
+        "joy": 0.229242,
+        "fear": 0.06875,
+        "disgust": 0.05953,
+        "anger": 0.155118
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Axl",
+      "sentiment": {
+        "score": 0.535731,
+        "label": "positive"
+      },
+      "relevance": 0.400461,
+      "mentions": [
+        {
+          "text": "Axl",
+          "location": [
+            434,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.483244,
+        "joy": 0.115903,
+        "fear": 0.066441,
+        "disgust": 0.390839,
+        "anger": 0.130124
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fergie",
+      "relevance": 0.951931,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fergie_(singer)"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.914485,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Love",
+      "relevance": 0.777701,
+      "dbpedia_resource": "http://dbpedia.org/resource/Love"
+    },
+    {
+      "text": "Associated Press",
+      "relevance": 0.729985,
+      "dbpedia_resource": "http://dbpedia.org/resource/Associated_Press"
+    },
+    {
+      "text": "Black Eyed Peas",
+      "relevance": 0.709981,
+      "dbpedia_resource": "http://dbpedia.org/resource/Black_Eyed_Peas"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.714315,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

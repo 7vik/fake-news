@@ -1,0 +1,244 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 133,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.850921,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Au revoir",
+      "sentiment": {
+        "score": -0.850921,
+        "label": "negative"
+      },
+      "relevance": 0.999075,
+      "emotion": {
+        "sadness": 0.240695,
+        "joy": 0.323824,
+        "fear": 0.043229,
+        "disgust": 0.37904,
+        "anger": 0.049861
+      },
+      "count": 1
+    },
+    {
+      "text": "Kate",
+      "sentiment": {
+        "score": -0.850921,
+        "label": "negative"
+      },
+      "relevance": 0.634791,
+      "emotion": {
+        "sadness": 0.240695,
+        "joy": 0.323824,
+        "fear": 0.043229,
+        "disgust": 0.37904,
+        "anger": 0.049861
+      },
+      "count": 1
+    },
+    {
+      "text": "fond farewell",
+      "sentiment": {
+        "score": -0.850921,
+        "label": "negative"
+      },
+      "relevance": 0.598598,
+      "emotion": {
+        "sadness": 0.240695,
+        "joy": 0.323824,
+        "fear": 0.043229,
+        "disgust": 0.37904,
+        "anger": 0.049861
+      },
+      "count": 1
+    },
+    {
+      "text": "Paris",
+      "sentiment": {
+        "score": -0.850921,
+        "label": "negative"
+      },
+      "relevance": 0.590566,
+      "emotion": {
+        "sadness": 0.240695,
+        "joy": 0.323824,
+        "fear": 0.043229,
+        "disgust": 0.37904,
+        "anger": 0.049861
+      },
+      "count": 1
+    },
+    {
+      "text": "two-day Brexit charm offensive",
+      "sentiment": {
+        "score": -0.850921,
+        "label": "negative"
+      },
+      "relevance": 0.346615,
+      "emotion": {
+        "sadness": 0.240695,
+        "joy": 0.323824,
+        "fear": 0.043229,
+        "disgust": 0.37904,
+        "anger": 0.049861
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kate",
+          "location": [
+            21,
+            25
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.247011,
+        "joy": 0.324703,
+        "fear": 0.043022,
+        "disgust": 0.417748,
+        "anger": 0.052259
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Wills",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Wills",
+          "location": [
+            30,
+            35
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.247011,
+        "joy": 0.324703,
+        "fear": 0.043022,
+        "disgust": 0.417748,
+        "anger": 0.052259
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Paris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Paris",
+          "location": [
+            59,
+            64
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.247011,
+        "joy": 0.324703,
+        "fear": 0.043022,
+        "disgust": 0.417748,
+        "anger": 0.052259
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Brexit",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brexit",
+          "location": [
+            110,
+            116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.247011,
+        "joy": 0.324703,
+        "fear": 0.043022,
+        "disgust": 0.417748,
+        "anger": 0.052259
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two-day",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "two-day",
+          "location": [
+            102,
+            109
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "From a Basement on the Hill",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/From_a_Basement_on_the_Hill"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.699693,
+      "label": "/shopping/auctions"
+    }
+  ]
+}

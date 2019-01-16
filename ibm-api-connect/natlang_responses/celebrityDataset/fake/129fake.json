@@ -1,0 +1,169 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.558456,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.558456,
+        "label": "positive"
+      },
+      "relevance": 0.999968,
+      "emotion": {
+        "sadness": 0.106085,
+        "joy": 0.627417,
+        "fear": 0.089101,
+        "disgust": 0.036408,
+        "anger": 0.10042
+      },
+      "count": 1
+    },
+    {
+      "text": "Thing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66807,
+      "emotion": {
+        "sadness": 0.040039,
+        "joy": 0.755098,
+        "fear": 0.114529,
+        "disgust": 0.057508,
+        "anger": 0.017142
+      },
+      "count": 1
+    },
+    {
+      "text": "Blondes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.593413,
+      "emotion": {
+        "sadness": 0.040039,
+        "joy": 0.755098,
+        "fear": 0.114529,
+        "disgust": 0.057508,
+        "anger": 0.017142
+      },
+      "count": 1
+    },
+    {
+      "text": "Margot Robbie",
+      "sentiment": {
+        "score": 0.558456,
+        "label": "positive"
+      },
+      "relevance": 0.348595,
+      "emotion": {
+        "sadness": 0.106085,
+        "joy": 0.627417,
+        "fear": 0.089101,
+        "disgust": 0.036408,
+        "anger": 0.10042
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Margot Robbie",
+      "sentiment": {
+        "score": 0.842997,
+        "label": "positive"
+      },
+      "relevance": 0.961793,
+      "mentions": [
+        {
+          "text": "Margot Robbie",
+          "location": [
+            56,
+            69
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106085,
+        "joy": 0.627417,
+        "fear": 0.089101,
+        "disgust": 0.036408,
+        "anger": 0.10042
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVActor"
+        ],
+        "name": "Margot Robbie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Margot_Robbie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.842997,
+        "label": "positive"
+      },
+      "relevance": 0.865789,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            21,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106085,
+        "joy": 0.627417,
+        "fear": 0.089101,
+        "disgust": 0.036408,
+        "anger": 0.10042
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.720889,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.716878,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.706405,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.574451,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

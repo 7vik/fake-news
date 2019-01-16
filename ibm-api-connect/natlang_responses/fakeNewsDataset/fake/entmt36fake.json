@@ -1,0 +1,273 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 729,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.881506,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful actress",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.966415,
+      "emotion": {
+        "sadness": 0.150522,
+        "joy": 0.710224,
+        "fear": 0.038005,
+        "disgust": 0.010216,
+        "anger": 0.019313
+      },
+      "count": 1
+    },
+    {
+      "text": "Reese Witherspoon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.9311,
+      "emotion": {
+        "sadness": 0.098231,
+        "joy": 0.465229,
+        "fear": 0.028638,
+        "disgust": 0.026011,
+        "anger": 0.179647
+      },
+      "count": 1
+    },
+    {
+      "text": "Oscar-Winner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.680436,
+      "emotion": {
+        "sadness": 0.352882,
+        "joy": 0.351121,
+        "fear": 0.120779,
+        "disgust": 0.083997,
+        "anger": 0.145006
+      },
+      "count": 1
+    },
+    {
+      "text": "major obstacle",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.601279,
+      "emotion": {
+        "sadness": 0.352882,
+        "joy": 0.351121,
+        "fear": 0.120779,
+        "disgust": 0.083997,
+        "anger": 0.145006
+      },
+      "count": 1
+    },
+    {
+      "text": "troubled relationship",
+      "sentiment": {
+        "score": -0.881506,
+        "label": "negative"
+      },
+      "relevance": 0.564868,
+      "emotion": {
+        "sadness": 0.50727,
+        "joy": 0.102473,
+        "fear": 0.090906,
+        "disgust": 0.271702,
+        "anger": 0.216674
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Reese Witherspoon",
+      "sentiment": {
+        "score": -0.284645,
+        "label": "negative"
+      },
+      "relevance": 0.923293,
+      "mentions": [
+        {
+          "text": "Reese Witherspoon",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "Reese Witherspoon",
+          "location": [
+            65,
+            82
+          ]
+        },
+        {
+          "text": "Witherspoon",
+          "location": [
+            422,
+            433
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119144,
+        "joy": 0.545151,
+        "fear": 0.026557,
+        "disgust": 0.025747,
+        "anger": 0.193464
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Reese Witherspoon",
+        "dbpedia_resource": "http://dbpedia.org/resource/Reese_Witherspoon"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Toth",
+      "sentiment": {
+        "score": 0.423223,
+        "label": "positive"
+      },
+      "relevance": 0.241835,
+      "mentions": [
+        {
+          "text": "Toth",
+          "location": [
+            309,
+            313
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "LA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.216333,
+      "mentions": [
+        {
+          "text": "LA",
+          "location": [
+            146,
+            148
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109481,
+        "joy": 0.635609,
+        "fear": 0.026042,
+        "disgust": 0.036305,
+        "anger": 0.080324
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Tennessee",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.173206,
+      "mentions": [
+        {
+          "text": "Tennessee",
+          "location": [
+            178,
+            187
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Reese Witherspoon",
+      "relevance": 0.967495,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reese_Witherspoon"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.74857,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "Alternative education",
+      "relevance": 0.720306,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alternative_education"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.675186,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.674737,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.848011,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.632799,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.632799,
+        "label": "negative"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.067726,
+        "joy": 0.580934,
+        "fear": 0.083727,
+        "disgust": 0.065278,
+        "anger": 0.06228
+      },
+      "count": 1
+    },
+    {
+      "text": "Weeknd Hold Hands",
+      "sentiment": {
+        "score": -0.632799,
+        "label": "negative"
+      },
+      "relevance": 0.71695,
+      "emotion": {
+        "sadness": 0.067726,
+        "joy": 0.580934,
+        "fear": 0.083727,
+        "disgust": 0.065278,
+        "anger": 0.06228
+      },
+      "count": 1
+    },
+    {
+      "text": "Argentina",
+      "sentiment": {
+        "score": -0.632799,
+        "label": "negative"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.067726,
+        "joy": 0.580934,
+        "fear": 0.083727,
+        "disgust": 0.065278,
+        "anger": 0.06228
+      },
+      "count": 1
+    },
+    {
+      "text": "Romantic Stroll",
+      "sentiment": {
+        "score": -0.632799,
+        "label": "negative"
+      },
+      "relevance": 0.122142,
+      "emotion": {
+        "sadness": 0.067726,
+        "joy": 0.580934,
+        "fear": 0.083727,
+        "disgust": 0.065278,
+        "anger": 0.06228
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.686437,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.067726,
+        "joy": 0.580934,
+        "fear": 0.083727,
+        "disgust": 0.065278,
+        "anger": 0.06228
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Argentina",
+      "sentiment": {
+        "score": -0.686437,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Argentina",
+          "location": [
+            64,
+            73
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.067726,
+        "joy": 0.580934,
+        "fear": 0.083727,
+        "disgust": 0.065278,
+        "anger": 0.06228
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Selena Gomez",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.573326,
+      "label": "/style and fashion"
+    }
+  ]
+}

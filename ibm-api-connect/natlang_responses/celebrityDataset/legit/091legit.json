@@ -1,0 +1,155 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999058,
+      "emotion": {
+        "sadness": 0.150626,
+        "joy": 0.085451,
+        "fear": 0.039638,
+        "disgust": 0.143819,
+        "anger": 0.067595
+      },
+      "count": 1
+    },
+    {
+      "text": "Jacqueline Kennedy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.973956,
+      "emotion": {
+        "sadness": 0.150626,
+        "joy": 0.085451,
+        "fear": 0.039638,
+        "disgust": 0.143819,
+        "anger": 0.067595
+      },
+      "count": 1
+    },
+    {
+      "text": "role",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.663188,
+      "emotion": {
+        "sadness": 0.150626,
+        "joy": 0.085451,
+        "fear": 0.039638,
+        "disgust": 0.143819,
+        "anger": 0.067595
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.150626,
+        "joy": 0.085451,
+        "fear": 0.039638,
+        "disgust": 0.143819,
+        "anger": 0.067595
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jacqueline Kennedy",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jacqueline Kennedy",
+          "location": [
+            38,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.150626,
+        "joy": 0.085451,
+        "fear": 0.039638,
+        "disgust": 0.143819,
+        "anger": 0.067595
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter",
+          "OfficeHolder",
+          "OperaCharacter",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Jacqueline Kennedy Onassis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jacqueline Kennedy Onassis",
+      "relevance": 0.907744,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.585514,
+      "label": "/style and fashion"
+    }
+  ]
+}

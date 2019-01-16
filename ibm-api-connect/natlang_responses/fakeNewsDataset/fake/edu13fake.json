@@ -1,0 +1,166 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 564,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.274536,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gender equality",
+      "sentiment": {
+        "score": 0.489054,
+        "label": "positive"
+      },
+      "relevance": 0.854951,
+      "emotion": {
+        "sadness": 0.305408,
+        "joy": 0.07832,
+        "fear": 0.065851,
+        "disgust": 0.398574,
+        "anger": 0.133741
+      },
+      "count": 1
+    },
+    {
+      "text": "qualified male counterparts",
+      "sentiment": {
+        "score": 0.489054,
+        "label": "positive"
+      },
+      "relevance": 0.787093,
+      "emotion": {
+        "sadness": 0.305408,
+        "joy": 0.07832,
+        "fear": 0.065851,
+        "disgust": 0.398574,
+        "anger": 0.133741
+      },
+      "count": 1
+    },
+    {
+      "text": "George Soros",
+      "sentiment": {
+        "score": -0.618034,
+        "label": "negative"
+      },
+      "relevance": 0.781341,
+      "emotion": {
+        "sadness": 0.238354,
+        "joy": 0.44804,
+        "fear": 0.056688,
+        "disgust": 0.144022,
+        "anger": 0.183735
+      },
+      "count": 1
+    },
+    {
+      "text": "Leftist universities",
+      "sentiment": {
+        "score": 0.561544,
+        "label": "positive"
+      },
+      "relevance": 0.734242,
+      "emotion": {
+        "sadness": 0.12676,
+        "joy": 0.111815,
+        "fear": 0.07766,
+        "disgust": 0.490928,
+        "anger": 0.281314
+      },
+      "count": 1
+    },
+    {
+      "text": "previous works",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.690272,
+      "emotion": {
+        "sadness": 0.406053,
+        "joy": 0.190395,
+        "fear": 0.161196,
+        "disgust": 0.147057,
+        "anger": 0.081392
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "George Soros",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.829346,
+      "mentions": [
+        {
+          "text": "George Soros",
+          "location": [
+            405,
+            417
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.324724,
+        "joy": 0.382036,
+        "fear": 0.125882,
+        "disgust": 0.067817,
+        "anger": 0.066388
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "CompanyFounder",
+          "CompanyShareholder"
+        ],
+        "name": "George Soros",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Soros"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Gender",
+      "relevance": 0.979001,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gender"
+    },
+    {
+      "text": "Left-wing politics",
+      "relevance": 0.767197,
+      "dbpedia_resource": "http://dbpedia.org/resource/Left-wing_politics"
+    },
+    {
+      "text": "Far left",
+      "relevance": 0.734426,
+      "dbpedia_resource": "http://dbpedia.org/resource/Far_left"
+    },
+    {
+      "text": "Surnames",
+      "relevance": 0.704597,
+      "dbpedia_resource": "http://dbpedia.org/resource/Surnames"
+    },
+    {
+      "text": "Centre-left",
+      "relevance": 0.676438,
+      "dbpedia_resource": "http://dbpedia.org/resource/Centre-left"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.970747,
+      "label": "/education/special education"
+    }
+  ]
+}

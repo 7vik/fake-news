@@ -1,0 +1,123 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Nicole Kidman Sparks Plastic Surgery Rumors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.704111,
+      "emotion": {
+        "sadness": 0.252025,
+        "joy": 0.166058,
+        "fear": 0.3643,
+        "disgust": 0.406515,
+        "anger": 0.01176
+      },
+      "count": 1
+    },
+    {
+      "text": "Face",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.252025,
+        "joy": 0.166058,
+        "fear": 0.3643,
+        "disgust": 0.406515,
+        "anger": 0.01176
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nicole Kidman",
+      "sentiment": {
+        "score": -0.9246,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Nicole Kidman",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292519,
+        "joy": 0.133417,
+        "fear": 0.365105,
+        "disgust": 0.402977,
+        "anger": 0.012477
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Nicole Kidman",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nicole_Kidman"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Reconstructive surgery",
+      "relevance": 0.890518,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reconstructive_surgery"
+    },
+    {
+      "text": "Surgery",
+      "relevance": 0.86726,
+      "dbpedia_resource": "http://dbpedia.org/resource/Surgery"
+    },
+    {
+      "text": "Microsurgery",
+      "relevance": 0.859542,
+      "dbpedia_resource": "http://dbpedia.org/resource/Microsurgery"
+    },
+    {
+      "text": "Plastic surgery",
+      "relevance": 0.832679,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plastic_surgery"
+    },
+    {
+      "text": "Hospital",
+      "relevance": 0.76366,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hospital"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.585658,
+      "label": "/style and fashion"
+    }
+  ]
+}

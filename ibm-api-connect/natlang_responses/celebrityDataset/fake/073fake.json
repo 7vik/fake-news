@@ -1,0 +1,156 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.275331,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Face Lift",
+      "sentiment": {
+        "score": 0.275331,
+        "label": "positive"
+      },
+      "relevance": 0.996403,
+      "emotion": {
+        "sadness": 0.248673,
+        "joy": 0.205644,
+        "fear": 0.263715,
+        "disgust": 0.195674,
+        "anger": 0.046894
+      },
+      "count": 1
+    },
+    {
+      "text": "Peels",
+      "sentiment": {
+        "score": 0.275331,
+        "label": "positive"
+      },
+      "relevance": 0.572602,
+      "emotion": {
+        "sadness": 0.248673,
+        "joy": 0.205644,
+        "fear": 0.263715,
+        "disgust": 0.195674,
+        "anger": 0.046894
+      },
+      "count": 1
+    },
+    {
+      "text": "Ellen DeGeneres' Plastic Surgery Obsession Revealed",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.390599,
+      "emotion": {
+        "sadness": 0.606864,
+        "joy": 0.197597,
+        "fear": 0.129511,
+        "disgust": 0.092377,
+        "anger": 0.019309
+      },
+      "count": 1
+    },
+    {
+      "text": "Botox",
+      "sentiment": {
+        "score": 0.275331,
+        "label": "positive"
+      },
+      "relevance": 0.171693,
+      "emotion": {
+        "sadness": 0.248673,
+        "joy": 0.205644,
+        "fear": 0.263715,
+        "disgust": 0.195674,
+        "anger": 0.046894
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.45297,
+        "label": "positive"
+      },
+      "relevance": 0.934396,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            32,
+            47
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172708,
+        "joy": 0.327456,
+        "fear": 0.046299,
+        "disgust": 0.039123,
+        "anger": 0.050729
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Plastic surgery",
+      "relevance": 0.978503,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plastic_surgery"
+    },
+    {
+      "text": "Rhytidectomy",
+      "relevance": 0.688443,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rhytidectomy"
+    },
+    {
+      "text": "Liposuction",
+      "relevance": 0.680347,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liposuction"
+    },
+    {
+      "text": "Reconstructive surgery",
+      "relevance": 0.674083,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reconstructive_surgery"
+    },
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.663366,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.640548,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

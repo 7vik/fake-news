@@ -1,0 +1,348 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1151,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.564264,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": 0.686211,
+        "label": "positive"
+      },
+      "relevance": 0.748132,
+      "emotion": {
+        "sadness": 0.147714,
+        "joy": 0.477285,
+        "fear": 0.108339,
+        "disgust": 0.10602,
+        "anger": 0.194136
+      },
+      "count": 1
+    },
+    {
+      "text": "FKA Twigs Take Cannes",
+      "sentiment": {
+        "score": 0.686211,
+        "label": "positive"
+      },
+      "relevance": 0.742399,
+      "emotion": {
+        "sadness": 0.101648,
+        "joy": 0.109769,
+        "fear": 0.09565,
+        "disgust": 0.103865,
+        "anger": 0.115879
+      },
+      "count": 1
+    },
+    {
+      "text": "FKA Twigs",
+      "sentiment": {
+        "score": 0.686211,
+        "label": "positive"
+      },
+      "relevance": 0.664479,
+      "emotion": {
+        "sadness": 0.147714,
+        "joy": 0.477285,
+        "fear": 0.108339,
+        "disgust": 0.10602,
+        "anger": 0.194136
+      },
+      "count": 1
+    },
+    {
+      "text": "latest film",
+      "sentiment": {
+        "score": -0.392891,
+        "label": "negative"
+      },
+      "relevance": 0.657201,
+      "emotion": {
+        "sadness": 0.112102,
+        "joy": 0.725785,
+        "fear": 0.029577,
+        "disgust": 0.088454,
+        "anger": 0.080692
+      },
+      "count": 1
+    },
+    {
+      "text": "black suit",
+      "sentiment": {
+        "score": -0.392891,
+        "label": "negative"
+      },
+      "relevance": 0.633483,
+      "emotion": {
+        "sadness": 0.112102,
+        "joy": 0.725785,
+        "fear": 0.029577,
+        "disgust": 0.088454,
+        "anger": 0.080692
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": 0.561363,
+        "label": "positive"
+      },
+      "relevance": 0.877067,
+      "mentions": [
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            64,
+            80
+          ]
+        },
+        {
+          "text": "Pattinson",
+          "location": [
+            286,
+            295
+          ]
+        },
+        {
+          "text": "Pattinson",
+          "location": [
+            379,
+            388
+          ]
+        },
+        {
+          "text": "Pattinson",
+          "location": [
+            974,
+            983
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.091485,
+        "joy": 0.258893,
+        "fear": 0.090385,
+        "disgust": 0.097088,
+        "anger": 0.093017
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Robert Pattinson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Twigs",
+      "sentiment": {
+        "score": 0.614391,
+        "label": "positive"
+      },
+      "relevance": 0.521512,
+      "mentions": [
+        {
+          "text": "FKA Twigs",
+          "location": [
+            85,
+            94
+          ]
+        },
+        {
+          "text": "Twigs",
+          "location": [
+            475,
+            480
+          ]
+        },
+        {
+          "text": "Twigs",
+          "location": [
+            834,
+            839
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.091644,
+        "joy": 0.747164,
+        "fear": 0.032998,
+        "disgust": 0.075695,
+        "anger": 0.079992
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "His-and-Hers Dior",
+      "sentiment": {
+        "score": 0.715898,
+        "label": "positive"
+      },
+      "relevance": 0.479699,
+      "mentions": [
+        {
+          "text": "His-and-Hers Dior",
+          "location": [
+            46,
+            63
+          ]
+        },
+        {
+          "text": "Dior",
+          "location": [
+            262,
+            266
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.081437,
+        "joy": 0.606766,
+        "fear": 0.058065,
+        "disgust": 0.165435,
+        "anger": 0.1676
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Award",
+      "text": "Cannes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.290703,
+      "mentions": [
+        {
+          "text": "Cannes",
+          "location": [
+            36,
+            42
+          ]
+        },
+        {
+          "text": "Cannes",
+          "location": [
+            181,
+            187
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.218513,
+        "joy": 0.068174,
+        "fear": 0.1762,
+        "disgust": 0.197349,
+        "anger": 0.343773
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "John Galliano",
+      "sentiment": {
+        "score": 0.616424,
+        "label": "positive"
+      },
+      "relevance": 0.177265,
+      "mentions": [
+        {
+          "text": "John Galliano",
+          "location": [
+            599,
+            612
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "FashionDesigner",
+          "FashionLabel"
+        ],
+        "name": "John Galliano",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Galliano"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Suit",
+      "relevance": 0.907635,
+      "dbpedia_resource": "http://dbpedia.org/resource/Suit"
+    },
+    {
+      "text": "Face",
+      "relevance": 0.905487,
+      "dbpedia_resource": "http://dbpedia.org/resource/Face_(disambiguation)"
+    },
+    {
+      "text": "Robert Pattinson",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+    },
+    {
+      "text": "John Galliano",
+      "relevance": 0.886403,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_Galliano"
+    },
+    {
+      "text": "Suit",
+      "relevance": 0.883792,
+      "dbpedia_resource": "http://dbpedia.org/resource/Suit_(cards)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.959078,
+      "label": "/style and fashion/swimwear/bikinis"
+    }
+  ]
+}

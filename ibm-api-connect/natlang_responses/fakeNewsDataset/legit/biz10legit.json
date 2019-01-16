@@ -1,0 +1,253 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 763,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.87979,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "company spokesman  Kristian Agerbo",
+      "sentiment": {
+        "score": -0.856641,
+        "label": "negative"
+      },
+      "relevance": 0.779374,
+      "emotion": {
+        "sadness": 0.433909,
+        "joy": 0.242308,
+        "fear": 0.197423,
+        "disgust": 0.035373,
+        "anger": 0.123111
+      },
+      "count": 1
+    },
+    {
+      "text": "Tuesday Uber",
+      "sentiment": {
+        "score": -0.856641,
+        "label": "negative"
+      },
+      "relevance": 0.766999,
+      "emotion": {
+        "sadness": 0.433909,
+        "joy": 0.242308,
+        "fear": 0.197423,
+        "disgust": 0.035373,
+        "anger": 0.123111
+      },
+      "count": 1
+    },
+    {
+      "text": "introduction of new taxi laws",
+      "sentiment": {
+        "score": -0.90117,
+        "label": "negative"
+      },
+      "relevance": 0.728182,
+      "emotion": {
+        "sadness": 0.257544,
+        "joy": 0.272462,
+        "fear": 0.109829,
+        "disgust": 0.029983,
+        "anger": 0.469507
+      },
+      "count": 1
+    },
+    {
+      "text": "seat occupancy sensors",
+      "sentiment": {
+        "score": -0.856641,
+        "label": "negative"
+      },
+      "relevance": 0.677482,
+      "emotion": {
+        "sadness": 0.433909,
+        "joy": 0.242308,
+        "fear": 0.197423,
+        "disgust": 0.035373,
+        "anger": 0.123111
+      },
+      "count": 1
+    },
+    {
+      "text": "Denmark operation",
+      "sentiment": {
+        "score": -0.90117,
+        "label": "negative"
+      },
+      "relevance": 0.645937,
+      "emotion": {
+        "sadness": 0.08626,
+        "joy": 0.111249,
+        "fear": 0.226223,
+        "disgust": 0.124558,
+        "anger": 0.435373
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Denmark",
+      "sentiment": {
+        "score": -0.687881,
+        "label": "negative"
+      },
+      "relevance": 0.730878,
+      "mentions": [
+        {
+          "text": "Denmark",
+          "location": [
+            18,
+            25
+          ]
+        },
+        {
+          "text": "Denmark",
+          "location": [
+            92,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.190361,
+        "joy": 0.23146,
+        "fear": 0.136611,
+        "disgust": 0.042076,
+        "anger": 0.543569
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Country"
+        ],
+        "name": "Denmark",
+        "dbpedia_resource": "http://dbpedia.org/resource/Denmark"
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Madrid Frankfurt Paris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.628335,
+      "mentions": [
+        {
+          "text": "Madrid  Frankfurt  Paris",
+          "location": [
+            559,
+            583
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.540942,
+        "joy": 0.053921,
+        "fear": 0.063659,
+        "disgust": 0.110326,
+        "anger": 0.123561
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kristian Agerbo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.560799,
+      "mentions": [
+        {
+          "text": "Kristian Agerbo",
+          "location": [
+            268,
+            283
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296861,
+        "joy": 0.213363,
+        "fear": 0.124837,
+        "disgust": 0.074048,
+        "anger": 0.061781
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "European court",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.503047,
+      "mentions": [
+        {
+          "text": "European court",
+          "location": [
+            632,
+            646
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.540942,
+        "joy": 0.053921,
+        "fear": 0.063659,
+        "disgust": 0.110326,
+        "anger": 0.123561
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "European Union",
+      "relevance": 0.954465,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.860925,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "Law",
+      "relevance": 0.557159,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law"
+    },
+    {
+      "text": "European Economic Community",
+      "relevance": 0.553929,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Economic_Community"
+    },
+    {
+      "text": "European Court of Justice",
+      "relevance": 0.498783,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Court_of_Justice"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.907451,
+      "label": "/automotive and vehicles/cars"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 829,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.638934,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "US car giant",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.94905,
+      "emotion": {
+        "sadness": 0.653616,
+        "joy": 0.102848,
+        "fear": 0.107167,
+        "disgust": 0.047042,
+        "anger": 0.123715
+      },
+      "count": 1
+    },
+    {
+      "text": "US President Donald Trump",
+      "sentiment": {
+        "score": -0.945168,
+        "label": "negative"
+      },
+      "relevance": 0.784283,
+      "emotion": {
+        "sadness": 0.349959,
+        "joy": 0.120407,
+        "fear": 0.227714,
+        "disgust": 0.045519,
+        "anger": 0.197303
+      },
+      "count": 1
+    },
+    {
+      "text": "addition  Ford",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706446,
+      "emotion": {
+        "sadness": 0.190259,
+        "joy": 0.328815,
+        "fear": 0.051016,
+        "disgust": 0.06158,
+        "anger": 0.107675
+      },
+      "count": 1
+    },
+    {
+      "text": "Car companies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.678631,
+      "emotion": {
+        "sadness": 0.07708,
+        "joy": 0.04278,
+        "fear": 0.198654,
+        "disgust": 0.031633,
+        "anger": 0.053761
+      },
+      "count": 1
+    },
+    {
+      "text": "Ford's US investment announcement",
+      "sentiment": {
+        "score": -0.576471,
+        "label": "negative"
+      },
+      "relevance": 0.644163,
+      "emotion": {
+        "sadness": 0.240384,
+        "joy": 0.032741,
+        "fear": 0.037276,
+        "disgust": 0.033568,
+        "anger": 0.161388
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Ford",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.894246,
+      "mentions": [
+        {
+          "text": "Ford",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            41,
+            45
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            206,
+            210
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            265,
+            269
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            495,
+            499
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            585,
+            589
+          ]
+        },
+        {
+          "text": "Ford",
+          "location": [
+            703,
+            707
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.293097,
+        "joy": 0.22335,
+        "fear": 0.12892,
+        "disgust": 0.049845,
+        "anger": 0.186149
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "AwardWinner",
+          "Inventor",
+          "SchoolFounder"
+        ],
+        "name": "Ford Motor Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ford_Motor_Company"
+      },
+      "count": 7
+    },
+    {
+      "type": "Location",
+      "text": "Michigan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.310395,
+      "mentions": [
+        {
+          "text": "Michigan",
+          "location": [
+            25,
+            33
+          ]
+        },
+        {
+          "text": "Michigan",
+          "location": [
+            121,
+            129
+          ]
+        },
+        {
+          "text": "Michigan",
+          "location": [
+            634,
+            642
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.143521,
+        "joy": 0.446554,
+        "fear": 0.048094,
+        "disgust": 0.01224,
+        "anger": 0.129669
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Michigan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michigan"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.498607,
+        "label": "negative"
+      },
+      "relevance": 0.293949,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            364,
+            366
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            710,
+            712
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.502396,
+        "joy": 0.035673,
+        "fear": 0.045659,
+        "disgust": 0.033659,
+        "anger": 0.178439
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "sentiment": {
+        "score": -0.498607,
+        "label": "negative"
+      },
+      "relevance": 0.219602,
+      "mentions": [
+        {
+          "text": "Mexico",
+          "location": [
+            440,
+            446
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            448,
+            450
+          ]
+        },
+        {
+          "text": "Mexico",
+          "location": [
+            517,
+            523
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.543254,
+        "joy": 0.128436,
+        "fear": 0.19085,
+        "disgust": 0.040674,
+        "anger": 0.180767
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "FilmCinematographer",
+          "Country"
+        ],
+        "name": "Mexico",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mexico"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "United Auto Workers union",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194555,
+      "mentions": [
+        {
+          "text": "United Auto Workers union",
+          "location": [
+            802,
+            827
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240384,
+        "joy": 0.032741,
+        "fear": 0.037276,
+        "disgust": 0.033568,
+        "anger": 0.161388
+      },
+      "disambiguation": {
+        "subtype": [
+          "TradeUnion"
+        ],
+        "name": "United Auto Workers",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Auto_Workers"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Auto Workers",
+      "relevance": 0.977505,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Auto_Workers"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.955285,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Gerald Ford",
+      "relevance": 0.81677,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gerald_Ford"
+    },
+    {
+      "text": "Michigan",
+      "relevance": 0.778115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michigan"
+    },
+    {
+      "text": "Ford Motor Company",
+      "relevance": 0.722092,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ford_Motor_Company"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999975,
+      "label": "/automotive and vehicles/vehicle brands/ford"
+    }
+  ]
+}

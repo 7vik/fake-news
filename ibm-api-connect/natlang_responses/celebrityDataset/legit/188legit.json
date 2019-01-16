@@ -1,0 +1,333 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 601,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.769784,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Hiddleston",
+      "sentiment": {
+        "score": -0.602696,
+        "label": "negative"
+      },
+      "relevance": 0.927229,
+      "emotion": {
+        "sadness": 0.358692,
+        "joy": 0.312222,
+        "fear": 0.06958,
+        "disgust": 0.238789,
+        "anger": 0.186564
+      },
+      "count": 1
+    },
+    {
+      "text": "Golden Globe Award",
+      "sentiment": {
+        "score": -0.602696,
+        "label": "negative"
+      },
+      "relevance": 0.807364,
+      "emotion": {
+        "sadness": 0.383997,
+        "joy": 0.25409,
+        "fear": 0.102476,
+        "disgust": 0.283118,
+        "anger": 0.171273
+      },
+      "count": 1
+    },
+    {
+      "text": "Taylor Swift relationship",
+      "sentiment": {
+        "score": -0.602696,
+        "label": "negative"
+      },
+      "relevance": 0.769887,
+      "emotion": {
+        "sadness": 0.306425,
+        "joy": 0.334801,
+        "fear": 0.036277,
+        "disgust": 0.116059,
+        "anger": 0.130345
+      },
+      "count": 1
+    },
+    {
+      "text": "Tom Hiddleston's side",
+      "sentiment": {
+        "score": -0.602696,
+        "label": "negative"
+      },
+      "relevance": 0.711435,
+      "emotion": {
+        "sadness": 0.383997,
+        "joy": 0.25409,
+        "fear": 0.102476,
+        "disgust": 0.283118,
+        "anger": 0.171273
+      },
+      "count": 1
+    },
+    {
+      "text": "brief relationship",
+      "sentiment": {
+        "score": -0.602696,
+        "label": "negative"
+      },
+      "relevance": 0.697889,
+      "emotion": {
+        "sadness": 0.383997,
+        "joy": 0.25409,
+        "fear": 0.102476,
+        "disgust": 0.283118,
+        "anger": 0.171273
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.613147,
+        "label": "positive"
+      },
+      "relevance": 0.894901,
+      "mentions": [
+        {
+          "text": "Taylor",
+          "location": [
+            32,
+            38
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            268,
+            280
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            500,
+            506
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            528,
+            531
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            591,
+            593
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.196828,
+        "joy": 0.65815,
+        "fear": 0.024185,
+        "disgust": 0.107677,
+        "anger": 0.05565
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Tom Hiddleston",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.617708,
+      "mentions": [
+        {
+          "text": "Tom Hiddleston",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Tom Hiddleston",
+          "location": [
+            133,
+            147
+          ]
+        },
+        {
+          "text": "Hiddleston",
+          "location": [
+            419,
+            429
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.535938,
+        "joy": 0.126757,
+        "fear": 0.029521,
+        "disgust": 0.152555,
+        "anger": 0.178659
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Tom Hiddleston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Hiddleston"
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "GQ magazine",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.407021,
+      "mentions": [
+        {
+          "text": "GQ magazine",
+          "location": [
+            435,
+            446
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.567726,
+        "joy": 0.098327,
+        "fear": 0.05527,
+        "disgust": 0.099217,
+        "anger": 0.202373
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "GQ",
+        "dbpedia_resource": "http://dbpedia.org/resource/GQ"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Golden Globe",
+      "sentiment": {
+        "score": 0.415076,
+        "label": "positive"
+      },
+      "relevance": 0.341462,
+      "mentions": [
+        {
+          "text": "Golden Globe",
+          "location": [
+            181,
+            193
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.360754,
+        "joy": 0.476616,
+        "fear": 0.054946,
+        "disgust": 0.103402,
+        "anger": 0.069027
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor",
+      "sentiment": {
+        "score": 0.618821,
+        "label": "positive"
+      },
+      "relevance": 0.30761,
+      "mentions": [
+        {
+          "text": "an amazing woman",
+          "location": [
+            510,
+            526
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.030102,
+        "joy": 0.826363,
+        "fear": 0.021518,
+        "disgust": 0.087043,
+        "anger": 0.017904
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.91847,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    },
+    {
+      "text": "2004 singles",
+      "relevance": 0.903536,
+      "dbpedia_resource": "http://dbpedia.org/resource/2004_singles"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.863915,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Actor",
+      "relevance": 0.826742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    },
+    {
+      "text": "People",
+      "relevance": 0.786149,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.616792,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

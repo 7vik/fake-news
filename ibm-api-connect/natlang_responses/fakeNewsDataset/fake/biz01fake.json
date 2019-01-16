@@ -1,0 +1,114 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 49,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Alex Jones",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.190127,
+        "joy": 0.186313,
+        "fear": 0.061196,
+        "disgust": 0.130401,
+        "anger": 0.10179
+      },
+      "count": 1
+    },
+    {
+      "text": "Controversy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.190127,
+        "joy": 0.186313,
+        "fear": 0.061196,
+        "disgust": 0.130401,
+        "anger": 0.10179
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Pizzagate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Pizzagate",
+          "location": [
+            26,
+            35
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alex Jones",
+      "sentiment": {
+        "score": 0.479138,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Alex Jones",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188806,
+        "joy": 0.17024,
+        "fear": 0.055965,
+        "disgust": 0.148953,
+        "anger": 0.097957
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.563583,
+      "label": "/society"
+    }
+  ]
+}

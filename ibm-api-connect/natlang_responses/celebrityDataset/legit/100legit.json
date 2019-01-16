@@ -1,0 +1,377 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1226,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.489179,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Single Mom",
+      "sentiment": {
+        "score": 0.735324,
+        "label": "positive"
+      },
+      "relevance": 0.760241,
+      "emotion": {
+        "sadness": 0.225796,
+        "joy": 0.723994,
+        "fear": 0.005535,
+        "disgust": 0.036168,
+        "anger": 0.020163
+      },
+      "count": 3
+    },
+    {
+      "text": "single moment",
+      "sentiment": {
+        "score": 0.659194,
+        "label": "positive"
+      },
+      "relevance": 0.654136,
+      "emotion": {
+        "sadness": 0.234361,
+        "joy": 0.653495,
+        "fear": 0.141394,
+        "disgust": 0.013937,
+        "anger": 0.007371
+      },
+      "count": 1
+    },
+    {
+      "text": "greatest gift",
+      "sentiment": {
+        "score": 0.735324,
+        "label": "positive"
+      },
+      "relevance": 0.65075,
+      "emotion": {
+        "sadness": 0.133788,
+        "joy": 0.725744,
+        "fear": 0.004502,
+        "disgust": 0.14509,
+        "anger": 0.024438
+      },
+      "count": 1
+    },
+    {
+      "text": "beautiful life",
+      "sentiment": {
+        "score": 0.950942,
+        "label": "positive"
+      },
+      "relevance": 0.642224,
+      "emotion": {
+        "sadness": 0.084375,
+        "joy": 0.886795,
+        "fear": 0.012732,
+        "disgust": 0.004871,
+        "anger": 0.010613
+      },
+      "count": 1
+    },
+    {
+      "text": "daughter Tiffany",
+      "sentiment": {
+        "score": -0.703108,
+        "label": "negative"
+      },
+      "relevance": 0.628365,
+      "emotion": {
+        "sadness": 0.436398,
+        "joy": 0.403336,
+        "fear": 0.095619,
+        "disgust": 0.06617,
+        "anger": 0.058672
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Marla Maples",
+      "sentiment": {
+        "score": 0.3988,
+        "label": "positive"
+      },
+      "relevance": 0.832377,
+      "mentions": [
+        {
+          "text": "Marla Maples",
+          "location": [
+            30,
+            42
+          ]
+        },
+        {
+          "text": "Maples",
+          "location": [
+            371,
+            377
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            383,
+            386
+          ]
+        },
+        {
+          "text": "Maples",
+          "location": [
+            613,
+            619
+          ]
+        },
+        {
+          "text": "Maples",
+          "location": [
+            897,
+            903
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            985,
+            988
+          ]
+        },
+        {
+          "text": "Maples",
+          "location": [
+            1044,
+            1050
+          ]
+        },
+        {
+          "text": "Maples",
+          "location": [
+            1150,
+            1156
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.28126,
+        "joy": 0.540059,
+        "fear": 0.073865,
+        "disgust": 0.071527,
+        "anger": 0.068142
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Marla Maples",
+        "dbpedia_resource": "http://dbpedia.org/resource/Marla_Maples"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Tiffany",
+      "sentiment": {
+        "score": 0.500704,
+        "label": "positive"
+      },
+      "relevance": 0.603066,
+      "mentions": [
+        {
+          "text": "Tiffany",
+          "location": [
+            465,
+            472
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            479,
+            482
+          ]
+        },
+        {
+          "text": "Tiffany",
+          "location": [
+            930,
+            937
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            973,
+            975
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            1010,
+            1012
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            1019,
+            1021
+          ]
+        },
+        {
+          "text": "Tiffany",
+          "location": [
+            1092,
+            1099
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1130,
+            1133
+          ]
+        },
+        {
+          "text": "Tiffany",
+          "location": [
+            1182,
+            1189
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12241,
+        "joy": 0.758139,
+        "fear": 0.030582,
+        "disgust": 0.022102,
+        "anger": 0.03735
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.64998,
+        "label": "positive"
+      },
+      "relevance": 0.542795,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            7,
+            19
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            176,
+            188
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            487,
+            492
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.436398,
+        "joy": 0.403336,
+        "fear": 0.095619,
+        "disgust": 0.06617,
+        "anger": 0.058672
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "ABC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.201962,
+      "mentions": [
+        {
+          "text": "ABC",
+          "location": [
+            1221,
+            1224
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.961984,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Marla Maples",
+      "relevance": 0.896167,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marla_Maples"
+    },
+    {
+      "text": "Trump family",
+      "relevance": 0.608645,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_family"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.447365,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.445726,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.709629,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

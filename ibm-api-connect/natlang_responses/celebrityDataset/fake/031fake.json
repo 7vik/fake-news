@@ -1,0 +1,269 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1203,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.665437,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ABC's hit dancing competition show",
+      "sentiment": {
+        "score": 0.657364,
+        "label": "positive"
+      },
+      "relevance": 0.804447,
+      "emotion": {
+        "sadness": 0.372257,
+        "joy": 0.511964,
+        "fear": 0.068209,
+        "disgust": 0.005911,
+        "anger": 0.081255
+      },
+      "count": 1
+    },
+    {
+      "text": "dance competition\u00a0TV series",
+      "sentiment": {
+        "score": 0.551734,
+        "label": "positive"
+      },
+      "relevance": 0.693518,
+      "emotion": {
+        "sadness": 0.271796,
+        "joy": 0.65914,
+        "fear": 0.0366,
+        "disgust": 0.018648,
+        "anger": 0.006645
+      },
+      "count": 1
+    },
+    {
+      "text": "upcoming season",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.658592,
+      "emotion": {
+        "sadness": 0.048847,
+        "joy": 0.608281,
+        "fear": 0.064291,
+        "disgust": 0.149516,
+        "anger": 0.021608
+      },
+      "count": 1
+    },
+    {
+      "text": "audience votes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.626734,
+      "emotion": {
+        "sadness": 0.032791,
+        "joy": 0.541651,
+        "fear": 0.022286,
+        "disgust": 0.213072,
+        "anger": 0.303657
+      },
+      "count": 2
+    },
+    {
+      "text": "biggest names",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.608507,
+      "emotion": {
+        "sadness": 0.187385,
+        "joy": 0.085139,
+        "fear": 0.06103,
+        "disgust": 0.021591,
+        "anger": 0.125944
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Usher Cast",
+      "sentiment": {
+        "score": 0.719052,
+        "label": "positive"
+      },
+      "relevance": 0.924411,
+      "mentions": [
+        {
+          "text": "Usher Cast",
+          "location": [
+            12,
+            22
+          ]
+        },
+        {
+          "text": "Usher",
+          "location": [
+            92,
+            97
+          ]
+        },
+        {
+          "text": "Usher",
+          "location": [
+            443,
+            448
+          ]
+        },
+        {
+          "text": "Usher",
+          "location": [
+            483,
+            488
+          ]
+        },
+        {
+          "text": "Usher",
+          "location": [
+            1183,
+            1188
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.011281,
+        "joy": 0.792967,
+        "fear": 0.0531,
+        "disgust": 0.127938,
+        "anger": 0.059148
+      },
+      "count": 5
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Dancing With the Stars",
+      "sentiment": {
+        "score": 0.650864,
+        "label": "positive"
+      },
+      "relevance": 0.431424,
+      "mentions": [
+        {
+          "text": "Dancing With the Stars",
+          "location": [
+            148,
+            170
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.053857,
+        "joy": 0.686173,
+        "fear": 0.072258,
+        "disgust": 0.154201,
+        "anger": 0.013473
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Usher",
+      "sentiment": {
+        "score": 0.663326,
+        "label": "positive"
+      },
+      "relevance": 0.357865,
+      "mentions": [
+        {
+          "text": "an amazing dancer.We hear",
+          "location": [
+            452,
+            477
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.026289,
+        "joy": 0.82487,
+        "fear": 0.064113,
+        "disgust": 0.063092,
+        "anger": 0.046818
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "ABC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.344703,
+      "mentions": [
+        {
+          "text": "ABC",
+          "location": [
+            245,
+            248
+          ]
+        },
+        {
+          "text": "ABC",
+          "location": [
+            722,
+            725
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "38-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.344703,
+      "mentions": [
+        {
+          "text": "38-year",
+          "location": [
+            192,
+            199
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Dance",
+      "relevance": 0.9435,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dance"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.993605,
+      "label": "/art and entertainment/dance"
+    }
+  ]
+}

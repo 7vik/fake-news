@@ -1,0 +1,206 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 490,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.786354,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Machine Learning",
+      "sentiment": {
+        "score": 0.923367,
+        "label": "positive"
+      },
+      "relevance": 0.865364,
+      "emotion": {
+        "sadness": 0.140715,
+        "joy": 0.634475,
+        "fear": 0.032151,
+        "disgust": 0.053799,
+        "anger": 0.121591
+      },
+      "count": 1
+    },
+    {
+      "text": "Google's machine-learning technology",
+      "sentiment": {
+        "score": 0.951265,
+        "label": "positive"
+      },
+      "relevance": 0.776196,
+      "emotion": {
+        "sadness": 0.07405,
+        "joy": 0.214952,
+        "fear": 0.020501,
+        "disgust": 0.005652,
+        "anger": 0.083468
+      },
+      "count": 1
+    },
+    {
+      "text": "use of technology",
+      "sentiment": {
+        "score": 0.923367,
+        "label": "positive"
+      },
+      "relevance": 0.760638,
+      "emotion": {
+        "sadness": 0.217533,
+        "joy": 0.258889,
+        "fear": 0.044524,
+        "disgust": 0.055494,
+        "anger": 0.057524
+      },
+      "count": 1
+    },
+    {
+      "text": "CC technologies",
+      "sentiment": {
+        "score": 0.270246,
+        "label": "positive"
+      },
+      "relevance": 0.716608,
+      "emotion": {
+        "sadness": 0.093304,
+        "joy": 0.090208,
+        "fear": 0.050179,
+        "disgust": 0.084561,
+        "anger": 0.074377
+      },
+      "count": 1
+    },
+    {
+      "text": "Thanks",
+      "sentiment": {
+        "score": 0.951265,
+        "label": "positive"
+      },
+      "relevance": 0.614342,
+      "emotion": {
+        "sadness": 0.07405,
+        "joy": 0.214952,
+        "fear": 0.020501,
+        "disgust": 0.005652,
+        "anger": 0.083468
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.961186,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            264,
+            271
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.541224,
+        "joy": 0.055043,
+        "fear": 0.037043,
+        "disgust": 0.268429,
+        "anger": 0.223788
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.780733,
+        "label": "positive"
+      },
+      "relevance": 0.843284,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            171,
+            177
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Prison",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prison"
+    },
+    {
+      "text": "Google",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "Hearing",
+      "relevance": 0.840207,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hearing"
+    },
+    {
+      "text": "Audiogram",
+      "relevance": 0.826272,
+      "dbpedia_resource": "http://dbpedia.org/resource/Audiogram"
+    },
+    {
+      "text": "Technology",
+      "relevance": 0.813095,
+      "dbpedia_resource": "http://dbpedia.org/resource/Technology"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.963854,
+      "label": "/technology and computing/internet technology"
+    }
+  ]
+}

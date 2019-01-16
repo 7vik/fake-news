@@ -1,0 +1,190 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 79,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.887392,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.887392,
+        "label": "positive"
+      },
+      "relevance": 0.844357,
+      "emotion": {
+        "sadness": 0.02213,
+        "joy": 0.923832,
+        "fear": 0.010981,
+        "disgust": 0.01033,
+        "anger": 0.024531
+      },
+      "count": 1
+    },
+    {
+      "text": "Lots of Smiles",
+      "sentiment": {
+        "score": 0.887392,
+        "label": "positive"
+      },
+      "relevance": 0.840362,
+      "emotion": {
+        "sadness": 0.02213,
+        "joy": 0.923832,
+        "fear": 0.010981,
+        "disgust": 0.01033,
+        "anger": 0.024531
+      },
+      "count": 1
+    },
+    {
+      "text": "Serena Williams' Wedding",
+      "sentiment": {
+        "score": 0.887392,
+        "label": "positive"
+      },
+      "relevance": 0.719372,
+      "emotion": {
+        "sadness": 0.02213,
+        "joy": 0.923832,
+        "fear": 0.010981,
+        "disgust": 0.01033,
+        "anger": 0.024531
+      },
+      "count": 1
+    },
+    {
+      "text": "Alexis Ohanian",
+      "sentiment": {
+        "score": 0.887392,
+        "label": "positive"
+      },
+      "relevance": 0.244861,
+      "emotion": {
+        "sadness": 0.02213,
+        "joy": 0.923832,
+        "fear": 0.010981,
+        "disgust": 0.01033,
+        "anger": 0.024531
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.014074,
+        "joy": 0.933641,
+        "fear": 0.007435,
+        "disgust": 0.016395,
+        "anger": 0.013415
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Serena Williams",
+          "location": [
+            36,
+            51
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.014074,
+        "joy": 0.933641,
+        "fear": 0.007435,
+        "disgust": 0.016395,
+        "anger": 0.013415
+      },
+      "disambiguation": {
+        "subtype": [
+          "TennisPlayer",
+          "AwardWinner",
+          "Celebrity",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Serena Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alexis Ohanian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Alexis Ohanian",
+          "location": [
+            64,
+            78
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136657,
+        "joy": 0.595401,
+        "fear": 0.073962,
+        "disgust": 0.023356,
+        "anger": 0.102885
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alexis Ohanian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexis_Ohanian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Serena Williams",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.96369,
+      "label": "/sports/tennis"
+    }
+  ]
+}

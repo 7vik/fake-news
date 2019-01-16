@@ -1,0 +1,117 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 41,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Halle Berry Jokes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993122,
+      "emotion": {
+        "sadness": 0.137296,
+        "joy": 0.050551,
+        "fear": 0.27334,
+        "disgust": 0.524205,
+        "anger": 0.042657
+      },
+      "count": 1
+    },
+    {
+      "text": "Pregnancy Rumors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.006878,
+      "emotion": {
+        "sadness": 0.137296,
+        "joy": 0.050551,
+        "fear": 0.27334,
+        "disgust": 0.524205,
+        "anger": 0.042657
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Halle Berry",
+      "sentiment": {
+        "score": -0.846352,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Halle Berry",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137296,
+        "joy": 0.050551,
+        "fear": 0.27334,
+        "disgust": 0.524205,
+        "anger": 0.042657
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Halle Berry",
+        "dbpedia_resource": "http://dbpedia.org/resource/Halle_Berry"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Halle Berry",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Halle_Berry"
+    },
+    {
+      "text": "Boomerang",
+      "relevance": 0.820534,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boomerang_(1992_film)"
+    },
+    {
+      "text": "Gothika",
+      "relevance": 0.794265,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gothika"
+    },
+    {
+      "text": "Monster's Ball",
+      "relevance": 0.74698,
+      "dbpedia_resource": "http://dbpedia.org/resource/Monster's_Ball"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999997,
+      "label": "/family and parenting/motherhood/pregnancy"
+    }
+  ]
+}

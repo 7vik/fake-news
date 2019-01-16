@@ -1,0 +1,168 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 113,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.809014,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift Spending",
+      "sentiment": {
+        "score": -0.97735,
+        "label": "negative"
+      },
+      "relevance": 0.988809,
+      "emotion": {
+        "sadness": 0.461652,
+        "joy": 0.218919,
+        "fear": 0.135393,
+        "disgust": 0.269466,
+        "anger": 0.121149
+      },
+      "count": 1
+    },
+    {
+      "text": "Dollars",
+      "sentiment": {
+        "score": -0.97735,
+        "label": "negative"
+      },
+      "relevance": 0.601667,
+      "emotion": {
+        "sadness": 0.461652,
+        "joy": 0.218919,
+        "fear": 0.135393,
+        "disgust": 0.269466,
+        "anger": 0.121149
+      },
+      "count": 1
+    },
+    {
+      "text": "New Boyfriend",
+      "sentiment": {
+        "score": -0.97735,
+        "label": "negative"
+      },
+      "relevance": 0.510071,
+      "emotion": {
+        "sadness": 0.461652,
+        "joy": 0.218919,
+        "fear": 0.135393,
+        "disgust": 0.269466,
+        "anger": 0.121149
+      },
+      "count": 1
+    },
+    {
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": -0.97735,
+        "label": "negative"
+      },
+      "relevance": 0.373516,
+      "emotion": {
+        "sadness": 0.461652,
+        "joy": 0.218919,
+        "fear": 0.135393,
+        "disgust": 0.269466,
+        "anger": 0.121149
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.317029,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": 0.231488,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            60,
+            69
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor",
+      "sentiment": {
+        "score": 0.453451,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor",
+          "location": [
+            0,
+            6
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269893,
+        "joy": 0.544559,
+        "fear": 0.047811,
+        "disgust": 0.138048,
+        "anger": 0.063808
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.744323,
+      "label": "/news/national news"
+    }
+  ]
+}

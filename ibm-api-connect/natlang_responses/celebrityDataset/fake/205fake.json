@@ -1,0 +1,123 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.900087,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0.900087,
+        "label": "positive"
+      },
+      "relevance": 0.999932,
+      "emotion": {
+        "sadness": 0.078025,
+        "joy": 0.795096,
+        "fear": 0.061122,
+        "disgust": 0.071359,
+        "anger": 0.014092
+      },
+      "count": 1
+    },
+    {
+      "text": "New Fresh Face",
+      "sentiment": {
+        "score": 0.900087,
+        "label": "positive"
+      },
+      "relevance": 0.351803,
+      "emotion": {
+        "sadness": 0.078025,
+        "joy": 0.795096,
+        "fear": 0.061122,
+        "disgust": 0.071359,
+        "anger": 0.014092
+      },
+      "count": 1
+    },
+    {
+      "text": "BOTOX BEN",
+      "sentiment": {
+        "score": 0.900087,
+        "label": "positive"
+      },
+      "relevance": 0.109722,
+      "emotion": {
+        "sadness": 0.078025,
+        "joy": 0.795096,
+        "fear": 0.061122,
+        "disgust": 0.071359,
+        "anger": 0.014092
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0.78092,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ben Affleck",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065238,
+        "joy": 0.812466,
+        "fear": 0.079748,
+        "disgust": 0.053403,
+        "anger": 0.011004
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Ben Affleck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ben Affleck",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.626216,
+      "label": "/health and fitness/disorders"
+    }
+  ]
+}

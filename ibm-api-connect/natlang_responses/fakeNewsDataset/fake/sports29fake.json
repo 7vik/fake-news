@@ -1,0 +1,299 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 591,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.798985,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "tight friendship",
+      "sentiment": {
+        "score": 0.597107,
+        "label": "positive"
+      },
+      "relevance": 0.859618,
+      "emotion": {
+        "sadness": 0.075845,
+        "joy": 0.784501,
+        "fear": 0.049023,
+        "disgust": 0.020423,
+        "anger": 0.050923
+      },
+      "count": 1
+    },
+    {
+      "text": "aggressive play of Brazil",
+      "sentiment": {
+        "score": 0.597107,
+        "label": "positive"
+      },
+      "relevance": 0.839548,
+      "emotion": {
+        "sadness": 0.075845,
+        "joy": 0.784501,
+        "fear": 0.049023,
+        "disgust": 0.020423,
+        "anger": 0.050923
+      },
+      "count": 1
+    },
+    {
+      "text": "Paraguay game",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.680454,
+      "emotion": {
+        "sadness": 0.067171,
+        "joy": 0.827089,
+        "fear": 0.016099,
+        "disgust": 0.066322,
+        "anger": 0.036742
+      },
+      "count": 1
+    },
+    {
+      "text": "result of the win",
+      "sentiment": {
+        "score": 0.948802,
+        "label": "positive"
+      },
+      "relevance": 0.667818,
+      "emotion": {
+        "sadness": 0.066503,
+        "joy": 0.811817,
+        "fear": 0.013817,
+        "disgust": 0.043136,
+        "anger": 0.056673
+      },
+      "count": 1
+    },
+    {
+      "text": "famous friendship",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66141,
+      "emotion": {
+        "sadness": 0.067171,
+        "joy": 0.827089,
+        "fear": 0.016099,
+        "disgust": 0.066322,
+        "anger": 0.036742
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.881732,
+      "mentions": [
+        {
+          "text": "Brazil",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            111,
+            117
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            161,
+            167
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            266,
+            272
+          ]
+        },
+        {
+          "text": "the first team",
+          "location": [
+            284,
+            298
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.135717,
+        "joy": 0.639442,
+        "fear": 0.029087,
+        "disgust": 0.070206,
+        "anger": 0.083985
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Paraguay",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.735757,
+      "mentions": [
+        {
+          "text": "Paraguay",
+          "location": [
+            24,
+            32
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            183,
+            191
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            413,
+            421
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.047291,
+        "joy": 0.823398,
+        "fear": 0.012166,
+        "disgust": 0.068626,
+        "anger": 0.07048
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Coutinho",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.464805,
+      "mentions": [
+        {
+          "text": "Coutinho",
+          "location": [
+            370,
+            378
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.040947,
+        "joy": 0.76218,
+        "fear": 0.009233,
+        "disgust": 0.159421,
+        "anger": 0.056966
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Neymar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.32288,
+      "mentions": [
+        {
+          "text": "Neymar",
+          "location": [
+            133,
+            139
+          ]
+        },
+        {
+          "text": "Neymar",
+          "location": [
+            383,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.044919,
+        "joy": 0.82665,
+        "fear": 0.01657,
+        "disgust": 0.058428,
+        "anger": 0.067237
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Neymar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Neymar"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brazil",
+      "relevance": 0.955826,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+      "text": "FIFA World Cup",
+      "relevance": 0.83069,
+      "dbpedia_resource": "http://dbpedia.org/resource/FIFA_World_Cup"
+    },
+    {
+      "text": "South America",
+      "relevance": 0.789246,
+      "dbpedia_resource": "http://dbpedia.org/resource/South_America"
+    },
+    {
+      "text": "Uruguay",
+      "relevance": 0.776117,
+      "dbpedia_resource": "http://dbpedia.org/resource/Uruguay"
+    },
+    {
+      "text": "Argentina",
+      "relevance": 0.755036,
+      "dbpedia_resource": "http://dbpedia.org/resource/Argentina"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.794891,
+      "label": "/sports/soccer"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.84166,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jessie J",
+      "sentiment": {
+        "score": -0.84166,
+        "label": "negative"
+      },
+      "relevance": 0.999749,
+      "emotion": {
+        "sadness": 0.136323,
+        "joy": 0.117044,
+        "fear": 0.096326,
+        "disgust": 0.088842,
+        "anger": 0.115435
+      },
+      "count": 1
+    },
+    {
+      "text": "Bi",
+      "sentiment": {
+        "score": -0.84166,
+        "label": "negative"
+      },
+      "relevance": 0.000251,
+      "emotion": {
+        "sadness": 0.136323,
+        "joy": 0.117044,
+        "fear": 0.096326,
+        "disgust": 0.088842,
+        "anger": 0.115435
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.54782,
+      "label": "/business and industrial"
+    }
+  ]
+}

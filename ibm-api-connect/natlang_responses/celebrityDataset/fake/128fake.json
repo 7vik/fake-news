@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1487,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.645519,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Political Issues",
+      "sentiment": {
+        "score": -0.822855,
+        "label": "negative"
+      },
+      "relevance": 0.728868,
+      "emotion": {
+        "sadness": 0.313139,
+        "joy": 0.065149,
+        "fear": 0.014258,
+        "disgust": 0.180577,
+        "anger": 0.243669
+      },
+      "count": 2
+    },
+    {
+      "text": "Kardashian Hires Team",
+      "sentiment": {
+        "score": -0.822855,
+        "label": "negative"
+      },
+      "relevance": 0.671735,
+      "emotion": {
+        "sadness": 0.313139,
+        "joy": 0.065149,
+        "fear": 0.014258,
+        "disgust": 0.180577,
+        "anger": 0.243669
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.822352,
+        "label": "positive"
+      },
+      "relevance": 0.634678,
+      "emotion": {
+        "sadness": 0.359899,
+        "joy": 0.283827,
+        "fear": 0.34968,
+        "disgust": 0.044988,
+        "anger": 0.111854
+      },
+      "count": 1
+    },
+    {
+      "text": "recent interview",
+      "sentiment": {
+        "score": 0.822352,
+        "label": "positive"
+      },
+      "relevance": 0.626908,
+      "emotion": {
+        "sadness": 0.359899,
+        "joy": 0.283827,
+        "fear": 0.34968,
+        "disgust": 0.044988,
+        "anger": 0.111854
+      },
+      "count": 1
+    },
+    {
+      "text": "famous family",
+      "sentiment": {
+        "score": 0.822352,
+        "label": "positive"
+      },
+      "relevance": 0.624693,
+      "emotion": {
+        "sadness": 0.359899,
+        "joy": 0.283827,
+        "fear": 0.34968,
+        "disgust": 0.044988,
+        "anger": 0.111854
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.052748,
+        "label": "positive"
+      },
+      "relevance": 0.788747,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            208,
+            222
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            269,
+            272
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            378,
+            381
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            401,
+            408
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            522,
+            525
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            540,
+            543
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1179,
+            1189
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1435,
+            1438
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.206669,
+        "joy": 0.61308,
+        "fear": 0.064965,
+        "disgust": 0.108242,
+        "anger": 0.114385
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 9
+    },
+    {
+      "type": "Facility",
+      "text": "Harper\u2019s Bazaar Arabia",
+      "sentiment": {
+        "score": 0.29742,
+        "label": "positive"
+      },
+      "relevance": 0.259088,
+      "mentions": [
+        {
+          "text": "Harper\u2019s Bazaar Arabia",
+          "location": [
+            498,
+            520
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201197,
+        "joy": 0.170386,
+        "fear": 0.063073,
+        "disgust": 0.198262,
+        "anger": 0.089015
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.230148,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            435,
+            445
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Need",
+      "relevance": 0.978921,
+      "dbpedia_resource": "http://dbpedia.org/resource/Need"
+    },
+    {
+      "text": "Want",
+      "relevance": 0.924006,
+      "dbpedia_resource": "http://dbpedia.org/resource/Want"
+    },
+    {
+      "text": "Ideology",
+      "relevance": 0.816004,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ideology"
+    },
+    {
+      "text": "WANT",
+      "relevance": 0.781242,
+      "dbpedia_resource": "http://dbpedia.org/resource/WANT"
+    },
+    {
+      "text": "Idea",
+      "relevance": 0.766739,
+      "dbpedia_resource": "http://dbpedia.org/resource/Idea"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.741804,
+      "label": "/health and fitness/sexuality"
+    }
+  ]
+}

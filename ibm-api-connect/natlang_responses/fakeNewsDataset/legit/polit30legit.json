@@ -1,0 +1,254 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 692,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.435278,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "steady drumbeat of news",
+      "sentiment": {
+        "score": -0.428464,
+        "label": "negative"
+      },
+      "relevance": 0.796441,
+      "emotion": {
+        "sadness": 0.710824,
+        "joy": 0.036115,
+        "fear": 0.065081,
+        "disgust": 0.040937,
+        "anger": 0.045924
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. Travel Industry Fears",
+      "sentiment": {
+        "score": -0.799081,
+        "label": "negative"
+      },
+      "relevance": 0.736444,
+      "emotion": {
+        "sadness": 0.286042,
+        "joy": 0.026165,
+        "fear": 0.797697,
+        "disgust": 0.002384,
+        "anger": 0.008314
+      },
+      "count": 1
+    },
+    {
+      "text": "Republican's inauguration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.720755,
+      "emotion": {
+        "sadness": 0.164453,
+        "joy": 0.125903,
+        "fear": 0.018027,
+        "disgust": 0.196402,
+        "anger": 0.435341
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington lobby groups",
+      "sentiment": {
+        "score": -0.799081,
+        "label": "negative"
+      },
+      "relevance": 0.634067,
+      "emotion": {
+        "sadness": 0.056424,
+        "joy": 0.680495,
+        "fear": 0.044048,
+        "disgust": 0.119304,
+        "anger": 0.012951
+      },
+      "count": 1
+    },
+    {
+      "text": "Mr. Trump's extensive business",
+      "sentiment": {
+        "score": 0.820708,
+        "label": "positive"
+      },
+      "relevance": 0.624285,
+      "emotion": {
+        "sadness": 0.114163,
+        "joy": 0.572199,
+        "fear": 0.104603,
+        "disgust": 0.070528,
+        "anger": 0.202714
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mr. Trump",
+      "sentiment": {
+        "score": 0.636356,
+        "label": "positive"
+      },
+      "relevance": 0.796272,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            49,
+            54
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            215,
+            224
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            286,
+            289
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.07394,
+        "joy": 0.720645,
+        "fear": 0.069454,
+        "disgust": 0.019927,
+        "anger": 0.14803
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "U.S. Travel Association",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.508662,
+      "mentions": [
+        {
+          "text": "U.S. Travel Association",
+          "location": [
+            94,
+            117
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.03319,
+        "joy": 0.695299,
+        "fear": 0.046721,
+        "disgust": 0.118344,
+        "anger": 0.008941
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "chief executive officer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.47456,
+      "mentions": [
+        {
+          "text": "chief executive officer",
+          "location": [
+            392,
+            415
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140936,
+        "joy": 0.025244,
+        "fear": 0.188568,
+        "disgust": 0.285943,
+        "anger": 0.453345
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "USTA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.43666,
+      "mentions": [
+        {
+          "text": "USTA",
+          "location": [
+            385,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "United States Tennis Association",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Tennis_Association"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Executive officer",
+      "relevance": 0.945754,
+      "dbpedia_resource": "http://dbpedia.org/resource/Executive_officer"
+    },
+    {
+      "text": "Chief executives",
+      "relevance": 0.938743,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chief_executives"
+    },
+    {
+      "text": "Chief executive officer",
+      "relevance": 0.933247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chief_executive_officer"
+    },
+    {
+      "text": "Management occupations",
+      "relevance": 0.861405,
+      "dbpedia_resource": "http://dbpedia.org/resource/Management_occupations"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.809039,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.834274,
+      "label": "/travel/business travel"
+    }
+  ]
+}

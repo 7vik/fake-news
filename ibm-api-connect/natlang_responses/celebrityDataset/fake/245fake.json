@@ -1,0 +1,196 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.306707,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kathy Griffin",
+      "sentiment": {
+        "score": -0.306707,
+        "label": "negative"
+      },
+      "relevance": 0.993531,
+      "emotion": {
+        "sadness": 0.370827,
+        "joy": 0.172255,
+        "fear": 0.114043,
+        "disgust": 0.082184,
+        "anger": 0.389473
+      },
+      "count": 1
+    },
+    {
+      "text": "Anderson Cooper",
+      "sentiment": {
+        "score": -0.306707,
+        "label": "negative"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.370827,
+        "joy": 0.172255,
+        "fear": 0.114043,
+        "disgust": 0.082184,
+        "anger": 0.389473
+      },
+      "count": 1
+    },
+    {
+      "text": "CNN firing",
+      "sentiment": {
+        "score": -0.306707,
+        "label": "negative"
+      },
+      "relevance": 0.043761,
+      "emotion": {
+        "sadness": 0.370827,
+        "joy": 0.172255,
+        "fear": 0.114043,
+        "disgust": 0.082184,
+        "anger": 0.389473
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kathy Griffin",
+      "sentiment": {
+        "score": -0.481107,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kathy Griffin",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.586608,
+        "joy": 0.111882,
+        "fear": 0.117054,
+        "disgust": 0.049902,
+        "anger": 0.23912
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Comedian",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kathy Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Griffin"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anderson Cooper",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anderson Cooper",
+          "location": [
+            34,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153127,
+        "joy": 0.296943,
+        "fear": 0.107603,
+        "disgust": 0.113785,
+        "anger": 0.265483
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Anderson Cooper",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anderson_Cooper"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            56,
+            59
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153127,
+        "joy": 0.296943,
+        "fear": 0.107603,
+        "disgust": 0.113785,
+        "anger": 0.265483
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Larry King Live",
+      "relevance": 0.972834,
+      "dbpedia_resource": "http://dbpedia.org/resource/Larry_King_Live"
+    },
+    {
+      "text": "Anderson Cooper",
+      "relevance": 0.737807,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anderson_Cooper"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.71101,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

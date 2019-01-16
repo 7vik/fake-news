@@ -1,0 +1,161 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993531,
+      "emotion": {
+        "sadness": 0.12184,
+        "joy": 0.632046,
+        "fear": 0.025025,
+        "disgust": 0.048738,
+        "anger": 0.174674
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.917787,
+      "emotion": {
+        "sadness": 0.12184,
+        "joy": 0.632046,
+        "fear": 0.025025,
+        "disgust": 0.048738,
+        "anger": 0.174674
+      },
+      "count": 1
+    },
+    {
+      "text": "Baby Mama",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.124557,
+      "emotion": {
+        "sadness": 0.12184,
+        "joy": 0.632046,
+        "fear": 0.025025,
+        "disgust": 0.048738,
+        "anger": 0.174674
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Blake Griffin",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            19,
+            21
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120326,
+        "joy": 0.696305,
+        "fear": 0.020448,
+        "disgust": 0.041841,
+        "anger": 0.143814
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "BasketballPlayer"
+        ],
+        "name": "Blake Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Griffin"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            49,
+            63
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.122668,
+        "joy": 0.715418,
+        "fear": 0.017086,
+        "disgust": 0.04467,
+        "anger": 0.138807
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.768524,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

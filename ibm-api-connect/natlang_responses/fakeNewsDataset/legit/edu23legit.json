@@ -1,0 +1,293 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 762,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.684393,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Toronto Cancels U.S. Class Trips",
+      "sentiment": {
+        "score": -0.947065,
+        "label": "negative"
+      },
+      "relevance": 0.825717,
+      "emotion": {
+        "sadness": 0.424364,
+        "joy": 0.06639,
+        "fear": 0.13216,
+        "disgust": 0.145748,
+        "anger": 0.409882
+      },
+      "count": 1
+    },
+    {
+      "text": "Toronto District School Board",
+      "sentiment": {
+        "score": 0.338232,
+        "label": "positive"
+      },
+      "relevance": 0.740539,
+      "emotion": {
+        "sadness": 0.176006,
+        "joy": 0.479319,
+        "fear": 0.220703,
+        "disgust": 0.016869,
+        "anger": 0.100177
+      },
+      "count": 1
+    },
+    {
+      "text": "girls chorus",
+      "sentiment": {
+        "score": 0.338232,
+        "label": "positive"
+      },
+      "relevance": 0.738354,
+      "emotion": {
+        "sadness": 0.176006,
+        "joy": 0.479319,
+        "fear": 0.220703,
+        "disgust": 0.016869,
+        "anger": 0.100177
+      },
+      "count": 1
+    },
+    {
+      "text": "overseas trip",
+      "sentiment": {
+        "score": 0.338232,
+        "label": "positive"
+      },
+      "relevance": 0.711888,
+      "emotion": {
+        "sadness": 0.176006,
+        "joy": 0.479319,
+        "fear": 0.220703,
+        "disgust": 0.016869,
+        "anger": 0.100177
+      },
+      "count": 1
+    },
+    {
+      "text": "largest school board",
+      "sentiment": {
+        "score": -0.947065,
+        "label": "negative"
+      },
+      "relevance": 0.702062,
+      "emotion": {
+        "sadness": 0.239497,
+        "joy": 0.367684,
+        "fear": 0.086996,
+        "disgust": 0.120181,
+        "anger": 0.268935
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.345235,
+        "label": "negative"
+      },
+      "relevance": 0.692121,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            223,
+            235
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Toronto District School Board",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.691953,
+      "mentions": [
+        {
+          "text": "Toronto District School Board",
+          "location": [
+            373,
+            402
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186526,
+        "joy": 0.452181,
+        "fear": 0.259253,
+        "disgust": 0.007647,
+        "anger": 0.16756
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "SchoolDistrict"
+        ],
+        "name": "Toronto District School Board",
+        "dbpedia_resource": "http://dbpedia.org/resource/Toronto_District_School_Board"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": -0.344496,
+        "label": "negative"
+      },
+      "relevance": 0.541369,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            16,
+            20
+          ]
+        },
+        {
+          "text": "United States",
+          "location": [
+            137,
+            150
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            306,
+            310
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245972,
+        "joy": 0.359853,
+        "fear": 0.127158,
+        "disgust": 0.034216,
+        "anger": 0.366177
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Toronto",
+      "sentiment": {
+        "score": -0.343756,
+        "label": "negative"
+      },
+      "relevance": 0.517877,
+      "mentions": [
+        {
+          "text": "Toronto",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.424364,
+        "joy": 0.06639,
+        "fear": 0.13216,
+        "disgust": 0.145748,
+        "anger": 0.409882
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "SchoolDistrict",
+          "City"
+        ],
+        "name": "Toronto",
+        "dbpedia_resource": "http://dbpedia.org/resource/Toronto"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.95085,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Canada",
+      "relevance": 0.639639,
+      "dbpedia_resource": "http://dbpedia.org/resource/Canada"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.613677,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Basketball",
+      "relevance": 0.606989,
+      "dbpedia_resource": "http://dbpedia.org/resource/Basketball"
+    },
+    {
+      "text": "Common law",
+      "relevance": 0.590989,
+      "dbpedia_resource": "http://dbpedia.org/resource/Common_law"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.98313,
+      "label": "/education/special education"
+    }
+  ]
+}

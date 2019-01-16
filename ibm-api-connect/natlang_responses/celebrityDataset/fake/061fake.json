@@ -1,0 +1,258 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 842,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.542373,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beyonc\u00e9's Twin Baby Bump",
+      "sentiment": {
+        "score": -0.616366,
+        "label": "negative"
+      },
+      "relevance": 0.846885,
+      "emotion": {
+        "sadness": 0.08371,
+        "joy": 0.674193,
+        "fear": 0.055877,
+        "disgust": 0.185096,
+        "anger": 0.049149
+      },
+      "count": 1
+    },
+    {
+      "text": "rest of the image",
+      "sentiment": {
+        "score": -0.674215,
+        "label": "negative"
+      },
+      "relevance": 0.739325,
+      "emotion": {
+        "sadness": 0.266679,
+        "joy": 0.509722,
+        "fear": 0.042611,
+        "disgust": 0.216871,
+        "anger": 0.054005
+      },
+      "count": 1
+    },
+    {
+      "text": "celebrity Photoshop expert",
+      "sentiment": {
+        "score": 0.323166,
+        "label": "positive"
+      },
+      "relevance": 0.716037,
+      "emotion": {
+        "sadness": 0.255064,
+        "joy": 0.426728,
+        "fear": 0.087849,
+        "disgust": 0.324284,
+        "anger": 0.031611
+      },
+      "count": 1
+    },
+    {
+      "text": "faux double-baby bump",
+      "sentiment": {
+        "score": 0.323166,
+        "label": "positive"
+      },
+      "relevance": 0.652896,
+      "emotion": {
+        "sadness": 0.255064,
+        "joy": 0.426728,
+        "fear": 0.087849,
+        "disgust": 0.324284,
+        "anger": 0.031611
+      },
+      "count": 1
+    },
+    {
+      "text": "mash up of a picture",
+      "sentiment": {
+        "score": -0.674215,
+        "label": "negative"
+      },
+      "relevance": 0.604486,
+      "emotion": {
+        "sadness": 0.266679,
+        "joy": 0.509722,
+        "fear": 0.042611,
+        "disgust": 0.216871,
+        "anger": 0.054005
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.080882,
+        "label": "positive"
+      },
+      "relevance": 0.923339,
+      "mentions": [
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            16,
+            23
+          ]
+        },
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            62,
+            69
+          ]
+        },
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            238,
+            245
+          ]
+        },
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            484,
+            491
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.613371,
+        "joy": 0.006592,
+        "fear": 0.122538,
+        "disgust": 0.383253,
+        "anger": 0.125145
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Alan Barry",
+      "sentiment": {
+        "score": 0.464265,
+        "label": "positive"
+      },
+      "relevance": 0.692,
+      "mentions": [
+        {
+          "text": "Alan Barry",
+          "location": [
+            449,
+            459
+          ]
+        },
+        {
+          "text": "Barry",
+          "location": [
+            547,
+            552
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            563,
+            565
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            766,
+            768
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.19086,
+        "joy": 0.381302,
+        "fear": 0.146775,
+        "disgust": 0.203697,
+        "anger": 0.041886
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Photoshop",
+      "sentiment": {
+        "score": 0.093478,
+        "label": "positive"
+      },
+      "relevance": 0.63789,
+      "mentions": [
+        {
+          "text": "Photoshop",
+          "location": [
+            159,
+            168
+          ]
+        },
+        {
+          "text": "Photoshop",
+          "location": [
+            432,
+            441
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186201,
+        "joy": 0.465001,
+        "fear": 0.136672,
+        "disgust": 0.250009,
+        "anger": 0.029007
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Image",
+      "relevance": 0.909556,
+      "dbpedia_resource": "http://dbpedia.org/resource/Image"
+    },
+    {
+      "text": "Mashup",
+      "relevance": 0.7832,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mashup"
+    },
+    {
+      "text": "Pregnancy",
+      "relevance": 0.782163,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+      "text": "IMAGE",
+      "relevance": 0.777375,
+      "dbpedia_resource": "http://dbpedia.org/resource/IMAGE"
+    },
+    {
+      "text": "Photography",
+      "relevance": 0.773093,
+      "dbpedia_resource": "http://dbpedia.org/resource/Photography"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.861799,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

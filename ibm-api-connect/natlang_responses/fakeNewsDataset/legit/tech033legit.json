@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 679,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.648766,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "NASA test fires rocket engine",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.979482,
+      "emotion": {
+        "sadness": 0.089737,
+        "joy": 0.242426,
+        "fear": 0.104157,
+        "disgust": 0.052834,
+        "anger": 0.083122
+      },
+      "count": 1
+    },
+    {
+      "text": "Stennis Space Center",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.759453,
+      "emotion": {
+        "sadness": 0.15958,
+        "joy": 0.062794,
+        "fear": 0.022926,
+        "disgust": 0.047534,
+        "anger": 0.079876
+      },
+      "count": 2
+    },
+    {
+      "text": "second RS-25 engine test",
+      "sentiment": {
+        "score": 0.477992,
+        "label": "positive"
+      },
+      "relevance": 0.720094,
+      "emotion": {
+        "sadness": 0.045603,
+        "joy": 0.279924,
+        "fear": 0.016423,
+        "disgust": 0.007958,
+        "anger": 0.007196
+      },
+      "count": 1
+    },
+    {
+      "text": "Gary Benton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.645884,
+      "emotion": {
+        "sadness": 0.12548,
+        "joy": 0.051693,
+        "fear": 0.009851,
+        "disgust": 0.037034,
+        "anger": 0.067391
+      },
+      "count": 1
+    },
+    {
+      "text": "agency's new Space Launch System",
+      "sentiment": {
+        "score": 0.477992,
+        "label": "positive"
+      },
+      "relevance": 0.637841,
+      "emotion": {
+        "sadness": 0.045603,
+        "joy": 0.279924,
+        "fear": 0.016423,
+        "disgust": 0.007958,
+        "anger": 0.007196
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Stennis Space Center",
+      "sentiment": {
+        "score": -0.580561,
+        "label": "negative"
+      },
+      "relevance": 0.88827,
+      "mentions": [
+        {
+          "text": "Stennis Space Center",
+          "location": [
+            129,
+            149
+          ]
+        },
+        {
+          "text": "Stennis Space Center",
+          "location": [
+            501,
+            521
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.166553,
+        "joy": 0.057943,
+        "fear": 0.023683,
+        "disgust": 0.042022,
+        "anger": 0.076378
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location"
+        ],
+        "name": "John C. Stennis Space Center",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_C._Stennis_Space_Center"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "NASA",
+      "sentiment": {
+        "score": -0.580561,
+        "label": "negative"
+      },
+      "relevance": 0.605408,
+      "mentions": [
+        {
+          "text": "NASA",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "NASA",
+          "location": [
+            54,
+            58
+          ]
+        },
+        {
+          "text": "NASA",
+          "location": [
+            446,
+            450
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.079332,
+        "joy": 0.227605,
+        "fear": 0.084335,
+        "disgust": 0.050461,
+        "anger": 0.084798
+      },
+      "disambiguation": {
+        "subtype": [
+          "Company",
+          "GovernmentAgency",
+          "AirportOperator",
+          "AwardPresentingOrganization",
+          "SoftwareDeveloper",
+          "SpaceAgency",
+          "SpacecraftManufacturer"
+        ],
+        "name": "NASA",
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Gary Benton",
+      "sentiment": {
+        "score": -0.487306,
+        "label": "negative"
+      },
+      "relevance": 0.463818,
+      "mentions": [
+        {
+          "text": "Gary Benton",
+          "location": [
+            452,
+            463
+          ]
+        },
+        {
+          "text": "Benton",
+          "location": [
+            630,
+            636
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24362,
+        "joy": 0.209222,
+        "fear": 0.098979,
+        "disgust": 0.13845,
+        "anger": 0.1277
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Mississippi",
+      "sentiment": {
+        "score": -0.580561,
+        "label": "negative"
+      },
+      "relevance": 0.275491,
+      "mentions": [
+        {
+          "text": "Mississippi",
+          "location": [
+            153,
+            164
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.226975,
+        "joy": 0.107818,
+        "fear": 0.097836,
+        "disgust": 0.065962,
+        "anger": 0.077512
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Mississippi",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mississippi"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "product development",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.222593,
+      "mentions": [
+        {
+          "text": "product development",
+          "location": [
+            469,
+            488
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12925,
+        "joy": 0.046714,
+        "fear": 0.009142,
+        "disgust": 0.028943,
+        "anger": 0.065076
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "NASA",
+      "relevance": 0.987939,
+      "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+    },
+    {
+      "text": "Rocket",
+      "relevance": 0.860185,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rocket"
+    },
+    {
+      "text": "Internal combustion engine",
+      "relevance": 0.78768,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internal_combustion_engine"
+    },
+    {
+      "text": "Exploration of Mars",
+      "relevance": 0.69961,
+      "dbpedia_resource": "http://dbpedia.org/resource/Exploration_of_Mars"
+    },
+    {
+      "text": "Space exploration",
+      "relevance": 0.696947,
+      "dbpedia_resource": "http://dbpedia.org/resource/Space_exploration"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998796,
+      "label": "/business and industrial/aerospace and defense/space technology"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 591,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.301204,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "five-times champions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.701196,
+      "emotion": {
+        "sadness": 0.113336,
+        "joy": 0.671548,
+        "fear": 0.03779,
+        "disgust": 0.044531,
+        "anger": 0.055108
+      },
+      "count": 1
+    },
+    {
+      "text": "eighth successive win",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.696446,
+      "emotion": {
+        "sadness": 0.113336,
+        "joy": 0.671548,
+        "fear": 0.03779,
+        "disgust": 0.044531,
+        "anger": 0.055108
+      },
+      "count": 1
+    },
+    {
+      "text": "World Cup",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.68978,
+      "emotion": {
+        "sadness": 0.018734,
+        "joy": 0.788604,
+        "fear": 0.014196,
+        "disgust": 0.14767,
+        "anger": 0.056278
+      },
+      "count": 2
+    },
+    {
+      "text": "little help",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.677201,
+      "emotion": {
+        "sadness": 0.018088,
+        "joy": 0.778088,
+        "fear": 0.016696,
+        "disgust": 0.158887,
+        "anger": 0.051986
+      },
+      "count": 1
+    },
+    {
+      "text": "later game",
+      "sentiment": {
+        "score": 0.843169,
+        "label": "positive"
+      },
+      "relevance": 0.66089,
+      "emotion": {
+        "sadness": 0.062385,
+        "joy": 0.770544,
+        "fear": 0.039498,
+        "disgust": 0.033604,
+        "anger": 0.022986
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Brazil",
+      "sentiment": {
+        "score": -0.366567,
+        "label": "negative"
+      },
+      "relevance": 0.742225,
+      "mentions": [
+        {
+          "text": "Brazil",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            74,
+            80
+          ]
+        },
+        {
+          "text": "the first team",
+          "location": [
+            93,
+            107
+          ]
+        },
+        {
+          "text": "Brazil",
+          "location": [
+            565,
+            571
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.012347,
+        "joy": 0.811876,
+        "fear": 0.009581,
+        "disgust": 0.136544,
+        "anger": 0.059571
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Paraguay",
+      "sentiment": {
+        "score": -0.366567,
+        "label": "negative"
+      },
+      "relevance": 0.579756,
+      "mentions": [
+        {
+          "text": "Paraguay",
+          "location": [
+            65,
+            73
+          ]
+        },
+        {
+          "text": "Paraguay",
+          "location": [
+            324,
+            332
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.101688,
+        "joy": 0.736853,
+        "fear": 0.029037,
+        "disgust": 0.060928,
+        "anger": 0.049524
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lionel Messi",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.527442,
+      "mentions": [
+        {
+          "text": "Lionel Messi",
+          "location": [
+            241,
+            253
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Lionel Messi",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lionel_Messi"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Peru",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.430017,
+      "mentions": [
+        {
+          "text": "Peru",
+          "location": [
+            288,
+            292
+          ]
+        },
+        {
+          "text": "Peru",
+          "location": [
+            501,
+            505
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.018088,
+        "joy": 0.778088,
+        "fear": 0.016696,
+        "disgust": 0.158887,
+        "anger": 0.051986
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "South America",
+      "relevance": 0.959772,
+      "dbpedia_resource": "http://dbpedia.org/resource/South_America"
+    },
+    {
+      "text": "Brazil",
+      "relevance": 0.858562,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+      "text": "Uruguay",
+      "relevance": 0.671192,
+      "dbpedia_resource": "http://dbpedia.org/resource/Uruguay"
+    },
+    {
+      "text": "Argentina national football team",
+      "relevance": 0.659982,
+      "dbpedia_resource": "http://dbpedia.org/resource/Argentina_national_football_team"
+    },
+    {
+      "text": "Argentina",
+      "relevance": 0.656096,
+      "dbpedia_resource": "http://dbpedia.org/resource/Argentina"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.844551,
+      "label": "/sports/soccer"
+    }
+  ]
+}

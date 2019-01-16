@@ -1,0 +1,262 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 700,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.695001,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "al Qaeda affiliate",
+      "sentiment": {
+        "score": -0.695001,
+        "label": "negative"
+      },
+      "relevance": 0.790091,
+      "emotion": {
+        "sadness": 0.044584,
+        "joy": 0.31143,
+        "fear": 0.081209,
+        "disgust": 0.158307,
+        "anger": 0.389357
+      },
+      "count": 1
+    },
+    {
+      "text": "US official",
+      "sentiment": {
+        "score": -0.695001,
+        "label": "negative"
+      },
+      "relevance": 0.779644,
+      "emotion": {
+        "sadness": 0.044584,
+        "joy": 0.31143,
+        "fear": 0.081209,
+        "disgust": 0.158307,
+        "anger": 0.389357
+      },
+      "count": 3
+    },
+    {
+      "text": "battery compartments of electronic devices",
+      "sentiment": {
+        "score": -0.695001,
+        "label": "negative"
+      },
+      "relevance": 0.77893,
+      "emotion": {
+        "sadness": 0.044584,
+        "joy": 0.31143,
+        "fear": 0.081209,
+        "disgust": 0.158307,
+        "anger": 0.389357
+      },
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "sentiment": {
+        "score": -0.695001,
+        "label": "negative"
+      },
+      "relevance": 0.740952,
+      "emotion": {
+        "sadness": 0.044584,
+        "joy": 0.31143,
+        "fear": 0.081209,
+        "disgust": 0.158307,
+        "anger": 0.389357
+      },
+      "count": 1
+    },
+    {
+      "text": "laptop batteries",
+      "sentiment": {
+        "score": -0.695001,
+        "label": "negative"
+      },
+      "relevance": 0.70971,
+      "emotion": {
+        "sadness": 0.502538,
+        "joy": 0.047383,
+        "fear": 0.165778,
+        "disgust": 0.043813,
+        "anger": 0.50362
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "AQAP",
+      "sentiment": {
+        "score": -0.453041,
+        "label": "negative"
+      },
+      "relevance": 0.471458,
+      "mentions": [
+        {
+          "text": "AQAP",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "well AQAP",
+          "location": [
+            689,
+            698
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.256389,
+        "joy": 0.127531,
+        "fear": 0.340329,
+        "disgust": 0.064888,
+        "anger": 0.401338
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.390857,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            277,
+            279
+          ]
+        },
+        {
+          "text": "United States",
+          "location": [
+            457,
+            470
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            555,
+            557
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            578,
+            580
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.102014,
+        "joy": 0.157209,
+        "fear": 0.07776,
+        "disgust": 0.222648,
+        "anger": 0.310466
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 4
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.35753,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            52,
+            60
+          ]
+        },
+        {
+          "text": "official",
+          "location": [
+            558,
+            566
+          ]
+        },
+        {
+          "text": "official",
+          "location": [
+            581,
+            589
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252665,
+        "joy": 0.119036,
+        "fear": 0.151868,
+        "disgust": 0.269434,
+        "anger": 0.282796
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Iraq",
+      "relevance": 0.944819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Iraq"
+    },
+    {
+      "text": "United Arab Emirates",
+      "relevance": 0.943825,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Arab_Emirates"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.86132,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Saudi Arabia",
+      "relevance": 0.821901,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+      "text": "Arabian Peninsula",
+      "relevance": 0.807163,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arabian_Peninsula"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998404,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

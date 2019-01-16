@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Billy Bush's wife",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.983963,
+      "emotion": {
+        "sadness": 0.269043,
+        "joy": 0.05988,
+        "fear": 0.141657,
+        "disgust": 0.493327,
+        "anger": 0.355185
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump interview leak",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.016037,
+      "emotion": {
+        "sadness": 0.269043,
+        "joy": 0.05988,
+        "fear": 0.141657,
+        "disgust": 0.493327,
+        "anger": 0.355185
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Billy Bush",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Billy Bush",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Billy Bush",
+        "dbpedia_resource": "http://dbpedia.org/resource/Billy_Bush"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            44,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.09097,
+        "joy": 0.264124,
+        "fear": 0.342365,
+        "disgust": 0.470561,
+        "anger": 0.027879
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bush family",
+      "relevance": 0.878864,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bush_family"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.64539,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

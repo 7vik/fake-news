@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 592,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.815443,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SEXIST RORY MCILROY",
+      "sentiment": {
+        "score": -0.96111,
+        "label": "negative"
+      },
+      "relevance": 0.943465,
+      "emotion": {
+        "sadness": 0.173399,
+        "joy": 0.045662,
+        "fear": 0.012793,
+        "disgust": 0.775747,
+        "anger": 0.210724
+      },
+      "count": 1
+    },
+    {
+      "text": "Honorable Company of Edinburgh Golfers",
+      "sentiment": {
+        "score": -0.427704,
+        "label": "negative"
+      },
+      "relevance": 0.84058,
+      "emotion": {
+        "sadness": 0.288692,
+        "joy": 0.176424,
+        "fear": 0.033298,
+        "disgust": 0.439184,
+        "anger": 0.036175
+      },
+      "count": 1
+    },
+    {
+      "text": "Rory McIlroy",
+      "sentiment": {
+        "score": -0.96111,
+        "label": "negative"
+      },
+      "relevance": 0.773697,
+      "emotion": {
+        "sadness": 0.529125,
+        "joy": 0.033952,
+        "fear": 0.057669,
+        "disgust": 0.399269,
+        "anger": 0.197894
+      },
+      "count": 1
+    },
+    {
+      "text": "second ballot",
+      "sentiment": {
+        "score": -0.96111,
+        "label": "negative"
+      },
+      "relevance": 0.668169,
+      "emotion": {
+        "sadness": 0.529125,
+        "joy": 0.033952,
+        "fear": 0.057669,
+        "disgust": 0.399269,
+        "anger": 0.197894
+      },
+      "count": 1
+    },
+    {
+      "text": "news conference",
+      "sentiment": {
+        "score": -0.819996,
+        "label": "negative"
+      },
+      "relevance": 0.666035,
+      "emotion": {
+        "sadness": 0.188661,
+        "joy": 0.139251,
+        "fear": 0.009707,
+        "disgust": 0.177125,
+        "anger": 0.665625
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "RORY MCILROY",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.933251,
+      "mentions": [
+        {
+          "text": "RORY MCILROY",
+          "location": [
+            7,
+            19
+          ]
+        },
+        {
+          "text": "Rory McIlroy",
+          "location": [
+            73,
+            85
+          ]
+        },
+        {
+          "text": "McIlroy",
+          "location": [
+            445,
+            452
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.341259,
+        "joy": 0.091894,
+        "fear": 0.00527,
+        "disgust": 0.528638,
+        "anger": 0.307765
+      },
+      "disambiguation": {
+        "subtype": [
+          "Golfer"
+        ],
+        "name": "Rory McIlroy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rory_McIlroy"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Honorable Company of Edinburgh Golfers",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306678,
+      "mentions": [
+        {
+          "text": "Honorable Company of Edinburgh Golfers",
+          "location": [
+            195,
+            233
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.288692,
+        "joy": 0.176424,
+        "fear": 0.033298,
+        "disgust": 0.439184,
+        "anger": 0.036175
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Muirfield",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.288959,
+      "mentions": [
+        {
+          "text": "Muirfield",
+          "location": [
+            104,
+            113
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.631174,
+        "joy": 0.094451,
+        "fear": 0.051018,
+        "disgust": 0.069319,
+        "anger": 0.177694
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Arnold Palmer Invitational",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.224967,
+      "mentions": [
+        {
+          "text": "Arnold Palmer Invitational",
+          "location": [
+            489,
+            515
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24457,
+        "joy": 0.361801,
+        "fear": 0.02767,
+        "disgust": 0.098854,
+        "anger": 0.154246
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "East Lothian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.175664,
+      "mentions": [
+        {
+          "text": "East Lothian",
+          "location": [
+            256,
+            268
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.288692,
+        "joy": 0.176424,
+        "fear": 0.033298,
+        "disgust": 0.439184,
+        "anger": 0.036175
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Voting system",
+      "relevance": 0.9477,
+      "dbpedia_resource": "http://dbpedia.org/resource/Voting_system"
+    },
+    {
+      "text": "Lothian",
+      "relevance": 0.835299,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lothian"
+    },
+    {
+      "text": "Gullane",
+      "relevance": 0.834595,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gullane"
+    },
+    {
+      "text": "World Cup",
+      "relevance": 0.821212,
+      "dbpedia_resource": "http://dbpedia.org/resource/World_Cup_(men's_golf)"
+    },
+    {
+      "text": "Counties of Scotland",
+      "relevance": 0.805761,
+      "dbpedia_resource": "http://dbpedia.org/resource/Counties_of_Scotland"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.992036,
+      "label": "/sports/golf"
+    }
+  ]
+}

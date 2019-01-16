@@ -1,0 +1,148 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 61,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.180635,
+        "joy": 0.183715,
+        "fear": 0.059728,
+        "disgust": 0.147349,
+        "anger": 0.102231
+      },
+      "count": 1
+    },
+    {
+      "text": "Kensington Palace",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99075,
+      "emotion": {
+        "sadness": 0.180635,
+        "joy": 0.183715,
+        "fear": 0.059728,
+        "disgust": 0.147349,
+        "anger": 0.102231
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kate Middleton",
+          "location": [
+            12,
+            26
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180635,
+        "joy": 0.183715,
+        "fear": 0.059728,
+        "disgust": 0.147349,
+        "anger": 0.102231
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Catherine, Duchess of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Kensington Palace",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kensington Palace",
+          "location": [
+            43,
+            60
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180635,
+        "joy": 0.183715,
+        "fear": 0.059728,
+        "disgust": 0.147349,
+        "anger": 0.102231
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Building"
+        ],
+        "name": "Kensington Palace",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kensington_Palace"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kensington Palace",
+      "relevance": 0.846627,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kensington_Palace"
+    },
+    {
+      "text": "Kensington Gardens",
+      "relevance": 0.827159,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kensington_Gardens"
+    },
+    {
+      "text": "Victoria of the United Kingdom",
+      "relevance": 0.812731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Victoria_of_the_United_Kingdom"
+    },
+    {
+      "text": "Diana, Princess of Wales",
+      "relevance": 0.789646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Diana,_Princess_of_Wales"
+    },
+    {
+      "text": "Kensington Palace Gardens",
+      "relevance": 0.788007,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kensington_Palace_Gardens"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.576865,
+      "label": "/hobbies and interests/needlework"
+    }
+  ]
+}

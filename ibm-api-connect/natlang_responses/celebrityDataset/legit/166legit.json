@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.507929,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.507929,
+        "label": "positive"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.252393,
+        "joy": 0.503995,
+        "fear": 0.118772,
+        "disgust": 0.157135,
+        "anger": 0.068023
+      },
+      "count": 1
+    },
+    {
+      "text": "Talks",
+      "sentiment": {
+        "score": 0.507929,
+        "label": "positive"
+      },
+      "relevance": 0.700212,
+      "emotion": {
+        "sadness": 0.252393,
+        "joy": 0.503995,
+        "fear": 0.118772,
+        "disgust": 0.157135,
+        "anger": 0.068023
+      },
+      "count": 1
+    },
+    {
+      "text": "Scott Disick Relationship Rumors",
+      "sentiment": {
+        "score": 0.507929,
+        "label": "positive"
+      },
+      "relevance": 0.342998,
+      "emotion": {
+        "sadness": 0.252393,
+        "joy": 0.503995,
+        "fear": 0.118772,
+        "disgust": 0.157135,
+        "anger": 0.068023
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252393,
+        "joy": 0.503995,
+        "fear": 0.118772,
+        "disgust": 0.157135,
+        "anger": 0.068023
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.615139,
+      "label": "/society/dating"
+    }
+  ]
+}

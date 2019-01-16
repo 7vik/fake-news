@@ -1,0 +1,235 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 654,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.374955,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job openings",
+      "sentiment": {
+        "score": -0.421884,
+        "label": "negative"
+      },
+      "relevance": 0.821435,
+      "emotion": {
+        "sadness": 0.526675,
+        "joy": 0.182811,
+        "fear": 0.097078,
+        "disgust": 0.06652,
+        "anger": 0.033029
+      },
+      "count": 1
+    },
+    {
+      "text": "Southwestern Oregon Workforce Investment Board",
+      "sentiment": {
+        "score": 0.725219,
+        "label": "positive"
+      },
+      "relevance": 0.688888,
+      "emotion": {
+        "sadness": 0.29733,
+        "joy": 0.557105,
+        "fear": 0.105375,
+        "disgust": 0.040211,
+        "anger": 0.017416
+      },
+      "count": 1
+    },
+    {
+      "text": "Cayce Hill",
+      "sentiment": {
+        "score": 0.725219,
+        "label": "positive"
+      },
+      "relevance": 0.653528,
+      "emotion": {
+        "sadness": 0.29733,
+        "joy": 0.557105,
+        "fear": 0.105375,
+        "disgust": 0.040211,
+        "anger": 0.017416
+      },
+      "count": 1
+    },
+    {
+      "text": "youth liaison",
+      "sentiment": {
+        "score": 0.725219,
+        "label": "positive"
+      },
+      "relevance": 0.62849,
+      "emotion": {
+        "sadness": 0.29733,
+        "joy": 0.557105,
+        "fear": 0.105375,
+        "disgust": 0.040211,
+        "anger": 0.017416
+      },
+      "count": 1
+    },
+    {
+      "text": "Girls",
+      "sentiment": {
+        "score": -0.619521,
+        "label": "negative"
+      },
+      "relevance": 0.611546,
+      "emotion": {
+        "sadness": 0.272207,
+        "joy": 0.627599,
+        "fear": 0.019787,
+        "disgust": 0.049564,
+        "anger": 0.039659
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Southwestern Oregon Workforce Investment Board",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.344108,
+      "mentions": [
+        {
+          "text": "Southwestern Oregon Workforce Investment Board",
+          "location": [
+            391,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.157382,
+        "joy": 0.392401,
+        "fear": 0.076733,
+        "disgust": 0.042482,
+        "anger": 0.026074
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Cayce Hill",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.259209,
+      "mentions": [
+        {
+          "text": "Cayce Hill",
+          "location": [
+            361,
+            371
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.311754,
+        "joy": 0.134374,
+        "fear": 0.112919,
+        "disgust": 0.130201,
+        "anger": 0.241148
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Marshfield High School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.258067,
+      "mentions": [
+        {
+          "text": "Marshfield High School",
+          "location": [
+            460,
+            482
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.372342,
+        "joy": 0.312537,
+        "fear": 0.188296,
+        "disgust": 0.068248,
+        "anger": 0.061467
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Coos Bay.",
+      "sentiment": {
+        "score": 0.372201,
+        "label": "positive"
+      },
+      "relevance": 0.241604,
+      "mentions": [
+        {
+          "text": "Coos Bay.",
+          "location": [
+            277,
+            286
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.941242,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Computer science",
+      "relevance": 0.846037,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+      "text": "Mathematics",
+      "relevance": 0.831823,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+      "text": "Woman",
+      "relevance": 0.796792,
+      "dbpedia_resource": "http://dbpedia.org/resource/Woman"
+    },
+    {
+      "text": "Computational science",
+      "relevance": 0.772917,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computational_science"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.995996,
+      "label": "/science/computer science"
+    }
+  ]
+}

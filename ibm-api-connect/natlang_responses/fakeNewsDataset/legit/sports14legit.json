@@ -1,0 +1,306 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 497,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.816092,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lauren Jeska",
+      "sentiment": {
+        "score": -0.869066,
+        "label": "negative"
+      },
+      "relevance": 0.89072,
+      "emotion": {
+        "sadness": 0.270929,
+        "joy": 0.054551,
+        "fear": 0.095487,
+        "disgust": 0.556085,
+        "anger": 0.282197
+      },
+      "count": 2
+    },
+    {
+      "text": "Birmingham's Alexander Stadium",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.816116,
+      "emotion": {
+        "sadness": 0.351391,
+        "joy": 0.053456,
+        "fear": 0.10555,
+        "disgust": 0.493358,
+        "anger": 0.232602
+      },
+      "count": 1
+    },
+    {
+      "text": "Birmingham Crown Court",
+      "sentiment": {
+        "score": -0.759617,
+        "label": "negative"
+      },
+      "relevance": 0.762489,
+      "emotion": {
+        "sadness": 0.394546,
+        "joy": 0.010187,
+        "fear": 0.199254,
+        "disgust": 0.208424,
+        "anger": 0.560611
+      },
+      "count": 1
+    },
+    {
+      "text": "transgender athlete",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.691186,
+      "emotion": {
+        "sadness": 0.351391,
+        "joy": 0.053456,
+        "fear": 0.10555,
+        "disgust": 0.493358,
+        "anger": 0.232602
+      },
+      "count": 1
+    },
+    {
+      "text": "Ralph Knibbs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.655412,
+      "emotion": {
+        "sadness": 0.351391,
+        "joy": 0.053456,
+        "fear": 0.10555,
+        "disgust": 0.493358,
+        "anger": 0.232602
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Facility",
+      "text": "Alexander Stadium",
+      "sentiment": {
+        "score": -0.38719,
+        "label": "negative"
+      },
+      "relevance": 0.804157,
+      "mentions": [
+        {
+          "text": "Alexander Stadium",
+          "location": [
+            24,
+            41
+          ]
+        },
+        {
+          "text": "Alexander Stadium",
+          "location": [
+            253,
+            270
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.275352,
+        "joy": 0.052549,
+        "fear": 0.088797,
+        "disgust": 0.566922,
+        "anger": 0.275903
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Building"
+        ],
+        "name": "Alexander Stadium",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexander_Stadium"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lauren Jeska",
+      "sentiment": {
+        "score": -0.424309,
+        "label": "negative"
+      },
+      "relevance": 0.801658,
+      "mentions": [
+        {
+          "text": "Lauren Jeska",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Lauren Jeska",
+          "location": [
+            161,
+            173
+          ]
+        },
+        {
+          "text": "Jeska",
+          "location": [
+            401,
+            406
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.303546,
+        "joy": 0.010487,
+        "fear": 0.110193,
+        "disgust": 0.451705,
+        "anger": 0.496854
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ralph Knibbs",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.613546,
+      "mentions": [
+        {
+          "text": "Ralph Knibbs",
+          "location": [
+            224,
+            236
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.351391,
+        "joy": 0.053456,
+        "fear": 0.10555,
+        "disgust": 0.493358,
+        "anger": 0.232602
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mr Knibbs",
+      "sentiment": {
+        "score": -0.461428,
+        "label": "negative"
+      },
+      "relevance": 0.556072,
+      "mentions": [
+        {
+          "text": "Mr Knibbs",
+          "location": [
+            420,
+            429
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.383422,
+        "joy": 0.007128,
+        "fear": 0.193827,
+        "disgust": 0.194075,
+        "anger": 0.574957
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Birmingham",
+      "sentiment": {
+        "score": -0.461428,
+        "label": "negative"
+      },
+      "relevance": 0.512108,
+      "mentions": [
+        {
+          "text": "Birmingham",
+          "location": [
+            240,
+            250
+          ]
+        },
+        {
+          "text": "Birmingham",
+          "location": [
+            367,
+            377
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.383422,
+        "joy": 0.007128,
+        "fear": 0.193827,
+        "disgust": 0.194075,
+        "anger": 0.574957
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "EnglishMetropolitanBorough",
+          "City"
+        ],
+        "name": "Birmingham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Birmingham"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Assassination",
+      "relevance": 0.94609,
+      "dbpedia_resource": "http://dbpedia.org/resource/Assassination"
+    },
+    {
+      "text": "Stabbing",
+      "relevance": 0.903189,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stabbing"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.841119,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Head and neck",
+      "relevance": 0.830589,
+      "dbpedia_resource": "http://dbpedia.org/resource/Head_and_neck"
+    },
+    {
+      "text": "Head and neck anatomy",
+      "relevance": 0.763925,
+      "dbpedia_resource": "http://dbpedia.org/resource/Head_and_neck_anatomy"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.829365,
+      "label": "/society/crime/personal offense/homicide"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.903181,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jessica Simpson Flashes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999244,
+      "emotion": {
+        "sadness": 0.108676,
+        "joy": 0.593984,
+        "fear": 0.046052,
+        "disgust": 0.114976,
+        "anger": 0.080533
+      },
+      "count": 1
+    },
+    {
+      "text": "Butt",
+      "sentiment": {
+        "score": 0.903181,
+        "label": "positive"
+      },
+      "relevance": 0.660062,
+      "emotion": {
+        "sadness": 0.108676,
+        "joy": 0.593984,
+        "fear": 0.046052,
+        "disgust": 0.114976,
+        "anger": 0.080533
+      },
+      "count": 1
+    },
+    {
+      "text": "Pic",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.108676,
+        "joy": 0.593984,
+        "fear": 0.046052,
+        "disgust": 0.114976,
+        "anger": 0.080533
+      },
+      "count": 1
+    },
+    {
+      "text": "Eric Johnson's Birthday",
+      "sentiment": {
+        "score": 0.903181,
+        "label": "positive"
+      },
+      "relevance": 0.487828,
+      "emotion": {
+        "sadness": 0.108676,
+        "joy": 0.593984,
+        "fear": 0.046052,
+        "disgust": 0.114976,
+        "anger": 0.080533
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Eric Johnson",
+      "sentiment": {
+        "score": 0.478126,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Eric Johnson",
+          "location": [
+            37,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jessica Simpson",
+      "sentiment": {
+        "score": 0.478126,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jessica Simpson",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.121131,
+        "joy": 0.567215,
+        "fear": 0.066389,
+        "disgust": 0.100185,
+        "anger": 0.073841
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jessica Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jessica_Simpson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.668608,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

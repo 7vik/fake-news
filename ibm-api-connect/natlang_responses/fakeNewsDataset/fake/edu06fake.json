@@ -1,0 +1,197 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 565,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.299482,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "College Applications",
+      "sentiment": {
+        "score": 0.766399,
+        "label": "positive"
+      },
+      "relevance": 0.849362,
+      "emotion": {
+        "sadness": 0.256205,
+        "joy": 0.2273,
+        "fear": 0.018104,
+        "disgust": 0.223641,
+        "anger": 0.079992
+      },
+      "count": 1
+    },
+    {
+      "text": "Survey Shows",
+      "sentiment": {
+        "score": 0.766399,
+        "label": "positive"
+      },
+      "relevance": 0.799817,
+      "emotion": {
+        "sadness": 0.256205,
+        "joy": 0.2273,
+        "fear": 0.018104,
+        "disgust": 0.223641,
+        "anger": 0.079992
+      },
+      "count": 1
+    },
+    {
+      "text": "Eastern Asian countries",
+      "sentiment": {
+        "score": -0.68649,
+        "label": "negative"
+      },
+      "relevance": 0.722171,
+      "emotion": {
+        "sadness": 0.271161,
+        "joy": 0.14245,
+        "fear": 0.101948,
+        "disgust": 0.044377,
+        "anger": 0.041079
+      },
+      "count": 1
+    },
+    {
+      "text": "international college applications",
+      "sentiment": {
+        "score": 0.766399,
+        "label": "positive"
+      },
+      "relevance": 0.707926,
+      "emotion": {
+        "sadness": 0.187377,
+        "joy": 0.417154,
+        "fear": 0.190336,
+        "disgust": 0.031283,
+        "anger": 0.050398
+      },
+      "count": 1
+    },
+    {
+      "text": "US colleges",
+      "sentiment": {
+        "score": -0.320737,
+        "label": "negative"
+      },
+      "relevance": 0.597992,
+      "emotion": {
+        "sadness": 0.74075,
+        "joy": 0.096299,
+        "fear": 0.115831,
+        "disgust": 0.022238,
+        "anger": 0.024001
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Interntional Students",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.328592,
+      "mentions": [
+        {
+          "text": "Interntional Students",
+          "location": [
+            52,
+            73
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.256205,
+        "joy": 0.2273,
+        "fear": 0.018104,
+        "disgust": 0.223641,
+        "anger": 0.079992
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.281047,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            215,
+            217
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.74075,
+        "joy": 0.096299,
+        "fear": 0.115831,
+        "disgust": 0.022238,
+        "anger": 0.024001
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "70 percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.281047,
+      "mentions": [
+        {
+          "text": "70 percent",
+          "location": [
+            201,
+            211
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "University",
+      "relevance": 0.970158,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "College",
+      "relevance": 0.777,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Higher education",
+      "relevance": 0.679431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Higher_education"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.950793,
+      "label": "/education/homework and study tips"
+    }
+  ]
+}

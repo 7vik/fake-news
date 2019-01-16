@@ -1,0 +1,251 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 790,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Apple's Devices",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.838276,
+      "emotion": {
+        "sadness": 0.614302,
+        "joy": 0.029379,
+        "fear": 0.059222,
+        "disgust": 0.191835,
+        "anger": 0.080038
+      },
+      "count": 1
+    },
+    {
+      "text": "half of the mobile devices",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.694254,
+      "emotion": {
+        "sadness": 0.519364,
+        "joy": 0.055143,
+        "fear": 0.045927,
+        "disgust": 0.068014,
+        "anger": 0.235076
+      },
+      "count": 1
+    },
+    {
+      "text": "technology companies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.677488,
+      "emotion": {
+        "sadness": 0.519364,
+        "joy": 0.055143,
+        "fear": 0.045927,
+        "disgust": 0.068014,
+        "anger": 0.235076
+      },
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.658046,
+      "emotion": {
+        "sadness": 0.519364,
+        "joy": 0.055143,
+        "fear": 0.045927,
+        "disgust": 0.068014,
+        "anger": 0.235076
+      },
+      "count": 1
+    },
+    {
+      "text": "Mobile devices",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.657493,
+      "emotion": {
+        "sadness": 0.519364,
+        "joy": 0.055143,
+        "fear": 0.045927,
+        "disgust": 0.068014,
+        "anger": 0.235076
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Apple",
+      "sentiment": {
+        "score": -0.417646,
+        "label": "negative"
+      },
+      "relevance": 0.785374,
+      "mentions": [
+        {
+          "text": "Apple",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            51,
+            56
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            211,
+            216
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            542,
+            547
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.661229,
+        "joy": 0.017247,
+        "fear": 0.114721,
+        "disgust": 0.304223,
+        "anger": 0.127327
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper",
+          "ProtocolProvider",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Apple Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Futuresource Consulting",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.311481,
+      "mentions": [
+        {
+          "text": "Futuresource Consulting",
+          "location": [
+            745,
+            768
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.014321,
+        "joy": 0.164893,
+        "fear": 0.086749,
+        "disgust": 0.011701,
+        "anger": 0.128346
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Samsung",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.282857,
+      "mentions": [
+        {
+          "text": "Samsung",
+          "location": [
+            475,
+            482
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.367822,
+        "joy": 0.055443,
+        "fear": 0.094911,
+        "disgust": 0.026669,
+        "anger": 0.099614
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Samsung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samsung"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Operating system",
+      "relevance": 0.948641,
+      "dbpedia_resource": "http://dbpedia.org/resource/Operating_system"
+    },
+    {
+      "text": "Macintosh",
+      "relevance": 0.5741,
+      "dbpedia_resource": "http://dbpedia.org/resource/Macintosh"
+    },
+    {
+      "text": "Apple Inc.",
+      "relevance": 0.555025,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+    },
+    {
+      "text": "Microsoft Windows",
+      "relevance": 0.551789,
+      "dbpedia_resource": "http://dbpedia.org/resource/Microsoft_Windows"
+    },
+    {
+      "text": "Microsoft",
+      "relevance": 0.547457,
+      "dbpedia_resource": "http://dbpedia.org/resource/Microsoft"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999841,
+      "label": "/technology and computing/operating systems"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 579,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.348633,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ivanka Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.984575,
+      "emotion": {
+        "sadness": 0.149369,
+        "joy": 0.163312,
+        "fear": 0.067852,
+        "disgust": 0.226166,
+        "anger": 0.183018
+      },
+      "count": 1
+    },
+    {
+      "text": "Real Vice President",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.814871,
+      "emotion": {
+        "sadness": 0.149369,
+        "joy": 0.163312,
+        "fear": 0.067852,
+        "disgust": 0.226166,
+        "anger": 0.183018
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump's daughter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.800949,
+      "emotion": {
+        "sadness": 0.281246,
+        "joy": 0.422898,
+        "fear": 0.075955,
+        "disgust": 0.075963,
+        "anger": 0.132315
+      },
+      "count": 1
+    },
+    {
+      "text": "formal role",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.704909,
+      "emotion": {
+        "sadness": 0.220365,
+        "joy": 0.096437,
+        "fear": 0.037133,
+        "disgust": 0.124712,
+        "anger": 0.213897
+      },
+      "count": 1
+    },
+    {
+      "text": "type of relationship",
+      "sentiment": {
+        "score": 0.627146,
+        "label": "positive"
+      },
+      "relevance": 0.644119,
+      "emotion": {
+        "sadness": 0.085229,
+        "joy": 0.47391,
+        "fear": 0.019306,
+        "disgust": 0.026027,
+        "anger": 0.07428
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.522493,
+        "label": "positive"
+      },
+      "relevance": 0.911094,
+      "mentions": [
+        {
+          "text": "Ivanka Trump",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            39,
+            54
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            271,
+            276
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.231636,
+        "joy": 0.220535,
+        "fear": 0.152083,
+        "disgust": 0.164531,
+        "anger": 0.089898
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "Real Vice President",
+      "sentiment": {
+        "score": 0.635803,
+        "label": "positive"
+      },
+      "relevance": 0.558246,
+      "mentions": [
+        {
+          "text": "Real Vice President",
+          "location": [
+            18,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144706,
+        "joy": 0.291749,
+        "fear": 0.054158,
+        "disgust": 0.206981,
+        "anger": 0.179742
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Vice President Pence",
+      "sentiment": {
+        "score": 0.690232,
+        "label": "positive"
+      },
+      "relevance": 0.496954,
+      "mentions": [
+        {
+          "text": "Vice President Pence",
+          "location": [
+            557,
+            577
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.025227,
+        "joy": 0.496108,
+        "fear": 0.038554,
+        "disgust": 0.029055,
+        "anger": 0.130013
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.258791,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            88,
+            98
+          ]
+        },
+        {
+          "text": "Washington",
+          "location": [
+            459,
+            469
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.477409,
+        "joy": 0.306995,
+        "fear": 0.030314,
+        "disgust": 0.035625,
+        "anger": 0.041875
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ivanka",
+      "sentiment": {
+        "score": 0.583259,
+        "label": "positive"
+      },
+      "relevance": 0.216143,
+      "mentions": [
+        {
+          "text": "Ivanka",
+          "location": [
+            67,
+            73
+          ]
+        },
+        {
+          "text": "Ivanka",
+          "location": [
+            528,
+            534
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.032444,
+        "joy": 0.467237,
+        "fear": 0.047171,
+        "disgust": 0.033073,
+        "anger": 0.126331
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ivanka Trump",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+    },
+    {
+      "text": "United States Cabinet",
+      "relevance": 0.784165,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Cabinet"
+    },
+    {
+      "text": "Vice President of the United States",
+      "relevance": 0.752445,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vice_President_of_the_United_States"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.749143,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.734494,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.672555,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

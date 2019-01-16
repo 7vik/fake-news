@@ -1,0 +1,310 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1683,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.462201,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.535756,
+        "label": "negative"
+      },
+      "relevance": 0.745825,
+      "emotion": {
+        "sadness": 0.501343,
+        "joy": 0.179719,
+        "fear": 0.041772,
+        "disgust": 0.16172,
+        "anger": 0.210531
+      },
+      "count": 2
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.40885,
+        "label": "negative"
+      },
+      "relevance": 0.718424,
+      "emotion": {
+        "sadness": 0.501343,
+        "joy": 0.179719,
+        "fear": 0.041772,
+        "disgust": 0.16172,
+        "anger": 0.210531
+      },
+      "count": 1
+    },
+    {
+      "text": "exact sum of their net worths",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.632207,
+      "emotion": {
+        "sadness": 0.023427,
+        "joy": 0.533215,
+        "fear": 0.073895,
+        "disgust": 0.049207,
+        "anger": 0.028533
+      },
+      "count": 1
+    },
+    {
+      "text": "prenuptial agreement",
+      "sentiment": {
+        "score": -0.658263,
+        "label": "negative"
+      },
+      "relevance": 0.613213,
+      "emotion": {
+        "sadness": 0.564644,
+        "joy": 0.074389,
+        "fear": 0.066161,
+        "disgust": 0.192701,
+        "anger": 0.191609
+      },
+      "count": 1
+    },
+    {
+      "text": "Beverly Hills",
+      "sentiment": {
+        "score": 0.996797,
+        "label": "positive"
+      },
+      "relevance": 0.602889,
+      "emotion": {
+        "sadness": 0.042411,
+        "joy": 0.85671,
+        "fear": 0.02203,
+        "disgust": 0.007646,
+        "anger": 0.011549
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.040688,
+        "label": "negative"
+      },
+      "relevance": 0.823568,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            5,
+            19
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            99,
+            113
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            274,
+            284
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            461,
+            471
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            517,
+            520
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            611,
+            621
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1082,
+            1092
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1121,
+            1124
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1229,
+            1232
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1598,
+            1608
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.501069,
+        "joy": 0.469471,
+        "fear": 0.090748,
+        "disgust": 0.143525,
+        "anger": 0.092977
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Forbes",
+      "sentiment": {
+        "score": 0.607059,
+        "label": "positive"
+      },
+      "relevance": 0.436033,
+      "mentions": [
+        {
+          "text": "$100 million",
+          "location": [
+            444,
+            456
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.270963,
+        "joy": 0.598847,
+        "fear": 0.021624,
+        "disgust": 0.027155,
+        "anger": 0.018965
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Forbes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.31091,
+      "mentions": [
+        {
+          "text": "Forbes",
+          "location": [
+            722,
+            728
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.270963,
+        "joy": 0.598847,
+        "fear": 0.021624,
+        "disgust": 0.027155,
+        "anger": 0.018965
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Future Africa Foundation Inaugural Gala",
+      "sentiment": {
+        "score": 0.662406,
+        "label": "positive"
+      },
+      "relevance": 0.273071,
+      "mentions": [
+        {
+          "text": "Future Africa Foundation Inaugural Gala",
+          "location": [
+            1553,
+            1592
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.022732,
+        "joy": 0.871094,
+        "fear": 0.015041,
+        "disgust": 0.011752,
+        "anger": 0.005831
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Marriage",
+      "relevance": 0.966865,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Prenuptial agreement",
+      "relevance": 0.672929,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prenuptial_agreement"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.651222,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Alimony",
+      "relevance": 0.650229,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alimony"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.625469,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.769679,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

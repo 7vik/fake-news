@@ -1,0 +1,358 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1446,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.463188,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.866549,
+      "emotion": {
+        "sadness": 0.323933,
+        "joy": 0.646688,
+        "fear": 0.006243,
+        "disgust": 0.028879,
+        "anger": 0.00768
+      },
+      "count": 2
+    },
+    {
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.719192,
+      "emotion": {
+        "sadness": 0.323933,
+        "joy": 0.646688,
+        "fear": 0.006243,
+        "disgust": 0.028879,
+        "anger": 0.00768
+      },
+      "count": 2
+    },
+    {
+      "text": "first time",
+      "sentiment": {
+        "score": -0.570244,
+        "label": "negative"
+      },
+      "relevance": 0.640064,
+      "emotion": {
+        "sadness": 0.347811,
+        "joy": 0.363711,
+        "fear": 0.12256,
+        "disgust": 0.07622,
+        "anger": 0.186934
+      },
+      "count": 1
+    },
+    {
+      "text": "Right Path",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.615033,
+      "emotion": {
+        "sadness": 0.178531,
+        "joy": 0.5874,
+        "fear": 0.007735,
+        "disgust": 0.022741,
+        "anger": 0.030038
+      },
+      "count": 2
+    },
+    {
+      "text": "recent interview",
+      "sentiment": {
+        "score": -0.395683,
+        "label": "negative"
+      },
+      "relevance": 0.594266,
+      "emotion": {
+        "sadness": 0.084888,
+        "joy": 0.415208,
+        "fear": 0.232162,
+        "disgust": 0.225734,
+        "anger": 0.18745
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.072914,
+        "label": "positive"
+      },
+      "relevance": 0.911141,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            83,
+            94
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            112,
+            115
+          ]
+        },
+        {
+          "text": "Miley",
+          "location": [
+            498,
+            503
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            523,
+            526
+          ]
+        },
+        {
+          "text": "Miley",
+          "location": [
+            726,
+            731
+          ]
+        },
+        {
+          "text": "Miley",
+          "location": [
+            1278,
+            1283
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1340,
+            1343
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.545902,
+        "joy": 0.677394,
+        "fear": 0.071163,
+        "disgust": 0.145424,
+        "anger": 0.103205
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0.558842,
+        "label": "positive"
+      },
+      "relevance": 0.757362,
+      "mentions": [
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            41,
+            55
+          ]
+        },
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            199,
+            213
+          ]
+        },
+        {
+          "text": "Liam",
+          "location": [
+            361,
+            365
+          ]
+        },
+        {
+          "text": "Liam",
+          "location": [
+            736,
+            740
+          ]
+        },
+        {
+          "text": "yourself",
+          "location": [
+            924,
+            932
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1109,
+            1111
+          ]
+        },
+        {
+          "text": "Liam",
+          "location": [
+            1272,
+            1276
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.529415,
+        "joy": 0.680838,
+        "fear": 0.062429,
+        "disgust": 0.091484,
+        "anger": 0.095588
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Liam Hemsworth",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+      },
+      "count": 7
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Billboard magazine",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.14764,
+      "mentions": [
+        {
+          "text": "24-year",
+          "location": [
+            298,
+            305
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardPresentingOrganization",
+          "Magazine"
+        ],
+        "name": "Billboard (magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Billboard_(magazine)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Movie",
+      "text": "Malibu",
+      "sentiment": {
+        "score": 0.280095,
+        "label": "positive"
+      },
+      "relevance": 0.145507,
+      "mentions": [
+        {
+          "text": "Malibu",
+          "location": [
+            129,
+            135
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.971964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "The Last Song",
+      "relevance": 0.860985,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Last_Song_(film)"
+    },
+    {
+      "text": "Liam Hemsworth",
+      "relevance": 0.712312,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+    },
+    {
+      "text": "Billy Ray Cyrus",
+      "relevance": 0.701043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Ray_Cyrus"
+    },
+    {
+      "text": "Miley Stewart",
+      "relevance": 0.69968,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Stewart"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.777975,
+      "label": "/society/dating"
+    }
+  ]
+}

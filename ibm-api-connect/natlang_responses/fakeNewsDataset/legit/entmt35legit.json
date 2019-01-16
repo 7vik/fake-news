@@ -1,0 +1,232 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 759,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.657253,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Millie Bobby Brown",
+      "sentiment": {
+        "score": -0.517726,
+        "label": "negative"
+      },
+      "relevance": 0.898062,
+      "emotion": {
+        "sadness": 0.198723,
+        "joy": 0.402388,
+        "fear": 0.105352,
+        "disgust": 0.161525,
+        "anger": 0.100997
+      },
+      "count": 1
+    },
+    {
+      "text": "13-year-old",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.747078,
+      "emotion": {
+        "sadness": 0.42911,
+        "joy": 0.152363,
+        "fear": 0.081816,
+        "disgust": 0.130664,
+        "anger": 0.111018
+      },
+      "count": 1
+    },
+    {
+      "text": "Comic Con",
+      "sentiment": {
+        "score": -0.539666,
+        "label": "negative"
+      },
+      "relevance": 0.738403,
+      "emotion": {
+        "sadness": 0.663023,
+        "joy": 0.102415,
+        "fear": 0.095443,
+        "disgust": 0.13254,
+        "anger": 0.212221
+      },
+      "count": 1
+    },
+    {
+      "text": "hit Netflix series",
+      "sentiment": {
+        "score": -0.790954,
+        "label": "negative"
+      },
+      "relevance": 0.729186,
+      "emotion": {
+        "sadness": 0.513157,
+        "joy": 0.21247,
+        "fear": 0.018636,
+        "disgust": 0.229904,
+        "anger": 0.076873
+      },
+      "count": 1
+    },
+    {
+      "text": "last minute",
+      "sentiment": {
+        "score": -0.539666,
+        "label": "negative"
+      },
+      "relevance": 0.591661,
+      "emotion": {
+        "sadness": 0.663023,
+        "joy": 0.102415,
+        "fear": 0.095443,
+        "disgust": 0.13254,
+        "anger": 0.212221
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Millie Bobby Brown",
+      "sentiment": {
+        "score": -0.246515,
+        "label": "negative"
+      },
+      "relevance": 0.966889,
+      "mentions": [
+        {
+          "text": "Millie Bobby Brown",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Millie Bobby Brown",
+          "location": [
+            85,
+            103
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            198,
+            205
+          ]
+        },
+        {
+          "text": "Brown",
+          "location": [
+            207,
+            212
+          ]
+        },
+        {
+          "text": "Brown",
+          "location": [
+            479,
+            484
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.493728,
+        "joy": 0.200176,
+        "fear": 0.030189,
+        "disgust": 0.307006,
+        "anger": 0.137956
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Netflix",
+      "sentiment": {
+        "score": -0.651561,
+        "label": "negative"
+      },
+      "relevance": 0.128433,
+      "mentions": [
+        {
+          "text": "Netflix",
+          "location": [
+            257,
+            264
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.513157,
+        "joy": 0.21247,
+        "fear": 0.018636,
+        "disgust": 0.229904,
+        "anger": 0.076873
+      },
+      "disambiguation": {
+        "subtype": [
+          "VentureFundedCompany"
+        ],
+        "name": "Netflix",
+        "dbpedia_resource": "http://dbpedia.org/resource/Netflix"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "13-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.128433,
+      "mentions": [
+        {
+          "text": "13-year",
+          "location": [
+            636,
+            643
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bobby Brown",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bobby_Brown"
+    },
+    {
+      "text": "Hit",
+      "relevance": 0.91095,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hit_(baseball)"
+    },
+    {
+      "text": "Bobby",
+      "relevance": 0.867458,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bobby_(album)"
+    },
+    {
+      "text": "Human physical appearance",
+      "relevance": 0.860003,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_physical_appearance"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.620157,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 485,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.767725,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Office of National Statistics",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.825599,
+      "emotion": {
+        "sadness": 0.074574,
+        "joy": 0.300001,
+        "fear": 0.076598,
+        "disgust": 0.064827,
+        "anger": 0.068067
+      },
+      "count": 1
+    },
+    {
+      "text": "global market",
+      "sentiment": {
+        "score": -0.638982,
+        "label": "negative"
+      },
+      "relevance": 0.719721,
+      "emotion": {
+        "sadness": 0.364622,
+        "joy": 0.134228,
+        "fear": 0.203492,
+        "disgust": 0.144301,
+        "anger": 0.22937
+      },
+      "count": 1
+    },
+    {
+      "text": "online retailers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.67128,
+      "emotion": {
+        "sadness": 0.074574,
+        "joy": 0.300001,
+        "fear": 0.076598,
+        "disgust": 0.064827,
+        "anger": 0.068067
+      },
+      "count": 1
+    },
+    {
+      "text": "tremendous worker layoffs",
+      "sentiment": {
+        "score": -0.942222,
+        "label": "negative"
+      },
+      "relevance": 0.614627,
+      "emotion": {
+        "sadness": 0.160012,
+        "joy": 0.116588,
+        "fear": 0.224122,
+        "disgust": 0.035142,
+        "anger": 0.083234
+      },
+      "count": 1
+    },
+    {
+      "text": "near future",
+      "sentiment": {
+        "score": -0.942222,
+        "label": "negative"
+      },
+      "relevance": 0.604522,
+      "emotion": {
+        "sadness": 0.160012,
+        "joy": 0.116588,
+        "fear": 0.224122,
+        "disgust": 0.035142,
+        "anger": 0.083234
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Britain",
+      "sentiment": {
+        "score": -0.657673,
+        "label": "negative"
+      },
+      "relevance": 0.916042,
+      "mentions": [
+        {
+          "text": "Britain",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Britain",
+          "location": [
+            406,
+            413
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.360506,
+        "joy": 0.068888,
+        "fear": 0.402231,
+        "disgust": 0.064864,
+        "anger": 0.124096
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Office of National Statistics",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.621694,
+      "mentions": [
+        {
+          "text": "Office of National Statistics",
+          "location": [
+            241,
+            270
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.03221,
+        "joy": 0.283906,
+        "fear": 0.129907,
+        "disgust": 0.055902,
+        "anger": 0.046131
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "Office for National Statistics",
+        "dbpedia_resource": "http://dbpedia.org/resource/Office_for_National_Statistics"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "EU",
+      "sentiment": {
+        "score": -0.584097,
+        "label": "negative"
+      },
+      "relevance": 0.586148,
+      "mentions": [
+        {
+          "text": "EU",
+          "location": [
+            112,
+            114
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.519739,
+        "joy": 0.015099,
+        "fear": 0.124588,
+        "disgust": 0.030753,
+        "anger": 0.177661
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Walmart",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.561167,
+      "mentions": [
+        {
+          "text": "Walmart",
+          "location": [
+            341,
+            348
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17653,
+        "joy": 0.229432,
+        "fear": 0.061243,
+        "disgust": 0.079994,
+        "anger": 0.087429
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "International trade",
+      "relevance": 0.931813,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_trade"
+    },
+    {
+      "text": "Online shopping",
+      "relevance": 0.922944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Online_shopping"
+    },
+    {
+      "text": "Retailing",
+      "relevance": 0.877939,
+      "dbpedia_resource": "http://dbpedia.org/resource/Retailing"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.8194,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Federalism",
+      "relevance": 0.784228,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federalism"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.987773,
+      "label": "/shopping/retail"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 616,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.56198,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "price of gold",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.844007,
+      "emotion": {
+        "sadness": 0.08546,
+        "joy": 0.208635,
+        "fear": 0.182047,
+        "disgust": 0.023482,
+        "anger": 0.042779
+      },
+      "count": 1
+    },
+    {
+      "text": "debit card",
+      "sentiment": {
+        "score": 0.496535,
+        "label": "positive"
+      },
+      "relevance": 0.725651,
+      "emotion": {
+        "sadness": 0.130417,
+        "joy": 0.084018,
+        "fear": 0.017932,
+        "disgust": 0.009041,
+        "anger": 0.049081
+      },
+      "count": 1
+    },
+    {
+      "text": "rock bottom prices",
+      "sentiment": {
+        "score": -0.597641,
+        "label": "negative"
+      },
+      "relevance": 0.664001,
+      "emotion": {
+        "sadness": 0.518437,
+        "joy": 0.095075,
+        "fear": 0.047197,
+        "disgust": 0.161425,
+        "anger": 0.204324
+      },
+      "count": 1
+    },
+    {
+      "text": "person calls",
+      "sentiment": {
+        "score": -0.700077,
+        "label": "negative"
+      },
+      "relevance": 0.651734,
+      "emotion": {
+        "sadness": 0.238183,
+        "joy": 0.160598,
+        "fear": 0.041097,
+        "disgust": 0.059356,
+        "anger": 0.069152
+      },
+      "count": 1
+    },
+    {
+      "text": "effort",
+      "sentiment": {
+        "score": -0.597641,
+        "label": "negative"
+      },
+      "relevance": 0.593221,
+      "emotion": {
+        "sadness": 0.518437,
+        "joy": 0.095075,
+        "fear": 0.047197,
+        "disgust": 0.161425,
+        "anger": 0.204324
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "JobTitle",
+      "text": "managing partner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.958073,
+      "mentions": [
+        {
+          "text": "managing partner",
+          "location": [
+            66,
+            82
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.031075,
+        "joy": 0.267525,
+        "fear": 0.178528,
+        "disgust": 0.019408,
+        "anger": 0.05557
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "HSN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.897483,
+      "mentions": [
+        {
+          "text": "HSN",
+          "location": [
+            325,
+            328
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.166533,
+        "joy": 0.168793,
+        "fear": 0.038746,
+        "disgust": 0.043844,
+        "anger": 0.049453
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Incrementum AG",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.872638,
+      "mentions": [
+        {
+          "text": "Incrementum AG",
+          "location": [
+            86,
+            100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.031075,
+        "joy": 0.267525,
+        "fear": 0.178528,
+        "disgust": 0.019408,
+        "anger": 0.05557
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Stoeferle",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.705103,
+      "mentions": [
+        {
+          "text": "Stoeferle",
+          "location": [
+            56,
+            65
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.031075,
+        "joy": 0.267525,
+        "fear": 0.178528,
+        "disgust": 0.019408,
+        "anger": 0.05557
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "QVC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.65391,
+      "mentions": [
+        {
+          "text": "QVC",
+          "location": [
+            352,
+            355
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.053161,
+        "joy": 0.426665,
+        "fear": 0.08191,
+        "disgust": 0.026986,
+        "anger": 0.189487
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "TVNetwork"
+        ],
+        "name": "QVC",
+        "dbpedia_resource": "http://dbpedia.org/resource/QVC"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Management",
+      "relevance": 0.989838,
+      "dbpedia_resource": "http://dbpedia.org/resource/Management"
+    },
+    {
+      "text": "Gold",
+      "relevance": 0.743789,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gold"
+    },
+    {
+      "text": "Credit card",
+      "relevance": 0.711006,
+      "dbpedia_resource": "http://dbpedia.org/resource/Credit_card"
+    },
+    {
+      "text": "QVC",
+      "relevance": 0.692458,
+      "dbpedia_resource": "http://dbpedia.org/resource/QVC"
+    },
+    {
+      "text": "Leadership",
+      "relevance": 0.679701,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leadership"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.806081,
+      "label": "/shopping"
+    }
+  ]
+}

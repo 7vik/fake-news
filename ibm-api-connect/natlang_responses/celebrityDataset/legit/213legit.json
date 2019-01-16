@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1184,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.549528,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Iggy Azalea",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.803909,
+      "emotion": {
+        "sadness": 0.025672,
+        "joy": 0.215729,
+        "fear": 0.109256,
+        "disgust": 0.050186,
+        "anger": 0.04671
+      },
+      "count": 1
+    },
+    {
+      "text": "Odell Beckham Jr.",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732615,
+      "emotion": {
+        "sadness": 0.025672,
+        "joy": 0.215729,
+        "fear": 0.109256,
+        "disgust": 0.050186,
+        "anger": 0.04671
+      },
+      "count": 2
+    },
+    {
+      "text": "Soap opera",
+      "sentiment": {
+        "score": -0.544412,
+        "label": "negative"
+      },
+      "relevance": 0.564015,
+      "emotion": {
+        "sadness": 0.585259,
+        "joy": 0.037226,
+        "fear": 0.166123,
+        "disgust": 0.096017,
+        "anger": 0.079517
+      },
+      "count": 1
+    },
+    {
+      "text": "side of the story",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.550878,
+      "emotion": {
+        "sadness": 0.25149,
+        "joy": 0.338902,
+        "fear": 0.186726,
+        "disgust": 0.155474,
+        "anger": 0.19486
+      },
+      "count": 1
+    },
+    {
+      "text": "Instagram",
+      "sentiment": {
+        "score": 0.382892,
+        "label": "positive"
+      },
+      "relevance": 0.546999,
+      "emotion": {
+        "sadness": 0.25149,
+        "joy": 0.338902,
+        "fear": 0.186726,
+        "disgust": 0.155474,
+        "anger": 0.19486
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Iggy Azalea",
+      "sentiment": {
+        "score": -0.324389,
+        "label": "negative"
+      },
+      "relevance": 0.824539,
+      "mentions": [
+        {
+          "text": "Iggy Azalea",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Iggy",
+          "location": [
+            324,
+            328
+          ]
+        },
+        {
+          "text": "Iggy",
+          "location": [
+            398,
+            402
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            468,
+            471
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            561,
+            564
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            701,
+            703
+          ]
+        },
+        {
+          "text": "my",
+          "location": [
+            749,
+            751
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            826,
+            828
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            844,
+            847
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.229345,
+        "joy": 0.160145,
+        "fear": 0.13994,
+        "disgust": 0.221099,
+        "anger": 0.527821
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Iggy Azalea",
+        "dbpedia_resource": "http://dbpedia.org/resource/Iggy_Azalea"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Odell Beckham Jr",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.817885,
+      "mentions": [
+        {
+          "text": "Odell Beckham Jr",
+          "location": [
+            154,
+            170
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.009587,
+        "joy": 0.266068,
+        "fear": 0.051496,
+        "disgust": 0.022425,
+        "anger": 0.051372
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Odell Beckham",
+      "sentiment": {
+        "score": -0.020607,
+        "label": "negative"
+      },
+      "relevance": 0.787525,
+      "emotion": {
+        "sadness": 0.557808,
+        "joy": 0.493193,
+        "fear": 0.103527,
+        "disgust": 0.101391,
+        "anger": 0.430676
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Odell",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.710125,
+      "mentions": [
+        {
+          "text": "Odell",
+          "location": [
+            333,
+            338
+          ]
+        },
+        {
+          "text": "Odell",
+          "location": [
+            476,
+            481
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            538,
+            540
+          ]
+        },
+        {
+          "text": "Odell",
+          "location": [
+            545,
+            550
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24082,
+        "joy": 0.307689,
+        "fear": 0.144172,
+        "disgust": 0.215922,
+        "anger": 0.09979
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Instagram",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.361841,
+      "mentions": [
+        {
+          "text": "Instagram",
+          "location": [
+            345,
+            354
+          ]
+        },
+        {
+          "text": "Instagram",
+          "location": [
+            411,
+            420
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.29789,
+        "joy": 0.255629,
+        "fear": 0.232363,
+        "disgust": 0.145144,
+        "anger": 0.046917
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Instagram",
+        "dbpedia_resource": "http://dbpedia.org/resource/Instagram"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.956309,
+      "label": "/society/dating"
+    }
+  ]
+}

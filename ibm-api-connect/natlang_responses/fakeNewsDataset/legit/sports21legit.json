@@ -1,0 +1,321 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 695,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.634523,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Barcelona star Messi",
+      "sentiment": {
+        "score": -0.634523,
+        "label": "negative"
+      },
+      "relevance": 0.903124,
+      "emotion": {
+        "sadness": 0.10023,
+        "joy": 0.140751,
+        "fear": 0.06521,
+        "disgust": 0.571658,
+        "anger": 0.380599
+      },
+      "count": 1
+    },
+    {
+      "text": "Lionel Messi",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.783834,
+      "emotion": {
+        "sadness": 0.685012,
+        "joy": 0.217143,
+        "fear": 0.056475,
+        "disgust": 0.053859,
+        "anger": 0.077609
+      },
+      "count": 1
+    },
+    {
+      "text": "La Paz",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.666789,
+      "emotion": {
+        "sadness": 0.685012,
+        "joy": 0.217143,
+        "fear": 0.056475,
+        "disgust": 0.053859,
+        "anger": 0.077609
+      },
+      "count": 1
+    },
+    {
+      "text": "body FIFA",
+      "sentiment": {
+        "score": -0.634523,
+        "label": "negative"
+      },
+      "relevance": 0.643865,
+      "emotion": {
+        "sadness": 0.10023,
+        "joy": 0.140751,
+        "fear": 0.06521,
+        "disgust": 0.571658,
+        "anger": 0.380599
+      },
+      "count": 1
+    },
+    {
+      "text": "statement Wednesday",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.625261,
+      "emotion": {
+        "sadness": 0.100209,
+        "joy": 0.037205,
+        "fear": 0.070585,
+        "disgust": 0.212474,
+        "anger": 0.812339
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lionel Messi",
+      "sentiment": {
+        "score": -0.513232,
+        "label": "negative"
+      },
+      "relevance": 0.80702,
+      "mentions": [
+        {
+          "text": "Lionel Messi",
+          "location": [
+            124,
+            136
+          ]
+        },
+        {
+          "text": "Messi",
+          "location": [
+            233,
+            238
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            420,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.486207,
+        "joy": 0.125108,
+        "fear": 0.076308,
+        "disgust": 0.302678,
+        "anger": 0.291036
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Lionel Messi",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lionel_Messi"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Barcelona",
+      "sentiment": {
+        "score": -0.495255,
+        "label": "negative"
+      },
+      "relevance": 0.420632,
+      "mentions": [
+        {
+          "text": "Barcelona",
+          "location": [
+            218,
+            227
+          ]
+        },
+        {
+          "text": "Barcelona",
+          "location": [
+            494,
+            503
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.652105,
+        "joy": 0.061777,
+        "fear": 0.197399,
+        "disgust": 0.067602,
+        "anger": 0.080751
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "FIFA",
+      "sentiment": {
+        "score": -0.495255,
+        "label": "negative"
+      },
+      "relevance": 0.382278,
+      "mentions": [
+        {
+          "text": "$10 000",
+          "location": [
+            312,
+            319
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.25033,
+        "joy": 0.022137,
+        "fear": 0.118822,
+        "disgust": 0.151313,
+        "anger": 0.729795
+      },
+      "disambiguation": {
+        "subtype": [
+          "Person",
+          "Company",
+          "SportsAssociation",
+          "CompanyAdvisor",
+          "FootballOrganization"
+        ],
+        "name": "FIFA",
+        "dbpedia_resource": "http://dbpedia.org/resource/FIFA"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "La Paz",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.367472,
+      "mentions": [
+        {
+          "text": "La Paz",
+          "location": [
+            175,
+            181
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.699904,
+        "joy": 0.210563,
+        "fear": 0.055693,
+        "disgust": 0.048693,
+        "anger": 0.07885
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "La Paz",
+        "dbpedia_resource": "http://dbpedia.org/resource/La_Paz"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Bolivia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.300544,
+      "mentions": [
+        {
+          "text": "Bolivia",
+          "location": [
+            164,
+            171
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.699904,
+        "joy": 0.210563,
+        "fear": 0.055693,
+        "disgust": 0.048693,
+        "anger": 0.07885
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Bolivia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bolivia"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brazil",
+      "relevance": 0.964741,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+      "text": "Argentina",
+      "relevance": 0.939519,
+      "dbpedia_resource": "http://dbpedia.org/resource/Argentina"
+    },
+    {
+      "text": "Bolivia",
+      "relevance": 0.930597,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bolivia"
+    },
+    {
+      "text": "FIFA World Cup",
+      "relevance": 0.884961,
+      "dbpedia_resource": "http://dbpedia.org/resource/FIFA_World_Cup"
+    },
+    {
+      "text": "Argentina national football team",
+      "relevance": 0.73219,
+      "dbpedia_resource": "http://dbpedia.org/resource/Argentina_national_football_team"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.780031,
+      "label": "/sports/soccer"
+    }
+  ]
+}

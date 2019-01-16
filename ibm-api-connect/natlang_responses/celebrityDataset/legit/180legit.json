@@ -1,0 +1,325 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 632,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.829698,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ryan Seacrest",
+      "sentiment": {
+        "score": 0.827423,
+        "label": "positive"
+      },
+      "relevance": 0.881915,
+      "emotion": {
+        "sadness": 0.123474,
+        "joy": 0.751033,
+        "fear": 0.037436,
+        "disgust": 0.085389,
+        "anger": 0.0346
+      },
+      "count": 1
+    },
+    {
+      "text": "Lisa Harbert",
+      "sentiment": {
+        "score": 0.984902,
+        "label": "positive"
+      },
+      "relevance": 0.829282,
+      "emotion": {
+        "sadness": 0.02181,
+        "joy": 0.724414,
+        "fear": 0.006792,
+        "disgust": 0.019816,
+        "anger": 0.012327
+      },
+      "count": 1
+    },
+    {
+      "text": "Hamptons Paddle",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.700136,
+      "emotion": {
+        "sadness": 0.029525,
+        "joy": 0.685206,
+        "fear": 0.073807,
+        "disgust": 0.070486,
+        "anger": 0.008881
+      },
+      "count": 1
+    },
+    {
+      "text": "Maria Baum",
+      "sentiment": {
+        "score": 0.984902,
+        "label": "positive"
+      },
+      "relevance": 0.656662,
+      "emotion": {
+        "sadness": 0.02181,
+        "joy": 0.724414,
+        "fear": 0.006792,
+        "disgust": 0.019816,
+        "anger": 0.012327
+      },
+      "count": 1
+    },
+    {
+      "text": "tonight love",
+      "sentiment": {
+        "score": 0.984902,
+        "label": "positive"
+      },
+      "relevance": 0.653347,
+      "emotion": {
+        "sadness": 0.02181,
+        "joy": 0.724414,
+        "fear": 0.006792,
+        "disgust": 0.019816,
+        "anger": 0.012327
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ryan Seacrest",
+      "sentiment": {
+        "score": 0.334717,
+        "label": "positive"
+      },
+      "relevance": 0.856696,
+      "mentions": [
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            67,
+            80
+          ]
+        },
+        {
+          "text": "Ryan",
+          "location": [
+            340,
+            344
+          ]
+        },
+        {
+          "text": "Ryan",
+          "location": [
+            590,
+            594
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158998,
+        "joy": 0.679963,
+        "fear": 0.029605,
+        "disgust": 0.086764,
+        "anger": 0.049362
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ryan Seacrest",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Shayna Taylor",
+      "sentiment": {
+        "score": 0.758774,
+        "label": "positive"
+      },
+      "relevance": 0.480739,
+      "mentions": [
+        {
+          "text": "Shayna Taylor",
+          "location": [
+            27,
+            40
+          ]
+        },
+        {
+          "text": "Shayna Taylor",
+          "location": [
+            104,
+            117
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16394,
+        "joy": 0.70065,
+        "fear": 0.061798,
+        "disgust": 0.048172,
+        "anger": 0.037166
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Breast Cancer Research Foundation",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.30982,
+      "mentions": [
+        {
+          "text": "Breast Cancer Research Foundation",
+          "location": [
+            247,
+            280
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035908,
+        "joy": 0.735354,
+        "fear": 0.085089,
+        "disgust": 0.103277,
+        "anger": 0.013341
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Breast Cancer Research Foundation",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Breast_Cancer_Research_Foundation"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Maria Baum",
+      "sentiment": {
+        "score": 0.530222,
+        "label": "positive"
+      },
+      "relevance": 0.269814,
+      "mentions": [
+        {
+          "text": "Maria Baum",
+          "location": [
+            506,
+            516
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            537,
+            539
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.01459,
+        "joy": 0.734283,
+        "fear": 0.007037,
+        "disgust": 0.01076,
+        "anger": 0.008678
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Bridgehampton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.263265,
+      "mentions": [
+        {
+          "text": "Bridgehampton",
+          "location": [
+            315,
+            328
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "EnglishCivilParish",
+          "City"
+        ],
+        "name": "Yeovilton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Yeovilton"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cancer",
+      "relevance": 0.968801,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cancer"
+    },
+    {
+      "text": "Breast cancer",
+      "relevance": 0.663627,
+      "dbpedia_resource": "http://dbpedia.org/resource/Breast_cancer"
+    },
+    {
+      "text": "Cancer research",
+      "relevance": 0.597423,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cancer_research"
+    },
+    {
+      "text": "Metastasis",
+      "relevance": 0.58287,
+      "dbpedia_resource": "http://dbpedia.org/resource/Metastasis"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.57188,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.591763,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

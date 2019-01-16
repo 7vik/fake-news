@@ -1,0 +1,237 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 672,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.490574,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Yahoo network",
+      "sentiment": {
+        "score": -0.711017,
+        "label": "negative"
+      },
+      "relevance": 0.925123,
+      "emotion": {
+        "sadness": 0.525494,
+        "joy": 0.075339,
+        "fear": 0.045441,
+        "disgust": 0.075158,
+        "anger": 0.140796
+      },
+      "count": 1
+    },
+    {
+      "text": "user accounts",
+      "sentiment": {
+        "score": -0.711017,
+        "label": "negative"
+      },
+      "relevance": 0.762894,
+      "emotion": {
+        "sadness": 0.506354,
+        "joy": 0.125062,
+        "fear": 0.037767,
+        "disgust": 0.069048,
+        "anger": 0.172738
+      },
+      "count": 2
+    },
+    {
+      "text": "news outlets",
+      "sentiment": {
+        "score": -0.711017,
+        "label": "negative"
+      },
+      "relevance": 0.752333,
+      "emotion": {
+        "sadness": 0.525494,
+        "joy": 0.075339,
+        "fear": 0.045441,
+        "disgust": 0.075158,
+        "anger": 0.140796
+      },
+      "count": 1
+    },
+    {
+      "text": "Yahoo's statement",
+      "sentiment": {
+        "score": -0.895619,
+        "label": "negative"
+      },
+      "relevance": 0.750707,
+      "emotion": {
+        "sadness": 0.088567,
+        "joy": 0.070861,
+        "fear": 0.024186,
+        "disgust": 0.016042,
+        "anger": 0.259769
+      },
+      "count": 1
+    },
+    {
+      "text": "Yahoo spokesperson",
+      "sentiment": {
+        "score": 0.763515,
+        "label": "positive"
+      },
+      "relevance": 0.718964,
+      "emotion": {
+        "sadness": 0.304398,
+        "joy": 0.218521,
+        "fear": 0.05227,
+        "disgust": 0.046448,
+        "anger": 0.163619
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Yahoo",
+      "sentiment": {
+        "score": -0.482297,
+        "label": "negative"
+      },
+      "relevance": 0.901331,
+      "mentions": [
+        {
+          "text": "Yahoo",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            146,
+            151
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            161,
+            166
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            288,
+            293
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            521,
+            526
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            585,
+            590
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.309784,
+        "joy": 0.091149,
+        "fear": 0.048166,
+        "disgust": 0.07797,
+        "anger": 0.242776
+      },
+      "count": 6
+    },
+    {
+      "type": "Crime",
+      "text": "theft",
+      "sentiment": {
+        "score": -0.640529,
+        "label": "negative"
+      },
+      "relevance": 0.307845,
+      "mentions": [
+        {
+          "text": "theft",
+          "location": [
+            102,
+            107
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.447517,
+        "joy": 0.088826,
+        "fear": 0.066615,
+        "disgust": 0.036875,
+        "anger": 0.042585
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "500M",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.307845,
+      "mentions": [
+        {
+          "text": "500M",
+          "location": [
+            30,
+            34
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Authentication",
+      "relevance": 0.981874,
+      "dbpedia_resource": "http://dbpedia.org/resource/Authentication"
+    },
+    {
+      "text": "Password",
+      "relevance": 0.965581,
+      "dbpedia_resource": "http://dbpedia.org/resource/Password"
+    },
+    {
+      "text": "Security token",
+      "relevance": 0.836419,
+      "dbpedia_resource": "http://dbpedia.org/resource/Security_token"
+    },
+    {
+      "text": "Computer security",
+      "relevance": 0.750851,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer_security"
+    },
+    {
+      "text": "Online banking",
+      "relevance": 0.717691,
+      "dbpedia_resource": "http://dbpedia.org/resource/Online_banking"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.856917,
+      "label": "/technology and computing/computer security/network security"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 572,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.373191,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Demi Lovato",
+      "sentiment": {
+        "score": 0.81853,
+        "label": "positive"
+      },
+      "relevance": 0.989952,
+      "emotion": {
+        "sadness": 0.138761,
+        "joy": 0.71013,
+        "fear": 0.054488,
+        "disgust": 0.056385,
+        "anger": 0.070592
+      },
+      "count": 1
+    },
+    {
+      "text": "Jimmy Fallon",
+      "sentiment": {
+        "score": -0.606045,
+        "label": "negative"
+      },
+      "relevance": 0.710231,
+      "emotion": {
+        "sadness": 0.116744,
+        "joy": 0.278677,
+        "fear": 0.167564,
+        "disgust": 0.455463,
+        "anger": 0.055076
+      },
+      "count": 1
+    },
+    {
+      "text": "Monday night",
+      "sentiment": {
+        "score": -0.606045,
+        "label": "negative"
+      },
+      "relevance": 0.682773,
+      "emotion": {
+        "sadness": 0.116744,
+        "joy": 0.278677,
+        "fear": 0.167564,
+        "disgust": 0.455463,
+        "anger": 0.055076
+      },
+      "count": 1
+    },
+    {
+      "text": "pillow",
+      "sentiment": {
+        "score": -0.654886,
+        "label": "negative"
+      },
+      "relevance": 0.601952,
+      "emotion": {
+        "sadness": 0.332844,
+        "joy": 0.084969,
+        "fear": 0.024147,
+        "disgust": 0.156162,
+        "anger": 0.100484
+      },
+      "count": 3
+    },
+    {
+      "text": "requirements",
+      "sentiment": {
+        "score": -0.654886,
+        "label": "negative"
+      },
+      "relevance": 0.587472,
+      "emotion": {
+        "sadness": 0.292117,
+        "joy": 0.035719,
+        "fear": 0.112947,
+        "disgust": 0.105254,
+        "anger": 0.076299
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Demi Lovato",
+      "sentiment": {
+        "score": 0.670366,
+        "label": "positive"
+      },
+      "relevance": 0.902641,
+      "mentions": [
+        {
+          "text": "Demi Lovato",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Demi Lovato",
+          "location": [
+            43,
+            54
+          ]
+        },
+        {
+          "text": "Lovato",
+          "location": [
+            105,
+            111
+          ]
+        },
+        {
+          "text": "Lovato",
+          "location": [
+            435,
+            441
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145683,
+        "joy": 0.596892,
+        "fear": 0.030865,
+        "disgust": 0.109757,
+        "anger": 0.068369
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Demi Lovato",
+        "dbpedia_resource": "http://dbpedia.org/resource/Demi_Lovato"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jimmy Fallon",
+      "sentiment": {
+        "score": -0.307088,
+        "label": "negative"
+      },
+      "relevance": 0.353457,
+      "mentions": [
+        {
+          "text": "Jimmy Fallon",
+          "location": [
+            172,
+            184
+          ]
+        },
+        {
+          "text": "Fallon",
+          "location": [
+            397,
+            403
+          ]
+        },
+        {
+          "text": "Fallon",
+          "location": [
+            498,
+            504
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.105621,
+        "joy": 0.127458,
+        "fear": 0.01476,
+        "disgust": 0.084704,
+        "anger": 0.068658
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVPersonality"
+        ],
+        "name": "Jimmy Fallon",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jimmy_Fallon"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Mario Lopez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.142095,
+      "mentions": [
+        {
+          "text": "Mario Lopez",
+          "location": [
+            552,
+            563
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVPersonality"
+        ],
+        "name": "Mario Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mario_Lopez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ed Sheeran",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.138538,
+      "mentions": [
+        {
+          "text": "Ed Sheeran",
+          "location": [
+            335,
+            345
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ed Sheeran",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ed_Sheeran"
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "The Tonight Show",
+      "sentiment": {
+        "score": 0.313819,
+        "label": "positive"
+      },
+      "relevance": 0.111102,
+      "mentions": [
+        {
+          "text": "The Tonight Show",
+          "location": [
+            125,
+            141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.227074,
+        "joy": 0.365648,
+        "fear": 0.124859,
+        "disgust": 0.093179,
+        "anger": 0.047967
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Tonight Show",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Tonight_Show"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Demi Lovato",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Demi_Lovato"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.944022,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Conan O'Brien",
+      "relevance": 0.849288,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conan_O'Brien"
+    },
+    {
+      "text": "American people of Irish descent",
+      "relevance": 0.754325,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_people_of_Irish_descent"
+    },
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.704092,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.76053,
+      "label": "/art and entertainment/movies and tv/children's"
+    }
+  ]
+}

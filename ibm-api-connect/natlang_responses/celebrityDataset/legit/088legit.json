@@ -1,0 +1,164 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 99,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.944014,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift Cries",
+      "sentiment": {
+        "score": -0.944014,
+        "label": "negative"
+      },
+      "relevance": 0.965012,
+      "emotion": {
+        "sadness": 0.806457,
+        "joy": 0.046782,
+        "fear": 0.127393,
+        "disgust": 0.095415,
+        "anger": 0.041809
+      },
+      "count": 1
+    },
+    {
+      "text": "Selena Gomez's Heartbreaking AMA Performance",
+      "sentiment": {
+        "score": -0.944014,
+        "label": "negative"
+      },
+      "relevance": 0.498755,
+      "emotion": {
+        "sadness": 0.806457,
+        "joy": 0.046782,
+        "fear": 0.127393,
+        "disgust": 0.095415,
+        "anger": 0.041809
+      },
+      "count": 1
+    },
+    {
+      "text": "Serious Side Eye",
+      "sentiment": {
+        "score": -0.944014,
+        "label": "negative"
+      },
+      "relevance": 0.035156,
+      "emotion": {
+        "sadness": 0.806457,
+        "joy": 0.046782,
+        "fear": 0.127393,
+        "disgust": 0.095415,
+        "anger": 0.041809
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.610416,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            26,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.610416,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.859385,
+        "joy": 0.04621,
+        "fear": 0.040146,
+        "disgust": 0.039199,
+        "anger": 0.01874
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jonas Brothers",
+      "relevance": 0.918299,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jonas_Brothers"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.756454,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.806018,
+      "label": "/sports/motorcycling"
+    }
+  ]
+}

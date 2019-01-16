@@ -1,0 +1,327 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 927,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.674676,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Celine Dion",
+      "sentiment": {
+        "score": -0.883075,
+        "label": "negative"
+      },
+      "relevance": 0.885838,
+      "emotion": {
+        "sadness": 0.27749,
+        "joy": 0.353436,
+        "fear": 0.013414,
+        "disgust": 0.118633,
+        "anger": 0.393479
+      },
+      "count": 1
+    },
+    {
+      "text": "fellow singer Celine Dion",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.811667,
+      "emotion": {
+        "sadness": 0.277765,
+        "joy": 0.519863,
+        "fear": 0.015358,
+        "disgust": 0.087044,
+        "anger": 0.187365
+      },
+      "count": 1
+    },
+    {
+      "text": "Las Vegas",
+      "sentiment": {
+        "score": -0.859494,
+        "label": "negative"
+      },
+      "relevance": 0.726186,
+      "emotion": {
+        "sadness": 0.303244,
+        "joy": 0.534228,
+        "fear": 0.014095,
+        "disgust": 0.078836,
+        "anger": 0.145531
+      },
+      "count": 2
+    },
+    {
+      "text": "Billboard Music Awards",
+      "sentiment": {
+        "score": -0.883075,
+        "label": "negative"
+      },
+      "relevance": 0.721732,
+      "emotion": {
+        "sadness": 0.277765,
+        "joy": 0.519863,
+        "fear": 0.015358,
+        "disgust": 0.087044,
+        "anger": 0.187365
+      },
+      "count": 1
+    },
+    {
+      "text": "outfit yesterday",
+      "sentiment": {
+        "score": -0.883075,
+        "label": "negative"
+      },
+      "relevance": 0.66639,
+      "emotion": {
+        "sadness": 0.277765,
+        "joy": 0.519863,
+        "fear": 0.015358,
+        "disgust": 0.087044,
+        "anger": 0.187365
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Celine Dion",
+      "sentiment": {
+        "score": -0.73494,
+        "label": "negative"
+      },
+      "relevance": 0.945233,
+      "mentions": [
+        {
+          "text": "Celine Dion",
+          "location": [
+            4,
+            15
+          ]
+        },
+        {
+          "text": "Celine Dion",
+          "location": [
+            283,
+            294
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.398336,
+        "joy": 0.028689,
+        "fear": 0.042638,
+        "disgust": 0.091285,
+        "anger": 0.614837
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Celine Dion",
+        "dbpedia_resource": "http://dbpedia.org/resource/Celine_Dion"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Cher",
+      "sentiment": {
+        "score": -0.61755,
+        "label": "negative"
+      },
+      "relevance": 0.937573,
+      "mentions": [
+        {
+          "text": "Cher",
+          "location": [
+            20,
+            24
+          ]
+        },
+        {
+          "text": "Cher",
+          "location": [
+            41,
+            45
+          ]
+        },
+        {
+          "text": "Cher",
+          "location": [
+            456,
+            460
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.273808,
+        "joy": 0.094912,
+        "fear": 0.020635,
+        "disgust": 0.237119,
+        "anger": 0.645533
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVPersonality",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor"
+        ],
+        "name": "Cher",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cher"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Las Vegas",
+      "sentiment": {
+        "score": -0.526176,
+        "label": "negative"
+      },
+      "relevance": 0.76452,
+      "mentions": [
+        {
+          "text": "Las Vegas",
+          "location": [
+            380,
+            389
+          ]
+        },
+        {
+          "text": "Las Vegas",
+          "location": [
+            748,
+            757
+          ]
+        },
+        {
+          "text": "her stomping grounds",
+          "location": [
+            761,
+            781
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224589,
+        "joy": 0.085722,
+        "fear": 0.012331,
+        "disgust": 0.100808,
+        "anger": 0.037768
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Radar Online.\u2018Dion",
+      "sentiment": {
+        "score": -0.387355,
+        "label": "negative"
+      },
+      "relevance": 0.393882,
+      "mentions": [
+        {
+          "text": "Radar Online.\u2018Dion",
+          "location": [
+            687,
+            705
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.200211,
+        "joy": 0.437349,
+        "fear": 0.297207,
+        "disgust": 0.005411,
+        "anger": 0.039672
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "20 years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.393882,
+      "mentions": [
+        {
+          "text": "20 years",
+          "location": [
+            572,
+            580
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Celine Dion",
+      "relevance": 0.95171,
+      "dbpedia_resource": "http://dbpedia.org/resource/Celine_Dion"
+    },
+    {
+      "text": "Caesars Palace",
+      "relevance": 0.588522,
+      "dbpedia_resource": "http://dbpedia.org/resource/Caesars_Palace"
+    },
+    {
+      "text": "My Heart Will Go On",
+      "relevance": 0.549601,
+      "dbpedia_resource": "http://dbpedia.org/resource/My_Heart_Will_Go_On"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.52053,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Audience",
+      "relevance": 0.477853,
+      "dbpedia_resource": "http://dbpedia.org/resource/Audience"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.787611,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

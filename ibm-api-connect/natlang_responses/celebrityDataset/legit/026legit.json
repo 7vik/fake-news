@@ -1,0 +1,175 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 114,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Anna Faris",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.994612,
+      "emotion": {
+        "sadness": 0.116857,
+        "joy": 0.180598,
+        "fear": 0.195555,
+        "disgust": 0.616359,
+        "anger": 0.072854
+      },
+      "count": 1
+    },
+    {
+      "text": "Chris Pratt-Jennifer Lawrence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.893918,
+      "emotion": {
+        "sadness": 0.116857,
+        "joy": 0.180598,
+        "fear": 0.195555,
+        "disgust": 0.616359,
+        "anger": 0.072854
+      },
+      "count": 1
+    },
+    {
+      "text": "Rumors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.575975,
+      "emotion": {
+        "sadness": 0.116857,
+        "joy": 0.180598,
+        "fear": 0.195555,
+        "disgust": 0.616359,
+        "anger": 0.072854
+      },
+      "count": 1
+    },
+    {
+      "text": "Passengers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.551894,
+      "emotion": {
+        "sadness": 0.116857,
+        "joy": 0.180598,
+        "fear": 0.195555,
+        "disgust": 0.616359,
+        "anger": 0.072854
+      },
+      "count": 1
+    },
+    {
+      "text": "Birthday",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.542848,
+      "emotion": {
+        "sadness": 0.116857,
+        "joy": 0.180598,
+        "fear": 0.195555,
+        "disgust": 0.616359,
+        "anger": 0.072854
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anna Faris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anna Faris",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152245,
+        "joy": 0.047966,
+        "fear": 0.264286,
+        "disgust": 0.655831,
+        "anger": 0.119894
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Anna Faris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Chris Pratt-Jennifer Lawrence",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chris Pratt-Jennifer Lawrence",
+          "location": [
+            23,
+            52
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152245,
+        "joy": 0.047966,
+        "fear": 0.264286,
+        "disgust": 0.655831,
+        "anger": 0.119894
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Anna Faris",
+      "relevance": 0.895888,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.578477,
+      "label": "/society/dating"
+    }
+  ]
+}

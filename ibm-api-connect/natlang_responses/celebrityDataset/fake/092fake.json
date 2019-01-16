@@ -1,0 +1,248 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 734,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.586339,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Drake Facing Gay Rumors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.769752,
+      "emotion": {
+        "sadness": 0.275324,
+        "joy": 0.061003,
+        "fear": 0.303892,
+        "disgust": 0.538322,
+        "anger": 0.137967
+      },
+      "count": 1
+    },
+    {
+      "text": "famous women",
+      "sentiment": {
+        "score": 0.833523,
+        "label": "positive"
+      },
+      "relevance": 0.718013,
+      "emotion": {
+        "sadness": 0.371532,
+        "joy": 0.413215,
+        "fear": 0.030368,
+        "disgust": 0.160617,
+        "anger": 0.120353
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.512055,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.712099,
+      "emotion": {
+        "sadness": 0.371532,
+        "joy": 0.413215,
+        "fear": 0.030368,
+        "disgust": 0.160617,
+        "anger": 0.120353
+      },
+      "count": 1
+    },
+    {
+      "text": "Canadian rapper",
+      "sentiment": {
+        "score": -0.551383,
+        "label": "negative"
+      },
+      "relevance": 0.696324,
+      "emotion": {
+        "sadness": 0.371532,
+        "joy": 0.413215,
+        "fear": 0.030368,
+        "disgust": 0.160617,
+        "anger": 0.120353
+      },
+      "count": 1
+    },
+    {
+      "text": "others' eyes",
+      "sentiment": {
+        "score": 0.575483,
+        "label": "positive"
+      },
+      "relevance": 0.677543,
+      "emotion": {
+        "sadness": 0.023195,
+        "joy": 0.457298,
+        "fear": 0.086334,
+        "disgust": 0.098656,
+        "anger": 0.114619
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Drake",
+      "sentiment": {
+        "score": 0.457336,
+        "label": "positive"
+      },
+      "relevance": 0.770132,
+      "mentions": [
+        {
+          "text": "Drake",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            86,
+            91
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            198,
+            200
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.389567,
+        "joy": 0.144907,
+        "fear": 0.114745,
+        "disgust": 0.398777,
+        "anger": 0.109775
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.359062,
+        "label": "positive"
+      },
+      "relevance": 0.456509,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            178,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.082416,
+        "joy": 0.081798,
+        "fear": 0.059444,
+        "disgust": 0.023044,
+        "anger": 0.055401
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rihanna",
+      "sentiment": {
+        "score": 0.359062,
+        "label": "positive"
+      },
+      "relevance": 0.34686,
+      "mentions": [
+        {
+          "text": "Rihanna",
+          "location": [
+            166,
+            173
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.082416,
+        "joy": 0.081798,
+        "fear": 0.059444,
+        "disgust": 0.023044,
+        "anger": 0.055401
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Rihanna",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rihanna"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Lopez",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+    },
+    {
+      "text": "Man",
+      "relevance": 0.642317,
+      "dbpedia_resource": "http://dbpedia.org/resource/Man"
+    },
+    {
+      "text": "By the Way",
+      "relevance": 0.625697,
+      "dbpedia_resource": "http://dbpedia.org/resource/By_the_Way"
+    },
+    {
+      "text": "Union Station",
+      "relevance": 0.601823,
+      "dbpedia_resource": "http://dbpedia.org/resource/Union_Station_(Winnipeg)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.692872,
+      "label": "/society/gay life"
+    }
+  ]
+}

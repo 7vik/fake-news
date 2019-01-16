@@ -1,0 +1,140 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.065613,
+        "joy": 0.575708,
+        "fear": 0.007575,
+        "disgust": 0.19314,
+        "anger": 0.047207
+      },
+      "count": 1
+    },
+    {
+      "text": "Princess Charlotte of Monaco",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.02145,
+      "emotion": {
+        "sadness": 0.065613,
+        "joy": 0.575708,
+        "fear": 0.007575,
+        "disgust": 0.19314,
+        "anger": 0.047207
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065613,
+        "joy": 0.575708,
+        "fear": 0.007575,
+        "disgust": 0.19314,
+        "anger": 0.047207
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Monaco",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Monaco",
+          "location": [
+            50,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065613,
+        "joy": 0.575708,
+        "fear": 0.007575,
+        "disgust": 0.19314,
+        "anger": 0.047207
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Rainier III, Prince of Monaco",
+      "relevance": 0.799682,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rainier_III,_Prince_of_Monaco"
+    },
+    {
+      "text": "Louis II, Prince of Monaco",
+      "relevance": 0.764488,
+      "dbpedia_resource": "http://dbpedia.org/resource/Louis_II,_Prince_of_Monaco"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.706405,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Albert I, Prince of Monaco",
+      "relevance": 0.703447,
+      "dbpedia_resource": "http://dbpedia.org/resource/Albert_I,_Prince_of_Monaco"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999318,
+      "label": "/society/dating"
+    }
+  ]
+}

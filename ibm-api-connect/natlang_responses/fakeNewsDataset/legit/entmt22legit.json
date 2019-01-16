@@ -1,0 +1,278 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.453107,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "show's beloved cast members",
+      "sentiment": {
+        "score": -0.535435,
+        "label": "negative"
+      },
+      "relevance": 0.700522,
+      "emotion": {
+        "sadness": 0.667936,
+        "joy": 0.132962,
+        "fear": 0.083263,
+        "disgust": 0.197329,
+        "anger": 0.112991
+      },
+      "count": 1
+    },
+    {
+      "text": "Dead' star Lauren Cohan",
+      "sentiment": {
+        "score": -0.868125,
+        "label": "negative"
+      },
+      "relevance": 0.677373,
+      "emotion": {
+        "sadness": 0.844884,
+        "joy": 0.064226,
+        "fear": 0.059218,
+        "disgust": 0.092619,
+        "anger": 0.04125
+      },
+      "count": 1
+    },
+    {
+      "text": "lot of emotion",
+      "sentiment": {
+        "score": -0.415092,
+        "label": "negative"
+      },
+      "relevance": 0.658437,
+      "emotion": {
+        "sadness": 0.051362,
+        "joy": 0.756645,
+        "fear": 0.102288,
+        "disgust": 0.045036,
+        "anger": 0.012967
+      },
+      "count": 1
+    },
+    {
+      "text": "frequent part of our lingo",
+      "sentiment": {
+        "score": -0.674392,
+        "label": "negative"
+      },
+      "relevance": 0.645473,
+      "emotion": {
+        "sadness": 0.678525,
+        "joy": 0.009609,
+        "fear": 0.170118,
+        "disgust": 0.116499,
+        "anger": 0.327797
+      },
+      "count": 1
+    },
+    {
+      "text": "Walking Dead",
+      "sentiment": {
+        "score": -0.868125,
+        "label": "negative"
+      },
+      "relevance": 0.619945,
+      "emotion": {
+        "sadness": 0.80262,
+        "joy": 0.06076,
+        "fear": 0.040755,
+        "disgust": 0.142334,
+        "anger": 0.092658
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lauren Cohan",
+      "sentiment": {
+        "score": -0.500201,
+        "label": "negative"
+      },
+      "relevance": 0.85937,
+      "mentions": [
+        {
+          "text": "Lauren Cohan",
+          "location": [
+            20,
+            32
+          ]
+        },
+        {
+          "text": "Lauren Cohan",
+          "location": [
+            74,
+            86
+          ]
+        },
+        {
+          "text": "Cohan",
+          "location": [
+            939,
+            944
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.757498,
+        "joy": 0.030688,
+        "fear": 0.055805,
+        "disgust": 0.156047,
+        "anger": 0.242932
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lauren Cohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lauren_Cohan"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jeffrey Dean Morgan",
+      "sentiment": {
+        "score": 0.614267,
+        "label": "positive"
+      },
+      "relevance": 0.287722,
+      "mentions": [
+        {
+          "text": "Jeffrey Dean Morgan",
+          "location": [
+            641,
+            660
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.620302,
+        "joy": 0.154704,
+        "fear": 0.085317,
+        "disgust": 0.233699,
+        "anger": 0.072164
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jeffrey Dean Morgan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jeffrey_Dean_Morgan"
+      },
+      "count": 1
+    },
+    {
+      "type": "Broadcaster",
+      "text": "AMC",
+      "sentiment": {
+        "score": 0.831521,
+        "label": "positive"
+      },
+      "relevance": 0.23185,
+      "mentions": [
+        {
+          "text": "AMC",
+          "location": [
+            466,
+            469
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "TelevisionStation"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Negan",
+      "sentiment": {
+        "score": 0.614267,
+        "label": "positive"
+      },
+      "relevance": 0.204737,
+      "mentions": [
+        {
+          "text": "Negan",
+          "location": [
+            624,
+            629
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.620302,
+        "joy": 0.154704,
+        "fear": 0.085317,
+        "disgust": 0.233699,
+        "anger": 0.072164
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jeffrey Dean Morgan",
+      "relevance": 0.966117,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jeffrey_Dean_Morgan"
+    },
+    {
+      "text": "The Walking Dead",
+      "relevance": 0.935204,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Walking_Dead"
+    },
+    {
+      "text": "Supernatural",
+      "relevance": 0.858542,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supernatural_(TV_series)"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.84647,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.793744,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.575858,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

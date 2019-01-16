@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 75,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Heidi Klum",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.038239,
+        "joy": 0.657396,
+        "fear": 0.109287,
+        "disgust": 0.020886,
+        "anger": 0.059483
+      },
+      "count": 1
+    },
+    {
+      "text": "Billboard Music Awards",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.942381,
+      "emotion": {
+        "sadness": 0.038239,
+        "joy": 0.657396,
+        "fear": 0.109287,
+        "disgust": 0.020886,
+        "anger": 0.059483
+      },
+      "count": 1
+    },
+    {
+      "text": "Seal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.676053,
+      "emotion": {
+        "sadness": 0.038239,
+        "joy": 0.657396,
+        "fear": 0.109287,
+        "disgust": 0.020886,
+        "anger": 0.059483
+      },
+      "count": 1
+    },
+    {
+      "text": "Friendly Reunion",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.356817,
+      "emotion": {
+        "sadness": 0.038239,
+        "joy": 0.657396,
+        "fear": 0.109287,
+        "disgust": 0.020886,
+        "anger": 0.059483
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Heidi Klum",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Heidi Klum",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.038239,
+        "joy": 0.657396,
+        "fear": 0.109287,
+        "disgust": 0.020886,
+        "anger": 0.059483
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "Celebrity",
+          "Model",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Heidi Klum",
+        "dbpedia_resource": "http://dbpedia.org/resource/Heidi_Klum"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Seal",
+      "relevance": 0.945144,
+      "dbpedia_resource": "http://dbpedia.org/resource/Seal_(musician)"
+    },
+    {
+      "text": "Heidi Klum",
+      "relevance": 0.777,
+      "dbpedia_resource": "http://dbpedia.org/resource/Heidi_Klum"
+    },
+    {
+      "text": "Project Runway",
+      "relevance": 0.661018,
+      "dbpedia_resource": "http://dbpedia.org/resource/Project_Runway"
+    },
+    {
+      "text": "Bergisch Gladbach",
+      "relevance": 0.65429,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bergisch_Gladbach"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.678991,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

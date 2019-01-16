@@ -1,0 +1,269 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 90,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.927446,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Malia Obama",
+      "sentiment": {
+        "score": -0.927446,
+        "label": "negative"
+      },
+      "relevance": 0.99482,
+      "emotion": {
+        "sadness": 0.507219,
+        "joy": 0.070597,
+        "fear": 0.494495,
+        "disgust": 0.055976,
+        "anger": 0.114122
+      },
+      "count": 1
+    },
+    {
+      "text": "Barack",
+      "sentiment": {
+        "score": -0.927446,
+        "label": "negative"
+      },
+      "relevance": 0.632349,
+      "emotion": {
+        "sadness": 0.507219,
+        "joy": 0.070597,
+        "fear": 0.494495,
+        "disgust": 0.055976,
+        "anger": 0.114122
+      },
+      "count": 1
+    },
+    {
+      "text": "Michelle",
+      "sentiment": {
+        "score": -0.927446,
+        "label": "negative"
+      },
+      "relevance": 0.62268,
+      "emotion": {
+        "sadness": 0.507219,
+        "joy": 0.070597,
+        "fear": 0.494495,
+        "disgust": 0.055976,
+        "anger": 0.114122
+      },
+      "count": 1
+    },
+    {
+      "text": "Life Alone",
+      "sentiment": {
+        "score": -0.927446,
+        "label": "negative"
+      },
+      "relevance": 0.442178,
+      "emotion": {
+        "sadness": 0.507219,
+        "joy": 0.070597,
+        "fear": 0.494495,
+        "disgust": 0.055976,
+        "anger": 0.114122
+      },
+      "count": 1
+    },
+    {
+      "text": "New York City",
+      "sentiment": {
+        "score": -0.927446,
+        "label": "negative"
+      },
+      "relevance": 0.312098,
+      "emotion": {
+        "sadness": 0.507219,
+        "joy": 0.070597,
+        "fear": 0.494495,
+        "disgust": 0.055976,
+        "anger": 0.114122
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Malia Obama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Malia Obama",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.512821,
+        "joy": 0.103209,
+        "fear": 0.465902,
+        "disgust": 0.047644,
+        "anger": 0.092373
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Barack",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Barack",
+          "location": [
+            16,
+            22
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            50,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.419696,
+        "joy": 0.19415,
+        "fear": 0.408652,
+        "disgust": 0.052483,
+        "anger": 0.130595
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "New York City",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "New York City",
+          "location": [
+            75,
+            88
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.512821,
+        "joy": 0.103209,
+        "fear": 0.465902,
+        "disgust": 0.047644,
+        "anger": 0.092373
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Michelle Worried",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Michelle Worried",
+          "location": [
+            27,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.512821,
+        "joy": 0.103209,
+        "fear": 0.465902,
+        "disgust": 0.047644,
+        "anger": 0.092373
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.963525,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Michelle Obama",
+      "relevance": 0.793905,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+      "text": "Chicago",
+      "relevance": 0.721678,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.686316,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Columbia University",
+      "relevance": 0.609423,
+      "dbpedia_resource": "http://dbpedia.org/resource/Columbia_University"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.607512,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

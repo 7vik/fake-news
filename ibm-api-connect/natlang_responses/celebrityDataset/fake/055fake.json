@@ -1,0 +1,379 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1644,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.538495,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.339388,
+        "label": "positive"
+      },
+      "relevance": 0.655317,
+      "emotion": {
+        "sadness": 0.152073,
+        "joy": 0.653473,
+        "fear": 0.019973,
+        "disgust": 0.061015,
+        "anger": 0.155341
+      },
+      "count": 1
+    },
+    {
+      "text": "Untitled Elmore Leonard Project",
+      "sentiment": {
+        "score": 0.339388,
+        "label": "positive"
+      },
+      "relevance": 0.62863,
+      "emotion": {
+        "sadness": 0.239584,
+        "joy": 0.577099,
+        "fear": 0.013641,
+        "disgust": 0.029584,
+        "anger": 0.158986
+      },
+      "count": 1
+    },
+    {
+      "text": "crew head",
+      "sentiment": {
+        "score": -0.615106,
+        "label": "negative"
+      },
+      "relevance": 0.610703,
+      "emotion": {
+        "sadness": 0.32129,
+        "joy": 0.487548,
+        "fear": 0.090733,
+        "disgust": 0.043831,
+        "anger": 0.119172
+      },
+      "count": 1
+    },
+    {
+      "text": "entire cast",
+      "sentiment": {
+        "score": -0.615106,
+        "label": "negative"
+      },
+      "relevance": 0.5826,
+      "emotion": {
+        "sadness": 0.32129,
+        "joy": 0.487548,
+        "fear": 0.090733,
+        "disgust": 0.043831,
+        "anger": 0.119172
+      },
+      "count": 1
+    },
+    {
+      "text": "Private Trailer Miles",
+      "sentiment": {
+        "score": -0.72316,
+        "label": "negative"
+      },
+      "relevance": 0.575849,
+      "emotion": {
+        "sadness": 0.150755,
+        "joy": 0.380594,
+        "fear": 0.261995,
+        "disgust": 0.159456,
+        "anger": 0.095264
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jen",
+      "sentiment": {
+        "score": -0.076135,
+        "label": "negative"
+      },
+      "relevance": 0.800807,
+      "mentions": [
+        {
+          "text": "the only person",
+          "location": [
+            730,
+            745
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            784,
+            787
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            789,
+            792
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            856,
+            859
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1069,
+            1072
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1131,
+            1134
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1182,
+            1185
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1319,
+            1322
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1371,
+            1374
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.286222,
+        "joy": 0.219359,
+        "fear": 0.108902,
+        "disgust": 0.142286,
+        "anger": 0.176582
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.654852,
+        "label": "positive"
+      },
+      "relevance": 0.544736,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            113,
+            129
+          ]
+        },
+        {
+          "text": "an A-list movie star",
+          "location": [
+            133,
+            153
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.075382,
+        "joy": 0.681583,
+        "fear": 0.007033,
+        "disgust": 0.09723,
+        "anger": 0.144664
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Isla Fisher",
+      "sentiment": {
+        "score": 0.697053,
+        "label": "positive"
+      },
+      "relevance": 0.339257,
+      "mentions": [
+        {
+          "text": "Isla Fisher",
+          "location": [
+            333,
+            344
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.103813,
+        "joy": 0.667234,
+        "fear": 0.010541,
+        "disgust": 0.091937,
+        "anger": 0.115707
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Isla Fisher",
+        "dbpedia_resource": "http://dbpedia.org/resource/Isla_Fisher"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Will Forte",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.324796,
+      "mentions": [
+        {
+          "text": "Will Forte",
+          "location": [
+            362,
+            372
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.258103,
+        "joy": 0.122474,
+        "fear": 0.032317,
+        "disgust": 0.337995,
+        "anger": 0.099898
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Will Forte",
+        "dbpedia_resource": "http://dbpedia.org/resource/Will_Forte"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Tim Robbins",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.291329,
+      "mentions": [
+        {
+          "text": "Tim Robbins",
+          "location": [
+            346,
+            357
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.258103,
+        "joy": 0.122474,
+        "fear": 0.032317,
+        "disgust": 0.337995,
+        "anger": 0.099898
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "FilmDirector",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Tim Robbins",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tim_Robbins"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Actor",
+      "relevance": 0.984158,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    },
+    {
+      "text": "Sport utility vehicle",
+      "relevance": 0.697886,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sport_utility_vehicle"
+    },
+    {
+      "text": "Friends",
+      "relevance": 0.688218,
+      "dbpedia_resource": "http://dbpedia.org/resource/Friends"
+    },
+    {
+      "text": "Luxury vehicle",
+      "relevance": 0.680605,
+      "dbpedia_resource": "http://dbpedia.org/resource/Luxury_vehicle"
+    },
+    {
+      "text": "Pickup truck",
+      "relevance": 0.657,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pickup_truck"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.754125,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

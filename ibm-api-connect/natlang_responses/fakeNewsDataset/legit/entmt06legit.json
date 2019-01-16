@@ -1,0 +1,304 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 753,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.784285,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of a government consultation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.87067,
+      "emotion": {
+        "sadness": 0.094978,
+        "joy": 0.566634,
+        "fear": 0.070173,
+        "disgust": 0.024643,
+        "anger": 0.145744
+      },
+      "count": 1
+    },
+    {
+      "text": "review  Culture Secretary Karen Bradley",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.756786,
+      "emotion": {
+        "sadness": 0.278713,
+        "joy": 0.332907,
+        "fear": 0.03419,
+        "disgust": 0.144516,
+        "anger": 0.12149
+      },
+      "count": 1
+    },
+    {
+      "text": "Ms Bradley",
+      "sentiment": {
+        "score": 0.784285,
+        "label": "positive"
+      },
+      "relevance": 0.636438,
+      "emotion": {
+        "sadness": 0.18261,
+        "joy": 0.414298,
+        "fear": 0.046044,
+        "disgust": 0.066942,
+        "anger": 0.127602
+      },
+      "count": 1
+    },
+    {
+      "text": "Channel",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.628991,
+      "emotion": {
+        "sadness": 0.087991,
+        "joy": 0.547952,
+        "fear": 0.120067,
+        "disgust": 0.061496,
+        "anger": 0.193575
+      },
+      "count": 2
+    },
+    {
+      "text": "18-month review",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.623935,
+      "emotion": {
+        "sadness": 0.462861,
+        "joy": 0.074434,
+        "fear": 0.050254,
+        "disgust": 0.145063,
+        "anger": 0.193582
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": -0.452055,
+        "label": "negative"
+      },
+      "relevance": 0.887122,
+      "mentions": [
+        {
+          "text": "London",
+          "location": [
+            29,
+            35
+          ]
+        },
+        {
+          "text": "London",
+          "location": [
+            83,
+            89
+          ]
+        },
+        {
+          "text": "London",
+          "location": [
+            405,
+            411
+          ]
+        },
+        {
+          "text": "London",
+          "location": [
+            629,
+            635
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152361,
+        "joy": 0.532698,
+        "fear": 0.099203,
+        "disgust": 0.065434,
+        "anger": 0.061551
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Karen Bradley",
+      "sentiment": {
+        "score": -0.340304,
+        "label": "negative"
+      },
+      "relevance": 0.730133,
+      "mentions": [
+        {
+          "text": "Karen Bradley",
+          "location": [
+            270,
+            283
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            299,
+            302
+          ]
+        },
+        {
+          "text": "Ms Bradley",
+          "location": [
+            637,
+            647
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.239595,
+        "joy": 0.433626,
+        "fear": 0.038469,
+        "disgust": 0.176328,
+        "anger": 0.177498
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Karen Bradley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Karen_Bradley"
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": -0.365575,
+        "label": "negative"
+      },
+      "relevance": 0.26398,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            260,
+            269
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172891,
+        "joy": 0.487975,
+        "fear": 0.054153,
+        "disgust": 0.15763,
+        "anger": 0.09964
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Salford",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.25345,
+      "mentions": [
+        {
+          "text": "Salford",
+          "location": [
+            731,
+            738
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18261,
+        "joy": 0.414298,
+        "fear": 0.046044,
+        "disgust": 0.066942,
+        "anger": 0.127602
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "18-month",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.25345,
+      "mentions": [
+        {
+          "text": "18-month",
+          "location": [
+            512,
+            520
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sovereign state",
+      "relevance": 0.94882,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sovereign_state"
+    },
+    {
+      "text": "Nationality",
+      "relevance": 0.814607,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nationality"
+    },
+    {
+      "text": "Government",
+      "relevance": 0.712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Government"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.705104,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "London",
+      "relevance": 0.68,
+      "dbpedia_resource": "http://dbpedia.org/resource/London"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.830492,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

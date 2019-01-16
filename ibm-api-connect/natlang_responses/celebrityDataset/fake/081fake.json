@@ -1,0 +1,155 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 126,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.675488,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": -0.776502,
+        "label": "negative"
+      },
+      "relevance": 0.980692,
+      "emotion": {
+        "sadness": 0.260466,
+        "joy": 0.033945,
+        "fear": 0.185136,
+        "disgust": 0.366638,
+        "anger": 0.228334
+      },
+      "count": 1
+    },
+    {
+      "text": "Substance Abuse",
+      "sentiment": {
+        "score": -0.776502,
+        "label": "negative"
+      },
+      "relevance": 0.859306,
+      "emotion": {
+        "sadness": 0.260466,
+        "joy": 0.033945,
+        "fear": 0.185136,
+        "disgust": 0.366638,
+        "anger": 0.228334
+      },
+      "count": 1
+    },
+    {
+      "text": "Alleged Drinking Problem",
+      "sentiment": {
+        "score": -0.776502,
+        "label": "negative"
+      },
+      "relevance": 0.68213,
+      "emotion": {
+        "sadness": 0.260466,
+        "joy": 0.033945,
+        "fear": 0.185136,
+        "disgust": 0.366638,
+        "anger": 0.228334
+      },
+      "count": 1
+    },
+    {
+      "text": "Career",
+      "sentiment": {
+        "score": -0.776502,
+        "label": "negative"
+      },
+      "relevance": 0.539078,
+      "emotion": {
+        "sadness": 0.260466,
+        "joy": 0.033945,
+        "fear": 0.185136,
+        "disgust": 0.366638,
+        "anger": 0.228334
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.280654,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": -0.475954,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.2121,
+        "joy": 0.040765,
+        "fear": 0.259425,
+        "disgust": 0.074357,
+        "anger": 0.085159
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Robert Pattinson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Addiction",
+      "relevance": 0.905089,
+      "dbpedia_resource": "http://dbpedia.org/resource/Addiction"
+    },
+    {
+      "text": "Robert Pattinson",
+      "relevance": 0.76208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.991728,
+      "label": "/health and fitness/addiction/substance abuse"
+    }
+  ]
+}

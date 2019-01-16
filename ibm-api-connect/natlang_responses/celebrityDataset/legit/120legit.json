@@ -1,0 +1,161 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.434288,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez gushes",
+      "sentiment": {
+        "score": -0.434288,
+        "label": "negative"
+      },
+      "relevance": 0.996826,
+      "emotion": {
+        "sadness": 0.120706,
+        "joy": 0.515322,
+        "fear": 0.036719,
+        "disgust": 0.068262,
+        "anger": 0.093118
+      },
+      "count": 1
+    },
+    {
+      "text": "Jenifer Aniston",
+      "sentiment": {
+        "score": -0.434288,
+        "label": "negative"
+      },
+      "relevance": 0.100669,
+      "emotion": {
+        "sadness": 0.120706,
+        "joy": 0.515322,
+        "fear": 0.036719,
+        "disgust": 0.068262,
+        "anger": 0.093118
+      },
+      "count": 1
+    },
+    {
+      "text": "Cake party",
+      "sentiment": {
+        "score": -0.434288,
+        "label": "negative"
+      },
+      "relevance": 0.027656,
+      "emotion": {
+        "sadness": 0.120706,
+        "joy": 0.515322,
+        "fear": 0.036719,
+        "disgust": 0.068262,
+        "anger": 0.093118
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.836315,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120706,
+        "joy": 0.515322,
+        "fear": 0.036719,
+        "disgust": 0.068262,
+        "anger": 0.093118
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jenifer Aniston",
+      "sentiment": {
+        "score": -0.836315,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jenifer Aniston",
+          "location": [
+            25,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120706,
+        "joy": 0.515322,
+        "fear": 0.036719,
+        "disgust": 0.068262,
+        "anger": 0.093118
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.937952,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.760537,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American people of Italian descent",
+      "relevance": 0.751873,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_people_of_Italian_descent"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.719666,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

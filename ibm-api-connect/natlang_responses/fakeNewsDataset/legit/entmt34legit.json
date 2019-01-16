@@ -1,0 +1,325 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 757,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.549727,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Alief Independent School District",
+      "sentiment": {
+        "score": -0.500033,
+        "label": "negative"
+      },
+      "relevance": 0.85554,
+      "emotion": {
+        "sadness": 0.816564,
+        "joy": 0.124481,
+        "fear": 0.037319,
+        "disgust": 0.029457,
+        "anger": 0.023645
+      },
+      "count": 1
+    },
+    {
+      "text": "Ebony Banks",
+      "sentiment": {
+        "score": -0.881556,
+        "label": "negative"
+      },
+      "relevance": 0.788341,
+      "emotion": {
+        "sadness": 0.783116,
+        "joy": 0.152125,
+        "fear": 0.060308,
+        "disgust": 0.011458,
+        "anger": 0.069739
+      },
+      "count": 1
+    },
+    {
+      "text": "Alief Hastings High School",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.72603,
+      "emotion": {
+        "sadness": 0.336385,
+        "joy": 0.474138,
+        "fear": 0.083583,
+        "disgust": 0.047567,
+        "anger": 0.091352
+      },
+      "count": 1
+    },
+    {
+      "text": "member of the color guard",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.692938,
+      "emotion": {
+        "sadness": 0.336385,
+        "joy": 0.474138,
+        "fear": 0.083583,
+        "disgust": 0.047567,
+        "anger": 0.091352
+      },
+      "count": 1
+    },
+    {
+      "text": "very end  spokesman Craig Eichhorn",
+      "sentiment": {
+        "score": 0.317082,
+        "label": "positive"
+      },
+      "relevance": 0.666658,
+      "emotion": {
+        "sadness": 0.156876,
+        "joy": 0.609167,
+        "fear": 0.054143,
+        "disgust": 0.055356,
+        "anger": 0.027455
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonce FaceTimes",
+      "sentiment": {
+        "score": -0.388031,
+        "label": "negative"
+      },
+      "relevance": 0.953597,
+      "mentions": [
+        {
+          "text": "Beyonce FaceTimes",
+          "location": [
+            33,
+            50
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            56,
+            59
+          ]
+        },
+        {
+          "text": "Beyonce",
+          "location": [
+            180,
+            187
+          ]
+        },
+        {
+          "text": "Beyonce",
+          "location": [
+            748,
+            755
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.839663,
+        "joy": 0.05946,
+        "fear": 0.110953,
+        "disgust": 0.105512,
+        "anger": 0.030548
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Banks",
+      "sentiment": {
+        "score": -0.333426,
+        "label": "negative"
+      },
+      "relevance": 0.608623,
+      "mentions": [
+        {
+          "text": "Ebony Banks",
+          "location": [
+            60,
+            71
+          ]
+        },
+        {
+          "text": "Banks",
+          "location": [
+            260,
+            265
+          ]
+        },
+        {
+          "text": "Banks",
+          "location": [
+            503,
+            508
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            542,
+            545
+          ]
+        },
+        {
+          "text": "a member",
+          "location": [
+            550,
+            558
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.816564,
+        "joy": 0.124481,
+        "fear": 0.037319,
+        "disgust": 0.029457,
+        "anger": 0.023645
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Alief Hastings High School",
+      "sentiment": {
+        "score": -0.472048,
+        "label": "negative"
+      },
+      "relevance": 0.512024,
+      "mentions": [
+        {
+          "text": "Alief Hastings High School",
+          "location": [
+            464,
+            490
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156876,
+        "joy": 0.609167,
+        "fear": 0.054143,
+        "disgust": 0.055356,
+        "anger": 0.027455
+      },
+      "disambiguation": {
+        "subtype": [
+          "School"
+        ],
+        "name": "Alief Hastings High School",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alief_Hastings_High_School"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Alief Independent School District",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.495794,
+      "mentions": [
+        {
+          "text": "Alief Independent School District",
+          "location": [
+            219,
+            252
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "SchoolDistrict"
+        ],
+        "name": "Alief Independent School District",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alief_Independent_School_District"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Craig Eichhorn",
+      "sentiment": {
+        "score": -0.497343,
+        "label": "negative"
+      },
+      "relevance": 0.284268,
+      "mentions": [
+        {
+          "text": "Craig Eichhorn",
+          "location": [
+            405,
+            419
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.829523,
+        "joy": 0.142102,
+        "fear": 0.037326,
+        "disgust": 0.008149,
+        "anger": 0.035044
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.974179,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Alief Taylor High School",
+      "relevance": 0.575301,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alief_Taylor_High_School"
+    },
+    {
+      "text": "Alief Elsik High School",
+      "relevance": 0.569925,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alief_Elsik_High_School"
+    },
+    {
+      "text": "Alief Independent School District",
+      "relevance": 0.562109,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alief_Independent_School_District"
+    },
+    {
+      "text": "Alief Kerr High School",
+      "relevance": 0.526219,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alief_Kerr_High_School"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.869049,
+      "label": "/education/high school"
+    }
+  ]
+}

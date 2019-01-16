@@ -1,0 +1,288 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 599,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.889682,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Harvard Law",
+      "sentiment": {
+        "score": -0.906848,
+        "label": "negative"
+      },
+      "relevance": 0.950765,
+      "emotion": {
+        "sadness": 0.268382,
+        "joy": 0.159169,
+        "fear": 0.300621,
+        "disgust": 0.163627,
+        "anger": 0.356192
+      },
+      "count": 1
+    },
+    {
+      "text": "law school",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.882988,
+      "emotion": {
+        "sadness": 0.544551,
+        "joy": 0.068985,
+        "fear": 0.198154,
+        "disgust": 0.278896,
+        "anger": 0.090391
+      },
+      "count": 2
+    },
+    {
+      "text": "Mark Zuckerberg",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.854178,
+      "emotion": {
+        "sadness": 0.544551,
+        "joy": 0.068985,
+        "fear": 0.198154,
+        "disgust": 0.278896,
+        "anger": 0.090391
+      },
+      "count": 1
+    },
+    {
+      "text": "Bill Gates",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.736936,
+      "emotion": {
+        "sadness": 0.544551,
+        "joy": 0.068985,
+        "fear": 0.198154,
+        "disgust": 0.278896,
+        "anger": 0.090391
+      },
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.590348,
+      "emotion": {
+        "sadness": 0.544551,
+        "joy": 0.068985,
+        "fear": 0.198154,
+        "disgust": 0.278896,
+        "anger": 0.090391
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Harvard Law School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.859712,
+      "mentions": [
+        {
+          "text": "Harvard Law",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Harvard Law School",
+          "location": [
+            86,
+            104
+          ]
+        },
+        {
+          "text": "law school",
+          "location": [
+            331,
+            341
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.42827,
+        "joy": 0.163254,
+        "fear": 0.225449,
+        "disgust": 0.203849,
+        "anger": 0.124783
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Harvard Law School",
+        "dbpedia_resource": "http://dbpedia.org/resource/Harvard_Law_School"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Bill Gates",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.284387,
+      "mentions": [
+        {
+          "text": "Bill Gates",
+          "location": [
+            364,
+            374
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24539,
+        "joy": 0.030814,
+        "fear": 0.085461,
+        "disgust": 0.215677,
+        "anger": 0.065459
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "TVActor",
+          "VideoGameDeveloper"
+        ],
+        "name": "Bill Gates",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Gates"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": -0.353226,
+        "label": "negative"
+      },
+      "relevance": 0.224563,
+      "mentions": [
+        {
+          "text": "United States",
+          "location": [
+            438,
+            451
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.596605,
+        "joy": 0.125465,
+        "fear": 0.214658,
+        "disgust": 0.167016,
+        "anger": 0.064911
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mark Zuckerberg",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.221242,
+      "mentions": [
+        {
+          "text": "Mark Zuckerberg",
+          "location": [
+            379,
+            394
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24539,
+        "joy": 0.030814,
+        "fear": 0.085461,
+        "disgust": 0.215677,
+        "anger": 0.065459
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "CompanyFounder"
+        ],
+        "name": "Mark Zuckerberg",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mark_Zuckerberg"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Norm-referenced test",
+      "relevance": 0.926962,
+      "dbpedia_resource": "http://dbpedia.org/resource/Norm-referenced_test"
+    },
+    {
+      "text": "Harvard University",
+      "relevance": 0.904524,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harvard_University"
+    },
+    {
+      "text": "Facebook",
+      "relevance": 0.899029,
+      "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+    },
+    {
+      "text": "SAT",
+      "relevance": 0.86526,
+      "dbpedia_resource": "http://dbpedia.org/resource/SAT"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.863005,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.790885,
+      "label": "/education/alumni and reunions"
+    }
+  ]
+}

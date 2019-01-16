@@ -1,0 +1,283 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 796,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.921408,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Border wall",
+      "sentiment": {
+        "score": -0.921408,
+        "label": "negative"
+      },
+      "relevance": 0.861437,
+      "emotion": {
+        "sadness": 0.427026,
+        "joy": 0.358403,
+        "fear": 0.209231,
+        "disgust": 0.013471,
+        "anger": 0.042275
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.921408,
+        "label": "negative"
+      },
+      "relevance": 0.773053,
+      "emotion": {
+        "sadness": 0.238535,
+        "joy": 0.404185,
+        "fear": 0.135539,
+        "disgust": 0.056586,
+        "anger": 0.072751
+      },
+      "count": 1
+    },
+    {
+      "text": "border wall funding",
+      "sentiment": {
+        "score": -0.921408,
+        "label": "negative"
+      },
+      "relevance": 0.703696,
+      "emotion": {
+        "sadness": 0.238535,
+        "joy": 0.404185,
+        "fear": 0.135539,
+        "disgust": 0.056586,
+        "anger": 0.072751
+      },
+      "count": 1
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.921408,
+        "label": "negative"
+      },
+      "relevance": 0.699883,
+      "emotion": {
+        "sadness": 0.238535,
+        "joy": 0.404185,
+        "fear": 0.135539,
+        "disgust": 0.056586,
+        "anger": 0.072751
+      },
+      "count": 1
+    },
+    {
+      "text": "southern border",
+      "sentiment": {
+        "score": -0.921408,
+        "label": "negative"
+      },
+      "relevance": 0.695196,
+      "emotion": {
+        "sadness": 0.238535,
+        "joy": 0.404185,
+        "fear": 0.135539,
+        "disgust": 0.056586,
+        "anger": 0.072751
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.792255,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            9,
+            12
+          ]
+        },
+        {
+          "text": "CNN",
+          "location": [
+            67,
+            70
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.291598,
+        "joy": 0.271938,
+        "fear": 0.023309,
+        "disgust": 0.06835,
+        "anger": 0.069584
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Department of Homeland Security",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.74234,
+      "mentions": [
+        {
+          "text": "Department of Homeland Security",
+          "location": [
+            592,
+            623
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.081506,
+        "joy": 0.481604,
+        "fear": 0.114938,
+        "disgust": 0.071538,
+        "anger": 0.071832
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.538701,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            424,
+            435
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.386408,
+        "joy": 0.152262,
+        "fear": 0.352414,
+        "disgust": 0.222878,
+        "anger": 0.083042
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.501327,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            55,
+            65
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$1 billion",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.501327,
+      "mentions": [
+        {
+          "text": "$1 billion",
+          "location": [
+            31,
+            41
+          ]
+        },
+        {
+          "text": "$1 billion",
+          "location": [
+            112,
+            122
+          ]
+        }
+      ],
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "White House",
+      "relevance": 0.947825,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "United States Department of Homeland Security",
+      "relevance": 0.678726,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Homeland_Security"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.668766,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Thomas Jefferson",
+      "relevance": 0.642598,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thomas_Jefferson"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.641669,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.886309,
+      "label": "/education/special education"
+    }
+  ]
+}

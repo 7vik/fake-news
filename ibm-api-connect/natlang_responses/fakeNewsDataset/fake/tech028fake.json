@@ -1,0 +1,253 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 990,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.43299,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Alphabet Inc",
+      "sentiment": {
+        "score": 0.720564,
+        "label": "positive"
+      },
+      "relevance": 0.819832,
+      "emotion": {
+        "sadness": 0.11179,
+        "joy": 0.566501,
+        "fear": 0.024557,
+        "disgust": 0.0112,
+        "anger": 0.237535
+      },
+      "count": 2
+    },
+    {
+      "text": "user location information",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.774715,
+      "emotion": {
+        "sadness": 0.207077,
+        "joy": 0.093833,
+        "fear": 0.021801,
+        "disgust": 0.009123,
+        "anger": 0.141249
+      },
+      "count": 1
+    },
+    {
+      "text": "exact coordinates",
+      "sentiment": {
+        "score": 0.720564,
+        "label": "positive"
+      },
+      "relevance": 0.683584,
+      "emotion": {
+        "sadness": 0.122811,
+        "joy": 0.440684,
+        "fear": 0.04133,
+        "disgust": 0.090069,
+        "anger": 0.379997
+      },
+      "count": 1
+    },
+    {
+      "text": "Google Earth",
+      "sentiment": {
+        "score": 0.720564,
+        "label": "positive"
+      },
+      "relevance": 0.635873,
+      "emotion": {
+        "sadness": 0.122811,
+        "joy": 0.440684,
+        "fear": 0.04133,
+        "disgust": 0.090069,
+        "anger": 0.379997
+      },
+      "count": 1
+    },
+    {
+      "text": "years users",
+      "sentiment": {
+        "score": 0.720564,
+        "label": "positive"
+      },
+      "relevance": 0.618487,
+      "emotion": {
+        "sadness": 0.122811,
+        "joy": 0.440684,
+        "fear": 0.04133,
+        "disgust": 0.090069,
+        "anger": 0.379997
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Alphabet Inc",
+      "sentiment": {
+        "score": 0.423933,
+        "label": "positive"
+      },
+      "relevance": 0.869873,
+      "mentions": [
+        {
+          "text": "Alphabet Inc",
+          "location": [
+            73,
+            85
+          ]
+        },
+        {
+          "text": "Alphabet Inc",
+          "location": [
+            408,
+            420
+          ]
+        },
+        {
+          "text": "Alphabet Inc",
+          "location": [
+            623,
+            635
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.117909,
+        "joy": 0.436748,
+        "fear": 0.026601,
+        "disgust": 0.009,
+        "anger": 0.097834
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.679937,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            88,
+            94
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142479,
+        "joy": 0.142077,
+        "fear": 0.011593,
+        "disgust": 0.004429,
+        "anger": 0.06349
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.274265,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            576,
+            583
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.073518,
+        "joy": 0.254994,
+        "fear": 0.044732,
+        "disgust": 0.339286,
+        "anger": 0.417761
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Google",
+      "relevance": 0.962626,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "Google Earth",
+      "relevance": 0.847074,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_Earth"
+    },
+    {
+      "text": "Google Maps",
+      "relevance": 0.790986,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_Maps"
+    },
+    {
+      "text": "Great Pyramid of Giza",
+      "relevance": 0.772354,
+      "dbpedia_resource": "http://dbpedia.org/resource/Great_Pyramid_of_Giza"
+    },
+    {
+      "text": "Egyptian pyramids",
+      "relevance": 0.719003,
+      "dbpedia_resource": "http://dbpedia.org/resource/Egyptian_pyramids"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.828837,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 526,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.859171,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Appeals court",
+      "sentiment": {
+        "score": -0.859171,
+        "label": "negative"
+      },
+      "relevance": 0.894233,
+      "emotion": {
+        "sadness": 0.187852,
+        "joy": 0.024621,
+        "fear": 0.063368,
+        "disgust": 0.484027,
+        "anger": 0.519394
+      },
+      "count": 1
+    },
+    {
+      "text": "unanimous verdict",
+      "sentiment": {
+        "score": -0.859171,
+        "label": "negative"
+      },
+      "relevance": 0.720989,
+      "emotion": {
+        "sadness": 0.371927,
+        "joy": 0.09396,
+        "fear": 0.071944,
+        "disgust": 0.318794,
+        "anger": 0.463667
+      },
+      "count": 1
+    },
+    {
+      "text": "federal appeals",
+      "sentiment": {
+        "score": -0.859171,
+        "label": "negative"
+      },
+      "relevance": 0.677578,
+      "emotion": {
+        "sadness": 0.371927,
+        "joy": 0.09396,
+        "fear": 0.071944,
+        "disgust": 0.318794,
+        "anger": 0.463667
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.859171,
+        "label": "negative"
+      },
+      "relevance": 0.66814,
+      "emotion": {
+        "sadness": 0.371927,
+        "joy": 0.09396,
+        "fear": 0.071944,
+        "disgust": 0.318794,
+        "anger": 0.463667
+      },
+      "count": 1
+    },
+    {
+      "text": "75-year-old Supreme Court precedent",
+      "sentiment": {
+        "score": -0.859171,
+        "label": "negative"
+      },
+      "relevance": 0.653864,
+      "emotion": {
+        "sadness": 0.371927,
+        "joy": 0.09396,
+        "fear": 0.071944,
+        "disgust": 0.318794,
+        "anger": 0.463667
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump reinstitute",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.880738,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            35,
+            40
+          ]
+        },
+        {
+          "text": "President Trump reinstitute",
+          "location": [
+            102,
+            129
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187852,
+        "joy": 0.024621,
+        "fear": 0.063368,
+        "disgust": 0.484027,
+        "anger": 0.519394
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": -0.224064,
+        "label": "negative"
+      },
+      "relevance": 0.600986,
+      "mentions": [
+        {
+          "text": "75-year",
+          "location": [
+            345,
+            352
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.322758,
+        "joy": 0.036351,
+        "fear": 0.066908,
+        "disgust": 0.418126,
+        "anger": 0.496805
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Supreme Court of Israel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_Israel"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "75-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.574414,
+      "mentions": [
+        {
+          "text": "75-year",
+          "location": [
+            345,
+            352
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Constitution",
+      "relevance": 0.95261,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.837523,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Jury",
+      "relevance": 0.802511,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jury"
+    },
+    {
+      "text": "Appeal",
+      "relevance": 0.7636,
+      "dbpedia_resource": "http://dbpedia.org/resource/Appeal"
+    },
+    {
+      "text": "Court",
+      "relevance": 0.716321,
+      "dbpedia_resource": "http://dbpedia.org/resource/Court"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.944124,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

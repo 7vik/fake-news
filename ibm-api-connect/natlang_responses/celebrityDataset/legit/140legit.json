@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.531206,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0.531206,
+        "label": "positive"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.066422,
+        "joy": 0.328498,
+        "fear": 0.023251,
+        "disgust": 0.164847,
+        "anger": 0.070062
+      },
+      "count": 1
+    },
+    {
+      "text": "Kate Winslet",
+      "sentiment": {
+        "score": 0.531206,
+        "label": "positive"
+      },
+      "relevance": 0.995401,
+      "emotion": {
+        "sadness": 0.066422,
+        "joy": 0.328498,
+        "fear": 0.023251,
+        "disgust": 0.164847,
+        "anger": 0.070062
+      },
+      "count": 1
+    },
+    {
+      "text": "Dinner Date",
+      "sentiment": {
+        "score": 0.531206,
+        "label": "positive"
+      },
+      "relevance": 0.948538,
+      "emotion": {
+        "sadness": 0.066422,
+        "joy": 0.328498,
+        "fear": 0.023251,
+        "disgust": 0.164847,
+        "anger": 0.070062
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0.714521,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Leonardo DiCaprio",
+          "location": [
+            0,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066422,
+        "joy": 0.328498,
+        "fear": 0.023251,
+        "disgust": 0.164847,
+        "anger": 0.070062
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Leonardo DiCaprio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kate Winslet",
+      "sentiment": {
+        "score": 0.714521,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kate Winslet",
+          "location": [
+            22,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066422,
+        "joy": 0.328498,
+        "fear": 0.023251,
+        "disgust": 0.164847,
+        "anger": 0.070062
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kate Winslet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kate Winslet",
+      "relevance": 0.967974,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+    },
+    {
+      "text": "Leonardo DiCaprio",
+      "relevance": 0.817236,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.715749,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 872,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.666143,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Toronto District School Board",
+      "sentiment": {
+        "score": 0.551495,
+        "label": "positive"
+      },
+      "relevance": 0.805415,
+      "emotion": {
+        "sadness": 0.139167,
+        "joy": 0.59014,
+        "fear": 0.131095,
+        "disgust": 0.018586,
+        "anger": 0.095074
+      },
+      "count": 1
+    },
+    {
+      "text": "Canada's largest school board",
+      "sentiment": {
+        "score": -0.948475,
+        "label": "negative"
+      },
+      "relevance": 0.780935,
+      "emotion": {
+        "sadness": 0.174315,
+        "joy": 0.293861,
+        "fear": 0.244924,
+        "disgust": 0.19853,
+        "anger": 0.307692
+      },
+      "count": 1
+    },
+    {
+      "text": "girls chorus",
+      "sentiment": {
+        "score": -0.513267,
+        "label": "negative"
+      },
+      "relevance": 0.678917,
+      "emotion": {
+        "sadness": 0.314096,
+        "joy": 0.256959,
+        "fear": 0.282249,
+        "disgust": 0.025239,
+        "anger": 0.245593
+      },
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "sentiment": {
+        "score": -0.948475,
+        "label": "negative"
+      },
+      "relevance": 0.65314,
+      "emotion": {
+        "sadness": 0.174315,
+        "joy": 0.293861,
+        "fear": 0.244924,
+        "disgust": 0.19853,
+        "anger": 0.307692
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. Class Trips",
+      "sentiment": {
+        "score": -0.845374,
+        "label": "negative"
+      },
+      "relevance": 0.647261,
+      "emotion": {
+        "sadness": 0.480864,
+        "joy": 0.020192,
+        "fear": 0.157728,
+        "disgust": 0.303011,
+        "anger": 0.402628
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.420311,
+        "label": "negative"
+      },
+      "relevance": 0.792803,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            227,
+            232
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            256,
+            261
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.086676,
+        "joy": 0.635242,
+        "fear": 0.132055,
+        "disgust": 0.06554,
+        "anger": 0.122023
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Toronto District School Board",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.596002,
+      "mentions": [
+        {
+          "text": "Toronto District School Board",
+          "location": [
+            508,
+            537
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15337,
+        "joy": 0.608231,
+        "fear": 0.122464,
+        "disgust": 0.009125,
+        "anger": 0.098529
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "SchoolDistrict"
+        ],
+        "name": "Toronto District School Board",
+        "dbpedia_resource": "http://dbpedia.org/resource/Toronto_District_School_Board"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "United States",
+      "sentiment": {
+        "score": -0.574946,
+        "label": "negative"
+      },
+      "relevance": 0.526902,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            15,
+            19
+          ]
+        },
+        {
+          "text": "United States",
+          "location": [
+            154,
+            167
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            440,
+            444
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.284832,
+        "joy": 0.260997,
+        "fear": 0.238693,
+        "disgust": 0.109295,
+        "anger": 0.342784
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.420311,
+        "label": "negative"
+      },
+      "relevance": 0.360519,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            217,
+            226
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109514,
+        "joy": 0.601445,
+        "fear": 0.158138,
+        "disgust": 0.067339,
+        "anger": 0.108099
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Canada",
+      "sentiment": {
+        "score": -0.420311,
+        "label": "negative"
+      },
+      "relevance": 0.359312,
+      "mentions": [
+        {
+          "text": "Canada",
+          "location": [
+            83,
+            89
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "AwardDiscipline",
+          "FilmScreeningVenue",
+          "Country"
+        ],
+        "name": "Canada",
+        "dbpedia_resource": "http://dbpedia.org/resource/Canada"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.983771,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Canada",
+      "relevance": 0.787649,
+      "dbpedia_resource": "http://dbpedia.org/resource/Canada"
+    },
+    {
+      "text": "California",
+      "relevance": 0.541967,
+      "dbpedia_resource": "http://dbpedia.org/resource/California"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.538178,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "U.S. state",
+      "relevance": 0.521119,
+      "dbpedia_resource": "http://dbpedia.org/resource/U.S._state"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.980294,
+      "label": "/education/special education"
+    }
+  ]
+}

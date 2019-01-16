@@ -1,0 +1,289 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 623,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.70308,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Girls Night",
+      "sentiment": {
+        "score": -0.466669,
+        "label": "negative"
+      },
+      "relevance": 0.924708,
+      "emotion": {
+        "sadness": 0.121613,
+        "joy": 0.604202,
+        "fear": 0.0589,
+        "disgust": 0.107405,
+        "anger": 0.099831
+      },
+      "count": 2
+    },
+    {
+      "text": "Chelsea HandlerJennifer Garner",
+      "sentiment": {
+        "score": -0.466669,
+        "label": "negative"
+      },
+      "relevance": 0.915912,
+      "emotion": {
+        "sadness": 0.121613,
+        "joy": 0.604202,
+        "fear": 0.0589,
+        "disgust": 0.107405,
+        "anger": 0.099831
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Garner",
+      "sentiment": {
+        "score": -0.466669,
+        "label": "negative"
+      },
+      "relevance": 0.88568,
+      "emotion": {
+        "sadness": 0.121613,
+        "joy": 0.604202,
+        "fear": 0.0589,
+        "disgust": 0.107405,
+        "anger": 0.099831
+      },
+      "count": 1
+    },
+    {
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.747175,
+      "emotion": {
+        "sadness": 0.150018,
+        "joy": 0.571958,
+        "fear": 0.109513,
+        "disgust": 0.066019,
+        "anger": 0.05597
+      },
+      "count": 1
+    },
+    {
+      "text": "Chelsea Handler",
+      "sentiment": {
+        "score": -0.466669,
+        "label": "negative"
+      },
+      "relevance": 0.704003,
+      "emotion": {
+        "sadness": 0.121613,
+        "joy": 0.604202,
+        "fear": 0.0589,
+        "disgust": 0.107405,
+        "anger": 0.099831
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Giorgio Baldi",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.868797,
+      "mentions": [
+        {
+          "text": "Giorgio Baldi",
+          "location": [
+            152,
+            165
+          ]
+        },
+        {
+          "text": "Giorgio Baldi",
+          "location": [
+            238,
+            251
+          ]
+        },
+        {
+          "text": "Giorgio Baldi",
+          "location": [
+            435,
+            448
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244364,
+        "joy": 0.544964,
+        "fear": 0.097196,
+        "disgust": 0.027532,
+        "anger": 0.12793
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Chelsea HandlerJennifer Garner",
+      "sentiment": {
+        "score": -0.489823,
+        "label": "negative"
+      },
+      "relevance": 0.442089,
+      "mentions": [
+        {
+          "text": "Chelsea HandlerJennifer Garner",
+          "location": [
+            41,
+            71
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.154725,
+        "joy": 0.464314,
+        "fear": 0.081969,
+        "disgust": 0.211095,
+        "anger": 0.094062
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.407933,
+      "mentions": [
+        {
+          "text": "Ben Affleck",
+          "location": [
+            261,
+            272
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            408,
+            411
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.219013,
+        "joy": 0.490268,
+        "fear": 0.127719,
+        "disgust": 0.029245,
+        "anger": 0.145861
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Ben Affleck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Garner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.366898,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Jennifer Garner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Garner"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Chelsea Handler",
+      "sentiment": {
+        "score": -0.489823,
+        "label": "negative"
+      },
+      "relevance": 0.364889,
+      "mentions": [
+        {
+          "text": "Chelsea Handler",
+          "location": [
+            76,
+            91
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.154725,
+        "joy": 0.464314,
+        "fear": 0.081969,
+        "disgust": 0.211095,
+        "anger": 0.094062
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Chelsea Handler",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chelsea_Handler"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.604829,
+      "label": "/society/dating"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 91,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.576941,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber Vacation",
+      "sentiment": {
+        "score": -0.594831,
+        "label": "negative"
+      },
+      "relevance": 0.990831,
+      "emotion": {
+        "sadness": 0.102567,
+        "joy": 0.384263,
+        "fear": 0.10043,
+        "disgust": 0.175713,
+        "anger": 0.276711
+      },
+      "count": 1
+    },
+    {
+      "text": "Purpose Tour",
+      "sentiment": {
+        "score": -0.594831,
+        "label": "negative"
+      },
+      "relevance": 0.49847,
+      "emotion": {
+        "sadness": 0.102567,
+        "joy": 0.384263,
+        "fear": 0.10043,
+        "disgust": 0.175713,
+        "anger": 0.276711
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.314573,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    },
+    {
+      "text": "Awards Show Rant",
+      "sentiment": {
+        "score": -0.594831,
+        "label": "negative"
+      },
+      "relevance": 0.255659,
+      "emotion": {
+        "sadness": 0.102567,
+        "joy": 0.384263,
+        "fear": 0.10043,
+        "disgust": 0.175713,
+        "anger": 0.276711
+      },
+      "count": 1
+    },
+    {
+      "text": "Hold",
+      "sentiment": {
+        "score": -0.594831,
+        "label": "negative"
+      },
+      "relevance": 0.05577,
+      "emotion": {
+        "sadness": 0.102567,
+        "joy": 0.384263,
+        "fear": 0.10043,
+        "disgust": 0.175713,
+        "anger": 0.276711
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162786,
+        "joy": 0.389236,
+        "fear": 0.026212,
+        "disgust": 0.077304,
+        "anger": 0.053998
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Justin Bieber",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.90232,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.997286,
+      "label": "/travel/traveling with kids"
+    }
+  ]
+}

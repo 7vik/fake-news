@@ -1,0 +1,143 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Nude Cookbook",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.947817,
+      "emotion": {
+        "sadness": 0.039722,
+        "joy": 0.212494,
+        "fear": 0.27545,
+        "disgust": 0.555995,
+        "anger": 0.065773
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.919812,
+      "emotion": {
+        "sadness": 0.039722,
+        "joy": 0.212494,
+        "fear": 0.27545,
+        "disgust": 0.555995,
+        "anger": 0.065773
+      },
+      "count": 1
+    },
+    {
+      "text": "Way",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.039722,
+        "joy": 0.212494,
+        "fear": 0.27545,
+        "disgust": 0.555995,
+        "anger": 0.065773
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Nude Cookbook",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Nude Cookbook",
+          "location": [
+            16,
+            29
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.034019,
+        "joy": 0.381818,
+        "fear": 0.311095,
+        "disgust": 0.3771,
+        "anger": 0.037756
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.741426,
+      "label": "/food and drink/cuisines"
+    }
+  ]
+}

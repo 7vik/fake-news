@@ -1,0 +1,266 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 665,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.507444,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Senator Schumer",
+      "sentiment": {
+        "score": 0.959722,
+        "label": "positive"
+      },
+      "relevance": 0.868606,
+      "emotion": {
+        "sadness": 0.435478,
+        "joy": 0.151747,
+        "fear": 0.011966,
+        "disgust": 0.200868,
+        "anger": 0.229967
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.996926,
+        "label": "negative"
+      },
+      "relevance": 0.731524,
+      "emotion": {
+        "sadness": 0.389801,
+        "joy": 0.035034,
+        "fear": 0.10403,
+        "disgust": 0.107381,
+        "anger": 0.370266
+      },
+      "count": 1
+    },
+    {
+      "text": "vocal critics",
+      "sentiment": {
+        "score": 0.959722,
+        "label": "positive"
+      },
+      "relevance": 0.725821,
+      "emotion": {
+        "sadness": 0.435478,
+        "joy": 0.151747,
+        "fear": 0.011966,
+        "disgust": 0.200868,
+        "anger": 0.229967
+      },
+      "count": 1
+    },
+    {
+      "text": "Senate Minority Leader Schumer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.705792,
+      "emotion": {
+        "sadness": 0.11188,
+        "joy": 0.07707,
+        "fear": 0.090774,
+        "disgust": 0.578335,
+        "anger": 0.261737
+      },
+      "count": 1
+    },
+    {
+      "text": "D-NY",
+      "sentiment": {
+        "score": -0.996926,
+        "label": "negative"
+      },
+      "relevance": 0.628267,
+      "emotion": {
+        "sadness": 0.389801,
+        "joy": 0.035034,
+        "fear": 0.10403,
+        "disgust": 0.107381,
+        "anger": 0.370266
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Senator Chuck Schumer",
+      "sentiment": {
+        "score": -0.114396,
+        "label": "negative"
+      },
+      "relevance": 0.921251,
+      "mentions": [
+        {
+          "text": "Schumer",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Senator Chuck Schumer",
+          "location": [
+            41,
+            62
+          ]
+        },
+        {
+          "text": "Schumer",
+          "location": [
+            242,
+            249
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            261,
+            263
+          ]
+        },
+        {
+          "text": "Senator Schumer",
+          "location": [
+            430,
+            445
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.122159,
+        "joy": 0.127978,
+        "fear": 0.075857,
+        "disgust": 0.458449,
+        "anger": 0.256293
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Senator"
+        ],
+        "name": "Chuck Schumer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chuck_Schumer"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.081355,
+        "label": "positive"
+      },
+      "relevance": 0.299396,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            99,
+            114
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            454,
+            459
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            504,
+            506
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.554579,
+        "joy": 0.065839,
+        "fear": 0.018272,
+        "disgust": 0.164101,
+        "anger": 0.373682
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "GOP",
+      "sentiment": {
+        "score": -0.632496,
+        "label": "negative"
+      },
+      "relevance": 0.123411,
+      "mentions": [
+        {
+          "text": "GOP",
+          "location": [
+            151,
+            154
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalParty"
+        ],
+        "name": "Republican Party (United States)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Democratic Party",
+      "relevance": 0.961483,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Chuck Schumer",
+      "relevance": 0.759958,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chuck_Schumer"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.677575,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Party leaders of the United States Senate",
+      "relevance": 0.594831,
+      "dbpedia_resource": "http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate"
+    },
+    {
+      "text": "111th United States Congress",
+      "relevance": 0.591794,
+      "dbpedia_resource": "http://dbpedia.org/resource/111th_United_States_Congress"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.88632,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

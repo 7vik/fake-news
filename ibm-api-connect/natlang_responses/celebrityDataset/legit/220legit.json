@@ -1,0 +1,156 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 90,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.83075,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner cries",
+      "sentiment": {
+        "score": -0.83075,
+        "label": "negative"
+      },
+      "relevance": 0.99064,
+      "emotion": {
+        "sadness": 0.66873,
+        "joy": 0.047658,
+        "fear": 0.052909,
+        "disgust": 0.064997,
+        "anger": 0.085644
+      },
+      "count": 1
+    },
+    {
+      "text": "Pepsi ad backlash",
+      "sentiment": {
+        "score": -0.83075,
+        "label": "negative"
+      },
+      "relevance": 0.278325,
+      "emotion": {
+        "sadness": 0.66873,
+        "joy": 0.047658,
+        "fear": 0.052909,
+        "disgust": 0.064997,
+        "anger": 0.085644
+      },
+      "count": 1
+    },
+    {
+      "text": "Kardashians\u2019 premiere",
+      "sentiment": {
+        "score": -0.83075,
+        "label": "negative"
+      },
+      "relevance": 0.023913,
+      "emotion": {
+        "sadness": 0.66873,
+        "joy": 0.047658,
+        "fear": 0.052909,
+        "disgust": 0.064997,
+        "anger": 0.085644
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.365093,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.718143,
+        "joy": 0.035009,
+        "fear": 0.058276,
+        "disgust": 0.07528,
+        "anger": 0.080347
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Pepsi",
+      "sentiment": {
+        "score": -0.365093,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Pepsi",
+          "location": [
+            26,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.718143,
+        "joy": 0.035009,
+        "fear": 0.058276,
+        "disgust": 0.07528,
+        "anger": 0.080347
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.975791,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.971432,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.947149,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.945193,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.937786,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.602865,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

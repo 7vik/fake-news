@@ -1,0 +1,271 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 632,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.897988,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Harvard Law",
+      "sentiment": {
+        "score": 0.897988,
+        "label": "positive"
+      },
+      "relevance": 0.821699,
+      "emotion": {
+        "sadness": 0.126739,
+        "joy": 0.245234,
+        "fear": 0.229859,
+        "disgust": 0.168323,
+        "anger": 0.417
+      },
+      "count": 1
+    },
+    {
+      "text": "chief executives",
+      "sentiment": {
+        "score": 0.897988,
+        "label": "positive"
+      },
+      "relevance": 0.792569,
+      "emotion": {
+        "sadness": 0.164339,
+        "joy": 0.186056,
+        "fear": 0.295,
+        "disgust": 0.159512,
+        "anger": 0.39385
+      },
+      "count": 1
+    },
+    {
+      "text": "law school",
+      "sentiment": {
+        "score": 0.897988,
+        "label": "positive"
+      },
+      "relevance": 0.74039,
+      "emotion": {
+        "sadness": 0.164339,
+        "joy": 0.186056,
+        "fear": 0.295,
+        "disgust": 0.159512,
+        "anger": 0.39385
+      },
+      "count": 2
+    },
+    {
+      "text": "President Barack Obama",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.72537,
+      "emotion": {
+        "sadness": 0.164339,
+        "joy": 0.186056,
+        "fear": 0.295,
+        "disgust": 0.159512,
+        "anger": 0.39385
+      },
+      "count": 1
+    },
+    {
+      "text": "United States",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.610672,
+      "emotion": {
+        "sadness": 0.164339,
+        "joy": 0.186056,
+        "fear": 0.295,
+        "disgust": 0.159512,
+        "anger": 0.39385
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Harvard Law School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.836803,
+      "mentions": [
+        {
+          "text": "Harvard Law",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Harvard Law School",
+          "location": [
+            72,
+            90
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.176717,
+        "joy": 0.137216,
+        "fear": 0.207871,
+        "disgust": 0.177478,
+        "anger": 0.183885
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Harvard Law School",
+        "dbpedia_resource": "http://dbpedia.org/resource/Harvard_Law_School"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "James E. Rogers College of Law",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.444796,
+      "mentions": [
+        {
+          "text": "James E. Rogers College of Law",
+          "location": [
+            566,
+            596
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.340911,
+        "joy": 0.258612,
+        "fear": 0.241293,
+        "disgust": 0.180305,
+        "anger": 0.118807
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "James E. Rogers College of Law",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_E._Rogers_College_of_Law"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Chief Justice John G. Roberts Jr.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.411728,
+      "mentions": [
+        {
+          "text": "Chief Justice John G. Roberts Jr.",
+          "location": [
+            377,
+            410
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.088605,
+        "joy": 0.1733,
+        "fear": 0.138729,
+        "disgust": 0.162232,
+        "anger": 0.307624
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Barack Obama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.335775,
+      "mentions": [
+        {
+          "text": "Barack Obama",
+          "location": [
+            425,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.088605,
+        "joy": 0.1733,
+        "fear": 0.138729,
+        "disgust": 0.162232,
+        "anger": 0.307624
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.97944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Harvard Law School",
+      "relevance": 0.873112,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harvard_Law_School"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.858369,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.781032,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Harvard Law Review",
+      "relevance": 0.651514,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harvard_Law_Review"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.732536,
+      "label": "/education/graduate school"
+    }
+  ]
+}

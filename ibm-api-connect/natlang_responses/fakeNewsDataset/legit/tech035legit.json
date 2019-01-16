@@ -1,0 +1,286 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 702,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.865458,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Republican senators",
+      "sentiment": {
+        "score": -0.847652,
+        "label": "negative"
+      },
+      "relevance": 0.711518,
+      "emotion": {
+        "sadness": 0.224544,
+        "joy": 0.329945,
+        "fear": 0.030718,
+        "disgust": 0.273252,
+        "anger": 0.225571
+      },
+      "count": 1
+    },
+    {
+      "text": "Congress Moves",
+      "sentiment": {
+        "score": -0.847652,
+        "label": "negative"
+      },
+      "relevance": 0.711414,
+      "emotion": {
+        "sadness": 0.378737,
+        "joy": 0.098734,
+        "fear": 0.221994,
+        "disgust": 0.185094,
+        "anger": 0.284509
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.881321,
+        "label": "negative"
+      },
+      "relevance": 0.711273,
+      "emotion": {
+        "sadness": 0.331261,
+        "joy": 0.171032,
+        "fear": 0.053807,
+        "disgust": 0.094037,
+        "anger": 0.154732
+      },
+      "count": 1
+    },
+    {
+      "text": "Obama administration",
+      "sentiment": {
+        "score": -0.847652,
+        "label": "negative"
+      },
+      "relevance": 0.646377,
+      "emotion": {
+        "sadness": 0.224544,
+        "joy": 0.329945,
+        "fear": 0.030718,
+        "disgust": 0.273252,
+        "anger": 0.225571
+      },
+      "count": 1
+    },
+    {
+      "text": "first decisive strike",
+      "sentiment": {
+        "score": -0.847652,
+        "label": "negative"
+      },
+      "relevance": 0.634204,
+      "emotion": {
+        "sadness": 0.224544,
+        "joy": 0.329945,
+        "fear": 0.030718,
+        "disgust": 0.273252,
+        "anger": 0.225571
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Obama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.899508,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            53,
+            58
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.378737,
+        "joy": 0.098734,
+        "fear": 0.221994,
+        "disgust": 0.185094,
+        "anger": 0.284509
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Obama administration",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.890675,
+      "mentions": [
+        {
+          "text": "Obama administration",
+          "location": [
+            278,
+            298
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.304221,
+        "joy": 0.260761,
+        "fear": 0.057411,
+        "disgust": 0.190838,
+        "anger": 0.217602
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Congress",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.581141,
+      "mentions": [
+        {
+          "text": "Congress",
+          "location": [
+            0,
+            8
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.378737,
+        "joy": 0.098734,
+        "fear": 0.221994,
+        "disgust": 0.185094,
+        "anger": 0.284509
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Verizon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.577231,
+      "mentions": [
+        {
+          "text": "Verizon",
+          "location": [
+            528,
+            535
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240323,
+        "joy": 0.350479,
+        "fear": 0.07289,
+        "disgust": 0.051761,
+        "anger": 0.149133
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Verizon Communications",
+        "dbpedia_resource": "http://dbpedia.org/resource/Verizon_Communications"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Comcast",
+      "sentiment": {
+        "score": -0.278281,
+        "label": "negative"
+      },
+      "relevance": 0.565962,
+      "mentions": [
+        {
+          "text": "Comcast",
+          "location": [
+            537,
+            544
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.362663,
+        "joy": 0.107109,
+        "fear": 0.006177,
+        "disgust": 0.099563,
+        "anger": 0.202626
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Comcast",
+        "dbpedia_resource": "http://dbpedia.org/resource/Comcast"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Senate",
+      "relevance": 0.964828,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.769577,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Republican Party",
+      "relevance": 0.730922,
+      "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.659375,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.645336,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.987958,
+      "label": "/technology and computing/internet technology"
+    }
+  ]
+}

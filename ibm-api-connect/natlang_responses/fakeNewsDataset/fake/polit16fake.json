@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 726,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.753379,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Republican counterparts' failure",
+      "sentiment": {
+        "score": -0.944213,
+        "label": "negative"
+      },
+      "relevance": 0.820974,
+      "emotion": {
+        "sadness": 0.529103,
+        "joy": 0.030527,
+        "fear": 0.073572,
+        "disgust": 0.381115,
+        "anger": 0.159693
+      },
+      "count": 1
+    },
+    {
+      "text": "American people",
+      "sentiment": {
+        "score": -0.692523,
+        "label": "negative"
+      },
+      "relevance": 0.706711,
+      "emotion": {
+        "sadness": 0.345866,
+        "joy": 0.266824,
+        "fear": 0.039984,
+        "disgust": 0.321425,
+        "anger": 0.230581
+      },
+      "count": 1
+    },
+    {
+      "text": "deputy chairman of the Democratic National Committee",
+      "sentiment": {
+        "score": -0.503256,
+        "label": "negative"
+      },
+      "relevance": 0.678624,
+      "emotion": {
+        "sadness": 0.28442,
+        "joy": 0.223017,
+        "fear": 0.007025,
+        "disgust": 0.430199,
+        "anger": 0.210771
+      },
+      "count": 1
+    },
+    {
+      "text": "Democratic lawmakers",
+      "sentiment": {
+        "score": -0.944213,
+        "label": "negative"
+      },
+      "relevance": 0.648501,
+      "emotion": {
+        "sadness": 0.529103,
+        "joy": 0.030527,
+        "fear": 0.073572,
+        "disgust": 0.381115,
+        "anger": 0.159693
+      },
+      "count": 1
+    },
+    {
+      "text": "New Day",
+      "sentiment": {
+        "score": -0.503256,
+        "label": "negative"
+      },
+      "relevance": 0.637597,
+      "emotion": {
+        "sadness": 0.28442,
+        "joy": 0.223017,
+        "fear": 0.007025,
+        "disgust": 0.430199,
+        "anger": 0.210771
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rep. Keith Ellison",
+      "sentiment": {
+        "score": -0.405918,
+        "label": "negative"
+      },
+      "relevance": 0.939918,
+      "mentions": [
+        {
+          "text": "Ellison",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Rep. Keith Ellison",
+          "location": [
+            185,
+            203
+          ]
+        },
+        {
+          "text": "Ellison",
+          "location": [
+            712,
+            719
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.19583,
+        "joy": 0.449907,
+        "fear": 0.02229,
+        "disgust": 0.075949,
+        "anger": 0.067096
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Keith Ellison",
+        "dbpedia_resource": "http://dbpedia.org/resource/Keith_Ellison"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "CNN",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.551615,
+      "mentions": [
+        {
+          "text": "CNN",
+          "location": [
+            70,
+            73
+          ]
+        },
+        {
+          "text": "CNN",
+          "location": [
+            229,
+            232
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119208,
+        "joy": 0.124998,
+        "fear": 0.034129,
+        "disgust": 0.074721,
+        "anger": 0.110534
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardWinner",
+          "RadioNetwork",
+          "TVNetwork"
+        ],
+        "name": "CNN",
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Democratic National Committee",
+      "sentiment": {
+        "score": 0.403322,
+        "label": "positive"
+      },
+      "relevance": 0.547381,
+      "mentions": [
+        {
+          "text": "Democratic National Committee",
+          "location": [
+            313,
+            342
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.382703,
+        "joy": 0.09655,
+        "fear": 0.015551,
+        "disgust": 0.443281,
+        "anger": 0.256383
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Democratic National Committee",
+        "dbpedia_resource": "http://dbpedia.org/resource/Democratic_National_Committee"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Chris Cuomo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.44696,
+      "mentions": [
+        {
+          "text": "Chris Cuomo",
+          "location": [
+            250,
+            261
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Chris Cuomo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Cuomo"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "deputy chairman",
+      "sentiment": {
+        "score": 0.403322,
+        "label": "positive"
+      },
+      "relevance": 0.424657,
+      "mentions": [
+        {
+          "text": "deputy chairman",
+          "location": [
+            290,
+            305
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.382703,
+        "joy": 0.09655,
+        "fear": 0.015551,
+        "disgust": 0.443281,
+        "anger": 0.256383
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Minnesota",
+      "relevance": 0.972878,
+      "dbpedia_resource": "http://dbpedia.org/resource/Minnesota"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.797829,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "United States presidential election, 2008",
+      "relevance": 0.698454,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_presidential_election,_2008"
+    },
+    {
+      "text": "Nancy Pelosi",
+      "relevance": 0.685402,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nancy_Pelosi"
+    },
+    {
+      "text": "Barbara Boxer",
+      "relevance": 0.65902,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barbara_Boxer"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.918211,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

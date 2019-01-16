@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 542,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.913476,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "former President Barack Obama",
+      "sentiment": {
+        "score": -0.997306,
+        "label": "negative"
+      },
+      "relevance": 0.912582,
+      "emotion": {
+        "sadness": 0.229843,
+        "joy": 0.1834,
+        "fear": 0.044171,
+        "disgust": 0.174805,
+        "anger": 0.153219
+      },
+      "count": 1
+    },
+    {
+      "text": "FBI Director James Comey",
+      "sentiment": {
+        "score": -0.977558,
+        "label": "negative"
+      },
+      "relevance": 0.87798,
+      "emotion": {
+        "sadness": 0.408074,
+        "joy": 0.069669,
+        "fear": 0.136035,
+        "disgust": 0.280932,
+        "anger": 0.270355
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.997306,
+        "label": "negative"
+      },
+      "relevance": 0.855144,
+      "emotion": {
+        "sadness": 0.229843,
+        "joy": 0.1834,
+        "fear": 0.044171,
+        "disgust": 0.174805,
+        "anger": 0.153219
+      },
+      "count": 1
+    },
+    {
+      "text": "Obama administration",
+      "sentiment": {
+        "score": -0.98778,
+        "label": "negative"
+      },
+      "relevance": 0.768318,
+      "emotion": {
+        "sadness": 0.293676,
+        "joy": 0.159912,
+        "fear": 0.057513,
+        "disgust": 0.267985,
+        "anger": 0.262942
+      },
+      "count": 2
+    },
+    {
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": -0.877418,
+        "label": "negative"
+      },
+      "relevance": 0.702006,
+      "emotion": {
+        "sadness": 0.319938,
+        "joy": 0.13575,
+        "fear": 0.047016,
+        "disgust": 0.337178,
+        "anger": 0.239545
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.977887,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            7,
+            12
+          ]
+        },
+        {
+          "text": "President Donald Trump",
+          "location": [
+            69,
+            91
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.202383,
+        "joy": 0.108162,
+        "fear": 0.035008,
+        "disgust": 0.186104,
+        "anger": 0.148583
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Barack Obama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.615291,
+      "mentions": [
+        {
+          "text": "Obama",
+          "location": [
+            34,
+            39
+          ]
+        },
+        {
+          "text": "Barack Obama",
+          "location": [
+            129,
+            141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.202383,
+        "joy": 0.108162,
+        "fear": 0.035008,
+        "disgust": 0.186104,
+        "anger": 0.148583
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Obama administration",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.580909,
+      "mentions": [
+        {
+          "text": "Obama administration",
+          "location": [
+            170,
+            190
+          ]
+        },
+        {
+          "text": "Obama administration",
+          "location": [
+            464,
+            484
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.316835,
+        "joy": 0.137567,
+        "fear": 0.066456,
+        "disgust": 0.267526,
+        "anger": 0.263806
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": -0.276193,
+        "label": "negative"
+      },
+      "relevance": 0.571936,
+      "mentions": [
+        {
+          "text": "Trump Tower",
+          "location": [
+            321,
+            332
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.283621,
+        "joy": 0.128874,
+        "fear": 0.024685,
+        "disgust": 0.272194,
+        "anger": 0.223707
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Company",
+          "Building"
+        ],
+        "name": "Trump Tower (Tampa)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Trump_Tower_(Tampa)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Trump Tower.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.494488,
+      "mentions": [
+        {
+          "text": "Trump Tower.",
+          "location": [
+            202,
+            214
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.957014,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.883904,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Joe Biden",
+      "relevance": 0.858626,
+      "dbpedia_resource": "http://dbpedia.org/resource/Joe_Biden"
+    },
+    {
+      "text": "United States presidential election, 2008",
+      "relevance": 0.72576,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_presidential_election,_2008"
+    },
+    {
+      "text": "Presidency of Barack Obama",
+      "relevance": 0.679296,
+      "dbpedia_resource": "http://dbpedia.org/resource/Presidency_of_Barack_Obama"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.819159,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

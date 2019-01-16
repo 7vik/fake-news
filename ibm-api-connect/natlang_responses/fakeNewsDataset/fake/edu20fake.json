@@ -1,0 +1,210 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 648,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.231069,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lack of information",
+      "sentiment": {
+        "score": -0.833249,
+        "label": "negative"
+      },
+      "relevance": 0.757548,
+      "emotion": {
+        "sadness": 0.253339,
+        "joy": 0.153148,
+        "fear": 0.059176,
+        "disgust": 0.24937,
+        "anger": 0.147397
+      },
+      "count": 1
+    },
+    {
+      "text": "Google's philanthropic arm",
+      "sentiment": {
+        "score": 0.678699,
+        "label": "positive"
+      },
+      "relevance": 0.732581,
+      "emotion": {
+        "sadness": 0.117817,
+        "joy": 0.311404,
+        "fear": 0.175421,
+        "disgust": 0.038884,
+        "anger": 0.020082
+      },
+      "count": 1
+    },
+    {
+      "text": "Google",
+      "sentiment": {
+        "score": 0.297136,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.6777,
+      "emotion": {
+        "sadness": 0.361373,
+        "joy": 0.08796,
+        "fear": 0.28982,
+        "disgust": 0.108583,
+        "anger": 0.03367
+      },
+      "count": 4
+    },
+    {
+      "text": "today",
+      "sentiment": {
+        "score": 0.678699,
+        "label": "positive"
+      },
+      "relevance": 0.629676,
+      "emotion": {
+        "sadness": 0.117817,
+        "joy": 0.311404,
+        "fear": 0.175421,
+        "disgust": 0.038884,
+        "anger": 0.020082
+      },
+      "count": 1
+    },
+    {
+      "text": "future funding",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.625242,
+      "emotion": {
+        "sadness": 0.446596,
+        "joy": 0.037526,
+        "fear": 0.134035,
+        "disgust": 0.048734,
+        "anger": 0.192041
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.308474,
+        "label": "positive"
+      },
+      "relevance": 0.926262,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            257,
+            263
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            318,
+            324
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            588,
+            594
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.304605,
+        "joy": 0.02616,
+        "fear": 0.108986,
+        "disgust": 0.158016,
+        "anger": 0.196854
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "$50 million",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.926262,
+      "mentions": [
+        {
+          "text": "$50 million",
+          "location": [
+            220,
+            231
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Philanthropy",
+      "relevance": 0.936404,
+      "dbpedia_resource": "http://dbpedia.org/resource/Philanthropy"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.808803,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Learning",
+      "relevance": 0.75981,
+      "dbpedia_resource": "http://dbpedia.org/resource/Learning"
+    },
+    {
+      "text": "Request for Comments",
+      "relevance": 0.6764,
+      "dbpedia_resource": "http://dbpedia.org/resource/Request_for_Comments"
+    },
+    {
+      "text": "Grants",
+      "relevance": 0.65816,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grants"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994874,
+      "label": "/education/special education"
+    }
+  ]
+}

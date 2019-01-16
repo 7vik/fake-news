@@ -1,0 +1,321 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 981,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.519014,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kentucky Tops U.C.L.A.",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.769426,
+      "emotion": {
+        "sadness": 0.071819,
+        "joy": 0.729724,
+        "fear": 0.018466,
+        "disgust": 0.043536,
+        "anger": 0.106845
+      },
+      "count": 1
+    },
+    {
+      "text": "halftime  Kentucky Coach John Calipari",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.741267,
+      "emotion": {
+        "sadness": 0.1692,
+        "joy": 0.143934,
+        "fear": 0.03218,
+        "disgust": 0.029534,
+        "anger": 0.230048
+      },
+      "count": 1
+    },
+    {
+      "text": "John Calipari",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.738567,
+      "emotion": {
+        "sadness": 0.078956,
+        "joy": 0.587806,
+        "fear": 0.012509,
+        "disgust": 0.021646,
+        "anger": 0.205928
+      },
+      "count": 1
+    },
+    {
+      "text": "Sunday afternoon  Kentucky",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.712193,
+      "emotion": {
+        "sadness": 0.116921,
+        "joy": 0.66918,
+        "fear": 0.069458,
+        "disgust": 0.024511,
+        "anger": 0.043191
+      },
+      "count": 1
+    },
+    {
+      "text": "De'Aaron Fox",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.681273,
+      "emotion": {
+        "sadness": 0.222449,
+        "joy": 0.193082,
+        "fear": 0.157183,
+        "disgust": 0.166691,
+        "anger": 0.073662
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Coach John Calipari",
+      "sentiment": {
+        "score": 0.872102,
+        "label": "positive"
+      },
+      "relevance": 0.891006,
+      "mentions": [
+        {
+          "text": "John Calipari",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Coach John Calipari",
+          "location": [
+            94,
+            113
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            196,
+            198
+          ]
+        },
+        {
+          "text": "Calipari",
+          "location": [
+            566,
+            574
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            616,
+            619
+          ]
+        },
+        {
+          "text": "Calipari",
+          "location": [
+            897,
+            905
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.417733,
+        "joy": 0.339365,
+        "fear": 0.014855,
+        "disgust": 0.065103,
+        "anger": 0.278053
+      },
+      "disambiguation": {
+        "subtype": [
+          "BasketballCoach",
+          "BasketballPlayer",
+          "CollegeCoach"
+        ],
+        "name": "John Calipari",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Calipari"
+      },
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "Kentucky",
+      "sentiment": {
+        "score": 0.872102,
+        "label": "positive"
+      },
+      "relevance": 0.794094,
+      "mentions": [
+        {
+          "text": "Kentucky",
+          "location": [
+            49,
+            57
+          ]
+        },
+        {
+          "text": "Kentucky",
+          "location": [
+            85,
+            93
+          ]
+        },
+        {
+          "text": "Kentucky",
+          "location": [
+            398,
+            406
+          ]
+        },
+        {
+          "text": "Kentucky",
+          "location": [
+            762,
+            770
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.089345,
+        "joy": 0.762207,
+        "fear": 0.018552,
+        "disgust": 0.020396,
+        "anger": 0.085264
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Fox",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.411919,
+      "mentions": [
+        {
+          "text": "De'Aaron Fox",
+          "location": [
+            293,
+            305
+          ]
+        },
+        {
+          "text": "Fox",
+          "location": [
+            439,
+            442
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.548386,
+        "joy": 0.114156,
+        "fear": 0.12606,
+        "disgust": 0.188106,
+        "anger": 0.182592
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "FedEx Forum",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.345095,
+      "mentions": [
+        {
+          "text": "FedEx Forum",
+          "location": [
+            426,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211443,
+        "joy": 0.356658,
+        "fear": 0.102805,
+        "disgust": 0.075818,
+        "anger": 0.035279
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Stadium",
+          "SportsFacility"
+        ],
+        "name": "FedExForum",
+        "dbpedia_resource": "http://dbpedia.org/resource/FedExForum"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "John Calipari",
+      "relevance": 0.971962,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_Calipari"
+    },
+    {
+      "text": "Kentucky Wildcats men's basketball",
+      "relevance": 0.937309,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball"
+    },
+    {
+      "text": "Memphis Tigers basketball",
+      "relevance": 0.803424,
+      "dbpedia_resource": "http://dbpedia.org/resource/Memphis_Tigers_basketball"
+    },
+    {
+      "text": "Play",
+      "relevance": 0.779834,
+      "dbpedia_resource": "http://dbpedia.org/resource/Play_(activity)"
+    },
+    {
+      "text": "Southeastern Conference",
+      "relevance": 0.776134,
+      "dbpedia_resource": "http://dbpedia.org/resource/Southeastern_Conference"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.863636,
+      "label": "/sports/basketball"
+    }
+  ]
+}

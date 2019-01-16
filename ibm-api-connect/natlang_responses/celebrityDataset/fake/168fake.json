@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Push Gift",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644837,
+      "emotion": {
+        "sadness": 0.409578,
+        "joy": 0.302394,
+        "fear": 0.019901,
+        "disgust": 0.027894,
+        "anger": 0.20437
+      },
+      "count": 1
+    },
+    {
+      "text": "Kevin Hart Begs Wife Eniko Parrish",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.614486,
+      "emotion": {
+        "sadness": 0.409578,
+        "joy": 0.302394,
+        "fear": 0.019901,
+        "disgust": 0.027894,
+        "anger": 0.20437
+      },
+      "count": 1
+    },
+    {
+      "text": "Forgiveness",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.594309,
+      "emotion": {
+        "sadness": 0.409578,
+        "joy": 0.302394,
+        "fear": 0.019901,
+        "disgust": 0.027894,
+        "anger": 0.20437
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kevin Hart",
+      "sentiment": {
+        "score": 0.556818,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kevin Hart",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.409578,
+        "joy": 0.302394,
+        "fear": 0.019901,
+        "disgust": 0.027894,
+        "anger": 0.20437
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Eniko Parrish",
+      "sentiment": {
+        "score": 0.556818,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Eniko Parrish",
+          "location": [
+            21,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.409578,
+        "joy": 0.302394,
+        "fear": 0.019901,
+        "disgust": 0.027894,
+        "anger": 0.20437
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$250000",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "$250000",
+          "location": [
+            56,
+            63
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.861154,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.604986,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

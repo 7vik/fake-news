@@ -1,0 +1,300 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1222,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.484624,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.897551,
+        "label": "negative"
+      },
+      "relevance": 0.746315,
+      "emotion": {
+        "sadness": 0.50751,
+        "joy": 0.083827,
+        "fear": 0.311894,
+        "disgust": 0.354312,
+        "anger": 0.068792
+      },
+      "count": 2
+    },
+    {
+      "text": "bare butt bikini photos",
+      "sentiment": {
+        "score": -0.276464,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.710198,
+      "emotion": {
+        "sadness": 0.408816,
+        "joy": 0.06964,
+        "fear": 0.319467,
+        "disgust": 0.467675,
+        "anger": 0.076322
+      },
+      "count": 2
+    },
+    {
+      "text": "wife of Kanye West",
+      "sentiment": {
+        "score": 0.57164,
+        "label": "positive"
+      },
+      "relevance": 0.670703,
+      "emotion": {
+        "sadness": 0.217069,
+        "joy": 0.303729,
+        "fear": 0.069041,
+        "disgust": 0.349651,
+        "anger": 0.086151
+      },
+      "count": 1
+    },
+    {
+      "text": "alleged insider",
+      "sentiment": {
+        "score": -0.824152,
+        "label": "negative"
+      },
+      "relevance": 0.654821,
+      "emotion": {
+        "sadness": 0.408776,
+        "joy": 0.072316,
+        "fear": 0.440767,
+        "disgust": 0.146606,
+        "anger": 0.157502
+      },
+      "count": 1
+    },
+    {
+      "text": "Mexican getaway",
+      "sentiment": {
+        "score": -0.276464,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.645391,
+      "emotion": {
+        "sadness": 0.408816,
+        "joy": 0.06964,
+        "fear": 0.319467,
+        "disgust": 0.467675,
+        "anger": 0.076322
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.910245,
+      "mentions": [
+        {
+          "text": "36-year",
+          "location": [
+            423,
+            430
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.816383,
+        "joy": 0.1303,
+        "fear": 0.065529,
+        "disgust": 0.013011,
+        "anger": 0.106333
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kourtney Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.413151,
+      "mentions": [
+        {
+          "text": "Kardashian",
+          "location": [
+            233,
+            243
+          ]
+        },
+        {
+          "text": "Kourtney Kardashian",
+          "location": [
+            390,
+            409
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Kourtney Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Velashape",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.36013,
+      "mentions": [
+        {
+          "text": "Velashape",
+          "location": [
+            1104,
+            1113
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            1139,
+            1142
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153969,
+        "joy": 0.143602,
+        "fear": 0.091179,
+        "disgust": 0.370795,
+        "anger": 0.120816
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.606716,
+        "label": "negative"
+      },
+      "relevance": 0.353471,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            1016,
+            1026
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.341319,
+        "joy": 0.200022,
+        "fear": 0.278433,
+        "disgust": 0.390832,
+        "anger": 0.066965
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Coolsculpting",
+      "sentiment": {
+        "score": -0.538807,
+        "label": "negative"
+      },
+      "relevance": 0.267205,
+      "mentions": [
+        {
+          "text": "Coolsculpting",
+          "location": [
+            1124,
+            1137
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.971118,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.900336,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.892145,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.668423,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

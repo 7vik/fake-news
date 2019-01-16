@@ -1,0 +1,237 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 664,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.826098,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "EU Nationals",
+      "sentiment": {
+        "score": -0.982862,
+        "label": "negative"
+      },
+      "relevance": 0.888985,
+      "emotion": {
+        "sadness": 0.474975,
+        "joy": 0.035313,
+        "fear": 0.055515,
+        "disgust": 0.257538,
+        "anger": 0.297553
+      },
+      "count": 1
+    },
+    {
+      "text": "EU officials",
+      "sentiment": {
+        "score": -0.893585,
+        "label": "negative"
+      },
+      "relevance": 0.771572,
+      "emotion": {
+        "sadness": 0.505658,
+        "joy": 0.004467,
+        "fear": 0.114068,
+        "disgust": 0.438811,
+        "anger": 0.309495
+      },
+      "count": 1
+    },
+    {
+      "text": "total slavery of the middle class",
+      "sentiment": {
+        "score": -0.861197,
+        "label": "negative"
+      },
+      "relevance": 0.741933,
+      "emotion": {
+        "sadness": 0.279479,
+        "joy": 0.177706,
+        "fear": 0.168362,
+        "disgust": 0.144833,
+        "anger": 0.320161
+      },
+      "count": 1
+    },
+    {
+      "text": "restaurants",
+      "sentiment": {
+        "score": -0.712372,
+        "label": "negative"
+      },
+      "relevance": 0.626904,
+      "emotion": {
+        "sadness": 0.047433,
+        "joy": 0.07401,
+        "fear": 0.13042,
+        "disgust": 0.153074,
+        "anger": 0.013382
+      },
+      "count": 2
+    },
+    {
+      "text": "fewer nationals",
+      "sentiment": {
+        "score": -0.893585,
+        "label": "negative"
+      },
+      "relevance": 0.587919,
+      "emotion": {
+        "sadness": 0.505658,
+        "joy": 0.004467,
+        "fear": 0.114068,
+        "disgust": 0.438811,
+        "anger": 0.309495
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "EU",
+      "sentiment": {
+        "score": -0.599643,
+        "label": "negative"
+      },
+      "relevance": 0.961495,
+      "mentions": [
+        {
+          "text": "EU",
+          "location": [
+            0,
+            2
+          ]
+        },
+        {
+          "text": "EU",
+          "location": [
+            226,
+            228
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.478444,
+        "joy": 0.010555,
+        "fear": 0.078322,
+        "disgust": 0.366382,
+        "anger": 0.413592
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Brexit",
+      "sentiment": {
+        "score": -0.664116,
+        "label": "negative"
+      },
+      "relevance": 0.435782,
+      "mentions": [
+        {
+          "text": "Brexit",
+          "location": [
+            30,
+            36
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.474975,
+        "joy": 0.035313,
+        "fear": 0.055515,
+        "disgust": 0.257538,
+        "anger": 0.297553
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.393209,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            195,
+            197
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136181,
+        "joy": 0.100509,
+        "fear": 0.032424,
+        "disgust": 0.225118,
+        "anger": 0.051323
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.907422,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Force",
+      "relevance": 0.899927,
+      "dbpedia_resource": "http://dbpedia.org/resource/Force"
+    },
+    {
+      "text": "Middle class",
+      "relevance": 0.885378,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_class"
+    },
+    {
+      "text": "Social class",
+      "relevance": 0.863268,
+      "dbpedia_resource": "http://dbpedia.org/resource/Social_class"
+    },
+    {
+      "text": "Work",
+      "relevance": 0.833566,
+      "dbpedia_resource": "http://dbpedia.org/resource/Work_(physics)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.759328,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

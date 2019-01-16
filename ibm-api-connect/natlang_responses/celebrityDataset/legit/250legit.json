@@ -1,0 +1,133 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 108,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.873468,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": -0.873468,
+        "label": "negative"
+      },
+      "relevance": 0.999912,
+      "emotion": {
+        "sadness": 0.310856,
+        "joy": 0.089383,
+        "fear": 0.315603,
+        "disgust": 0.215003,
+        "anger": 0.206601
+      },
+      "count": 1
+    },
+    {
+      "text": "family ties",
+      "sentiment": {
+        "score": -0.873468,
+        "label": "negative"
+      },
+      "relevance": 0.946642,
+      "emotion": {
+        "sadness": 0.310856,
+        "joy": 0.089383,
+        "fear": 0.315603,
+        "disgust": 0.215003,
+        "anger": 0.206601
+      },
+      "count": 1
+    },
+    {
+      "text": "false rumors",
+      "sentiment": {
+        "score": -0.873468,
+        "label": "negative"
+      },
+      "relevance": 0.482176,
+      "emotion": {
+        "sadness": 0.310856,
+        "joy": 0.089383,
+        "fear": 0.315603,
+        "disgust": 0.215003,
+        "anger": 0.206601
+      },
+      "count": 1
+    },
+    {
+      "text": "candid memoir",
+      "sentiment": {
+        "score": -0.873468,
+        "label": "negative"
+      },
+      "relevance": 0.060492,
+      "emotion": {
+        "sadness": 0.310856,
+        "joy": 0.089383,
+        "fear": 0.315603,
+        "disgust": 0.215003,
+        "anger": 0.206601
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": -0.583273,
+        "label": "negative"
+      },
+      "relevance": 0.9723,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            36,
+            39
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.37203,
+        "joy": 0.071734,
+        "fear": 0.312323,
+        "disgust": 0.231617,
+        "anger": 0.200709
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Meredith Baxter",
+      "relevance": 0.830896,
+      "dbpedia_resource": "http://dbpedia.org/resource/Meredith_Baxter"
+    },
+    {
+      "text": "Situation comedy",
+      "relevance": 0.766033,
+      "dbpedia_resource": "http://dbpedia.org/resource/Situation_comedy"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.596105,
+      "label": "/society/gay life"
+    }
+  ]
+}

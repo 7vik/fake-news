@@ -1,0 +1,256 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 128,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.838474,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Keith Urban Jealous",
+      "sentiment": {
+        "score": -0.838474,
+        "label": "negative"
+      },
+      "relevance": 0.979317,
+      "emotion": {
+        "sadness": 0.124701,
+        "joy": 0.28885,
+        "fear": 0.030413,
+        "disgust": 0.43433,
+        "anger": 0.111074
+      },
+      "count": 1
+    },
+    {
+      "text": "Nicole Kidman",
+      "sentiment": {
+        "score": -0.838474,
+        "label": "negative"
+      },
+      "relevance": 0.950978,
+      "emotion": {
+        "sadness": 0.124701,
+        "joy": 0.28885,
+        "fear": 0.030413,
+        "disgust": 0.43433,
+        "anger": 0.111074
+      },
+      "count": 1
+    },
+    {
+      "text": "HBO",
+      "sentiment": {
+        "score": -0.838474,
+        "label": "negative"
+      },
+      "relevance": 0.586722,
+      "emotion": {
+        "sadness": 0.124701,
+        "joy": 0.28885,
+        "fear": 0.030413,
+        "disgust": 0.43433,
+        "anger": 0.111074
+      },
+      "count": 1
+    },
+    {
+      "text": "Cast Alexander Skarsgard",
+      "sentiment": {
+        "score": -0.838474,
+        "label": "negative"
+      },
+      "relevance": 0.527123,
+      "emotion": {
+        "sadness": 0.124701,
+        "joy": 0.28885,
+        "fear": 0.030413,
+        "disgust": 0.43433,
+        "anger": 0.111074
+      },
+      "count": 1
+    },
+    {
+      "text": "Love Interest",
+      "sentiment": {
+        "score": -0.838474,
+        "label": "negative"
+      },
+      "relevance": 0.302017,
+      "emotion": {
+        "sadness": 0.124701,
+        "joy": 0.28885,
+        "fear": 0.030413,
+        "disgust": 0.43433,
+        "anger": 0.111074
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nicole Kidman",
+      "sentiment": {
+        "score": 0.706096,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Nicole Kidman",
+          "location": [
+            21,
+            34
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            42,
+            45
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.105625,
+        "joy": 0.496694,
+        "fear": 0.018466,
+        "disgust": 0.349547,
+        "anger": 0.068332
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Nicole Kidman",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nicole_Kidman"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Keith Urban",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Keith Urban",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.085987,
+        "joy": 0.07586,
+        "fear": 0.076148,
+        "disgust": 0.141882,
+        "anger": 0.222096
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmCrewmember",
+          "Guitarist",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Keith Urban",
+        "dbpedia_resource": "http://dbpedia.org/resource/Keith_Urban"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alexander Skarsgard",
+      "sentiment": {
+        "score": 0.706096,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Alexander Skarsgard",
+          "location": [
+            65,
+            84
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180476,
+        "joy": 0.389225,
+        "fear": 0.033559,
+        "disgust": 0.391122,
+        "anger": 0.058006
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "FilmActor",
+          "FilmDirector",
+          "TVActor"
+        ],
+        "name": "Alexander Skarsg\u00e5rd",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexander_Skarsg\u00e5rd"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nicole Kidman",
+      "relevance": 0.934389,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicole_Kidman"
+    },
+    {
+      "text": "Keith Urban",
+      "relevance": 0.83646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keith_Urban"
+    },
+    {
+      "text": "1967 births",
+      "relevance": 0.782383,
+      "dbpedia_resource": "http://dbpedia.org/resource/1967_births"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.7629,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Moulin Rouge!",
+      "relevance": 0.6156,
+      "dbpedia_resource": "http://dbpedia.org/resource/Moulin_Rouge!"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.592792,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

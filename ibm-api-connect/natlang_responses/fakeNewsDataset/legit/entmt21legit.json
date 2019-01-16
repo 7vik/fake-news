@@ -1,0 +1,348 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 928,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.498446,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tomb Raider",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.80989,
+      "emotion": {
+        "sadness": 0.146162,
+        "joy": 0.537237,
+        "fear": 0.060836,
+        "disgust": 0.148633,
+        "anger": 0.139319
+      },
+      "count": 2
+    },
+    {
+      "text": "First pic of Alicia Vikander",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.805233,
+      "emotion": {
+        "sadness": 0.118501,
+        "joy": 0.318118,
+        "fear": 0.0598,
+        "disgust": 0.112237,
+        "anger": 0.13824
+      },
+      "count": 1
+    },
+    {
+      "text": "Swedish Oscar-winner",
+      "sentiment": {
+        "score": -0.368838,
+        "label": "negative"
+      },
+      "relevance": 0.718865,
+      "emotion": {
+        "sadness": 0.133916,
+        "joy": 0.403536,
+        "fear": 0.054354,
+        "disgust": 0.274245,
+        "anger": 0.107604
+      },
+      "count": 1
+    },
+    {
+      "text": "latest film",
+      "sentiment": {
+        "score": -0.368838,
+        "label": "negative"
+      },
+      "relevance": 0.71452,
+      "emotion": {
+        "sadness": 0.133916,
+        "joy": 0.403536,
+        "fear": 0.054354,
+        "disgust": 0.274245,
+        "anger": 0.107604
+      },
+      "count": 1
+    },
+    {
+      "text": "Lara Croft",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.653816,
+      "emotion": {
+        "sadness": 0.165758,
+        "joy": 0.469361,
+        "fear": 0.077018,
+        "disgust": 0.091067,
+        "anger": 0.09643
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lara Croft",
+      "sentiment": {
+        "score": 0.314465,
+        "label": "positive"
+      },
+      "relevance": 0.876936,
+      "mentions": [
+        {
+          "text": "Lara Croft",
+          "location": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "Lara Croft",
+          "location": [
+            145,
+            155
+          ]
+        },
+        {
+          "text": "Lara",
+          "location": [
+            547,
+            551
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            688,
+            691
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            704,
+            707
+          ]
+        },
+        {
+          "text": "Croft",
+          "location": [
+            823,
+            828
+          ]
+        },
+        {
+          "text": "Lara",
+          "location": [
+            864,
+            868
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.208149,
+        "joy": 0.611824,
+        "fear": 0.01828,
+        "disgust": 0.107355,
+        "anger": 0.098335
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Alicia Vikander",
+      "sentiment": {
+        "score": -0.019856,
+        "label": "negative"
+      },
+      "relevance": 0.478284,
+      "mentions": [
+        {
+          "text": "Alicia Vikander",
+          "location": [
+            26,
+            41
+          ]
+        },
+        {
+          "text": "Alicia Vikander",
+          "location": [
+            126,
+            141
+          ]
+        },
+        {
+          "text": "Vikander",
+          "location": [
+            489,
+            497
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.148151,
+        "joy": 0.617722,
+        "fear": 0.027063,
+        "disgust": 0.155155,
+        "anger": 0.083017
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alicia Vikander",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alicia_Vikander"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.840982,
+        "label": "negative"
+      },
+      "relevance": 0.236408,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            206,
+            220
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.133916,
+        "joy": 0.403536,
+        "fear": 0.054354,
+        "disgust": 0.274245,
+        "anger": 0.107604
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roar Uthaug",
+      "sentiment": {
+        "score": -0.556349,
+        "label": "negative"
+      },
+      "relevance": 0.227331,
+      "mentions": [
+        {
+          "text": "Roar Uthaug",
+          "location": [
+            448,
+            459
+          ]
+        },
+        {
+          "text": "Uthaug",
+          "location": [
+            767,
+            773
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.205329,
+        "joy": 0.183929,
+        "fear": 0.090782,
+        "disgust": 0.102385,
+        "anger": 0.11654
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Roar Uthaug",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roar_Uthaug"
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Vanity Fair",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.198637,
+      "mentions": [
+        {
+          "text": "Vanity Fair",
+          "location": [
+            735,
+            746
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lara Croft",
+      "relevance": 0.974258,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lara_Croft"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.9231,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Lara Croft: Tomb Raider",
+      "relevance": 0.852788,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lara_Croft:_Tomb_Raider"
+    },
+    {
+      "text": "Lara Croft Tomb Raider: The Cradle of Life",
+      "relevance": 0.78319,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lara_Croft_Tomb_Raider:_The_Cradle_of_Life"
+    },
+    {
+      "text": "Tomb Raider",
+      "relevance": 0.616631,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tomb_Raider"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.682192,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

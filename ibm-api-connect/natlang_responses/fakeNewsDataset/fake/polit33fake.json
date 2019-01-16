@@ -1,0 +1,347 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 688,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.342551,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "White Nationalist sympathizer Friedman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.960489,
+      "emotion": {
+        "sadness": 0.08792,
+        "joy": 0.136098,
+        "fear": 0.048955,
+        "disgust": 0.080062,
+        "anger": 0.012978
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump's choice",
+      "sentiment": {
+        "score": -0.935313,
+        "label": "negative"
+      },
+      "relevance": 0.763783,
+      "emotion": {
+        "sadness": 0.38439,
+        "joy": 0.199384,
+        "fear": 0.194,
+        "disgust": 0.098777,
+        "anger": 0.154881
+      },
+      "count": 1
+    },
+    {
+      "text": "David Friedman",
+      "sentiment": {
+        "score": -0.935313,
+        "label": "negative"
+      },
+      "relevance": 0.744551,
+      "emotion": {
+        "sadness": 0.38439,
+        "joy": 0.199384,
+        "fear": 0.194,
+        "disgust": 0.098777,
+        "anger": 0.154881
+      },
+      "count": 1
+    },
+    {
+      "text": "spite of Friedman",
+      "sentiment": {
+        "score": -0.935313,
+        "label": "negative"
+      },
+      "relevance": 0.709315,
+      "emotion": {
+        "sadness": 0.311023,
+        "joy": 0.160656,
+        "fear": 0.031355,
+        "disgust": 0.355945,
+        "anger": 0.130296
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. ambassador",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.704675,
+      "emotion": {
+        "sadness": 0.08208,
+        "joy": 0.65449,
+        "fear": 0.035017,
+        "disgust": 0.078941,
+        "anger": 0.021921
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "David Friedman",
+      "sentiment": {
+        "score": -0.533157,
+        "label": "negative"
+      },
+      "relevance": 0.846007,
+      "mentions": [
+        {
+          "text": "Friedman",
+          "location": [
+            30,
+            38
+          ]
+        },
+        {
+          "text": "David Friedman",
+          "location": [
+            137,
+            151
+          ]
+        },
+        {
+          "text": "Friedman",
+          "location": [
+            251,
+            259
+          ]
+        },
+        {
+          "text": "Friedman",
+          "location": [
+            289,
+            297
+          ]
+        },
+        {
+          "text": "Friedman",
+          "location": [
+            531,
+            539
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240786,
+        "joy": 0.149422,
+        "fear": 0.044844,
+        "disgust": 0.266671,
+        "anger": 0.086303
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.474775,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            79,
+            101
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            585,
+            590
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Israel",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.352571,
+      "mentions": [
+        {
+          "text": "Israel",
+          "location": [
+            71,
+            77
+          ]
+        },
+        {
+          "text": "Israel",
+          "location": [
+            129,
+            135
+          ]
+        },
+        {
+          "text": "Israel",
+          "location": [
+            375,
+            381
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136502,
+        "joy": 0.310893,
+        "fear": 0.053307,
+        "disgust": 0.100815,
+        "anger": 0.050007
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Senate",
+      "sentiment": {
+        "score": -0.225515,
+        "label": "negative"
+      },
+      "relevance": 0.224933,
+      "mentions": [
+        {
+          "text": "Senate",
+          "location": [
+            174,
+            180
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109687,
+        "joy": 0.088748,
+        "fear": 0.093533,
+        "disgust": 0.018775,
+        "anger": 0.033565
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody",
+          "Legislature"
+        ],
+        "name": "United States Senate",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Congress",
+      "sentiment": {
+        "score": 0.671254,
+        "label": "positive"
+      },
+      "relevance": 0.184919,
+      "mentions": [
+        {
+          "text": "Congress",
+          "location": [
+            444,
+            452
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076602,
+        "joy": 0.714635,
+        "fear": 0.013062,
+        "disgust": 0.071612,
+        "anger": 0.029079
+      },
+      "disambiguation": {
+        "subtype": [
+          "Dedicator",
+          "GovernmentalBody",
+          "Legislature",
+          "NaturalOrCulturalPreservationAgency"
+        ],
+        "name": "United States Congress",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nationalism",
+      "relevance": 0.978898,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nationalism"
+    },
+    {
+      "text": "United States Senate",
+      "relevance": 0.96411,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "United States Congress",
+      "relevance": 0.939525,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.906273,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.873996,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.838826,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

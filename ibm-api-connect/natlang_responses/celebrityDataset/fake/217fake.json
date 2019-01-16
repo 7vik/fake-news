@@ -1,0 +1,99 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.797319,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "CRAZY Delivery Plan Demands",
+      "sentiment": {
+        "score": -0.797319,
+        "label": "negative"
+      },
+      "relevance": 0.900278,
+      "emotion": {
+        "sadness": 0.348067,
+        "joy": 0.197964,
+        "fear": 0.008914,
+        "disgust": 0.018971,
+        "anger": 0.311105
+      },
+      "count": 1
+    },
+    {
+      "text": "Beyonce",
+      "sentiment": {
+        "score": -0.797319,
+        "label": "negative"
+      },
+      "relevance": 0.899735,
+      "emotion": {
+        "sadness": 0.348067,
+        "joy": 0.197964,
+        "fear": 0.008914,
+        "disgust": 0.018971,
+        "anger": 0.311105
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": -0.793567,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ali Larter",
+      "relevance": 0.834214,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ali_Larter"
+    },
+    {
+      "text": "Britney Spears",
+      "relevance": 0.805894,
+      "dbpedia_resource": "http://dbpedia.org/resource/Britney_Spears"
+    },
+    {
+      "text": "The Beyonc\u00e9 Experience",
+      "relevance": 0.796714,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Beyonc\u00e9_Experience"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.655149,
+      "label": "/business and industrial/business operations/business plans"
+    }
+  ]
+}

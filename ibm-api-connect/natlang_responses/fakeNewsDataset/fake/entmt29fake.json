@@ -1,0 +1,310 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 963,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.688974,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sean Spicer",
+      "sentiment": {
+        "score": -0.972306,
+        "label": "negative"
+      },
+      "relevance": 0.905031,
+      "emotion": {
+        "sadness": 0.520342,
+        "joy": 0.027187,
+        "fear": 0.077812,
+        "disgust": 0.328406,
+        "anger": 0.353339
+      },
+      "count": 1
+    },
+    {
+      "text": "entire White House Press Corps",
+      "sentiment": {
+        "score": -0.478151,
+        "label": "negative"
+      },
+      "relevance": 0.739566,
+      "emotion": {
+        "sadness": 0.364503,
+        "joy": 0.262674,
+        "fear": 0.033806,
+        "disgust": 0.309043,
+        "anger": 0.222437
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington bureau chief",
+      "sentiment": {
+        "score": -0.478151,
+        "label": "negative"
+      },
+      "relevance": 0.722189,
+      "emotion": {
+        "sadness": 0.364503,
+        "joy": 0.262674,
+        "fear": 0.033806,
+        "disgust": 0.309043,
+        "anger": 0.222437
+      },
+      "count": 1
+    },
+    {
+      "text": "American Urban Radio Networks",
+      "sentiment": {
+        "score": -0.478151,
+        "label": "negative"
+      },
+      "relevance": 0.665594,
+      "emotion": {
+        "sadness": 0.364503,
+        "joy": 0.262674,
+        "fear": 0.033806,
+        "disgust": 0.309043,
+        "anger": 0.222437
+      },
+      "count": 1
+    },
+    {
+      "text": "press time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.610396,
+      "emotion": {
+        "sadness": 0.134317,
+        "joy": 0.139167,
+        "fear": 0.145458,
+        "disgust": 0.112913,
+        "anger": 0.188312
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sean Spicer",
+      "sentiment": {
+        "score": -0.381505,
+        "label": "negative"
+      },
+      "relevance": 0.926888,
+      "mentions": [
+        {
+          "text": "Sean Spicer",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Sean Spicer",
+          "location": [
+            83,
+            94
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            207,
+            213
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            357,
+            359
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            482,
+            488
+          ]
+        },
+        {
+          "text": "Spicer",
+          "location": [
+            724,
+            730
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.532177,
+        "joy": 0.117307,
+        "fear": 0.119568,
+        "disgust": 0.139679,
+        "anger": 0.202382
+      },
+      "count": 6
+    },
+    {
+      "type": "Organization",
+      "text": "White House Press Office",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.365239,
+      "mentions": [
+        {
+          "text": "White House Press Office",
+          "location": [
+            919,
+            943
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130271,
+        "joy": 0.180835,
+        "fear": 0.216657,
+        "disgust": 0.108204,
+        "anger": 0.162535
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "White House Press Corps",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.351868,
+      "mentions": [
+        {
+          "text": "White House Press Corps",
+          "location": [
+            328,
+            351
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.369735,
+        "joy": 0.082974,
+        "fear": 0.180075,
+        "disgust": 0.214621,
+        "anger": 0.37674
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "reporter",
+      "sentiment": {
+        "score": -0.40863,
+        "label": "negative"
+      },
+      "relevance": 0.328207,
+      "mentions": [
+        {
+          "text": "reporter",
+          "location": [
+            18,
+            26
+          ]
+        },
+        {
+          "text": "reporter",
+          "location": [
+            102,
+            110
+          ]
+        },
+        {
+          "text": "reporter",
+          "location": [
+            175,
+            183
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.366967,
+        "joy": 0.088488,
+        "fear": 0.092341,
+        "disgust": 0.280831,
+        "anger": 0.396365
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "Press Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.278006,
+      "mentions": [
+        {
+          "text": "Press Secretary",
+          "location": [
+            67,
+            82
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17392,
+        "joy": 0.191274,
+        "fear": 0.125455,
+        "disgust": 0.169046,
+        "anger": 0.23285
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "White House Press Secretary",
+      "relevance": 0.985477,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House_Press_Secretary"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.767197,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Condoleezza Rice",
+      "relevance": 0.764002,
+      "dbpedia_resource": "http://dbpedia.org/resource/Condoleezza_Rice"
+    },
+    {
+      "text": "White House press corps",
+      "relevance": 0.739108,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House_press_corps"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.677352,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.690446,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

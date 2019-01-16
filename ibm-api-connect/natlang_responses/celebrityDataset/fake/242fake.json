@@ -1,0 +1,168 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 85,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.503701,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": -0.503701,
+        "label": "negative"
+      },
+      "relevance": 0.999883,
+      "emotion": {
+        "sadness": 0.35534,
+        "joy": 0.256918,
+        "fear": 0.14649,
+        "disgust": 0.171307,
+        "anger": 0.126919
+      },
+      "count": 1
+    },
+    {
+      "text": "Mystery Brunette",
+      "sentiment": {
+        "score": -0.503701,
+        "label": "negative"
+      },
+      "relevance": 0.345494,
+      "emotion": {
+        "sadness": 0.35534,
+        "joy": 0.256918,
+        "fear": 0.14649,
+        "disgust": 0.171307,
+        "anger": 0.126919
+      },
+      "count": 1
+    },
+    {
+      "text": "Divorce Rumors",
+      "sentiment": {
+        "score": -0.503701,
+        "label": "negative"
+      },
+      "relevance": 0.179616,
+      "emotion": {
+        "sadness": 0.35534,
+        "joy": 0.256918,
+        "fear": 0.14649,
+        "disgust": 0.171307,
+        "anger": 0.126919
+      },
+      "count": 1
+    },
+    {
+      "text": "Portia de Rossi",
+      "sentiment": {
+        "score": -0.503701,
+        "label": "negative"
+      },
+      "relevance": 0.095855,
+      "emotion": {
+        "sadness": 0.35534,
+        "joy": 0.256918,
+        "fear": 0.14649,
+        "disgust": 0.171307,
+        "anger": 0.126919
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres Dines",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres Dines",
+          "location": [
+            0,
+            21
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.35534,
+        "joy": 0.256918,
+        "fear": 0.14649,
+        "disgust": 0.171307,
+        "anger": 0.126919
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Portia de Rossi",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Portia de Rossi",
+          "location": [
+            69,
+            84
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.35534,
+        "joy": 0.256918,
+        "fear": 0.14649,
+        "disgust": 0.171307,
+        "anger": 0.126919
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "DietFollower",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Portia de Rossi",
+        "dbpedia_resource": "http://dbpedia.org/resource/Portia_de_Rossi"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.988619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    },
+    {
+      "text": "Portia de Rossi",
+      "relevance": 0.957352,
+      "dbpedia_resource": "http://dbpedia.org/resource/Portia_de_Rossi"
+    },
+    {
+      "text": "Lesbian actors",
+      "relevance": 0.517848,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lesbian_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.981422,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

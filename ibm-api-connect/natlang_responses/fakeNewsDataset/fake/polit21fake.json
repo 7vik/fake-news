@@ -1,0 +1,354 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1398,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.428507,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hilary Clinton",
+      "sentiment": {
+        "score": -0.382215,
+        "label": "negative"
+      },
+      "relevance": 0.673514,
+      "emotion": {
+        "sadness": 0.159514,
+        "joy": 0.151368,
+        "fear": 0.064816,
+        "disgust": 0.291139,
+        "anger": 0.492631
+      },
+      "count": 2
+    },
+    {
+      "text": "Green Party candidate",
+      "sentiment": {
+        "score": -0.338387,
+        "label": "negative"
+      },
+      "relevance": 0.628781,
+      "emotion": {
+        "sadness": 0.124976,
+        "joy": 0.607915,
+        "fear": 0.025685,
+        "disgust": 0.218315,
+        "anger": 0.039695
+      },
+      "count": 1
+    },
+    {
+      "text": "Judge Bailey-Rihn",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.625837,
+      "emotion": {
+        "sadness": 0.206725,
+        "joy": 0.096004,
+        "fear": 0.062195,
+        "disgust": 0.221568,
+        "anger": 0.433149
+      },
+      "count": 1
+    },
+    {
+      "text": "Judge",
+      "sentiment": {
+        "score": -0.679936,
+        "label": "negative"
+      },
+      "relevance": 0.604801,
+      "emotion": {
+        "sadness": 0.088954,
+        "joy": 0.238517,
+        "fear": 0.062966,
+        "disgust": 0.233066,
+        "anger": 0.563261
+      },
+      "count": 4
+    },
+    {
+      "text": "Reptilian shape shifter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.577429,
+      "emotion": {
+        "sadness": 0.206725,
+        "joy": 0.096004,
+        "fear": 0.062195,
+        "disgust": 0.221568,
+        "anger": 0.433149
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ms. Stein",
+      "sentiment": {
+        "score": -0.465836,
+        "label": "negative"
+      },
+      "relevance": 0.857975,
+      "mentions": [
+        {
+          "text": "Stein",
+          "location": [
+            12,
+            17
+          ]
+        },
+        {
+          "text": "Stein",
+          "location": [
+            166,
+            171
+          ]
+        },
+        {
+          "text": "Stein",
+          "location": [
+            283,
+            288
+          ]
+        },
+        {
+          "text": "Ms. Stein",
+          "location": [
+            670,
+            679
+          ]
+        },
+        {
+          "text": "Stein",
+          "location": [
+            727,
+            732
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.334516,
+        "joy": 0.035531,
+        "fear": 0.048484,
+        "disgust": 0.267942,
+        "anger": 0.589615
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Hilary Clinton",
+      "sentiment": {
+        "score": -0.396354,
+        "label": "negative"
+      },
+      "relevance": 0.576449,
+      "mentions": [
+        {
+          "text": "Hilary Clinton",
+          "location": [
+            510,
+            524
+          ]
+        },
+        {
+          "text": "Hilary Clinton",
+          "location": [
+            883,
+            897
+          ]
+        },
+        {
+          "text": "a possible pedophile",
+          "location": [
+            902,
+            922
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1085,
+            1088
+          ]
+        },
+        {
+          "text": "Ms. Clinton",
+          "location": [
+            1107,
+            1118
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134885,
+        "joy": 0.172609,
+        "fear": 0.124089,
+        "disgust": 0.190053,
+        "anger": 0.285176
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Valerie Bailey-Rihn",
+      "sentiment": {
+        "score": -0.433969,
+        "label": "negative"
+      },
+      "relevance": 0.447987,
+      "mentions": [
+        {
+          "text": "Valerie Bailey-Rihn",
+          "location": [
+            262,
+            281
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            397,
+            400
+          ]
+        },
+        {
+          "text": "Judge Bailey-Rihn",
+          "location": [
+            784,
+            801
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            870,
+            873
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074253,
+        "joy": 0.18504,
+        "fear": 0.104696,
+        "disgust": 0.306179,
+        "anger": 0.48627
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Dane County Circuit",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.245081,
+      "mentions": [
+        {
+          "text": "Dane County Circuit",
+          "location": [
+            236,
+            255
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035657,
+        "joy": 0.31719,
+        "fear": 0.064864,
+        "disgust": 0.095161,
+        "anger": 0.122226
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Green Party",
+      "sentiment": {
+        "score": 0.292962,
+        "label": "positive"
+      },
+      "relevance": 0.223718,
+      "mentions": [
+        {
+          "text": "Green Party",
+          "location": [
+            107,
+            118
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.091434,
+        "joy": 0.66259,
+        "fear": 0.042116,
+        "disgust": 0.128828,
+        "anger": 0.019846
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.989177,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.806038,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.781242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Kirsten Gillibrand",
+      "relevance": 0.759298,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kirsten_Gillibrand"
+    },
+    {
+      "text": "1947 births",
+      "relevance": 0.753374,
+      "dbpedia_resource": "http://dbpedia.org/resource/1947_births"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.721292,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

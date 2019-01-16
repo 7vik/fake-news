@@ -1,0 +1,77 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "PLOT TWIST",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.139139,
+        "joy": 0.402944,
+        "fear": 0.078109,
+        "disgust": 0.128641,
+        "anger": 0.32936
+      },
+      "count": 1
+    },
+    {
+      "text": "FATHER-SON' MOVIEMAKER MYSTERY",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.047318,
+      "emotion": {
+        "sadness": 0.139139,
+        "joy": 0.402944,
+        "fear": 0.078109,
+        "disgust": 0.128641,
+        "anger": 0.32936
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Literary technique",
+      "relevance": 0.902378,
+      "dbpedia_resource": "http://dbpedia.org/resource/Literary_technique"
+    },
+    {
+      "text": "Plot",
+      "relevance": 0.860144,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plot"
+    },
+    {
+      "text": "One Thousand and One Nights",
+      "relevance": 0.792079,
+      "dbpedia_resource": "http://dbpedia.org/resource/One_Thousand_and_One_Nights"
+    },
+    {
+      "text": "Twist ending",
+      "relevance": 0.72744,
+      "dbpedia_resource": "http://dbpedia.org/resource/Twist_ending"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.582986,
+      "label": "/hobbies and interests/games/board games and puzzles"
+    }
+  ]
+}

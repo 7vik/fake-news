@@ -1,0 +1,157 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.855077,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bonner Bolton",
+      "sentiment": {
+        "score": 0.855077,
+        "label": "positive"
+      },
+      "relevance": 0.810597,
+      "emotion": {
+        "sadness": 0.035388,
+        "joy": 0.654322,
+        "fear": 0.035302,
+        "disgust": 0.0153,
+        "anger": 0.01662
+      },
+      "count": 1
+    },
+    {
+      "text": "Stars",
+      "sentiment": {
+        "score": 0.855077,
+        "label": "positive"
+      },
+      "relevance": 0.711604,
+      "emotion": {
+        "sadness": 0.035388,
+        "joy": 0.654322,
+        "fear": 0.035302,
+        "disgust": 0.0153,
+        "anger": 0.01662
+      },
+      "count": 1
+    },
+    {
+      "text": "Heather Morris",
+      "sentiment": {
+        "score": 0.855077,
+        "label": "positive"
+      },
+      "relevance": 0.61148,
+      "emotion": {
+        "sadness": 0.035388,
+        "joy": 0.654322,
+        "fear": 0.035302,
+        "disgust": 0.0153,
+        "anger": 0.01662
+      },
+      "count": 1
+    },
+    {
+      "text": "Charo",
+      "sentiment": {
+        "score": 0.855077,
+        "label": "positive"
+      },
+      "relevance": 0.242976,
+      "emotion": {
+        "sadness": 0.035388,
+        "joy": 0.654322,
+        "fear": 0.035302,
+        "disgust": 0.0153,
+        "anger": 0.01662
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bonner Bolton",
+      "sentiment": {
+        "score": 0.478241,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Bonner Bolton",
+          "location": [
+            49,
+            62
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Heather Morris",
+      "sentiment": {
+        "score": 0.757345,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Heather Morris",
+          "location": [
+            64,
+            78
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128639,
+        "joy": 0.173707,
+        "fear": 0.078925,
+        "disgust": 0.059005,
+        "anger": 0.078401
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Heather Morris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Heather_Morris"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Year of birth missing",
+      "relevance": 0.846388,
+      "dbpedia_resource": "http://dbpedia.org/resource/Year_of_birth_missing_(living_people)"
+    },
+    {
+      "text": "England",
+      "relevance": 0.723213,
+      "dbpedia_resource": "http://dbpedia.org/resource/England"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.887838,
+      "label": "/sports/cheerleading"
+    }
+  ]
+}

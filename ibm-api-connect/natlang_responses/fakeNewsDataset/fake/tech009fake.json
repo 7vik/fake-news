@@ -1,0 +1,273 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 715,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.767053,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Impossible Foods lab",
+      "sentiment": {
+        "score": -0.869123,
+        "label": "negative"
+      },
+      "relevance": 0.821719,
+      "emotion": {
+        "sadness": 0.436234,
+        "joy": 0.314589,
+        "fear": 0.124801,
+        "disgust": 0.175709,
+        "anger": 0.040348
+      },
+      "count": 1
+    },
+    {
+      "text": "birthplace of a whole new industry",
+      "sentiment": {
+        "score": -0.662007,
+        "label": "negative"
+      },
+      "relevance": 0.802199,
+      "emotion": {
+        "sadness": 0.36483,
+        "joy": 0.454158,
+        "fear": 0.065996,
+        "disgust": 0.129307,
+        "anger": 0.062661
+      },
+      "count": 1
+    },
+    {
+      "text": "former Standford biochemistry professor",
+      "sentiment": {
+        "score": -0.662007,
+        "label": "negative"
+      },
+      "relevance": 0.683981,
+      "emotion": {
+        "sadness": 0.36483,
+        "joy": 0.454158,
+        "fear": 0.065996,
+        "disgust": 0.129307,
+        "anger": 0.062661
+      },
+      "count": 1
+    },
+    {
+      "text": "cattle farmers",
+      "sentiment": {
+        "score": -0.662007,
+        "label": "negative"
+      },
+      "relevance": 0.650425,
+      "emotion": {
+        "sadness": 0.36483,
+        "joy": 0.454158,
+        "fear": 0.065996,
+        "disgust": 0.129307,
+        "anger": 0.062661
+      },
+      "count": 1
+    },
+    {
+      "text": "Pat Brown",
+      "sentiment": {
+        "score": -0.662007,
+        "label": "negative"
+      },
+      "relevance": 0.621487,
+      "emotion": {
+        "sadness": 0.36483,
+        "joy": 0.454158,
+        "fear": 0.065996,
+        "disgust": 0.129307,
+        "anger": 0.062661
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Impossible Foods",
+      "sentiment": {
+        "score": -0.654293,
+        "label": "negative"
+      },
+      "relevance": 0.914694,
+      "mentions": [
+        {
+          "text": "Impossible foods",
+          "location": [
+            373,
+            389
+          ]
+        },
+        {
+          "text": "Impossible Foods",
+          "location": [
+            671,
+            687
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.308384,
+        "joy": 0.429116,
+        "fear": 0.04702,
+        "disgust": 0.284345,
+        "anger": 0.02105
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Impossible Burger",
+      "sentiment": {
+        "score": -0.677842,
+        "label": "negative"
+      },
+      "relevance": 0.854637,
+      "mentions": [
+        {
+          "text": "Impossible Burger",
+          "location": [
+            281,
+            298
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.6099,
+        "joy": 0.166362,
+        "fear": 0.04078,
+        "disgust": 0.282266,
+        "anger": 0.042877
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Pat Brown",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.295684,
+      "mentions": [
+        {
+          "text": "Pat Brown",
+          "location": [
+            604,
+            613
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.356468,
+        "joy": 0.373324,
+        "fear": 0.03602,
+        "disgust": 0.23748,
+        "anger": 0.084273
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Monsanto",
+      "sentiment": {
+        "score": -0.677842,
+        "label": "negative"
+      },
+      "relevance": 0.292128,
+      "mentions": [
+        {
+          "text": "Monsanto",
+          "location": [
+            268,
+            276
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.6099,
+        "joy": 0.166362,
+        "fear": 0.04078,
+        "disgust": 0.282266,
+        "anger": 0.042877
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Monsanto",
+        "dbpedia_resource": "http://dbpedia.org/resource/Monsanto"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.240546,
+      "mentions": [
+        {
+          "text": "CEO",
+          "location": [
+            710,
+            713
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.479622,
+        "joy": 0.297097,
+        "fear": 0.062571,
+        "disgust": 0.142289,
+        "anger": 0.05445
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Food",
+      "relevance": 0.926327,
+      "dbpedia_resource": "http://dbpedia.org/resource/Food"
+    },
+    {
+      "text": "Restaurant",
+      "relevance": 0.810668,
+      "dbpedia_resource": "http://dbpedia.org/resource/Restaurant"
+    },
+    {
+      "text": "Beef",
+      "relevance": 0.772975,
+      "dbpedia_resource": "http://dbpedia.org/resource/Beef"
+    },
+    {
+      "text": "Nutrition",
+      "relevance": 0.755928,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nutrition"
+    },
+    {
+      "text": "Richard Nixon",
+      "relevance": 0.745725,
+      "dbpedia_resource": "http://dbpedia.org/resource/Richard_Nixon"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.99708,
+      "label": "/food and drink/food"
+    }
+  ]
+}

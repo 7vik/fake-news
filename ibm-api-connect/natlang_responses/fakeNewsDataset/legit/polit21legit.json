@@ -1,0 +1,323 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 798,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.365949,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hand recount",
+      "sentiment": {
+        "score": -0.42333,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.864494,
+      "emotion": {
+        "sadness": 0.414741,
+        "joy": 0.165299,
+        "fear": 0.04121,
+        "disgust": 0.338834,
+        "anger": 0.275743
+      },
+      "count": 4
+    },
+    {
+      "text": "Green Party candidate Jill Stein",
+      "sentiment": {
+        "score": -0.584824,
+        "label": "negative"
+      },
+      "relevance": 0.727897,
+      "emotion": {
+        "sadness": 0.309586,
+        "joy": 0.259015,
+        "fear": 0.056443,
+        "disgust": 0.323541,
+        "anger": 0.266675
+      },
+      "count": 1
+    },
+    {
+      "text": "Wisconsin's presidential vote recount",
+      "sentiment": {
+        "score": -0.584824,
+        "label": "negative"
+      },
+      "relevance": 0.707668,
+      "emotion": {
+        "sadness": 0.309586,
+        "joy": 0.259015,
+        "fear": 0.056443,
+        "disgust": 0.323541,
+        "anger": 0.266675
+      },
+      "count": 1
+    },
+    {
+      "text": "Democrat Hillary Clinton's campaign",
+      "sentiment": {
+        "score": -0.584824,
+        "label": "negative"
+      },
+      "relevance": 0.618798,
+      "emotion": {
+        "sadness": 0.309586,
+        "joy": 0.259015,
+        "fear": 0.056443,
+        "disgust": 0.323541,
+        "anger": 0.266675
+      },
+      "count": 1
+    },
+    {
+      "text": "good reasons",
+      "sentiment": {
+        "score": 0.752402,
+        "label": "positive"
+      },
+      "relevance": 0.615908,
+      "emotion": {
+        "sadness": 0.309586,
+        "joy": 0.259015,
+        "fear": 0.056443,
+        "disgust": 0.323541,
+        "anger": 0.266675
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jill Stein",
+      "sentiment": {
+        "score": -0.48647,
+        "label": "negative"
+      },
+      "relevance": 0.757466,
+      "mentions": [
+        {
+          "text": "Stein",
+          "location": [
+            14,
+            19
+          ]
+        },
+        {
+          "text": "Jill Stein",
+          "location": [
+            93,
+            103
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035984,
+        "joy": 0.514536,
+        "fear": 0.038209,
+        "disgust": 0.401642,
+        "anger": 0.034968
+      },
+      "disambiguation": {
+        "subtype": [
+          "Physician",
+          "Politician"
+        ],
+        "name": "Jill Stein",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jill_Stein"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Wisconsin",
+      "sentiment": {
+        "score": -0.382579,
+        "label": "negative"
+      },
+      "relevance": 0.621817,
+      "mentions": [
+        {
+          "text": "Wis.",
+          "location": [
+            64,
+            68
+          ]
+        },
+        {
+          "text": "Wisconsin",
+          "location": [
+            151,
+            160
+          ]
+        },
+        {
+          "text": "Wisconsin",
+          "location": [
+            239,
+            248
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.367672,
+        "joy": 0.174215,
+        "fear": 0.116298,
+        "disgust": 0.171438,
+        "anger": 0.350083
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Wisconsin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wisconsin"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Wis",
+      "sentiment": {
+        "score": -0.48647,
+        "label": "negative"
+      },
+      "relevance": 0.596455,
+      "mentions": [
+        {
+          "text": "Wis",
+          "location": [
+            50,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.706657,
+        "joy": 0.033722,
+        "fear": 0.032805,
+        "disgust": 0.165925,
+        "anger": 0.189658
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.482705,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            402,
+            417
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "hand.Dane County Circuit",
+      "sentiment": {
+        "score": -0.382579,
+        "label": "negative"
+      },
+      "relevance": 0.408289,
+      "mentions": [
+        {
+          "text": "hand.Dane County Circuit",
+          "location": [
+            279,
+            303
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.40368,
+        "joy": 0.153214,
+        "fear": 0.133892,
+        "disgust": 0.170344,
+        "anger": 0.319419
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.956732,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.806801,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Law",
+      "relevance": 0.737887,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.709776,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.67764,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.88083,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.569684,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Alien Reptiles Rule Earth",
+      "sentiment": {
+        "score": 0.618127,
+        "label": "positive"
+      },
+      "relevance": 0.883336,
+      "emotion": {
+        "sadness": 0.256098,
+        "joy": 0.32507,
+        "fear": 0.081887,
+        "disgust": 0.068009,
+        "anger": 0.180509
+      },
+      "count": 1
+    },
+    {
+      "text": "Jim Carrey",
+      "sentiment": {
+        "score": 0.514546,
+        "label": "positive"
+      },
+      "relevance": 0.852831,
+      "emotion": {
+        "sadness": 0.05785,
+        "joy": 0.182315,
+        "fear": 0.030592,
+        "disgust": 0.228579,
+        "anger": 0.33744
+      },
+      "count": 1
+    },
+    {
+      "text": "Planet",
+      "sentiment": {
+        "score": 0.514546,
+        "label": "positive"
+      },
+      "relevance": 0.59774,
+      "emotion": {
+        "sadness": 0.05785,
+        "joy": 0.182315,
+        "fear": 0.030592,
+        "disgust": 0.228579,
+        "anger": 0.33744
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jim Carrey",
+      "sentiment": {
+        "score": -0.826604,
+        "label": "negative"
+      },
+      "relevance": 0.937268,
+      "mentions": [
+        {
+          "text": "Jim Carrey",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.07507,
+        "joy": 0.148802,
+        "fear": 0.033339,
+        "disgust": 0.22949,
+        "anger": 0.319179
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Jim Carrey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jim_Carrey"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Planet",
+      "relevance": 0.896688,
+      "dbpedia_resource": "http://dbpedia.org/resource/Planet"
+    },
+    {
+      "text": "Jupiter",
+      "relevance": 0.840404,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jupiter"
+    },
+    {
+      "text": "Riddler",
+      "relevance": 0.824122,
+      "dbpedia_resource": "http://dbpedia.org/resource/Riddler"
+    },
+    {
+      "text": "Jim Carrey",
+      "relevance": 0.76208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jim_Carrey"
+    },
+    {
+      "text": "Earth",
+      "relevance": 0.724419,
+      "dbpedia_resource": "http://dbpedia.org/resource/Earth"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999489,
+      "label": "/pets/reptiles"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 420,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.6721,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Black smoke",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.872803,
+      "emotion": {
+        "sadness": 0.503639,
+        "joy": 0.067774,
+        "fear": 0.114984,
+        "disgust": 0.317934,
+        "anger": 0.260544
+      },
+      "count": 1
+    },
+    {
+      "text": "local media",
+      "sentiment": {
+        "score": -0.697406,
+        "label": "negative"
+      },
+      "relevance": 0.804233,
+      "emotion": {
+        "sadness": 0.469192,
+        "joy": 0.122904,
+        "fear": 0.162763,
+        "disgust": 0.230314,
+        "anger": 0.208528
+      },
+      "count": 1
+    },
+    {
+      "text": "Chinese club's stadium",
+      "sentiment": {
+        "score": -0.645019,
+        "label": "negative"
+      },
+      "relevance": 0.719686,
+      "emotion": {
+        "sadness": 0.182528,
+        "joy": 0.435051,
+        "fear": 0.048902,
+        "disgust": 0.19299,
+        "anger": 0.199452
+      },
+      "count": 1
+    },
+    {
+      "text": "local time",
+      "sentiment": {
+        "score": -0.697406,
+        "label": "negative"
+      },
+      "relevance": 0.645956,
+      "emotion": {
+        "sadness": 0.469192,
+        "joy": 0.122904,
+        "fear": 0.162763,
+        "disgust": 0.230314,
+        "anger": 0.208528
+      },
+      "count": 1
+    },
+    {
+      "text": "blaze",
+      "sentiment": {
+        "score": -0.645019,
+        "label": "negative"
+      },
+      "relevance": 0.587304,
+      "emotion": {
+        "sadness": 0.593086,
+        "joy": 0.258199,
+        "fear": 0.04394,
+        "disgust": 0.074404,
+        "anger": 0.150528
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Shanghai Shenhua",
+      "sentiment": {
+        "score": 0.556131,
+        "label": "positive"
+      },
+      "relevance": 0.829442,
+      "mentions": [
+        {
+          "text": "Shanghai Shenhua",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Shanghai Shenhua",
+          "location": [
+            143,
+            159
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Hongkou Stadium",
+      "sentiment": {
+        "score": -0.611797,
+        "label": "negative"
+      },
+      "relevance": 0.768437,
+      "mentions": [
+        {
+          "text": "Hongkou Stadium",
+          "location": [
+            206,
+            221
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.503639,
+        "joy": 0.067774,
+        "fear": 0.114984,
+        "disgust": 0.317934,
+        "anger": 0.260544
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Hongkou Football Stadium",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hongkou_Football_Stadium"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Chinese Super League",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.659896,
+      "mentions": [
+        {
+          "text": "Chinese Super League",
+          "location": [
+            117,
+            137
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.593086,
+        "joy": 0.258199,
+        "fear": 0.04394,
+        "disgust": 0.074404,
+        "anger": 0.150528
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsAssociation"
+        ],
+        "name": "Chinese Super League",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chinese_Super_League"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Arena",
+      "relevance": 0.915778,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arena"
+    },
+    {
+      "text": "Stadium",
+      "relevance": 0.914234,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stadium"
+    },
+    {
+      "text": "Hern\u00e1n Barcos",
+      "relevance": 0.755361,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hern\u00e1n_Barcos"
+    },
+    {
+      "text": "Shanghai Shenhua",
+      "relevance": 0.712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Shanghai_Shenhua"
+    },
+    {
+      "text": "Shanghai Shenhua F.C.",
+      "relevance": 0.68,
+      "dbpedia_resource": "http://dbpedia.org/resource/Shanghai_Shenhua_F.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.674289,
+      "label": "/law, govt and politics/law enforcement/fire department"
+    }
+  ]
+}

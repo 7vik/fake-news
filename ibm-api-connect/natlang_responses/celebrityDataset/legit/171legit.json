@@ -1,0 +1,103 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.73113,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Scarlett Johansson's New Man",
+      "sentiment": {
+        "score": 0.73113,
+        "label": "positive"
+      },
+      "relevance": 0.998702,
+      "emotion": {
+        "sadness": 0.022572,
+        "joy": 0.5945,
+        "fear": 0.016812,
+        "disgust": 0.088039,
+        "anger": 0.008322
+      },
+      "count": 1
+    },
+    {
+      "text": "Dating",
+      "sentiment": {
+        "score": 0.73113,
+        "label": "positive"
+      },
+      "relevance": 0.001298,
+      "emotion": {
+        "sadness": 0.022572,
+        "joy": 0.5945,
+        "fear": 0.016812,
+        "disgust": 0.088039,
+        "anger": 0.008322
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Scarlett Johansson",
+      "sentiment": {
+        "score": 0.76261,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Scarlett Johansson",
+          "location": [
+            0,
+            18
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Scarlett Johansson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Scarlett_Johansson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Scarlett Johansson",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Scarlett_Johansson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999971,
+      "label": "/society/dating"
+    }
+  ]
+}

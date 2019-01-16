@@ -1,0 +1,303 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 664,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.90928,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Death-Penalty Exemption",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.748881,
+      "emotion": {
+        "sadness": 0.539587,
+        "joy": 0.019758,
+        "fear": 0.272848,
+        "disgust": 0.223181,
+        "anger": 0.24608
+      },
+      "count": 2
+    },
+    {
+      "text": "U.S. Supreme Court",
+      "sentiment": {
+        "score": -0.90928,
+        "label": "negative"
+      },
+      "relevance": 0.728866,
+      "emotion": {
+        "sadness": 0.566929,
+        "joy": 0.016051,
+        "fear": 0.061304,
+        "disgust": 0.456596,
+        "anger": 0.181166
+      },
+      "count": 1
+    },
+    {
+      "text": "Justice Ruth Bader Ginsburg",
+      "sentiment": {
+        "score": -0.90928,
+        "label": "negative"
+      },
+      "relevance": 0.728064,
+      "emotion": {
+        "sadness": 0.566929,
+        "joy": 0.016051,
+        "fear": 0.061304,
+        "disgust": 0.456596,
+        "anger": 0.181166
+      },
+      "count": 1
+    },
+    {
+      "text": "Bobby James Moore",
+      "sentiment": {
+        "score": -0.90928,
+        "label": "negative"
+      },
+      "relevance": 0.689877,
+      "emotion": {
+        "sadness": 0.566929,
+        "joy": 0.016051,
+        "fear": 0.061304,
+        "disgust": 0.456596,
+        "anger": 0.181166
+      },
+      "count": 1
+    },
+    {
+      "text": "High Court Says",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.651105,
+      "emotion": {
+        "sadness": 0.539587,
+        "joy": 0.019758,
+        "fear": 0.272848,
+        "disgust": 0.223181,
+        "anger": 0.24608
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justice Ruth Bader Ginsburg",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.839154,
+      "mentions": [
+        {
+          "text": "Justice Ruth Bader Ginsburg",
+          "location": [
+            478,
+            505
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.561361,
+        "joy": 0.168325,
+        "fear": 0.059833,
+        "disgust": 0.127281,
+        "anger": 0.204491
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "HallOfFameInductee",
+          "Judge"
+        ],
+        "name": "Ruth Bader Ginsburg",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "U.S. Supreme Court",
+      "sentiment": {
+        "score": -0.561616,
+        "label": "negative"
+      },
+      "relevance": 0.6454,
+      "mentions": [
+        {
+          "text": "U.S. Supreme Court",
+          "location": [
+            70,
+            88
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.531201,
+        "joy": 0.015935,
+        "fear": 0.15005,
+        "disgust": 0.405014,
+        "anger": 0.21374
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody"
+        ],
+        "name": "Supreme Court of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "sentiment": {
+        "score": -0.561616,
+        "label": "negative"
+      },
+      "relevance": 0.64513,
+      "mentions": [
+        {
+          "text": "Texas",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Texas",
+          "location": [
+            94,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.551142,
+        "joy": 0.016483,
+        "fear": 0.164264,
+        "disgust": 0.352006,
+        "anger": 0.235012
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Texas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bobby James Moore",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.630729,
+      "mentions": [
+        {
+          "text": "Bobby James Moore",
+          "location": [
+            329,
+            346
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.420567,
+        "joy": 0.116885,
+        "fear": 0.057014,
+        "disgust": 0.301918,
+        "anger": 0.066193
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "High Court",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.630581,
+      "mentions": [
+        {
+          "text": "High Court",
+          "location": [
+            44,
+            54
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.297045,
+        "joy": 0.07181,
+        "fear": 0.253084,
+        "disgust": 0.279917,
+        "anger": 0.241314
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "MusicalArtist"
+        ],
+        "name": "The High Court",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_High_Court"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ruth Bader Ginsburg",
+      "relevance": 0.979964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.971353,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.799294,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "United States Constitution",
+      "relevance": 0.67073,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+    },
+    {
+      "text": "John G. Roberts",
+      "relevance": 0.583588,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_G._Roberts"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.8597,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

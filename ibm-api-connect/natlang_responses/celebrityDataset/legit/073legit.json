@@ -1,0 +1,114 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 44,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.941785,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ellen DeGeneres' Ageless Look",
+      "sentiment": {
+        "score": 0.941785,
+        "label": "positive"
+      },
+      "relevance": 0.968835,
+      "emotion": {
+        "sadness": 0.084557,
+        "joy": 0.760704,
+        "fear": 0.030693,
+        "disgust": 0.006156,
+        "anger": 0.016162
+      },
+      "count": 1
+    },
+    {
+      "text": "Secret",
+      "sentiment": {
+        "score": 0.941785,
+        "label": "positive"
+      },
+      "relevance": 0.031165,
+      "emotion": {
+        "sadness": 0.084557,
+        "joy": 0.760704,
+        "fear": 0.030693,
+        "disgust": 0.006156,
+        "anger": 0.016162
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.692206,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            14,
+            29
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1085,
+        "joy": 0.730285,
+        "fear": 0.044469,
+        "disgust": 0.004649,
+        "anger": 0.021167
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    },
+    {
+      "text": "Oprah Winfrey",
+      "relevance": 0.873698,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oprah_Winfrey"
+    },
+    {
+      "text": "Secret",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Secret_(disambiguation)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.599757,
+      "label": "/style and fashion"
+    }
+  ]
+}

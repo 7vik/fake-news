@@ -1,0 +1,290 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 475,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.708643,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "only thing",
+      "sentiment": {
+        "score": 0.726588,
+        "label": "positive"
+      },
+      "relevance": 0.869545,
+      "emotion": {
+        "sadness": 0.200228,
+        "joy": 0.694458,
+        "fear": 0.032739,
+        "disgust": 0.017486,
+        "anger": 0.067547
+      },
+      "count": 1
+    },
+    {
+      "text": "JENNIFER ANISTON HINTS",
+      "sentiment": {
+        "score": 0.995474,
+        "label": "positive"
+      },
+      "relevance": 0.788549,
+      "emotion": {
+        "sadness": 0.117359,
+        "joy": 0.580548,
+        "fear": 0.053857,
+        "disgust": 0.052204,
+        "anger": 0.17242
+      },
+      "count": 1
+    },
+    {
+      "text": "Warner Bros.",
+      "sentiment": {
+        "score": -0.270599,
+        "label": "negative"
+      },
+      "relevance": 0.671085,
+      "emotion": {
+        "sadness": 0.127639,
+        "joy": 0.498068,
+        "fear": 0.091477,
+        "disgust": 0.052297,
+        "anger": 0.142973
+      },
+      "count": 1
+    },
+    {
+      "text": "spokeswoman",
+      "sentiment": {
+        "score": -0.270599,
+        "label": "negative"
+      },
+      "relevance": 0.607911,
+      "emotion": {
+        "sadness": 0.127639,
+        "joy": 0.498068,
+        "fear": 0.091477,
+        "disgust": 0.052297,
+        "anger": 0.142973
+      },
+      "count": 1
+    },
+    {
+      "text": "Friends fans",
+      "sentiment": {
+        "score": 0.995474,
+        "label": "positive"
+      },
+      "relevance": 0.586105,
+      "emotion": {
+        "sadness": 0.027573,
+        "joy": 0.899928,
+        "fear": 0.004354,
+        "disgust": 0.058498,
+        "anger": 0.015233
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.798885,
+        "label": "positive"
+      },
+      "relevance": 0.868438,
+      "mentions": [
+        {
+          "text": "JENNIFER ANISTON",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            42,
+            58
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            263,
+            270
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.053853,
+        "joy": 0.789565,
+        "fear": 0.013467,
+        "disgust": 0.067665,
+        "anger": 0.104804
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "New York Post",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.22626,
+      "mentions": [
+        {
+          "text": "New York Post",
+          "location": [
+            384,
+            397
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114971,
+        "joy": 0.428013,
+        "fear": 0.215814,
+        "disgust": 0.095459,
+        "anger": 0.108451
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner",
+          "Newspaper"
+        ],
+        "name": "New York Post",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_Post"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Warner Bros.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.205409,
+      "mentions": [
+        {
+          "text": "Warner Bros.",
+          "location": [
+            327,
+            339
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Person",
+          "Location",
+          "Brand",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmCinematographer",
+          "FilmProducer",
+          "TVProducer",
+          "FilmCompany",
+          "FilmDistributor",
+          "ProductionCompany",
+          "RecordLabel",
+          "TVNetwork",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Warner Bros.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Warner_Bros."
+      },
+      "count": 1
+    },
+    {
+      "type": "Broadcaster",
+      "text": "NBC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194137,
+      "mentions": [
+        {
+          "text": "NBC",
+          "location": [
+            168,
+            171
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.303456,
+        "joy": 0.264037,
+        "fear": 0.159516,
+        "disgust": 0.091943,
+        "anger": 0.063496
+      },
+      "disambiguation": {
+        "subtype": [
+          "TelevisionStation"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Friends",
+      "relevance": 0.949627,
+      "dbpedia_resource": "http://dbpedia.org/resource/Friends"
+    },
+    {
+      "text": "New York City",
+      "relevance": 0.820071,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.676172,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "Days of our Lives",
+      "relevance": 0.657498,
+      "dbpedia_resource": "http://dbpedia.org/resource/Days_of_our_Lives"
+    },
+    {
+      "text": "Manhattan",
+      "relevance": 0.62816,
+      "dbpedia_resource": "http://dbpedia.org/resource/Manhattan"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.730974,
+      "label": "/art and entertainment/movies and tv/talk shows"
+    }
+  ]
+}

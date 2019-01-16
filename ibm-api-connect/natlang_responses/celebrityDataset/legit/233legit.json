@@ -1,0 +1,349 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1416,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.580633,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Khlo\u00e9 Kardashian",
+      "sentiment": {
+        "score": 0.566492,
+        "label": "positive"
+      },
+      "relevance": 0.766137,
+      "emotion": {
+        "sadness": 0.07515,
+        "joy": 0.879953,
+        "fear": 0.009267,
+        "disgust": 0.023446,
+        "anger": 0.010035
+      },
+      "count": 1
+    },
+    {
+      "text": "Kardashian Shares",
+      "sentiment": {
+        "score": 0.944264,
+        "label": "positive"
+      },
+      "relevance": 0.750868,
+      "emotion": {
+        "sadness": 0.02859,
+        "joy": 0.89885,
+        "fear": 0.012162,
+        "disgust": 0.026969,
+        "anger": 0.034525
+      },
+      "count": 1
+    },
+    {
+      "text": "eldest child",
+      "sentiment": {
+        "score": -0.757267,
+        "label": "negative"
+      },
+      "relevance": 0.644184,
+      "emotion": {
+        "sadness": 0.413107,
+        "joy": 0.405038,
+        "fear": 0.012297,
+        "disgust": 0.116819,
+        "anger": 0.112447
+      },
+      "count": 1
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "sentiment": {
+        "score": -0.514027,
+        "label": "negative"
+      },
+      "relevance": 0.633694,
+      "emotion": {
+        "sadness": 0.058662,
+        "joy": 0.436592,
+        "fear": 0.069067,
+        "disgust": 0.025476,
+        "anger": 0.120827
+      },
+      "count": 1
+    },
+    {
+      "text": "gluten-free cupcakes",
+      "sentiment": {
+        "score": 0.923585,
+        "label": "positive"
+      },
+      "relevance": 0.617945,
+      "emotion": {
+        "sadness": 0.035621,
+        "joy": 0.921161,
+        "fear": 0.00138,
+        "disgust": 0.011,
+        "anger": 0.023978
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Khlo\u00e9 Kardashian",
+      "sentiment": {
+        "score": 0.500869,
+        "label": "positive"
+      },
+      "relevance": 0.788497,
+      "mentions": [
+        {
+          "text": "Khloe Kardashian",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Khlo\u00e9 Kardashian",
+          "location": [
+            76,
+            92
+          ]
+        },
+        {
+          "text": "Khlo\u00e9",
+          "location": [
+            416,
+            421
+          ]
+        },
+        {
+          "text": "Khlo\u00e9",
+          "location": [
+            1269,
+            1274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.06808,
+        "joy": 0.7791,
+        "fear": 0.006363,
+        "disgust": 0.140777,
+        "anger": 0.032143
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Khlo\u00e9 Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Penelope",
+      "sentiment": {
+        "score": 0.356709,
+        "label": "positive"
+      },
+      "relevance": 0.587099,
+      "mentions": [
+        {
+          "text": "Penelope",
+          "location": [
+            153,
+            161
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            253,
+            260
+          ]
+        },
+        {
+          "text": "Penelope",
+          "location": [
+            604,
+            612
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            872,
+            875
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076214,
+        "joy": 0.889686,
+        "fear": 0.003664,
+        "disgust": 0.030292,
+        "anger": 0.003116
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Mason",
+      "sentiment": {
+        "score": 0.422188,
+        "label": "positive"
+      },
+      "relevance": 0.547314,
+      "mentions": [
+        {
+          "text": "Mason",
+          "location": [
+            146,
+            151
+          ]
+        },
+        {
+          "text": "Mason",
+          "location": [
+            594,
+            599
+          ]
+        },
+        {
+          "text": "Mason",
+          "location": [
+            1077,
+            1082
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.116366,
+        "joy": 0.643448,
+        "fear": 0.053981,
+        "disgust": 0.19345,
+        "anger": 0.017888
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Rob Kardashian",
+      "sentiment": {
+        "score": -0.344229,
+        "label": "negative"
+      },
+      "relevance": 0.519575,
+      "mentions": [
+        {
+          "text": "Rob Kardashian",
+          "location": [
+            310,
+            324
+          ]
+        },
+        {
+          "text": "Rob",
+          "location": [
+            526,
+            529
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.202713,
+        "joy": 0.16061,
+        "fear": 0.052363,
+        "disgust": 0.215058,
+        "anger": 0.100964
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality"
+        ],
+        "name": "Rob Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Blac Chyna",
+      "sentiment": {
+        "score": 0.447361,
+        "label": "positive"
+      },
+      "relevance": 0.432584,
+      "mentions": [
+        {
+          "text": "Blac Chyna",
+          "location": [
+            358,
+            368
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            371,
+            374
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.948773,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.786678,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.678899,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.632296,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    },
+    {
+      "text": "Khlo\u00e9 Kardashian",
+      "relevance": 0.590185,
+      "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.737257,
+      "label": "/food and drink/desserts and baking"
+    }
+  ]
+}

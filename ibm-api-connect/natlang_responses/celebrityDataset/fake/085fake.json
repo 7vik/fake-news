@@ -1,0 +1,99 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Claims Anne Hathaway",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99596,
+      "emotion": {
+        "sadness": 0.321934,
+        "joy": 0.144649,
+        "fear": 0.003822,
+        "disgust": 0.200545,
+        "anger": 0.043509
+      },
+      "count": 1
+    },
+    {
+      "text": "charity event",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.917787,
+      "emotion": {
+        "sadness": 0.321934,
+        "joy": 0.144649,
+        "fear": 0.003822,
+        "disgust": 0.200545,
+        "anger": 0.043509
+      },
+      "count": 1
+    },
+    {
+      "text": "diva' demands",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.100957,
+      "emotion": {
+        "sadness": 0.321934,
+        "joy": 0.144649,
+        "fear": 0.003822,
+        "disgust": 0.200545,
+        "anger": 0.043509
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anne Hathaway",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anne Hathaway",
+          "location": [
+            7,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.342996,
+        "joy": 0.08802,
+        "fear": 0.047834,
+        "disgust": 0.144001,
+        "anger": 0.100174
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.656049,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

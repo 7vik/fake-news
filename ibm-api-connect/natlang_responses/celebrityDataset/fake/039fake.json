@@ -1,0 +1,349 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1487,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.384928,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Egor Tarabasov",
+      "sentiment": {
+        "score": -0.78186,
+        "label": "negative"
+      },
+      "relevance": 0.794637,
+      "emotion": {
+        "sadness": 0.097291,
+        "joy": 0.666305,
+        "fear": 0.070865,
+        "disgust": 0.005537,
+        "anger": 0.199303
+      },
+      "count": 2
+    },
+    {
+      "text": "Lindsay Lohan Plans",
+      "sentiment": {
+        "score": -0.78186,
+        "label": "negative"
+      },
+      "relevance": 0.763218,
+      "emotion": {
+        "sadness": 0.161861,
+        "joy": 0.533732,
+        "fear": 0.064609,
+        "disgust": 0.042811,
+        "anger": 0.185704
+      },
+      "count": 1
+    },
+    {
+      "text": "Egor's rich family",
+      "sentiment": {
+        "score": -0.284677,
+        "label": "negative"
+      },
+      "relevance": 0.673816,
+      "emotion": {
+        "sadness": 0.138812,
+        "joy": 0.706731,
+        "fear": 0.047119,
+        "disgust": 0.01337,
+        "anger": 0.127682
+      },
+      "count": 1
+    },
+    {
+      "text": "wedding plans",
+      "sentiment": {
+        "score": -0.719267,
+        "label": "negative"
+      },
+      "relevance": 0.665211,
+      "emotion": {
+        "sadness": 0.154609,
+        "joy": 0.570167,
+        "fear": 0.116364,
+        "disgust": 0.002517,
+        "anger": 0.235123
+      },
+      "count": 2
+    },
+    {
+      "text": "major move",
+      "sentiment": {
+        "score": -0.78186,
+        "label": "negative"
+      },
+      "relevance": 0.661466,
+      "emotion": {
+        "sadness": 0.147712,
+        "joy": 0.596686,
+        "fear": 0.15596,
+        "disgust": 0.004163,
+        "anger": 0.143542
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": -0.443799,
+        "label": "negative"
+      },
+      "relevance": 0.870511,
+      "mentions": [
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            15,
+            28
+          ]
+        },
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            265,
+            278
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            998,
+            1005
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            1215,
+            1222
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244012,
+        "joy": 0.499986,
+        "fear": 0.675626,
+        "disgust": 0.014499,
+        "anger": 0.150795
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lindsay Lohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Egor",
+      "sentiment": {
+        "score": 0.162069,
+        "label": "positive"
+      },
+      "relevance": 0.681651,
+      "mentions": [
+        {
+          "text": "Egor",
+          "location": [
+            590,
+            594
+          ]
+        },
+        {
+          "text": "Egor",
+          "location": [
+            790,
+            794
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            827,
+            829
+          ]
+        },
+        {
+          "text": "Egor",
+          "location": [
+            1227,
+            1231
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17305,
+        "joy": 0.320292,
+        "fear": 0.577121,
+        "disgust": 0.003112,
+        "anger": 0.054203
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Egor Tarabasov",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.509732,
+      "mentions": [
+        {
+          "text": "Egor Tarabasov",
+          "location": [
+            179,
+            193
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.167517,
+        "joy": 0.420038,
+        "fear": 0.064204,
+        "disgust": 0.024435,
+        "anger": 0.231308
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Russia",
+      "sentiment": {
+        "score": -0.093937,
+        "label": "negative"
+      },
+      "relevance": 0.42563,
+      "mentions": [
+        {
+          "text": "Russia",
+          "location": [
+            46,
+            52
+          ]
+        },
+        {
+          "text": "Russia",
+          "location": [
+            387,
+            393
+          ]
+        },
+        {
+          "text": "Russia",
+          "location": [
+            1247,
+            1253
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18657,
+        "joy": 0.613122,
+        "fear": 0.074948,
+        "disgust": 0.005479,
+        "anger": 0.164113
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Dina Lohan",
+      "sentiment": {
+        "score": -0.632113,
+        "label": "negative"
+      },
+      "relevance": 0.329352,
+      "mentions": [
+        {
+          "text": "Dina Lohan",
+          "location": [
+            1041,
+            1051
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.258103,
+        "joy": 0.122474,
+        "fear": 0.032317,
+        "disgust": 0.337995,
+        "anger": 0.099898
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Dina Lohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dina_Lohan"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lindsay Lohan",
+      "relevance": 0.98302,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+    },
+    {
+      "text": "Michael Lohan",
+      "relevance": 0.760461,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michael_Lohan"
+    },
+    {
+      "text": "Dina Lohan",
+      "relevance": 0.738321,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dina_Lohan"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.663997,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.621461,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.795947,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

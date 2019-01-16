@@ -1,0 +1,290 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 958,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.285042,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Scarlett Johansson",
+      "sentiment": {
+        "score": -0.607738,
+        "label": "negative"
+      },
+      "relevance": 0.810755,
+      "emotion": {
+        "sadness": 0.060152,
+        "joy": 0.734144,
+        "fear": 0.144353,
+        "disgust": 0.060008,
+        "anger": 0.019288
+      },
+      "count": 1
+    },
+    {
+      "text": "Actress Scarlett Johansson",
+      "sentiment": {
+        "score": -0.607738,
+        "label": "negative"
+      },
+      "relevance": 0.776056,
+      "emotion": {
+        "sadness": 0.06053,
+        "joy": 0.755619,
+        "fear": 0.11995,
+        "disgust": 0.069777,
+        "anger": 0.015146
+      },
+      "count": 1
+    },
+    {
+      "text": "Good Morning America",
+      "sentiment": {
+        "score": -0.607738,
+        "label": "negative"
+      },
+      "relevance": 0.646443,
+      "emotion": {
+        "sadness": 0.06053,
+        "joy": 0.755619,
+        "fear": 0.11995,
+        "disgust": 0.069777,
+        "anger": 0.015146
+      },
+      "count": 1
+    },
+    {
+      "text": "new film",
+      "sentiment": {
+        "score": -0.607738,
+        "label": "negative"
+      },
+      "relevance": 0.605587,
+      "emotion": {
+        "sadness": 0.06053,
+        "joy": 0.755619,
+        "fear": 0.11995,
+        "disgust": 0.069777,
+        "anger": 0.015146
+      },
+      "count": 1
+    },
+    {
+      "text": "Ghost",
+      "sentiment": {
+        "score": -0.635725,
+        "label": "negative"
+      },
+      "relevance": 0.55113,
+      "emotion": {
+        "sadness": 0.125261,
+        "joy": 0.723565,
+        "fear": 0.102523,
+        "disgust": 0.052697,
+        "anger": 0.023473
+      },
+      "count": 4
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Scarlett Johansson",
+      "sentiment": {
+        "score": 0.667067,
+        "label": "positive"
+      },
+      "relevance": 0.888073,
+      "mentions": [
+        {
+          "text": "Scarlett Johansson",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Scarlett Johansson",
+          "location": [
+            63,
+            81
+          ]
+        },
+        {
+          "text": "Johansson",
+          "location": [
+            349,
+            358
+          ]
+        },
+        {
+          "text": "Johansson",
+          "location": [
+            858,
+            867
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152503,
+        "joy": 0.584131,
+        "fear": 0.13471,
+        "disgust": 0.023943,
+        "anger": 0.022956
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Scarlett Johansson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Scarlett_Johansson"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Michael Strahan",
+      "sentiment": {
+        "score": 0.530314,
+        "label": "positive"
+      },
+      "relevance": 0.189367,
+      "mentions": [
+        {
+          "text": "Michael Strahan",
+          "location": [
+            315,
+            330
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.178909,
+        "joy": 0.31325,
+        "fear": 0.106661,
+        "disgust": 0.119637,
+        "anger": 0.07333
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "Celebrity",
+          "FootballPlayer",
+          "TVActor"
+        ],
+        "name": "Michael Strahan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Strahan"
+      },
+      "count": 1
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Good Morning America",
+      "sentiment": {
+        "score": 0.541815,
+        "label": "positive"
+      },
+      "relevance": 0.187938,
+      "mentions": [
+        {
+          "text": "Good Morning America",
+          "location": [
+            286,
+            306
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.017577,
+        "joy": 0.876483,
+        "fear": 0.034229,
+        "disgust": 0.050442,
+        "anger": 0.006339
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Good Morning America",
+        "dbpedia_resource": "http://dbpedia.org/resource/Good_Morning_America"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.13621,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            254,
+            263
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.267659,
+        "joy": 0.157393,
+        "fear": 0.382045,
+        "disgust": 0.120632,
+        "anger": 0.079253
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Scarlett Johansson",
+      "relevance": 0.94732,
+      "dbpedia_resource": "http://dbpedia.org/resource/Scarlett_Johansson"
+    },
+    {
+      "text": "Actor",
+      "relevance": 0.437704,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    },
+    {
+      "text": "Film",
+      "relevance": 0.395501,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film"
+    },
+    {
+      "text": "The Opportunity",
+      "relevance": 0.390103,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Opportunity"
+    },
+    {
+      "text": "Black Widow",
+      "relevance": 0.3835,
+      "dbpedia_resource": "http://dbpedia.org/resource/Black_Widow_(Natalia_Romanova)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.696113,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

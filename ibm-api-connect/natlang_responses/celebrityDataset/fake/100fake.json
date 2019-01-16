@@ -1,0 +1,171 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.750706,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.750706,
+        "label": "negative"
+      },
+      "relevance": 0.998494,
+      "emotion": {
+        "sadness": 0.08124,
+        "joy": 0.774693,
+        "fear": 0.011709,
+        "disgust": 0.04145,
+        "anger": 0.01703
+      },
+      "count": 1
+    },
+    {
+      "text": "Stars",
+      "sentiment": {
+        "score": -0.750706,
+        "label": "negative"
+      },
+      "relevance": 0.815878,
+      "emotion": {
+        "sadness": 0.08124,
+        "joy": 0.774693,
+        "fear": 0.011709,
+        "disgust": 0.04145,
+        "anger": 0.01703
+      },
+      "count": 1
+    },
+    {
+      "text": "Star",
+      "sentiment": {
+        "score": -0.750706,
+        "label": "negative"
+      },
+      "relevance": 0.677942,
+      "emotion": {
+        "sadness": 0.08124,
+        "joy": 0.774693,
+        "fear": 0.011709,
+        "disgust": 0.04145,
+        "anger": 0.01703
+      },
+      "count": 1
+    },
+    {
+      "text": "Show",
+      "sentiment": {
+        "score": -0.750706,
+        "label": "negative"
+      },
+      "relevance": 0.128264,
+      "emotion": {
+        "sadness": 0.08124,
+        "joy": 0.774693,
+        "fear": 0.011709,
+        "disgust": 0.04145,
+        "anger": 0.01703
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Movie",
+      "text": "The Stars",
+      "sentiment": {
+        "score": 0.509659,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "The Stars",
+          "location": [
+            14,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.043204,
+        "joy": 0.893452,
+        "fear": 0.015311,
+        "disgust": 0.014644,
+        "anger": 0.005027
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.335988,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            26,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18266,
+        "joy": 0.436882,
+        "fear": 0.023311,
+        "disgust": 0.131418,
+        "anger": 0.071813
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.771705,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.768877,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.730518,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Military School",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.948538,
+      "emotion": {
+        "sadness": 0.224212,
+        "joy": 0.100972,
+        "fear": 0.224457,
+        "disgust": 0.165831,
+        "anger": 0.150192
+      },
+      "count": 1
+    },
+    {
+      "text": "Madonna",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.880273,
+      "emotion": {
+        "sadness": 0.224212,
+        "joy": 0.100972,
+        "fear": 0.224457,
+        "disgust": 0.165831,
+        "anger": 0.150192
+      },
+      "count": 1
+    },
+    {
+      "text": "Rebellious Rocco",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.772017,
+      "emotion": {
+        "sadness": 0.224212,
+        "joy": 0.100972,
+        "fear": 0.224457,
+        "disgust": 0.165831,
+        "anger": 0.150192
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Madonna",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Madonna",
+          "location": [
+            5,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245498,
+        "joy": 0.162242,
+        "fear": 0.215023,
+        "disgust": 0.152375,
+        "anger": 0.12502
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Rocco To Military School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rocco To Military School",
+          "location": [
+            37,
+            61
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245498,
+        "joy": 0.162242,
+        "fear": 0.215023,
+        "disgust": 0.152375,
+        "anger": 0.12502
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.752424,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

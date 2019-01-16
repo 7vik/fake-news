@@ -1,0 +1,290 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 516,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.794682,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sun newspaper",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.819809,
+      "emotion": {
+        "sadness": 0.099264,
+        "joy": 0.297061,
+        "fear": 0.043658,
+        "disgust": 0.096304,
+        "anger": 0.069963
+      },
+      "count": 1
+    },
+    {
+      "text": "6-year-old",
+      "sentiment": {
+        "score": -0.83442,
+        "label": "negative"
+      },
+      "relevance": 0.793994,
+      "emotion": {
+        "sadness": 0.586155,
+        "joy": 0.164949,
+        "fear": 0.136256,
+        "disgust": 0.203682,
+        "anger": 0.123907
+      },
+      "count": 2
+    },
+    {
+      "text": "parents of other students",
+      "sentiment": {
+        "score": -0.753365,
+        "label": "negative"
+      },
+      "relevance": 0.78108,
+      "emotion": {
+        "sadness": 0.49119,
+        "joy": 0.279731,
+        "fear": 0.093892,
+        "disgust": 0.165244,
+        "anger": 0.111683
+      },
+      "count": 1
+    },
+    {
+      "text": "elementary school",
+      "sentiment": {
+        "score": -0.83442,
+        "label": "negative"
+      },
+      "relevance": 0.716047,
+      "emotion": {
+        "sadness": 0.49119,
+        "joy": 0.279731,
+        "fear": 0.093892,
+        "disgust": 0.165244,
+        "anger": 0.111683
+      },
+      "count": 1
+    },
+    {
+      "text": "LA-area school",
+      "sentiment": {
+        "score": -0.83442,
+        "label": "negative"
+      },
+      "relevance": 0.692046,
+      "emotion": {
+        "sadness": 0.538431,
+        "joy": 0.054599,
+        "fear": 0.297526,
+        "disgust": 0.24944,
+        "anger": 0.164301
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Cucamonga School District",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.862232,
+      "mentions": [
+        {
+          "text": "Cucamonga School District",
+          "location": [
+            437,
+            462
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325789,
+        "joy": 0.187721,
+        "fear": 0.030182,
+        "disgust": 0.37805,
+        "anger": 0.221644
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Cucamonga School District",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cucamonga_School_District"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.818672,
+      "mentions": [
+        {
+          "text": "Los Angeles",
+          "location": [
+            167,
+            178
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "location": [
+            503,
+            514
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.289905,
+        "joy": 0.272574,
+        "fear": 0.138683,
+        "disgust": 0.141474,
+        "anger": 0.152724
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "OlympicHostCity",
+          "PlaceWithNeighborhoods",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "Los Angeles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "LA-area school",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.76094,
+      "mentions": [
+        {
+          "text": "LA-area school",
+          "location": [
+            22,
+            36
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.416315,
+        "joy": 0.065559,
+        "fear": 0.165168,
+        "disgust": 0.310375,
+        "anger": 0.266826
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "RANCHO CUCAMONGA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.756737,
+      "mentions": [
+        {
+          "text": "RANCHO CUCAMONGA",
+          "location": [
+            60,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136185,
+        "joy": 0.222101,
+        "fear": 0.077575,
+        "disgust": 0.088437,
+        "anger": 0.125446
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The Sun",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.305318,
+      "mentions": [
+        {
+          "text": "The Sun",
+          "location": [
+            331,
+            338
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.01421,
+        "joy": 0.609977,
+        "fear": 0.085402,
+        "disgust": 0.067746,
+        "anger": 0.072413
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Sun (United Kingdom)",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Sun_(United_Kingdom)"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.970348,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "The Sun",
+      "relevance": 0.965072,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Sun_(newspaper)"
+    },
+    {
+      "text": "Newspaper",
+      "relevance": 0.963946,
+      "dbpedia_resource": "http://dbpedia.org/resource/Newspaper"
+    },
+    {
+      "text": "San Bernardino County, California",
+      "relevance": 0.902102,
+      "dbpedia_resource": "http://dbpedia.org/resource/San_Bernardino_County,_California"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.972471,
+      "label": "/education/special education"
+    }
+  ]
+}

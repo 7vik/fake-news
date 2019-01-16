@@ -1,0 +1,228 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 553,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.491389,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Energy Minister Alexander Novak",
+      "sentiment": {
+        "score": 0.817974,
+        "label": "positive"
+      },
+      "relevance": 0.838019,
+      "emotion": {
+        "sadness": 0.23948,
+        "joy": 0.516809,
+        "fear": 0.140545,
+        "disgust": 0.04192,
+        "anger": 0.067596
+      },
+      "count": 1
+    },
+    {
+      "text": "bold move",
+      "sentiment": {
+        "score": 0.618648,
+        "label": "positive"
+      },
+      "relevance": 0.803046,
+      "emotion": {
+        "sadness": 0.091125,
+        "joy": 0.444685,
+        "fear": 0.350675,
+        "disgust": 0.049518,
+        "anger": 0.035123
+      },
+      "count": 1
+    },
+    {
+      "text": "Russian Global relations",
+      "sentiment": {
+        "score": 0.618648,
+        "label": "positive"
+      },
+      "relevance": 0.775763,
+      "emotion": {
+        "sadness": 0.091125,
+        "joy": 0.444685,
+        "fear": 0.350675,
+        "disgust": 0.049518,
+        "anger": 0.035123
+      },
+      "count": 1
+    },
+    {
+      "text": "Rural Russian Economic development team",
+      "sentiment": {
+        "score": 0.618648,
+        "label": "positive"
+      },
+      "relevance": 0.746074,
+      "emotion": {
+        "sadness": 0.091125,
+        "joy": 0.444685,
+        "fear": 0.350675,
+        "disgust": 0.049518,
+        "anger": 0.035123
+      },
+      "count": 1
+    },
+    {
+      "text": "foreign trade",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.663178,
+      "emotion": {
+        "sadness": 0.23948,
+        "joy": 0.516809,
+        "fear": 0.140545,
+        "disgust": 0.04192,
+        "anger": 0.067596
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Alexander Novak",
+      "sentiment": {
+        "score": -0.377919,
+        "label": "negative"
+      },
+      "relevance": 0.790819,
+      "mentions": [
+        {
+          "text": "Alexander Novak",
+          "location": [
+            16,
+            31
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            219,
+            221
+          ]
+        },
+        {
+          "text": "Novak",
+          "location": [
+            431,
+            436
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15137,
+        "joy": 0.719377,
+        "fear": 0.0889,
+        "disgust": 0.022169,
+        "anger": 0.048295
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Russian Global relations",
+      "sentiment": {
+        "score": 0.673217,
+        "label": "positive"
+      },
+      "relevance": 0.446826,
+      "mentions": [
+        {
+          "text": "Russian Global relations",
+          "location": [
+            405,
+            429
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.079848,
+        "joy": 0.320159,
+        "fear": 0.443042,
+        "disgust": 0.096498,
+        "anger": 0.069506
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Arctic",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.311187,
+      "mentions": [
+        {
+          "text": "Arctic",
+          "location": [
+            74,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.266439,
+        "joy": 0.430483,
+        "fear": 0.126425,
+        "disgust": 0.051605,
+        "anger": 0.047131
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Petroleum",
+      "relevance": 0.941266,
+      "dbpedia_resource": "http://dbpedia.org/resource/Petroleum"
+    },
+    {
+      "text": "Natural gas",
+      "relevance": 0.920068,
+      "dbpedia_resource": "http://dbpedia.org/resource/Natural_gas"
+    },
+    {
+      "text": "Economics",
+      "relevance": 0.868035,
+      "dbpedia_resource": "http://dbpedia.org/resource/Economics"
+    },
+    {
+      "text": "Trade",
+      "relevance": 0.805381,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trade"
+    },
+    {
+      "text": "Economy",
+      "relevance": 0.790485,
+      "dbpedia_resource": "http://dbpedia.org/resource/Economy"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999974,
+      "label": "/business and industrial/energy/oil"
+    }
+  ]
+}

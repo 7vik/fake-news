@@ -1,0 +1,283 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 711,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.551754,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "China's Tencent",
+      "sentiment": {
+        "score": -0.511413,
+        "label": "negative"
+      },
+      "relevance": 0.881336,
+      "emotion": {
+        "sadness": 0.252094,
+        "joy": 0.146676,
+        "fear": 0.067349,
+        "disgust": 0.165741,
+        "anger": 0.113583
+      },
+      "count": 1
+    },
+    {
+      "text": "Chinese tech",
+      "sentiment": {
+        "score": -0.511413,
+        "label": "negative"
+      },
+      "relevance": 0.788903,
+      "emotion": {
+        "sadness": 0.212969,
+        "joy": 0.251501,
+        "fear": 0.032521,
+        "disgust": 0.019918,
+        "anger": 0.081923
+      },
+      "count": 1
+    },
+    {
+      "text": "giant Tencent",
+      "sentiment": {
+        "score": -0.511413,
+        "label": "negative"
+      },
+      "relevance": 0.703218,
+      "emotion": {
+        "sadness": 0.212969,
+        "joy": 0.251501,
+        "fear": 0.032521,
+        "disgust": 0.019918,
+        "anger": 0.081923
+      },
+      "count": 1
+    },
+    {
+      "text": "mobile app",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.674306,
+      "emotion": {
+        "sadness": 0.088725,
+        "joy": 0.154837,
+        "fear": 0.029104,
+        "disgust": 0.006756,
+        "anger": 0.015599
+      },
+      "count": 1
+    },
+    {
+      "text": "electric cars",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659695,
+      "emotion": {
+        "sadness": 0.117834,
+        "joy": 0.118978,
+        "fear": 0.033167,
+        "disgust": 0.048472,
+        "anger": 0.130441
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Tesla",
+      "sentiment": {
+        "score": 0.070253,
+        "label": "positive"
+      },
+      "relevance": 0.898361,
+      "mentions": [
+        {
+          "text": "Tesla",
+          "location": [
+            33,
+            38
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            135,
+            140
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            295,
+            300
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            403,
+            408
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            464,
+            469
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277248,
+        "joy": 0.152282,
+        "fear": 0.126559,
+        "disgust": 0.058006,
+        "anger": 0.177282
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "VentureFundedCompany"
+        ],
+        "name": "Tesla Motors",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Motors"
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Tencent",
+      "sentiment": {
+        "score": -0.35477,
+        "label": "negative"
+      },
+      "relevance": 0.392953,
+      "mentions": [
+        {
+          "text": "Tencent",
+          "location": [
+            8,
+            15
+          ]
+        },
+        {
+          "text": "Tencent",
+          "location": [
+            58,
+            65
+          ]
+        },
+        {
+          "text": "Tencent",
+          "location": [
+            142,
+            149
+          ]
+        },
+        {
+          "text": "Tencent",
+          "location": [
+            337,
+            344
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213238,
+        "joy": 0.252259,
+        "fear": 0.03873,
+        "disgust": 0.011186,
+        "anger": 0.051967
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Tencent Holdings",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tencent_Holdings"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "China",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.164178,
+      "mentions": [
+        {
+          "text": "China",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "FilmScreeningVenue",
+          "Country"
+        ],
+        "name": "China",
+        "dbpedia_resource": "http://dbpedia.org/resource/China"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Electric car",
+      "relevance": 0.94519,
+      "dbpedia_resource": "http://dbpedia.org/resource/Electric_car"
+    },
+    {
+      "text": "Automobile",
+      "relevance": 0.867407,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    },
+    {
+      "text": "Tesla Roadster",
+      "relevance": 0.831514,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Roadster"
+    },
+    {
+      "text": "Tesla Motors",
+      "relevance": 0.819886,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Motors"
+    },
+    {
+      "text": "Tesla Model S",
+      "relevance": 0.761268,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Model_S"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.995924,
+      "label": "/automotive and vehicles/cars/hybrid"
+    }
+  ]
+}

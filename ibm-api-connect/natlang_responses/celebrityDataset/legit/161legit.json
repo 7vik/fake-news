@@ -1,0 +1,115 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prince Charles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.995976,
+      "emotion": {
+        "sadness": 0.325457,
+        "joy": 0.179244,
+        "fear": 0.192765,
+        "disgust": 0.01335,
+        "anger": 0.143718
+      },
+      "count": 1
+    },
+    {
+      "text": "Queen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.899735,
+      "emotion": {
+        "sadness": 0.325457,
+        "joy": 0.179244,
+        "fear": 0.192765,
+        "disgust": 0.01335,
+        "anger": 0.143718
+      },
+      "count": 1
+    },
+    {
+      "text": "sources",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636172,
+      "emotion": {
+        "sadness": 0.325457,
+        "joy": 0.179244,
+        "fear": 0.192765,
+        "disgust": 0.01335,
+        "anger": 0.143718
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince Charles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Prince Charles",
+          "location": [
+            35,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.135492,
+        "joy": 0.201312,
+        "fear": 0.079398,
+        "disgust": 0.092843,
+        "anger": 0.08705
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Elizabeth II of the United Kingdom",
+      "relevance": 0.914112,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elizabeth_II_of_the_United_Kingdom"
+    },
+    {
+      "text": "Prince Philip, Duke of Edinburgh",
+      "relevance": 0.849234,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh"
+    },
+    {
+      "text": "Elizabeth Bowes-Lyon",
+      "relevance": 0.819854,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elizabeth_Bowes-Lyon"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.577438,
+      "label": "/law, govt and politics/government/heads of state"
+    }
+  ]
+}

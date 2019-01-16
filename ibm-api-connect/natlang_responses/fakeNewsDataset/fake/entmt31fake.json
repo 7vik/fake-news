@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 766,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.519287,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Scarlett Johansson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.872584,
+      "emotion": {
+        "sadness": 0.12745,
+        "joy": 0.662561,
+        "fear": 0.16557,
+        "disgust": 0.072138,
+        "anger": 0.040189
+      },
+      "count": 1
+    },
+    {
+      "text": "Actress Scarlett Johansson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.840828,
+      "emotion": {
+        "sadness": 0.049775,
+        "joy": 0.821161,
+        "fear": 0.122505,
+        "disgust": 0.017164,
+        "anger": 0.007201
+      },
+      "count": 1
+    },
+    {
+      "text": "Good Morning America",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.676258,
+      "emotion": {
+        "sadness": 0.049775,
+        "joy": 0.821161,
+        "fear": 0.122505,
+        "disgust": 0.017164,
+        "anger": 0.007201
+      },
+      "count": 1
+    },
+    {
+      "text": "new film",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.592686,
+      "emotion": {
+        "sadness": 0.049775,
+        "joy": 0.821161,
+        "fear": 0.122505,
+        "disgust": 0.017164,
+        "anger": 0.007201
+      },
+      "count": 1
+    },
+    {
+      "text": "Easter Eggs",
+      "sentiment": {
+        "score": 0.770817,
+        "label": "positive"
+      },
+      "relevance": 0.562263,
+      "emotion": {
+        "sadness": 0.045171,
+        "joy": 0.759225,
+        "fear": 0.048078,
+        "disgust": 0.130777,
+        "anger": 0.060986
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Scarlett Johansson",
+      "sentiment": {
+        "score": -0.089855,
+        "label": "negative"
+      },
+      "relevance": 0.935207,
+      "mentions": [
+        {
+          "text": "Scarlett Johansson",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Scarlett Johansson",
+          "location": [
+            85,
+            103
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            111,
+            114
+          ]
+        },
+        {
+          "text": "Johansson",
+          "location": [
+            263,
+            272
+          ]
+        },
+        {
+          "text": "Johansson",
+          "location": [
+            632,
+            641
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244643,
+        "joy": 0.578978,
+        "fear": 0.150705,
+        "disgust": 0.046888,
+        "anger": 0.046042
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Scarlett Johansson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Scarlett_Johansson"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Michael Strahan",
+      "sentiment": {
+        "score": 0.554832,
+        "label": "positive"
+      },
+      "relevance": 0.186268,
+      "mentions": [
+        {
+          "text": "Michael Strahan",
+          "location": [
+            229,
+            244
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.178909,
+        "joy": 0.31325,
+        "fear": 0.106661,
+        "disgust": 0.119637,
+        "anger": 0.07333
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "Celebrity",
+          "FootballPlayer",
+          "TVActor"
+        ],
+        "name": "Michael Strahan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Strahan"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Good Morning America",
+      "sentiment": {
+        "score": 0.625175,
+        "label": "positive"
+      },
+      "relevance": 0.173703,
+      "mentions": [
+        {
+          "text": "Good Morning America",
+          "location": [
+            200,
+            220
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.017577,
+        "joy": 0.876483,
+        "fear": 0.034229,
+        "disgust": 0.050442,
+        "anger": 0.006339
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Scarlett Johansson",
+      "relevance": 0.94732,
+      "dbpedia_resource": "http://dbpedia.org/resource/Scarlett_Johansson"
+    },
+    {
+      "text": "Film",
+      "relevance": 0.604678,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.545292,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Easter",
+      "relevance": 0.501513,
+      "dbpedia_resource": "http://dbpedia.org/resource/Easter"
+    },
+    {
+      "text": "Actor",
+      "relevance": 0.499787,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actor"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.738219,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

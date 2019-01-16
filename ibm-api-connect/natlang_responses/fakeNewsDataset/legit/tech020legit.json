@@ -1,0 +1,157 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 625,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.614938,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new smartphone attachment",
+      "sentiment": {
+        "score": 0.900338,
+        "label": "positive"
+      },
+      "relevance": 0.966611,
+      "emotion": {
+        "sadness": 0.122741,
+        "joy": 0.510814,
+        "fear": 0.161059,
+        "disgust": 0.060756,
+        "anger": 0.029962
+      },
+      "count": 1
+    },
+    {
+      "text": "study shows",
+      "sentiment": {
+        "score": 0.900338,
+        "label": "positive"
+      },
+      "relevance": 0.789293,
+      "emotion": {
+        "sadness": 0.156804,
+        "joy": 0.134692,
+        "fear": 0.089657,
+        "disgust": 0.071857,
+        "anger": 0.033276
+      },
+      "count": 1
+    },
+    {
+      "text": "new study",
+      "sentiment": {
+        "score": 0.900338,
+        "label": "positive"
+      },
+      "relevance": 0.766676,
+      "emotion": {
+        "sadness": 0.122741,
+        "joy": 0.510814,
+        "fear": 0.161059,
+        "disgust": 0.060756,
+        "anger": 0.029962
+      },
+      "count": 1
+    },
+    {
+      "text": "new technology",
+      "sentiment": {
+        "score": 0.900338,
+        "label": "positive"
+      },
+      "relevance": 0.746913,
+      "emotion": {
+        "sadness": 0.310921,
+        "joy": 0.407034,
+        "fear": 0.20432,
+        "disgust": 0.109632,
+        "anger": 0.035888
+      },
+      "count": 2
+    },
+    {
+      "text": "Phone device tests",
+      "sentiment": {
+        "score": 0.900338,
+        "label": "positive"
+      },
+      "relevance": 0.617892,
+      "emotion": {
+        "sadness": 0.156804,
+        "joy": 0.134692,
+        "fear": 0.089657,
+        "disgust": 0.071857,
+        "anger": 0.033276
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "98%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.01,
+      "mentions": [
+        {
+          "text": "98%",
+          "location": [
+            39,
+            42
+          ]
+        },
+        {
+          "text": "98%",
+          "location": [
+            168,
+            171
+          ]
+        }
+      ],
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pregnancy",
+      "relevance": 0.964032,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+      "text": "Fertility",
+      "relevance": 0.757047,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fertility"
+    },
+    {
+      "text": "Spermatozoon",
+      "relevance": 0.732416,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spermatozoon"
+    },
+    {
+      "text": "Pregnancy test",
+      "relevance": 0.621279,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy_test"
+    },
+    {
+      "text": "Sperm",
+      "relevance": 0.606165,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sperm"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.802263,
+      "label": "/education/homework and study tips"
+    }
+  ]
+}

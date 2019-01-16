@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 931,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.686874,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Blake Shelton Addresses Rumors",
+      "sentiment": {
+        "score": -0.430744,
+        "label": "negative"
+      },
+      "relevance": 0.894708,
+      "emotion": {
+        "sadness": 0.049599,
+        "joy": 0.368978,
+        "fear": 0.110015,
+        "disgust": 0.092759,
+        "anger": 0.036018
+      },
+      "count": 1
+    },
+    {
+      "text": "typical unabashed manner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.72571,
+      "emotion": {
+        "sadness": 0.160703,
+        "joy": 0.738491,
+        "fear": 0.056081,
+        "disgust": 0.009765,
+        "anger": 0.049316
+      },
+      "count": 1
+    },
+    {
+      "text": "Miranda Lambert",
+      "sentiment": {
+        "score": -0.430744,
+        "label": "negative"
+      },
+      "relevance": 0.70154,
+      "emotion": {
+        "sadness": 0.251406,
+        "joy": 0.503465,
+        "fear": 0.066182,
+        "disgust": 0.204175,
+        "anger": 0.066567
+      },
+      "count": 1
+    },
+    {
+      "text": "tabloid chatter",
+      "sentiment": {
+        "score": -0.430744,
+        "label": "negative"
+      },
+      "relevance": 0.657128,
+      "emotion": {
+        "sadness": 0.251406,
+        "joy": 0.503465,
+        "fear": 0.066182,
+        "disgust": 0.204175,
+        "anger": 0.066567
+      },
+      "count": 1
+    },
+    {
+      "text": "best possible way",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.6559,
+      "emotion": {
+        "sadness": 0.160703,
+        "joy": 0.738491,
+        "fear": 0.056081,
+        "disgust": 0.009765,
+        "anger": 0.049316
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.107461,
+        "label": "negative"
+      },
+      "relevance": 0.943891,
+      "mentions": [
+        {
+          "text": "Blake Shelton",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Blake Shelton",
+          "location": [
+            67,
+            80
+          ]
+        },
+        {
+          "text": "Shelton",
+          "location": [
+            231,
+            238
+          ]
+        },
+        {
+          "text": "Shelton",
+          "location": [
+            601,
+            608
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            808,
+            810
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.121112,
+        "joy": 0.182234,
+        "fear": 0.125686,
+        "disgust": 0.490984,
+        "anger": 0.126447
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.077612,
+        "label": "positive"
+      },
+      "relevance": 0.391073,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            34,
+            41
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            539,
+            546
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.07223,
+        "joy": 0.713254,
+        "fear": 0.110903,
+        "disgust": 0.067747,
+        "anger": 0.031276
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Miranda",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.343307,
+      "mentions": [
+        {
+          "text": "Miranda",
+          "location": [
+            157,
+            164
+          ]
+        },
+        {
+          "text": "Miranda",
+          "location": [
+            815,
+            822
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.298773,
+        "joy": 0.207029,
+        "fear": 0.118018,
+        "disgust": 0.163668,
+        "anger": 0.14271
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lindsay Sporrer",
+      "sentiment": {
+        "score": 0.463788,
+        "label": "positive"
+      },
+      "relevance": 0.235117,
+      "mentions": [
+        {
+          "text": "Lindsay Sporrer",
+          "location": [
+            286,
+            301
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            313,
+            315
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172009,
+        "joy": 0.662196,
+        "fear": 0.019673,
+        "disgust": 0.021174,
+        "anger": 0.018342
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Usher",
+      "sentiment": {
+        "score": 0.52693,
+        "label": "positive"
+      },
+      "relevance": 0.196223,
+      "mentions": [
+        {
+          "text": "Usher",
+          "location": [
+            325,
+            330
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Blake Shelton",
+      "relevance": 0.927461,
+      "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+    },
+    {
+      "text": "Miranda Lambert",
+      "relevance": 0.905322,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Lambert"
+    },
+    {
+      "text": "Nashville Star",
+      "relevance": 0.770039,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nashville_Star"
+    },
+    {
+      "text": "Startin' Fires",
+      "relevance": 0.757448,
+      "dbpedia_resource": "http://dbpedia.org/resource/Startin'_Fires"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.877502,
+      "label": "/news"
+    }
+  ]
+}

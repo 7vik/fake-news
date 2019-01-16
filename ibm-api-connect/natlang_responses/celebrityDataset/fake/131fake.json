@@ -1,0 +1,187 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 145,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.754028,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Nicki Minaj",
+      "sentiment": {
+        "score": -0.754028,
+        "label": "negative"
+      },
+      "relevance": 0.994473,
+      "emotion": {
+        "sadness": 0.164706,
+        "joy": 0.507119,
+        "fear": 0.076483,
+        "disgust": 0.107442,
+        "anger": 0.136234
+      },
+      "count": 1
+    },
+    {
+      "text": "white leather hotpants",
+      "sentiment": {
+        "score": -0.754028,
+        "label": "negative"
+      },
+      "relevance": 0.785499,
+      "emotion": {
+        "sadness": 0.126089,
+        "joy": 0.570617,
+        "fear": 0.083829,
+        "disgust": 0.086573,
+        "anger": 0.105519
+      },
+      "count": 1
+    },
+    {
+      "text": "kinda",
+      "sentiment": {
+        "score": -0.754028,
+        "label": "negative"
+      },
+      "relevance": 0.550737,
+      "emotion": {
+        "sadness": 0.126089,
+        "joy": 0.570617,
+        "fear": 0.083829,
+        "disgust": 0.086573,
+        "anger": 0.105519
+      },
+      "count": 1
+    },
+    {
+      "text": "Serena Williams' wedding",
+      "sentiment": {
+        "score": -0.754028,
+        "label": "negative"
+      },
+      "relevance": 0.373991,
+      "emotion": {
+        "sadness": 0.164706,
+        "joy": 0.507119,
+        "fear": 0.076483,
+        "disgust": 0.107442,
+        "anger": 0.136234
+      },
+      "count": 1
+    },
+    {
+      "text": "crop top",
+      "sentiment": {
+        "score": -0.754028,
+        "label": "negative"
+      },
+      "relevance": 0.31733,
+      "emotion": {
+        "sadness": 0.126089,
+        "joy": 0.570617,
+        "fear": 0.083829,
+        "disgust": 0.086573,
+        "anger": 0.105519
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nicki Minaj",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Nicki Minaj",
+          "location": [
+            5,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15609,
+        "joy": 0.170722,
+        "fear": 0.07455,
+        "disgust": 0.273969,
+        "anger": 0.114445
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Nicki Minaj",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nicki_Minaj"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Serena Williams",
+          "location": [
+            25,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15609,
+        "joy": 0.170722,
+        "fear": 0.07455,
+        "disgust": 0.273969,
+        "anger": 0.114445
+      },
+      "disambiguation": {
+        "subtype": [
+          "TennisPlayer",
+          "AwardWinner",
+          "Celebrity",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Serena Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nicki Minaj",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicki_Minaj"
+    },
+    {
+      "text": "Serena Williams",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.903553,
+      "label": "/business and industrial/agriculture and forestry/crops and seed"
+    }
+  ]
+}

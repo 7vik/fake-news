@@ -1,0 +1,264 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 674,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.723024,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "School buses",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.880511,
+      "emotion": {
+        "sadness": 0.254884,
+        "joy": 0.149699,
+        "fear": 0.077664,
+        "disgust": 0.376115,
+        "anger": 0.196722
+      },
+      "count": 1
+    },
+    {
+      "text": "school superintendent",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.713366,
+      "emotion": {
+        "sadness": 0.328005,
+        "joy": 0.348097,
+        "fear": 0.170052,
+        "disgust": 0.177571,
+        "anger": 0.156113
+      },
+      "count": 1
+    },
+    {
+      "text": "coal mining",
+      "sentiment": {
+        "score": -0.933955,
+        "label": "negative"
+      },
+      "relevance": 0.713284,
+      "emotion": {
+        "sadness": 0.542513,
+        "joy": 0.030817,
+        "fear": 0.315007,
+        "disgust": 0.111385,
+        "anger": 0.211568
+      },
+      "count": 1
+    },
+    {
+      "text": "North Carolina",
+      "sentiment": {
+        "score": -0.933955,
+        "label": "negative"
+      },
+      "relevance": 0.683166,
+      "emotion": {
+        "sadness": 0.542513,
+        "joy": 0.030817,
+        "fear": 0.315007,
+        "disgust": 0.111385,
+        "anger": 0.211568
+      },
+      "count": 1
+    },
+    {
+      "text": "Male teachers",
+      "sentiment": {
+        "score": -0.933955,
+        "label": "negative"
+      },
+      "relevance": 0.662284,
+      "emotion": {
+        "sadness": 0.112073,
+        "joy": 0.133656,
+        "fear": 0.108768,
+        "disgust": 0.584087,
+        "anger": 0.224238
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "JobTitle",
+      "text": "superintendent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.838769,
+      "mentions": [
+        {
+          "text": "superintendent",
+          "location": [
+            559,
+            573
+          ]
+        },
+        {
+          "text": "its",
+          "location": [
+            594,
+            597
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.263656,
+        "joy": 0.09349,
+        "fear": 0.187413,
+        "disgust": 0.163764,
+        "anger": 0.214532
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Alvin L. Crawley",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.789023,
+      "mentions": [
+        {
+          "text": "Alvin L. Crawley",
+          "location": [
+            575,
+            591
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158132,
+        "joy": 0.163354,
+        "fear": 0.097915,
+        "disgust": 0.074539,
+        "anger": 0.094071
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "North Carolina",
+      "sentiment": {
+        "score": -0.500481,
+        "label": "negative"
+      },
+      "relevance": 0.612454,
+      "mentions": [
+        {
+          "text": "North Carolina",
+          "location": [
+            191,
+            205
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.558897,
+        "joy": 0.051316,
+        "fear": 0.250037,
+        "disgust": 0.109685,
+        "anger": 0.18531
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "North Carolina",
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Virginia",
+      "sentiment": {
+        "score": -0.500481,
+        "label": "negative"
+      },
+      "relevance": 0.516349,
+      "mentions": [
+        {
+          "text": "Virginia",
+          "location": [
+            210,
+            218
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.558897,
+        "joy": 0.051316,
+        "fear": 0.250037,
+        "disgust": 0.109685,
+        "anger": 0.18531
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Virginia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Virginia"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.986099,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "School",
+      "relevance": 0.873476,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Teacher",
+      "relevance": 0.778264,
+      "dbpedia_resource": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+      "text": "Native Americans in the United States",
+      "relevance": 0.598603,
+      "dbpedia_resource": "http://dbpedia.org/resource/Native_Americans_in_the_United_States"
+    },
+    {
+      "text": "Utah",
+      "relevance": 0.574138,
+      "dbpedia_resource": "http://dbpedia.org/resource/Utah"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.875314,
+      "label": "/education"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 646,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.908767,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "toilet paper",
+      "sentiment": {
+        "score": -0.865471,
+        "label": "negative"
+      },
+      "relevance": 0.733285,
+      "emotion": {
+        "sadness": 0.136113,
+        "joy": 0.074879,
+        "fear": 0.035297,
+        "disgust": 0.381141,
+        "anger": 0.34964
+      },
+      "count": 1
+    },
+    {
+      "text": "Amazon's Alexa",
+      "sentiment": {
+        "score": -0.865471,
+        "label": "negative"
+      },
+      "relevance": 0.718912,
+      "emotion": {
+        "sadness": 0.064808,
+        "joy": 0.454377,
+        "fear": 0.102045,
+        "disgust": 0.009927,
+        "anger": 0.045715
+      },
+      "count": 1
+    },
+    {
+      "text": "alcohol delivery",
+      "sentiment": {
+        "score": -0.946806,
+        "label": "negative"
+      },
+      "relevance": 0.687246,
+      "emotion": {
+        "sadness": 0.257496,
+        "joy": 0.394534,
+        "fear": 0.013088,
+        "disgust": 0.024898,
+        "anger": 0.05405
+      },
+      "count": 1
+    },
+    {
+      "text": "dish soap",
+      "sentiment": {
+        "score": -0.946806,
+        "label": "negative"
+      },
+      "relevance": 0.660677,
+      "emotion": {
+        "sadness": 0.257496,
+        "joy": 0.394534,
+        "fear": 0.013088,
+        "disgust": 0.024898,
+        "anger": 0.05405
+      },
+      "count": 1
+    },
+    {
+      "text": "Echo devices",
+      "sentiment": {
+        "score": -0.946806,
+        "label": "negative"
+      },
+      "relevance": 0.658246,
+      "emotion": {
+        "sadness": 0.257496,
+        "joy": 0.394534,
+        "fear": 0.013088,
+        "disgust": 0.024898,
+        "anger": 0.05405
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Alexa",
+      "sentiment": {
+        "score": -0.622699,
+        "label": "negative"
+      },
+      "relevance": 0.972282,
+      "mentions": [
+        {
+          "text": "Alexa",
+          "location": [
+            9,
+            14
+          ]
+        },
+        {
+          "text": "Alexa",
+          "location": [
+            154,
+            159
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.091897,
+        "joy": 0.252199,
+        "fear": 0.054868,
+        "disgust": 0.173614,
+        "anger": 0.285185
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alexa Internet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexa_Internet"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.806918,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            489,
+            495
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.401598,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            244,
+            246
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.22584,
+        "joy": 0.155709,
+        "fear": 0.023467,
+        "disgust": 0.068614,
+        "anger": 0.111389
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Seattle",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.389969,
+      "mentions": [
+        {
+          "text": "Seattle",
+          "location": [
+            480,
+            487
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213702,
+        "joy": 0.049147,
+        "fear": 0.036544,
+        "disgust": 0.010326,
+        "anger": 0.034966
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Seattle",
+        "dbpedia_resource": "http://dbpedia.org/resource/Seattle"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cincinnati",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.364794,
+      "mentions": [
+        {
+          "text": "Cincinnati",
+          "location": [
+            556,
+            566
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.052257,
+        "joy": 0.658762,
+        "fear": 0.019124,
+        "disgust": 0.018076,
+        "anger": 0.013699
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Cincinnati",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cincinnati"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Procter & Gamble",
+      "relevance": 0.920089,
+      "dbpedia_resource": "http://dbpedia.org/resource/Procter_&_Gamble"
+    },
+    {
+      "text": "Paper",
+      "relevance": 0.905995,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paper"
+    },
+    {
+      "text": "Ohio",
+      "relevance": 0.905934,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ohio"
+    },
+    {
+      "text": "Amazon.com",
+      "relevance": 0.886029,
+      "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+    },
+    {
+      "text": "Toilet paper",
+      "relevance": 0.842262,
+      "dbpedia_resource": "http://dbpedia.org/resource/Toilet_paper"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.792669,
+      "label": "/food and drink/beverages/alcoholic beverages"
+    }
+  ]
+}

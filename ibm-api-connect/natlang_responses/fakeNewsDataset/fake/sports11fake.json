@@ -1,0 +1,256 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 769,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.289285,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "BBC State of Sport Investigation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.835164,
+      "emotion": {
+        "sadness": 0.10538,
+        "joy": 0.15574,
+        "fear": 0.023763,
+        "disgust": 0.174784,
+        "anger": 0.302811
+      },
+      "count": 1
+    },
+    {
+      "text": "lesser levels of use",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.656567,
+      "emotion": {
+        "sadness": 0.22016,
+        "joy": 0.18119,
+        "fear": 0.228118,
+        "disgust": 0.37403,
+        "anger": 0.214224
+      },
+      "count": 1
+    },
+    {
+      "text": "amateur sports industry",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.617086,
+      "emotion": {
+        "sadness": 0.10538,
+        "joy": 0.15574,
+        "fear": 0.023763,
+        "disgust": 0.174784,
+        "anger": 0.302811
+      },
+      "count": 1
+    },
+    {
+      "text": "sports",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.603488,
+      "emotion": {
+        "sadness": 0.160236,
+        "joy": 0.284997,
+        "fear": 0.075374,
+        "disgust": 0.393835,
+        "anger": 0.210343
+      },
+      "count": 2
+    },
+    {
+      "text": "light of the poll",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.572296,
+      "emotion": {
+        "sadness": 0.242519,
+        "joy": 0.489504,
+        "fear": 0.034196,
+        "disgust": 0.215729,
+        "anger": 0.064487
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tracey Crouch",
+      "sentiment": {
+        "score": 0.098655,
+        "label": "positive"
+      },
+      "relevance": 0.875711,
+      "mentions": [
+        {
+          "text": "Tracey Crouch",
+          "location": [
+            70,
+            83
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            151,
+            154
+          ]
+        },
+        {
+          "text": "Crouch",
+          "location": [
+            491,
+            497
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140616,
+        "joy": 0.562885,
+        "fear": 0.025697,
+        "disgust": 0.13412,
+        "anger": 0.096675
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Tracey Crouch",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tracey_Crouch"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "BBC State of Sport Investigation",
+      "sentiment": {
+        "score": -0.523903,
+        "label": "negative"
+      },
+      "relevance": 0.478557,
+      "mentions": [
+        {
+          "text": "BBC State of Sport Investigation",
+          "location": [
+            200,
+            232
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10538,
+        "joy": 0.15574,
+        "fear": 0.023763,
+        "disgust": 0.174784,
+        "anger": 0.302811
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.377423,
+        "label": "positive"
+      },
+      "relevance": 0.243812,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            600,
+            602
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186894,
+        "joy": 0.184406,
+        "fear": 0.150083,
+        "disgust": 0.438223,
+        "anger": 0.243466
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "1%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.243812,
+      "mentions": [
+        {
+          "text": "1%",
+          "location": [
+            650,
+            652
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "2%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.243812,
+      "mentions": [
+        {
+          "text": "2%",
+          "location": [
+            253,
+            255
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Drugs in sport",
+      "relevance": 0.9477,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drugs_in_sport"
+    },
+    {
+      "text": "BBC",
+      "relevance": 0.754919,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.9617,
+      "label": "/sports/hunting and shooting"
+    }
+  ]
+}

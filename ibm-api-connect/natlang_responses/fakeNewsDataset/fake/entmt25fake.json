@@ -1,0 +1,381 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 798,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.268814,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "secret meeting",
+      "sentiment": {
+        "score": -0.730809,
+        "label": "negative"
+      },
+      "relevance": 0.849904,
+      "emotion": {
+        "sadness": 0.100181,
+        "joy": 0.800341,
+        "fear": 0.019995,
+        "disgust": 0.016858,
+        "anger": 0.03819
+      },
+      "count": 1
+    },
+    {
+      "text": "Saturday Night Live",
+      "sentiment": {
+        "score": -0.730809,
+        "label": "negative"
+      },
+      "relevance": 0.71181,
+      "emotion": {
+        "sadness": 0.100181,
+        "joy": 0.800341,
+        "fear": 0.019995,
+        "disgust": 0.016858,
+        "anger": 0.03819
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.730809,
+        "label": "negative"
+      },
+      "relevance": 0.645681,
+      "emotion": {
+        "sadness": 0.109228,
+        "joy": 0.755203,
+        "fear": 0.014436,
+        "disgust": 0.022372,
+        "anger": 0.115114
+      },
+      "count": 1
+    },
+    {
+      "text": "satirical book",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.643848,
+      "emotion": {
+        "sadness": 0.316266,
+        "joy": 0.41716,
+        "fear": 0.075284,
+        "disgust": 0.082195,
+        "anger": 0.146919
+      },
+      "count": 1
+    },
+    {
+      "text": "bad light",
+      "sentiment": {
+        "score": -0.659029,
+        "label": "negative"
+      },
+      "relevance": 0.609847,
+      "emotion": {
+        "sadness": 0.392828,
+        "joy": 0.329589,
+        "fear": 0.275549,
+        "disgust": 0.101346,
+        "anger": 0.067152
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.110803,
+        "label": "positive"
+      },
+      "relevance": 0.909897,
+      "mentions": [
+        {
+          "text": "Alec Baldwin Quits Playing President Trump",
+          "location": [
+            0,
+            42
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            164,
+            179
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            213,
+            218
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            332,
+            337
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            396,
+            398
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            513,
+            515
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            543,
+            546
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            572,
+            574
+          ]
+        },
+        {
+          "text": "myself",
+          "location": [
+            594,
+            600
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.471821,
+        "joy": 0.581665,
+        "fear": 0.109711,
+        "disgust": 0.084963,
+        "anger": 0.121787
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Alec Baldwin",
+      "sentiment": {
+        "score": 0.172049,
+        "label": "positive"
+      },
+      "relevance": 0.691011,
+      "mentions": [
+        {
+          "text": "Alec Baldwin",
+          "location": [
+            64,
+            76
+          ]
+        },
+        {
+          "text": "Baldwin",
+          "location": [
+            201,
+            208
+          ]
+        },
+        {
+          "text": "Baldwin",
+          "location": [
+            284,
+            291
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            620,
+            623
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            671,
+            674
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            686,
+            688
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            728,
+            730
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.228599,
+        "joy": 0.669239,
+        "fear": 0.085934,
+        "disgust": 0.072602,
+        "anger": 0.159935
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Alec Baldwin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alec_Baldwin"
+      },
+      "count": 7
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Saturday Night Live",
+      "sentiment": {
+        "score": 0.5095,
+        "label": "positive"
+      },
+      "relevance": 0.175257,
+      "mentions": [
+        {
+          "text": "Saturday Night Live",
+          "location": [
+            116,
+            135
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.100181,
+        "joy": 0.800341,
+        "fear": 0.019995,
+        "disgust": 0.016858,
+        "anger": 0.03819
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "Saturday Night Live",
+        "dbpedia_resource": "http://dbpedia.org/resource/Saturday_Night_Live"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.160689,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            561,
+            570
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Vanity Fair",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.140371,
+      "mentions": [
+        {
+          "text": "Vanity Fair",
+          "location": [
+            777,
+            788
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.340798,
+        "joy": 0.368486,
+        "fear": 0.088962,
+        "disgust": 0.102382,
+        "anger": 0.145303
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Saturday Night Live",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+      "text": "Tina Fey",
+      "relevance": 0.882699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tina_Fey"
+    },
+    {
+      "text": "30 Rock",
+      "relevance": 0.86342,
+      "dbpedia_resource": "http://dbpedia.org/resource/30_Rock"
+    },
+    {
+      "text": "Dan Aykroyd",
+      "relevance": 0.831922,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dan_Aykroyd"
+    },
+    {
+      "text": "Alec Baldwin",
+      "relevance": 0.815341,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alec_Baldwin"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.785134,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

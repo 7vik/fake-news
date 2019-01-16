@@ -1,0 +1,211 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 103,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Former Beatle Ringo Starr Claims",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998403,
+      "emotion": {
+        "sadness": 0.753383,
+        "joy": 0.044131,
+        "fear": 0.044473,
+        "disgust": 0.126206,
+        "anger": 0.178602
+      },
+      "count": 1
+    },
+    {
+      "text": "Paul McCartney Died",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.422241,
+      "emotion": {
+        "sadness": 0.753383,
+        "joy": 0.044131,
+        "fear": 0.044473,
+        "disgust": 0.126206,
+        "anger": 0.178602
+      },
+      "count": 1
+    },
+    {
+      "text": "Real",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.050923,
+      "emotion": {
+        "sadness": 0.753383,
+        "joy": 0.044131,
+        "fear": 0.044473,
+        "disgust": 0.126206,
+        "anger": 0.178602
+      },
+      "count": 1
+    },
+    {
+      "text": "Look",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.039189,
+      "emotion": {
+        "sadness": 0.753383,
+        "joy": 0.044131,
+        "fear": 0.044473,
+        "disgust": 0.126206,
+        "anger": 0.178602
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beatle Ringo Starr",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beatle Ringo Starr",
+          "location": [
+            7,
+            25
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.306309,
+        "joy": 0.044272,
+        "fear": 0.056221,
+        "disgust": 0.129722,
+        "anger": 0.13057
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "Lyricist",
+          "MusicalGroupMember",
+          "Songwriter",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Ringo Starr",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ringo_Starr"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Paul McCartney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Paul McCartney",
+          "location": [
+            44,
+            58
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.838487,
+        "joy": 0.042171,
+        "fear": 0.046356,
+        "disgust": 0.075548,
+        "anger": 0.130803
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "Guitarist",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "TheatricalComposer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Paul McCartney",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ringo Starr",
+      "relevance": 0.959712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ringo_Starr"
+    },
+    {
+      "text": "The Beatles",
+      "relevance": 0.771818,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Beatles"
+    },
+    {
+      "text": "Paul McCartney",
+      "relevance": 0.753562,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+    },
+    {
+      "text": "Abbey Road",
+      "relevance": 0.576671,
+      "dbpedia_resource": "http://dbpedia.org/resource/Abbey_Road"
+    },
+    {
+      "text": "Sgt. Pepper's Lonely Hearts Club Band",
+      "relevance": 0.563228,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.649281,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

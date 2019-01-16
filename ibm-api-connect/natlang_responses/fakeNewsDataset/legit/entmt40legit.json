@@ -1,0 +1,383 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1071,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.557336,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Carrie Fisher",
+      "sentiment": {
+        "score": -0.796401,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.837466,
+      "emotion": {
+        "sadness": 0.234111,
+        "joy": 0.552727,
+        "fear": 0.085514,
+        "disgust": 0.093074,
+        "anger": 0.16259
+      },
+      "count": 3
+    },
+    {
+      "text": "Debbie Reynolds' public memorial",
+      "sentiment": {
+        "score": -0.975228,
+        "label": "negative"
+      },
+      "relevance": 0.815478,
+      "emotion": {
+        "sadness": 0.160676,
+        "joy": 0.14194,
+        "fear": 0.094829,
+        "disgust": 0.254113,
+        "anger": 0.260656
+      },
+      "count": 1
+    },
+    {
+      "text": "Reynolds' son  Todd Fisher",
+      "sentiment": {
+        "score": -0.517401,
+        "label": "negative"
+      },
+      "relevance": 0.69175,
+      "emotion": {
+        "sadness": 0.273901,
+        "joy": 0.089734,
+        "fear": 0.075042,
+        "disgust": 0.182688,
+        "anger": 0.288189
+      },
+      "count": 1
+    },
+    {
+      "text": "final farewell",
+      "sentiment": {
+        "score": -0.975228,
+        "label": "negative"
+      },
+      "relevance": 0.670358,
+      "emotion": {
+        "sadness": 0.57891,
+        "joy": 0.157799,
+        "fear": 0.202469,
+        "disgust": 0.089356,
+        "anger": 0.221153
+      },
+      "count": 1
+    },
+    {
+      "text": "James Blunt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.622649,
+      "emotion": {
+        "sadness": 0.240351,
+        "joy": 0.575022,
+        "fear": 0.051924,
+        "disgust": 0.11185,
+        "anger": 0.069609
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Carrie Fisher",
+      "sentiment": {
+        "score": -0.639191,
+        "label": "negative"
+      },
+      "relevance": 0.849678,
+      "mentions": [
+        {
+          "text": "Carrie Fisher",
+          "location": [
+            20,
+            33
+          ]
+        },
+        {
+          "text": "Carrie Fisher",
+          "location": [
+            136,
+            149
+          ]
+        },
+        {
+          "text": "Todd Fisher",
+          "location": [
+            579,
+            590
+          ]
+        },
+        {
+          "text": "Todd Fisher",
+          "location": [
+            754,
+            765
+          ]
+        },
+        {
+          "text": "Carrie Fisher",
+          "location": [
+            904,
+            917
+          ]
+        },
+        {
+          "text": "Fisher",
+          "location": [
+            1046,
+            1052
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.58654,
+        "joy": 0.572903,
+        "fear": 0.095388,
+        "disgust": 0.098703,
+        "anger": 0.140438
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Carrie Fisher",
+        "dbpedia_resource": "http://dbpedia.org/resource/Carrie_Fisher"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Debbie Reynolds",
+      "sentiment": {
+        "score": -0.531786,
+        "label": "negative"
+      },
+      "relevance": 0.523191,
+      "mentions": [
+        {
+          "text": "Debbie Reynolds",
+          "location": [
+            38,
+            53
+          ]
+        },
+        {
+          "text": "Debbie Reynolds",
+          "location": [
+            166,
+            181
+          ]
+        },
+        {
+          "text": "Reynolds",
+          "location": [
+            545,
+            553
+          ]
+        },
+        {
+          "text": "Reynolds",
+          "location": [
+            564,
+            572
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.42918,
+        "joy": 0.307755,
+        "fear": 0.1271,
+        "disgust": 0.083969,
+        "anger": 0.248682
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Debbie Reynolds",
+        "dbpedia_resource": "http://dbpedia.org/resource/Debbie_Reynolds"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "James Blunt",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.292353,
+      "mentions": [
+        {
+          "text": "James Blunt",
+          "location": [
+            804,
+            815
+          ]
+        },
+        {
+          "text": "Blunt",
+          "location": [
+            894,
+            899
+          ]
+        },
+        {
+          "text": "good friends",
+          "location": [
+            923,
+            935
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            944,
+            946
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            989,
+            991
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.090799,
+        "joy": 0.786465,
+        "fear": 0.031747,
+        "disgust": 0.072466,
+        "anger": 0.049716
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "James Blunt",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Blunt"
+      },
+      "count": 5
+    },
+    {
+      "type": "Facility",
+      "text": "Forest Lawn Cemetery Hollywood Hills",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.18223,
+      "mentions": [
+        {
+          "text": "Forest Lawn Cemetery Hollywood Hills",
+          "location": [
+            276,
+            312
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109519,
+        "joy": 0.266236,
+        "fear": 0.168244,
+        "disgust": 0.128809,
+        "anger": 0.181898
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Hall of Liberty",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.162554,
+      "mentions": [
+        {
+          "text": "Hall of Liberty",
+          "location": [
+            257,
+            272
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109519,
+        "joy": 0.266236,
+        "fear": 0.168244,
+        "disgust": 0.128809,
+        "anger": 0.181898
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Carrie Fisher",
+      "relevance": 0.924608,
+      "dbpedia_resource": "http://dbpedia.org/resource/Carrie_Fisher"
+    },
+    {
+      "text": "James Blunt",
+      "relevance": 0.867622,
+      "dbpedia_resource": "http://dbpedia.org/resource/James_Blunt"
+    },
+    {
+      "text": "Debbie Reynolds",
+      "relevance": 0.840696,
+      "dbpedia_resource": "http://dbpedia.org/resource/Debbie_Reynolds"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.771643,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.678282,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.586529,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

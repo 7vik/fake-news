@@ -1,0 +1,217 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 515,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.388388,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "oldest Vespa",
+      "sentiment": {
+        "score": 0.490509,
+        "label": "positive"
+      },
+      "relevance": 0.875109,
+      "emotion": {
+        "sadness": 0.603244,
+        "joy": 0.282361,
+        "fear": 0.047835,
+        "disgust": 0.025468,
+        "anger": 0.101882
+      },
+      "count": 2
+    },
+    {
+      "text": "serial number",
+      "sentiment": {
+        "score": 0.29247,
+        "label": "positive"
+      },
+      "relevance": 0.818603,
+      "emotion": {
+        "sadness": 0.526456,
+        "joy": 0.34053,
+        "fear": 0.04315,
+        "disgust": 0.026159,
+        "anger": 0.107434
+      },
+      "count": 1
+    },
+    {
+      "text": "world's oldest Vespa",
+      "sentiment": {
+        "score": 0.29247,
+        "label": "positive"
+      },
+      "relevance": 0.703553,
+      "emotion": {
+        "sadness": 0.526456,
+        "joy": 0.34053,
+        "fear": 0.04315,
+        "disgust": 0.026159,
+        "anger": 0.107434
+      },
+      "count": 1
+    },
+    {
+      "text": "third prototype",
+      "sentiment": {
+        "score": 0.29247,
+        "label": "positive"
+      },
+      "relevance": 0.674131,
+      "emotion": {
+        "sadness": 0.526456,
+        "joy": 0.34053,
+        "fear": 0.04315,
+        "disgust": 0.026159,
+        "anger": 0.107434
+      },
+      "count": 1
+    },
+    {
+      "text": "famous company",
+      "sentiment": {
+        "score": 0.29247,
+        "label": "positive"
+      },
+      "relevance": 0.652318,
+      "emotion": {
+        "sadness": 0.526456,
+        "joy": 0.34053,
+        "fear": 0.04315,
+        "disgust": 0.026159,
+        "anger": 0.107434
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Audrey Hepburn",
+      "sentiment": {
+        "score": 0.65075,
+        "label": "positive"
+      },
+      "relevance": 0.805497,
+      "mentions": [
+        {
+          "text": "Audrey Hepburn",
+          "location": [
+            108,
+            122
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112653,
+        "joy": 0.555255,
+        "fear": 0.050054,
+        "disgust": 0.025365,
+        "anger": 0.081846
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Audrey Hepburn",
+        "dbpedia_resource": "http://dbpedia.org/resource/Audrey_Hepburn"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Piaggio",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.648882,
+      "mentions": [
+        {
+          "text": "Piaggio",
+          "location": [
+            203,
+            210
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.268119,
+        "joy": 0.388671,
+        "fear": 0.066816,
+        "disgust": 0.103795,
+        "anger": 0.092737
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Piaggio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Piaggio"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Rome",
+      "sentiment": {
+        "score": 0.65075,
+        "label": "positive"
+      },
+      "relevance": 0.505579,
+      "mentions": [
+        {
+          "text": "Rome",
+          "location": [
+            79,
+            83
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112653,
+        "joy": 0.555255,
+        "fear": 0.050054,
+        "disgust": 0.025365,
+        "anger": 0.081846
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Vespa",
+      "relevance": 0.972168,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vespa"
+    },
+    {
+      "text": "Audrey Hepburn",
+      "relevance": 0.781242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Audrey_Hepburn"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.982751,
+      "label": "/shopping/auctions"
+    }
+  ]
+}

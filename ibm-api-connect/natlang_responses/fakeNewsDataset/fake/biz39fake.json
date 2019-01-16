@@ -1,0 +1,278 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 665,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.58256,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Westinghouse Electric",
+      "sentiment": {
+        "score": 0.58256,
+        "label": "positive"
+      },
+      "relevance": 0.959977,
+      "emotion": {
+        "sadness": 0.260328,
+        "joy": 0.114645,
+        "fear": 0.318944,
+        "disgust": 0.244278,
+        "anger": 0.161601
+      },
+      "count": 1
+    },
+    {
+      "text": "invention of air brakes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.853931,
+      "emotion": {
+        "sadness": 0.019009,
+        "joy": 0.101922,
+        "fear": 0.074912,
+        "disgust": 0.009259,
+        "anger": 0.015661
+      },
+      "count": 1
+    },
+    {
+      "text": "Westinginghouse Electric",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.688889,
+      "emotion": {
+        "sadness": 0.153491,
+        "joy": 0.124992,
+        "fear": 0.030003,
+        "disgust": 0.174978,
+        "anger": 0.177933
+      },
+      "count": 1
+    },
+    {
+      "text": "Mr. Westinghouse",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.634304,
+      "emotion": {
+        "sadness": 0.543946,
+        "joy": 0.130911,
+        "fear": 0.058334,
+        "disgust": 0.033162,
+        "anger": 0.045928
+      },
+      "count": 1
+    },
+    {
+      "text": "George Westinghouse",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.607527,
+      "emotion": {
+        "sadness": 0.298328,
+        "joy": 0.206418,
+        "fear": 0.034974,
+        "disgust": 0.109086,
+        "anger": 0.162688
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Westinghouse Electric",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.940984,
+      "mentions": [
+        {
+          "text": "Westinghouse Electric",
+          "location": [
+            0,
+            21
+          ]
+        },
+        {
+          "text": "Westinghouse Electric",
+          "location": [
+            70,
+            91
+          ]
+        },
+        {
+          "text": "the leading the advances",
+          "location": [
+            95,
+            119
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187946,
+        "joy": 0.101273,
+        "fear": 0.338145,
+        "disgust": 0.251243,
+        "anger": 0.171817
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Westinghouse Electric (1886)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Westinghouse_Electric_(1886)"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "George Westinghouse",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.619732,
+      "mentions": [
+        {
+          "text": "George Westinghouse",
+          "location": [
+            437,
+            456
+          ]
+        },
+        {
+          "text": "Mr. Westinghouse",
+          "location": [
+            459,
+            475
+          ]
+        },
+        {
+          "text": "an inventor",
+          "location": [
+            480,
+            491
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.551838,
+        "joy": 0.175085,
+        "fear": 0.035978,
+        "disgust": 0.046166,
+        "anger": 0.069683
+      },
+      "disambiguation": {
+        "subtype": [
+          "Academic",
+          "Inventor",
+          "ProjectParticipant",
+          "Scientist"
+        ],
+        "name": "George Westinghouse",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Westinghouse"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Westinghouse",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.43167,
+      "mentions": [
+        {
+          "text": "Westinghouse",
+          "location": [
+            410,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.298328,
+        "joy": 0.206418,
+        "fear": 0.034974,
+        "disgust": 0.109086,
+        "anger": 0.162688
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Westinginghouse Electric",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.231788,
+      "mentions": [
+        {
+          "text": "Westinginghouse Electric",
+          "location": [
+            282,
+            306
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153491,
+        "joy": 0.124992,
+        "fear": 0.030003,
+        "disgust": 0.174978,
+        "anger": 0.177933
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Toshiba",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.153196,
+      "mentions": [
+        {
+          "text": "Toshiba",
+          "location": [
+            184,
+            191
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.254055,
+        "joy": 0.135181,
+        "fear": 0.285472,
+        "disgust": 0.000514,
+        "anger": 0.118663
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.997697,
+      "label": "/business and industrial/company/bankruptcy"
+    }
+  ]
+}

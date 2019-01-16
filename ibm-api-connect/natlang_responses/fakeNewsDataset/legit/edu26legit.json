@@ -1,0 +1,296 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 569,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.501451,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "News of his interactions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.787203,
+      "emotion": {
+        "sadness": 0.350275,
+        "joy": 0.318287,
+        "fear": 0.058928,
+        "disgust": 0.133713,
+        "anger": 0.141689
+      },
+      "count": 1
+    },
+    {
+      "text": "Barry White Jr.",
+      "sentiment": {
+        "score": 0.582982,
+        "label": "positive"
+      },
+      "relevance": 0.770795,
+      "emotion": {
+        "sadness": 0.065588,
+        "joy": 0.55109,
+        "fear": 0.055171,
+        "disgust": 0.133209,
+        "anger": 0.175477
+      },
+      "count": 1
+    },
+    {
+      "text": "English teacher",
+      "sentiment": {
+        "score": 0.582982,
+        "label": "positive"
+      },
+      "relevance": 0.768668,
+      "emotion": {
+        "sadness": 0.065588,
+        "joy": 0.55109,
+        "fear": 0.055171,
+        "disgust": 0.133209,
+        "anger": 0.175477
+      },
+      "count": 1
+    },
+    {
+      "text": "Ashley Park PreK-8 School",
+      "sentiment": {
+        "score": 0.582982,
+        "label": "positive"
+      },
+      "relevance": 0.763579,
+      "emotion": {
+        "sadness": 0.065588,
+        "joy": 0.55109,
+        "fear": 0.055171,
+        "disgust": 0.133209,
+        "anger": 0.175477
+      },
+      "count": 1
+    },
+    {
+      "text": "5th grade teacher",
+      "sentiment": {
+        "score": 0.410245,
+        "label": "positive"
+      },
+      "relevance": 0.76311,
+      "emotion": {
+        "sadness": 0.184165,
+        "joy": 0.612644,
+        "fear": 0.036471,
+        "disgust": 0.067617,
+        "anger": 0.161759
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Ashley Park PreK-8 School",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.87446,
+      "mentions": [
+        {
+          "text": "Ashley Park PreK-8 School",
+          "location": [
+            288,
+            313
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.125989,
+        "joy": 0.387811,
+        "fear": 0.104729,
+        "disgust": 0.257138,
+        "anger": 0.243895
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Charlotte-Mecklenburg School District",
+      "sentiment": {
+        "score": -0.43937,
+        "label": "negative"
+      },
+      "relevance": 0.771041,
+      "mentions": [
+        {
+          "text": "Charlotte-Mecklenburg School District",
+          "location": [
+            490,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.350275,
+        "joy": 0.318287,
+        "fear": 0.058928,
+        "disgust": 0.133713,
+        "anger": 0.141689
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "SchoolDistrict"
+        ],
+        "name": "Charlotte-Mecklenburg Schools",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charlotte-Mecklenburg_Schools"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": -0.43937,
+        "label": "negative"
+      },
+      "relevance": 0.516247,
+      "mentions": [
+        {
+          "text": "Facebook",
+          "location": [
+            554,
+            562
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.350275,
+        "joy": 0.318287,
+        "fear": 0.058928,
+        "disgust": 0.133713,
+        "anger": 0.141689
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "North Carolina",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.514046,
+      "mentions": [
+        {
+          "text": "North Carolina",
+          "location": [
+            102,
+            116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.178646,
+        "joy": 0.67532,
+        "fear": 0.063594,
+        "disgust": 0.02546,
+        "anger": 0.088871
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "North Carolina",
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Charlotte",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.503666,
+      "mentions": [
+        {
+          "text": "Charlotte",
+          "location": [
+            91,
+            100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.191468,
+        "joy": 0.254127,
+        "fear": 0.035264,
+        "disgust": 0.281154,
+        "anger": 0.251672
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "City"
+        ],
+        "name": "Charlotte, North Carolina",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charlotte,_North_Carolina"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "North Carolina",
+      "relevance": 0.948864,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_Carolina"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.926069,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Charlotte-Mecklenburg Schools",
+      "relevance": 0.912121,
+      "dbpedia_resource": "http://dbpedia.org/resource/Charlotte-Mecklenburg_Schools"
+    },
+    {
+      "text": "Charlotte, North Carolina",
+      "relevance": 0.81301,
+      "dbpedia_resource": "http://dbpedia.org/resource/Charlotte,_North_Carolina"
+    },
+    {
+      "text": "Mecklenburg County, North Carolina",
+      "relevance": 0.737802,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mecklenburg_County,_North_Carolina"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999992,
+      "label": "/education/special education"
+    }
+  ]
+}

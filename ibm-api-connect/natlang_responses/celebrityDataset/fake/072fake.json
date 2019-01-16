@@ -1,0 +1,211 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999783,
+      "emotion": {
+        "sadness": 0.182708,
+        "joy": 0.47772,
+        "fear": 0.032074,
+        "disgust": 0.026214,
+        "anger": 0.326679
+      },
+      "count": 1
+    },
+    {
+      "text": "Heidi Klum",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.979043,
+      "emotion": {
+        "sadness": 0.182708,
+        "joy": 0.47772,
+        "fear": 0.032074,
+        "disgust": 0.026214,
+        "anger": 0.326679
+      },
+      "count": 1
+    },
+    {
+      "text": "Seal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.571086,
+      "emotion": {
+        "sadness": 0.182708,
+        "joy": 0.47772,
+        "fear": 0.032074,
+        "disgust": 0.026214,
+        "anger": 0.326679
+      },
+      "count": 1
+    },
+    {
+      "text": "seven-year marriage",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.345875,
+      "emotion": {
+        "sadness": 0.182708,
+        "joy": 0.47772,
+        "fear": 0.032074,
+        "disgust": 0.026214,
+        "anger": 0.326679
+      },
+      "count": 1
+    },
+    {
+      "text": "volcanic temper",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.137674,
+      "emotion": {
+        "sadness": 0.182708,
+        "joy": 0.47772,
+        "fear": 0.032074,
+        "disgust": 0.026214,
+        "anger": 0.326679
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Heidi Klum",
+      "sentiment": {
+        "score": -0.386949,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Heidi Klum",
+          "location": [
+            29,
+            39
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139818,
+        "joy": 0.408275,
+        "fear": 0.028943,
+        "disgust": 0.028769,
+        "anger": 0.451891
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "Celebrity",
+          "Model",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Heidi Klum",
+        "dbpedia_resource": "http://dbpedia.org/resource/Heidi_Klum"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Seal",
+      "sentiment": {
+        "score": -0.386949,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Seal",
+          "location": [
+            70,
+            74
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "seven-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "seven-year",
+          "location": [
+            45,
+            55
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Seal",
+      "relevance": 0.945144,
+      "dbpedia_resource": "http://dbpedia.org/resource/Seal_(musician)"
+    },
+    {
+      "text": "Heidi Klum",
+      "relevance": 0.777,
+      "dbpedia_resource": "http://dbpedia.org/resource/Heidi_Klum"
+    },
+    {
+      "text": "Project Runway",
+      "relevance": 0.661018,
+      "dbpedia_resource": "http://dbpedia.org/resource/Project_Runway"
+    },
+    {
+      "text": "Bergisch Gladbach",
+      "relevance": 0.65429,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bergisch_Gladbach"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.948213,
+      "label": "/society/social institution"
+    }
+  ]
+}

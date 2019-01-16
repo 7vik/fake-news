@@ -1,0 +1,217 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 110,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.376764,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Whoopi Goldberg",
+      "sentiment": {
+        "score": -0.376764,
+        "label": "negative"
+      },
+      "relevance": 0.999399,
+      "emotion": {
+        "sadness": 0.115245,
+        "joy": 0.57994,
+        "fear": 0.042037,
+        "disgust": 0.14334,
+        "anger": 0.19015
+      },
+      "count": 1
+    },
+    {
+      "text": "New Host Rosie O'Donnell",
+      "sentiment": {
+        "score": -0.376764,
+        "label": "negative"
+      },
+      "relevance": 0.951449,
+      "emotion": {
+        "sadness": 0.115245,
+        "joy": 0.57994,
+        "fear": 0.042037,
+        "disgust": 0.14334,
+        "anger": 0.19015
+      },
+      "count": 1
+    },
+    {
+      "text": "War",
+      "sentiment": {
+        "score": -0.376764,
+        "label": "negative"
+      },
+      "relevance": 0.591145,
+      "emotion": {
+        "sadness": 0.115245,
+        "joy": 0.57994,
+        "fear": 0.042037,
+        "disgust": 0.14334,
+        "anger": 0.19015
+      },
+      "count": 1
+    },
+    {
+      "text": "Tension",
+      "sentiment": {
+        "score": -0.376764,
+        "label": "negative"
+      },
+      "relevance": 0.581982,
+      "emotion": {
+        "sadness": 0.115245,
+        "joy": 0.57994,
+        "fear": 0.042037,
+        "disgust": 0.14334,
+        "anger": 0.19015
+      },
+      "count": 1
+    },
+    {
+      "text": "View",
+      "sentiment": {
+        "score": -0.376764,
+        "label": "negative"
+      },
+      "relevance": 0.567809,
+      "emotion": {
+        "sadness": 0.115245,
+        "joy": 0.57994,
+        "fear": 0.042037,
+        "disgust": 0.14334,
+        "anger": 0.19015
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rosie O'Donnell",
+      "sentiment": {
+        "score": 0.628332,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rosie O'Donnell",
+          "location": [
+            27,
+            42
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.149201,
+        "joy": 0.653104,
+        "fear": 0.044529,
+        "disgust": 0.121876,
+        "anger": 0.094911
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Rosie O'Donnell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Whoopi Goldberg",
+      "sentiment": {
+        "score": 0.628332,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Whoopi Goldberg",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.149201,
+        "joy": 0.653104,
+        "fear": 0.044529,
+        "disgust": 0.121876,
+        "anger": 0.094911
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist"
+        ],
+        "name": "Whoopi Goldberg",
+        "dbpedia_resource": "http://dbpedia.org/resource/Whoopi_Goldberg"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Rosie O'Donnell",
+      "relevance": 0.969399,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+    },
+    {
+      "text": "Whoopi Goldberg",
+      "relevance": 0.949189,
+      "dbpedia_resource": "http://dbpedia.org/resource/Whoopi_Goldberg"
+    },
+    {
+      "text": "Elisabeth Hasselbeck",
+      "relevance": 0.763018,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elisabeth_Hasselbeck"
+    },
+    {
+      "text": "The View",
+      "relevance": 0.753646,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_View_(U.S._TV_series)"
+    },
+    {
+      "text": "NAACP Image Award for Outstanding Actress in a Motion Picture",
+      "relevance": 0.449103,
+      "dbpedia_resource": "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Actress_in_a_Motion_Picture"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.746642,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

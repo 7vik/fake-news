@@ -1,0 +1,177 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.986268,
+      "emotion": {
+        "sadness": 0.345318,
+        "joy": 0.119682,
+        "fear": 0.088616,
+        "disgust": 0.166521,
+        "anger": 0.208532
+      },
+      "count": 1
+    },
+    {
+      "text": "Jamie Foxx Have",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.394144,
+      "emotion": {
+        "sadness": 0.345318,
+        "joy": 0.119682,
+        "fear": 0.088616,
+        "disgust": 0.166521,
+        "anger": 0.208532
+      },
+      "count": 1
+    },
+    {
+      "text": "Stealth Act",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.020953,
+      "emotion": {
+        "sadness": 0.345318,
+        "joy": 0.119682,
+        "fear": 0.088616,
+        "disgust": 0.166521,
+        "anger": 0.208532
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": -0.787527,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.345318,
+        "joy": 0.119682,
+        "fear": 0.088616,
+        "disgust": 0.166521,
+        "anger": 0.208532
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jamie Foxx",
+      "sentiment": {
+        "score": -0.787527,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jamie Foxx",
+          "location": [
+            17,
+            27
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.345318,
+        "joy": 0.119682,
+        "fear": 0.088616,
+        "disgust": 0.166521,
+        "anger": 0.208532
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmMusicContributor",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Jamie Foxx",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jamie Foxx",
+      "relevance": 0.938227,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+    },
+    {
+      "text": "Stealth",
+      "relevance": 0.828468,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stealth_(film)"
+    },
+    {
+      "text": "Forest Whitaker",
+      "relevance": 0.631235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Forest_Whitaker"
+    },
+    {
+      "text": "BET Awards",
+      "relevance": 0.586651,
+      "dbpedia_resource": "http://dbpedia.org/resource/BET_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.558452,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

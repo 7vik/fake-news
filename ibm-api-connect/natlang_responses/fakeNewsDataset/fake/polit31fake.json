@@ -1,0 +1,206 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 618,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.566547,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "U.S. Supreme court",
+      "sentiment": {
+        "score": 0.407745,
+        "label": "positive"
+      },
+      "relevance": 0.835163,
+      "emotion": {
+        "sadness": 0.142285,
+        "joy": 0.126029,
+        "fear": 0.157094,
+        "disgust": 0.15949,
+        "anger": 0.198437
+      },
+      "count": 1
+    },
+    {
+      "text": "Justice Ruth Ginsburg",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.829456,
+      "emotion": {
+        "sadness": 0.451992,
+        "joy": 0.290372,
+        "fear": 0.058591,
+        "disgust": 0.211642,
+        "anger": 0.144531
+      },
+      "count": 1
+    },
+    {
+      "text": "innocent people",
+      "sentiment": {
+        "score": -0.673246,
+        "label": "negative"
+      },
+      "relevance": 0.734583,
+      "emotion": {
+        "sadness": 0.419085,
+        "joy": 0.020344,
+        "fear": 0.179015,
+        "disgust": 0.277113,
+        "anger": 0.436188
+      },
+      "count": 1
+    },
+    {
+      "text": "death row",
+      "sentiment": {
+        "score": -0.673246,
+        "label": "negative"
+      },
+      "relevance": 0.704143,
+      "emotion": {
+        "sadness": 0.419085,
+        "joy": 0.020344,
+        "fear": 0.179015,
+        "disgust": 0.277113,
+        "anger": 0.436188
+      },
+      "count": 1
+    },
+    {
+      "text": "human life",
+      "sentiment": {
+        "score": -0.715688,
+        "label": "negative"
+      },
+      "relevance": 0.647479,
+      "emotion": {
+        "sadness": 0.375063,
+        "joy": 0.096165,
+        "fear": 0.086747,
+        "disgust": 0.451763,
+        "anger": 0.245541
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "U.S. Supreme court",
+      "sentiment": {
+        "score": -0.551973,
+        "label": "negative"
+      },
+      "relevance": 0.910531,
+      "mentions": [
+        {
+          "text": "U.S. Supreme court",
+          "location": [
+            4,
+            22
+          ]
+        },
+        {
+          "text": "the court",
+          "location": [
+            173,
+            182
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.393367,
+        "joy": 0.021498,
+        "fear": 0.186675,
+        "disgust": 0.28309,
+        "anger": 0.443946
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody"
+        ],
+        "name": "Supreme Court of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Justice Ruth Ginsburg",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.655161,
+      "mentions": [
+        {
+          "text": "Justice Ruth Ginsburg",
+          "location": [
+            391,
+            412
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.261764,
+        "joy": 0.427589,
+        "fear": 0.120818,
+        "disgust": 0.214966,
+        "anger": 0.051992
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "HallOfFameInductee",
+          "Judge"
+        ],
+        "name": "Ruth Bader Ginsburg",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.949377,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.908565,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Ruth Bader Ginsburg",
+      "relevance": 0.823758,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+    },
+    {
+      "text": "Jury",
+      "relevance": 0.821755,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jury"
+    },
+    {
+      "text": "Appeal",
+      "relevance": 0.741083,
+      "dbpedia_resource": "http://dbpedia.org/resource/Appeal"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.865779,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

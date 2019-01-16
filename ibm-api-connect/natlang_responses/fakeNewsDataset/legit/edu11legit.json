@@ -1,0 +1,290 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 624,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.629372,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "executive order",
+      "sentiment": {
+        "score": -0.629372,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.935435,
+      "emotion": {
+        "sadness": 0.383595,
+        "joy": 0.395785,
+        "fear": 0.006797,
+        "disgust": 0.179396,
+        "anger": 0.116755
+      },
+      "count": 2
+    },
+    {
+      "text": "bedrock of Boston University",
+      "sentiment": {
+        "score": 0.396189,
+        "label": "positive"
+      },
+      "relevance": 0.764301,
+      "emotion": {
+        "sadness": 0.102149,
+        "joy": 0.669132,
+        "fear": 0.00711,
+        "disgust": 0.061512,
+        "anger": 0.054071
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump's immigration",
+      "sentiment": {
+        "score": -0.907026,
+        "label": "negative"
+      },
+      "relevance": 0.739835,
+      "emotion": {
+        "sadness": 0.618202,
+        "joy": 0.088146,
+        "fear": 0.026982,
+        "disgust": 0.236867,
+        "anger": 0.17898
+      },
+      "count": 1
+    },
+    {
+      "text": "community members",
+      "sentiment": {
+        "score": -0.907026,
+        "label": "negative"
+      },
+      "relevance": 0.639567,
+      "emotion": {
+        "sadness": 0.618202,
+        "joy": 0.088146,
+        "fear": 0.026982,
+        "disgust": 0.236867,
+        "anger": 0.17898
+      },
+      "count": 1
+    },
+    {
+      "text": "Universities",
+      "sentiment": {
+        "score": -0.907026,
+        "label": "negative"
+      },
+      "relevance": 0.62845,
+      "emotion": {
+        "sadness": 0.244454,
+        "joy": 0.207814,
+        "fear": 0.078491,
+        "disgust": 0.145002,
+        "anger": 0.127516
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.958369,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            103,
+            125
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Boston University",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.640939,
+      "mentions": [
+        {
+          "text": "Boston University",
+          "location": [
+            484,
+            501
+          ]
+        },
+        {
+          "text": "Boston University",
+          "location": [
+            555,
+            572
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112554,
+        "joy": 0.50011,
+        "fear": 0.006915,
+        "disgust": 0.079328,
+        "anger": 0.080571
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.542984,
+      "mentions": [
+        {
+          "text": "executive",
+          "location": [
+            149,
+            158
+          ]
+        },
+        {
+          "text": "executive",
+          "location": [
+            398,
+            407
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20431,
+        "joy": 0.272454,
+        "fear": 0.01874,
+        "disgust": 0.06962,
+        "anger": 0.228388
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.41335,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            573,
+            582
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233297,
+        "joy": 0.470994,
+        "fear": 0.016048,
+        "disgust": 0.130437,
+        "anger": 0.130458
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Robert Brown",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.362344,
+      "mentions": [
+        {
+          "text": "Robert Brown",
+          "location": [
+            583,
+            595
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180729,
+        "joy": 0.571703,
+        "fear": 0.018777,
+        "disgust": 0.139302,
+        "anger": 0.033797
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "University",
+      "relevance": 0.957987,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "College",
+      "relevance": 0.557456,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Chancellor",
+      "relevance": 0.52451,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chancellor_(education)"
+    },
+    {
+      "text": "Rector",
+      "relevance": 0.500556,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rector"
+    },
+    {
+      "text": "Faculty",
+      "relevance": 0.478712,
+      "dbpedia_resource": "http://dbpedia.org/resource/Faculty_(university)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.936718,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

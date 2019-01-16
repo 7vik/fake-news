@@ -1,0 +1,285 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 500,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.691577,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Australian Grand Prix",
+      "sentiment": {
+        "score": 0.91593,
+        "label": "positive"
+      },
+      "relevance": 0.92596,
+      "emotion": {
+        "sadness": 0.027149,
+        "joy": 0.754271,
+        "fear": 0.047669,
+        "disgust": 0.084051,
+        "anger": 0.070107
+      },
+      "count": 1
+    },
+    {
+      "text": "Sebastian Vettel",
+      "sentiment": {
+        "score": 0.91593,
+        "label": "positive"
+      },
+      "relevance": 0.905526,
+      "emotion": {
+        "sadness": 0.027149,
+        "joy": 0.754271,
+        "fear": 0.047669,
+        "disgust": 0.084051,
+        "anger": 0.070107
+      },
+      "count": 1
+    },
+    {
+      "text": "member of Ferrari",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.869239,
+      "emotion": {
+        "sadness": 0.190331,
+        "joy": 0.122765,
+        "fear": 0.128266,
+        "disgust": 0.040504,
+        "anger": 0.081911
+      },
+      "count": 1
+    },
+    {
+      "text": "team members",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.786363,
+      "emotion": {
+        "sadness": 0.244191,
+        "joy": 0.147836,
+        "fear": 0.091665,
+        "disgust": 0.265596,
+        "anger": 0.08996
+      },
+      "count": 1
+    },
+    {
+      "text": "new winner",
+      "sentiment": {
+        "score": 0.91593,
+        "label": "positive"
+      },
+      "relevance": 0.682647,
+      "emotion": {
+        "sadness": 0.027149,
+        "joy": 0.754271,
+        "fear": 0.047669,
+        "disgust": 0.084051,
+        "anger": 0.070107
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Ferrari",
+      "sentiment": {
+        "score": 0.986555,
+        "label": "positive"
+      },
+      "relevance": 0.873317,
+      "mentions": [
+        {
+          "text": "Ferrari",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Ferrari",
+          "location": [
+            135,
+            142
+          ]
+        },
+        {
+          "text": "Ferrari",
+          "location": [
+            373,
+            380
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245763,
+        "joy": 0.269217,
+        "fear": 0.090462,
+        "disgust": 0.285797,
+        "anger": 0.122414
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam"
+        ],
+        "name": "Scuderia Ferrari",
+        "dbpedia_resource": "http://dbpedia.org/resource/Scuderia_Ferrari"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Sebastian Vettel",
+      "sentiment": {
+        "score": 0.33368,
+        "label": "positive"
+      },
+      "relevance": 0.475046,
+      "mentions": [
+        {
+          "text": "Sebastian Vettel",
+          "location": [
+            96,
+            112
+          ]
+        },
+        {
+          "text": "Vettel",
+          "location": [
+            115,
+            121
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.113321,
+        "joy": 0.123816,
+        "fear": 0.069405,
+        "disgust": 0.081839,
+        "anger": 0.08823
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete"
+        ],
+        "name": "Sebastian Vettel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sebastian_Vettel"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Grand Prix",
+      "sentiment": {
+        "score": 0.470697,
+        "label": "positive"
+      },
+      "relevance": 0.417427,
+      "mentions": [
+        {
+          "text": "Grand Prix",
+          "location": [
+            50,
+            60
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.023738,
+        "joy": 0.788637,
+        "fear": 0.054549,
+        "disgust": 0.088993,
+        "anger": 0.063102
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Melbourne",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.279484,
+      "mentions": [
+        {
+          "text": "Melbourne",
+          "location": [
+            478,
+            487
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244191,
+        "joy": 0.147836,
+        "fear": 0.091665,
+        "disgust": 0.265596,
+        "anger": 0.08996
+      },
+      "disambiguation": {
+        "subtype": [
+          "EnglishCivilParish",
+          "MilitaryPost",
+          "OlympicHostCity",
+          "City"
+        ],
+        "name": "Melbourne",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melbourne"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2008 Formula One season",
+      "relevance": 0.985852,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Formula_One_season"
+    },
+    {
+      "text": "2007 Formula One season",
+      "relevance": 0.857973,
+      "dbpedia_resource": "http://dbpedia.org/resource/2007_Formula_One_season"
+    },
+    {
+      "text": "Fernando Alonso",
+      "relevance": 0.844734,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fernando_Alonso"
+    },
+    {
+      "text": "2009 Formula One season",
+      "relevance": 0.843789,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_Formula_One_season"
+    },
+    {
+      "text": "Formula One",
+      "relevance": 0.830528,
+      "dbpedia_resource": "http://dbpedia.org/resource/Formula_One"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.880513,
+      "label": "/automotive and vehicles/cars/performance vehicles"
+    }
+  ]
+}

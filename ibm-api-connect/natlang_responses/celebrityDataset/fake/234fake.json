@@ -1,0 +1,139 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.305279,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kathy Griffin Wants",
+      "sentiment": {
+        "score": -0.305279,
+        "label": "negative"
+      },
+      "relevance": 0.995241,
+      "emotion": {
+        "sadness": 0.207326,
+        "joy": 0.353134,
+        "fear": 0.144131,
+        "disgust": 0.047417,
+        "anger": 0.255988
+      },
+      "count": 1
+    },
+    {
+      "text": "Comedy Central",
+      "sentiment": {
+        "score": -0.305279,
+        "label": "negative"
+      },
+      "relevance": 0.958036,
+      "emotion": {
+        "sadness": 0.207326,
+        "joy": 0.353134,
+        "fear": 0.144131,
+        "disgust": 0.047417,
+        "anger": 0.255988
+      },
+      "count": 1
+    },
+    {
+      "text": "Career",
+      "sentiment": {
+        "score": -0.305279,
+        "label": "negative"
+      },
+      "relevance": 0.555596,
+      "emotion": {
+        "sadness": 0.207326,
+        "joy": 0.353134,
+        "fear": 0.144131,
+        "disgust": 0.047417,
+        "anger": 0.255988
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kathy Griffin",
+      "sentiment": {
+        "score": -0.421251,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kathy Griffin",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.336937,
+        "joy": 0.220077,
+        "fear": 0.120869,
+        "disgust": 0.040242,
+        "anger": 0.2058
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Comedian",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kathy Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Griffin"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Whose Line Is It Anyway?",
+      "relevance": 0.938587,
+      "dbpedia_resource": "http://dbpedia.org/resource/Whose_Line_Is_It_Anyway?"
+    },
+    {
+      "text": "Alternative comedy",
+      "relevance": 0.907347,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alternative_comedy"
+    },
+    {
+      "text": "Kathy Griffin: My Life on the D-List",
+      "relevance": 0.830424,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Griffin:_My_Life_on_the_D-List"
+    },
+    {
+      "text": "Suddenly Susan",
+      "relevance": 0.814022,
+      "dbpedia_resource": "http://dbpedia.org/resource/Suddenly_Susan"
+    },
+    {
+      "text": "The View",
+      "relevance": 0.783518,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_View_(U.S._TV_series)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.678261,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 707,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.571848,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "American Airlines",
+      "sentiment": {
+        "score": 0.698487,
+        "label": "positive"
+      },
+      "relevance": 0.962424,
+      "emotion": {
+        "sadness": 0.157085,
+        "joy": 0.391542,
+        "fear": 0.076072,
+        "disgust": 0.273943,
+        "anger": 0.081045
+      },
+      "count": 3
+    },
+    {
+      "text": "China Southern",
+      "sentiment": {
+        "score": 0,
+        "mixed": "1",
+        "label": "neutral"
+      },
+      "relevance": 0.942546,
+      "emotion": {
+        "sadness": 0.180559,
+        "joy": 0.407242,
+        "fear": 0.081873,
+        "disgust": 0.19132,
+        "anger": 0.067312
+      },
+      "count": 2
+    },
+    {
+      "text": "China's biggest carrier",
+      "sentiment": {
+        "score": 0.551618,
+        "label": "positive"
+      },
+      "relevance": 0.839689,
+      "emotion": {
+        "sadness": 0.181716,
+        "joy": 0.305143,
+        "fear": 0.087645,
+        "disgust": 0.326052,
+        "anger": 0.028835
+      },
+      "count": 1
+    },
+    {
+      "text": "US airline",
+      "sentiment": {
+        "score": 0.516803,
+        "label": "positive"
+      },
+      "relevance": 0.644813,
+      "emotion": {
+        "sadness": 0.175189,
+        "joy": 0.585798,
+        "fear": 0.021565,
+        "disgust": 0.027314,
+        "anger": 0.053759
+      },
+      "count": 1
+    },
+    {
+      "text": "passengers  China Southern",
+      "sentiment": {
+        "score": 0.551618,
+        "label": "positive"
+      },
+      "relevance": 0.635734,
+      "emotion": {
+        "sadness": 0.181716,
+        "joy": 0.305143,
+        "fear": 0.087645,
+        "disgust": 0.326052,
+        "anger": 0.028835
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "China Southern",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.893768,
+      "mentions": [
+        {
+          "text": "China Southern",
+          "location": [
+            43,
+            57
+          ]
+        },
+        {
+          "text": "China Southern",
+          "location": [
+            119,
+            133
+          ]
+        },
+        {
+          "text": "China Southern",
+          "location": [
+            295,
+            309
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.202322,
+        "joy": 0.35685,
+        "fear": 0.078395,
+        "disgust": 0.254848,
+        "anger": 0.065117
+      },
+      "disambiguation": {
+        "subtype": [
+          "Airline",
+          "TransportOperator"
+        ],
+        "name": "China Southern Airlines",
+        "dbpedia_resource": "http://dbpedia.org/resource/China_Southern_Airlines"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "American Airlines",
+      "sentiment": {
+        "score": 0.65465,
+        "label": "positive"
+      },
+      "relevance": 0.858676,
+      "mentions": [
+        {
+          "text": "American Airlines",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "American Airlines",
+          "location": [
+            58,
+            75
+          ]
+        },
+        {
+          "text": "airlines",
+          "location": [
+            339,
+            347
+          ]
+        },
+        {
+          "text": "American Airlines",
+          "location": [
+            421,
+            438
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.148981,
+        "joy": 0.444488,
+        "fear": 0.085633,
+        "disgust": 0.23187,
+        "anger": 0.092205
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "China",
+      "sentiment": {
+        "score": 0.65465,
+        "label": "positive"
+      },
+      "relevance": 0.756565,
+      "mentions": [
+        {
+          "text": "China",
+          "location": [
+            80,
+            85
+          ]
+        },
+        {
+          "text": "China",
+          "location": [
+            327,
+            332
+          ]
+        },
+        {
+          "text": "China",
+          "location": [
+            470,
+            475
+          ]
+        },
+        {
+          "text": "China",
+          "location": [
+            503,
+            508
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.097561,
+        "joy": 0.586128,
+        "fear": 0.102286,
+        "disgust": 0.032017,
+        "anger": 0.051497
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "FilmScreeningVenue",
+          "Country"
+        ],
+        "name": "China",
+        "dbpedia_resource": "http://dbpedia.org/resource/China"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.274994,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            176,
+            178
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            558,
+            560
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.101197,
+        "joy": 0.36401,
+        "fear": 0.084101,
+        "disgust": 0.009508,
+        "anger": 0.066209
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "China",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/China"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.913981,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Chinese language",
+      "relevance": 0.906378,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chinese_language"
+    },
+    {
+      "text": "People's Republic of China",
+      "relevance": 0.841117,
+      "dbpedia_resource": "http://dbpedia.org/resource/People's_Republic_of_China"
+    },
+    {
+      "text": "Mainland China",
+      "relevance": 0.838399,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mainland_China"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.818253,
+      "label": "/business and industrial/logistics/air freight"
+    }
+  ]
+}

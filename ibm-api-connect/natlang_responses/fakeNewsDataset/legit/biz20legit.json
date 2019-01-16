@@ -1,0 +1,289 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 701,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.805093,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Laptop cabin ban",
+      "sentiment": {
+        "score": -0.78018,
+        "label": "negative"
+      },
+      "relevance": 0.892628,
+      "emotion": {
+        "sadness": 0.542215,
+        "joy": 0.043708,
+        "fear": 0.063441,
+        "disgust": 0.078194,
+        "anger": 0.50528
+      },
+      "count": 1
+    },
+    {
+      "text": "US ban",
+      "sentiment": {
+        "score": -0.827613,
+        "label": "negative"
+      },
+      "relevance": 0.789873,
+      "emotion": {
+        "sadness": 0.317299,
+        "joy": 0.00769,
+        "fear": 0.128892,
+        "disgust": 0.500703,
+        "anger": 0.430566
+      },
+      "count": 1
+    },
+    {
+      "text": "worded speech  IATA chief",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.65659,
+      "emotion": {
+        "sadness": 0.289268,
+        "joy": 0.087366,
+        "fear": 0.116933,
+        "disgust": 0.399637,
+        "anger": 0.424842
+      },
+      "count": 1
+    },
+    {
+      "text": "International Air Transport Association",
+      "sentiment": {
+        "score": -0.78018,
+        "label": "negative"
+      },
+      "relevance": 0.623014,
+      "emotion": {
+        "sadness": 0.094671,
+        "joy": 0.168618,
+        "fear": 0.259127,
+        "disgust": 0.098125,
+        "anger": 0.245027
+      },
+      "count": 1
+    },
+    {
+      "text": "Airline passengers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.615094,
+      "emotion": {
+        "sadness": 0.319729,
+        "joy": 0.121042,
+        "fear": 0.121387,
+        "disgust": 0.107476,
+        "anger": 0.160461
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Facility",
+      "text": "Turkey Lebanon Jordan Egypt Tunisia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.883047,
+      "mentions": [
+        {
+          "text": "Turkey  Lebanon  Jordan  Egypt  Tunisia",
+          "location": [
+            643,
+            682
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.319729,
+        "joy": 0.121042,
+        "fear": 0.121387,
+        "disgust": 0.107476,
+        "anger": 0.160461
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.47373,
+        "label": "negative"
+      },
+      "relevance": 0.745909,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            45,
+            47
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            326,
+            328
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186902,
+        "joy": 0.064207,
+        "fear": 0.305677,
+        "disgust": 0.281238,
+        "anger": 0.46361
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "IATA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.723005,
+      "mentions": [
+        {
+          "text": "IATA",
+          "location": [
+            36,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.309834,
+        "joy": 0.080169,
+        "fear": 0.116429,
+        "disgust": 0.393277,
+        "anger": 0.428336
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "International Air Transport Association",
+        "dbpedia_resource": "http://dbpedia.org/resource/International_Air_Transport_Association"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "IATA",
+      "sentiment": {
+        "score": -0.371838,
+        "label": "negative"
+      },
+      "relevance": 0.628236,
+      "mentions": [
+        {
+          "text": "IATA",
+          "location": [
+            232,
+            236
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.309834,
+        "joy": 0.080169,
+        "fear": 0.116429,
+        "disgust": 0.393277,
+        "anger": 0.428336
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "International Air Transport Association",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.556718,
+      "mentions": [
+        {
+          "text": "International Air Transport Association",
+          "location": [
+            153,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.094671,
+        "joy": 0.168618,
+        "fear": 0.259127,
+        "disgust": 0.098125,
+        "anger": 0.245027
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "IATA Operational Safety Audit",
+        "dbpedia_resource": "http://dbpedia.org/resource/IATA_Operational_Safety_Audit"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Middle East",
+      "relevance": 0.981242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+      "text": "Arabic language",
+      "relevance": 0.889479,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arabic_language"
+    },
+    {
+      "text": "Egypt",
+      "relevance": 0.810984,
+      "dbpedia_resource": "http://dbpedia.org/resource/Egypt"
+    },
+    {
+      "text": "Saudi Arabia",
+      "relevance": 0.785725,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+      "text": "Western Asia",
+      "relevance": 0.735739,
+      "dbpedia_resource": "http://dbpedia.org/resource/Western_Asia"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999999,
+      "label": "/travel/transports/air travel/airlines"
+    }
+  ]
+}

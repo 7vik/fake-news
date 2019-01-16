@@ -1,0 +1,249 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 707,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.46874,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "real people",
+      "sentiment": {
+        "score": -0.923965,
+        "label": "negative"
+      },
+      "relevance": 0.895146,
+      "emotion": {
+        "sadness": 0.330774,
+        "joy": 0.062941,
+        "fear": 0.334709,
+        "disgust": 0.452517,
+        "anger": 0.175853
+      },
+      "count": 1
+    },
+    {
+      "text": "Teresa Giudice Running",
+      "sentiment": {
+        "score": 0.877296,
+        "label": "positive"
+      },
+      "relevance": 0.795202,
+      "emotion": {
+        "sadness": 0.134166,
+        "joy": 0.39283,
+        "fear": 0.077367,
+        "disgust": 0.093388,
+        "anger": 0.059876
+      },
+      "count": 1
+    },
+    {
+      "text": "massive social media",
+      "sentiment": {
+        "score": 0.821446,
+        "label": "positive"
+      },
+      "relevance": 0.784312,
+      "emotion": {
+        "sadness": 0.197815,
+        "joy": 0.550583,
+        "fear": 0.164416,
+        "disgust": 0.013927,
+        "anger": 0.028508
+      },
+      "count": 1
+    },
+    {
+      "text": "Teresa Giudice",
+      "sentiment": {
+        "score": 0.877296,
+        "label": "positive"
+      },
+      "relevance": 0.718968,
+      "emotion": {
+        "sadness": 0.068831,
+        "joy": 0.814931,
+        "fear": 0.021051,
+        "disgust": 0.050073,
+        "anger": 0.034359
+      },
+      "count": 1
+    },
+    {
+      "text": "political power",
+      "sentiment": {
+        "score": -0.923965,
+        "label": "negative"
+      },
+      "relevance": 0.715282,
+      "emotion": {
+        "sadness": 0.330774,
+        "joy": 0.062941,
+        "fear": 0.334709,
+        "disgust": 0.452517,
+        "anger": 0.175853
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Teresa Giudice",
+      "sentiment": {
+        "score": -0.302005,
+        "label": "negative"
+      },
+      "relevance": 0.909489,
+      "mentions": [
+        {
+          "text": "Teresa Giudice",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Teresa Giudice",
+          "location": [
+            74,
+            88
+          ]
+        },
+        {
+          "text": "Teresa",
+          "location": [
+            205,
+            211
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            288,
+            291
+          ]
+        },
+        {
+          "text": "Teresa",
+          "location": [
+            671,
+            677
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.458595,
+        "joy": 0.200109,
+        "fear": 0.511081,
+        "disgust": 0.121641,
+        "anger": 0.103268
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Teresa Giudice",
+        "dbpedia_resource": "http://dbpedia.org/resource/Teresa_Giudice"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "New Jersey",
+      "sentiment": {
+        "score": 0.732234,
+        "label": "positive"
+      },
+      "relevance": 0.285289,
+      "emotion": {
+        "sadness": 0.15454,
+        "joy": 0.665437,
+        "fear": 0.099604,
+        "disgust": 0.048024,
+        "anger": 0.039567
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "New Jersey",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_Jersey"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Chris Christie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.19398,
+      "mentions": [
+        {
+          "text": "Chris Christie",
+          "location": [
+            241,
+            255
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Chris Christie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Christie"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New Jersey",
+      "relevance": 0.970755,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+      "text": "Lieutenant Governor of New Jersey",
+      "relevance": 0.923931,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lieutenant_Governor_of_New_Jersey"
+    },
+    {
+      "text": "Drumthwacket",
+      "relevance": 0.895951,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drumthwacket"
+    },
+    {
+      "text": "Governor of New Jersey",
+      "relevance": 0.828675,
+      "dbpedia_resource": "http://dbpedia.org/resource/Governor_of_New_Jersey"
+    },
+    {
+      "text": "Princeton Township, New Jersey",
+      "relevance": 0.745904,
+      "dbpedia_resource": "http://dbpedia.org/resource/Princeton_Township,_New_Jersey"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.61448,
+      "label": "/society/dating"
+    }
+  ]
+}

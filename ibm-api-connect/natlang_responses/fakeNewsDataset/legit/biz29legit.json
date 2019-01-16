@@ -1,0 +1,209 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 595,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.374002,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "negative real interest rates combine",
+      "sentiment": {
+        "score": 0.881187,
+        "label": "positive"
+      },
+      "relevance": 0.705022,
+      "emotion": {
+        "sadness": 0.105795,
+        "joy": 0.580393,
+        "fear": 0.17169,
+        "disgust": 0.124108,
+        "anger": 0.049787
+      },
+      "count": 1
+    },
+    {
+      "text": "Gold Set",
+      "sentiment": {
+        "score": 0.881187,
+        "label": "positive"
+      },
+      "relevance": 0.687604,
+      "emotion": {
+        "sadness": 0.075495,
+        "joy": 0.200172,
+        "fear": 0.040988,
+        "disgust": 0.019971,
+        "anger": 0.080861
+      },
+      "count": 1
+    },
+    {
+      "text": "Spot bullion",
+      "sentiment": {
+        "score": -0.420457,
+        "label": "negative"
+      },
+      "relevance": 0.66941,
+      "emotion": {
+        "sadness": 0.294698,
+        "joy": 0.418383,
+        "fear": 0.07554,
+        "disgust": 0.010829,
+        "anger": 0.04908
+      },
+      "count": 1
+    },
+    {
+      "text": "Inflation",
+      "sentiment": {
+        "score": 0.881187,
+        "label": "positive"
+      },
+      "relevance": 0.633856,
+      "emotion": {
+        "sadness": 0.105795,
+        "joy": 0.580393,
+        "fear": 0.17169,
+        "disgust": 0.124108,
+        "anger": 0.049787
+      },
+      "count": 2
+    },
+    {
+      "text": "precious metal",
+      "sentiment": {
+        "score": 0.881187,
+        "label": "positive"
+      },
+      "relevance": 0.603859,
+      "emotion": {
+        "sadness": 0.105795,
+        "joy": 0.580393,
+        "fear": 0.17169,
+        "disgust": 0.124108,
+        "anger": 0.049787
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "JobTitle",
+      "text": "managing partner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.894784,
+      "mentions": [
+        {
+          "text": "managing partner",
+          "location": [
+            391,
+            407
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225414,
+        "joy": 0.244489,
+        "fear": 0.21744,
+        "disgust": 0.032361,
+        "anger": 0.020356
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Incrementum AG",
+      "sentiment": {
+        "score": 0.569101,
+        "label": "positive"
+      },
+      "relevance": 0.839005,
+      "mentions": [
+        {
+          "text": "Incrementum AG",
+          "location": [
+            209,
+            223
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120579,
+        "joy": 0.533743,
+        "fear": 0.201132,
+        "disgust": 0.123326,
+        "anger": 0.045461
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Stoeferle",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.662078,
+      "mentions": [
+        {
+          "text": "Stoeferle",
+          "location": [
+            380,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225414,
+        "joy": 0.244489,
+        "fear": 0.21744,
+        "disgust": 0.032361,
+        "anger": 0.020356
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Money",
+      "relevance": 0.959683,
+      "dbpedia_resource": "http://dbpedia.org/resource/Money"
+    },
+    {
+      "text": "Gold",
+      "relevance": 0.89853,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gold"
+    },
+    {
+      "text": "Silver",
+      "relevance": 0.763539,
+      "dbpedia_resource": "http://dbpedia.org/resource/Silver"
+    },
+    {
+      "text": "Inflation",
+      "relevance": 0.743512,
+      "dbpedia_resource": "http://dbpedia.org/resource/Inflation"
+    },
+    {
+      "text": "ISO 4217",
+      "relevance": 0.684568,
+      "dbpedia_resource": "http://dbpedia.org/resource/ISO_4217"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.93411,
+      "label": "/society/work/unemployment"
+    }
+  ]
+}

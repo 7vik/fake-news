@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 586,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.659852,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "popular video game",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.799257,
+      "emotion": {
+        "sadness": 0.202416,
+        "joy": 0.186817,
+        "fear": 0.065144,
+        "disgust": 0.039829,
+        "anger": 0.033136
+      },
+      "count": 1
+    },
+    {
+      "text": "Swedish Oscar-winner Alicia Vikander",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.786566,
+      "emotion": {
+        "sadness": 0.150257,
+        "joy": 0.561559,
+        "fear": 0.039855,
+        "disgust": 0.062607,
+        "anger": 0.140223
+      },
+      "count": 1
+    },
+    {
+      "text": "Roar Uthaug",
+      "sentiment": {
+        "score": -0.790221,
+        "label": "negative"
+      },
+      "relevance": 0.783485,
+      "emotion": {
+        "sadness": 0.174828,
+        "joy": 0.307552,
+        "fear": 0.094619,
+        "disgust": 0.11246,
+        "anger": 0.325151
+      },
+      "count": 1
+    },
+    {
+      "text": "lead actress",
+      "sentiment": {
+        "score": -0.506407,
+        "label": "negative"
+      },
+      "relevance": 0.691641,
+      "emotion": {
+        "sadness": 0.202416,
+        "joy": 0.186817,
+        "fear": 0.065144,
+        "disgust": 0.039829,
+        "anger": 0.033136
+      },
+      "count": 1
+    },
+    {
+      "text": "movie",
+      "sentiment": {
+        "score": -0.506407,
+        "label": "negative"
+      },
+      "relevance": 0.65759,
+      "emotion": {
+        "sadness": 0.219421,
+        "joy": 0.270086,
+        "fear": 0.076243,
+        "disgust": 0.072929,
+        "anger": 0.134372
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lara Croft",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.900989,
+      "mentions": [
+        {
+          "text": "Lara Croft",
+          "location": [
+            30,
+            40
+          ]
+        },
+        {
+          "text": "Lara Croft",
+          "location": [
+            188,
+            198
+          ]
+        },
+        {
+          "text": "Croft",
+          "location": [
+            570,
+            575
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.262417,
+        "joy": 0.217264,
+        "fear": 0.05331,
+        "disgust": 0.141646,
+        "anger": 0.226564
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Alicia Vikander",
+      "sentiment": {
+        "score": -0.463689,
+        "label": "negative"
+      },
+      "relevance": 0.65935,
+      "mentions": [
+        {
+          "text": "Alicia Vikander",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Alicia Vikander",
+          "location": [
+            66,
+            81
+          ]
+        },
+        {
+          "text": "Vikander",
+          "location": [
+            423,
+            431
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185333,
+        "joy": 0.386828,
+        "fear": 0.029109,
+        "disgust": 0.10671,
+        "anger": 0.286441
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alicia Vikander",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alicia_Vikander"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.27942,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            162,
+            176
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.205649,
+        "joy": 0.437901,
+        "fear": 0.114164,
+        "disgust": 0.077436,
+        "anger": 0.064274
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roar Uthaug",
+      "sentiment": {
+        "score": -0.502761,
+        "label": "negative"
+      },
+      "relevance": 0.254918,
+      "mentions": [
+        {
+          "text": "Roar Uthaug",
+          "location": [
+            355,
+            366
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Roar Uthaug",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roar_Uthaug"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dominic West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.237804,
+      "mentions": [
+        {
+          "text": "Dominic West",
+          "location": [
+            541,
+            553
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.396356,
+        "joy": 0.305354,
+        "fear": 0.062295,
+        "disgust": 0.122188,
+        "anger": 0.136709
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Dominic West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dominic_West"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lara Croft",
+      "relevance": 0.94688,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lara_Croft"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.675982,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Lara Croft: Tomb Raider",
+      "relevance": 0.65041,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lara_Croft:_Tomb_Raider"
+    },
+    {
+      "text": "Lara Croft Tomb Raider: The Cradle of Life",
+      "relevance": 0.602048,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lara_Croft_Tomb_Raider:_The_Cradle_of_Life"
+    },
+    {
+      "text": "Jon Voight",
+      "relevance": 0.423121,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jon_Voight"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.911319,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

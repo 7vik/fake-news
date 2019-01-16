@@ -1,0 +1,337 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1821,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.692632,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.981108,
+        "label": "positive"
+      },
+      "relevance": 0.806514,
+      "emotion": {
+        "sadness": 0.083525,
+        "joy": 0.710474,
+        "fear": 0.002977,
+        "disgust": 0.136145,
+        "anger": 0.119534
+      },
+      "count": 1
+    },
+    {
+      "text": "romantic comedies",
+      "sentiment": {
+        "score": 0.981108,
+        "label": "positive"
+      },
+      "relevance": 0.710886,
+      "emotion": {
+        "sadness": 0.083525,
+        "joy": 0.710474,
+        "fear": 0.002977,
+        "disgust": 0.136145,
+        "anger": 0.119534
+      },
+      "count": 1
+    },
+    {
+      "text": "screen boyfriend Milo Ventimiglia",
+      "sentiment": {
+        "score": 0.981108,
+        "label": "positive"
+      },
+      "relevance": 0.669402,
+      "emotion": {
+        "sadness": 0.083525,
+        "joy": 0.710474,
+        "fear": 0.002977,
+        "disgust": 0.136145,
+        "anger": 0.119534
+      },
+      "count": 1
+    },
+    {
+      "text": "Milo Ventimiglia",
+      "sentiment": {
+        "score": 0.981108,
+        "label": "positive"
+      },
+      "relevance": 0.627214,
+      "emotion": {
+        "sadness": 0.083525,
+        "joy": 0.710474,
+        "fear": 0.002977,
+        "disgust": 0.136145,
+        "anger": 0.119534
+      },
+      "count": 1
+    },
+    {
+      "text": "Italian restaurant",
+      "sentiment": {
+        "score": 0.981108,
+        "label": "positive"
+      },
+      "relevance": 0.616578,
+      "emotion": {
+        "sadness": 0.083525,
+        "joy": 0.710474,
+        "fear": 0.002977,
+        "disgust": 0.136145,
+        "anger": 0.119534
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.486216,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            105,
+            119
+          ]
+        },
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            262,
+            276
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            532,
+            540
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            711,
+            714
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            1021,
+            1029
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            1172,
+            1180
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            1313,
+            1321
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            1603,
+            1611
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20127,
+        "joy": 0.713979,
+        "fear": 0.081695,
+        "disgust": 0.099891,
+        "anger": 0.084375
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Milo Ventimiglia2017-11-07T01",
+      "sentiment": {
+        "score": 0.782222,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Milo Ventimiglia2017-11-07T01",
+          "location": [
+            155,
+            184
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.256495,
+        "joy": 0.544861,
+        "fear": 0.01395,
+        "disgust": 0.05028,
+        "anger": 0.158274
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Milo Ventimiglia",
+      "sentiment": {
+        "score": 0.666058,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Milo Ventimiglia",
+          "location": [
+            357,
+            373
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119084,
+        "joy": 0.730757,
+        "fear": 0.053963,
+        "disgust": 0.038735,
+        "anger": 0.054656
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "TVActor"
+        ],
+        "name": "Milo Ventimiglia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Milo_Ventimiglia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Milo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Milo",
+          "location": [
+            805,
+            809
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Segal",
+      "sentiment": {
+        "score": 0.598822,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Segal",
+          "location": [
+            1106,
+            1111
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.135978,
+        "joy": 0.736772,
+        "fear": 0.023978,
+        "disgust": 0.039523,
+        "anger": 0.081759
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.958544,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Jennifer Lopez",
+      "relevance": 0.937364,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.799146,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.713499,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Milo Ventimiglia",
+      "relevance": 0.650212,
+      "dbpedia_resource": "http://dbpedia.org/resource/Milo_Ventimiglia"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.688262,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

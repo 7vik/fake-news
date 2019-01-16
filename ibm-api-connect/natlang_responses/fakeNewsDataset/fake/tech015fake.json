@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 627,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.570127,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "German scientist test 'artificial sun",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.837133,
+      "emotion": {
+        "sadness": 0.043911,
+        "joy": 0.647046,
+        "fear": 0.147641,
+        "disgust": 0.0485,
+        "anger": 0.022613
+      },
+      "count": 1
+    },
+    {
+      "text": "giant honeycomb",
+      "sentiment": {
+        "score": -0.570127,
+        "label": "negative"
+      },
+      "relevance": 0.780765,
+      "emotion": {
+        "sadness": 0.265809,
+        "joy": 0.338193,
+        "fear": 0.075349,
+        "disgust": 0.039692,
+        "anger": 0.041945
+      },
+      "count": 1
+    },
+    {
+      "text": "uses xenon short-arc lamps",
+      "sentiment": {
+        "score": -0.570127,
+        "label": "negative"
+      },
+      "relevance": 0.701662,
+      "emotion": {
+        "sadness": 0.265809,
+        "joy": 0.338193,
+        "fear": 0.075349,
+        "disgust": 0.039692,
+        "anger": 0.041945
+      },
+      "count": 1
+    },
+    {
+      "text": "world's largest artificial sun",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.638169,
+      "emotion": {
+        "sadness": 0.1383,
+        "joy": 0.707286,
+        "fear": 0.06338,
+        "disgust": 0.005582,
+        "anger": 0.011911
+      },
+      "count": 1
+    },
+    {
+      "text": "short supply",
+      "sentiment": {
+        "score": -0.570127,
+        "label": "negative"
+      },
+      "relevance": 0.624935,
+      "emotion": {
+        "sadness": 0.265809,
+        "joy": 0.338193,
+        "fear": 0.075349,
+        "disgust": 0.039692,
+        "anger": 0.041945
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "JobTitle",
+      "text": "Scientist",
+      "sentiment": {
+        "score": -0.303738,
+        "label": "negative"
+      },
+      "relevance": 0.783651,
+      "mentions": [
+        {
+          "text": "scientist",
+          "location": [
+            27,
+            36
+          ]
+        },
+        {
+          "text": "Scientist",
+          "location": [
+            100,
+            109
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.182713,
+        "joy": 0.654424,
+        "fear": 0.112328,
+        "disgust": 0.015744,
+        "anger": 0.032713
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Juelich",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.548227,
+      "mentions": [
+        {
+          "text": "Juelich",
+          "location": [
+            410,
+            417
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "J\u00fclich",
+        "dbpedia_resource": "http://dbpedia.org/resource/J\u00fclich"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cologne",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.444667,
+      "mentions": [
+        {
+          "text": "Cologne",
+          "location": [
+            458,
+            465
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.299402,
+        "joy": 0.170404,
+        "fear": 0.058066,
+        "disgust": 0.049351,
+        "anger": 0.128748
+      },
+      "disambiguation": {
+        "subtype": [
+          "GermanUrbanDistrict",
+          "City"
+        ],
+        "name": "Cologne",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cologne"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Germany",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.433605,
+      "mentions": [
+        {
+          "text": "Germany",
+          "location": [
+            113,
+            120
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.417345,
+        "joy": 0.350017,
+        "fear": 0.108083,
+        "disgust": 0.025712,
+        "anger": 0.08066
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Germany",
+        "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "30 kilometers",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.433605,
+      "mentions": [
+        {
+          "text": "30 kilometers",
+          "location": [
+            425,
+            438
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Extinction event",
+      "relevance": 0.968205,
+      "dbpedia_resource": "http://dbpedia.org/resource/Extinction_event"
+    },
+    {
+      "text": "Sunlight",
+      "relevance": 0.912776,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sunlight"
+    },
+    {
+      "text": "Sun",
+      "relevance": 0.812903,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sun"
+    },
+    {
+      "text": "Germany",
+      "relevance": 0.809569,
+      "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+    },
+    {
+      "text": "Book of Optics",
+      "relevance": 0.719901,
+      "dbpedia_resource": "http://dbpedia.org/resource/Book_of_Optics"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.615301,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 451,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.753944,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "approval rating",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.910963,
+      "emotion": {
+        "sadness": 0.217856,
+        "joy": 0.202419,
+        "fear": 0.067825,
+        "disgust": 0.277434,
+        "anger": 0.252041
+      },
+      "count": 1
+    },
+    {
+      "text": "Schwarzenegger taunts Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.906558,
+      "emotion": {
+        "sadness": 0.172891,
+        "joy": 0.169972,
+        "fear": 0.073694,
+        "disgust": 0.139359,
+        "anger": 0.092881
+      },
+      "count": 1
+    },
+    {
+      "text": "Arnold Schwarzenegger",
+      "sentiment": {
+        "score": -0.768583,
+        "label": "negative"
+      },
+      "relevance": 0.906292,
+      "emotion": {
+        "sadness": 0.232938,
+        "joy": 0.187895,
+        "fear": 0.078257,
+        "disgust": 0.27597,
+        "anger": 0.267767
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.768583,
+        "label": "negative"
+      },
+      "relevance": 0.845817,
+      "emotion": {
+        "sadness": 0.232938,
+        "joy": 0.187895,
+        "fear": 0.078257,
+        "disgust": 0.27597,
+        "anger": 0.267767
+      },
+      "count": 1
+    },
+    {
+      "text": "approval ratings",
+      "sentiment": {
+        "score": -0.768583,
+        "label": "negative"
+      },
+      "relevance": 0.761827,
+      "emotion": {
+        "sadness": 0.232938,
+        "joy": 0.187895,
+        "fear": 0.078257,
+        "disgust": 0.27597,
+        "anger": 0.267767
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gov. Arnold Schwarzenegger",
+      "sentiment": {
+        "score": 0.806547,
+        "label": "positive"
+      },
+      "relevance": 0.892597,
+      "mentions": [
+        {
+          "text": "Schwarzenegger",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Gov. Arnold Schwarzenegger",
+          "location": [
+            67,
+            93
+          ]
+        },
+        {
+          "text": "Schwarzenegger",
+          "location": [
+            283,
+            297
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.521626,
+        "joy": 0.171278,
+        "fear": 0.072104,
+        "disgust": 0.209181,
+        "anger": 0.160434
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Politician",
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "Governor",
+          "HonoraryDegreeRecipient",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Arnold Schwarzenegger",
+        "dbpedia_resource": "http://dbpedia.org/resource/Arnold_Schwarzenegger"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.806547,
+        "label": "positive"
+      },
+      "relevance": 0.774947,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            22,
+            27
+          ]
+        },
+        {
+          "text": "President Donald Trump",
+          "location": [
+            130,
+            152
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.295738,
+        "joy": 0.214109,
+        "fear": 0.037576,
+        "disgust": 0.320183,
+        "anger": 0.193601
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": -0.477466,
+        "label": "negative"
+      },
+      "relevance": 0.307583,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            196,
+            205
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.297344,
+        "joy": 0.166597,
+        "fear": 0.058061,
+        "disgust": 0.357206,
+        "anger": 0.244326
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194996,
+      "emotion": {
+        "sadness": 0.332069,
+        "joy": 0.195491,
+        "fear": 0.039026,
+        "disgust": 0.321365,
+        "anger": 0.205179
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jesse Ventura",
+      "relevance": 0.909772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jesse_Ventura"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.8811,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Arnold Schwarzenegger",
+      "relevance": 0.86526,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arnold_Schwarzenegger"
+    },
+    {
+      "text": "Kayfabe",
+      "relevance": 0.832674,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kayfabe"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.738153,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.762535,
+      "label": "/sports/bodybuilding"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 561,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.829066,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "AT&T",
+      "sentiment": {
+        "score": -0.936994,
+        "label": "negative"
+      },
+      "relevance": 0.896087,
+      "emotion": {
+        "sadness": 0.07874,
+        "joy": 0.025648,
+        "fear": 0.110279,
+        "disgust": 0.542161,
+        "anger": 0.440334
+      },
+      "count": 1
+    },
+    {
+      "text": "Rival Verizon",
+      "sentiment": {
+        "score": -0.629245,
+        "label": "negative"
+      },
+      "relevance": 0.836617,
+      "emotion": {
+        "sadness": 0.173989,
+        "joy": 0.156791,
+        "fear": 0.145382,
+        "disgust": 0.033146,
+        "anger": 0.152159
+      },
+      "count": 1
+    },
+    {
+      "text": "Google",
+      "sentiment": {
+        "score": -0.788081,
+        "label": "negative"
+      },
+      "relevance": 0.598432,
+      "emotion": {
+        "sadness": 0.16921,
+        "joy": 0.103247,
+        "fear": 0.035948,
+        "disgust": 0.114467,
+        "anger": 0.071628
+      },
+      "count": 3
+    },
+    {
+      "text": "ads",
+      "sentiment": {
+        "score": -0.829066,
+        "label": "negative"
+      },
+      "relevance": 0.594917,
+      "emotion": {
+        "sadness": 0.194245,
+        "joy": 0.053297,
+        "fear": 0.239503,
+        "disgust": 0.22169,
+        "anger": 0.387243
+      },
+      "count": 5
+    },
+    {
+      "text": "USA Today",
+      "sentiment": {
+        "score": -0.629245,
+        "label": "negative"
+      },
+      "relevance": 0.584312,
+      "emotion": {
+        "sadness": 0.173989,
+        "joy": 0.156791,
+        "fear": 0.145382,
+        "disgust": 0.033146,
+        "anger": 0.152159
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": -0.419999,
+        "label": "negative"
+      },
+      "relevance": 0.807642,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            35,
+            41
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            216,
+            222
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            396,
+            402
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            468,
+            474
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152453,
+        "joy": 0.119953,
+        "fear": 0.020937,
+        "disgust": 0.06034,
+        "anger": 0.024884
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.034405,
+        "label": "negative"
+      },
+      "relevance": 0.695722,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            20,
+            27
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            198,
+            205
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            312,
+            319
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.088949,
+        "joy": 0.042068,
+        "fear": 0.39777,
+        "disgust": 0.378839,
+        "anger": 0.40235
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "AT&T",
+      "sentiment": {
+        "score": -0.246207,
+        "label": "negative"
+      },
+      "relevance": 0.33389,
+      "mentions": [
+        {
+          "text": "AT&T",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "AT&T",
+          "location": [
+            48,
+            52
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.073137,
+        "joy": 0.019413,
+        "fear": 0.155197,
+        "disgust": 0.558229,
+        "anger": 0.450779
+      },
+      "disambiguation": {
+        "subtype": [
+          "SoftwareDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "AT&T",
+        "dbpedia_resource": "http://dbpedia.org/resource/AT&T"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Verizon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.26471,
+      "mentions": [
+        {
+          "text": "Verizon",
+          "location": [
+            505,
+            512
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.173989,
+        "joy": 0.156791,
+        "fear": 0.145382,
+        "disgust": 0.033146,
+        "anger": 0.152159
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Verizon Communications",
+        "dbpedia_resource": "http://dbpedia.org/resource/Verizon_Communications"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "USA Today",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.214439,
+      "mentions": [
+        {
+          "text": "USA Today",
+          "location": [
+            518,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.173989,
+        "joy": 0.156791,
+        "fear": 0.145382,
+        "disgust": 0.033146,
+        "anger": 0.152159
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Google",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "YouTube",
+      "relevance": 0.705976,
+      "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+      "text": "The Carrier",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Carrier"
+    },
+    {
+      "text": "Google services",
+      "relevance": 0.630006,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_services"
+    },
+    {
+      "text": "Carrier Corporation",
+      "relevance": 0.627417,
+      "dbpedia_resource": "http://dbpedia.org/resource/Carrier_Corporation"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.95812,
+      "label": "/business and industrial/advertising and marketing/advertising"
+    }
+  ]
+}

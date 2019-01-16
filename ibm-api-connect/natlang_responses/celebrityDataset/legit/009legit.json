@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 90,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.412367,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "False Rumors",
+      "sentiment": {
+        "score": -0.696726,
+        "label": "negative"
+      },
+      "relevance": 0.997231,
+      "emotion": {
+        "sadness": 0.28894,
+        "joy": 0.004066,
+        "fear": 0.524353,
+        "disgust": 0.319649,
+        "anger": 0.262474
+      },
+      "count": 1
+    },
+    {
+      "text": "Miley",
+      "sentiment": {
+        "score": 0.390314,
+        "label": "positive"
+      },
+      "relevance": 0.705752,
+      "emotion": {
+        "sadness": 0.270319,
+        "joy": 0.059103,
+        "fear": 0.319587,
+        "disgust": 0.403916,
+        "anger": 0.231188
+      },
+      "count": 1
+    },
+    {
+      "text": "Feud",
+      "sentiment": {
+        "score": -0.696726,
+        "label": "negative"
+      },
+      "relevance": 0.619605,
+      "emotion": {
+        "sadness": 0.28894,
+        "joy": 0.004066,
+        "fear": 0.524353,
+        "disgust": 0.319649,
+        "anger": 0.262474
+      },
+      "count": 1
+    },
+    {
+      "text": "Liam Fighting",
+      "sentiment": {
+        "score": 0.390314,
+        "label": "positive"
+      },
+      "relevance": 0.426092,
+      "emotion": {
+        "sadness": 0.270319,
+        "joy": 0.059103,
+        "fear": 0.319587,
+        "disgust": 0.403916,
+        "anger": 0.231188
+      },
+      "count": 1
+    },
+    {
+      "text": "Supposed Prenup",
+      "sentiment": {
+        "score": -0.696726,
+        "label": "negative"
+      },
+      "relevance": 0.359266,
+      "emotion": {
+        "sadness": 0.28894,
+        "joy": 0.004066,
+        "fear": 0.524353,
+        "disgust": 0.319649,
+        "anger": 0.262474
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Liam Fighting",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.948712,
+      "mentions": [
+        {
+          "text": "Liam Fighting",
+          "location": [
+            10,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292658,
+        "joy": 0.096557,
+        "fear": 0.304985,
+        "disgust": 0.372151,
+        "anger": 0.204535
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miley",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.773813,
+      "mentions": [
+        {
+          "text": "Miley",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292658,
+        "joy": 0.096557,
+        "fear": 0.304985,
+        "disgust": 0.372151,
+        "anger": 0.204535
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "That's So Suite Life of Hannah Montana",
+      "relevance": 0.86881,
+      "dbpedia_resource": "http://dbpedia.org/resource/That's_So_Suite_Life_of_Hannah_Montana"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.894794,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

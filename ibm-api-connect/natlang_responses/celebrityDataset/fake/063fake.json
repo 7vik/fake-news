@@ -1,0 +1,161 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.767997,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Liza Minelli",
+      "sentiment": {
+        "score": -0.767997,
+        "label": "negative"
+      },
+      "relevance": 0.997337,
+      "emotion": {
+        "sadness": 0.788335,
+        "joy": 0.063372,
+        "fear": 0.031916,
+        "disgust": 0.040259,
+        "anger": 0.192508
+      },
+      "count": 1
+    },
+    {
+      "text": "Months",
+      "sentiment": {
+        "score": -0.767997,
+        "label": "negative"
+      },
+      "relevance": 0.644396,
+      "emotion": {
+        "sadness": 0.788335,
+        "joy": 0.063372,
+        "fear": 0.031916,
+        "disgust": 0.040259,
+        "anger": 0.192508
+      },
+      "count": 1
+    },
+    {
+      "text": "Friends",
+      "sentiment": {
+        "score": -0.767997,
+        "label": "negative"
+      },
+      "relevance": 0.567279,
+      "emotion": {
+        "sadness": 0.788335,
+        "joy": 0.063372,
+        "fear": 0.031916,
+        "disgust": 0.040259,
+        "anger": 0.192508
+      },
+      "count": 1
+    },
+    {
+      "text": "Tragic Relapse",
+      "sentiment": {
+        "score": -0.767997,
+        "label": "negative"
+      },
+      "relevance": 0.367333,
+      "emotion": {
+        "sadness": 0.788335,
+        "joy": 0.063372,
+        "fear": 0.031916,
+        "disgust": 0.040259,
+        "anger": 0.192508
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Liza Minelli",
+      "sentiment": {
+        "score": 0.240455,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Liza Minelli",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.49491,
+        "joy": 0.148629,
+        "fear": 0.058236,
+        "disgust": 0.096798,
+        "anger": 0.209053
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "FilmActor",
+          "MusicalGroupMember",
+          "TheaterActor",
+          "TVActor",
+          "TVPersonality"
+        ],
+        "name": "Liza Minnelli",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liza_Minnelli"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Three Months",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Three Months",
+          "location": [
+            18,
+            30
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Liza Minnelli",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liza_Minnelli"
+    },
+    {
+      "text": "Judy Garland",
+      "relevance": 0.586845,
+      "dbpedia_resource": "http://dbpedia.org/resource/Judy_Garland"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.742338,
+      "label": "/health and fitness/addiction"
+    }
+  ]
+}

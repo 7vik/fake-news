@@ -1,0 +1,330 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 811,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.348395,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Guillermo Diaz",
+      "sentiment": {
+        "score": -0.526822,
+        "label": "negative"
+      },
+      "relevance": 0.805322,
+      "emotion": {
+        "sadness": 0.148371,
+        "joy": 0.436954,
+        "fear": 0.064107,
+        "disgust": 0.382972,
+        "anger": 0.069872
+      },
+      "count": 1
+    },
+    {
+      "text": "actor",
+      "sentiment": {
+        "score": -0.480755,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.634546,
+      "emotion": {
+        "sadness": 0.233593,
+        "joy": 0.220323,
+        "fear": 0.02095,
+        "disgust": 0.459149,
+        "anger": 0.216046
+      },
+      "count": 3
+    },
+    {
+      "text": "midst of speculation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.607973,
+      "emotion": {
+        "sadness": 0.242548,
+        "joy": 0.050643,
+        "fear": 0.093015,
+        "disgust": 0.526601,
+        "anger": 0.145849
+      },
+      "count": 1
+    },
+    {
+      "text": "show's creator Shonda Rhimes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.604949,
+      "emotion": {
+        "sadness": 0.708833,
+        "joy": 0.049054,
+        "fear": 0.14789,
+        "disgust": 0.177263,
+        "anger": 0.06978
+      },
+      "count": 1
+    },
+    {
+      "text": "words of confirmation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.603012,
+      "emotion": {
+        "sadness": 0.301784,
+        "joy": 0.302124,
+        "fear": 0.007129,
+        "disgust": 0.433049,
+        "anger": 0.119728
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Huck",
+      "sentiment": {
+        "score": 0.159242,
+        "label": "positive"
+      },
+      "relevance": 0.853221,
+      "mentions": [
+        {
+          "text": "Huck",
+          "location": [
+            25,
+            29
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            67,
+            70
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            78,
+            80
+          ]
+        },
+        {
+          "text": "Huck",
+          "location": [
+            107,
+            111
+          ]
+        },
+        {
+          "text": "Huck",
+          "location": [
+            180,
+            184
+          ]
+        },
+        {
+          "text": "Huck",
+          "location": [
+            464,
+            468
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            480,
+            482
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            580,
+            582
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.663586,
+        "joy": 0.730405,
+        "fear": 0.681132,
+        "disgust": 0.557933,
+        "anger": 0.105226
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Guillermo Diaz",
+      "sentiment": {
+        "score": -0.663496,
+        "label": "negative"
+      },
+      "relevance": 0.364987,
+      "mentions": [
+        {
+          "text": "Guillermo Diaz",
+          "location": [
+            287,
+            301
+          ]
+        },
+        {
+          "text": "Diaz",
+          "location": [
+            713,
+            717
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.717769,
+        "joy": 0.085962,
+        "fear": 0.139716,
+        "disgust": 0.165377,
+        "anger": 0.070943
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Shonda Rhimes",
+      "sentiment": {
+        "score": -0.697367,
+        "label": "negative"
+      },
+      "relevance": 0.213821,
+      "mentions": [
+        {
+          "text": "Shonda Rhimes",
+          "location": [
+            742,
+            755
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.708833,
+        "joy": 0.049054,
+        "fear": 0.14789,
+        "disgust": 0.177263,
+        "anger": 0.06978
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "TVProducer",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Shonda Rhimes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Shonda_Rhimes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Meg",
+      "sentiment": {
+        "score": 0.515487,
+        "label": "positive"
+      },
+      "relevance": 0.145721,
+      "mentions": [
+        {
+          "text": "Meg",
+          "location": [
+            455,
+            458
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.099228,
+        "joy": 0.058107,
+        "fear": 0.156949,
+        "disgust": 0.103987,
+        "anger": 0.34029
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "entmt",
+      "sentiment": {
+        "score": 0.515487,
+        "label": "positive"
+      },
+      "relevance": 0.137402,
+      "mentions": [
+        {
+          "text": "entmt",
+          "location": [
+            416,
+            421
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.099228,
+        "joy": 0.058107,
+        "fear": 0.156949,
+        "disgust": 0.103987,
+        "anger": 0.34029
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pun",
+      "relevance": 0.954089,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pun"
+    },
+    {
+      "text": "Death",
+      "relevance": 0.742623,
+      "dbpedia_resource": "http://dbpedia.org/resource/Death"
+    },
+    {
+      "text": "Shonda Rhimes",
+      "relevance": 0.717492,
+      "dbpedia_resource": "http://dbpedia.org/resource/Shonda_Rhimes"
+    },
+    {
+      "text": "2008 albums",
+      "relevance": 0.663594,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_albums"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.580432,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.624181,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

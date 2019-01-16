@@ -1,0 +1,242 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 883,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.868107,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Federal judge sides",
+      "sentiment": {
+        "score": -0.938561,
+        "label": "negative"
+      },
+      "relevance": 0.845629,
+      "emotion": {
+        "sadness": 0.269767,
+        "joy": 0.073157,
+        "fear": 0.026805,
+        "disgust": 0.287925,
+        "anger": 0.388494
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.938561,
+        "label": "negative"
+      },
+      "relevance": 0.814736,
+      "emotion": {
+        "sadness": 0.358673,
+        "joy": 0.15034,
+        "fear": 0.043965,
+        "disgust": 0.164953,
+        "anger": 0.467393
+      },
+      "count": 1
+    },
+    {
+      "text": "federal judge",
+      "sentiment": {
+        "score": -0.938561,
+        "label": "negative"
+      },
+      "relevance": 0.757007,
+      "emotion": {
+        "sadness": 0.418499,
+        "joy": 0.144294,
+        "fear": 0.06674,
+        "disgust": 0.123248,
+        "anger": 0.442148
+      },
+      "count": 1
+    },
+    {
+      "text": "federal judges",
+      "sentiment": {
+        "score": -0.938561,
+        "label": "negative"
+      },
+      "relevance": 0.665071,
+      "emotion": {
+        "sadness": 0.418499,
+        "joy": 0.144294,
+        "fear": 0.06674,
+        "disgust": 0.123248,
+        "anger": 0.442148
+      },
+      "count": 1
+    },
+    {
+      "text": "presidential campaign",
+      "sentiment": {
+        "score": -0.757793,
+        "label": "negative"
+      },
+      "relevance": 0.661357,
+      "emotion": {
+        "sadness": 0.281681,
+        "joy": 0.135763,
+        "fear": 0.042866,
+        "disgust": 0.43771,
+        "anger": 0.060206
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.200439,
+        "label": "negative"
+      },
+      "relevance": 0.78786,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            447,
+            459
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            738,
+            743
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Judge Anthony Trenga",
+      "sentiment": {
+        "score": -0.200439,
+        "label": "negative"
+      },
+      "relevance": 0.513074,
+      "mentions": [
+        {
+          "text": "Judge Anthony Trenga",
+          "location": [
+            694,
+            714
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.3421,
+        "joy": 0.065851,
+        "fear": 0.04898,
+        "disgust": 0.23039,
+        "anger": 0.129052
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Anthony John Trenga",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anthony_John_Trenga"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive",
+      "sentiment": {
+        "score": -0.200439,
+        "label": "negative"
+      },
+      "relevance": 0.362874,
+      "mentions": [
+        {
+          "text": "executive",
+          "location": [
+            563,
+            572
+          ]
+        },
+        {
+          "text": "executive",
+          "location": [
+            793,
+            802
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.326484,
+        "joy": 0.099685,
+        "fear": 0.046944,
+        "disgust": 0.257195,
+        "anger": 0.147573
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.960177,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Judge",
+      "relevance": 0.626627,
+      "dbpedia_resource": "http://dbpedia.org/resource/Judge"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.586885,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "United States Constitution",
+      "relevance": 0.529252,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+    },
+    {
+      "text": "President",
+      "relevance": 0.522449,
+      "dbpedia_resource": "http://dbpedia.org/resource/President"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.928347,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

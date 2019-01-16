@@ -1,0 +1,208 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 130,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.799157,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Stewart Drops 'Twilight",
+      "sentiment": {
+        "score": -0.799157,
+        "label": "negative"
+      },
+      "relevance": 0.902148,
+      "emotion": {
+        "sadness": 0.244436,
+        "joy": 0.120964,
+        "fear": 0.064808,
+        "disgust": 0.1999,
+        "anger": 0.05586
+      },
+      "count": 1
+    },
+    {
+      "text": "Movie Plans",
+      "sentiment": {
+        "score": -0.799157,
+        "label": "negative"
+      },
+      "relevance": 0.638736,
+      "emotion": {
+        "sadness": 0.244436,
+        "joy": 0.120964,
+        "fear": 0.064808,
+        "disgust": 0.1999,
+        "anger": 0.05586
+      },
+      "count": 1
+    },
+    {
+      "text": "Lands New Role",
+      "sentiment": {
+        "score": -0.799157,
+        "label": "negative"
+      },
+      "relevance": 0.562001,
+      "emotion": {
+        "sadness": 0.244436,
+        "joy": 0.120964,
+        "fear": 0.064808,
+        "disgust": 0.1999,
+        "anger": 0.05586
+      },
+      "count": 1
+    },
+    {
+      "text": "Thriller",
+      "sentiment": {
+        "score": -0.799157,
+        "label": "negative"
+      },
+      "relevance": 0.561038,
+      "emotion": {
+        "sadness": 0.244436,
+        "joy": 0.120964,
+        "fear": 0.064808,
+        "disgust": 0.1999,
+        "anger": 0.05586
+      },
+      "count": 1
+    },
+    {
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": -0.799157,
+        "label": "negative"
+      },
+      "relevance": 0.560736,
+      "emotion": {
+        "sadness": 0.244436,
+        "joy": 0.120964,
+        "fear": 0.064808,
+        "disgust": 0.1999,
+        "anger": 0.05586
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": 0.362326,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            50,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119253,
+        "joy": 0.170103,
+        "fear": 0.083013,
+        "disgust": 0.04346,
+        "anger": 0.070777
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Robert Pattinson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kristen Stewart",
+      "sentiment": {
+        "score": -0.200258,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kristen Stewart",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.31966,
+        "joy": 0.106697,
+        "fear": 0.096409,
+        "disgust": 0.079397,
+        "anger": 0.118059
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kristen Stewart",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kristen_Stewart"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kristen Stewart",
+      "relevance": 0.94622,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kristen_Stewart"
+    },
+    {
+      "text": "Robert Pattinson",
+      "relevance": 0.77096,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+    },
+    {
+      "text": "The Twilight Saga: New Moon",
+      "relevance": 0.7452,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Twilight_Saga:_New_Moon"
+    },
+    {
+      "text": "Twilight",
+      "relevance": 0.737073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Twilight_(2008_film)"
+    },
+    {
+      "text": "The Twilight Saga: Eclipse",
+      "relevance": 0.710695,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Twilight_Saga:_Eclipse"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.919354,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

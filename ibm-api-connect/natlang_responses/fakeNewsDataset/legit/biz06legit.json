@@ -1,0 +1,334 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 661,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.754414,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brexit talks",
+      "sentiment": {
+        "score": -0.953069,
+        "label": "negative"
+      },
+      "relevance": 0.794281,
+      "emotion": {
+        "sadness": 0.173793,
+        "joy": 0.136132,
+        "fear": 0.109783,
+        "disgust": 0.106933,
+        "anger": 0.111057
+      },
+      "count": 1
+    },
+    {
+      "text": "Brussels of the UK",
+      "sentiment": {
+        "score": -0.839712,
+        "label": "negative"
+      },
+      "relevance": 0.764766,
+      "emotion": {
+        "sadness": 0.551234,
+        "joy": 0.106518,
+        "fear": 0.336202,
+        "disgust": 0.085273,
+        "anger": 0.165274
+      },
+      "count": 1
+    },
+    {
+      "text": "Theresa May",
+      "sentiment": {
+        "score": -0.839712,
+        "label": "negative"
+      },
+      "relevance": 0.715002,
+      "emotion": {
+        "sadness": 0.551234,
+        "joy": 0.106518,
+        "fear": 0.336202,
+        "disgust": 0.085273,
+        "anger": 0.165274
+      },
+      "count": 1
+    },
+    {
+      "text": "European Union ditch",
+      "sentiment": {
+        "score": -0.953069,
+        "label": "negative"
+      },
+      "relevance": 0.651865,
+      "emotion": {
+        "sadness": 0.454491,
+        "joy": 0.059955,
+        "fear": 0.177124,
+        "disgust": 0.09226,
+        "anger": 0.456962
+      },
+      "count": 1
+    },
+    {
+      "text": "UK's prime minister",
+      "sentiment": {
+        "score": -0.306266,
+        "label": "negative"
+      },
+      "relevance": 0.6374,
+      "emotion": {
+        "sadness": 0.608163,
+        "joy": 0.086183,
+        "fear": 0.218666,
+        "disgust": 0.169361,
+        "anger": 0.180089
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jos\u00e9 Manuel Barroso",
+      "sentiment": {
+        "score": -0.364813,
+        "label": "negative"
+      },
+      "relevance": 0.856333,
+      "mentions": [
+        {
+          "text": "Jos\u00e9 Manuel Barroso",
+          "location": [
+            43,
+            62
+          ]
+        },
+        {
+          "text": "Jos\u00e9 Manuel Barroso",
+          "location": [
+            255,
+            274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.428789,
+        "joy": 0.075987,
+        "fear": 0.164562,
+        "disgust": 0.094162,
+        "anger": 0.459339
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President"
+        ],
+        "name": "Jos\u00e9 Manuel Barroso",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jos\u00e9_Manuel_Barroso"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jean-Claude Juncker",
+      "sentiment": {
+        "score": -0.042915,
+        "label": "negative"
+      },
+      "relevance": 0.453572,
+      "mentions": [
+        {
+          "text": "Jean-Claude Juncker",
+          "location": [
+            391,
+            410
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            508,
+            511
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            570,
+            573
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.457355,
+        "joy": 0.25696,
+        "fear": 0.129084,
+        "disgust": 0.172342,
+        "anger": 0.102868
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "ChivalricOrderMember"
+        ],
+        "name": "Jean-Claude Juncker",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jean-Claude_Juncker"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "European Union",
+      "sentiment": {
+        "score": -0.364813,
+        "label": "negative"
+      },
+      "relevance": 0.280888,
+      "mentions": [
+        {
+          "text": "European Union",
+          "location": [
+            133,
+            147
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.454491,
+        "joy": 0.059955,
+        "fear": 0.177124,
+        "disgust": 0.09226,
+        "anger": 0.456962
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Theresa May",
+      "sentiment": {
+        "score": -0.320173,
+        "label": "negative"
+      },
+      "relevance": 0.272701,
+      "mentions": [
+        {
+          "text": "Theresa May",
+          "location": [
+            313,
+            324
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.551234,
+        "joy": 0.106518,
+        "fear": 0.336202,
+        "disgust": 0.085273,
+        "anger": 0.165274
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Theresa May",
+        "dbpedia_resource": "http://dbpedia.org/resource/Theresa_May"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": -0.042915,
+        "label": "negative"
+      },
+      "relevance": 0.235467,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            359,
+            361
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            479,
+            481
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "European Union",
+      "relevance": 0.949969,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "European Commission",
+      "relevance": 0.938972,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Commission"
+    },
+    {
+      "text": "European Economic Community",
+      "relevance": 0.696983,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Economic_Community"
+    },
+    {
+      "text": "European Parliament",
+      "relevance": 0.695633,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Parliament"
+    },
+    {
+      "text": "President of the European Commission",
+      "relevance": 0.691482,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_European_Commission"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.807613,
+      "label": "/law, govt and politics/government/parliament"
+    }
+  ]
+}

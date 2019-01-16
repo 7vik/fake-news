@@ -1,0 +1,317 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 665,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.370715,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "WWE superstars",
+      "sentiment": {
+        "score": -0.894596,
+        "label": "negative"
+      },
+      "relevance": 0.794792,
+      "emotion": {
+        "sadness": 0.202788,
+        "joy": 0.247543,
+        "fear": 0.02016,
+        "disgust": 0.282109,
+        "anger": 0.441458
+      },
+      "count": 1
+    },
+    {
+      "text": "local small business owners",
+      "sentiment": {
+        "score": -0.894596,
+        "label": "negative"
+      },
+      "relevance": 0.73972,
+      "emotion": {
+        "sadness": 0.202788,
+        "joy": 0.247543,
+        "fear": 0.02016,
+        "disgust": 0.282109,
+        "anger": 0.441458
+      },
+      "count": 1
+    },
+    {
+      "text": "West Virginia",
+      "sentiment": {
+        "score": -0.894596,
+        "label": "negative"
+      },
+      "relevance": 0.691688,
+      "emotion": {
+        "sadness": 0.202788,
+        "joy": 0.247543,
+        "fear": 0.02016,
+        "disgust": 0.282109,
+        "anger": 0.441458
+      },
+      "count": 1
+    },
+    {
+      "text": "Small Business Administrator Linda McMahon",
+      "sentiment": {
+        "score": -0.894596,
+        "label": "negative"
+      },
+      "relevance": 0.647683,
+      "emotion": {
+        "sadness": 0.202788,
+        "joy": 0.247543,
+        "fear": 0.02016,
+        "disgust": 0.282109,
+        "anger": 0.441458
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump's determination",
+      "sentiment": {
+        "score": 0.928692,
+        "label": "positive"
+      },
+      "relevance": 0.618996,
+      "emotion": {
+        "sadness": 0.130076,
+        "joy": 0.686304,
+        "fear": 0.03933,
+        "disgust": 0.107477,
+        "anger": 0.078741
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mike Pence",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.813861,
+      "mentions": [
+        {
+          "text": "Pence",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Mike Pence",
+          "location": [
+            73,
+            83
+          ]
+        },
+        {
+          "text": "Pence",
+          "location": [
+            653,
+            658
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17974,
+        "joy": 0.238099,
+        "fear": 0.050656,
+        "disgust": 0.154951,
+        "anger": 0.316466
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson",
+          "BroadcastArtist"
+        ],
+        "name": "Mike Pence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.42484,
+        "label": "positive"
+      },
+      "relevance": 0.549636,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            444,
+            449
+          ]
+        },
+        {
+          "text": "President Trump",
+          "location": [
+            561,
+            576
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.338423,
+        "joy": 0.091384,
+        "fear": 0.371421,
+        "disgust": 0.130894,
+        "anger": 0.209768
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Congress",
+      "sentiment": {
+        "score": -0.566803,
+        "label": "negative"
+      },
+      "relevance": 0.536771,
+      "mentions": [
+        {
+          "text": "Congress",
+          "location": [
+            7,
+            15
+          ]
+        },
+        {
+          "text": "Congress",
+          "location": [
+            89,
+            97
+          ]
+        },
+        {
+          "text": "Congress",
+          "location": [
+            477,
+            485
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.21472,
+        "joy": 0.306906,
+        "fear": 0.022511,
+        "disgust": 0.261206,
+        "anger": 0.292323
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "WWE",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.44658,
+      "mentions": [
+        {
+          "text": "some WWE",
+          "location": [
+            231,
+            239
+          ]
+        },
+        {
+          "text": "WWE",
+          "location": [
+            434,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246256,
+        "joy": 0.100854,
+        "fear": 0.015364,
+        "disgust": 0.597561,
+        "anger": 0.231309
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "WWE",
+        "dbpedia_resource": "http://dbpedia.org/resource/WWE"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.376123,
+      "mentions": [
+        {
+          "text": "Vice President",
+          "location": [
+            58,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213775,
+        "joy": 0.180369,
+        "fear": 0.069652,
+        "disgust": 0.161323,
+        "anger": 0.297449
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Vince McMahon",
+      "relevance": 0.966868,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vince_McMahon"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.959021,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.930539,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "WWE Raw",
+      "relevance": 0.924728,
+      "dbpedia_resource": "http://dbpedia.org/resource/WWE_Raw"
+    },
+    {
+      "text": "World Wrestling Entertainment",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/World_Wrestling_Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.850953,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

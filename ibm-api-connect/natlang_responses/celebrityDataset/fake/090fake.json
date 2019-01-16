@@ -1,0 +1,134 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 71,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.051612,
+        "joy": 0.676812,
+        "fear": 0.025585,
+        "disgust": 0.006136,
+        "anger": 0.039397
+      },
+      "count": 1
+    },
+    {
+      "text": "Weeknd",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.700212,
+      "emotion": {
+        "sadness": 0.051612,
+        "joy": 0.676812,
+        "fear": 0.025585,
+        "disgust": 0.006136,
+        "anger": 0.039397
+      },
+      "count": 1
+    },
+    {
+      "text": "Summer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.61055,
+      "emotion": {
+        "sadness": 0.051612,
+        "joy": 0.676812,
+        "fear": 0.025585,
+        "disgust": 0.006136,
+        "anger": 0.039397
+      },
+      "count": 1
+    },
+    {
+      "text": "Wedding",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.591658,
+      "emotion": {
+        "sadness": 0.051612,
+        "joy": 0.676812,
+        "fear": 0.025585,
+        "disgust": 0.006136,
+        "anger": 0.039397
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.242825,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.051481,
+        "joy": 0.317106,
+        "fear": 0.016971,
+        "disgust": 0.014876,
+        "anger": 0.033786
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Selena Gomez",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.963523,
+      "label": "/careers/career planning"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1179,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.721436,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian Cookbook Soon",
+      "sentiment": {
+        "score": 0.577316,
+        "label": "positive"
+      },
+      "relevance": 0.812379,
+      "emotion": {
+        "sadness": 0.146026,
+        "joy": 0.398178,
+        "fear": 0.154225,
+        "disgust": 0.073375,
+        "anger": 0.1298
+      },
+      "count": 1
+    },
+    {
+      "text": "approval of her husband Kanye West",
+      "sentiment": {
+        "score": 0.694525,
+        "label": "positive"
+      },
+      "relevance": 0.696301,
+      "emotion": {
+        "sadness": 0.315038,
+        "joy": 0.520568,
+        "fear": 0.030779,
+        "disgust": 0.011671,
+        "anger": 0.194168
+      },
+      "count": 1
+    },
+    {
+      "text": "John Legend",
+      "sentiment": {
+        "score": 0.694525,
+        "label": "positive"
+      },
+      "relevance": 0.670824,
+      "emotion": {
+        "sadness": 0.315038,
+        "joy": 0.520568,
+        "fear": 0.030779,
+        "disgust": 0.011671,
+        "anger": 0.194168
+      },
+      "count": 1
+    },
+    {
+      "text": "friends Chrissy Teigen",
+      "sentiment": {
+        "score": 0.694525,
+        "label": "positive"
+      },
+      "relevance": 0.669425,
+      "emotion": {
+        "sadness": 0.315038,
+        "joy": 0.520568,
+        "fear": 0.030779,
+        "disgust": 0.011671,
+        "anger": 0.194168
+      },
+      "count": 1
+    },
+    {
+      "text": "Soul Food Sundays",
+      "sentiment": {
+        "score": 0.694525,
+        "label": "positive"
+      },
+      "relevance": 0.666135,
+      "emotion": {
+        "sadness": 0.315038,
+        "joy": 0.520568,
+        "fear": 0.030779,
+        "disgust": 0.011671,
+        "anger": 0.194168
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.117398,
+        "label": "positive"
+      },
+      "relevance": 0.861853,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            22,
+            36
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            65,
+            79
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            449,
+            452
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            491,
+            494
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            538,
+            541
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            581,
+            584
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            671,
+            674
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            719,
+            722
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            913,
+            916
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1069,
+            1072
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24214,
+        "joy": 0.631319,
+        "fear": 0.070924,
+        "disgust": 0.075203,
+        "anger": 0.181729
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.577307,
+        "label": "positive"
+      },
+      "relevance": 0.374289,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            268,
+            278
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            632,
+            637
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            657,
+            659
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            681,
+            684
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118018,
+        "joy": 0.749601,
+        "fear": 0.010961,
+        "disgust": 0.084185,
+        "anger": 0.056003
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Chrissy Teigen",
+      "sentiment": {
+        "score": 0.461335,
+        "label": "positive"
+      },
+      "relevance": 0.373836,
+      "mentions": [
+        {
+          "text": "Chrissy Teigen",
+          "location": [
+            288,
+            302
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            410,
+            413
+          ]
+        },
+        {
+          "text": "Chrissy",
+          "location": [
+            948,
+            955
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.27473,
+        "joy": 0.477259,
+        "fear": 0.085579,
+        "disgust": 0.075524,
+        "anger": 0.130125
+      },
+      "disambiguation": {
+        "subtype": [
+          "Model"
+        ],
+        "name": "Christine Teigen",
+        "dbpedia_resource": "http://dbpedia.org/resource/Christine_Teigen"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Snapchat",
+      "sentiment": {
+        "score": -0.266404,
+        "label": "negative"
+      },
+      "relevance": 0.18394,
+      "mentions": [
+        {
+          "text": "Snapchat",
+          "location": [
+            83,
+            91
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            112,
+            115
+          ]
+        },
+        {
+          "text": "a domestic goddess",
+          "location": [
+            118,
+            136
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.098536,
+        "joy": 0.677783,
+        "fear": 0.053228,
+        "disgust": 0.068448,
+        "anger": 0.110693
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "John Legend",
+      "sentiment": {
+        "score": 0.461335,
+        "label": "positive"
+      },
+      "relevance": 0.173442,
+      "mentions": [
+        {
+          "text": "John Legend",
+          "location": [
+            307,
+            318
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252528,
+        "joy": 0.463721,
+        "fear": 0.043256,
+        "disgust": 0.121151,
+        "anger": 0.1283
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "John Legend",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Legend"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Blueprint",
+      "relevance": 0.925876,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Blueprint"
+    },
+    {
+      "text": "Jay-Z",
+      "relevance": 0.88463,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.845512,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Source",
+      "relevance": 0.81433,
+      "dbpedia_resource": "http://dbpedia.org/resource/Source"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.809666,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.736471,
+      "label": "/food and drink/cuisines"
+    }
+  ]
+}

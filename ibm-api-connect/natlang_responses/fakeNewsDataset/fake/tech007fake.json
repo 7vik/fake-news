@@ -1,0 +1,258 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 563,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.72409,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "popular Super Mario Run",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.95151,
+      "emotion": {
+        "sadness": 0.13259,
+        "joy": 0.158099,
+        "fear": 0.055889,
+        "disgust": 0.031818,
+        "anger": 0.064325
+      },
+      "count": 1
+    },
+    {
+      "text": "Mario Run",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.860651,
+      "emotion": {
+        "sadness": 0.242062,
+        "joy": 0.149694,
+        "fear": 0.049703,
+        "disgust": 0.032689,
+        "anger": 0.087202
+      },
+      "count": 1
+    },
+    {
+      "text": "entire game",
+      "sentiment": {
+        "score": -0.884725,
+        "label": "negative"
+      },
+      "relevance": 0.739894,
+      "emotion": {
+        "sadness": 0.442788,
+        "joy": 0.032264,
+        "fear": 0.043653,
+        "disgust": 0.216148,
+        "anger": 0.229312
+      },
+      "count": 1
+    },
+    {
+      "text": "current players",
+      "sentiment": {
+        "score": -0.884725,
+        "label": "negative"
+      },
+      "relevance": 0.735694,
+      "emotion": {
+        "sadness": 0.442788,
+        "joy": 0.032264,
+        "fear": 0.043653,
+        "disgust": 0.216148,
+        "anger": 0.229312
+      },
+      "count": 1
+    },
+    {
+      "text": "drawing board",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.717322,
+      "emotion": {
+        "sadness": 0.346937,
+        "joy": 0.179618,
+        "fear": 0.208975,
+        "disgust": 0.077621,
+        "anger": 0.30585
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Nintendo",
+      "sentiment": {
+        "score": -0.412842,
+        "label": "negative"
+      },
+      "relevance": 0.969935,
+      "mentions": [
+        {
+          "text": "Nintendo",
+          "location": [
+            137,
+            145
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            337,
+            345
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            379,
+            387
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            446,
+            454
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.308014,
+        "joy": 0.050064,
+        "fear": 0.037918,
+        "disgust": 0.364773,
+        "anger": 0.467291
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyShareholder",
+          "ComputerDesigner",
+          "GameDesigner",
+          "GamePublisher",
+          "JobTitle",
+          "MusicalArtist",
+          "SoftwareDeveloper",
+          "VideoGameDesigner",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Nintendo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nintendo"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Mario",
+      "sentiment": {
+        "score": -0.472737,
+        "label": "negative"
+      },
+      "relevance": 0.514858,
+      "mentions": [
+        {
+          "text": "Mario",
+          "location": [
+            350,
+            355
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.186524,
+        "joy": 0.102363,
+        "fear": 0.04882,
+        "disgust": 0.395815,
+        "anger": 0.375412
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306068,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            93,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13259,
+        "joy": 0.158099,
+        "fear": 0.055889,
+        "disgust": 0.031818,
+        "anger": 0.064325
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "App Store",
+      "relevance": 0.979106,
+      "dbpedia_resource": "http://dbpedia.org/resource/App_Store"
+    },
+    {
+      "text": "IPhone",
+      "relevance": 0.659533,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone"
+    },
+    {
+      "text": "Game",
+      "relevance": 0.632157,
+      "dbpedia_resource": "http://dbpedia.org/resource/Game"
+    },
+    {
+      "text": "Google Voice",
+      "relevance": 0.588255,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_Voice"
+    },
+    {
+      "text": "Wii",
+      "relevance": 0.574017,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wii"
+    }
+  ],
+  "categories": [
+    {
+      "score": 1.0,
+      "label": "/technology and computing/consumer electronics/game systems and consoles/nintendo"
+    }
+  ]
+}

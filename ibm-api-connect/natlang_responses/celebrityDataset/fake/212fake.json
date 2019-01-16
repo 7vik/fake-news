@@ -1,0 +1,177 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.731366,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kourtney Kardashian",
+      "sentiment": {
+        "score": -0.866066,
+        "label": "negative"
+      },
+      "relevance": 0.999663,
+      "emotion": {
+        "sadness": 0.219906,
+        "joy": 0.176022,
+        "fear": 0.245423,
+        "disgust": 0.230186,
+        "anger": 0.116391
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.559042,
+        "label": "negative"
+      },
+      "relevance": 0.740568,
+      "emotion": {
+        "sadness": 0.202752,
+        "joy": 0.035362,
+        "fear": 0.109198,
+        "disgust": 0.486821,
+        "anger": 0.059691
+      },
+      "count": 1
+    },
+    {
+      "text": "Children",
+      "sentiment": {
+        "score": -0.866066,
+        "label": "negative"
+      },
+      "relevance": 0.60587,
+      "emotion": {
+        "sadness": 0.219906,
+        "joy": 0.176022,
+        "fear": 0.245423,
+        "disgust": 0.230186,
+        "anger": 0.116391
+      },
+      "count": 1
+    },
+    {
+      "text": "Party",
+      "sentiment": {
+        "score": -0.866066,
+        "label": "negative"
+      },
+      "relevance": 0.587739,
+      "emotion": {
+        "sadness": 0.219906,
+        "joy": 0.176022,
+        "fear": 0.245423,
+        "disgust": 0.230186,
+        "anger": 0.116391
+      },
+      "count": 1
+    },
+    {
+      "text": "Cannes",
+      "sentiment": {
+        "score": -0.866066,
+        "label": "negative"
+      },
+      "relevance": 0.572602,
+      "emotion": {
+        "sadness": 0.219906,
+        "joy": 0.176022,
+        "fear": 0.245423,
+        "disgust": 0.230186,
+        "anger": 0.116391
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kourtney Kardashian",
+      "sentiment": {
+        "score": -0.810185,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kourtney Kardashian",
+          "location": [
+            0,
+            19
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225627,
+        "joy": 0.265281,
+        "fear": 0.22363,
+        "disgust": 0.200877,
+        "anger": 0.095725
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Kourtney Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Cannes",
+      "sentiment": {
+        "score": -0.810185,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Cannes",
+          "location": [
+            56,
+            62
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225627,
+        "joy": 0.265281,
+        "fear": 0.22363,
+        "disgust": 0.200877,
+        "anger": 0.095725
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.739983,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

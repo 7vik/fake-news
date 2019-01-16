@@ -1,0 +1,328 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 937,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.644128,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Manatee County Sheriff's Office release",
+      "sentiment": {
+        "score": -0.518209,
+        "label": "negative"
+      },
+      "relevance": 0.829138,
+      "emotion": {
+        "sadness": 0.180203,
+        "joy": 0.007406,
+        "fear": 0.647656,
+        "disgust": 0.094775,
+        "anger": 0.209909
+      },
+      "count": 1
+    },
+    {
+      "text": "Nascar driver David Steele",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.817585,
+      "emotion": {
+        "sadness": 0.426509,
+        "joy": 0.040504,
+        "fear": 0.162441,
+        "disgust": 0.266705,
+        "anger": 0.310455
+      },
+      "count": 1
+    },
+    {
+      "text": "press conference",
+      "sentiment": {
+        "score": -0.680636,
+        "label": "negative"
+      },
+      "relevance": 0.734991,
+      "emotion": {
+        "sadness": 0.639647,
+        "joy": 0.029882,
+        "fear": 0.307422,
+        "disgust": 0.162242,
+        "anger": 0.148921
+      },
+      "count": 1
+    },
+    {
+      "text": "Sprint car",
+      "sentiment": {
+        "score": -0.518209,
+        "label": "negative"
+      },
+      "relevance": 0.709833,
+      "emotion": {
+        "sadness": 0.187058,
+        "joy": 0.004817,
+        "fear": 0.638379,
+        "disgust": 0.162674,
+        "anger": 0.3291
+      },
+      "count": 1
+    },
+    {
+      "text": "Former IndyCar",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.689115,
+      "emotion": {
+        "sadness": 0.426509,
+        "joy": 0.040504,
+        "fear": 0.162441,
+        "disgust": 0.266705,
+        "anger": 0.310455
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "David Steele",
+      "sentiment": {
+        "score": -0.659769,
+        "label": "negative"
+      },
+      "relevance": 0.899976,
+      "mentions": [
+        {
+          "text": "David Steele",
+          "location": [
+            33,
+            45
+          ]
+        },
+        {
+          "text": "David Steele",
+          "location": [
+            102,
+            114
+          ]
+        },
+        {
+          "text": "Steele",
+          "location": [
+            336,
+            342
+          ]
+        },
+        {
+          "text": "Steele",
+          "location": [
+            453,
+            459
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            525,
+            527
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            577,
+            579
+          ]
+        },
+        {
+          "text": "Steele",
+          "location": [
+            888,
+            894
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.655536,
+        "joy": 0.087336,
+        "fear": 0.549795,
+        "disgust": 0.170954,
+        "anger": 0.180713
+      },
+      "count": 7
+    },
+    {
+      "type": "Organization",
+      "text": "Manatee County Sheriff's Office",
+      "sentiment": {
+        "score": -0.742211,
+        "label": "negative"
+      },
+      "relevance": 0.348325,
+      "mentions": [
+        {
+          "text": "Manatee County Sheriff's Office",
+          "location": [
+            284,
+            315
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180203,
+        "joy": 0.007406,
+        "fear": 0.647656,
+        "disgust": 0.094775,
+        "anger": 0.209909
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "sentiment": {
+        "score": -0.573442,
+        "label": "negative"
+      },
+      "relevance": 0.343021,
+      "mentions": [
+        {
+          "text": "Florida",
+          "location": [
+            70,
+            77
+          ]
+        },
+        {
+          "text": "Florida",
+          "location": [
+            170,
+            177
+          ]
+        },
+        {
+          "text": "Florida",
+          "location": [
+            923,
+            930
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.34717,
+        "joy": 0.061088,
+        "fear": 0.225107,
+        "disgust": 0.304218,
+        "anger": 0.383661
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Florida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Florida"
+      },
+      "count": 3
+    },
+    {
+      "type": "Facility",
+      "text": "Manatee County Hospital",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.234133,
+      "mentions": [
+        {
+          "text": "Manatee County Hospital",
+          "location": [
+            547,
+            570
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.606212,
+        "joy": 0.034868,
+        "fear": 0.174437,
+        "disgust": 0.218186,
+        "anger": 0.119248
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Sprint",
+      "sentiment": {
+        "score": -0.691506,
+        "label": "negative"
+      },
+      "relevance": 0.213219,
+      "mentions": [
+        {
+          "text": "Sprint",
+          "location": [
+            83,
+            89
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233415,
+        "joy": 0.019373,
+        "fear": 0.378957,
+        "disgust": 0.303234,
+        "anger": 0.406527
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Police",
+      "relevance": 0.984366,
+      "dbpedia_resource": "http://dbpedia.org/resource/Police"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.85348,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Coroner",
+      "relevance": 0.710297,
+      "dbpedia_resource": "http://dbpedia.org/resource/Coroner"
+    },
+    {
+      "text": "American films",
+      "relevance": 0.645306,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_films"
+    },
+    {
+      "text": "Sheriff",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sheriff"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.877873,
+      "label": "/sports/auto racing/nascar"
+    }
+  ]
+}

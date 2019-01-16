@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.955746,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kevin Hart",
+      "sentiment": {
+        "score": 0.955746,
+        "label": "positive"
+      },
+      "relevance": 0.983883,
+      "emotion": {
+        "sadness": 0.041214,
+        "joy": 0.851182,
+        "fear": 0.008568,
+        "disgust": 0.041189,
+        "anger": 0.021607
+      },
+      "count": 1
+    },
+    {
+      "text": "Wife Eniko Parrish Share Sweet Photos of Baby Kenzo",
+      "sentiment": {
+        "score": 0.955746,
+        "label": "positive"
+      },
+      "relevance": 0.016117,
+      "emotion": {
+        "sadness": 0.041214,
+        "joy": 0.851182,
+        "fear": 0.008568,
+        "disgust": 0.041189,
+        "anger": 0.021607
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kevin Hart",
+      "sentiment": {
+        "score": 0.65434,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kevin Hart",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.041214,
+        "joy": 0.851182,
+        "fear": 0.008568,
+        "disgust": 0.041189,
+        "anger": 0.021607
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Baby Kenzo",
+      "sentiment": {
+        "score": 0.65434,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Baby Kenzo",
+          "location": [
+            56,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.041214,
+        "joy": 0.851182,
+        "fear": 0.008568,
+        "disgust": 0.041189,
+        "anger": 0.021607
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Eniko Parrish",
+      "sentiment": {
+        "score": 0.65434,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Eniko Parrish",
+          "location": [
+            20,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.041214,
+        "joy": 0.851182,
+        "fear": 0.008568,
+        "disgust": 0.041189,
+        "anger": 0.021607
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.698415,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

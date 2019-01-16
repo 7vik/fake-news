@@ -1,0 +1,153 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 76,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chris Hemsworth",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.126175,
+        "joy": 0.567197,
+        "fear": 0.019564,
+        "disgust": 0.096712,
+        "anger": 0.1232
+      },
+      "count": 1
+    },
+    {
+      "text": "Charlize Theron\u2019s Kids",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.394144,
+      "emotion": {
+        "sadness": 0.126175,
+        "joy": 0.567197,
+        "fear": 0.019564,
+        "disgust": 0.096712,
+        "anger": 0.1232
+      },
+      "count": 1
+    },
+    {
+      "text": "Huntsman\u2019 Set",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.020953,
+      "emotion": {
+        "sadness": 0.126175,
+        "joy": 0.567197,
+        "fear": 0.019564,
+        "disgust": 0.096712,
+        "anger": 0.1232
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris Hemsworth",
+      "sentiment": {
+        "score": 0.553526,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chris Hemsworth",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Hemsworth",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Hemsworth"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charlize Theron",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Charlize Theron",
+          "location": [
+            19,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Charlize Theron",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charlize_Theron"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Charlize Theron",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Charlize_Theron"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.835019,
+      "label": "/family and parenting"
+    }
+  ]
+}

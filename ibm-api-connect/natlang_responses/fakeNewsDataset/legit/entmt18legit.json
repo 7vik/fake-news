@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 922,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.546432,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "22-year-old",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66903,
+      "emotion": {
+        "sadness": 0.415223,
+        "joy": 0.301374,
+        "fear": 0.055461,
+        "disgust": 0.202896,
+        "anger": 0.169172
+      },
+      "count": 1
+    },
+    {
+      "text": "female viewers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.653444,
+      "emotion": {
+        "sadness": 0.399138,
+        "joy": 0.381006,
+        "fear": 0.049529,
+        "disgust": 0.063115,
+        "anger": 0.009085
+      },
+      "count": 1
+    },
+    {
+      "text": "isolated rural town",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.634779,
+      "emotion": {
+        "sadness": 0.501381,
+        "joy": 0.250962,
+        "fear": 0.103945,
+        "disgust": 0.054268,
+        "anger": 0.048993
+      },
+      "count": 1
+    },
+    {
+      "text": "Texas Christian University",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.602932,
+      "emotion": {
+        "sadness": 0.415223,
+        "joy": 0.301374,
+        "fear": 0.055461,
+        "disgust": 0.202896,
+        "anger": 0.169172
+      },
+      "count": 1
+    },
+    {
+      "text": "high school",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587576,
+      "emotion": {
+        "sadness": 0.501381,
+        "joy": 0.250962,
+        "fear": 0.103945,
+        "disgust": 0.054268,
+        "anger": 0.048993
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Morgan O. John",
+      "sentiment": {
+        "score": 0.445411,
+        "label": "positive"
+      },
+      "relevance": 0.782868,
+      "mentions": [
+        {
+          "text": "Morgan O. John",
+          "location": [
+            387,
+            401
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            418,
+            421
+          ]
+        },
+        {
+          "text": "a \"bonehead",
+          "location": [
+            424,
+            435
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            716,
+            719
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251232,
+        "joy": 0.293649,
+        "fear": 0.071671,
+        "disgust": 0.138497,
+        "anger": 0.07813
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Emily Deschanel",
+      "sentiment": {
+        "score": 0.787214,
+        "label": "positive"
+      },
+      "relevance": 0.666042,
+      "mentions": [
+        {
+          "text": "Emily Deschanel",
+          "location": [
+            219,
+            234
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "DietFollower",
+          "FilmActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Emily Deschanel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Emily_Deschanel"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Dr. Temperance Brennan",
+      "sentiment": {
+        "score": 0.693588,
+        "label": "positive"
+      },
+      "relevance": 0.617689,
+      "mentions": [
+        {
+          "text": "Dr. Temperance Brennan",
+          "location": [
+            195,
+            217
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240743,
+        "joy": 0.469272,
+        "fear": 0.019645,
+        "disgust": 0.063729,
+        "anger": 0.097492
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Fort Worth Texas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.614891,
+      "mentions": [
+        {
+          "text": "Fort Worth  Texas",
+          "location": [
+            678,
+            695
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.415223,
+        "joy": 0.301374,
+        "fear": 0.055461,
+        "disgust": 0.202896,
+        "anger": 0.169172
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Texas Christian University",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.595661,
+      "mentions": [
+        {
+          "text": "Texas Christian University",
+          "location": [
+            648,
+            674
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.415223,
+        "joy": 0.301374,
+        "fear": 0.055461,
+        "disgust": 0.202896,
+        "anger": 0.169172
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "CollegeUniversity",
+          "University"
+        ],
+        "name": "Texas Christian University",
+        "dbpedia_resource": "http://dbpedia.org/resource/Texas_Christian_University"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bones",
+      "relevance": 0.984752,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bones_(TV_series)"
+    },
+    {
+      "text": "Texas",
+      "relevance": 0.942981,
+      "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+    },
+    {
+      "text": "Kathy Reichs",
+      "relevance": 0.825486,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Reichs"
+    },
+    {
+      "text": "Emily Deschanel",
+      "relevance": 0.754514,
+      "dbpedia_resource": "http://dbpedia.org/resource/Emily_Deschanel"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.738894,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.625566,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

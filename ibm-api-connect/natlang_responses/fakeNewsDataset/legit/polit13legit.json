@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 461,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.747312,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fastest way",
+      "sentiment": {
+        "score": -0.537897,
+        "label": "negative"
+      },
+      "relevance": 0.805029,
+      "emotion": {
+        "sadness": 0.254307,
+        "joy": 0.259111,
+        "fear": 0.081509,
+        "disgust": 0.437286,
+        "anger": 0.148126
+      },
+      "count": 2
+    },
+    {
+      "text": "Neil deGrasse Tyson",
+      "sentiment": {
+        "score": -0.99837,
+        "label": "negative"
+      },
+      "relevance": 0.798741,
+      "emotion": {
+        "sadness": 0.354918,
+        "joy": 0.030146,
+        "fear": 0.087996,
+        "disgust": 0.368108,
+        "anger": 0.488576
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.99837,
+        "label": "negative"
+      },
+      "relevance": 0.754343,
+      "emotion": {
+        "sadness": 0.371937,
+        "joy": 0.023365,
+        "fear": 0.081813,
+        "disgust": 0.349363,
+        "anger": 0.501576
+      },
+      "count": 1
+    },
+    {
+      "text": "Astrophysicist Neil deGrasse Tyson",
+      "sentiment": {
+        "score": -0.99837,
+        "label": "negative"
+      },
+      "relevance": 0.724925,
+      "emotion": {
+        "sadness": 0.371937,
+        "joy": 0.023365,
+        "fear": 0.081813,
+        "disgust": 0.349363,
+        "anger": 0.501576
+      },
+      "count": 1
+    },
+    {
+      "text": "Cut science funds",
+      "sentiment": {
+        "score": -0.707373,
+        "label": "negative"
+      },
+      "relevance": 0.701917,
+      "emotion": {
+        "sadness": 0.284515,
+        "joy": 0.246972,
+        "fear": 0.040779,
+        "disgust": 0.419389,
+        "anger": 0.130879
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Astrophysicist Neil deGrasse Tyson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.920232,
+      "mentions": [
+        {
+          "text": "Neil deGrasse Tyson",
+          "location": [
+            0,
+            19
+          ]
+        },
+        {
+          "text": "Astrophysicist Neil deGrasse Tyson",
+          "location": [
+            56,
+            90
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.229431,
+        "joy": 0.377465,
+        "fear": 0.061129,
+        "disgust": 0.230673,
+        "anger": 0.190553
+      },
+      "disambiguation": {
+        "subtype": [
+          "Academic",
+          "Astronomer",
+          "AwardWinner",
+          "BoardMember",
+          "Scientist",
+          "TVPersonality"
+        ],
+        "name": "Neil deGrasse Tyson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Neil_deGrasse_Tyson"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.556524,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            110,
+            122
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": -0.455549,
+        "label": "negative"
+      },
+      "relevance": 0.53811,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            158,
+            165
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            219,
+            226
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            391,
+            398
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.268644,
+        "joy": 0.284192,
+        "fear": 0.056599,
+        "disgust": 0.310721,
+        "anger": 0.274138
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.473915,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            38,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.27644,
+        "joy": 0.105889,
+        "fear": 0.17292,
+        "disgust": 0.294859,
+        "anger": 0.215342
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.43183,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            100,
+            109
+          ]
+        },
+        {
+          "text": "President",
+          "location": [
+            355,
+            364
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137054,
+        "joy": 0.577936,
+        "fear": 0.019936,
+        "disgust": 0.16942,
+        "anger": 0.119383
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Neil deGrasse Tyson",
+      "relevance": 0.98075,
+      "dbpedia_resource": "http://dbpedia.org/resource/Neil_deGrasse_Tyson"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.745731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Bill Nye",
+      "relevance": 0.637773,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Nye"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.628055,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.624746,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.671649,
+      "label": "/finance/grants, scholarships and financial aid/government grants"
+    }
+  ]
+}

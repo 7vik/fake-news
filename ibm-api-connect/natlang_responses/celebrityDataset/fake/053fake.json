@@ -1,0 +1,232 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 103,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.695082,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.695082,
+        "label": "negative"
+      },
+      "relevance": 0.999399,
+      "emotion": {
+        "sadness": 0.373563,
+        "joy": 0.014046,
+        "fear": 0.102031,
+        "disgust": 0.480138,
+        "anger": 0.272528
+      },
+      "count": 1
+    },
+    {
+      "text": "Miranda Lambert",
+      "sentiment": {
+        "score": -0.695082,
+        "label": "negative"
+      },
+      "relevance": 0.953577,
+      "emotion": {
+        "sadness": 0.373563,
+        "joy": 0.014046,
+        "fear": 0.102031,
+        "disgust": 0.480138,
+        "anger": 0.272528
+      },
+      "count": 1
+    },
+    {
+      "text": "Lindsey Sporrer",
+      "sentiment": {
+        "score": -0.695082,
+        "label": "negative"
+      },
+      "relevance": 0.550234,
+      "emotion": {
+        "sadness": 0.373563,
+        "joy": 0.014046,
+        "fear": 0.102031,
+        "disgust": 0.480138,
+        "anger": 0.272528
+      },
+      "count": 1
+    },
+    {
+      "text": "Divorce Expected",
+      "sentiment": {
+        "score": -0.695082,
+        "label": "negative"
+      },
+      "relevance": 0.228979,
+      "emotion": {
+        "sadness": 0.373563,
+        "joy": 0.014046,
+        "fear": 0.102031,
+        "disgust": 0.480138,
+        "anger": 0.272528
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.695082,
+        "label": "negative"
+      },
+      "relevance": 0.114687,
+      "emotion": {
+        "sadness": 0.373563,
+        "joy": 0.014046,
+        "fear": 0.102031,
+        "disgust": 0.480138,
+        "anger": 0.272528
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.609633,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Blake Shelton",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.271297,
+        "joy": 0.045052,
+        "fear": 0.145416,
+        "disgust": 0.378428,
+        "anger": 0.293757
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miranda Lambert",
+      "sentiment": {
+        "score": -0.609633,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Miranda Lambert",
+          "location": [
+            46,
+            61
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.271297,
+        "joy": 0.045052,
+        "fear": 0.145416,
+        "disgust": 0.378428,
+        "anger": 0.293757
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Miranda Lambert",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Lambert"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lindsey Sporrer",
+      "sentiment": {
+        "score": -0.609633,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Lindsey Sporrer",
+          "location": [
+            18,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.271297,
+        "joy": 0.045052,
+        "fear": 0.145416,
+        "disgust": 0.378428,
+        "anger": 0.293757
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miranda Lambert",
+      "relevance": 0.945992,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Lambert"
+    },
+    {
+      "text": "Blake Shelton",
+      "relevance": 0.938596,
+      "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+    },
+    {
+      "text": "Nashville Star",
+      "relevance": 0.820529,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nashville_Star"
+    },
+    {
+      "text": "Startin' Fires",
+      "relevance": 0.811086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Startin'_Fires"
+    },
+    {
+      "text": "American country singers",
+      "relevance": 0.622299,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_country_singers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.975619,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

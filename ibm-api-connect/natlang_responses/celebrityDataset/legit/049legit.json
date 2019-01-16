@@ -1,0 +1,215 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 93,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Billy Bush",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.942969,
+      "emotion": {
+        "sadness": 0.1951,
+        "joy": 0.051588,
+        "fear": 0.054536,
+        "disgust": 0.766057,
+        "anger": 0.181883
+      },
+      "count": 1
+    },
+    {
+      "text": "NBC Today show",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.321045,
+      "emotion": {
+        "sadness": 0.1951,
+        "joy": 0.051588,
+        "fear": 0.054536,
+        "disgust": 0.766057,
+        "anger": 0.181883
+      },
+      "count": 1
+    },
+    {
+      "text": "lewd Donald Trump tape scandal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.113401,
+      "emotion": {
+        "sadness": 0.1951,
+        "joy": 0.051588,
+        "fear": 0.054536,
+        "disgust": 0.766057,
+        "anger": 0.181883
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Billy Bush",
+      "sentiment": {
+        "score": -0.901036,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Billy Bush",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1951,
+        "joy": 0.051588,
+        "fear": 0.054536,
+        "disgust": 0.766057,
+        "anger": 0.181883
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Billy Bush",
+        "dbpedia_resource": "http://dbpedia.org/resource/Billy_Bush"
+      },
+      "count": 1
+    },
+    {
+      "type": "Broadcaster",
+      "text": "NBC",
+      "sentiment": {
+        "score": -0.901036,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "NBC",
+          "location": [
+            34,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1951,
+        "joy": 0.051588,
+        "fear": 0.054536,
+        "disgust": 0.766057,
+        "anger": 0.181883
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "AwardNominee",
+          "AwardWinner",
+          "Company",
+          "FilmDistributor",
+          "TVNetwork",
+          "TVWriter",
+          "TelevisionStation"
+        ],
+        "name": "NBC",
+        "dbpedia_resource": "http://dbpedia.org/resource/NBC"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.901036,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            67,
+            79
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.1951,
+        "joy": 0.051588,
+        "fear": 0.054536,
+        "disgust": 0.766057,
+        "anger": 0.181883
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The View",
+      "relevance": 0.909736,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_View_(U.S._TV_series)"
+    },
+    {
+      "text": "Miss Universe",
+      "relevance": 0.888044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miss_Universe"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.8811,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "NBC",
+      "relevance": 0.8283,
+      "dbpedia_resource": "http://dbpedia.org/resource/NBC"
+    },
+    {
+      "text": "Today",
+      "relevance": 0.820406,
+      "dbpedia_resource": "http://dbpedia.org/resource/Today_(NBC_program)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.76421,
+      "label": "/news"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 122,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.727117,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Anna Faris Feels Insecure",
+      "sentiment": {
+        "score": -0.927306,
+        "label": "negative"
+      },
+      "relevance": 0.994935,
+      "emotion": {
+        "sadness": 0.103936,
+        "joy": 0.113897,
+        "fear": 0.253247,
+        "disgust": 0.148534,
+        "anger": 0.532246
+      },
+      "count": 1
+    },
+    {
+      "text": "Blame",
+      "sentiment": {
+        "score": -0.845873,
+        "label": "negative"
+      },
+      "relevance": 0.55442,
+      "emotion": {
+        "sadness": 0.355428,
+        "joy": 0.003784,
+        "fear": 0.061987,
+        "disgust": 0.480709,
+        "anger": 0.462187
+      },
+      "count": 1
+    },
+    {
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": -0.845873,
+        "label": "negative"
+      },
+      "relevance": 0.552764,
+      "emotion": {
+        "sadness": 0.355428,
+        "joy": 0.003784,
+        "fear": 0.061987,
+        "disgust": 0.480709,
+        "anger": 0.462187
+      },
+      "count": 1
+    },
+    {
+      "text": "Husband's Affair",
+      "sentiment": {
+        "score": -0.927306,
+        "label": "negative"
+      },
+      "relevance": 0.368676,
+      "emotion": {
+        "sadness": 0.103936,
+        "joy": 0.113897,
+        "fear": 0.253247,
+        "disgust": 0.148534,
+        "anger": 0.532246
+      },
+      "count": 1
+    },
+    {
+      "text": "Live Rumours",
+      "sentiment": {
+        "score": 0.303846,
+        "label": "positive"
+      },
+      "relevance": 0.317608,
+      "emotion": {
+        "sadness": 0.190543,
+        "joy": 0.363109,
+        "fear": 0.099989,
+        "disgust": 0.06851,
+        "anger": 0.075831
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anna Faris",
+      "sentiment": {
+        "score": -0.766757,
+        "label": "negative"
+      },
+      "relevance": 0.896117,
+      "mentions": [
+        {
+          "text": "Anna Faris",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13138,
+        "joy": 0.09263,
+        "fear": 0.26009,
+        "disgust": 0.152353,
+        "anger": 0.512317
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Anna Faris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": -0.506012,
+        "label": "negative"
+      },
+      "relevance": 0.793872,
+      "mentions": [
+        {
+          "text": "Chris Pratt",
+          "location": [
+            85,
+            96
+          ]
+        },
+        {
+          "text": "\u2013 Live Rumours",
+          "location": [
+            107,
+            121
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.427483,
+        "joy": 0.045436,
+        "fear": 0.060339,
+        "disgust": 0.405354,
+        "anger": 0.359815
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Pratt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": -0.766757,
+        "label": "negative"
+      },
+      "relevance": 0.655305,
+      "mentions": [
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            63,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13138,
+        "joy": 0.09263,
+        "fear": 0.26009,
+        "disgust": 0.152353,
+        "anger": 0.512317
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor"
+        ],
+        "name": "Jennifer Lawrence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lawrence"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Anna Faris",
+      "relevance": 0.94772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.834432,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Chris Pratt",
+      "relevance": 0.811765,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+    },
+    {
+      "text": "Jennifer's Body",
+      "relevance": 0.612,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer's_Body"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.610233,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.762856,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

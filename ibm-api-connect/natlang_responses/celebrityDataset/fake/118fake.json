@@ -1,0 +1,401 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1187,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.60654,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miranda Lambert Blasts Blake",
+      "sentiment": {
+        "score": -0.941892,
+        "label": "negative"
+      },
+      "relevance": 0.836657,
+      "emotion": {
+        "sadness": 0.137544,
+        "joy": 0.574602,
+        "fear": 0.03394,
+        "disgust": 0.041719,
+        "anger": 0.17393
+      },
+      "count": 1
+    },
+    {
+      "text": "Country firecracker Miranda Lambert",
+      "sentiment": {
+        "score": -0.941892,
+        "label": "negative"
+      },
+      "relevance": 0.716818,
+      "emotion": {
+        "sadness": 0.544028,
+        "joy": 0.108149,
+        "fear": 0.088279,
+        "disgust": 0.089935,
+        "anger": 0.264725
+      },
+      "count": 1
+    },
+    {
+      "text": "boy-toy singer Anderson East",
+      "sentiment": {
+        "score": -0.645256,
+        "label": "negative"
+      },
+      "relevance": 0.695859,
+      "emotion": {
+        "sadness": 0.323507,
+        "joy": 0.542553,
+        "fear": 0.030285,
+        "disgust": 0.060054,
+        "anger": 0.095372
+      },
+      "count": 1
+    },
+    {
+      "text": "wedding plans",
+      "sentiment": {
+        "score": -0.645256,
+        "label": "negative"
+      },
+      "relevance": 0.672019,
+      "emotion": {
+        "sadness": 0.323507,
+        "joy": 0.542553,
+        "fear": 0.030285,
+        "disgust": 0.060054,
+        "anger": 0.095372
+      },
+      "count": 1
+    },
+    {
+      "text": "National ENQUIRER",
+      "sentiment": {
+        "score": -0.645256,
+        "label": "negative"
+      },
+      "relevance": 0.647623,
+      "emotion": {
+        "sadness": 0.323507,
+        "joy": 0.542553,
+        "fear": 0.030285,
+        "disgust": 0.060054,
+        "anger": 0.095372
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miranda Lambert",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.753418,
+      "mentions": [
+        {
+          "text": "Miranda Lambert",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Miranda Lambert",
+          "location": [
+            72,
+            87
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            99,
+            102
+          ]
+        },
+        {
+          "text": "no contact policy",
+          "location": [
+            104,
+            121
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            159,
+            162
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Miranda Lambert",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Lambert"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.731731,
+      "mentions": [
+        {
+          "text": "Blake",
+          "location": [
+            23,
+            28
+          ]
+        },
+        {
+          "text": "Blake Shelton",
+          "location": [
+            131,
+            144
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            215,
+            220
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            265,
+            268
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            307,
+            310
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            678,
+            683
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            795,
+            800
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            901,
+            906
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            1180,
+            1185
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Miranda",
+      "sentiment": {
+        "score": -0.520196,
+        "label": "negative"
+      },
+      "relevance": 0.558661,
+      "mentions": [
+        {
+          "text": "Miranda",
+          "location": [
+            183,
+            190
+          ]
+        },
+        {
+          "text": "Miranda",
+          "location": [
+            662,
+            669
+          ]
+        },
+        {
+          "text": "Miranda",
+          "location": [
+            777,
+            784
+          ]
+        },
+        {
+          "text": "Miranda",
+          "location": [
+            888,
+            895
+          ]
+        },
+        {
+          "text": "Miranda",
+          "location": [
+            1099,
+            1106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.554363,
+        "joy": 0.139964,
+        "fear": 0.119149,
+        "disgust": 0.088911,
+        "anger": 0.234733
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Miranda tattled",
+      "sentiment": {
+        "score": 0.497592,
+        "label": "positive"
+      },
+      "relevance": 0.417141,
+      "emotion": {
+        "sadness": 0.18856,
+        "joy": 0.664988,
+        "fear": 0.064058,
+        "disgust": 0.081759,
+        "anger": 0.420202
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anderson East",
+      "sentiment": {
+        "score": -0.445904,
+        "label": "negative"
+      },
+      "relevance": 0.265038,
+      "mentions": [
+        {
+          "text": "Anderson East",
+          "location": [
+            425,
+            438
+          ]
+        },
+        {
+          "text": "Anderson",
+          "location": [
+            632,
+            640
+          ]
+        },
+        {
+          "text": "Anderson",
+          "location": [
+            1120,
+            1128
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.294502,
+        "joy": 0.096522,
+        "fear": 0.054478,
+        "disgust": 0.098062,
+        "anger": 0.053843
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miranda Lambert",
+      "relevance": 0.955972,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miranda_Lambert"
+    },
+    {
+      "text": "Academy of Country Music",
+      "relevance": 0.824258,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_of_Country_Music"
+    },
+    {
+      "text": "Nashville Star",
+      "relevance": 0.816215,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nashville_Star"
+    },
+    {
+      "text": "Blake Shelton",
+      "relevance": 0.799894,
+      "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.697887,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.822008,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 747,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.957796,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Japanese company",
+      "sentiment": {
+        "score": 0.957796,
+        "label": "positive"
+      },
+      "relevance": 0.902387,
+      "emotion": {
+        "sadness": 0.210508,
+        "joy": 0.394091,
+        "fear": 0.005656,
+        "disgust": 0.004369,
+        "anger": 0.062722
+      },
+      "count": 1
+    },
+    {
+      "text": "Nintendo Switch game console",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.82783,
+      "emotion": {
+        "sadness": 0.330544,
+        "joy": 0.135749,
+        "fear": 0.016598,
+        "disgust": 0.024823,
+        "anger": 0.006809
+      },
+      "count": 1
+    },
+    {
+      "text": "remote controller",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.696959,
+      "emotion": {
+        "sadness": 0.120178,
+        "joy": 0.146848,
+        "fear": 0.00718,
+        "disgust": 0.027898,
+        "anger": 0.132769
+      },
+      "count": 1
+    },
+    {
+      "text": "Nintendo Switch video game console",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644741,
+      "emotion": {
+        "sadness": 0.304442,
+        "joy": 0.108602,
+        "fear": 0.046326,
+        "disgust": 0.151266,
+        "anger": 0.032004
+      },
+      "count": 1
+    },
+    {
+      "text": "Motion sensors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.621093,
+      "emotion": {
+        "sadness": 0.197744,
+        "joy": 0.171008,
+        "fear": 0.149802,
+        "disgust": 0.44883,
+        "anger": 0.135053
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Nintendo",
+      "sentiment": {
+        "score": 0.694942,
+        "label": "positive"
+      },
+      "relevance": 0.957846,
+      "mentions": [
+        {
+          "text": "Nintendo",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            61,
+            69
+          ]
+        },
+        {
+          "text": "Nintendo",
+          "location": [
+            318,
+            326
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.311077,
+        "joy": 0.140458,
+        "fear": 0.023553,
+        "disgust": 0.050283,
+        "anger": 0.014729
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyShareholder",
+          "ComputerDesigner",
+          "GameDesigner",
+          "GamePublisher",
+          "JobTitle",
+          "MusicalArtist",
+          "SoftwareDeveloper",
+          "VideoGameDesigner",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Nintendo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nintendo"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Europe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.381461,
+      "mentions": [
+        {
+          "text": "Europe",
+          "location": [
+            201,
+            207
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.258806,
+        "joy": 0.133968,
+        "fear": 0.068206,
+        "disgust": 0.345458,
+        "anger": 0.04812
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "FilmMusicContributor",
+          "Lyricist",
+          "MusicalArtist",
+          "RecordProducer",
+          "Continent"
+        ],
+        "name": "Europe",
+        "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Japan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.380195,
+      "mentions": [
+        {
+          "text": "Japan",
+          "location": [
+            124,
+            129
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.265488,
+        "joy": 0.089221,
+        "fear": 0.036913,
+        "disgust": 0.080394,
+        "anger": 0.032923
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "MusicalArtist",
+          "RecordProducer",
+          "Country"
+        ],
+        "name": "Japan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Japan"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.309028,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            192,
+            196
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.258806,
+        "joy": 0.133968,
+        "fear": 0.068206,
+        "disgust": 0.345458,
+        "anger": 0.04812
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$260",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.309028,
+      "mentions": [
+        {
+          "text": "$260",
+          "location": [
+            116,
+            120
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Video game console",
+      "relevance": 0.966428,
+      "dbpedia_resource": "http://dbpedia.org/resource/Video_game_console"
+    },
+    {
+      "text": "Remote control",
+      "relevance": 0.836556,
+      "dbpedia_resource": "http://dbpedia.org/resource/Remote_control"
+    },
+    {
+      "text": "Game",
+      "relevance": 0.700921,
+      "dbpedia_resource": "http://dbpedia.org/resource/Game"
+    },
+    {
+      "text": "Play",
+      "relevance": 0.598692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Play_(activity)"
+    },
+    {
+      "text": "Game controller",
+      "relevance": 0.592447,
+      "dbpedia_resource": "http://dbpedia.org/resource/Game_controller"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999974,
+      "label": "/technology and computing/consumer electronics/game systems and consoles/nintendo"
+    }
+  ]
+}

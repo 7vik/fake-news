@@ -1,0 +1,353 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 664,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.616051,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Alfonso Ribeiro",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.788727,
+      "emotion": {
+        "sadness": 0.272606,
+        "joy": 0.291648,
+        "fear": 0.101472,
+        "disgust": 0.190897,
+        "anger": 0.147557
+      },
+      "count": 1
+    },
+    {
+      "text": "Instagram post  Ribeiro",
+      "sentiment": {
+        "score": 0.97109,
+        "label": "positive"
+      },
+      "relevance": 0.748047,
+      "emotion": {
+        "sadness": 0.028579,
+        "joy": 0.91903,
+        "fear": 0.015902,
+        "disgust": 0.005577,
+        "anger": 0.025339
+      },
+      "count": 1
+    },
+    {
+      "text": "Fresh Prince of Bel-Air pals",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66706,
+      "emotion": {
+        "sadness": 0.030014,
+        "joy": 0.606614,
+        "fear": 0.081006,
+        "disgust": 0.023067,
+        "anger": 0.085991
+      },
+      "count": 1
+    },
+    {
+      "text": "members of the show",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.666995,
+      "emotion": {
+        "sadness": 0.272606,
+        "joy": 0.291648,
+        "fear": 0.101472,
+        "disgust": 0.190897,
+        "anger": 0.147557
+      },
+      "count": 1
+    },
+    {
+      "text": "Smith",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.604903,
+      "emotion": {
+        "sadness": 0.019027,
+        "joy": 0.546649,
+        "fear": 0.03159,
+        "disgust": 0.00805,
+        "anger": 0.032474
+      },
+      "count": 3
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Alfonso Ribeiro",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.917703,
+      "mentions": [
+        {
+          "text": "Alfonso Ribeiro",
+          "location": [
+            248,
+            263
+          ]
+        },
+        {
+          "text": "Ribeiro",
+          "location": [
+            331,
+            338
+          ]
+        },
+        {
+          "text": "Ribeiro",
+          "location": [
+            535,
+            542
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Alfonso Ribeiro",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alfonso_Ribeiro"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Will Smith",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.853746,
+      "mentions": [
+        {
+          "text": "Will Smith",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Smith",
+          "location": [
+            59,
+            64
+          ]
+        },
+        {
+          "text": "Smith",
+          "location": [
+            525,
+            530
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.18444,
+        "fear": 0.094528,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVDirector",
+          "TVPersonality",
+          "TVProducer"
+        ],
+        "name": "Will Smith",
+        "dbpedia_resource": "http://dbpedia.org/resource/Will_Smith"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "James Avery",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.39626,
+      "mentions": [
+        {
+          "text": "James Avery",
+          "location": [
+            427,
+            438
+          ]
+        },
+        {
+          "text": "Avery",
+          "location": [
+            481,
+            486
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272606,
+        "joy": 0.291648,
+        "fear": 0.101472,
+        "disgust": 0.190897,
+        "anger": 0.147557
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "MilitaryPerson",
+          "TVActor"
+        ],
+        "name": "James Avery (actor)",
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Avery_(actor)"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Daphne Maxwell Reid",
+      "sentiment": {
+        "score": 0.409085,
+        "label": "positive"
+      },
+      "relevance": 0.30932,
+      "mentions": [
+        {
+          "text": "Daphne Maxwell Reid",
+          "location": [
+            604,
+            623
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ],
+        "name": "Daphne Maxwell Reid",
+        "dbpedia_resource": "http://dbpedia.org/resource/Daphne_Maxwell_Reid"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Karyn Parsons",
+      "sentiment": {
+        "score": 0.53978,
+        "label": "positive"
+      },
+      "relevance": 0.272141,
+      "mentions": [
+        {
+          "text": "Karyn Parsons",
+          "location": [
+            580,
+            593
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Karyn Parsons",
+        "dbpedia_resource": "http://dbpedia.org/resource/Karyn_Parsons"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Fresh Prince of Bel-Air",
+      "relevance": 0.989015,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Fresh_Prince_of_Bel-Air"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.64003,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "African American actors",
+      "relevance": 0.505089,
+      "dbpedia_resource": "http://dbpedia.org/resource/African_American_actors"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.449045,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Will Smith",
+      "relevance": 0.365247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Will_Smith"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.57336,
+      "label": "/art and entertainment/movies and tv/talk shows"
+    }
+  ]
+}

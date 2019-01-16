@@ -1,0 +1,200 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 122,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.516774,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": 0.516774,
+        "label": "positive"
+      },
+      "relevance": 0.986958,
+      "emotion": {
+        "sadness": 0.245453,
+        "joy": 0.137561,
+        "fear": 0.053483,
+        "disgust": 0.166518,
+        "anger": 0.297249
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.516774,
+        "label": "positive"
+      },
+      "relevance": 0.953577,
+      "emotion": {
+        "sadness": 0.245453,
+        "joy": 0.137561,
+        "fear": 0.053483,
+        "disgust": 0.166518,
+        "anger": 0.297249
+      },
+      "count": 1
+    },
+    {
+      "text": "Kris Jenner's house",
+      "sentiment": {
+        "score": 0.516774,
+        "label": "positive"
+      },
+      "relevance": 0.191192,
+      "emotion": {
+        "sadness": 0.245453,
+        "joy": 0.137561,
+        "fear": 0.053483,
+        "disgust": 0.166518,
+        "anger": 0.297249
+      },
+      "count": 1
+    },
+    {
+      "text": "martinis",
+      "sentiment": {
+        "score": 0.516774,
+        "label": "positive"
+      },
+      "relevance": 0.056421,
+      "emotion": {
+        "sadness": 0.245453,
+        "joy": 0.137561,
+        "fear": 0.053483,
+        "disgust": 0.166518,
+        "anger": 0.297249
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            47,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325144,
+        "joy": 0.078428,
+        "fear": 0.023585,
+        "disgust": 0.223439,
+        "anger": 0.220875
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            102,
+            113
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            0,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325144,
+        "joy": 0.078428,
+        "fear": 0.023585,
+        "disgust": 0.223439,
+        "anger": 0.220875
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor"
+        ],
+        "name": "Jennifer Lawrence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lawrence"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kanye West",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Daft Punk",
+      "relevance": 0.907905,
+      "dbpedia_resource": "http://dbpedia.org/resource/Daft_Punk"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.661741,
+      "label": "/food and drink"
+    }
+  ]
+}

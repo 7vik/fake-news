@@ -1,0 +1,365 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 705,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.531443,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sir Paul McCartney",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.924577,
+      "emotion": {
+        "sadness": 0.240472,
+        "joy": 0.738555,
+        "fear": 0.002434,
+        "disgust": 0.019938,
+        "anger": 0.002655
+      },
+      "count": 1
+    },
+    {
+      "text": "new musicians",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.747152,
+      "emotion": {
+        "sadness": 0.080455,
+        "joy": 0.878421,
+        "fear": 0.01622,
+        "disgust": 0.013246,
+        "anger": 0.007174
+      },
+      "count": 1
+    },
+    {
+      "text": "Sir Paul McCartney's final album",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.655021,
+      "emotion": {
+        "sadness": 0.252379,
+        "joy": 0.732094,
+        "fear": 0.002489,
+        "disgust": 0.013749,
+        "anger": 0.002362
+      },
+      "count": 1
+    },
+    {
+      "text": "Costello  Kanye West",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644519,
+      "emotion": {
+        "sadness": 0.283181,
+        "joy": 0.487697,
+        "fear": 0.033028,
+        "disgust": 0.064846,
+        "anger": 0.086768
+      },
+      "count": 1
+    },
+    {
+      "text": "unheard demos  Sir Paul",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.635249,
+      "emotion": {
+        "sadness": 0.283181,
+        "joy": 0.487697,
+        "fear": 0.033028,
+        "disgust": 0.064846,
+        "anger": 0.086768
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sir Paul McCartney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.928508,
+      "mentions": [
+        {
+          "text": "Sir Paul McCartney",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Sir Paul McCartney",
+          "location": [
+            64,
+            82
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            177,
+            179
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.090127,
+        "joy": 0.862317,
+        "fear": 0.011781,
+        "disgust": 0.02375,
+        "anger": 0.007471
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "Guitarist",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "TheatricalComposer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Paul McCartney",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Sir Paul",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.630289,
+      "mentions": [
+        {
+          "text": "Sir Paul",
+          "location": [
+            409,
+            417
+          ]
+        },
+        {
+          "text": "Sir Paul",
+          "location": [
+            585,
+            593
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            607,
+            609
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.080455,
+        "joy": 0.878421,
+        "fear": 0.01622,
+        "disgust": 0.013246,
+        "anger": 0.007174
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Costello Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.529018,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "Costello  Kanye West",
+          "location": [
+            480,
+            500
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.09967,
+        "joy": 0.387477,
+        "fear": 0.019721,
+        "disgust": 0.101573,
+        "anger": 0.158002
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "John Lennon",
+      "sentiment": {
+        "score": -0.58681,
+        "label": "negative"
+      },
+      "relevance": 0.322442,
+      "mentions": [
+        {
+          "text": "John Lennon",
+          "location": [
+            572,
+            583
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            667,
+            669
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.283181,
+        "joy": 0.487697,
+        "fear": 0.033028,
+        "disgust": 0.064846,
+        "anger": 0.086768
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardWinner",
+          "BroadcastArtist",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "FilmDirector",
+          "FilmMusicContributor",
+          "Guitarist",
+          "HallOfFameInductee",
+          "Illustrator",
+          "Lyricist",
+          "MusicalGroupMember",
+          "Songwriter",
+          "TheatricalComposer",
+          "TheatricalLyricist",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "John Lennon",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Lennon"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Elvis Costello",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.302149,
+      "mentions": [
+        {
+          "text": "Elvis Costello",
+          "location": [
+            269,
+            283
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.080455,
+        "joy": 0.878421,
+        "fear": 0.01622,
+        "disgust": 0.013246,
+        "anger": 0.007174
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Elvis Costello",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elvis_Costello"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Paul McCartney",
+      "relevance": 0.989719,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+    },
+    {
+      "text": "The Beatles",
+      "relevance": 0.782753,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Beatles"
+    },
+    {
+      "text": "Grammy Award winners",
+      "relevance": 0.772511,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_winners"
+    },
+    {
+      "text": "Michael Jackson",
+      "relevance": 0.742779,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michael_Jackson"
+    },
+    {
+      "text": "BRIT Award winners",
+      "relevance": 0.58558,
+      "dbpedia_resource": "http://dbpedia.org/resource/BRIT_Award_winners"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.873857,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

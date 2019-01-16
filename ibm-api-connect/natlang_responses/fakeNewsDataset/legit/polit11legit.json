@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 744,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.913336,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "federal funds",
+      "sentiment": {
+        "score": -0.913336,
+        "label": "negative"
+      },
+      "relevance": 0.748253,
+      "emotion": {
+        "sadness": 0.208292,
+        "joy": 0.110259,
+        "fear": 0.088879,
+        "disgust": 0.148657,
+        "anger": 0.22291
+      },
+      "count": 1
+    },
+    {
+      "text": "federal immigration laws",
+      "sentiment": {
+        "score": -0.913336,
+        "label": "negative"
+      },
+      "relevance": 0.746267,
+      "emotion": {
+        "sadness": 0.208292,
+        "joy": 0.110259,
+        "fear": 0.088879,
+        "disgust": 0.148657,
+        "anger": 0.22291
+      },
+      "count": 2
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.913336,
+        "label": "negative"
+      },
+      "relevance": 0.742559,
+      "emotion": {
+        "sadness": 0.208292,
+        "joy": 0.110259,
+        "fear": 0.088879,
+        "disgust": 0.148657,
+        "anger": 0.22291
+      },
+      "count": 2
+    },
+    {
+      "text": "sanctuary cities",
+      "sentiment": {
+        "score": -0.913336,
+        "label": "negative"
+      },
+      "relevance": 0.724544,
+      "emotion": {
+        "sadness": 0.237477,
+        "joy": 0.118577,
+        "fear": 0.133206,
+        "disgust": 0.155508,
+        "anger": 0.234584
+      },
+      "count": 2
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.913336,
+        "label": "negative"
+      },
+      "relevance": 0.720335,
+      "emotion": {
+        "sadness": 0.220321,
+        "joy": 0.019679,
+        "fear": 0.803024,
+        "disgust": 0.077489,
+        "anger": 0.067034
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jeff Sessions",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.894702,
+      "mentions": [
+        {
+          "text": "Jeff Sessions",
+          "location": [
+            100,
+            113
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.195088,
+        "joy": 0.161145,
+        "fear": 0.034785,
+        "disgust": 0.170006,
+        "anger": 0.313941
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "MilitaryPerson",
+          "Senator",
+          "U.S.Congressperson"
+        ],
+        "name": "Jeff Sessions",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jeff_Sessions"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": -0.430603,
+        "label": "negative"
+      },
+      "relevance": 0.864592,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.220321,
+        "joy": 0.019679,
+        "fear": 0.803024,
+        "disgust": 0.077489,
+        "anger": 0.067034
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.699393,
+      "mentions": [
+        {
+          "text": "Los Angeles",
+          "location": [
+            576,
+            587
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141958,
+        "joy": 0.088905,
+        "fear": 0.108427,
+        "disgust": 0.090963,
+        "anger": 0.161313
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.659295,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            67,
+            77
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Immigration",
+      "relevance": 0.985636,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration"
+    },
+    {
+      "text": "Chicago",
+      "relevance": 0.796252,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+      "text": "Law enforcement agency",
+      "relevance": 0.777285,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law_enforcement_agency"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.766259,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+      "text": "Population",
+      "relevance": 0.752969,
+      "dbpedia_resource": "http://dbpedia.org/resource/Population"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.920952,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

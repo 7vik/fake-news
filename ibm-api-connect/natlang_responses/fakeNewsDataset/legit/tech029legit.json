@@ -1,0 +1,192 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 652,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.745151,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new fruit",
+      "sentiment": {
+        "score": 0.745151,
+        "label": "positive"
+      },
+      "relevance": 0.725314,
+      "emotion": {
+        "sadness": 0.061656,
+        "joy": 0.736997,
+        "fear": 0.031008,
+        "disgust": 0.018099,
+        "anger": 0.008652
+      },
+      "count": 1
+    },
+    {
+      "text": "fresher fruit",
+      "sentiment": {
+        "score": 0.745151,
+        "label": "positive"
+      },
+      "relevance": 0.682268,
+      "emotion": {
+        "sadness": 0.061656,
+        "joy": 0.736997,
+        "fear": 0.031008,
+        "disgust": 0.018099,
+        "anger": 0.008652
+      },
+      "count": 1
+    },
+    {
+      "text": "composition of real fruit",
+      "sentiment": {
+        "score": 0.745151,
+        "label": "positive"
+      },
+      "relevance": 0.671585,
+      "emotion": {
+        "sadness": 0.061656,
+        "joy": 0.736997,
+        "fear": 0.031008,
+        "disgust": 0.018099,
+        "anger": 0.008652
+      },
+      "count": 1
+    },
+    {
+      "text": "mango varieties",
+      "sentiment": {
+        "score": 0.745151,
+        "label": "positive"
+      },
+      "relevance": 0.623974,
+      "emotion": {
+        "sadness": 0.061656,
+        "joy": 0.736997,
+        "fear": 0.031008,
+        "disgust": 0.018099,
+        "anger": 0.008652
+      },
+      "count": 1
+    },
+    {
+      "text": "cargo companies",
+      "sentiment": {
+        "score": 0.745151,
+        "label": "positive"
+      },
+      "relevance": 0.621549,
+      "emotion": {
+        "sadness": 0.061656,
+        "joy": 0.736997,
+        "fear": 0.031008,
+        "disgust": 0.018099,
+        "anger": 0.008652
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Swiss Federal Laboratories for Materials Science and Technology",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.975688,
+      "mentions": [
+        {
+          "text": "Swiss Federal Laboratories for Materials Science and Technology",
+          "location": [
+            580,
+            643
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.070635,
+        "joy": 0.847619,
+        "fear": 0.025889,
+        "disgust": 0.02313,
+        "anger": 0.011755
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Empa",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.667613,
+      "mentions": [
+        {
+          "text": "Empa",
+          "location": [
+            645,
+            649
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "FieldOfStudy",
+          "OrganizationSector",
+          "BroadcastContent"
+        ],
+        "name": "Performing arts",
+        "dbpedia_resource": "http://dbpedia.org/resource/Performing_arts"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fruit",
+      "relevance": 0.940244,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fruit"
+    },
+    {
+      "text": "Empa",
+      "relevance": 0.88803,
+      "dbpedia_resource": "http://dbpedia.org/resource/Empa"
+    },
+    {
+      "text": "Laboratories",
+      "relevance": 0.795432,
+      "dbpedia_resource": "http://dbpedia.org/resource/Laboratories"
+    },
+    {
+      "text": "Technology",
+      "relevance": 0.702331,
+      "dbpedia_resource": "http://dbpedia.org/resource/Technology"
+    },
+    {
+      "text": "Ethylene",
+      "relevance": 0.638599,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ethylene"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.747063,
+      "label": "/technology and computing/internet technology"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 865,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.747116,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ray J",
+      "sentiment": {
+        "score": -0.938418,
+        "label": "negative"
+      },
+      "relevance": 0.905879,
+      "emotion": {
+        "sadness": 0.136113,
+        "joy": 0.082757,
+        "fear": 0.123891,
+        "disgust": 0.090752,
+        "anger": 0.084932
+      },
+      "count": 1
+    },
+    {
+      "text": "DM President Obama\u2019s daughter",
+      "sentiment": {
+        "score": -0.938418,
+        "label": "negative"
+      },
+      "relevance": 0.645405,
+      "emotion": {
+        "sadness": 0.308792,
+        "joy": 0.09153,
+        "fear": 0.06819,
+        "disgust": 0.63771,
+        "anger": 0.018845
+      },
+      "count": 1
+    },
+    {
+      "text": "favorite porn star",
+      "sentiment": {
+        "score": -0.938418,
+        "label": "negative"
+      },
+      "relevance": 0.641569,
+      "emotion": {
+        "sadness": 0.308792,
+        "joy": 0.09153,
+        "fear": 0.06819,
+        "disgust": 0.63771,
+        "anger": 0.018845
+      },
+      "count": 1
+    },
+    {
+      "text": "extra dumb stuff",
+      "sentiment": {
+        "score": -0.898252,
+        "label": "negative"
+      },
+      "relevance": 0.624802,
+      "emotion": {
+        "sadness": 0.546224,
+        "joy": 0.033887,
+        "fear": 0.146488,
+        "disgust": 0.068983,
+        "anger": 0.372589
+      },
+      "count": 1
+    },
+    {
+      "text": "actual evidence",
+      "sentiment": {
+        "score": -0.387994,
+        "label": "negative"
+      },
+      "relevance": 0.584136,
+      "emotion": {
+        "sadness": 0.212991,
+        "joy": 0.066011,
+        "fear": 0.041187,
+        "disgust": 0.318372,
+        "anger": 0.190642
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ray J",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.837771,
+      "mentions": [
+        {
+          "text": "Ray J",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Ray",
+          "location": [
+            148,
+            151
+          ]
+        },
+        {
+          "text": "Ray",
+          "location": [
+            412,
+            415
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Ray J",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ray_J"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Malia Obama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.792326,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.263793,
+        "label": "negative"
+      },
+      "relevance": 0.539109,
+      "emotion": {
+        "sadness": 0.400647,
+        "joy": 0.067371,
+        "fear": 0.106868,
+        "disgust": 0.477879,
+        "anger": 0.116576
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kanye",
+      "sentiment": {
+        "score": -0.703972,
+        "label": "negative"
+      },
+      "relevance": 0.431571,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            53,
+            58
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            92,
+            94
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.308792,
+        "joy": 0.09153,
+        "fear": 0.06819,
+        "disgust": 0.63771,
+        "anger": 0.018845
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.940118,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.872098,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.748707,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Illinois",
+      "relevance": 0.731213,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.633758,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

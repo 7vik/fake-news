@@ -1,0 +1,303 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 526,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.400054,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Vice President Mike Pence",
+      "sentiment": {
+        "score": 0.738076,
+        "label": "positive"
+      },
+      "relevance": 0.925101,
+      "emotion": {
+        "sadness": 0.210275,
+        "joy": 0.54989,
+        "fear": 0.01675,
+        "disgust": 0.072063,
+        "anger": 0.040089
+      },
+      "count": 1
+    },
+    {
+      "text": "Education Secretary Betsy DeVos",
+      "sentiment": {
+        "score": -0.732281,
+        "label": "negative"
+      },
+      "relevance": 0.879505,
+      "emotion": {
+        "sadness": 0.28174,
+        "joy": 0.04687,
+        "fear": 0.245994,
+        "disgust": 0.084998,
+        "anger": 0.086526
+      },
+      "count": 1
+    },
+    {
+      "text": "advanced experience",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66528,
+      "emotion": {
+        "sadness": 0.212611,
+        "joy": 0.113849,
+        "fear": 0.1629,
+        "disgust": 0.086245,
+        "anger": 0.194601
+      },
+      "count": 1
+    },
+    {
+      "text": "Department of Education",
+      "sentiment": {
+        "score": -0.80207,
+        "label": "negative"
+      },
+      "relevance": 0.613204,
+      "emotion": {
+        "sadness": 0.109698,
+        "joy": 0.192634,
+        "fear": 0.03335,
+        "disgust": 0.031369,
+        "anger": 0.040638
+      },
+      "count": 1
+    },
+    {
+      "text": "ability",
+      "sentiment": {
+        "score": -0.80207,
+        "label": "negative"
+      },
+      "relevance": 0.556279,
+      "emotion": {
+        "sadness": 0.109698,
+        "joy": 0.192634,
+        "fear": 0.03335,
+        "disgust": 0.031369,
+        "anger": 0.040638
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": -0.341433,
+        "label": "negative"
+      },
+      "relevance": 0.861792,
+      "mentions": [
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            20,
+            31
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            58,
+            61
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            110,
+            113
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            407,
+            410
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            446,
+            449
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.183259,
+        "joy": 0.190899,
+        "fear": 0.062352,
+        "disgust": 0.077669,
+        "anger": 0.150934
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Department of Education",
+      "sentiment": {
+        "score": -0.379457,
+        "label": "negative"
+      },
+      "relevance": 0.640358,
+      "mentions": [
+        {
+          "text": "Department of Education",
+          "location": [
+            280,
+            303
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109698,
+        "joy": 0.192634,
+        "fear": 0.03335,
+        "disgust": 0.031369,
+        "anger": 0.040638
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mike Pence",
+      "sentiment": {
+        "score": -0.341433,
+        "label": "negative"
+      },
+      "relevance": 0.588576,
+      "mentions": [
+        {
+          "text": "Mike Pence",
+          "location": [
+            367,
+            377
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.198802,
+        "joy": 0.312554,
+        "fear": 0.028299,
+        "disgust": 0.075552,
+        "anger": 0.104055
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson",
+          "BroadcastArtist"
+        ],
+        "name": "Mike Pence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice President",
+      "sentiment": {
+        "score": -0.341433,
+        "label": "negative"
+      },
+      "relevance": 0.515055,
+      "mentions": [
+        {
+          "text": "Vice President",
+          "location": [
+            352,
+            366
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.198802,
+        "joy": 0.312554,
+        "fear": 0.028299,
+        "disgust": 0.075552,
+        "anger": 0.104055
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.461127,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            10,
+            19
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.28174,
+        "joy": 0.04687,
+        "fear": 0.245994,
+        "disgust": 0.084998,
+        "anger": 0.086526
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Senate",
+      "relevance": 0.989754,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "President pro tempore of the United States Senate",
+      "relevance": 0.868566,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_pro_tempore_of_the_United_States_Senate"
+    },
+    {
+      "text": "United States Cabinet",
+      "relevance": 0.696377,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Cabinet"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.693781,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Vice President of the United States",
+      "relevance": 0.635976,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vice_President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.870887,
+      "label": "/education/special education"
+    }
+  ]
+}

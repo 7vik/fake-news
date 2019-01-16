@@ -1,0 +1,231 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 668,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.620922,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "School Starts",
+      "sentiment": {
+        "score": -0.877672,
+        "label": "negative"
+      },
+      "relevance": 0.887603,
+      "emotion": {
+        "sadness": 0.245055,
+        "joy": 0.420335,
+        "fear": 0.191704,
+        "disgust": 0.102016,
+        "anger": 0.175286
+      },
+      "count": 1
+    },
+    {
+      "text": "Senator Anthony Portantino",
+      "sentiment": {
+        "score": -0.877672,
+        "label": "negative"
+      },
+      "relevance": 0.744318,
+      "emotion": {
+        "sadness": 0.243283,
+        "joy": 0.57548,
+        "fear": 0.025247,
+        "disgust": 0.086014,
+        "anger": 0.041681
+      },
+      "count": 1
+    },
+    {
+      "text": "high school classes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.743806,
+      "emotion": {
+        "sadness": 0.276953,
+        "joy": 0.24669,
+        "fear": 0.082062,
+        "disgust": 0.212464,
+        "anger": 0.107897
+      },
+      "count": 1
+    },
+    {
+      "text": "California school districts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.671703,
+      "emotion": {
+        "sadness": 0.276953,
+        "joy": 0.24669,
+        "fear": 0.082062,
+        "disgust": 0.212464,
+        "anger": 0.107897
+      },
+      "count": 1
+    },
+    {
+      "text": "best practices",
+      "sentiment": {
+        "score": 0.879321,
+        "label": "positive"
+      },
+      "relevance": 0.60367,
+      "emotion": {
+        "sadness": 0.276953,
+        "joy": 0.24669,
+        "fear": 0.082062,
+        "disgust": 0.212464,
+        "anger": 0.107897
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Senator Anthony Portantino",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.865524,
+      "mentions": [
+        {
+          "text": "Senator Anthony Portantino",
+          "location": [
+            63,
+            89
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            247,
+            249
+          ]
+        },
+        {
+          "text": "Portantino",
+          "location": [
+            516,
+            526
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.254818,
+        "joy": 0.313467,
+        "fear": 0.07103,
+        "disgust": 0.188316,
+        "anger": 0.148868
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ],
+        "name": "Anthony Portantino",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anthony_Portantino"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": -0.323661,
+        "label": "negative"
+      },
+      "relevance": 0.577116,
+      "mentions": [
+        {
+          "text": "California",
+          "location": [
+            104,
+            114
+          ]
+        },
+        {
+          "text": "the first state",
+          "location": [
+            123,
+            138
+          ]
+        },
+        {
+          "text": "California",
+          "location": [
+            294,
+            304
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292478,
+        "joy": 0.43714,
+        "fear": 0.0752,
+        "disgust": 0.091591,
+        "anger": 0.038501
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "Appellation",
+          "GovernmentalJurisdiction",
+          "USState",
+          "WineRegion",
+          "StateOrCounty"
+        ],
+        "name": "California",
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.96078,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "School",
+      "relevance": 0.776455,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.642881,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Legislatures",
+      "relevance": 0.635108,
+      "dbpedia_resource": "http://dbpedia.org/resource/Legislatures"
+    },
+    {
+      "text": "My Chemical Romance",
+      "relevance": 0.613781,
+      "dbpedia_resource": "http://dbpedia.org/resource/My_Chemical_Romance"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998676,
+      "label": "/education/special education"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 932,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.517533,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye Silence Divorce Rumors",
+      "sentiment": {
+        "score": -0.364837,
+        "label": "negative"
+      },
+      "relevance": 0.863352,
+      "emotion": {
+        "sadness": 0.422089,
+        "joy": 0.129499,
+        "fear": 0.227491,
+        "disgust": 0.418958,
+        "anger": 0.084175
+      },
+      "count": 1
+    },
+    {
+      "text": "blond Kanye pose",
+      "sentiment": {
+        "score": -0.675879,
+        "label": "negative"
+      },
+      "relevance": 0.720199,
+      "emotion": {
+        "sadness": 0.147988,
+        "joy": 0.445247,
+        "fear": 0.126054,
+        "disgust": 0.157254,
+        "anger": 0.124053
+      },
+      "count": 1
+    },
+    {
+      "text": "social media",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.686437,
+      "emotion": {
+        "sadness": 0.216246,
+        "joy": 0.631868,
+        "fear": 0.028116,
+        "disgust": 0.087262,
+        "anger": 0.067653
+      },
+      "count": 1
+    },
+    {
+      "text": "Khloe Kardashian",
+      "sentiment": {
+        "score": -0.568079,
+        "label": "negative"
+      },
+      "relevance": 0.683724,
+      "emotion": {
+        "sadness": 0.216246,
+        "joy": 0.631868,
+        "fear": 0.028116,
+        "disgust": 0.087262,
+        "anger": 0.067653
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie Jenner's Instagrams",
+      "sentiment": {
+        "score": -0.568079,
+        "label": "negative"
+      },
+      "relevance": 0.637799,
+      "emotion": {
+        "sadness": 0.216246,
+        "joy": 0.631868,
+        "fear": 0.028116,
+        "disgust": 0.087262,
+        "anger": 0.067653
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye",
+      "sentiment": {
+        "score": 0.136178,
+        "label": "positive"
+      },
+      "relevance": 0.755216,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            55,
+            60
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            253,
+            258
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            314,
+            319
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            588,
+            593
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            726,
+            731
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.199002,
+        "joy": 0.370602,
+        "fear": 0.04998,
+        "disgust": 0.308519,
+        "anger": 0.121494
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Kim",
+      "sentiment": {
+        "score": -0.025139,
+        "label": "negative"
+      },
+      "relevance": 0.458143,
+      "mentions": [
+        {
+          "text": "Kim",
+          "location": [
+            0,
+            3
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            231,
+            234
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            387,
+            390
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            549,
+            552
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            645,
+            648
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            695,
+            702
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.239211,
+        "joy": 0.17027,
+        "fear": 0.128076,
+        "disgust": 0.240585,
+        "anger": 0.126281
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.662314,
+        "label": "positive"
+      },
+      "relevance": 0.298567,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            189,
+            200
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.255094,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            774,
+            786
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.454508,
+        "label": "positive"
+      },
+      "relevance": 0.225236,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            69,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162881,
+        "joy": 0.587008,
+        "fear": 0.022631,
+        "disgust": 0.060955,
+        "anger": 0.031513
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.988531,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.97371,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.817733,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.808133,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.660886,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.608977,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

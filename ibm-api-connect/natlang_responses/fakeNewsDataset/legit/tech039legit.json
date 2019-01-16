@@ -1,0 +1,310 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 727,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.627353,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Uber spokeswoman",
+      "sentiment": {
+        "score": 0.422107,
+        "label": "positive"
+      },
+      "relevance": 0.800316,
+      "emotion": {
+        "sadness": 0.121305,
+        "joy": 0.487729,
+        "fear": 0.138169,
+        "disgust": 0.038889,
+        "anger": 0.287823
+      },
+      "count": 1
+    },
+    {
+      "text": "company's testing program",
+      "sentiment": {
+        "score": 0.422107,
+        "label": "positive"
+      },
+      "relevance": 0.728132,
+      "emotion": {
+        "sadness": 0.121305,
+        "joy": 0.487729,
+        "fear": 0.138169,
+        "disgust": 0.038889,
+        "anger": 0.287823
+      },
+      "count": 1
+    },
+    {
+      "text": "Uber's Volvo self",
+      "sentiment": {
+        "score": 0.422107,
+        "label": "positive"
+      },
+      "relevance": 0.705101,
+      "emotion": {
+        "sadness": 0.121305,
+        "joy": 0.487729,
+        "fear": 0.138169,
+        "disgust": 0.038889,
+        "anger": 0.287823
+      },
+      "count": 1
+    },
+    {
+      "text": "Uber car",
+      "sentiment": {
+        "score": -0.887043,
+        "label": "negative"
+      },
+      "relevance": 0.665289,
+      "emotion": {
+        "sadness": 0.234626,
+        "joy": 0.004049,
+        "fear": 0.416437,
+        "disgust": 0.178579,
+        "anger": 0.287041
+      },
+      "count": 1
+    },
+    {
+      "text": "public roads Monday",
+      "sentiment": {
+        "score": 0.422107,
+        "label": "positive"
+      },
+      "relevance": 0.63863,
+      "emotion": {
+        "sadness": 0.121305,
+        "joy": 0.487729,
+        "fear": 0.138169,
+        "disgust": 0.038889,
+        "anger": 0.287823
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Uber Technologies Inc.",
+      "sentiment": {
+        "score": -0.355193,
+        "label": "negative"
+      },
+      "relevance": 0.903881,
+      "mentions": [
+        {
+          "text": "Uber Technologies Inc.",
+          "location": [
+            58,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Tempe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.708105,
+      "mentions": [
+        {
+          "text": "Tempe",
+          "location": [
+            325,
+            330
+          ]
+        },
+        {
+          "text": "Tempe",
+          "location": [
+            494,
+            499
+          ]
+        },
+        {
+          "text": "Tempe",
+          "location": [
+            578,
+            583
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.115833,
+        "joy": 0.382932,
+        "fear": 0.176822,
+        "disgust": 0.103995,
+        "anger": 0.271225
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Arizona",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.443087,
+      "mentions": [
+        {
+          "text": "Arizona",
+          "location": [
+            163,
+            170
+          ]
+        },
+        {
+          "text": "Arizona",
+          "location": [
+            332,
+            339
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.266446,
+        "joy": 0.305541,
+        "fear": 0.112663,
+        "disgust": 0.066448,
+        "anger": 0.202518
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Arizona",
+        "dbpedia_resource": "http://dbpedia.org/resource/Arizona"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Volvo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.327934,
+      "mentions": [
+        {
+          "text": "Volvo",
+          "location": [
+            421,
+            426
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.085808,
+        "joy": 0.442065,
+        "fear": 0.189219,
+        "disgust": 0.121015,
+        "anger": 0.182411
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "Volvo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Volvo"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "San Francisco",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.299664,
+      "mentions": [
+        {
+          "text": "San Francisco",
+          "location": [
+            257,
+            270
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.314729,
+        "joy": 0.235784,
+        "fear": 0.142148,
+        "disgust": 0.062773,
+        "anger": 0.178219
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Automobile",
+      "relevance": 0.936872,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    },
+    {
+      "text": "Punk rock",
+      "relevance": 0.794847,
+      "dbpedia_resource": "http://dbpedia.org/resource/Punk_rock"
+    },
+    {
+      "text": "Message in a Bottle",
+      "relevance": 0.786098,
+      "dbpedia_resource": "http://dbpedia.org/resource/Message_in_a_Bottle_(song)"
+    },
+    {
+      "text": "Transport",
+      "relevance": 0.765884,
+      "dbpedia_resource": "http://dbpedia.org/resource/Transport"
+    },
+    {
+      "text": "Personal rapid transit",
+      "relevance": 0.764016,
+      "dbpedia_resource": "http://dbpedia.org/resource/Personal_rapid_transit"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.965282,
+      "label": "/automotive and vehicles/cars"
+    }
+  ]
+}

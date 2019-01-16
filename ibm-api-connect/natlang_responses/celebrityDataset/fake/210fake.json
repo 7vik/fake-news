@@ -1,0 +1,237 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 114,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.686213,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Photos Of Angelina Jolie",
+      "sentiment": {
+        "score": 0.686213,
+        "label": "positive"
+      },
+      "relevance": 0.982549,
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "count": 1
+    },
+    {
+      "text": "Wedding Dress Claim",
+      "sentiment": {
+        "score": 0.686213,
+        "label": "positive"
+      },
+      "relevance": 0.630461,
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "count": 1
+    },
+    {
+      "text": "Quickie Marriage",
+      "sentiment": {
+        "score": 0.686213,
+        "label": "positive"
+      },
+      "relevance": 0.266747,
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "count": 1
+    },
+    {
+      "text": "Rando Brit",
+      "sentiment": {
+        "score": 0.686213,
+        "label": "positive"
+      },
+      "relevance": 0.17459,
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "count": 1
+    },
+    {
+      "text": "Brad Pitt Divorce",
+      "sentiment": {
+        "score": 0.686213,
+        "label": "positive"
+      },
+      "relevance": 0.119172,
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.522101,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            10,
+            24
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rando Brit",
+      "sentiment": {
+        "score": -0.522101,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rando Brit",
+          "location": [
+            79,
+            89
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.522101,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            96,
+            105
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158366,
+        "joy": 0.521673,
+        "fear": 0.00711,
+        "disgust": 0.129733,
+        "anger": 0.285191
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.98043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.778396,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.695789,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.666237,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    },
+    {
+      "text": "People",
+      "relevance": 0.589528,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.995137,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

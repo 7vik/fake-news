@@ -1,0 +1,101 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.97855,
+      "emotion": {
+        "sadness": 0.208673,
+        "joy": 0.269695,
+        "fear": 0.105815,
+        "disgust": 0.059776,
+        "anger": 0.023449
+      },
+      "count": 1
+    },
+    {
+      "text": "Future Generations of Kardashians",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.02145,
+      "emotion": {
+        "sadness": 0.208673,
+        "joy": 0.269695,
+        "fear": 0.105815,
+        "disgust": 0.059776,
+        "anger": 0.023449
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.208673,
+        "joy": 0.269695,
+        "fear": 0.105815,
+        "disgust": 0.059776,
+        "anger": 0.023449
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.880267,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.622529,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

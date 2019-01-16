@@ -1,0 +1,96 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.736292,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Heartbroken Jennifer Aniston Runs",
+      "sentiment": {
+        "score": -0.736292,
+        "label": "negative"
+      },
+      "relevance": 0.998637,
+      "emotion": {
+        "sadness": 0.75842,
+        "joy": 0.060438,
+        "fear": 0.08206,
+        "disgust": 0.025089,
+        "anger": 0.100122
+      },
+      "count": 1
+    },
+    {
+      "text": "Border",
+      "sentiment": {
+        "score": -0.736292,
+        "label": "negative"
+      },
+      "relevance": 0.636172,
+      "emotion": {
+        "sadness": 0.75842,
+        "joy": 0.060438,
+        "fear": 0.08206,
+        "disgust": 0.025089,
+        "anger": 0.100122
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.941207,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            12,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.75842,
+        "joy": 0.060438,
+        "fear": 0.08206,
+        "disgust": 0.025089,
+        "anger": 0.100122
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.866229,
+      "label": "/sports/cricket"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1094,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.374997,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Liam Hemsworth End Engagement",
+      "sentiment": {
+        "score": 0.36574,
+        "label": "positive"
+      },
+      "relevance": 0.797837,
+      "emotion": {
+        "sadness": 0.320492,
+        "joy": 0.42611,
+        "fear": 0.106452,
+        "disgust": 0.117463,
+        "anger": 0.064016
+      },
+      "count": 1
+    },
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.36574,
+        "label": "positive"
+      },
+      "relevance": 0.775258,
+      "emotion": {
+        "sadness": 0.230442,
+        "joy": 0.696313,
+        "fear": 0.009734,
+        "disgust": 0.010795,
+        "anger": 0.072367
+      },
+      "count": 2
+    },
+    {
+      "text": "end of a tumultuous year",
+      "sentiment": {
+        "score": 0.36574,
+        "label": "positive"
+      },
+      "relevance": 0.716336,
+      "emotion": {
+        "sadness": 0.232349,
+        "joy": 0.703956,
+        "fear": 0.008307,
+        "disgust": 0.008389,
+        "anger": 0.062465
+      },
+      "count": 1
+    },
+    {
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0.36574,
+        "label": "positive"
+      },
+      "relevance": 0.672544,
+      "emotion": {
+        "sadness": 0.230442,
+        "joy": 0.696313,
+        "fear": 0.009734,
+        "disgust": 0.010795,
+        "anger": 0.072367
+      },
+      "count": 1
+    },
+    {
+      "text": "red carpet",
+      "sentiment": {
+        "score": -0.883483,
+        "label": "negative"
+      },
+      "relevance": 0.62242,
+      "emotion": {
+        "sadness": 0.404938,
+        "joy": 0.381895,
+        "fear": 0.104454,
+        "disgust": 0.053415,
+        "anger": 0.166356
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Liam Hemsworth",
+      "sentiment": {
+        "score": 0.278943,
+        "label": "positive"
+      },
+      "relevance": 0.831516,
+      "mentions": [
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            16,
+            30
+          ]
+        },
+        {
+          "text": "Liam Hemsworth",
+          "location": [
+            98,
+            112
+          ]
+        },
+        {
+          "text": "Hemsworth",
+          "location": [
+            260,
+            269
+          ]
+        },
+        {
+          "text": "Hemsworth",
+          "location": [
+            772,
+            781
+          ]
+        },
+        {
+          "text": "Hemsworth",
+          "location": [
+            1006,
+            1015
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.331808,
+        "joy": 0.368701,
+        "fear": 0.063108,
+        "disgust": 0.117466,
+        "anger": 0.074829
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Liam Hemsworth",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.80517,
+        "label": "positive"
+      },
+      "relevance": 0.534669,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            82,
+            93
+          ]
+        },
+        {
+          "text": "Cyrus",
+          "location": [
+            245,
+            250
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.351309,
+        "joy": 0.561808,
+        "fear": 0.022468,
+        "disgust": 0.071842,
+        "anger": 0.029347
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 3
+    },
+    {
+      "type": "Movie",
+      "text": "Wrecking Ball",
+      "sentiment": {
+        "score": -0.478405,
+        "label": "negative"
+      },
+      "relevance": 0.198826,
+      "mentions": [
+        {
+          "text": "Wrecking Ball",
+          "location": [
+            944,
+            957
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.573795,
+        "joy": 0.008769,
+        "fear": 0.438403,
+        "disgust": 0.089956,
+        "anger": 0.148951
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Canada",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.163717,
+      "mentions": [
+        {
+          "text": "Canada",
+          "location": [
+            758,
+            764
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074061,
+        "joy": 0.590646,
+        "fear": 0.124406,
+        "disgust": 0.020157,
+        "anger": 0.089607
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "AwardDiscipline",
+          "FilmScreeningVenue",
+          "Country"
+        ],
+        "name": "Canada",
+        "dbpedia_resource": "http://dbpedia.org/resource/Canada"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Liam.",
+      "sentiment": {
+        "score": 0.676964,
+        "label": "positive"
+      },
+      "relevance": 0.139829,
+      "mentions": [
+        {
+          "text": "Liam.",
+          "location": [
+            533,
+            538
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.974619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "The Last Song",
+      "relevance": 0.912212,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Last_Song_(film)"
+    },
+    {
+      "text": "Liam Hemsworth",
+      "relevance": 0.724439,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liam_Hemsworth"
+    },
+    {
+      "text": "The Last Song",
+      "relevance": 0.596122,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Last_Song_(novel)"
+    },
+    {
+      "text": "Engagement",
+      "relevance": 0.5957,
+      "dbpedia_resource": "http://dbpedia.org/resource/Engagement"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.702442,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

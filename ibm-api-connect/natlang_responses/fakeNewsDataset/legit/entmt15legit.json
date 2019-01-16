@@ -1,0 +1,210 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 977,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.591481,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "contemporary setting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.746865,
+      "emotion": {
+        "sadness": 0.441583,
+        "joy": 0.200509,
+        "fear": 0.079937,
+        "disgust": 0.128528,
+        "anger": 0.227227
+      },
+      "count": 1
+    },
+    {
+      "text": "A&E series",
+      "sentiment": {
+        "score": -0.789341,
+        "label": "negative"
+      },
+      "relevance": 0.746629,
+      "emotion": {
+        "sadness": 0.190931,
+        "joy": 0.076997,
+        "fear": 0.684121,
+        "disgust": 0.219025,
+        "anger": 0.062803
+      },
+      "count": 1
+    },
+    {
+      "text": "final season",
+      "sentiment": {
+        "score": -0.46626,
+        "label": "negative"
+      },
+      "relevance": 0.693401,
+      "emotion": {
+        "sadness": 0.190333,
+        "joy": 0.295755,
+        "fear": 0.10622,
+        "disgust": 0.022605,
+        "anger": 0.096872
+      },
+      "count": 2
+    },
+    {
+      "text": "expiration date",
+      "sentiment": {
+        "score": -0.789341,
+        "label": "negative"
+      },
+      "relevance": 0.645711,
+      "emotion": {
+        "sadness": 0.190931,
+        "joy": 0.076997,
+        "fear": 0.684121,
+        "disgust": 0.219025,
+        "anger": 0.062803
+      },
+      "count": 1
+    },
+    {
+      "text": "fine line",
+      "sentiment": {
+        "score": -0.48625,
+        "label": "negative"
+      },
+      "relevance": 0.622848,
+      "emotion": {
+        "sadness": 0.186518,
+        "joy": 0.423493,
+        "fear": 0.124928,
+        "disgust": 0.044528,
+        "anger": 0.0895
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Movie",
+      "text": "Psycho",
+      "sentiment": {
+        "score": -0.437148,
+        "label": "negative"
+      },
+      "relevance": 0.945041,
+      "mentions": [
+        {
+          "text": "Psycho",
+          "location": [
+            283,
+            289
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Film"
+        ],
+        "name": "Psycho (1998 film)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Psycho_(1998_film)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alfred Hitchcock",
+      "sentiment": {
+        "score": 0.68732,
+        "label": "positive"
+      },
+      "relevance": 0.832384,
+      "mentions": [
+        {
+          "text": "Alfred Hitchcock",
+          "location": [
+            450,
+            466
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "ChivalricOrderMember",
+          "FilmActor",
+          "FilmArtDirector",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Alfred Hitchcock",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alfred_Hitchcock"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Psycho",
+      "relevance": 0.964271,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psycho_(1960_film)"
+    },
+    {
+      "text": "Norman Bates",
+      "relevance": 0.684695,
+      "dbpedia_resource": "http://dbpedia.org/resource/Norman_Bates"
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "relevance": 0.621571,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alfred_Hitchcock"
+    },
+    {
+      "text": "Robert Bloch",
+      "relevance": 0.539577,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Bloch"
+    },
+    {
+      "text": "Joseph Stefano",
+      "relevance": 0.498893,
+      "dbpedia_resource": "http://dbpedia.org/resource/Joseph_Stefano"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.71334,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

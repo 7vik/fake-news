@@ -1,0 +1,247 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 376,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.533894,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "first Amazon",
+      "sentiment": {
+        "score": -0.333817,
+        "label": "negative"
+      },
+      "relevance": 0.738736,
+      "emotion": {
+        "sadness": 0.124184,
+        "joy": 0.528408,
+        "fear": 0.067123,
+        "disgust": 0.034216,
+        "anger": 0.008798
+      },
+      "count": 1
+    },
+    {
+      "text": "Amazon CEO",
+      "sentiment": {
+        "score": -0.333817,
+        "label": "negative"
+      },
+      "relevance": 0.731004,
+      "emotion": {
+        "sadness": 0.111426,
+        "joy": 0.279525,
+        "fear": 0.08598,
+        "disgust": 0.097273,
+        "anger": 0.028308
+      },
+      "count": 1
+    },
+    {
+      "text": "Amazon Prime",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.653235,
+      "emotion": {
+        "sadness": 0.31795,
+        "joy": 0.156572,
+        "fear": 0.346047,
+        "disgust": 0.067268,
+        "anger": 0.049219
+      },
+      "count": 1
+    },
+    {
+      "text": "first man",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.650328,
+      "emotion": {
+        "sadness": 0.31795,
+        "joy": 0.156572,
+        "fear": 0.346047,
+        "disgust": 0.067268,
+        "anger": 0.049219
+      },
+      "count": 1
+    },
+    {
+      "text": "children",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.579371,
+      "emotion": {
+        "sadness": 0.31795,
+        "joy": 0.156572,
+        "fear": 0.346047,
+        "disgust": 0.067268,
+        "anger": 0.049219
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.822366,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            100,
+            106
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            344,
+            350
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144213,
+        "joy": 0.519027,
+        "fear": 0.029577,
+        "disgust": 0.037169,
+        "anger": 0.013396
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jeff Bezos",
+      "sentiment": {
+        "score": -0.329657,
+        "label": "negative"
+      },
+      "relevance": 0.676514,
+      "mentions": [
+        {
+          "text": "Jeff Bezos",
+          "location": [
+            33,
+            43
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            69,
+            71
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            160,
+            162
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.207024,
+        "joy": 0.426533,
+        "fear": 0.19691,
+        "disgust": 0.043512,
+        "anger": 0.016911
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "CompanyFounder",
+          "CompanyShareholder",
+          "TVActor"
+        ],
+        "name": "Jeff Bezos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jeff_Bezos"
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.296588,
+      "mentions": [
+        {
+          "text": "CEO",
+          "location": [
+            7,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.111426,
+        "joy": 0.279525,
+        "fear": 0.08598,
+        "disgust": 0.097273,
+        "anger": 0.028308
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jeff Bezos",
+      "relevance": 0.98451,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jeff_Bezos"
+    },
+    {
+      "text": "Apollo 11",
+      "relevance": 0.602208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apollo_11"
+    },
+    {
+      "text": "NASA",
+      "relevance": 0.592608,
+      "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+    },
+    {
+      "text": "Mars",
+      "relevance": 0.577877,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mars"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.635882,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

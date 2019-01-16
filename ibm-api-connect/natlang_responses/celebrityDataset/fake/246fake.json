@@ -1,0 +1,415 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1267,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.442016,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Johnny Depp",
+      "sentiment": {
+        "score": -0.750757,
+        "label": "negative"
+      },
+      "relevance": 0.883793,
+      "emotion": {
+        "sadness": 0.397631,
+        "joy": 0.245913,
+        "fear": 0.04678,
+        "disgust": 0.179434,
+        "anger": 0.199094
+      },
+      "count": 2
+    },
+    {
+      "text": "only person",
+      "sentiment": {
+        "score": -0.491253,
+        "label": "negative"
+      },
+      "relevance": 0.734484,
+      "emotion": {
+        "sadness": 0.179674,
+        "joy": 0.471781,
+        "fear": 0.065619,
+        "disgust": 0.114239,
+        "anger": 0.117078
+      },
+      "count": 2
+    },
+    {
+      "text": "Ex-Wife Vanessa Paradis",
+      "sentiment": {
+        "score": -0.841394,
+        "label": "negative"
+      },
+      "relevance": 0.688036,
+      "emotion": {
+        "sadness": 0.559905,
+        "joy": 0.105217,
+        "fear": 0.065622,
+        "disgust": 0.195517,
+        "anger": 0.186806
+      },
+      "count": 2
+    },
+    {
+      "text": "Domestic Abuse Claims",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.627313,
+      "emotion": {
+        "sadness": 0.181499,
+        "joy": 0.403844,
+        "fear": 0.030114,
+        "disgust": 0.327771,
+        "anger": 0.211648
+      },
+      "count": 1
+    },
+    {
+      "text": "Heather Rassel",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.62132,
+      "emotion": {
+        "sadness": 0.181499,
+        "joy": 0.403844,
+        "fear": 0.030114,
+        "disgust": 0.327771,
+        "anger": 0.211648
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Johnny Depp",
+      "sentiment": {
+        "score": -0.364922,
+        "label": "negative"
+      },
+      "relevance": 0.899923,
+      "mentions": [
+        {
+          "text": "Johnny Depp",
+          "location": [
+            11,
+            22
+          ]
+        },
+        {
+          "text": "Johnny Depp",
+          "location": [
+            75,
+            86
+          ]
+        },
+        {
+          "text": "Johnny",
+          "location": [
+            184,
+            190
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            214,
+            216
+          ]
+        },
+        {
+          "text": "Johnny",
+          "location": [
+            491,
+            497
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            551,
+            554
+          ]
+        },
+        {
+          "text": "Depp",
+          "location": [
+            599,
+            603
+          ]
+        },
+        {
+          "text": "Depp",
+          "location": [
+            767,
+            771
+          ]
+        },
+        {
+          "text": "Depp",
+          "location": [
+            1146,
+            1150
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.581243,
+        "joy": 0.234786,
+        "fear": 0.06679,
+        "disgust": 0.140652,
+        "anger": 0.139838
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "Guitarist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVActor"
+        ],
+        "name": "Johnny Depp",
+        "dbpedia_resource": "http://dbpedia.org/resource/Johnny_Depp"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Vanessa Paradis",
+      "sentiment": {
+        "score": -0.410179,
+        "label": "negative"
+      },
+      "relevance": 0.553507,
+      "mentions": [
+        {
+          "text": "Vanessa Paradis",
+          "location": [
+            43,
+            58
+          ]
+        },
+        {
+          "text": "Vanessa Paradis",
+          "location": [
+            106,
+            121
+          ]
+        },
+        {
+          "text": "Vanessa",
+          "location": [
+            226,
+            233
+          ]
+        },
+        {
+          "text": "Vanessa",
+          "location": [
+            464,
+            471
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            528,
+            531
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.451317,
+        "joy": 0.249875,
+        "fear": 0.034703,
+        "disgust": 0.14282,
+        "anger": 0.234878
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "MusicalGroupMember",
+          "FilmActor"
+        ],
+        "name": "Vanessa Paradis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vanessa_Paradis"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Amber Heard",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.416633,
+      "mentions": [
+        {
+          "text": "Amber Heard",
+          "location": [
+            336,
+            347
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            366,
+            369
+          ]
+        },
+        {
+          "text": "Heard",
+          "location": [
+            867,
+            872
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Amber Heard",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amber_Heard"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Heather Rassel",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.201167,
+      "mentions": [
+        {
+          "text": "Heather Rassel",
+          "location": [
+            564,
+            578
+          ]
+        },
+        {
+          "text": "Rassel",
+          "location": [
+            1055,
+            1061
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Samuel Benchetrit",
+      "sentiment": {
+        "score": 0.282618,
+        "label": "positive"
+      },
+      "relevance": 0.143119,
+      "mentions": [
+        {
+          "text": "Samuel Benchetrit",
+          "location": [
+            1248,
+            1265
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.087569,
+        "joy": 0.204993,
+        "fear": 0.074643,
+        "disgust": 0.044016,
+        "anger": 0.085461
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmDirector"
+        ],
+        "name": "Samuel Benchetrit",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samuel_Benchetrit"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Johnny Depp",
+      "relevance": 0.954203,
+      "dbpedia_resource": "http://dbpedia.org/resource/Johnny_Depp"
+    },
+    {
+      "text": "Vanessa Paradis",
+      "relevance": 0.92092,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vanessa_Paradis"
+    },
+    {
+      "text": "The Rum Diary",
+      "relevance": 0.885281,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Rum_Diary_(film)"
+    },
+    {
+      "text": "Lost in La Mancha",
+      "relevance": 0.705171,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lost_in_La_Mancha"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.662135,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.967252,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

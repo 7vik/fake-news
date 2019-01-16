@@ -1,0 +1,338 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 913,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.400501,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Best Shows",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.731344,
+      "emotion": {
+        "sadness": 0.017982,
+        "joy": 0.72282,
+        "fear": 0.009811,
+        "disgust": 0.079197,
+        "anger": 0.015298
+      },
+      "count": 2
+    },
+    {
+      "text": "Subway Performances",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.673795,
+      "emotion": {
+        "sadness": 0.017982,
+        "joy": 0.72282,
+        "fear": 0.009811,
+        "disgust": 0.079197,
+        "anger": 0.015298
+      },
+      "count": 1
+    },
+    {
+      "text": "American Idol",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.671908,
+      "emotion": {
+        "sadness": 0.398769,
+        "joy": 0.171981,
+        "fear": 0.039688,
+        "disgust": 0.453579,
+        "anger": 0.11369
+      },
+      "count": 1
+    },
+    {
+      "text": "New York",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.634969,
+      "emotion": {
+        "sadness": 0.011579,
+        "joy": 0.881569,
+        "fear": 0.004254,
+        "disgust": 0.073678,
+        "anger": 0.043837
+      },
+      "count": 1
+    },
+    {
+      "text": "subway singer",
+      "sentiment": {
+        "score": 0.701955,
+        "label": "positive"
+      },
+      "relevance": 0.627945,
+      "emotion": {
+        "sadness": 0.02685,
+        "joy": 0.876837,
+        "fear": 0.010642,
+        "disgust": 0.069102,
+        "anger": 0.035926
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ryan Seacrest",
+      "sentiment": {
+        "score": 0.482818,
+        "label": "positive"
+      },
+      "relevance": 0.895792,
+      "mentions": [
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Ryan Seacrest",
+          "location": [
+            72,
+            85
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            127,
+            129
+          ]
+        },
+        {
+          "text": "Seacrest",
+          "location": [
+            472,
+            480
+          ]
+        },
+        {
+          "text": "Me",
+          "location": [
+            522,
+            524
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            548,
+            550
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.083101,
+        "joy": 0.823888,
+        "fear": 0.006445,
+        "disgust": 0.058867,
+        "anger": 0.016332
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ryan Seacrest",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+      },
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.641237,
+        "label": "positive"
+      },
+      "relevance": 0.459668,
+      "mentions": [
+        {
+          "text": "New York",
+          "location": [
+            54,
+            62
+          ]
+        },
+        {
+          "text": "New York",
+          "location": [
+            105,
+            113
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.039446,
+        "joy": 0.634515,
+        "fear": 0.020034,
+        "disgust": 0.086992,
+        "anger": 0.050553
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Ben E. King",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.39764,
+      "mentions": [
+        {
+          "text": "Ben E. King",
+          "location": [
+            329,
+            340
+          ]
+        },
+        {
+          "text": "Me",
+          "location": [
+            353,
+            355
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            450,
+            452
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12964,
+        "joy": 0.74421,
+        "fear": 0.010028,
+        "disgust": 0.089684,
+        "anger": 0.034824
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardWinner",
+          "BroadcastArtist",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Ben E. King",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ben_E._King"
+      },
+      "count": 3
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "American Idol",
+      "sentiment": {
+        "score": 0.437724,
+        "label": "positive"
+      },
+      "relevance": 0.294398,
+      "mentions": [
+        {
+          "text": "American Idol",
+          "location": [
+            771,
+            784
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296012,
+        "joy": 0.079295,
+        "fear": 0.072309,
+        "disgust": 0.420384,
+        "anger": 0.073443
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "TVSeason"
+        ],
+        "name": "American Idol",
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.946493,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "American Idol",
+      "relevance": 0.781485,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+    },
+    {
+      "text": "Ryan Seacrest",
+      "relevance": 0.626619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Seacrest"
+    },
+    {
+      "text": "Manhattan",
+      "relevance": 0.601828,
+      "dbpedia_resource": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+      "text": "New York City Subway",
+      "relevance": 0.591367,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City_Subway"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.755489,
+      "label": "/art and entertainment/music/singing"
+    }
+  ]
+}

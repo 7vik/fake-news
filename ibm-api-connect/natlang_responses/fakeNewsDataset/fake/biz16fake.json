@@ -1,0 +1,303 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 654,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.375155,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Elon Musk",
+      "sentiment": {
+        "score": -0.589345,
+        "label": "negative"
+      },
+      "relevance": 0.873297,
+      "emotion": {
+        "sadness": 0.157938,
+        "joy": 0.086294,
+        "fear": 0.476022,
+        "disgust": 0.24294,
+        "anger": 0.31045
+      },
+      "count": 1
+    },
+    {
+      "text": "medical community",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.789825,
+      "emotion": {
+        "sadness": 0.248595,
+        "joy": 0.598908,
+        "fear": 0.030493,
+        "disgust": 0.012418,
+        "anger": 0.022147
+      },
+      "count": 1
+    },
+    {
+      "text": "current projects",
+      "sentiment": {
+        "score": -0.589345,
+        "label": "negative"
+      },
+      "relevance": 0.767352,
+      "emotion": {
+        "sadness": 0.157938,
+        "joy": 0.086294,
+        "fear": 0.476022,
+        "disgust": 0.24294,
+        "anger": 0.31045
+      },
+      "count": 1
+    },
+    {
+      "text": "recent project",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.749736,
+      "emotion": {
+        "sadness": 0.248595,
+        "joy": 0.598908,
+        "fear": 0.030493,
+        "disgust": 0.012418,
+        "anger": 0.022147
+      },
+      "count": 1
+    },
+    {
+      "text": "early retirement",
+      "sentiment": {
+        "score": -0.589345,
+        "label": "negative"
+      },
+      "relevance": 0.736718,
+      "emotion": {
+        "sadness": 0.157938,
+        "joy": 0.086294,
+        "fear": 0.476022,
+        "disgust": 0.24294,
+        "anger": 0.31045
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Elon Musk",
+      "sentiment": {
+        "score": 0.573494,
+        "label": "positive"
+      },
+      "relevance": 0.882359,
+      "mentions": [
+        {
+          "text": "Elon Musk",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Musk",
+          "location": [
+            234,
+            238
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            390,
+            392
+          ]
+        },
+        {
+          "text": "Musk",
+          "location": [
+            474,
+            478
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251854,
+        "joy": 0.683127,
+        "fear": 0.034652,
+        "disgust": 0.008004,
+        "anger": 0.023501
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer"
+        ],
+        "name": "Elon Musk",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elon_Musk"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "SpaceX",
+      "sentiment": {
+        "score": 0.371721,
+        "label": "positive"
+      },
+      "relevance": 0.431193,
+      "mentions": [
+        {
+          "text": "SpaceX",
+          "location": [
+            36,
+            42
+          ]
+        },
+        {
+          "text": "SpaceX",
+          "location": [
+            639,
+            645
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.252348,
+        "joy": 0.658909,
+        "fear": 0.097884,
+        "disgust": 0.00417,
+        "anger": 0.012
+      },
+      "disambiguation": {
+        "subtype": [
+          "RocketEngineDesigner",
+          "RocketManufacturer"
+        ],
+        "name": "SpaceX",
+        "dbpedia_resource": "http://dbpedia.org/resource/SpaceX"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Tesla",
+      "sentiment": {
+        "score": 0.521993,
+        "label": "positive"
+      },
+      "relevance": 0.370349,
+      "mentions": [
+        {
+          "text": "Tesla",
+          "location": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "Tesla",
+          "location": [
+            629,
+            634
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.222392,
+        "joy": 0.611741,
+        "fear": 0.181204,
+        "disgust": 0.011041,
+        "anger": 0.034579
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "VentureFundedCompany"
+        ],
+        "name": "Tesla Motors",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Motors"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Neuralink",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.24235,
+      "mentions": [
+        {
+          "text": "Neuralink",
+          "location": [
+            159,
+            168
+          ]
+        },
+        {
+          "text": "Neuralink",
+          "location": [
+            575,
+            584
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.257949,
+        "joy": 0.68552,
+        "fear": 0.041127,
+        "disgust": 0.004639,
+        "anger": 0.010049
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Elon Musk",
+      "relevance": 0.94424,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elon_Musk"
+    },
+    {
+      "text": "Project",
+      "relevance": 0.504559,
+      "dbpedia_resource": "http://dbpedia.org/resource/Project"
+    },
+    {
+      "text": "Kimbal Musk",
+      "relevance": 0.500867,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kimbal_Musk"
+    },
+    {
+      "text": "Physician",
+      "relevance": 0.47371,
+      "dbpedia_resource": "http://dbpedia.org/resource/Physician"
+    },
+    {
+      "text": "Project management",
+      "relevance": 0.471851,
+      "dbpedia_resource": "http://dbpedia.org/resource/Project_management"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.853395,
+      "label": "/automotive and vehicles/electric vehicles"
+    }
+  ]
+}

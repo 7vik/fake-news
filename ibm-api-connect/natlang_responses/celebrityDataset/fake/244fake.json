@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rob Lowe",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.570092,
+      "emotion": {
+        "sadness": 0.159651,
+        "joy": 0.453489,
+        "fear": 0.105005,
+        "disgust": 0.109851,
+        "anger": 0.104444
+      },
+      "count": 1
+    },
+    {
+      "text": "Caitlyn Jenner's Memoir Reportedly Lands Movie Adaptation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.429908,
+      "emotion": {
+        "sadness": 0.159651,
+        "joy": 0.453489,
+        "fear": 0.105005,
+        "disgust": 0.109851,
+        "anger": 0.104444
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": -0.413915,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Her",
+          "location": [
+            77,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.115221,
+        "joy": 0.344699,
+        "fear": 0.166791,
+        "disgust": 0.170072,
+        "anger": 0.13446
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Rob Lowe",
+      "sentiment": {
+        "score": -0.413915,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rob Lowe",
+          "location": [
+            59,
+            67
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.115221,
+        "joy": 0.344699,
+        "fear": 0.166791,
+        "disgust": 0.170072,
+        "anger": 0.13446
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Rob Lowe",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rob_Lowe"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Literature",
+      "relevance": 0.888858,
+      "dbpedia_resource": "http://dbpedia.org/resource/Literature"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.615211,
+      "label": "/society/gay life"
+    }
+  ]
+}

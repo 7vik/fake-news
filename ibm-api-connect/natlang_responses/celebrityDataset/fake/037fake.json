@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 933,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.610357,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Drake Reportedly",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.897117,
+      "emotion": {
+        "sadness": 0.429905,
+        "joy": 0.077283,
+        "fear": 0.098129,
+        "disgust": 0.070913,
+        "anger": 0.120005
+      },
+      "count": 2
+    },
+    {
+      "text": "Latest Concert Performance",
+      "sentiment": {
+        "score": -0.755174,
+        "label": "negative"
+      },
+      "relevance": 0.814393,
+      "emotion": {
+        "sadness": 0.049907,
+        "joy": 0.856875,
+        "fear": 0.022939,
+        "disgust": 0.023891,
+        "anger": 0.026848
+      },
+      "count": 1
+    },
+    {
+      "text": "hip hop",
+      "sentiment": {
+        "score": 0.716565,
+        "label": "positive"
+      },
+      "relevance": 0.664168,
+      "emotion": {
+        "sadness": 0.049907,
+        "joy": 0.856875,
+        "fear": 0.022939,
+        "disgust": 0.023891,
+        "anger": 0.026848
+      },
+      "count": 1
+    },
+    {
+      "text": "com's TOP SNITCHES",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.628882,
+      "emotion": {
+        "sadness": 0.496668,
+        "joy": 0.149272,
+        "fear": 0.126314,
+        "disgust": 0.072415,
+        "anger": 0.175142
+      },
+      "count": 1
+    },
+    {
+      "text": "fact Drake's official spokesperson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.615837,
+      "emotion": {
+        "sadness": 0.391489,
+        "joy": 0.112932,
+        "fear": 0.370136,
+        "disgust": 0.093701,
+        "anger": 0.277917
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Drake",
+      "sentiment": {
+        "score": -0.358757,
+        "label": "negative"
+      },
+      "relevance": 0.886188,
+      "mentions": [
+        {
+          "text": "Drake",
+          "location": [
+            10,
+            15
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            70,
+            75
+          ]
+        },
+        {
+          "text": "hip hop SUPER-DUPER STAR Drake",
+          "location": [
+            256,
+            286
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            334,
+            339
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            396,
+            401
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            521,
+            526
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            558,
+            563
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            731,
+            736
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            808,
+            811
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.604797,
+        "joy": 0.602242,
+        "fear": 0.115945,
+        "disgust": 0.085867,
+        "anger": 0.09128
+      },
+      "count": 9
+    },
+    {
+      "type": "Location",
+      "text": "Amsterdam",
+      "sentiment": {
+        "score": -0.031513,
+        "label": "negative"
+      },
+      "relevance": 0.228923,
+      "mentions": [
+        {
+          "text": "Amsterdam",
+          "location": [
+            234,
+            243
+          ]
+        },
+        {
+          "text": "Amsterdam",
+          "location": [
+            425,
+            434
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141518,
+        "joy": 0.749013,
+        "fear": 0.032414,
+        "disgust": 0.03512,
+        "anger": 0.023493
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": -0.504446,
+        "label": "negative"
+      },
+      "relevance": 0.134733,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            463,
+            471
+          ]
+        },
+        {
+          "text": "official",
+          "location": [
+            529,
+            537
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.506242,
+        "joy": 0.104284,
+        "fear": 0.131929,
+        "disgust": 0.24725,
+        "anger": 0.216644
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2005 albums",
+      "relevance": 0.898716,
+      "dbpedia_resource": "http://dbpedia.org/resource/2005_albums"
+    },
+    {
+      "text": "2000s American television series",
+      "relevance": 0.763725,
+      "dbpedia_resource": "http://dbpedia.org/resource/2000s_American_television_series"
+    },
+    {
+      "text": "Drug overdose",
+      "relevance": 0.7476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drug_overdose"
+    },
+    {
+      "text": "Illness",
+      "relevance": 0.745072,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illness"
+    },
+    {
+      "text": "Hip hop",
+      "relevance": 0.726017,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hip_hop"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.723271,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

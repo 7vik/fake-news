@@ -1,0 +1,72 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.827071,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Drake Wants",
+      "sentiment": {
+        "score": 0.827071,
+        "label": "positive"
+      },
+      "relevance": 0.99985,
+      "emotion": {
+        "sadness": 0.244816,
+        "joy": 0.283167,
+        "fear": 0.105827,
+        "disgust": 0.369866,
+        "anger": 0.097874
+      },
+      "count": 1
+    },
+    {
+      "text": "Wife",
+      "sentiment": {
+        "score": 0.827071,
+        "label": "positive"
+      },
+      "relevance": 0.672861,
+      "emotion": {
+        "sadness": 0.244816,
+        "joy": 0.283167,
+        "fear": 0.105827,
+        "disgust": 0.369866,
+        "anger": 0.097874
+      },
+      "count": 1
+    },
+    {
+      "text": "Volunteer",
+      "sentiment": {
+        "score": 0.827071,
+        "label": "positive"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.244816,
+        "joy": 0.283167,
+        "fear": 0.105827,
+        "disgust": 0.369866,
+        "anger": 0.097874
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.80376,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

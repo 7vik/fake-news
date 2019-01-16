@@ -1,0 +1,245 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 706,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.348626,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Janet Jackson",
+      "sentiment": {
+        "score": -0.697049,
+        "label": "negative"
+      },
+      "relevance": 0.954702,
+      "emotion": {
+        "sadness": 0.296483,
+        "joy": 0.514717,
+        "fear": 0.149375,
+        "disgust": 0.077502,
+        "anger": 0.04449
+      },
+      "count": 1
+    },
+    {
+      "text": "long sleeves",
+      "sentiment": {
+        "score": -0.697049,
+        "label": "negative"
+      },
+      "relevance": 0.860642,
+      "emotion": {
+        "sadness": 0.490975,
+        "joy": 0.122959,
+        "fear": 0.17134,
+        "disgust": 0.374828,
+        "anger": 0.086471
+      },
+      "count": 2
+    },
+    {
+      "text": "old lady hands",
+      "sentiment": {
+        "score": -0.697049,
+        "label": "negative"
+      },
+      "relevance": 0.848171,
+      "emotion": {
+        "sadness": 0.43642,
+        "joy": 0.302965,
+        "fear": 0.204574,
+        "disgust": 0.151476,
+        "anger": 0.050577
+      },
+      "count": 1
+    },
+    {
+      "text": "hand rejuvenation surgery",
+      "sentiment": {
+        "score": 0.593813,
+        "label": "positive"
+      },
+      "relevance": 0.659663,
+      "emotion": {
+        "sadness": 0.43642,
+        "joy": 0.302965,
+        "fear": 0.204574,
+        "disgust": 0.151476,
+        "anger": 0.050577
+      },
+      "count": 1
+    },
+    {
+      "text": "expensive hand creams",
+      "sentiment": {
+        "score": 0.6085,
+        "label": "positive"
+      },
+      "relevance": 0.609528,
+      "emotion": {
+        "sadness": 0.292407,
+        "joy": 0.308948,
+        "fear": 0.147546,
+        "disgust": 0.291559,
+        "anger": 0.160607
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Janet Jackson",
+      "sentiment": {
+        "score": -0.131749,
+        "label": "negative"
+      },
+      "relevance": 0.789488,
+      "mentions": [
+        {
+          "text": "Janet Jackson",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Janet Jackson",
+          "location": [
+            39,
+            52
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            139,
+            142
+          ]
+        },
+        {
+          "text": "Janet",
+          "location": [
+            168,
+            173
+          ]
+        },
+        {
+          "text": "Janet",
+          "location": [
+            535,
+            540
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.449907,
+        "joy": 0.096266,
+        "fear": 0.178325,
+        "disgust": 0.306755,
+        "anger": 0.264014
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "DietFollower",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Janet Jackson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Janet_Jackson"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Eissa Al Mana",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.336866,
+      "mentions": [
+        {
+          "text": "Eissa Al Mana",
+          "location": [
+            576,
+            589
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Wissam",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.230641,
+      "emotion": {
+        "sadness": 0.290538,
+        "joy": 0.064922,
+        "fear": 0.123515,
+        "disgust": 0.296681,
+        "anger": 0.258938
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Verbal abuse",
+      "relevance": 0.920534,
+      "dbpedia_resource": "http://dbpedia.org/resource/Verbal_abuse"
+    },
+    {
+      "text": "Kumi Koda",
+      "relevance": 0.890622,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kumi_Koda"
+    },
+    {
+      "text": "Control",
+      "relevance": 0.778233,
+      "dbpedia_resource": "http://dbpedia.org/resource/Control_(Janet_Jackson_album)"
+    },
+    {
+      "text": "Janet Jackson",
+      "relevance": 0.751993,
+      "dbpedia_resource": "http://dbpedia.org/resource/Janet_Jackson"
+    },
+    {
+      "text": "Control",
+      "relevance": 0.735351,
+      "dbpedia_resource": "http://dbpedia.org/resource/Control_(Janet_Jackson_song)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.701463,
+      "label": "/style and fashion"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 59,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.088302,
+        "joy": 0.420393,
+        "fear": 0.043736,
+        "disgust": 0.051043,
+        "anger": 0.066638
+      },
+      "count": 1
+    },
+    {
+      "text": "Training",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.672861,
+      "emotion": {
+        "sadness": 0.088302,
+        "joy": 0.420393,
+        "fear": 0.043736,
+        "disgust": 0.051043,
+        "anger": 0.066638
+      },
+      "count": 1
+    },
+    {
+      "text": "Batman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.088302,
+        "joy": 0.420393,
+        "fear": 0.043736,
+        "disgust": 0.051043,
+        "anger": 0.066638
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ben Affleck",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.088302,
+        "joy": 0.420393,
+        "fear": 0.043736,
+        "disgust": 0.051043,
+        "anger": 0.066638
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Ben Affleck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Batman",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Batman"
+    },
+    {
+      "text": "Ben Affleck",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.953884,
+      "label": "/art and entertainment/comics and animation/comics"
+    }
+  ]
+}

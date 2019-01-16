@@ -1,0 +1,115 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Vanessa Lachey",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997745,
+      "emotion": {
+        "sadness": 0.434727,
+        "joy": 0.020499,
+        "fear": 0.483616,
+        "disgust": 0.274718,
+        "anger": 0.115587
+      },
+      "count": 1
+    },
+    {
+      "text": "silence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659489,
+      "emotion": {
+        "sadness": 0.434727,
+        "joy": 0.020499,
+        "fear": 0.483616,
+        "disgust": 0.274718,
+        "anger": 0.115587
+      },
+      "count": 1
+    },
+    {
+      "text": "DWTS\u2019 feud rumors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.200759,
+      "emotion": {
+        "sadness": 0.434727,
+        "joy": 0.020499,
+        "fear": 0.483616,
+        "disgust": 0.274718,
+        "anger": 0.115587
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Vanessa Lachey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Vanessa Lachey",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.562132,
+        "joy": 0.025781,
+        "fear": 0.370124,
+        "disgust": 0.183666,
+        "anger": 0.150962
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Vanessa Minnillo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vanessa_Minnillo"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nick Lachey",
+      "relevance": 0.862309,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nick_Lachey"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.711261,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

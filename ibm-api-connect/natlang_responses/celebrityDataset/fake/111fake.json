@@ -1,0 +1,196 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 83,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.601945,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Awkward\u2019 Run",
+      "sentiment": {
+        "score": -0.601945,
+        "label": "negative"
+      },
+      "relevance": 0.67836,
+      "emotion": {
+        "sadness": 0.601985,
+        "joy": 0.132261,
+        "fear": 0.088649,
+        "disgust": 0.121964,
+        "anger": 0.186383
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West Skipped Serena Williams\u2019 Wedding",
+      "sentiment": {
+        "score": -0.601945,
+        "label": "negative"
+      },
+      "relevance": 0.601549,
+      "emotion": {
+        "sadness": 0.601985,
+        "joy": 0.132261,
+        "fear": 0.088649,
+        "disgust": 0.121964,
+        "anger": 0.186383
+      },
+      "count": 1
+    },
+    {
+      "text": "Beyonce",
+      "sentiment": {
+        "score": -0.601945,
+        "label": "negative"
+      },
+      "relevance": 0.555596,
+      "emotion": {
+        "sadness": 0.601985,
+        "joy": 0.132261,
+        "fear": 0.088649,
+        "disgust": 0.121964,
+        "anger": 0.186383
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.27831,
+        "joy": 0.200618,
+        "fear": 0.038351,
+        "disgust": 0.049651,
+        "anger": 0.07294
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Serena Williams",
+          "location": [
+            19,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.27831,
+        "joy": 0.200618,
+        "fear": 0.038351,
+        "disgust": 0.049651,
+        "anger": 0.07294
+      },
+      "disambiguation": {
+        "subtype": [
+          "TennisPlayer",
+          "AwardWinner",
+          "Celebrity",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Serena Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": 0.319125,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            75,
+            82
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.221396,
+        "joy": 0.196633,
+        "fear": 0.105687,
+        "disgust": 0.109762,
+        "anger": 0.098673
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jay-Z",
+      "relevance": 0.928968,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.899242,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.869209,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "50th Grammy Awards",
+      "relevance": 0.813814,
+      "dbpedia_resource": "http://dbpedia.org/resource/50th_Grammy_Awards"
+    },
+    {
+      "text": "Rihanna",
+      "relevance": 0.793584,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rihanna"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.938192,
+      "label": "/sports/tennis"
+    }
+  ]
+}

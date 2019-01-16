@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 732,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.414125,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Dan Moss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.85278,
+      "emotion": {
+        "sadness": 0.237062,
+        "joy": 0.334457,
+        "fear": 0.076349,
+        "disgust": 0.310746,
+        "anger": 0.094055
+      },
+      "count": 1
+    },
+    {
+      "text": "St. Louis' premiere Extremist course",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.759686,
+      "emotion": {
+        "sadness": 0.237062,
+        "joy": 0.334457,
+        "fear": 0.076349,
+        "disgust": 0.310746,
+        "anger": 0.094055
+      },
+      "count": 1
+    },
+    {
+      "text": "real challenge",
+      "sentiment": {
+        "score": -0.598009,
+        "label": "negative"
+      },
+      "relevance": 0.686053,
+      "emotion": {
+        "sadness": 0.041576,
+        "joy": 0.897011,
+        "fear": 0.041338,
+        "disgust": 0.014449,
+        "anger": 0.014437
+      },
+      "count": 1
+    },
+    {
+      "text": "good news",
+      "sentiment": {
+        "score": 0.416145,
+        "label": "positive"
+      },
+      "relevance": 0.679887,
+      "emotion": {
+        "sadness": 0.382643,
+        "joy": 0.267837,
+        "fear": 0.176758,
+        "disgust": 0.27263,
+        "anger": 0.127657
+      },
+      "count": 1
+    },
+    {
+      "text": "Scott Lanman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.65643,
+      "emotion": {
+        "sadness": 0.237062,
+        "joy": 0.334457,
+        "fear": 0.076349,
+        "disgust": 0.310746,
+        "anger": 0.094055
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sadik Kukic",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.798929,
+      "mentions": [
+        {
+          "text": "Sadik Kukic",
+          "location": [
+            106,
+            117
+          ]
+        },
+        {
+          "text": "Kukic",
+          "location": [
+            138,
+            143
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            206,
+            208
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.021736,
+        "joy": 0.434107,
+        "fear": 0.082261,
+        "disgust": 0.020857,
+        "anger": 0.083824
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Scott Lanman",
+      "sentiment": {
+        "score": 0.5172,
+        "label": "positive"
+      },
+      "relevance": 0.604372,
+      "mentions": [
+        {
+          "text": "Scott Lanman",
+          "location": [
+            13,
+            25
+          ]
+        },
+        {
+          "text": "Lanman",
+          "location": [
+            339,
+            345
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112547,
+        "joy": 0.737735,
+        "fear": 0.046705,
+        "disgust": 0.094012,
+        "anger": 0.039216
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dan Moss",
+      "sentiment": {
+        "score": 0.5172,
+        "label": "positive"
+      },
+      "relevance": 0.545018,
+      "mentions": [
+        {
+          "text": "Dan Moss",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Moss",
+          "location": [
+            330,
+            334
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112547,
+        "joy": 0.737735,
+        "fear": 0.046705,
+        "disgust": 0.094012,
+        "anger": 0.039216
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Ottoman Empire",
+      "sentiment": {
+        "score": 0.372513,
+        "label": "positive"
+      },
+      "relevance": 0.35169,
+      "mentions": [
+        {
+          "text": "Ottoman Empire",
+          "location": [
+            314,
+            328
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ottoman Empire",
+      "relevance": 0.949054,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ottoman_Empire"
+    },
+    {
+      "text": "Real estate",
+      "relevance": 0.931632,
+      "dbpedia_resource": "http://dbpedia.org/resource/Real_estate"
+    },
+    {
+      "text": "Iran",
+      "relevance": 0.877424,
+      "dbpedia_resource": "http://dbpedia.org/resource/Iran"
+    },
+    {
+      "text": "Furniture",
+      "relevance": 0.796142,
+      "dbpedia_resource": "http://dbpedia.org/resource/Furniture"
+    },
+    {
+      "text": "Business",
+      "relevance": 0.777937,
+      "dbpedia_resource": "http://dbpedia.org/resource/Business"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.822786,
+      "label": "/sports/golf"
+    }
+  ]
+}

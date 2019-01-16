@@ -1,0 +1,138 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.614397,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0.614397,
+        "label": "positive"
+      },
+      "relevance": 0.985214,
+      "emotion": {
+        "sadness": 0.090085,
+        "joy": 0.716625,
+        "fear": 0.099932,
+        "disgust": 0.044599,
+        "anger": 0.043967
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillsong Church",
+      "sentiment": {
+        "score": 0.614397,
+        "label": "positive"
+      },
+      "relevance": 0.907087,
+      "emotion": {
+        "sadness": 0.090085,
+        "joy": 0.716625,
+        "fear": 0.099932,
+        "disgust": 0.044599,
+        "anger": 0.043967
+      },
+      "count": 1
+    },
+    {
+      "text": "Latest Star",
+      "sentiment": {
+        "score": 0.614397,
+        "label": "positive"
+      },
+      "relevance": 0.621265,
+      "emotion": {
+        "sadness": 0.090085,
+        "joy": 0.716625,
+        "fear": 0.099932,
+        "disgust": 0.044599,
+        "anger": 0.043967
+      },
+      "count": 1
+    },
+    {
+      "text": "Join Star",
+      "sentiment": {
+        "score": 0.614397,
+        "label": "positive"
+      },
+      "relevance": 0.177931,
+      "emotion": {
+        "sadness": 0.090085,
+        "joy": 0.716625,
+        "fear": 0.099932,
+        "disgust": 0.044599,
+        "anger": 0.043967
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0.695834,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chris Pratt",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "The Latest Star",
+          "location": [
+            15,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.067736,
+        "joy": 0.741297,
+        "fear": 0.081814,
+        "disgust": 0.050373,
+        "anger": 0.063275
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Pratt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillsong Church",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillsong_Church"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.62537,
+      "label": "/religion and spirituality/christianity"
+    }
+  ]
+}

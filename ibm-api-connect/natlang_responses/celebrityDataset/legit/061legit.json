@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 69,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Conspiracy Theories",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.971621,
+      "emotion": {
+        "sadness": 0.226076,
+        "joy": 0.318397,
+        "fear": 0.175275,
+        "disgust": 0.110981,
+        "anger": 0.051011
+      },
+      "count": 1
+    },
+    {
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.880273,
+      "emotion": {
+        "sadness": 0.226076,
+        "joy": 0.318397,
+        "fear": 0.175275,
+        "disgust": 0.110981,
+        "anger": 0.051011
+      },
+      "count": 1
+    },
+    {
+      "text": "Twins",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.700212,
+      "emotion": {
+        "sadness": 0.226076,
+        "joy": 0.318397,
+        "fear": 0.175275,
+        "disgust": 0.110981,
+        "anger": 0.051011
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.224288,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.129284,
+        "joy": 0.249493,
+        "fear": 0.299761,
+        "disgust": 0.113031,
+        "anger": 0.029011
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Conspiracy theory",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conspiracy_theory"
+    },
+    {
+      "text": "The Conspiracy",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Conspiracy"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.588763,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

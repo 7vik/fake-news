@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 607,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.389481,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Racial Bias Study Shows",
+      "sentiment": {
+        "score": -0.67697,
+        "label": "negative"
+      },
+      "relevance": 0.971359,
+      "emotion": {
+        "sadness": 0.329725,
+        "joy": 0.021343,
+        "fear": 0.233852,
+        "disgust": 0.447087,
+        "anger": 0.243864
+      },
+      "count": 1
+    },
+    {
+      "text": "Racial Lines",
+      "sentiment": {
+        "score": -0.67697,
+        "label": "negative"
+      },
+      "relevance": 0.887615,
+      "emotion": {
+        "sadness": 0.329725,
+        "joy": 0.021343,
+        "fear": 0.233852,
+        "disgust": 0.447087,
+        "anger": 0.243864
+      },
+      "count": 1
+    },
+    {
+      "text": "Bad Behavior",
+      "sentiment": {
+        "score": -0.67697,
+        "label": "negative"
+      },
+      "relevance": 0.839404,
+      "emotion": {
+        "sadness": 0.329725,
+        "joy": 0.021343,
+        "fear": 0.233852,
+        "disgust": 0.447087,
+        "anger": 0.243864
+      },
+      "count": 1
+    },
+    {
+      "text": "Racial bias",
+      "sentiment": {
+        "score": -0.67697,
+        "label": "negative"
+      },
+      "relevance": 0.83574,
+      "emotion": {
+        "sadness": 0.215511,
+        "joy": 0.079879,
+        "fear": 0.13597,
+        "disgust": 0.446594,
+        "anger": 0.159639
+      },
+      "count": 1
+    },
+    {
+      "text": "particular study",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711125,
+      "emotion": {
+        "sadness": 0.230035,
+        "joy": 0.331609,
+        "fear": 0.076069,
+        "disgust": 0.13978,
+        "anger": 0.264087
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Psychology",
+      "relevance": 0.951231,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+      "text": "Racism",
+      "relevance": 0.865574,
+      "dbpedia_resource": "http://dbpedia.org/resource/Racism"
+    },
+    {
+      "text": "Scientific method",
+      "relevance": 0.850054,
+      "dbpedia_resource": "http://dbpedia.org/resource/Scientific_method"
+    },
+    {
+      "text": "Black people",
+      "relevance": 0.833932,
+      "dbpedia_resource": "http://dbpedia.org/resource/Black_people"
+    },
+    {
+      "text": "Behavior",
+      "relevance": 0.7866,
+      "dbpedia_resource": "http://dbpedia.org/resource/Behavior"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.942712,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

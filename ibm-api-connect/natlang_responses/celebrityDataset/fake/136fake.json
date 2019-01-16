@@ -1,0 +1,527 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2627,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.646717,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.558549,
+        "label": "negative"
+      },
+      "relevance": 0.678036,
+      "emotion": {
+        "sadness": 0.042172,
+        "joy": 0.754943,
+        "fear": 0.006221,
+        "disgust": 0.117872,
+        "anger": 0.1047
+      },
+      "count": 2
+    },
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.558549,
+        "label": "negative"
+      },
+      "relevance": 0.638283,
+      "emotion": {
+        "sadness": 0.042172,
+        "joy": 0.754943,
+        "fear": 0.006221,
+        "disgust": 0.117872,
+        "anger": 0.1047
+      },
+      "count": 2
+    },
+    {
+      "text": "music video",
+      "sentiment": {
+        "score": -0.419137,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.608864,
+      "emotion": {
+        "sadness": 0.064141,
+        "joy": 0.809886,
+        "fear": 0.011173,
+        "disgust": 0.072678,
+        "anger": 0.055328
+      },
+      "count": 2
+    },
+    {
+      "text": "traumatic experience",
+      "sentiment": {
+        "score": -0.596069,
+        "label": "negative"
+      },
+      "relevance": 0.592475,
+      "emotion": {
+        "sadness": 0.361674,
+        "joy": 0.021425,
+        "fear": 0.091829,
+        "disgust": 0.415754,
+        "anger": 0.488186
+      },
+      "count": 1
+    },
+    {
+      "text": "different person",
+      "sentiment": {
+        "score": 0.375103,
+        "label": "positive"
+      },
+      "relevance": 0.589817,
+      "emotion": {
+        "sadness": 0.473506,
+        "joy": 0.367219,
+        "fear": 0.082327,
+        "disgust": 0.05828,
+        "anger": 0.09207
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.440858,
+        "label": "negative"
+      },
+      "relevance": 0.911916,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            43,
+            57
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            203,
+            217
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            365,
+            368
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            521,
+            524
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            834,
+            837
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1050,
+            1053
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1211,
+            1214
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1251,
+            1254
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1426,
+            1429
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1862,
+            1865
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1878,
+            1881
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1887,
+            1890
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1959,
+            1962
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            2285,
+            2288
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            2301,
+            2304
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            2487,
+            2490
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.625447,
+        "joy": 0.110258,
+        "fear": 0.124196,
+        "disgust": 0.601313,
+        "anger": 0.219839
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 16
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.41492,
+        "label": "negative"
+      },
+      "relevance": 0.817346,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            19,
+            31
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            123,
+            135
+          ]
+        },
+        {
+          "text": "Me",
+          "location": [
+            158,
+            160
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            288,
+            294
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            338,
+            350
+          ]
+        },
+        {
+          "text": "Me",
+          "location": [
+            449,
+            451
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            486,
+            488
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            504,
+            510
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            736,
+            742
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            1656,
+            1662
+          ]
+        },
+        {
+          "text": "Me",
+          "location": [
+            1685,
+            1687
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            1810,
+            1816
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            1992,
+            1998
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            2126,
+            2132
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            2440,
+            2446
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168375,
+        "joy": 0.592432,
+        "fear": 0.101889,
+        "disgust": 0.160104,
+        "anger": 0.539594
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 15
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.417804,
+      "mentions": [
+        {
+          "text": "million dollar",
+          "location": [
+            1078,
+            1092
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "Crime",
+      "text": "robbery",
+      "sentiment": {
+        "score": -0.326265,
+        "label": "negative"
+      },
+      "relevance": 0.400328,
+      "mentions": [
+        {
+          "text": "robbery",
+          "location": [
+            231,
+            238
+          ]
+        },
+        {
+          "text": "robbery",
+          "location": [
+            388,
+            395
+          ]
+        },
+        {
+          "text": "robbery",
+          "location": [
+            1746,
+            1753
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144922,
+        "joy": 0.448504,
+        "fear": 0.012312,
+        "disgust": 0.097742,
+        "anger": 0.130461
+      },
+      "count": 3
+    },
+    {
+      "type": "Crime",
+      "text": "Robbery",
+      "sentiment": {
+        "score": -0.526104,
+        "label": "negative"
+      },
+      "relevance": 0.39561,
+      "mentions": [
+        {
+          "text": "Robbery",
+          "location": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "robbery",
+          "location": [
+            527,
+            534
+          ]
+        },
+        {
+          "text": "robbery",
+          "location": [
+            1317,
+            1324
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.232918,
+        "joy": 0.277892,
+        "fear": 0.013807,
+        "disgust": 0.202478,
+        "anger": 0.391087
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.945216,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.93047,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.88041,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.84722,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Emotion",
+      "relevance": 0.732529,
+      "dbpedia_resource": "http://dbpedia.org/resource/Emotion"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.990768,
+      "label": "/style and fashion/clothing/hoodies"
+    }
+  ]
+}

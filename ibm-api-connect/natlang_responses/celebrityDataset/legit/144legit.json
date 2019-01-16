@@ -1,0 +1,1162 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 29511,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.319837,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.324089,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.760632,
+      "emotion": {
+        "sadness": 0.11574,
+        "joy": 0.701152,
+        "fear": 0.134262,
+        "disgust": 0.019501,
+        "anger": 0.087825
+      },
+      "count": 7
+    },
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.544768,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.580183,
+      "emotion": {
+        "sadness": 0.191942,
+        "joy": 0.679136,
+        "fear": 0.060642,
+        "disgust": 0.007328,
+        "anger": 0.10877
+      },
+      "count": 5
+    },
+    {
+      "text": "Jolie aren\u2019t",
+      "sentiment": {
+        "score": 0.367264,
+        "label": "positive"
+      },
+      "relevance": 0.574167,
+      "emotion": {
+        "sadness": 0.240877,
+        "joy": 0.453437,
+        "fear": 0.190252,
+        "disgust": 0.039149,
+        "anger": 0.080324
+      },
+      "count": 1
+    },
+    {
+      "text": "new L.A. mansion",
+      "sentiment": {
+        "score": 0.319315,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.555655,
+      "emotion": {
+        "sadness": 0.114341,
+        "joy": 0.618778,
+        "fear": 0.256063,
+        "disgust": 0.01047,
+        "anger": 0.092312
+      },
+      "count": 3
+    },
+    {
+      "text": "Cambodia\u2019s genocide",
+      "sentiment": {
+        "score": -0.420583,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.549415,
+      "emotion": {
+        "sadness": 0.096179,
+        "joy": 0.688759,
+        "fear": 0.186353,
+        "disgust": 0.009838,
+        "anger": 0.086411
+      },
+      "count": 3
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.191161,
+        "label": "negative"
+      },
+      "relevance": 0.876646,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            12,
+            26
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            155,
+            169
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            332,
+            337
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            441,
+            455
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            584,
+            598
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            761,
+            766
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            870,
+            884
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            1013,
+            1027
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            1190,
+            1195
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            1314,
+            1328
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            2365,
+            2370
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            3862,
+            3867
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            4263,
+            4268
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            4333,
+            4338
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            4431,
+            4436
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            4529,
+            4534
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            4682,
+            4687
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            4876,
+            4881
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            5537,
+            5542
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            6506,
+            6511
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            7053,
+            7058
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            7216,
+            7221
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            7918,
+            7923
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            8676,
+            8681
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            8994,
+            8999
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            9606,
+            9611
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            9838,
+            9843
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            10064,
+            10069
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            10471,
+            10476
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            10997,
+            11002
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            11531,
+            11545
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            11557,
+            11562
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            11858,
+            11863
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            12289,
+            12294
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            12593,
+            12598
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            12949,
+            12954
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            13074,
+            13079
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            13174,
+            13179
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            13239,
+            13244
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            13475,
+            13480
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            13966,
+            13971
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            14684,
+            14689
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            15086,
+            15091
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            15284,
+            15289
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            15674,
+            15679
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            16234,
+            16239
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            16494,
+            16499
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            16725,
+            16730
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            16974,
+            16979
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            17157,
+            17162
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            17281,
+            17286
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            17698,
+            17703
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            18510,
+            18515
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            18677,
+            18682
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            19211,
+            19216
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            19310,
+            19315
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            19896,
+            19901
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            20031,
+            20036
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            20266,
+            20271
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            20865,
+            20870
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            21238,
+            21243
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            21669,
+            21674
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            21768,
+            21773
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            21877,
+            21882
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            22997,
+            23002
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            23443,
+            23448
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            23733,
+            23738
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            24057,
+            24062
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            25627,
+            25632
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            26444,
+            26449
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            27275,
+            27280
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            27382,
+            27387
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            27767,
+            27772
+          ]
+        },
+        {
+          "text": "Jolie",
+          "location": [
+            28404,
+            28409
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            29373,
+            29387
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.572666,
+        "joy": 0.498092,
+        "fear": 0.466849,
+        "disgust": 0.093153,
+        "anger": 0.105486
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 75
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.54364,
+        "label": "negative"
+      },
+      "relevance": 0.371975,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            2996,
+            3005
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            5903,
+            5907
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            6465,
+            6469
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            6752,
+            6756
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            7032,
+            7036
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            7093,
+            7097
+          ]
+        },
+        {
+          "text": "Brad Pitt",
+          "location": [
+            11740,
+            11749
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            14595,
+            14599
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            15073,
+            15077
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            15538,
+            15542
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            22481,
+            22485
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            23314,
+            23318
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            23591,
+            23595
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            24575,
+            24579
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.639379,
+        "joy": 0.596052,
+        "fear": 0.067647,
+        "disgust": 0.095833,
+        "anger": 0.46291
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 14
+    },
+    {
+      "type": "Location",
+      "text": "Cambodia",
+      "sentiment": {
+        "score": 0.359241,
+        "label": "positive"
+      },
+      "relevance": 0.370126,
+      "mentions": [
+        {
+          "text": "Cambodia",
+          "location": [
+            230,
+            238
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            659,
+            667
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            1088,
+            1096
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            8222,
+            8230
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            8683,
+            8691
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            10047,
+            10055
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            10861,
+            10869
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            11271,
+            11279
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            11488,
+            11496
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            11937,
+            11945
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            14073,
+            14081
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            14183,
+            14191
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            17865,
+            17873
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            18158,
+            18166
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            18758,
+            18766
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            18911,
+            18919
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            18940,
+            18948
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            21250,
+            21258
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            21457,
+            21465
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            21657,
+            21665
+          ]
+        },
+        {
+          "text": "Cambodia",
+          "location": [
+            22566,
+            22574
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.437412,
+        "joy": 0.51417,
+        "fear": 0.076091,
+        "disgust": 0.087722,
+        "anger": 0.122121
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Cambodia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cambodia"
+      },
+      "count": 21
+    },
+    {
+      "type": "Person",
+      "text": "Mert Alas",
+      "sentiment": {
+        "score": -0.584368,
+        "label": "negative"
+      },
+      "relevance": 0.342205,
+      "mentions": [
+        {
+          "text": "Mert Alas",
+          "location": [
+            4079,
+            4088
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            10702,
+            10711
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            13617,
+            13626
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            13686,
+            13695
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            16423,
+            16432
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            21556,
+            21565
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            25307,
+            25316
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            27211,
+            27220
+          ]
+        },
+        {
+          "text": "Mert Alas",
+          "location": [
+            29284,
+            29293
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066713,
+        "joy": 0.474701,
+        "fear": 0.035199,
+        "disgust": 0.013212,
+        "anger": 0.102086
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Marcus Piggott",
+      "sentiment": {
+        "score": -0.584368,
+        "label": "negative"
+      },
+      "relevance": 0.315394,
+      "mentions": [
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            4093,
+            4107
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            10716,
+            10730
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            13631,
+            13645
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            13700,
+            13714
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            16437,
+            16451
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            21570,
+            21584
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            25321,
+            25335
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            27225,
+            27239
+          ]
+        },
+        {
+          "text": "Marcus Piggott",
+          "location": [
+            29298,
+            29312
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066713,
+        "joy": 0.474701,
+        "fear": 0.035199,
+        "disgust": 0.013212,
+        "anger": 0.102086
+      },
+      "count": 9
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Khmer Rouge",
+      "relevance": 0.981071,
+      "dbpedia_resource": "http://dbpedia.org/resource/Khmer_Rouge"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.930505,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.897542,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Cambodia",
+      "relevance": 0.767334,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cambodia"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.547531,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.849707,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

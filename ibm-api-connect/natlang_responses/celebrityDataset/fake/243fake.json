@@ -1,0 +1,355 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1271,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.700074,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Victoria Beckham's big fashion guide",
+      "sentiment": {
+        "score": 0.56709,
+        "label": "positive"
+      },
+      "relevance": 0.841773,
+      "emotion": {
+        "sadness": 0.061635,
+        "joy": 0.636254,
+        "fear": 0.039556,
+        "disgust": 0.046268,
+        "anger": 0.070027
+      },
+      "count": 1
+    },
+    {
+      "text": "Posh Spice",
+      "sentiment": {
+        "score": 0.56709,
+        "label": "positive"
+      },
+      "relevance": 0.786888,
+      "emotion": {
+        "sadness": 0.061635,
+        "joy": 0.636254,
+        "fear": 0.039556,
+        "disgust": 0.046268,
+        "anger": 0.070027
+      },
+      "count": 1
+    },
+    {
+      "text": "US Vogue editor Anna Wintour",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66023,
+      "emotion": {
+        "sadness": 0.141537,
+        "joy": 0.415723,
+        "fear": 0.032125,
+        "disgust": 0.263741,
+        "anger": 0.145049
+      },
+      "count": 1
+    },
+    {
+      "text": "style bible",
+      "sentiment": {
+        "score": 0.780854,
+        "label": "positive"
+      },
+      "relevance": 0.657978,
+      "emotion": {
+        "sadness": 0.096492,
+        "joy": 0.569005,
+        "fear": 0.097895,
+        "disgust": 0.11866,
+        "anger": 0.060187
+      },
+      "count": 2
+    },
+    {
+      "text": "front row",
+      "sentiment": {
+        "score": 0.576711,
+        "label": "positive"
+      },
+      "relevance": 0.633891,
+      "emotion": {
+        "sadness": 0.296935,
+        "joy": 0.292862,
+        "fear": 0.024718,
+        "disgust": 0.268211,
+        "anger": 0.162599
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0.584489,
+        "label": "positive"
+      },
+      "relevance": 0.914133,
+      "mentions": [
+        {
+          "text": "Anna Wintour",
+          "location": [
+            252,
+            264
+          ]
+        },
+        {
+          "text": "Wintour",
+          "location": [
+            323,
+            330
+          ]
+        },
+        {
+          "text": "Anna",
+          "location": [
+            426,
+            430
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            457,
+            460
+          ]
+        },
+        {
+          "text": "Anna",
+          "location": [
+            664,
+            668
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            695,
+            698
+          ]
+        },
+        {
+          "text": "Anna",
+          "location": [
+            710,
+            714
+          ]
+        },
+        {
+          "text": "Wintour",
+          "location": [
+            1123,
+            1130
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            1143,
+            1146
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.218857,
+        "joy": 0.225969,
+        "fear": 0.105504,
+        "disgust": 0.177621,
+        "anger": 0.126171
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist"
+        ],
+        "name": "Anna Wintour",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Victoria Beckham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.420647,
+      "mentions": [
+        {
+          "text": "Victoria Beckham",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Victoria Beckham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Victoria_Beckham"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anna",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.32424,
+      "mentions": [
+        {
+          "text": "the one",
+          "location": [
+            434,
+            441
+          ]
+        },
+        {
+          "text": "the one",
+          "location": [
+            672,
+            679
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.189222,
+        "joy": 0.172282,
+        "fear": 0.093151,
+        "disgust": 0.162243,
+        "anger": 0.090208
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Harper Beckham",
+      "sentiment": {
+        "score": 0.722825,
+        "label": "positive"
+      },
+      "relevance": 0.288515,
+      "mentions": [
+        {
+          "text": "Harper Beckham",
+          "location": [
+            1222,
+            1236
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.367509,
+        "joy": 0.257147,
+        "fear": 0.029583,
+        "disgust": 0.218302,
+        "anger": 0.150404
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Victoria",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.284727,
+      "mentions": [
+        {
+          "text": "Victoria",
+          "location": [
+            378,
+            386
+          ]
+        },
+        {
+          "text": "Victoria",
+          "location": [
+            616,
+            624
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.099743,
+        "joy": 0.198975,
+        "fear": 0.047774,
+        "disgust": 0.196396,
+        "anger": 0.068236
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Victoria Beckham",
+      "relevance": 0.974884,
+      "dbpedia_resource": "http://dbpedia.org/resource/Victoria_Beckham"
+    },
+    {
+      "text": "Anna Wintour",
+      "relevance": 0.928381,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+      "text": "David Beckham",
+      "relevance": 0.827421,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Beckham"
+    },
+    {
+      "text": "Spice Girls",
+      "relevance": 0.721047,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spice_Girls"
+    },
+    {
+      "text": "Vogue",
+      "relevance": 0.718267,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vogue_(magazine)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.972929,
+      "label": "/style and fashion/men 's fashion"
+    }
+  ]
+}

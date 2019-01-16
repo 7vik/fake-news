@@ -1,0 +1,258 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 748,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.842208,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sterling rose",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.75051,
+      "emotion": {
+        "sadness": 0.658117,
+        "joy": 0.027768,
+        "fear": 0.178774,
+        "disgust": 0.106425,
+        "anger": 0.309116
+      },
+      "count": 1
+    },
+    {
+      "text": "two-month",
+      "sentiment": {
+        "score": -0.98093,
+        "label": "negative"
+      },
+      "relevance": 0.733158,
+      "emotion": {
+        "sadness": 0.675629,
+        "joy": 0.064243,
+        "fear": 0.121991,
+        "disgust": 0.079144,
+        "anger": 0.146704
+      },
+      "count": 1
+    },
+    {
+      "text": "National Statistics",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.701926,
+      "emotion": {
+        "sadness": 0.136378,
+        "joy": 0.133931,
+        "fear": 0.082388,
+        "disgust": 0.023875,
+        "anger": 0.04732
+      },
+      "count": 1
+    },
+    {
+      "text": "UK retail sales shrug",
+      "sentiment": {
+        "score": -0.98093,
+        "label": "negative"
+      },
+      "relevance": 0.699648,
+      "emotion": {
+        "sadness": 0.057656,
+        "joy": 0.028209,
+        "fear": 0.901576,
+        "disgust": 0.01925,
+        "anger": 0.024917
+      },
+      "count": 1
+    },
+    {
+      "text": "high street stores",
+      "sentiment": {
+        "score": -0.98093,
+        "label": "negative"
+      },
+      "relevance": 0.6167,
+      "emotion": {
+        "sadness": 0.675629,
+        "joy": 0.064243,
+        "fear": 0.121991,
+        "disgust": 0.079144,
+        "anger": 0.146704
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "ONS",
+      "sentiment": {
+        "score": -0.594253,
+        "label": "negative"
+      },
+      "relevance": 0.546378,
+      "mentions": [
+        {
+          "text": "ONS",
+          "location": [
+            412,
+            415
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.755141,
+        "joy": 0.013358,
+        "fear": 0.152382,
+        "disgust": 0.08358,
+        "anger": 0.257889
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "Office for National Statistics",
+        "dbpedia_resource": "http://dbpedia.org/resource/Office_for_National_Statistics"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Britain",
+      "sentiment": {
+        "score": -0.593539,
+        "label": "negative"
+      },
+      "relevance": 0.435855,
+      "mentions": [
+        {
+          "text": "Britain",
+          "location": [
+            58,
+            65
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": -0.763923,
+        "label": "negative"
+      },
+      "relevance": 0.41596,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            0,
+            2
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.057656,
+        "joy": 0.028209,
+        "fear": 0.901576,
+        "disgust": 0.01925,
+        "anger": 0.024917
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brexit",
+      "sentiment": {
+        "score": -0.763923,
+        "label": "negative"
+      },
+      "relevance": 0.410171,
+      "mentions": [
+        {
+          "text": "Brexit",
+          "location": [
+            26,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.057656,
+        "joy": 0.028209,
+        "fear": 0.901576,
+        "disgust": 0.01925,
+        "anger": 0.024917
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Retailing",
+      "relevance": 0.942515,
+      "dbpedia_resource": "http://dbpedia.org/resource/Retailing"
+    },
+    {
+      "text": "United States dollar",
+      "relevance": 0.907225,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_dollar"
+    },
+    {
+      "text": "Sales",
+      "relevance": 0.806549,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sales"
+    },
+    {
+      "text": "Shopping mall",
+      "relevance": 0.751605,
+      "dbpedia_resource": "http://dbpedia.org/resource/Shopping_mall"
+    },
+    {
+      "text": "Consignment",
+      "relevance": 0.708469,
+      "dbpedia_resource": "http://dbpedia.org/resource/Consignment"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.857736,
+      "label": "/society/work/unemployment"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.913949,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jay-Z",
+      "sentiment": {
+        "score": -0.913949,
+        "label": "negative"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.550271,
+        "joy": 0.107103,
+        "fear": 0.103068,
+        "disgust": 0.350214,
+        "anger": 0.149997
+      },
+      "count": 1
+    },
+    {
+      "text": "Fake News",
+      "sentiment": {
+        "score": -0.913949,
+        "label": "negative"
+      },
+      "relevance": 0.994203,
+      "emotion": {
+        "sadness": 0.550271,
+        "joy": 0.107103,
+        "fear": 0.103068,
+        "disgust": 0.350214,
+        "anger": 0.149997
+      },
+      "count": 1
+    },
+    {
+      "text": "Lucifer",
+      "sentiment": {
+        "score": -0.913949,
+        "label": "negative"
+      },
+      "relevance": 0.633503,
+      "emotion": {
+        "sadness": 0.550271,
+        "joy": 0.107103,
+        "fear": 0.103068,
+        "disgust": 0.350214,
+        "anger": 0.149997
+      },
+      "count": 1
+    },
+    {
+      "text": "Light",
+      "sentiment": {
+        "score": -0.913949,
+        "label": "negative"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.550271,
+        "joy": 0.107103,
+        "fear": 0.103068,
+        "disgust": 0.350214,
+        "anger": 0.149997
+      },
+      "count": 1
+    },
+    {
+      "text": "Way Of Truth",
+      "sentiment": {
+        "score": -0.913949,
+        "label": "negative"
+      },
+      "relevance": 0.27573,
+      "emotion": {
+        "sadness": 0.550271,
+        "joy": 0.107103,
+        "fear": 0.103068,
+        "disgust": 0.350214,
+        "anger": 0.149997
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jay-Z",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jay-Z",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVProducer",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor"
+        ],
+        "name": "Jay-Z",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kanye West",
+      "relevance": 0.843327,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Reality",
+      "relevance": 0.825207,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reality"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.723514,
+      "label": "/news/national news"
+    }
+  ]
+}

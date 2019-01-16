@@ -1,0 +1,266 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 608,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.353312,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "GPS trackers",
+      "sentiment": {
+        "score": 0.79839,
+        "label": "positive"
+      },
+      "relevance": 0.933882,
+      "emotion": {
+        "sadness": 0.136822,
+        "joy": 0.266162,
+        "fear": 0.134653,
+        "disgust": 0.0744,
+        "anger": 0.086072
+      },
+      "count": 2
+    },
+    {
+      "text": "Monday morning",
+      "sentiment": {
+        "score": -0.714721,
+        "label": "negative"
+      },
+      "relevance": 0.705376,
+      "emotion": {
+        "sadness": 0.3243,
+        "joy": 0.056393,
+        "fear": 0.613231,
+        "disgust": 0.133165,
+        "anger": 0.155691
+      },
+      "count": 1
+    },
+    {
+      "text": "first step",
+      "sentiment": {
+        "score": 0.440441,
+        "label": "positive"
+      },
+      "relevance": 0.688113,
+      "emotion": {
+        "sadness": 0.102271,
+        "joy": 0.159256,
+        "fear": 0.101026,
+        "disgust": 0.04952,
+        "anger": 0.105716
+      },
+      "count": 1
+    },
+    {
+      "text": "new policy",
+      "sentiment": {
+        "score": -0.820797,
+        "label": "negative"
+      },
+      "relevance": 0.568805,
+      "emotion": {
+        "sadness": 0.335,
+        "joy": 0.102026,
+        "fear": 0.184249,
+        "disgust": 0.106752,
+        "anger": 0.077221
+      },
+      "count": 1
+    },
+    {
+      "text": "right arm of all citizens",
+      "sentiment": {
+        "score": 0.79839,
+        "label": "positive"
+      },
+      "relevance": 0.563255,
+      "emotion": {
+        "sadness": 0.136821,
+        "joy": 0.297704,
+        "fear": 0.154671,
+        "disgust": 0.072639,
+        "anger": 0.063792
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Nepal",
+      "sentiment": {
+        "score": -0.546388,
+        "label": "negative"
+      },
+      "relevance": 0.988858,
+      "mentions": [
+        {
+          "text": "Nepal",
+          "location": [
+            46,
+            51
+          ]
+        },
+        {
+          "text": "Nepal",
+          "location": [
+            52,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.162195,
+        "joy": 0.275736,
+        "fear": 0.186763,
+        "disgust": 0.052049,
+        "anger": 0.071157
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Cuisine",
+          "Country"
+        ],
+        "name": "Nepal",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nepal"
+      },
+      "count": 2
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Mount Everest",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.967726,
+      "mentions": [
+        {
+          "text": "Mount Everest",
+          "location": [
+            143,
+            156
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.136821,
+        "joy": 0.297704,
+        "fear": 0.154671,
+        "disgust": 0.072639,
+        "anger": 0.063792
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Mountain",
+          "TouristAttraction"
+        ],
+        "name": "Mount Everest",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mount_Everest"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Everest",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.698814,
+      "mentions": [
+        {
+          "text": "Everest",
+          "location": [
+            243,
+            250
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185894,
+        "joy": 0.465742,
+        "fear": 0.141749,
+        "disgust": 0.096192,
+        "anger": 0.124164
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.376485,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            168,
+            176
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185894,
+        "joy": 0.465742,
+        "fear": 0.141749,
+        "disgust": 0.096192,
+        "anger": 0.124164
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mount Everest",
+      "relevance": 0.958558,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mount_Everest"
+    },
+    {
+      "text": "Lhotse",
+      "relevance": 0.741987,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lhotse"
+    },
+    {
+      "text": "Nepal",
+      "relevance": 0.701043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nepal"
+    },
+    {
+      "text": "Makalu",
+      "relevance": 0.680394,
+      "dbpedia_resource": "http://dbpedia.org/resource/Makalu"
+    },
+    {
+      "text": "People's Republic of China",
+      "relevance": 0.642371,
+      "dbpedia_resource": "http://dbpedia.org/resource/People's_Republic_of_China"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.927201,
+      "label": "/sports/climbing"
+    }
+  ]
+}

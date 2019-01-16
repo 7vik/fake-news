@@ -1,0 +1,214 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 597,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.690061,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "end of the year",
+      "sentiment": {
+        "score": 0.623338,
+        "label": "positive"
+      },
+      "relevance": 0.718892,
+      "emotion": {
+        "sadness": 0.284807,
+        "joy": 0.28425,
+        "fear": 0.068062,
+        "disgust": 0.117499,
+        "anger": 0.111067
+      },
+      "count": 1
+    },
+    {
+      "text": "Google's philanthropic arm",
+      "sentiment": {
+        "score": 0.330559,
+        "label": "positive"
+      },
+      "relevance": 0.716367,
+      "emotion": {
+        "sadness": 0.26805,
+        "joy": 0.529013,
+        "fear": 0.117411,
+        "disgust": 0.096025,
+        "anger": 0.0367
+      },
+      "count": 1
+    },
+    {
+      "text": "basic math",
+      "sentiment": {
+        "score": 0.330559,
+        "label": "positive"
+      },
+      "relevance": 0.698348,
+      "emotion": {
+        "sadness": 0.26805,
+        "joy": 0.529013,
+        "fear": 0.117411,
+        "disgust": 0.096025,
+        "anger": 0.0367
+      },
+      "count": 1
+    },
+    {
+      "text": "Google",
+      "sentiment": {
+        "score": 0.44015,
+        "label": "positive"
+      },
+      "relevance": 0.601745,
+      "emotion": {
+        "sadness": 0.357293,
+        "joy": 0.401024,
+        "fear": 0.133498,
+        "disgust": 0.118202,
+        "anger": 0.047799
+      },
+      "count": 3
+    },
+    {
+      "text": "education gap",
+      "sentiment": {
+        "score": 0.330559,
+        "label": "positive"
+      },
+      "relevance": 0.582527,
+      "emotion": {
+        "sadness": 0.430784,
+        "joy": 0.046453,
+        "fear": 0.371834,
+        "disgust": 0.058652,
+        "anger": 0.074772
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.890344,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            0,
+            6
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.430784,
+        "joy": 0.046453,
+        "fear": 0.371834,
+        "disgust": 0.058652,
+        "anger": 0.074772
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "$50 million",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.890344,
+      "mentions": [
+        {
+          "text": "$50 million",
+          "location": [
+            15,
+            26
+          ]
+        },
+        {
+          "text": "$50 million",
+          "location": [
+            323,
+            334
+          ]
+        }
+      ],
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.890344,
+      "mentions": [
+        {
+          "text": "two years",
+          "location": [
+            300,
+            309
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.972871,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Philanthropy",
+      "relevance": 0.721031,
+      "dbpedia_resource": "http://dbpedia.org/resource/Philanthropy"
+    },
+    {
+      "text": "Learning",
+      "relevance": 0.702513,
+      "dbpedia_resource": "http://dbpedia.org/resource/Learning"
+    },
+    {
+      "text": "Educational psychology",
+      "relevance": 0.645092,
+      "dbpedia_resource": "http://dbpedia.org/resource/Educational_psychology"
+    },
+    {
+      "text": "Psychology",
+      "relevance": 0.569099,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.949958,
+      "label": "/education/special education"
+    }
+  ]
+}

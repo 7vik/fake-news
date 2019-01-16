@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 920,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.450545,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "company spokesman Kristian Agerbo",
+      "sentiment": {
+        "score": -0.652344,
+        "label": "negative"
+      },
+      "relevance": 0.822271,
+      "emotion": {
+        "sadness": 0.209636,
+        "joy": 0.302396,
+        "fear": 0.123734,
+        "disgust": 0.018535,
+        "anger": 0.067173
+      },
+      "count": 1
+    },
+    {
+      "text": "open new headquarters",
+      "sentiment": {
+        "score": -0.798623,
+        "label": "negative"
+      },
+      "relevance": 0.783731,
+      "emotion": {
+        "sadness": 0.240956,
+        "joy": 0.474036,
+        "fear": 0.058775,
+        "disgust": 0.082418,
+        "anger": 0.100514
+      },
+      "count": 1
+    },
+    {
+      "text": "Tuesday Uber",
+      "sentiment": {
+        "score": -0.652344,
+        "label": "negative"
+      },
+      "relevance": 0.66123,
+      "emotion": {
+        "sadness": 0.209636,
+        "joy": 0.302396,
+        "fear": 0.123734,
+        "disgust": 0.018535,
+        "anger": 0.067173
+      },
+      "count": 1
+    },
+    {
+      "text": "introduction of new taxi laws",
+      "sentiment": {
+        "score": -0.798623,
+        "label": "negative"
+      },
+      "relevance": 0.646685,
+      "emotion": {
+        "sadness": 0.363472,
+        "joy": 0.422805,
+        "fear": 0.023747,
+        "disgust": 0.115777,
+        "anger": 0.141493
+      },
+      "count": 1
+    },
+    {
+      "text": "new laws",
+      "sentiment": {
+        "score": -0.702584,
+        "label": "negative"
+      },
+      "relevance": 0.645319,
+      "emotion": {
+        "sadness": 0.330439,
+        "joy": 0.461191,
+        "fear": 0.083173,
+        "disgust": 0.051106,
+        "anger": 0.110588
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Denmark",
+      "sentiment": {
+        "score": -0.351366,
+        "label": "negative"
+      },
+      "relevance": 0.944749,
+      "mentions": [
+        {
+          "text": "Denmark",
+          "location": [
+            33,
+            40
+          ]
+        },
+        {
+          "text": "Denmark",
+          "location": [
+            103,
+            110
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.312139,
+        "joy": 0.471554,
+        "fear": 0.027056,
+        "disgust": 0.10425,
+        "anger": 0.139202
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Madrid Frankfurt Paris",
+      "sentiment": {
+        "score": 0.544505,
+        "label": "positive"
+      },
+      "relevance": 0.709072,
+      "mentions": [
+        {
+          "text": "Madrid Frankfurt Paris",
+          "location": [
+            595,
+            617
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.299133,
+        "joy": 0.125502,
+        "fear": 0.011404,
+        "disgust": 0.11571,
+        "anger": 0.041423
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kristian Agerbo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.651263,
+      "mentions": [
+        {
+          "text": "Kristian Agerbo",
+          "location": [
+            214,
+            229
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296861,
+        "joy": 0.213363,
+        "fear": 0.124837,
+        "disgust": 0.074048,
+        "anger": 0.061781
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Eurpoe",
+      "sentiment": {
+        "score": -0.351366,
+        "label": "negative"
+      },
+      "relevance": 0.629244,
+      "mentions": [
+        {
+          "text": "Eurpoe",
+          "location": [
+            186,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.363472,
+        "joy": 0.422805,
+        "fear": 0.023747,
+        "disgust": 0.115777,
+        "anger": 0.141493
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.351366,
+        "label": "negative"
+      },
+      "relevance": 0.528473,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            159,
+            161
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.363472,
+        "joy": 0.422805,
+        "fear": 0.023747,
+        "disgust": 0.115777,
+        "anger": 0.141493
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Europe",
+      "relevance": 0.913755,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "Introduction",
+      "relevance": 0.777643,
+      "dbpedia_resource": "http://dbpedia.org/resource/Introduction"
+    },
+    {
+      "text": "Service of process",
+      "relevance": 0.75783,
+      "dbpedia_resource": "http://dbpedia.org/resource/Service_of_process"
+    },
+    {
+      "text": "Taxicab",
+      "relevance": 0.746446,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taxicab"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.966236,
+      "label": "/automotive and vehicles/cars"
+    }
+  ]
+}

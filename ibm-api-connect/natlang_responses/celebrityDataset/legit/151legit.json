@@ -1,0 +1,132 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.794131,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kris Jenner Just",
+      "sentiment": {
+        "score": -0.794131,
+        "label": "negative"
+      },
+      "relevance": 0.999085,
+      "emotion": {
+        "sadness": 0.497464,
+        "joy": 0.029119,
+        "fear": 0.354339,
+        "disgust": 0.23167,
+        "anger": 0.096059
+      },
+      "count": 1
+    },
+    {
+      "text": "Silence",
+      "sentiment": {
+        "score": -0.794131,
+        "label": "negative"
+      },
+      "relevance": 0.633014,
+      "emotion": {
+        "sadness": 0.497464,
+        "joy": 0.029119,
+        "fear": 0.354339,
+        "disgust": 0.23167,
+        "anger": 0.096059
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie's Pregnancy",
+      "sentiment": {
+        "score": -0.794131,
+        "label": "negative"
+      },
+      "relevance": 0.090007,
+      "emotion": {
+        "sadness": 0.497464,
+        "joy": 0.029119,
+        "fear": 0.354339,
+        "disgust": 0.23167,
+        "anger": 0.096059
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kylie",
+      "sentiment": {
+        "score": -0.453709,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kylie",
+          "location": [
+            38,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": -0.453709,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.497464,
+        "joy": 0.029119,
+        "fear": 0.354339,
+        "disgust": 0.23167,
+        "anger": 0.096059
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.999993,
+      "label": "/family and parenting/motherhood/pregnancy"
+    }
+  ]
+}

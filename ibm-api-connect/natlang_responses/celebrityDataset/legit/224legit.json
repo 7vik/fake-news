@@ -1,0 +1,216 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 96,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.780222,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Father's Day",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.915332,
+      "emotion": {
+        "sadness": 0.567188,
+        "joy": 0.068178,
+        "fear": 0.027524,
+        "disgust": 0.117718,
+        "anger": 0.444946
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.827545,
+      "emotion": {
+        "sadness": 0.567188,
+        "joy": 0.068178,
+        "fear": 0.027524,
+        "disgust": 0.117718,
+        "anger": 0.444946
+      },
+      "count": 1
+    },
+    {
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": -0.780222,
+        "label": "negative"
+      },
+      "relevance": 0.721575,
+      "emotion": {
+        "sadness": 0.567188,
+        "joy": 0.068178,
+        "fear": 0.027524,
+        "disgust": 0.117718,
+        "anger": 0.444946
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711604,
+      "emotion": {
+        "sadness": 0.567188,
+        "joy": 0.068178,
+        "fear": 0.027524,
+        "disgust": 0.117718,
+        "anger": 0.444946
+      },
+      "count": 1
+    },
+    {
+      "text": "Caitlyn",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.618372,
+      "emotion": {
+        "sadness": 0.567188,
+        "joy": 0.068178,
+        "fear": 0.027524,
+        "disgust": 0.117718,
+        "anger": 0.444946
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.391342,
+        "joy": 0.394963,
+        "fear": 0.054499,
+        "disgust": 0.064949,
+        "anger": 0.127994
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Caitlyn",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Caitlyn",
+          "location": [
+            42,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.391342,
+        "joy": 0.394963,
+        "fear": 0.054499,
+        "disgust": 0.064949,
+        "anger": 0.127994
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": -0.320748,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            55,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.475721,
+        "joy": 0.019561,
+        "fear": 0.036845,
+        "disgust": 0.146005,
+        "anger": 0.547123
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kylie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kylie",
+          "location": [
+            12,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.391342,
+        "joy": 0.394963,
+        "fear": 0.054499,
+        "disgust": 0.064949,
+        "anger": 0.127994
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.632215,
+      "label": "/family and parenting/parenting teens"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.580004,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ryan Gosling",
+      "sentiment": {
+        "score": 0.580004,
+        "label": "positive"
+      },
+      "relevance": 0.983031,
+      "emotion": {
+        "sadness": 0.106057,
+        "joy": 0.559903,
+        "fear": 0.014793,
+        "disgust": 0.347142,
+        "anger": 0.06034
+      },
+      "count": 1
+    },
+    {
+      "text": "Nice Guys",
+      "sentiment": {
+        "score": 0.580004,
+        "label": "positive"
+      },
+      "relevance": 0.016969,
+      "emotion": {
+        "sadness": 0.106057,
+        "joy": 0.559903,
+        "fear": 0.014793,
+        "disgust": 0.347142,
+        "anger": 0.06034
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ryan Gosling",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ryan Gosling",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            18,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.092553,
+        "joy": 0.571957,
+        "fear": 0.013596,
+        "disgust": 0.33751,
+        "anger": 0.068368
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Ryan Gosling",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Gosling"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ryan Gosling",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ryan_Gosling"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994561,
+      "label": "/health and fitness/addiction/smoking addiction"
+    }
+  ]
+}

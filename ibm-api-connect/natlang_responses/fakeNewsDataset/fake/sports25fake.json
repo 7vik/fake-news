@@ -1,0 +1,296 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 786,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.326111,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jimmy Anderson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.967139,
+      "emotion": {
+        "sadness": 0.218839,
+        "joy": 0.409547,
+        "fear": 0.048114,
+        "disgust": 0.124748,
+        "anger": 0.108695
+      },
+      "count": 1
+    },
+    {
+      "text": "England's final test",
+      "sentiment": {
+        "score": -0.911744,
+        "label": "negative"
+      },
+      "relevance": 0.730004,
+      "emotion": {
+        "sadness": 0.694839,
+        "joy": 0.026403,
+        "fear": 0.394516,
+        "disgust": 0.032685,
+        "anger": 0.038053
+      },
+      "count": 1
+    },
+    {
+      "text": "wicket-taker",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.639041,
+      "emotion": {
+        "sadness": 0.253804,
+        "joy": 0.41872,
+        "fear": 0.052902,
+        "disgust": 0.120144,
+        "anger": 0.101645
+      },
+      "count": 1
+    },
+    {
+      "text": "long term health",
+      "sentiment": {
+        "score": 0.779497,
+        "label": "positive"
+      },
+      "relevance": 0.626291,
+      "emotion": {
+        "sadness": 0.313427,
+        "joy": 0.508177,
+        "fear": 0.05146,
+        "disgust": 0.042051,
+        "anger": 0.052543
+      },
+      "count": 1
+    },
+    {
+      "text": "part of the winter recuperating",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.593237,
+      "emotion": {
+        "sadness": 0.494333,
+        "joy": 0.301141,
+        "fear": 0.099249,
+        "disgust": 0.041196,
+        "anger": 0.123623
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jimmy Anderson",
+      "sentiment": {
+        "score": 0.060826,
+        "label": "positive"
+      },
+      "relevance": 0.925694,
+      "mentions": [
+        {
+          "text": "Jimmy Anderson",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Jimmy Anderson",
+          "location": [
+            60,
+            74
+          ]
+        },
+        {
+          "text": "Anderson",
+          "location": [
+            212,
+            220
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            279,
+            281
+          ]
+        },
+        {
+          "text": "Anderson",
+          "location": [
+            403,
+            411
+          ]
+        },
+        {
+          "text": "Anderson",
+          "location": [
+            546,
+            554
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            599,
+            601
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.496525,
+        "joy": 0.641335,
+        "fear": 0.135789,
+        "disgust": 0.134654,
+        "anger": 0.0905
+      },
+      "count": 7
+    },
+    {
+      "type": "Facility",
+      "text": "England Test Summer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.335215,
+      "mentions": [
+        {
+          "text": "England Test Summer",
+          "location": [
+            40,
+            59
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172556,
+        "joy": 0.479849,
+        "fear": 0.048455,
+        "disgust": 0.066133,
+        "anger": 0.055454
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "England",
+      "sentiment": {
+        "score": -0.196142,
+        "label": "negative"
+      },
+      "relevance": 0.32938,
+      "mentions": [
+        {
+          "text": "England",
+          "location": [
+            76,
+            83
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            289,
+            296
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            383,
+            390
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "England",
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "sentiment": {
+        "score": -0.439746,
+        "label": "negative"
+      },
+      "relevance": 0.123303,
+      "mentions": [
+        {
+          "text": "India",
+          "location": [
+            313,
+            318
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.545595,
+        "joy": 0.054444,
+        "fear": 0.4747,
+        "disgust": 0.116741,
+        "anger": 0.028117
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bowler",
+      "relevance": 0.921458,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bowler_(cricket)"
+    },
+    {
+      "text": "Swing bowling",
+      "relevance": 0.816898,
+      "dbpedia_resource": "http://dbpedia.org/resource/Swing_bowling"
+    },
+    {
+      "text": "England",
+      "relevance": 0.6352,
+      "dbpedia_resource": "http://dbpedia.org/resource/England"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.983383,
+      "label": "/sports/cricket"
+    }
+  ]
+}

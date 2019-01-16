@@ -1,0 +1,277 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 555,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.979192,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kevin Hart",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.953597,
+      "emotion": {
+        "sadness": 0.080738,
+        "joy": 0.604133,
+        "fear": 0.019385,
+        "disgust": 0.033207,
+        "anger": 0.037188
+      },
+      "count": 1
+    },
+    {
+      "text": "Kenzo Kash Hart",
+      "sentiment": {
+        "score": 0.964106,
+        "label": "positive"
+      },
+      "relevance": 0.826124,
+      "emotion": {
+        "sadness": 0.037136,
+        "joy": 0.86786,
+        "fear": 0.018668,
+        "disgust": 0.054339,
+        "anger": 0.019078
+      },
+      "count": 1
+    },
+    {
+      "text": "ex-wife Torrei Hart",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.725174,
+      "emotion": {
+        "sadness": 0.274139,
+        "joy": 0.408101,
+        "fear": 0.025546,
+        "disgust": 0.204975,
+        "anger": 0.125604
+      },
+      "count": 1
+    },
+    {
+      "text": "first child",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.71266,
+      "emotion": {
+        "sadness": 0.117201,
+        "joy": 0.453363,
+        "fear": 0.056371,
+        "disgust": 0.113048,
+        "anger": 0.080389
+      },
+      "count": 1
+    },
+    {
+      "text": "Eniko Parrish",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.569601,
+      "emotion": {
+        "sadness": 0.107503,
+        "joy": 0.494941,
+        "fear": 0.022029,
+        "disgust": 0.050752,
+        "anger": 0.060161
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kevin Hart",
+      "sentiment": {
+        "score": 0.558023,
+        "label": "positive"
+      },
+      "relevance": 0.913066,
+      "mentions": [
+        {
+          "text": "Kevin Hart",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Kash Hart",
+          "location": [
+            161,
+            170
+          ]
+        },
+        {
+          "text": "Hart",
+          "location": [
+            193,
+            197
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            208,
+            210
+          ]
+        },
+        {
+          "text": "Healthy & already",
+          "location": [
+            214,
+            231
+          ]
+        },
+        {
+          "text": "Hart",
+          "location": [
+            338,
+            342
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12076,
+        "joy": 0.723025,
+        "fear": 0.048072,
+        "disgust": 0.082405,
+        "anger": 0.093993
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Eniko Parrish",
+      "sentiment": {
+        "score": 0.832945,
+        "label": "positive"
+      },
+      "relevance": 0.618387,
+      "mentions": [
+        {
+          "text": "Eniko Parrish",
+          "location": [
+            15,
+            28
+          ]
+        },
+        {
+          "text": "Eniko Parrish",
+          "location": [
+            86,
+            99
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.076876,
+        "joy": 0.617012,
+        "fear": 0.017899,
+        "disgust": 0.033168,
+        "anger": 0.038876
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Hendrix",
+      "sentiment": {
+        "score": 0.476938,
+        "label": "positive"
+      },
+      "relevance": 0.162987,
+      "mentions": [
+        {
+          "text": "Hendrix",
+          "location": [
+            398,
+            405
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Torrei Hart.Hart",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.157082,
+      "mentions": [
+        {
+          "text": "Torrei Hart.Hart",
+          "location": [
+            424,
+            440
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Marriage",
+      "relevance": 0.933152,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.819725,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "Child",
+      "relevance": 0.586935,
+      "dbpedia_resource": "http://dbpedia.org/resource/Child"
+    },
+    {
+      "text": "Mickey Rooney",
+      "relevance": 0.53908,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mickey_Rooney"
+    },
+    {
+      "text": "Childhood",
+      "relevance": 0.534135,
+      "dbpedia_resource": "http://dbpedia.org/resource/Childhood"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.930148,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

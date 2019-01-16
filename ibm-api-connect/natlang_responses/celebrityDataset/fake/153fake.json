@@ -1,0 +1,235 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 628,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.532002,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wrath of the Kardashians",
+      "sentiment": {
+        "score": -0.88236,
+        "label": "negative"
+      },
+      "relevance": 0.731532,
+      "emotion": {
+        "sadness": 0.230028,
+        "joy": 0.138723,
+        "fear": 0.541866,
+        "disgust": 0.05466,
+        "anger": 0.082135
+      },
+      "count": 1
+    },
+    {
+      "text": "everyday life",
+      "sentiment": {
+        "score": -0.665619,
+        "label": "negative"
+      },
+      "relevance": 0.710696,
+      "emotion": {
+        "sadness": 0.379663,
+        "joy": 0.502813,
+        "fear": 0.04434,
+        "disgust": 0.098693,
+        "anger": 0.046451
+      },
+      "count": 1
+    },
+    {
+      "text": "transgender woman",
+      "sentiment": {
+        "score": 0.649861,
+        "label": "positive"
+      },
+      "relevance": 0.699044,
+      "emotion": {
+        "sadness": 0.705307,
+        "joy": 0.104675,
+        "fear": 0.187001,
+        "disgust": 0.063143,
+        "anger": 0.098483
+      },
+      "count": 1
+    },
+    {
+      "text": "Caitlyn Jenner Looks",
+      "sentiment": {
+        "score": -0.88236,
+        "label": "negative"
+      },
+      "relevance": 0.681954,
+      "emotion": {
+        "sadness": 0.140882,
+        "joy": 0.500864,
+        "fear": 0.072514,
+        "disgust": 0.109241,
+        "anger": 0.077072
+      },
+      "count": 1
+    },
+    {
+      "text": "difficult time",
+      "sentiment": {
+        "score": 0.333369,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.675637,
+      "emotion": {
+        "sadness": 0.523677,
+        "joy": 0.361213,
+        "fear": 0.065974,
+        "disgust": 0.082794,
+        "anger": 0.054794
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": -0.678977,
+        "label": "negative"
+      },
+      "relevance": 0.878064,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            113,
+            127
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140882,
+        "joy": 0.500864,
+        "fear": 0.072514,
+        "disgust": 0.109241,
+        "anger": 0.077072
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": -0.400179,
+        "label": "negative"
+      },
+      "relevance": 0.635485,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            277,
+            288
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            312,
+            315
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.483012,
+        "joy": 0.355934,
+        "fear": 0.045503,
+        "disgust": 0.164429,
+        "anger": 0.077248
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sophia Hutchins",
+      "sentiment": {
+        "score": 0.414082,
+        "label": "positive"
+      },
+      "relevance": 0.273914,
+      "mentions": [
+        {
+          "text": "Sophia Hutchins",
+          "location": [
+            423,
+            438
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.126008,
+        "joy": 0.657425,
+        "fear": 0.082875,
+        "disgust": 0.030968,
+        "anger": 0.046165
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "21-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.273914,
+      "mentions": [
+        {
+          "text": "21-year",
+          "location": [
+            467,
+            474
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.969091,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.950043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.645565,
+      "label": "/society/gay life"
+    }
+  ]
+}

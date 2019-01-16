@@ -1,0 +1,298 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 532,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.394966,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.925501,
+      "emotion": {
+        "sadness": 0.032764,
+        "joy": 0.679965,
+        "fear": 0.10529,
+        "disgust": 0.012479,
+        "anger": 0.008674
+      },
+      "count": 2
+    },
+    {
+      "text": "29-year-old actress",
+      "sentiment": {
+        "score": -0.862129,
+        "label": "negative"
+      },
+      "relevance": 0.880026,
+      "emotion": {
+        "sadness": 0.252628,
+        "joy": 0.445432,
+        "fear": 0.137865,
+        "disgust": 0.278255,
+        "anger": 0.035235
+      },
+      "count": 1
+    },
+    {
+      "text": "Russian Heir",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.668656,
+      "emotion": {
+        "sadness": 0.041563,
+        "joy": 0.242678,
+        "fear": 0.402339,
+        "disgust": 0.016975,
+        "anger": 0.010989
+      },
+      "count": 1
+    },
+    {
+      "text": "22-year-old heir",
+      "sentiment": {
+        "score": -0.862129,
+        "label": "negative"
+      },
+      "relevance": 0.659937,
+      "emotion": {
+        "sadness": 0.252628,
+        "joy": 0.445432,
+        "fear": 0.137865,
+        "disgust": 0.278255,
+        "anger": 0.035235
+      },
+      "count": 1
+    },
+    {
+      "text": "photographs of her beau",
+      "sentiment": {
+        "score": -0.862129,
+        "label": "negative"
+      },
+      "relevance": 0.593386,
+      "emotion": {
+        "sadness": 0.252628,
+        "joy": 0.445432,
+        "fear": 0.137865,
+        "disgust": 0.278255,
+        "anger": 0.035235
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": -0.197618,
+        "label": "negative"
+      },
+      "relevance": 0.846497,
+      "mentions": [
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            66,
+            79
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            482,
+            489
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.019712,
+        "joy": 0.75742,
+        "fear": 0.137174,
+        "disgust": 0.007332,
+        "anger": 0.006127
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lindsay Lohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Egor Tarabasov",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.288543,
+      "mentions": [
+        {
+          "text": "Egor Tarabasov",
+          "location": [
+            158,
+            172
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.090626,
+        "joy": 0.319189,
+        "fear": 0.256937,
+        "disgust": 0.008068,
+        "anger": 0.006264
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "TMZ",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.25986,
+      "mentions": [
+        {
+          "text": "TMZ",
+          "location": [
+            189,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "2015.Lohan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.177877,
+      "mentions": [
+        {
+          "text": "22-year",
+          "location": [
+            247,
+            254
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.161987,
+        "joy": 0.40339,
+        "fear": 0.074801,
+        "disgust": 0.301794,
+        "anger": 0.031629
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.171429,
+      "mentions": [
+        {
+          "text": "London",
+          "location": [
+            336,
+            342
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.283426,
+        "joy": 0.402364,
+        "fear": 0.195686,
+        "disgust": 0.089436,
+        "anger": 0.035908
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lindsay Lohan",
+      "relevance": 0.984677,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+    },
+    {
+      "text": "Mean Girls",
+      "relevance": 0.602869,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mean_Girls"
+    },
+    {
+      "text": "Speak",
+      "relevance": 0.553294,
+      "dbpedia_resource": "http://dbpedia.org/resource/Speak_(Lindsay_Lohan_album)"
+    },
+    {
+      "text": "MTV Movie Awards",
+      "relevance": 0.541408,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Movie_Awards"
+    },
+    {
+      "text": "2004 in film",
+      "relevance": 0.485812,
+      "dbpedia_resource": "http://dbpedia.org/resource/2004_in_film"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.794549,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

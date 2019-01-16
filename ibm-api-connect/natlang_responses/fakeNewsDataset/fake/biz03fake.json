@@ -1,0 +1,257 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 712,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.607497,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "California Surprisingly Lenient",
+      "sentiment": {
+        "score": 0.389311,
+        "label": "positive"
+      },
+      "relevance": 0.842354,
+      "emotion": {
+        "sadness": 0.119489,
+        "joy": 0.367276,
+        "fear": 0.031951,
+        "disgust": 0.017393,
+        "anger": 0.06222
+      },
+      "count": 1
+    },
+    {
+      "text": "California's clean-air agency",
+      "sentiment": {
+        "score": 0.389311,
+        "label": "positive"
+      },
+      "relevance": 0.799926,
+      "emotion": {
+        "sadness": 0.350628,
+        "joy": 0.164941,
+        "fear": 0.065826,
+        "disgust": 0.159385,
+        "anger": 0.149705
+      },
+      "count": 1
+    },
+    {
+      "text": "California Air Resources Board",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.798868,
+      "emotion": {
+        "sadness": 0.068393,
+        "joy": 0.353874,
+        "fear": 0.038252,
+        "disgust": 0.114688,
+        "anger": 0.098265
+      },
+      "count": 1
+    },
+    {
+      "text": "With Trump",
+      "sentiment": {
+        "score": 0.389311,
+        "label": "positive"
+      },
+      "relevance": 0.762802,
+      "emotion": {
+        "sadness": 0.350628,
+        "joy": 0.164941,
+        "fear": 0.065826,
+        "disgust": 0.159385,
+        "anger": 0.149705
+      },
+      "count": 1
+    },
+    {
+      "text": "Mr. Trump backing industry",
+      "sentiment": {
+        "score": -0.633322,
+        "label": "negative"
+      },
+      "relevance": 0.694055,
+      "emotion": {
+        "sadness": 0.293827,
+        "joy": 0.220194,
+        "fear": 0.091829,
+        "disgust": 0.009206,
+        "anger": 0.124119
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": 0.760552,
+        "label": "positive"
+      },
+      "relevance": 0.939128,
+      "mentions": [
+        {
+          "text": "California",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "California",
+          "location": [
+            92,
+            102
+          ]
+        },
+        {
+          "text": "California",
+          "location": [
+            288,
+            298
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.070934,
+        "joy": 0.52342,
+        "fear": 0.023548,
+        "disgust": 0.053479,
+        "anger": 0.075877
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "Appellation",
+          "GovernmentalJurisdiction",
+          "USState",
+          "WineRegion",
+          "StateOrCounty"
+        ],
+        "name": "California",
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Mr. Trump",
+      "sentiment": {
+        "score": 0.175375,
+        "label": "positive"
+      },
+      "relevance": 0.841997,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            85,
+            90
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            444,
+            453
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            568,
+            570
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.530693,
+        "joy": 0.217592,
+        "fear": 0.069525,
+        "disgust": 0.008033,
+        "anger": 0.125077
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "California Air Resources Board",
+      "sentiment": {
+        "score": 0.608586,
+        "label": "positive"
+      },
+      "relevance": 0.633001,
+      "mentions": [
+        {
+          "text": "California Air Resources Board",
+          "location": [
+            224,
+            254
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.078448,
+        "joy": 0.423678,
+        "fear": 0.046093,
+        "disgust": 0.167116,
+        "anger": 0.093075
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "California Air Resources Board",
+        "dbpedia_resource": "http://dbpedia.org/resource/California_Air_Resources_Board"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Emission standard",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Emission_standard"
+    },
+    {
+      "text": "Truck",
+      "relevance": 0.696086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Truck"
+    },
+    {
+      "text": "Plurality voting system",
+      "relevance": 0.659916,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plurality_voting_system"
+    },
+    {
+      "text": "Voting",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Voting"
+    },
+    {
+      "text": "Automobile",
+      "relevance": 0.643719,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.990775,
+      "label": "/automotive and vehicles/cars/hybrid"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 727,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.520382,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Super Bowl winners",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.872918,
+      "emotion": {
+        "sadness": 0.112333,
+        "joy": 0.449276,
+        "fear": 0.01797,
+        "disgust": 0.44368,
+        "anger": 0.083752
+      },
+      "count": 1
+    },
+    {
+      "text": "advocates of charity work",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.751241,
+      "emotion": {
+        "sadness": 0.057015,
+        "joy": 0.089123,
+        "fear": 0.017272,
+        "disgust": 0.443845,
+        "anger": 0.090073
+      },
+      "count": 1
+    },
+    {
+      "text": "own Super Bowl memorabilia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.718419,
+      "emotion": {
+        "sadness": 0.112333,
+        "joy": 0.449276,
+        "fear": 0.01797,
+        "disgust": 0.44368,
+        "anger": 0.083752
+      },
+      "count": 1
+    },
+    {
+      "text": "special meeting",
+      "sentiment": {
+        "score": -0.520382,
+        "label": "negative"
+      },
+      "relevance": 0.66663,
+      "emotion": {
+        "sadness": 0.121991,
+        "joy": 0.269546,
+        "fear": 0.044726,
+        "disgust": 0.086115,
+        "anger": 0.147036
+      },
+      "count": 1
+    },
+    {
+      "text": "raise money",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636464,
+      "emotion": {
+        "sadness": 0.112333,
+        "joy": 0.449276,
+        "fear": 0.01797,
+        "disgust": 0.44368,
+        "anger": 0.083752
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Brady",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.526055,
+      "mentions": [
+        {
+          "text": "Tom Brady",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211185,
+        "joy": 0.271046,
+        "fear": 0.195028,
+        "disgust": 0.117193,
+        "anger": 0.056537
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardWinner",
+          "Celebrity",
+          "FootballPlayer",
+          "SportsLeagueAwardWinner",
+          "TVActor"
+        ],
+        "name": "Tom Brady",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Brady"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Habitat for Humanity organizations",
+      "sentiment": {
+        "score": 0.553775,
+        "label": "positive"
+      },
+      "relevance": 0.514919,
+      "mentions": [
+        {
+          "text": "Habitat for Humanity organizations",
+          "location": [
+            183,
+            217
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112333,
+        "joy": 0.449276,
+        "fear": 0.01797,
+        "disgust": 0.44368,
+        "anger": 0.083752
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Von Miller",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.479093,
+      "mentions": [
+        {
+          "text": "Von Miller",
+          "location": [
+            14,
+            24
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211185,
+        "joy": 0.271046,
+        "fear": 0.195028,
+        "disgust": 0.117193,
+        "anger": 0.056537
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Von Miller",
+        "dbpedia_resource": "http://dbpedia.org/resource/Von_Miller"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "NFL",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.394886,
+      "mentions": [
+        {
+          "text": "NFL",
+          "location": [
+            594,
+            597
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130049,
+        "joy": 0.202522,
+        "fear": 0.043809,
+        "disgust": 0.11996,
+        "anger": 0.160968
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "National Football League",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Football_League"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Super Bowl",
+      "relevance": 0.956261,
+      "dbpedia_resource": "http://dbpedia.org/resource/Super_Bowl"
+    },
+    {
+      "text": "National Football League",
+      "relevance": 0.767005,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Football_League"
+    },
+    {
+      "text": "Tom Brady",
+      "relevance": 0.721756,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tom_Brady"
+    },
+    {
+      "text": "Green Bay Packers",
+      "relevance": 0.693923,
+      "dbpedia_resource": "http://dbpedia.org/resource/Green_Bay_Packers"
+    },
+    {
+      "text": "Kansas City Chiefs",
+      "relevance": 0.666215,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kansas_City_Chiefs"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.835442,
+      "label": "/sports/football"
+    }
+  ]
+}

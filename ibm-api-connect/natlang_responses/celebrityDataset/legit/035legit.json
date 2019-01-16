@@ -1,0 +1,358 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2431,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.303843,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.731837,
+        "label": "negative"
+      },
+      "relevance": 0.756394,
+      "emotion": {
+        "sadness": 0.251249,
+        "joy": 0.648057,
+        "fear": 0.005923,
+        "disgust": 0.012646,
+        "anger": 0.120221
+      },
+      "count": 4
+    },
+    {
+      "text": "double date",
+      "sentiment": {
+        "score": -0.709862,
+        "label": "negative"
+      },
+      "relevance": 0.689824,
+      "emotion": {
+        "sadness": 0.636144,
+        "joy": 0.168635,
+        "fear": 0.144134,
+        "disgust": 0.048336,
+        "anger": 0.035235
+      },
+      "count": 3
+    },
+    {
+      "text": "false reports",
+      "sentiment": {
+        "score": 0.631405,
+        "label": "positive"
+      },
+      "relevance": 0.631835,
+      "emotion": {
+        "sadness": 0.036488,
+        "joy": 0.89096,
+        "fear": 0.015129,
+        "disgust": 0.044172,
+        "anger": 0.031869
+      },
+      "count": 1
+    },
+    {
+      "text": "bestfriend Jennifer Aniston",
+      "sentiment": {
+        "score": 0.610863,
+        "label": "positive"
+      },
+      "relevance": 0.629785,
+      "emotion": {
+        "sadness": 0.360131,
+        "joy": 0.184832,
+        "fear": 0.168094,
+        "disgust": 0.087218,
+        "anger": 0.062735
+      },
+      "count": 1
+    },
+    {
+      "text": "Horrible Bosses",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.595478,
+      "emotion": {
+        "sadness": 0.229564,
+        "joy": 0.673493,
+        "fear": 0.010715,
+        "disgust": 0.005734,
+        "anger": 0.121068
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.347454,
+        "label": "negative"
+      },
+      "relevance": 0.771131,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            167,
+            172
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            1128,
+            1133
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            1577,
+            1582
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            2045,
+            2050
+          ]
+        },
+        {
+          "text": "Gomez",
+          "location": [
+            2134,
+            2139
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.634626,
+        "joy": 0.499634,
+        "fear": 0.095585,
+        "disgust": 0.065245,
+        "anger": 0.154502
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.356876,
+        "label": "positive"
+      },
+      "relevance": 0.42521,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            60,
+            76
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            94,
+            97
+          ]
+        },
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            177,
+            193
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            1462,
+            1469
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292234,
+        "joy": 0.319762,
+        "fear": 0.110437,
+        "disgust": 0.089191,
+        "anger": 0.075065
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.729617,
+        "label": "negative"
+      },
+      "relevance": 0.261243,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            434,
+            447
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    },
+    {
+      "type": "Movie",
+      "text": "Same Old Love",
+      "sentiment": {
+        "score": 0.213628,
+        "label": "positive"
+      },
+      "relevance": 0.24413,
+      "mentions": [
+        {
+          "text": "Same Old Love",
+          "location": [
+            2071,
+            2084
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.043901,
+        "joy": 0.925519,
+        "fear": 0.005008,
+        "disgust": 0.006538,
+        "anger": 0.008178
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin Theroux",
+      "sentiment": {
+        "score": 0.663558,
+        "label": "positive"
+      },
+      "relevance": 0.225422,
+      "mentions": [
+        {
+          "text": "Justin Theroux",
+          "location": [
+            1374,
+            1388
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Justin Theroux",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Theroux"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.968453,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.785619,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Source",
+      "relevance": 0.641847,
+      "dbpedia_resource": "http://dbpedia.org/resource/Source"
+    },
+    {
+      "text": "Report",
+      "relevance": 0.630237,
+      "dbpedia_resource": "http://dbpedia.org/resource/Report"
+    },
+    {
+      "text": "American people of Italian descent",
+      "relevance": 0.566689,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_people_of_Italian_descent"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.727319,
+      "label": "/society/dating"
+    }
+  ]
+}

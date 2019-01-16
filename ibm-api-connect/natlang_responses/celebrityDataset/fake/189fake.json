@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 46,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.320331,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Elsa",
+      "sentiment": {
+        "score": -0.320331,
+        "label": "negative"
+      },
+      "relevance": 0.919812,
+      "emotion": {
+        "sadness": 0.49479,
+        "joy": 0.01626,
+        "fear": 0.11325,
+        "disgust": 0.115329,
+        "anger": 0.493669
+      },
+      "count": 1
+    },
+    {
+      "text": "Chris",
+      "sentiment": {
+        "score": -0.320331,
+        "label": "negative"
+      },
+      "relevance": 0.716157,
+      "emotion": {
+        "sadness": 0.49479,
+        "joy": 0.01626,
+        "fear": 0.11325,
+        "disgust": 0.115329,
+        "anger": 0.493669
+      },
+      "count": 1
+    },
+    {
+      "text": "Charlize",
+      "sentiment": {
+        "score": -0.320331,
+        "label": "negative"
+      },
+      "relevance": 0.326238,
+      "emotion": {
+        "sadness": 0.49479,
+        "joy": 0.01626,
+        "fear": 0.11325,
+        "disgust": 0.115329,
+        "anger": 0.493669
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chris",
+          "location": [
+            16,
+            21
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Robot Chicken",
+      "relevance": 0.867663,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robot_Chicken"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.613279,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 82,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.542027,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez Thinks Justin Bieber",
+      "sentiment": {
+        "score": 0.542027,
+        "label": "positive"
+      },
+      "relevance": 0.995336,
+      "emotion": {
+        "sadness": 0.040644,
+        "joy": 0.819621,
+        "fear": 0.033686,
+        "disgust": 0.062649,
+        "anger": 0.047929
+      },
+      "count": 1
+    },
+    {
+      "text": "Soft Lips",
+      "sentiment": {
+        "score": 0.542027,
+        "label": "positive"
+      },
+      "relevance": 0.119731,
+      "emotion": {
+        "sadness": 0.040644,
+        "joy": 0.819621,
+        "fear": 0.033686,
+        "disgust": 0.062649,
+        "anger": 0.047929
+      },
+      "count": 1
+    },
+    {
+      "text": "Best Kisser",
+      "sentiment": {
+        "score": 0.542027,
+        "label": "positive"
+      },
+      "relevance": 0.033303,
+      "emotion": {
+        "sadness": 0.040644,
+        "joy": 0.819621,
+        "fear": 0.033686,
+        "disgust": 0.062649,
+        "anger": 0.047929
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.282683,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201616,
+        "joy": 0.30629,
+        "fear": 0.137607,
+        "disgust": 0.239789,
+        "anger": 0.097228
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": 0.113133,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            20,
+            33
+          ]
+        },
+        {
+          "text": "Him",
+          "location": [
+            54,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.015082,
+        "joy": 0.918092,
+        "fear": 0.013988,
+        "disgust": 0.011129,
+        "anger": 0.030575
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.580045,
+      "label": "/society/dating"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 665,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.538755,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good vibes",
+      "sentiment": {
+        "score": 0.977047,
+        "label": "positive"
+      },
+      "relevance": 0.957753,
+      "emotion": {
+        "sadness": 0.019105,
+        "joy": 0.875023,
+        "fear": 0.064692,
+        "disgust": 0.01834,
+        "anger": 0.012254
+      },
+      "count": 1
+    },
+    {
+      "text": "John Wall",
+      "sentiment": {
+        "score": 0.898626,
+        "label": "positive"
+      },
+      "relevance": 0.860918,
+      "emotion": {
+        "sadness": 0.305299,
+        "joy": 0.460959,
+        "fear": 0.216098,
+        "disgust": 0.049673,
+        "anger": 0.05827
+      },
+      "count": 2
+    },
+    {
+      "text": "career-best shooting start",
+      "sentiment": {
+        "score": 0.977047,
+        "label": "positive"
+      },
+      "relevance": 0.812227,
+      "emotion": {
+        "sadness": 0.019105,
+        "joy": 0.875023,
+        "fear": 0.064692,
+        "disgust": 0.01834,
+        "anger": 0.012254
+      },
+      "count": 1
+    },
+    {
+      "text": "Wall's performance",
+      "sentiment": {
+        "score": 0.977047,
+        "label": "positive"
+      },
+      "relevance": 0.68532,
+      "emotion": {
+        "sadness": 0.019105,
+        "joy": 0.875023,
+        "fear": 0.064692,
+        "disgust": 0.01834,
+        "anger": 0.012254
+      },
+      "count": 1
+    },
+    {
+      "text": "Washington Wizards",
+      "sentiment": {
+        "score": 0.977047,
+        "label": "positive"
+      },
+      "relevance": 0.671669,
+      "emotion": {
+        "sadness": 0.042182,
+        "joy": 0.857771,
+        "fear": 0.078326,
+        "disgust": 0.019787,
+        "anger": 0.010584
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "John Wall",
+      "sentiment": {
+        "score": 0.441508,
+        "label": "positive"
+      },
+      "relevance": 0.889695,
+      "mentions": [
+        {
+          "text": "John Wall",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "John Wall",
+          "location": [
+            192,
+            201
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            219,
+            221
+          ]
+        },
+        {
+          "text": "Wall",
+          "location": [
+            375,
+            379
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.51619,
+        "joy": 0.319747,
+        "fear": 0.229811,
+        "disgust": 0.054794,
+        "anger": 0.008134
+      },
+      "disambiguation": {
+        "subtype": [
+          "BasketballPlayer"
+        ],
+        "name": "John Wall (basketball)",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Wall_(basketball)"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Washington Wizards",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.564377,
+      "mentions": [
+        {
+          "text": "Washington Wizards",
+          "location": [
+            110,
+            128
+          ]
+        },
+        {
+          "text": "Washington Wizards",
+          "location": [
+            483,
+            501
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.313694,
+        "joy": 0.447787,
+        "fear": 0.132874,
+        "disgust": 0.05839,
+        "anger": 0.040617
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Washington Wizards",
+        "dbpedia_resource": "http://dbpedia.org/resource/Washington_Wizards"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Wizards",
+      "sentiment": {
+        "score": 0.768399,
+        "label": "positive"
+      },
+      "relevance": 0.342722,
+      "mentions": [
+        {
+          "text": "Wizards",
+          "location": [
+            34,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15272,
+        "joy": 0.506223,
+        "fear": 0.167006,
+        "disgust": 0.142882,
+        "anger": 0.104576
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Cleveland Cavaliers",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.283973,
+      "mentions": [
+        {
+          "text": "Cleveland Cavaliers",
+          "location": [
+            524,
+            543
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.047796,
+        "joy": 0.827377,
+        "fear": 0.026489,
+        "disgust": 0.03038,
+        "anger": 0.039732
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Cleveland Cavaliers",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleveland_Cavaliers"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cleveland",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.266012,
+      "mentions": [
+        {
+          "text": "Cleveland",
+          "location": [
+            51,
+            60
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10973,
+        "joy": 0.410131,
+        "fear": 0.079713,
+        "disgust": 0.024314,
+        "anger": 0.079452
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Cleveland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleveland"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.958945,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Cleveland Cavaliers",
+      "relevance": 0.69857,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cleveland_Cavaliers"
+    },
+    {
+      "text": "Akron, Ohio",
+      "relevance": 0.637963,
+      "dbpedia_resource": "http://dbpedia.org/resource/Akron,_Ohio"
+    },
+    {
+      "text": "Paracetamol",
+      "relevance": 0.62258,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paracetamol"
+    },
+    {
+      "text": "National Basketball Association",
+      "relevance": 0.608915,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Basketball_Association"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.768045,
+      "label": "/sports/basketball"
+    }
+  ]
+}

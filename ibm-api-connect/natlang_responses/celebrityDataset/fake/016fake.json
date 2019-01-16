@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Tries",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.719481,
+      "emotion": {
+        "sadness": 0.330921,
+        "joy": 0.048755,
+        "fear": 0.124917,
+        "disgust": 0.286173,
+        "anger": 0.519928
+      },
+      "count": 1
+    },
+    {
+      "text": "Steal Beyonce's Baby Spotlight",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.280519,
+      "emotion": {
+        "sadness": 0.330921,
+        "joy": 0.048755,
+        "fear": 0.124917,
+        "disgust": 0.286173,
+        "anger": 0.519928
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": -0.545813,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            29,
+            36
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim",
+      "sentiment": {
+        "score": -0.545812,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim",
+          "location": [
+            10,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.25163,
+        "joy": 0.162572,
+        "fear": 0.09107,
+        "disgust": 0.330209,
+        "anger": 0.349854
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Hudson",
+      "relevance": 0.841521,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Hudson"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.650915,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.821119,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

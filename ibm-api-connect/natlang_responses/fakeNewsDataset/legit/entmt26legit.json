@@ -1,0 +1,343 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 778,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.434263,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Katy Perry",
+      "sentiment": {
+        "score": 0.936337,
+        "label": "positive"
+      },
+      "relevance": 0.880985,
+      "emotion": {
+        "sadness": 0.770125,
+        "joy": 0.051854,
+        "fear": 0.106399,
+        "disgust": 0.146762,
+        "anger": 0.153042
+      },
+      "count": 1
+    },
+    {
+      "text": "further honor Bell  Perry",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703049,
+      "emotion": {
+        "sadness": 0.056751,
+        "joy": 0.571199,
+        "fear": 0.004204,
+        "disgust": 0.051675,
+        "anger": 0.046587
+      },
+      "count": 1
+    },
+    {
+      "text": "18-year-old superfan",
+      "sentiment": {
+        "score": -0.887388,
+        "label": "negative"
+      },
+      "relevance": 0.646521,
+      "emotion": {
+        "sadness": 0.713693,
+        "joy": 0.070862,
+        "fear": 0.178128,
+        "disgust": 0.123593,
+        "anger": 0.096417
+      },
+      "count": 1
+    },
+    {
+      "text": "special tribute",
+      "sentiment": {
+        "score": -0.857019,
+        "label": "negative"
+      },
+      "relevance": 0.628166,
+      "emotion": {
+        "sadness": 0.713693,
+        "joy": 0.070862,
+        "fear": 0.178128,
+        "disgust": 0.123593,
+        "anger": 0.096417
+      },
+      "count": 1
+    },
+    {
+      "text": "News of Bell",
+      "sentiment": {
+        "score": -0.595463,
+        "label": "negative"
+      },
+      "relevance": 0.616888,
+      "emotion": {
+        "sadness": 0.446842,
+        "joy": 0.274741,
+        "fear": 0.054886,
+        "disgust": 0.374944,
+        "anger": 0.05175
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Katy Perry",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.873958,
+      "mentions": [
+        {
+          "text": "Katy Perry",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Katy Perry",
+          "location": [
+            58,
+            68
+          ]
+        },
+        {
+          "text": "Perry",
+          "location": [
+            415,
+            420
+          ]
+        },
+        {
+          "text": "Perry",
+          "location": [
+            618,
+            623
+          ]
+        },
+        {
+          "text": "Perry",
+          "location": [
+            663,
+            668
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            669,
+            676
+          ]
+        },
+        {
+          "text": "Bell  Perry",
+          "location": [
+            707,
+            718
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.574942,
+        "joy": 0.532854,
+        "fear": 0.089584,
+        "disgust": 0.478889,
+        "anger": 0.106089
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Katy Perry",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katy_Perry"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Katie Bell",
+      "sentiment": {
+        "score": -0.738472,
+        "label": "negative"
+      },
+      "relevance": 0.598632,
+      "mentions": [
+        {
+          "text": "Katie Bell",
+          "location": [
+            222,
+            232
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            261,
+            264
+          ]
+        },
+        {
+          "text": "Katie",
+          "location": [
+            474,
+            479
+          ]
+        },
+        {
+          "text": "Bell",
+          "location": [
+            517,
+            521
+          ]
+        },
+        {
+          "text": "Bell",
+          "location": [
+            553,
+            557
+          ]
+        },
+        {
+          "text": "Bell",
+          "location": [
+            762,
+            766
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.329027,
+        "joy": 0.124843,
+        "fear": 0.34715,
+        "disgust": 0.124302,
+        "anger": 0.296422
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Katie Bell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Bell"
+      },
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "Shreveport Louisiana",
+      "sentiment": {
+        "score": -0.738472,
+        "label": "negative"
+      },
+      "relevance": 0.169269,
+      "mentions": [
+        {
+          "text": "Shreveport  Louisiana",
+          "location": [
+            187,
+            208
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.537097,
+        "joy": 0.017899,
+        "fear": 0.463569,
+        "disgust": 0.083332,
+        "anger": 0.199575
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.738472,
+        "label": "negative"
+      },
+      "relevance": 0.152733,
+      "mentions": [
+        {
+          "text": "#RIPKatycatKatie",
+          "location": [
+            598,
+            614
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.474955,
+        "joy": 0.138778,
+        "fear": 0.23554,
+        "disgust": 0.101987,
+        "anger": 0.227673
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Automobile",
+      "relevance": 0.964137,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automobile"
+    },
+    {
+      "text": "Brazil",
+      "relevance": 0.737385,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+      "text": "Twitter",
+      "relevance": 0.718847,
+      "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+    },
+    {
+      "text": "Vehicle",
+      "relevance": 0.692678,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vehicle"
+    },
+    {
+      "text": "Tram accident",
+      "relevance": 0.678699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tram_accident"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.683375,
+      "label": "/automotive and vehicles/cars/car culture"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 712,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.718137,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "momager Kris Jenner",
+      "sentiment": {
+        "score": -0.689174,
+        "label": "negative"
+      },
+      "relevance": 0.965628,
+      "emotion": {
+        "sadness": 0.141592,
+        "joy": 0.278731,
+        "fear": 0.102903,
+        "disgust": 0.025474,
+        "anger": 0.322926
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall Jenner Wants",
+      "sentiment": {
+        "score": -0.719791,
+        "label": "negative"
+      },
+      "relevance": 0.887721,
+      "emotion": {
+        "sadness": 0.176118,
+        "joy": 0.177206,
+        "fear": 0.078283,
+        "disgust": 0.109739,
+        "anger": 0.128773
+      },
+      "count": 1
+    },
+    {
+      "text": "18-year-old model",
+      "sentiment": {
+        "score": -0.527219,
+        "label": "negative"
+      },
+      "relevance": 0.646285,
+      "emotion": {
+        "sadness": 0.174327,
+        "joy": 0.394425,
+        "fear": 0.027476,
+        "disgust": 0.181829,
+        "anger": 0.131922
+      },
+      "count": 1
+    },
+    {
+      "text": "Touch",
+      "sentiment": {
+        "score": -0.527219,
+        "label": "negative"
+      },
+      "relevance": 0.586822,
+      "emotion": {
+        "sadness": 0.228313,
+        "joy": 0.407751,
+        "fear": 0.03832,
+        "disgust": 0.050873,
+        "anger": 0.2871
+      },
+      "count": 2
+    },
+    {
+      "text": "Touch of the model",
+      "sentiment": {
+        "score": -0.887215,
+        "label": "negative"
+      },
+      "relevance": 0.576093,
+      "emotion": {
+        "sadness": 0.332105,
+        "joy": 0.252644,
+        "fear": 0.083802,
+        "disgust": 0.062724,
+        "anger": 0.186297
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.414123,
+        "label": "positive"
+      },
+      "relevance": 0.885368,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            60,
+            74
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            432,
+            439
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            683,
+            690
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153469,
+        "joy": 0.667585,
+        "fear": 0.023871,
+        "disgust": 0.081144,
+        "anger": 0.124766
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.801819,
+        "label": "positive"
+      },
+      "relevance": 0.575111,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            532,
+            543
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            579,
+            582
+          ]
+        },
+        {
+          "text": "Kris",
+          "location": [
+            644,
+            648
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142846,
+        "joy": 0.413994,
+        "fear": 0.072344,
+        "disgust": 0.201161,
+        "anger": 0.225331
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kendall",
+      "sentiment": {
+        "score": 0.45371,
+        "label": "positive"
+      },
+      "relevance": 0.291673,
+      "mentions": [
+        {
+          "text": "a model",
+          "location": [
+            453,
+            460
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.260076,
+        "joy": 0.597276,
+        "fear": 0.03074,
+        "disgust": 0.04188,
+        "anger": 0.055776
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Kardashian",
+      "sentiment": {
+        "score": 0.801819,
+        "label": "positive"
+      },
+      "relevance": 0.171696,
+      "mentions": [
+        {
+          "text": "Kardashian",
+          "location": [
+            371,
+            381
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112898,
+        "joy": 0.506216,
+        "fear": 0.065754,
+        "disgust": 0.220696,
+        "anger": 0.204515
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kardashian",
+      "sentiment": {
+        "score": -0.533893,
+        "label": "negative"
+      },
+      "relevance": 0.151638,
+      "mentions": [
+        {
+          "text": "18-year",
+          "location": [
+            161,
+            168
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112898,
+        "joy": 0.506216,
+        "fear": 0.065754,
+        "disgust": 0.220696,
+        "anger": 0.204515
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.971715,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.866948,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.837254,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.824962,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.810646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.629254,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

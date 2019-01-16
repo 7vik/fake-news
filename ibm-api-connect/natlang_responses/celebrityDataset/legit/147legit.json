@@ -1,0 +1,170 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 75,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.779265,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Barack Obama's sweet surprise",
+      "sentiment": {
+        "score": 0.779265,
+        "label": "positive"
+      },
+      "relevance": 0.986007,
+      "emotion": {
+        "sadness": 0.057786,
+        "joy": 0.852781,
+        "fear": 0.018528,
+        "disgust": 0.061818,
+        "anger": 0.009503
+      },
+      "count": 1
+    },
+    {
+      "text": "Michelle",
+      "sentiment": {
+        "score": 0.779265,
+        "label": "positive"
+      },
+      "relevance": 0.610963,
+      "emotion": {
+        "sadness": 0.057786,
+        "joy": 0.852781,
+        "fear": 0.018528,
+        "disgust": 0.061818,
+        "anger": 0.009503
+      },
+      "count": 1
+    },
+    {
+      "text": "25th anniversary",
+      "sentiment": {
+        "score": 0.779265,
+        "label": "positive"
+      },
+      "relevance": 0.241055,
+      "emotion": {
+        "sadness": 0.057786,
+        "joy": 0.852781,
+        "fear": 0.018528,
+        "disgust": 0.061818,
+        "anger": 0.009503
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Barack Obama",
+      "sentiment": {
+        "score": 0.928892,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Barack Obama",
+          "location": [
+            6,
+            18
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Michelle",
+      "sentiment": {
+        "score": 0.928892,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Michelle",
+          "location": [
+            40,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.057786,
+        "joy": 0.852781,
+        "fear": 0.018528,
+        "disgust": 0.061818,
+        "anger": 0.009503
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Michel'le",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michel'le"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.956782,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Michelle Obama",
+      "relevance": 0.87461,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+      "text": "2008 Democratic National Convention",
+      "relevance": 0.818003,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Democratic_National_Convention"
+    },
+    {
+      "text": "Harvard Law School",
+      "relevance": 0.786142,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harvard_Law_School"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.734346,
+      "label": "/food and drink/desserts and baking"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 892,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.832376,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "British schools",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.728921,
+      "emotion": {
+        "sadness": 0.091511,
+        "joy": 0.471814,
+        "fear": 0.177174,
+        "disgust": 0.057069,
+        "anger": 0.270709
+      },
+      "count": 1
+    },
+    {
+      "text": "free food",
+      "sentiment": {
+        "score": -0.902871,
+        "label": "negative"
+      },
+      "relevance": 0.701037,
+      "emotion": {
+        "sadness": 0.192988,
+        "joy": 0.139786,
+        "fear": 0.288652,
+        "disgust": 0.357289,
+        "anger": 0.053706
+      },
+      "count": 1
+    },
+    {
+      "text": "challenge  executives",
+      "sentiment": {
+        "score": -0.685767,
+        "label": "negative"
+      },
+      "relevance": 0.669013,
+      "emotion": {
+        "sadness": 0.082088,
+        "joy": 0.1796,
+        "fear": 0.042022,
+        "disgust": 0.032774,
+        "anger": 0.163665
+      },
+      "count": 1
+    },
+    {
+      "text": "low-skilled labor",
+      "sentiment": {
+        "score": -0.882409,
+        "label": "negative"
+      },
+      "relevance": 0.626309,
+      "emotion": {
+        "sadness": 0.549301,
+        "joy": 0.142323,
+        "fear": 0.279377,
+        "disgust": 0.194664,
+        "anger": 0.043022
+      },
+      "count": 1
+    },
+    {
+      "text": "company statement",
+      "sentiment": {
+        "score": -0.685767,
+        "label": "negative"
+      },
+      "relevance": 0.622539,
+      "emotion": {
+        "sadness": 0.082088,
+        "joy": 0.1796,
+        "fear": 0.042022,
+        "disgust": 0.032774,
+        "anger": 0.163665
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "U.K.",
+      "sentiment": {
+        "score": -0.48408,
+        "label": "negative"
+      },
+      "relevance": 0.593159,
+      "mentions": [
+        {
+          "text": "U.K.",
+          "location": [
+            133,
+            137
+          ]
+        },
+        {
+          "text": "U.K.",
+          "location": [
+            572,
+            576
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.468745,
+        "joy": 0.169226,
+        "fear": 0.265404,
+        "disgust": 0.270328,
+        "anger": 0.036793
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "EU",
+      "sentiment": {
+        "score": -0.534056,
+        "label": "negative"
+      },
+      "relevance": 0.510957,
+      "mentions": [
+        {
+          "text": "EU",
+          "location": [
+            700,
+            702
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.549301,
+        "joy": 0.142323,
+        "fear": 0.279377,
+        "disgust": 0.194664,
+        "anger": 0.043022
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "England",
+      "sentiment": {
+        "score": -0.534056,
+        "label": "negative"
+      },
+      "relevance": 0.478732,
+      "mentions": [
+        {
+          "text": "England",
+          "location": [
+            731,
+            738
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.549301,
+        "joy": 0.142323,
+        "fear": 0.279377,
+        "disgust": 0.194664,
+        "anger": 0.043022
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "England",
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Customer",
+      "relevance": 0.876675,
+      "dbpedia_resource": "http://dbpedia.org/resource/Customer"
+    },
+    {
+      "text": "Food",
+      "relevance": 0.843496,
+      "dbpedia_resource": "http://dbpedia.org/resource/Food"
+    },
+    {
+      "text": "English language",
+      "relevance": 0.818548,
+      "dbpedia_resource": "http://dbpedia.org/resource/English_language"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.806075,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Customer service",
+      "relevance": 0.750686,
+      "dbpedia_resource": "http://dbpedia.org/resource/Customer_service"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.993993,
+      "label": "/business and industrial/hospitality industry"
+    }
+  ]
+}

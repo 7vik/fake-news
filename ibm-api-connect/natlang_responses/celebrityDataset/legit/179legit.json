@@ -1,0 +1,127 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jim Carrey",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.987251,
+      "emotion": {
+        "sadness": 0.575765,
+        "joy": 0.299565,
+        "fear": 0.009165,
+        "disgust": 0.092309,
+        "anger": 0.066386
+      },
+      "count": 1
+    },
+    {
+      "text": "River of Sorrow",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.147665,
+      "emotion": {
+        "sadness": 0.575765,
+        "joy": 0.299565,
+        "fear": 0.009165,
+        "disgust": 0.092309,
+        "anger": 0.066386
+      },
+      "count": 1
+    },
+    {
+      "text": "Emotional Stage Appearance",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.069369,
+      "emotion": {
+        "sadness": 0.575765,
+        "joy": 0.299565,
+        "fear": 0.009165,
+        "disgust": 0.092309,
+        "anger": 0.066386
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jim Carrey",
+      "sentiment": {
+        "score": -0.448814,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jim Carrey",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            16,
+            18
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.593442,
+        "joy": 0.168486,
+        "fear": 0.016759,
+        "disgust": 0.069813,
+        "anger": 0.244544
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Jim Carrey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jim_Carrey"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jim Carrey",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jim_Carrey"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.735949,
+      "label": "/travel/transports"
+    }
+  ]
+}

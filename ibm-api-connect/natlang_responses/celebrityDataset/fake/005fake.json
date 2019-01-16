@@ -1,0 +1,226 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999955,
+      "emotion": {
+        "sadness": 0.259505,
+        "joy": 0.043153,
+        "fear": 0.149607,
+        "disgust": 0.492213,
+        "anger": 0.27569
+      },
+      "count": 1
+    },
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.983558,
+      "emotion": {
+        "sadness": 0.259505,
+        "joy": 0.043153,
+        "fear": 0.149607,
+        "disgust": 0.492213,
+        "anger": 0.27569
+      },
+      "count": 1
+    },
+    {
+      "text": "Report",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.572503,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    },
+    {
+      "text": "Matt LeBlanc",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.180451,
+      "emotion": {
+        "sadness": 0.259505,
+        "joy": 0.043153,
+        "fear": 0.149607,
+        "disgust": 0.492213,
+        "anger": 0.27569
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.629271,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.282259,
+        "joy": 0.062785,
+        "fear": 0.145313,
+        "disgust": 0.48485,
+        "anger": 0.249595
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": -0.629271,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            28,
+            37
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.282259,
+        "joy": 0.062785,
+        "fear": 0.145313,
+        "disgust": 0.48485,
+        "anger": 0.249595
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Matt LeBlanc",
+      "sentiment": {
+        "score": -0.629271,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Matt LeBlanc",
+          "location": [
+            43,
+            55
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.282259,
+        "joy": 0.062785,
+        "fear": 0.145313,
+        "disgust": 0.48485,
+        "anger": 0.249595
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Matt LeBlanc",
+        "dbpedia_resource": "http://dbpedia.org/resource/Matt_LeBlanc"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.9867,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.824519,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.730888,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.728213,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.718467,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.712485,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.577133,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jake Gyllenhaal",
+      "sentiment": {
+        "score": -0.577133,
+        "label": "negative"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.145345,
+        "joy": 0.091244,
+        "fear": 0.030543,
+        "disgust": 0.210284,
+        "anger": 0.118313
+      },
+      "count": 1
+    },
+    {
+      "text": "Taylor Swift Questions",
+      "sentiment": {
+        "score": -0.577133,
+        "label": "negative"
+      },
+      "relevance": 0.025456,
+      "emotion": {
+        "sadness": 0.145345,
+        "joy": 0.091244,
+        "fear": 0.030543,
+        "disgust": 0.210284,
+        "anger": 0.118313
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jake Gyllenhaal",
+      "sentiment": {
+        "score": -0.749459,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jake Gyllenhaal",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.145345,
+        "joy": 0.091244,
+        "fear": 0.030543,
+        "disgust": 0.210284,
+        "anger": 0.118313
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Jake Gyllenhaal",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jake Gyllenhaal",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+    },
+    {
+      "text": "Stephen Gyllenhaal",
+      "relevance": 0.718522,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stephen_Gyllenhaal"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.711258,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Gyllenhaal family",
+      "relevance": 0.699223,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gyllenhaal_family"
+    },
+    {
+      "text": "Leonard Gyllenhaal",
+      "relevance": 0.687631,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonard_Gyllenhaal"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.550085,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

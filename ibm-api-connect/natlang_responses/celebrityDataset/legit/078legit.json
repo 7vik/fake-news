@@ -1,0 +1,183 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.603224,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.899215,
+        "label": "positive"
+      },
+      "relevance": 0.999955,
+      "emotion": {
+        "sadness": 0.146398,
+        "joy": 0.689044,
+        "fear": 0.032278,
+        "disgust": 0.089558,
+        "anger": 0.046417
+      },
+      "count": 1
+    },
+    {
+      "text": "Portia de Rossi Host",
+      "sentiment": {
+        "score": 0.899215,
+        "label": "positive"
+      },
+      "relevance": 0.859094,
+      "emotion": {
+        "sadness": 0.146398,
+        "joy": 0.689044,
+        "fear": 0.032278,
+        "disgust": 0.089558,
+        "anger": 0.046417
+      },
+      "count": 1
+    },
+    {
+      "text": "SPOT",
+      "sentiment": {
+        "score": 0.899215,
+        "label": "positive"
+      },
+      "relevance": 0.572503,
+      "emotion": {
+        "sadness": 0.146398,
+        "joy": 0.689044,
+        "fear": 0.032278,
+        "disgust": 0.089558,
+        "anger": 0.046417
+      },
+      "count": 1
+    },
+    {
+      "text": "Fundraiser",
+      "sentiment": {
+        "score": -0.421376,
+        "label": "negative"
+      },
+      "relevance": 0.572503,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.903471,
+        "label": "positive"
+      },
+      "relevance": 0.965785,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172276,
+        "joy": 0.660427,
+        "fear": 0.032994,
+        "disgust": 0.089435,
+        "anger": 0.042799
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Portia de Rossi",
+      "sentiment": {
+        "score": 0.903471,
+        "label": "positive"
+      },
+      "relevance": 0.947707,
+      "mentions": [
+        {
+          "text": "Portia de Rossi",
+          "location": [
+            20,
+            35
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172276,
+        "joy": 0.660427,
+        "fear": 0.032994,
+        "disgust": 0.089435,
+        "anger": 0.042799
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "DietFollower",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Portia de Rossi",
+        "dbpedia_resource": "http://dbpedia.org/resource/Portia_de_Rossi"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.988619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    },
+    {
+      "text": "Portia de Rossi",
+      "relevance": 0.957352,
+      "dbpedia_resource": "http://dbpedia.org/resource/Portia_de_Rossi"
+    },
+    {
+      "text": "Lesbian actors",
+      "relevance": 0.517848,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lesbian_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.595366,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

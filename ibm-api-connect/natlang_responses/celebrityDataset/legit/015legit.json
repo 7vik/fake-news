@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 548,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.647665,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "reports",
+      "sentiment": {
+        "score": -0.902706,
+        "label": "negative"
+      },
+      "relevance": 0.87923,
+      "emotion": {
+        "sadness": 0.301386,
+        "joy": 0.244269,
+        "fear": 0.037204,
+        "disgust": 0.18685,
+        "anger": 0.136281
+      },
+      "count": 2
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.797339,
+        "label": "negative"
+      },
+      "relevance": 0.848098,
+      "emotion": {
+        "sadness": 0.296078,
+        "joy": 0.237651,
+        "fear": 0.030462,
+        "disgust": 0.353216,
+        "anger": 0.238396
+      },
+      "count": 2
+    },
+    {
+      "text": "American Idol",
+      "sentiment": {
+        "score": -0.853203,
+        "label": "negative"
+      },
+      "relevance": 0.817543,
+      "emotion": {
+        "sadness": 0.296078,
+        "joy": 0.237651,
+        "fear": 0.030462,
+        "disgust": 0.353216,
+        "anger": 0.238396
+      },
+      "count": 4
+    },
+    {
+      "text": "direct knowledge",
+      "sentiment": {
+        "score": -0.500778,
+        "label": "negative"
+      },
+      "relevance": 0.603737,
+      "emotion": {
+        "sadness": 0.210927,
+        "joy": 0.198563,
+        "fear": 0.100154,
+        "disgust": 0.013699,
+        "anger": 0.14707
+      },
+      "count": 1
+    },
+    {
+      "text": "MeKanye West",
+      "sentiment": {
+        "score": -0.902706,
+        "label": "negative"
+      },
+      "relevance": 0.593907,
+      "emotion": {
+        "sadness": 0.47117,
+        "joy": 0.104591,
+        "fear": 0.065005,
+        "disgust": 0.270756,
+        "anger": 0.237931
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.281239,
+        "label": "positive"
+      },
+      "relevance": 0.833805,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            258,
+            263
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            332,
+            337
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            407,
+            417
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.359288,
+        "joy": 0.198553,
+        "fear": 0.045478,
+        "disgust": 0.115888,
+        "anger": 0.200001
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "American Idol",
+      "sentiment": {
+        "score": -0.271656,
+        "label": "negative"
+      },
+      "relevance": 0.789302,
+      "mentions": [
+        {
+          "text": "Idol",
+          "location": [
+            25,
+            29
+          ]
+        },
+        {
+          "text": "Me",
+          "location": [
+            35,
+            37
+          ]
+        },
+        {
+          "text": "Idol",
+          "location": [
+            51,
+            55
+          ]
+        },
+        {
+          "text": "American Idol",
+          "location": [
+            146,
+            159
+          ]
+        },
+        {
+          "text": "Idol",
+          "location": [
+            436,
+            440
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246983,
+        "joy": 0.257099,
+        "fear": 0.048139,
+        "disgust": 0.33769,
+        "anger": 0.130236
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "TVSeason"
+        ],
+        "name": "American Idol",
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "NBC",
+      "sentiment": {
+        "score": -0.317848,
+        "label": "negative"
+      },
+      "relevance": 0.314454,
+      "mentions": [
+        {
+          "text": "NBC",
+          "location": [
+            101,
+            104
+          ]
+        },
+        {
+          "text": "NBC",
+          "location": [
+            207,
+            210
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.399623,
+        "joy": 0.244979,
+        "fear": 0.037529,
+        "disgust": 0.19499,
+        "anger": 0.272371
+      },
+      "count": 2
+    },
+    {
+      "type": "Broadcaster",
+      "text": "NBC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.250469,
+      "emotion": {
+        "sadness": 0.399623,
+        "joy": 0.244979,
+        "fear": 0.037529,
+        "disgust": 0.19499,
+        "anger": 0.272371
+      },
+      "disambiguation": {
+        "subtype": [
+          "TelevisionStation"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kanye West",
+      "relevance": 0.919975,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Syleena Johnson",
+      "relevance": 0.808739,
+      "dbpedia_resource": "http://dbpedia.org/resource/Syleena_Johnson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.664819,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

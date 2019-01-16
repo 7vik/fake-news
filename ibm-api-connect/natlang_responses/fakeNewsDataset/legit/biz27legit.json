@@ -1,0 +1,327 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 582,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.726248,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cheapest Brexit Option",
+      "sentiment": {
+        "score": -0.930571,
+        "label": "negative"
+      },
+      "relevance": 0.944923,
+      "emotion": {
+        "sadness": 0.164521,
+        "joy": 0.174497,
+        "fear": 0.054739,
+        "disgust": 0.103173,
+        "anger": 0.05833
+      },
+      "count": 1
+    },
+    {
+      "text": "London take note",
+      "sentiment": {
+        "score": -0.930571,
+        "label": "negative"
+      },
+      "relevance": 0.88893,
+      "emotion": {
+        "sadness": 0.149312,
+        "joy": 0.126245,
+        "fear": 0.248559,
+        "disgust": 0.063904,
+        "anger": 0.054134
+      },
+      "count": 1
+    },
+    {
+      "text": "annual cost",
+      "sentiment": {
+        "score": -0.446215,
+        "label": "negative"
+      },
+      "relevance": 0.662881,
+      "emotion": {
+        "sadness": 0.104656,
+        "joy": 0.031984,
+        "fear": 0.069732,
+        "disgust": 0.231376,
+        "anger": 0.214366
+      },
+      "count": 1
+    },
+    {
+      "text": "Frankfurt",
+      "sentiment": {
+        "score": -0.930571,
+        "label": "negative"
+      },
+      "relevance": 0.658914,
+      "emotion": {
+        "sadness": 0.097008,
+        "joy": 0.35199,
+        "fear": 0.197803,
+        "disgust": 0.026205,
+        "anger": 0.037836
+      },
+      "count": 3
+    },
+    {
+      "text": "cheapest major financial center",
+      "sentiment": {
+        "score": -0.930571,
+        "label": "negative"
+      },
+      "relevance": 0.653226,
+      "emotion": {
+        "sadness": 0.149312,
+        "joy": 0.126245,
+        "fear": 0.248559,
+        "disgust": 0.063904,
+        "anger": 0.054134
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Frankfurt",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.836968,
+      "mentions": [
+        {
+          "text": "Frankfurt",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Cheapest Brexit Option",
+          "location": [
+            13,
+            35
+          ]
+        },
+        {
+          "text": "Frankfurt",
+          "location": [
+            97,
+            106
+          ]
+        },
+        {
+          "text": "the cheapest major financial center",
+          "location": [
+            110,
+            145
+          ]
+        },
+        {
+          "text": "Frankfurt",
+          "location": [
+            411,
+            420
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15142,
+        "joy": 0.511069,
+        "fear": 0.106796,
+        "disgust": 0.054878,
+        "anger": 0.072168
+      },
+      "disambiguation": {
+        "subtype": [
+          "GermanUrbanDistrict",
+          "City"
+        ],
+        "name": "Frankfurt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Frankfurt"
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Savills Plc",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.455205,
+      "mentions": [
+        {
+          "text": "Savills Plc",
+          "location": [
+            215,
+            226
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158169,
+        "joy": 0.241378,
+        "fear": 0.10064,
+        "disgust": 0.026068,
+        "anger": 0.110009
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Savills",
+        "dbpedia_resource": "http://dbpedia.org/resource/Savills"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Goldman Sachs Group Inc.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.416359,
+      "mentions": [
+        {
+          "text": "Goldman Sachs Group Inc.",
+          "location": [
+            489,
+            513
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.107774,
+        "joy": 0.471756,
+        "fear": 0.170298,
+        "disgust": 0.02618,
+        "anger": 0.037023
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyShareholder"
+        ],
+        "name": "Goldman Sachs",
+        "dbpedia_resource": "http://dbpedia.org/resource/Goldman_Sachs"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "European Union",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.3376,
+      "mentions": [
+        {
+          "text": "European Union",
+          "location": [
+            153,
+            167
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158169,
+        "joy": 0.241378,
+        "fear": 0.10064,
+        "disgust": 0.026068,
+        "anger": 0.110009
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Paris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.301823,
+      "mentions": [
+        {
+          "text": "Paris",
+          "location": [
+            404,
+            409
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.400744,
+        "joy": 0.078241,
+        "fear": 0.236698,
+        "disgust": 0.198173,
+        "anger": 0.214698
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Paris, Illinois",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paris,_Illinois"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "European Union",
+      "relevance": 0.949124,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "London",
+      "relevance": 0.921498,
+      "dbpedia_resource": "http://dbpedia.org/resource/London"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.740063,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "Austria",
+      "relevance": 0.714961,
+      "dbpedia_resource": "http://dbpedia.org/resource/Austria"
+    },
+    {
+      "text": "Germany",
+      "relevance": 0.682591,
+      "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.917013,
+      "label": "/finance/financial news"
+    }
+  ]
+}

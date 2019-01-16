@@ -1,0 +1,305 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1010,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.545546,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": -0.467753,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.764097,
+      "emotion": {
+        "sadness": 0.129325,
+        "joy": 0.530979,
+        "fear": 0.020466,
+        "disgust": 0.07143,
+        "anger": 0.344901
+      },
+      "count": 2
+    },
+    {
+      "text": "67-year-old Jenner",
+      "sentiment": {
+        "score": 0.657911,
+        "label": "positive"
+      },
+      "relevance": 0.668652,
+      "emotion": {
+        "sadness": 0.248744,
+        "joy": 0.664024,
+        "fear": 0.065856,
+        "disgust": 0.020663,
+        "anger": 0.033084
+      },
+      "count": 1
+    },
+    {
+      "text": "First Time",
+      "sentiment": {
+        "score": 0.657911,
+        "label": "positive"
+      },
+      "relevance": 0.61186,
+      "emotion": {
+        "sadness": 0.087851,
+        "joy": 0.622708,
+        "fear": 0.016943,
+        "disgust": 0.061597,
+        "anger": 0.281565
+      },
+      "count": 1
+    },
+    {
+      "text": "passion projects",
+      "sentiment": {
+        "score": -0.837069,
+        "label": "negative"
+      },
+      "relevance": 0.573104,
+      "emotion": {
+        "sadness": 0.248744,
+        "joy": 0.664024,
+        "fear": 0.065856,
+        "disgust": 0.020663,
+        "anger": 0.033084
+      },
+      "count": 1
+    },
+    {
+      "text": "Vanity Fair\u2019 Blockbuster",
+      "sentiment": {
+        "score": 0.657911,
+        "label": "positive"
+      },
+      "relevance": 0.569713,
+      "emotion": {
+        "sadness": 0.087851,
+        "joy": 0.622708,
+        "fear": 0.016943,
+        "disgust": 0.061597,
+        "anger": 0.281565
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0.0553,
+        "label": "positive"
+      },
+      "relevance": 0.803176,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            21,
+            35
+          ]
+        },
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            107,
+            121
+          ]
+        },
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            425,
+            439
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            505,
+            508
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            536,
+            539
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            552,
+            555
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            710,
+            716
+          ]
+        },
+        {
+          "text": "Caitlyn",
+          "location": [
+            825,
+            832
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225056,
+        "joy": 0.636703,
+        "fear": 0.070481,
+        "disgust": 0.090711,
+        "anger": 0.201859
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Kendall",
+      "sentiment": {
+        "score": 0.474886,
+        "label": "positive"
+      },
+      "relevance": 0.214537,
+      "mentions": [
+        {
+          "text": "Kendall",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            257,
+            264
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123599,
+        "joy": 0.179252,
+        "fear": 0.074662,
+        "disgust": 0.06352,
+        "anger": 0.115915
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Who",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.207893,
+      "mentions": [
+        {
+          "text": "67-year",
+          "location": [
+            698,
+            705
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128639,
+        "joy": 0.169042,
+        "fear": 0.078925,
+        "disgust": 0.062135,
+        "anger": 0.112539
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "partner",
+      "sentiment": {
+        "score": 0.570784,
+        "label": "positive"
+      },
+      "relevance": 0.13572,
+      "mentions": [
+        {
+          "text": "partner",
+          "location": [
+            571,
+            578
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118861,
+        "joy": 0.676777,
+        "fear": 0.029612,
+        "disgust": 0.030613,
+        "anger": 0.182812
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kylie.",
+      "sentiment": {
+        "score": 0.296986,
+        "label": "positive"
+      },
+      "relevance": 0.123293,
+      "mentions": [
+        {
+          "text": "Kylie.",
+          "location": [
+            269,
+            275
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            333,
+            336
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Family",
+      "relevance": 0.915377,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.77526,
+      "label": "/family and parenting/adoption"
+    }
+  ]
+}

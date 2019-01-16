@@ -1,0 +1,253 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 727,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.601593,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Futuresource Consulting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.927071,
+      "emotion": {
+        "sadness": 0.192747,
+        "joy": 0.131881,
+        "fear": 0.119491,
+        "disgust": 0.088058,
+        "anger": 0.031878
+      },
+      "count": 1
+    },
+    {
+      "text": "embarrassment of drawing attention",
+      "sentiment": {
+        "score": -0.679559,
+        "label": "negative"
+      },
+      "relevance": 0.780104,
+      "emotion": {
+        "sadness": 0.690302,
+        "joy": 0.069603,
+        "fear": 0.12287,
+        "disgust": 0.172762,
+        "anger": 0.119977
+      },
+      "count": 1
+    },
+    {
+      "text": "research company",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709566,
+      "emotion": {
+        "sadness": 0.192747,
+        "joy": 0.131881,
+        "fear": 0.119491,
+        "disgust": 0.088058,
+        "anger": 0.031878
+      },
+      "count": 1
+    },
+    {
+      "text": "American child",
+      "sentiment": {
+        "score": -0.311455,
+        "label": "negative"
+      },
+      "relevance": 0.612171,
+      "emotion": {
+        "sadness": 0.397703,
+        "joy": 0.019324,
+        "fear": 0.106479,
+        "disgust": 0.471956,
+        "anger": 0.235804
+      },
+      "count": 1
+    },
+    {
+      "text": "company",
+      "sentiment": {
+        "score": -0.476608,
+        "label": "negative"
+      },
+      "relevance": 0.603387,
+      "emotion": {
+        "sadness": 0.268468,
+        "joy": 0.032356,
+        "fear": 0.075671,
+        "disgust": 0.476249,
+        "anger": 0.17192
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Apple",
+      "sentiment": {
+        "score": -0.310113,
+        "label": "negative"
+      },
+      "relevance": 0.904903,
+      "mentions": [
+        {
+          "text": "Apple",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            40,
+            45
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            66,
+            71
+          ]
+        },
+        {
+          "text": "apple",
+          "location": [
+            521,
+            526
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            668,
+            673
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.648718,
+        "joy": 0.045367,
+        "fear": 0.244622,
+        "disgust": 0.161852,
+        "anger": 0.113097
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Apple Store",
+        "dbpedia_resource": "http://dbpedia.org/resource/Apple_Store"
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Futuresource Consulting",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.258521,
+      "mentions": [
+        {
+          "text": "Futuresource Consulting",
+          "location": [
+            551,
+            574
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.189811,
+      "mentions": [
+        {
+          "text": "U.S",
+          "location": [
+            722,
+            725
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.205252,
+        "joy": 0.113927,
+        "fear": 0.127416,
+        "disgust": 0.083274,
+        "anger": 0.02661
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Operating system",
+      "relevance": 0.971718,
+      "dbpedia_resource": "http://dbpedia.org/resource/Operating_system"
+    },
+    {
+      "text": "Apple Inc.",
+      "relevance": 0.802736,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+    },
+    {
+      "text": "Mac OS X",
+      "relevance": 0.793271,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mac_OS_X"
+    },
+    {
+      "text": "Mac OS",
+      "relevance": 0.665044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mac_OS"
+    },
+    {
+      "text": "Graphical user interface",
+      "relevance": 0.603699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Graphical_user_interface"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.974634,
+      "label": "/technology and computing/operating systems"
+    }
+  ]
+}

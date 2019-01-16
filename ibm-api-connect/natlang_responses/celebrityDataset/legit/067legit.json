@@ -1,0 +1,155 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.277726,
+        "joy": 0.036138,
+        "fear": 0.176236,
+        "disgust": 0.363509,
+        "anger": 0.109452
+      },
+      "count": 1
+    },
+    {
+      "text": "drugs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659489,
+      "emotion": {
+        "sadness": 0.277726,
+        "joy": 0.036138,
+        "fear": 0.176236,
+        "disgust": 0.363509,
+        "anger": 0.109452
+      },
+      "count": 1
+    },
+    {
+      "text": "booze",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.633014,
+      "emotion": {
+        "sadness": 0.277726,
+        "joy": 0.036138,
+        "fear": 0.176236,
+        "disgust": 0.363509,
+        "anger": 0.109452
+      },
+      "count": 1
+    },
+    {
+      "text": "rehab",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.61055,
+      "emotion": {
+        "sadness": 0.277726,
+        "joy": 0.036138,
+        "fear": 0.176236,
+        "disgust": 0.363509,
+        "anger": 0.109452
+      },
+      "count": 1
+    },
+    {
+      "text": "sex",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.591658,
+      "emotion": {
+        "sadness": 0.277726,
+        "joy": 0.036138,
+        "fear": 0.176236,
+        "disgust": 0.363509,
+        "anger": 0.109452
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": -0.425656,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.493615,
+        "joy": 0.020376,
+        "fear": 0.304563,
+        "disgust": 0.182781,
+        "anger": 0.195289
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lindsay Lohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lindsay Lohan",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+    },
+    {
+      "text": "Herbie: Fully Loaded",
+      "relevance": 0.586845,
+      "dbpedia_resource": "http://dbpedia.org/resource/Herbie:_Fully_Loaded"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994095,
+      "label": "/society/sex"
+    }
+  ]
+}

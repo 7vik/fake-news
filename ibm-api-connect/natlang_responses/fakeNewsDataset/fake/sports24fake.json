@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 743,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.511635,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "range of crowd",
+      "sentiment": {
+        "score": 0.814478,
+        "label": "positive"
+      },
+      "relevance": 0.792941,
+      "emotion": {
+        "sadness": 0.279982,
+        "joy": 0.342832,
+        "fear": 0.071372,
+        "disgust": 0.082717,
+        "anger": 0.183427
+      },
+      "count": 1
+    },
+    {
+      "text": "Wasps backline",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.756476,
+      "emotion": {
+        "sadness": 0.397867,
+        "joy": 0.226173,
+        "fear": 0.216008,
+        "disgust": 0.030715,
+        "anger": 0.158206
+      },
+      "count": 1
+    },
+    {
+      "text": "head coach Dai Young",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703677,
+      "emotion": {
+        "sadness": 0.381378,
+        "joy": 0.038926,
+        "fear": 0.492824,
+        "disgust": 0.239099,
+        "anger": 0.223816
+      },
+      "count": 1
+    },
+    {
+      "text": "Dai Young",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.701267,
+      "emotion": {
+        "sadness": 0.353258,
+        "joy": 0.08123,
+        "fear": 0.423526,
+        "disgust": 0.168884,
+        "anger": 0.314248
+      },
+      "count": 1
+    },
+    {
+      "text": "Premiership leaders",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.673852,
+      "emotion": {
+        "sadness": 0.381378,
+        "joy": 0.038926,
+        "fear": 0.492824,
+        "disgust": 0.239099,
+        "anger": 0.223816
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Wasps",
+      "sentiment": {
+        "score": -0.652465,
+        "label": "negative"
+      },
+      "relevance": 0.968998,
+      "mentions": [
+        {
+          "text": "Wasps",
+          "location": [
+            16,
+            21
+          ]
+        },
+        {
+          "text": "Wasps",
+          "location": [
+            80,
+            85
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            152,
+            156
+          ]
+        },
+        {
+          "text": "Wasps",
+          "location": [
+            434,
+            439
+          ]
+        },
+        {
+          "text": "They",
+          "location": [
+            682,
+            686
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.4676,
+        "joy": 0.087403,
+        "fear": 0.284913,
+        "disgust": 0.098533,
+        "anger": 0.223684
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "ProfessionalSportsTeam",
+          "TouristAttraction"
+        ],
+        "name": "London Wasps",
+        "dbpedia_resource": "http://dbpedia.org/resource/London_Wasps"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Dai Young",
+      "sentiment": {
+        "score": -0.545971,
+        "label": "negative"
+      },
+      "relevance": 0.616545,
+      "mentions": [
+        {
+          "text": "Dai Young",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Dai Young",
+          "location": [
+            312,
+            321
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.370956,
+        "joy": 0.050897,
+        "fear": 0.422808,
+        "disgust": 0.120039,
+        "anger": 0.379364
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "RugbyPlayer"
+        ],
+        "name": "Dai Young",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dai_Young"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Danny Cipriani",
+      "sentiment": {
+        "score": 0.364768,
+        "label": "positive"
+      },
+      "relevance": 0.30054,
+      "mentions": [
+        {
+          "text": "Danny Cipriani",
+          "location": [
+            570,
+            584
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272582,
+        "joy": 0.394862,
+        "fear": 0.079663,
+        "disgust": 0.149731,
+        "anger": 0.134602
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "RugbyPlayer"
+        ],
+        "name": "Danny Cipriani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Danny_Cipriani"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Leinster",
+      "sentiment": {
+        "score": -0.278618,
+        "label": "negative"
+      },
+      "relevance": 0.264871,
+      "mentions": [
+        {
+          "text": "Leinster",
+          "location": [
+            52,
+            60
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.492476,
+        "joy": 0.05671,
+        "fear": 0.212906,
+        "disgust": 0.058221,
+        "anger": 0.092679
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Christian Wade",
+      "sentiment": {
+        "score": 0.364768,
+        "label": "positive"
+      },
+      "relevance": 0.245581,
+      "mentions": [
+        {
+          "text": "Christian Wade",
+          "location": [
+            551,
+            565
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272582,
+        "joy": 0.394862,
+        "fear": 0.079663,
+        "disgust": 0.149731,
+        "anger": 0.134602
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Christian Wade",
+        "dbpedia_resource": "http://dbpedia.org/resource/Christian_Wade"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "London Wasps",
+      "relevance": 0.969391,
+      "dbpedia_resource": "http://dbpedia.org/resource/London_Wasps"
+    },
+    {
+      "text": "Harlem Globetrotters",
+      "relevance": 0.801,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harlem_Globetrotters"
+    },
+    {
+      "text": "England Saxons",
+      "relevance": 0.783055,
+      "dbpedia_resource": "http://dbpedia.org/resource/England_Saxons"
+    },
+    {
+      "text": "Kurtley Beale",
+      "relevance": 0.770725,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kurtley_Beale"
+    },
+    {
+      "text": "Basketball",
+      "relevance": 0.76394,
+      "dbpedia_resource": "http://dbpedia.org/resource/Basketball"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.897676,
+      "label": "/sports/rugby"
+    }
+  ]
+}

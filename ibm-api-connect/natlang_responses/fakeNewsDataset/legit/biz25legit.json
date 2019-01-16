@@ -1,0 +1,309 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 981,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.668956,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "consequence of Chancellor Angela Merkel",
+      "sentiment": {
+        "score": -0.706323,
+        "label": "negative"
+      },
+      "relevance": 0.751009,
+      "emotion": {
+        "sadness": 0.559786,
+        "joy": 0.188404,
+        "fear": 0.146251,
+        "disgust": 0.043073,
+        "anger": 0.114696
+      },
+      "count": 1
+    },
+    {
+      "text": "German Power Spat",
+      "sentiment": {
+        "score": -0.769123,
+        "label": "negative"
+      },
+      "relevance": 0.730627,
+      "emotion": {
+        "sadness": 0.085814,
+        "joy": 0.374179,
+        "fear": 0.083412,
+        "disgust": 0.363086,
+        "anger": 0.17473
+      },
+      "count": 1
+    },
+    {
+      "text": "Germany cut import capacity",
+      "sentiment": {
+        "score": -0.517223,
+        "label": "negative"
+      },
+      "relevance": 0.658975,
+      "emotion": {
+        "sadness": 0.488424,
+        "joy": 0.143047,
+        "fear": 0.129184,
+        "disgust": 0.025147,
+        "anger": 0.109576
+      },
+      "count": 1
+    },
+    {
+      "text": "solar power",
+      "sentiment": {
+        "score": -0.706323,
+        "label": "negative"
+      },
+      "relevance": 0.629754,
+      "emotion": {
+        "sadness": 0.559786,
+        "joy": 0.188404,
+        "fear": 0.146251,
+        "disgust": 0.043073,
+        "anger": 0.114696
+      },
+      "count": 1
+    },
+    {
+      "text": "energy security",
+      "sentiment": {
+        "score": -0.421316,
+        "label": "negative"
+      },
+      "relevance": 0.596503,
+      "emotion": {
+        "sadness": 0.173996,
+        "joy": 0.399912,
+        "fear": 0.149891,
+        "disgust": 0.061909,
+        "anger": 0.37105
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Denmark",
+      "sentiment": {
+        "score": -0.369129,
+        "label": "negative"
+      },
+      "relevance": 0.926456,
+      "mentions": [
+        {
+          "text": "Denmark",
+          "location": [
+            23,
+            30
+          ]
+        },
+        {
+          "text": "Denmark",
+          "location": [
+            92,
+            99
+          ]
+        },
+        {
+          "text": "Denmark",
+          "location": [
+            317,
+            324
+          ]
+        },
+        {
+          "text": "Denmark",
+          "location": [
+            867,
+            874
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.576309,
+        "joy": 0.177743,
+        "fear": 0.170876,
+        "disgust": 0.085249,
+        "anger": 0.202592
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Country"
+        ],
+        "name": "Denmark",
+        "dbpedia_resource": "http://dbpedia.org/resource/Denmark"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Germany",
+      "sentiment": {
+        "score": -0.369129,
+        "label": "negative"
+      },
+      "relevance": 0.583018,
+      "mentions": [
+        {
+          "text": "Germany",
+          "location": [
+            104,
+            111
+          ]
+        },
+        {
+          "text": "Germany",
+          "location": [
+            275,
+            282
+          ]
+        },
+        {
+          "text": "Germany",
+          "location": [
+            855,
+            862
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.6876,
+        "joy": 0.091019,
+        "fear": 0.201388,
+        "disgust": 0.059445,
+        "anger": 0.148561
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "Germany",
+        "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Chancellor Angela Merkel",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.412859,
+      "mentions": [
+        {
+          "text": "Chancellor Angela Merkel",
+          "location": [
+            450,
+            474
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "AwardWinner",
+          "Chancellor"
+        ],
+        "name": "Angela Merkel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angela_Merkel"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "European Union",
+      "sentiment": {
+        "score": -0.523183,
+        "label": "negative"
+      },
+      "relevance": 0.285215,
+      "mentions": [
+        {
+          "text": "European Union",
+          "location": [
+            700,
+            714
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "European Union",
+      "relevance": 0.974624,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "Germany",
+      "relevance": 0.918393,
+      "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+    },
+    {
+      "text": "Wind power",
+      "relevance": 0.870537,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wind_power"
+    },
+    {
+      "text": "Europe",
+      "relevance": 0.653122,
+      "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+    },
+    {
+      "text": "International trade",
+      "relevance": 0.641323,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_trade"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999573,
+      "label": "/business and industrial/energy/electricity"
+    }
+  ]
+}

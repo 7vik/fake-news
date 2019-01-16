@@ -1,0 +1,355 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1095,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.638273,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "NYC apartment",
+      "sentiment": {
+        "score": 0.810607,
+        "label": "positive"
+      },
+      "relevance": 0.807889,
+      "emotion": {
+        "sadness": 0.191688,
+        "joy": 0.366856,
+        "fear": 0.047694,
+        "disgust": 0.198659,
+        "anger": 0.046328
+      },
+      "count": 1
+    },
+    {
+      "text": "1,877-square-foot home",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.697274,
+      "emotion": {
+        "sadness": 0.2517,
+        "joy": 0.212466,
+        "fear": 0.024213,
+        "disgust": 0.536567,
+        "anger": 0.078206
+      },
+      "count": 1
+    },
+    {
+      "text": "David Bowie's piano",
+      "sentiment": {
+        "score": 0.810607,
+        "label": "positive"
+      },
+      "relevance": 0.691367,
+      "emotion": {
+        "sadness": 0.209388,
+        "joy": 0.458787,
+        "fear": 0.068968,
+        "disgust": 0.112374,
+        "anger": 0.071575
+      },
+      "count": 1
+    },
+    {
+      "text": "three-bedroom",
+      "sentiment": {
+        "score": -0.394298,
+        "label": "negative"
+      },
+      "relevance": 0.683528,
+      "emotion": {
+        "sadness": 0.363219,
+        "joy": 0.29333,
+        "fear": 0.094822,
+        "disgust": 0.220498,
+        "anger": 0.169194
+      },
+      "count": 1
+    },
+    {
+      "text": "New York City apartment",
+      "sentiment": {
+        "score": 0.810607,
+        "label": "positive"
+      },
+      "relevance": 0.622264,
+      "emotion": {
+        "sadness": 0.241476,
+        "joy": 0.487115,
+        "fear": 0.131967,
+        "disgust": 0.097332,
+        "anger": 0.06385
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "David Bowie",
+      "sentiment": {
+        "score": 0.891658,
+        "label": "positive"
+      },
+      "relevance": 0.92528,
+      "mentions": [
+        {
+          "text": "David Bowie",
+          "location": [
+            24,
+            35
+          ]
+        },
+        {
+          "text": "David Bowie",
+          "location": [
+            103,
+            114
+          ]
+        },
+        {
+          "text": "yours",
+          "location": [
+            211,
+            216
+          ]
+        },
+        {
+          "text": "Bowie",
+          "location": [
+            298,
+            303
+          ]
+        },
+        {
+          "text": "Bowie",
+          "location": [
+            469,
+            474
+          ]
+        },
+        {
+          "text": "Bowie",
+          "location": [
+            622,
+            627
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241697,
+        "joy": 0.536588,
+        "fear": 0.049918,
+        "disgust": 0.080836,
+        "anger": 0.07274
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "Guitarist",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "David Bowie",
+        "dbpedia_resource": "http://dbpedia.org/resource/David_Bowie"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Iman",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.331322,
+      "mentions": [
+        {
+          "text": "Iman",
+          "location": [
+            318,
+            322
+          ]
+        },
+        {
+          "text": "Iman",
+          "location": [
+            632,
+            636
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272004,
+        "joy": 0.407585,
+        "fear": 0.043658,
+        "disgust": 0.1014,
+        "anger": 0.082511
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "Central Park",
+      "sentiment": {
+        "score": 0.891658,
+        "label": "positive"
+      },
+      "relevance": 0.316869,
+      "mentions": [
+        {
+          "text": "Central Park",
+          "location": [
+            160,
+            172
+          ]
+        },
+        {
+          "text": "Central Park",
+          "location": [
+            415,
+            427
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.230918,
+        "joy": 0.537655,
+        "fear": 0.100642,
+        "disgust": 0.111854,
+        "anger": 0.059451
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Central Park Jakarta",
+        "dbpedia_resource": "http://dbpedia.org/resource/Central_Park_Jakarta"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "NYC",
+      "sentiment": {
+        "score": 0.891658,
+        "label": "positive"
+      },
+      "relevance": 0.279986,
+      "mentions": [
+        {
+          "text": "NYC",
+          "location": [
+            0,
+            3
+          ]
+        },
+        {
+          "text": "New York City",
+          "location": [
+            178,
+            191
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.216184,
+        "joy": 0.467667,
+        "fear": 0.076046,
+        "disgust": 0.124423,
+        "anger": 0.060725
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bernice Leventhal",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.234144,
+      "mentions": [
+        {
+          "text": "Bernice Leventhal",
+          "location": [
+            834,
+            851
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.118805,
+        "joy": 0.365334,
+        "fear": 0.083594,
+        "disgust": 0.098834,
+        "anger": 0.131723
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.96032,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Manhattan",
+      "relevance": 0.616485,
+      "dbpedia_resource": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+      "text": "Central Park South",
+      "relevance": 0.558707,
+      "dbpedia_resource": "http://dbpedia.org/resource/Central_Park_South"
+    },
+    {
+      "text": "Central Park",
+      "relevance": 0.555286,
+      "dbpedia_resource": "http://dbpedia.org/resource/Central_Park"
+    },
+    {
+      "text": "David Bowie",
+      "relevance": 0.5439,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Bowie"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.997236,
+      "label": "/real estate/apartments"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 549,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.677332,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wells Fargo profits",
+      "sentiment": {
+        "score": -0.966767,
+        "label": "negative"
+      },
+      "relevance": 0.821433,
+      "emotion": {
+        "sadness": 0.139676,
+        "joy": 0.258805,
+        "fear": 0.039274,
+        "disgust": 0.093641,
+        "anger": 0.257282
+      },
+      "count": 1
+    },
+    {
+      "text": "court costs",
+      "sentiment": {
+        "score": -0.966767,
+        "label": "negative"
+      },
+      "relevance": 0.803549,
+      "emotion": {
+        "sadness": 0.191902,
+        "joy": 0.093156,
+        "fear": 0.07594,
+        "disgust": 0.327317,
+        "anger": 0.417603
+      },
+      "count": 1
+    },
+    {
+      "text": "legal costs",
+      "sentiment": {
+        "score": -0.966767,
+        "label": "negative"
+      },
+      "relevance": 0.795729,
+      "emotion": {
+        "sadness": 0.139676,
+        "joy": 0.258805,
+        "fear": 0.039274,
+        "disgust": 0.093641,
+        "anger": 0.257282
+      },
+      "count": 1
+    },
+    {
+      "text": "recent scandal",
+      "sentiment": {
+        "score": -0.966767,
+        "label": "negative"
+      },
+      "relevance": 0.762002,
+      "emotion": {
+        "sadness": 0.191902,
+        "joy": 0.093156,
+        "fear": 0.07594,
+        "disgust": 0.327317,
+        "anger": 0.417603
+      },
+      "count": 1
+    },
+    {
+      "text": "Wells Fargo bank",
+      "sentiment": {
+        "score": -0.966767,
+        "label": "negative"
+      },
+      "relevance": 0.742754,
+      "emotion": {
+        "sadness": 0.191902,
+        "joy": 0.093156,
+        "fear": 0.07594,
+        "disgust": 0.327317,
+        "anger": 0.417603
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Wells Fargo bank",
+      "sentiment": {
+        "score": -0.557527,
+        "label": "negative"
+      },
+      "relevance": 0.943312,
+      "mentions": [
+        {
+          "text": "Wells Fargo",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Wells Fargo bank",
+          "location": [
+            102,
+            118
+          ]
+        },
+        {
+          "text": "the bank",
+          "location": [
+            243,
+            251
+          ]
+        },
+        {
+          "text": "the bank",
+          "location": [
+            538,
+            546
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.108214,
+        "joy": 0.136305,
+        "fear": 0.080485,
+        "disgust": 0.368668,
+        "anger": 0.343458
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Wells Fargo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wells_Fargo"
+      },
+      "count": 4
+    },
+    {
+      "type": "Quantity",
+      "text": "2%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.943312,
+      "mentions": [
+        {
+          "text": "2%",
+          "location": [
+            192,
+            194
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Wells Fargo",
+      "relevance": 0.988277,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wells_Fargo"
+    },
+    {
+      "text": "Bank of America",
+      "relevance": 0.882859,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bank_of_America"
+    },
+    {
+      "text": "Wachovia",
+      "relevance": 0.717617,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wachovia"
+    },
+    {
+      "text": "Civil procedure",
+      "relevance": 0.704693,
+      "dbpedia_resource": "http://dbpedia.org/resource/Civil_procedure"
+    },
+    {
+      "text": "Los Angeles",
+      "relevance": 0.69919,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998081,
+      "label": "/business and industrial/company/earnings"
+    }
+  ]
+}

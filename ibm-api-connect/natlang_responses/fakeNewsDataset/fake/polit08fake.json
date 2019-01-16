@@ -1,0 +1,344 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 565,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.844786,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": -0.989286,
+        "label": "negative"
+      },
+      "relevance": 0.934791,
+      "emotion": {
+        "sadness": 0.138621,
+        "joy": 0.569314,
+        "fear": 0.029938,
+        "disgust": 0.20207,
+        "anger": 0.144643
+      },
+      "count": 1
+    },
+    {
+      "text": "first lady Melania Trump",
+      "sentiment": {
+        "score": -0.989286,
+        "label": "negative"
+      },
+      "relevance": 0.87329,
+      "emotion": {
+        "sadness": 0.165258,
+        "joy": 0.535829,
+        "fear": 0.042479,
+        "disgust": 0.195332,
+        "anger": 0.158256
+      },
+      "count": 1
+    },
+    {
+      "text": "important topic",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.719375,
+      "emotion": {
+        "sadness": 0.176788,
+        "joy": 0.444002,
+        "fear": 0.067389,
+        "disgust": 0.296417,
+        "anger": 0.074502
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.989286,
+        "label": "negative"
+      },
+      "relevance": 0.717398,
+      "emotion": {
+        "sadness": 0.165258,
+        "joy": 0.535829,
+        "fear": 0.042479,
+        "disgust": 0.195332,
+        "anger": 0.158256
+      },
+      "count": 1
+    },
+    {
+      "text": "International Women's Day luncheon",
+      "sentiment": {
+        "score": -0.989286,
+        "label": "negative"
+      },
+      "relevance": 0.707322,
+      "emotion": {
+        "sadness": 0.165258,
+        "joy": 0.535829,
+        "fear": 0.042479,
+        "disgust": 0.195332,
+        "anger": 0.158256
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": 0.425202,
+        "label": "positive"
+      },
+      "relevance": 0.830348,
+      "mentions": [
+        {
+          "text": "Melania Trump",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Melania Trump",
+          "location": [
+            59,
+            72
+          ]
+        },
+        {
+          "text": "Melania",
+          "location": [
+            312,
+            319
+          ]
+        },
+        {
+          "text": "Melania",
+          "location": [
+            333,
+            340
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.347445,
+        "joy": 0.318227,
+        "fear": 0.071023,
+        "disgust": 0.286561,
+        "anger": 0.089926
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Model"
+        ],
+        "name": "Melania Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "International Women",
+      "sentiment": {
+        "score": -0.546634,
+        "label": "negative"
+      },
+      "relevance": 0.446452,
+      "mentions": [
+        {
+          "text": "Women",
+          "location": [
+            15,
+            20
+          ]
+        },
+        {
+          "text": "women",
+          "location": [
+            153,
+            158
+          ]
+        },
+        {
+          "text": "International Women",
+          "location": [
+            166,
+            185
+          ]
+        },
+        {
+          "text": "all women",
+          "location": [
+            412,
+            421
+          ]
+        },
+        {
+          "text": "women",
+          "location": [
+            491,
+            496
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.167315,
+        "joy": 0.616172,
+        "fear": 0.084469,
+        "disgust": 0.110226,
+        "anger": 0.077291
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.341994,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            88,
+            100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.346582,
+        "joy": 0.156002,
+        "fear": 0.080999,
+        "disgust": 0.171453,
+        "anger": 0.182224
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.158806,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            208,
+            219
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188296,
+        "joy": 0.559502,
+        "fear": 0.092528,
+        "disgust": 0.072197,
+        "anger": 0.123085
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "House",
+          "TouristAttraction",
+          "Building"
+        ],
+        "name": "White House",
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.215795,
+        "label": "negative"
+      },
+      "relevance": 0.140321,
+      "emotion": {
+        "sadness": 0.302868,
+        "joy": 0.10205,
+        "fear": 0.060872,
+        "disgust": 0.465147,
+        "anger": 0.127316
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "White House",
+      "relevance": 0.956965,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.936192,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.875914,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.822615,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "First Lady of the United States",
+      "relevance": 0.748494,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.936283,
+      "label": "/health and fitness/women's health"
+    }
+  ]
+}

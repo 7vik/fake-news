@@ -1,0 +1,309 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 599,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.746326,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "world rankings",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.87897,
+      "emotion": {
+        "sadness": 0.193402,
+        "joy": 0.324094,
+        "fear": 0.10483,
+        "disgust": 0.107702,
+        "anger": 0.278111
+      },
+      "count": 1
+    },
+    {
+      "text": "NOVAK DJOKOVIC",
+      "sentiment": {
+        "score": -0.424286,
+        "label": "negative"
+      },
+      "relevance": 0.857983,
+      "emotion": {
+        "sadness": 0.366108,
+        "joy": 0.361,
+        "fear": 0.052451,
+        "disgust": 0.086358,
+        "anger": 0.055966
+      },
+      "count": 2
+    },
+    {
+      "text": "great Andy Murray",
+      "sentiment": {
+        "score": -0.424286,
+        "label": "negative"
+      },
+      "relevance": 0.714862,
+      "emotion": {
+        "sadness": 0.06426,
+        "joy": 0.767588,
+        "fear": 0.058288,
+        "disgust": 0.028251,
+        "anger": 0.050228
+      },
+      "count": 1
+    },
+    {
+      "text": "past week",
+      "sentiment": {
+        "score": -0.93809,
+        "label": "negative"
+      },
+      "relevance": 0.684499,
+      "emotion": {
+        "sadness": 0.681247,
+        "joy": 0.011342,
+        "fear": 0.118983,
+        "disgust": 0.236764,
+        "anger": 0.152081
+      },
+      "count": 1
+    },
+    {
+      "text": "Nick Kyrgios",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.667834,
+      "emotion": {
+        "sadness": 0.7688,
+        "joy": 0.036863,
+        "fear": 0.009122,
+        "disgust": 0.305276,
+        "anger": 0.063991
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Novak Djokovic",
+      "sentiment": {
+        "score": -0.405812,
+        "label": "negative"
+      },
+      "relevance": 0.884621,
+      "mentions": [
+        {
+          "text": "NOVAK DJOKOVIC",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Novak Djokovic",
+          "location": [
+            71,
+            85
+          ]
+        },
+        {
+          "text": "Djokovic",
+          "location": [
+            398,
+            406
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            435,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.286617,
+        "joy": 0.417308,
+        "fear": 0.040357,
+        "disgust": 0.135121,
+        "anger": 0.185846
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Novak Djokovic",
+        "dbpedia_resource": "http://dbpedia.org/resource/Novak_Djokovic"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Andy Murray",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.393734,
+      "mentions": [
+        {
+          "text": "Andy Murray",
+          "location": [
+            106,
+            117
+          ]
+        },
+        {
+          "text": "Andy Murray",
+          "location": [
+            526,
+            537
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.064527,
+        "joy": 0.73915,
+        "fear": 0.074812,
+        "disgust": 0.030189,
+        "anger": 0.067122
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Andy Murray",
+        "dbpedia_resource": "http://dbpedia.org/resource/Andy_Murray"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Nick Kyrgios",
+      "sentiment": {
+        "score": -0.517758,
+        "label": "negative"
+      },
+      "relevance": 0.283383,
+      "mentions": [
+        {
+          "text": "Nick Kyrgios",
+          "location": [
+            250,
+            262
+          ]
+        },
+        {
+          "text": "Kyrgios",
+          "location": [
+            446,
+            453
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            468,
+            470
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.835321,
+        "joy": 0.011441,
+        "fear": 0.055333,
+        "disgust": 0.146165,
+        "anger": 0.097165
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "MIAMI",
+      "sentiment": {
+        "score": -0.558731,
+        "label": "negative"
+      },
+      "relevance": 0.26401,
+      "mentions": [
+        {
+          "text": "MIAMI",
+          "location": [
+            43,
+            48
+          ]
+        },
+        {
+          "text": "Miami",
+          "location": [
+            142,
+            147
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.109843,
+        "joy": 0.753005,
+        "fear": 0.043216,
+        "disgust": 0.034832,
+        "anger": 0.075779
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "BNP Paribas Open",
+      "relevance": 0.910552,
+      "dbpedia_resource": "http://dbpedia.org/resource/BNP_Paribas_Open"
+    },
+    {
+      "text": "ATP World Tour Masters 1000",
+      "relevance": 0.880549,
+      "dbpedia_resource": "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+    },
+    {
+      "text": "Novak Djokovic",
+      "relevance": 0.81585,
+      "dbpedia_resource": "http://dbpedia.org/resource/Novak_Djokovic"
+    },
+    {
+      "text": "US Open",
+      "relevance": 0.761875,
+      "dbpedia_resource": "http://dbpedia.org/resource/US_Open_(tennis)"
+    },
+    {
+      "text": "Rafael Nadal",
+      "relevance": 0.741614,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rafael_Nadal"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.988196,
+      "label": "/sports/tennis"
+    }
+  ]
+}

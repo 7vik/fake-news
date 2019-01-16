@@ -1,0 +1,356 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1236,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.510792,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.701758,
+        "label": "negative"
+      },
+      "relevance": 0.872018,
+      "emotion": {
+        "sadness": 0.101594,
+        "joy": 0.561686,
+        "fear": 0.020179,
+        "disgust": 0.104218,
+        "anger": 0.221605
+      },
+      "count": 3
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.701758,
+        "label": "negative"
+      },
+      "relevance": 0.791272,
+      "emotion": {
+        "sadness": 0.101594,
+        "joy": 0.561686,
+        "fear": 0.020179,
+        "disgust": 0.104218,
+        "anger": 0.221605
+      },
+      "count": 2
+    },
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.511355,
+        "label": "negative"
+      },
+      "relevance": 0.771039,
+      "emotion": {
+        "sadness": 0.266481,
+        "joy": 0.260209,
+        "fear": 0.030918,
+        "disgust": 0.164421,
+        "anger": 0.207681
+      },
+      "count": 3
+    },
+    {
+      "text": "Watch Belieber Kanye West Dance",
+      "sentiment": {
+        "score": -0.716449,
+        "label": "negative"
+      },
+      "relevance": 0.638802,
+      "emotion": {
+        "sadness": 0.08281,
+        "joy": 0.595759,
+        "fear": 0.022586,
+        "disgust": 0.100519,
+        "anger": 0.072812
+      },
+      "count": 1
+    },
+    {
+      "text": "Scooter Braun",
+      "sentiment": {
+        "score": -0.459297,
+        "label": "negative"
+      },
+      "relevance": 0.61897,
+      "emotion": {
+        "sadness": 0.269816,
+        "joy": 0.548341,
+        "fear": 0.006347,
+        "disgust": 0.025121,
+        "anger": 0.097405
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.492822,
+        "label": "negative"
+      },
+      "relevance": 0.904704,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            131,
+            144
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            218,
+            225
+          ]
+        },
+        {
+          "text": "Justin Bieber",
+          "location": [
+            436,
+            449
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            621,
+            627
+          ]
+        },
+        {
+          "text": "pals",
+          "location": [
+            647,
+            651
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            834,
+            840
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            860,
+            867
+          ]
+        },
+        {
+          "text": "Bieber",
+          "location": [
+            1090,
+            1096
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.279979,
+        "joy": 0.604557,
+        "fear": 0.076096,
+        "disgust": 0.069973,
+        "anger": 0.197262
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.067395,
+        "label": "positive"
+      },
+      "relevance": 0.457047,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            54,
+            64
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            296,
+            306
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            632,
+            636
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            1133,
+            1137
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.219088,
+        "joy": 0.408744,
+        "fear": 0.030792,
+        "disgust": 0.082873,
+        "anger": 0.294739
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Swift",
+      "sentiment": {
+        "score": -0.492822,
+        "label": "negative"
+      },
+      "relevance": 0.264027,
+      "mentions": [
+        {
+          "text": "Taylor swift",
+          "location": [
+            365,
+            377
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            876,
+            881
+          ]
+        },
+        {
+          "text": "the caption",
+          "location": [
+            931,
+            942
+          ]
+        },
+        {
+          "text": "TAYLOR SWIFT",
+          "location": [
+            960,
+            972
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1142,
+            1147
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.122358,
+        "joy": 0.612668,
+        "fear": 0.014677,
+        "disgust": 0.059523,
+        "anger": 0.174318
+      },
+      "count": 5
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Kanye West Dance",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.219135,
+      "mentions": [
+        {
+          "text": "Kanye West Dance",
+          "location": [
+            416,
+            432
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130901,
+        "joy": 0.701898,
+        "fear": 0.029502,
+        "disgust": 0.0552,
+        "anger": 0.067617
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye",
+      "sentiment": {
+        "score": 0.42231,
+        "label": "positive"
+      },
+      "relevance": 0.157132,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            987,
+            992
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.941012,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

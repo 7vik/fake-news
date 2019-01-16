@@ -1,0 +1,278 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 965,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.567635,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "global aerospace industry",
+      "sentiment": {
+        "score": 0.964598,
+        "label": "positive"
+      },
+      "relevance": 0.867372,
+      "emotion": {
+        "sadness": 0.071621,
+        "joy": 0.694065,
+        "fear": 0.014263,
+        "disgust": 0.007523,
+        "anger": 0.142363
+      },
+      "count": 1
+    },
+    {
+      "text": "Aircraft orders",
+      "sentiment": {
+        "score": 0.964598,
+        "label": "positive"
+      },
+      "relevance": 0.854016,
+      "emotion": {
+        "sadness": 0.147212,
+        "joy": 0.613687,
+        "fear": 0.021857,
+        "disgust": 0.036805,
+        "anger": 0.040227
+      },
+      "count": 2
+    },
+    {
+      "text": "planemakers Airbus  Boeing  Canada's Bombardier",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.727538,
+      "emotion": {
+        "sadness": 0.221669,
+        "joy": 0.242534,
+        "fear": 0.082006,
+        "disgust": 0.036381,
+        "anger": 0.040052
+      },
+      "count": 1
+    },
+    {
+      "text": "number of commercial aircraft",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.723753,
+      "emotion": {
+        "sadness": 0.032522,
+        "joy": 0.416392,
+        "fear": 0.00911,
+        "disgust": 0.038632,
+        "anger": 0.074265
+      },
+      "count": 1
+    },
+    {
+      "text": "last month",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.640279,
+      "emotion": {
+        "sadness": 0.032522,
+        "joy": 0.416392,
+        "fear": 0.00911,
+        "disgust": 0.038632,
+        "anger": 0.074265
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.455191,
+        "label": "positive"
+      },
+      "relevance": 0.902211,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            56,
+            58
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            226,
+            228
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            733,
+            735
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            885,
+            887
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.184297,
+        "joy": 0.598025,
+        "fear": 0.023215,
+        "disgust": 0.01475,
+        "anger": 0.181375
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "England",
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Airbus Boeing Canada",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.603672,
+      "mentions": [
+        {
+          "text": "Airbus  Boeing  Canada",
+          "location": [
+            451,
+            473
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Airbus",
+      "sentiment": {
+        "score": 0.455191,
+        "label": "positive"
+      },
+      "relevance": 0.535266,
+      "mentions": [
+        {
+          "text": "Airbus",
+          "location": [
+            843,
+            849
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.242337,
+        "joy": 0.279615,
+        "fear": 0.135621,
+        "disgust": 0.202669,
+        "anger": 0.163124
+      },
+      "disambiguation": {
+        "subtype": [
+          "AircraftManufacturer"
+        ],
+        "name": "Airbus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Airbus"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Broughton north Wales",
+      "sentiment": {
+        "score": 0.455191,
+        "label": "positive"
+      },
+      "relevance": 0.44021,
+      "mentions": [
+        {
+          "text": "Broughton  north Wales",
+          "location": [
+            941,
+            963
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.242337,
+        "joy": 0.279615,
+        "fear": 0.135621,
+        "disgust": 0.202669,
+        "anger": 0.163124
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Airbus",
+      "relevance": 0.977392,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airbus"
+    },
+    {
+      "text": "Boeing",
+      "relevance": 0.761187,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boeing"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.711398,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Aerospace",
+      "relevance": 0.670536,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aerospace"
+    },
+    {
+      "text": "Wales",
+      "relevance": 0.593326,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wales"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999572,
+      "label": "/travel/transports/air travel/airlines"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 857,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.525054,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "British actress Emma Thompson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.818625,
+      "emotion": {
+        "sadness": 0.288206,
+        "joy": 0.308907,
+        "fear": 0.122421,
+        "disgust": 0.158022,
+        "anger": 0.172108
+      },
+      "count": 1
+    },
+    {
+      "text": "Emma Thompson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.788924,
+      "emotion": {
+        "sadness": 0.414208,
+        "joy": 0.233966,
+        "fear": 0.091553,
+        "disgust": 0.241888,
+        "anger": 0.156705
+      },
+      "count": 1
+    },
+    {
+      "text": "Oscar winner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.721838,
+      "emotion": {
+        "sadness": 0.376886,
+        "joy": 0.245535,
+        "fear": 0.233345,
+        "disgust": 0.096811,
+        "anger": 0.062913
+      },
+      "count": 1
+    },
+    {
+      "text": "strange place",
+      "sentiment": {
+        "score": -0.750051,
+        "label": "negative"
+      },
+      "relevance": 0.603458,
+      "emotion": {
+        "sadness": 0.130149,
+        "joy": 0.121795,
+        "fear": 0.106974,
+        "disgust": 0.026572,
+        "anger": 0.172429
+      },
+      "count": 1
+    },
+    {
+      "text": "kids  girls",
+      "sentiment": {
+        "score": -0.956503,
+        "label": "negative"
+      },
+      "relevance": 0.598702,
+      "emotion": {
+        "sadness": 0.420875,
+        "joy": 0.289809,
+        "fear": 0.033166,
+        "disgust": 0.168023,
+        "anger": 0.081935
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Emma Thompson",
+      "sentiment": {
+        "score": -0.542765,
+        "label": "negative"
+      },
+      "relevance": 0.850314,
+      "mentions": [
+        {
+          "text": "Emma Thompson",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Emma Thompson",
+          "location": [
+            59,
+            72
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            82,
+            85
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            121,
+            124
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            130,
+            133
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            160,
+            163
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            223,
+            226
+          ]
+        },
+        {
+          "text": "Skavlan",
+          "location": [
+            250,
+            257
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            475,
+            478
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            508,
+            511
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.468683,
+        "joy": 0.190646,
+        "fear": 0.098101,
+        "disgust": 0.080507,
+        "anger": 0.107656
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Emma Thompson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Emma_Thompson"
+      },
+      "count": 10
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.28629,
+      "mentions": [
+        {
+          "text": "LA",
+          "location": [
+            40,
+            42
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "location": [
+            101,
+            112
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.323753,
+        "joy": 0.43348,
+        "fear": 0.104113,
+        "disgust": 0.045935,
+        "anger": 0.082938
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Brideshead Revisited",
+      "sentiment": {
+        "score": -0.339808,
+        "label": "negative"
+      },
+      "relevance": 0.270751,
+      "mentions": [
+        {
+          "text": "Brideshead Revisited",
+          "location": [
+            552,
+            572
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.256059,
+        "joy": 0.261289,
+        "fear": 0.36492,
+        "disgust": 0.183294,
+        "anger": 0.160569
+      },
+      "count": 1
+    },
+    {
+      "type": "HealthCondition",
+      "text": "anorexia",
+      "sentiment": {
+        "score": -0.37217,
+        "label": "negative"
+      },
+      "relevance": 0.203511,
+      "mentions": [
+        {
+          "text": "anorexia",
+          "location": [
+            333,
+            341
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Oscar",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.203323,
+      "mentions": [
+        {
+          "text": "Oscar",
+          "location": [
+            263,
+            268
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.376886,
+        "joy": 0.245535,
+        "fear": 0.233345,
+        "disgust": 0.096811,
+        "anger": 0.062913
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.978157,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Emma Thompson",
+      "relevance": 0.735899,
+      "dbpedia_resource": "http://dbpedia.org/resource/Emma_Thompson"
+    },
+    {
+      "text": "Academy Award for Best Supporting Actress",
+      "relevance": 0.695041,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actress"
+    },
+    {
+      "text": "2008 in film",
+      "relevance": 0.574518,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_in_film"
+    },
+    {
+      "text": "Academy Award for Best Picture",
+      "relevance": 0.544612,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Picture"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.744281,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

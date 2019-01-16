@@ -1,0 +1,176 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 85,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.731088,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Amal Clooney",
+      "sentiment": {
+        "score": -0.731088,
+        "label": "negative"
+      },
+      "relevance": 0.995228,
+      "emotion": {
+        "sadness": 0.319511,
+        "joy": 0.019111,
+        "fear": 0.100628,
+        "disgust": 0.077958,
+        "anger": 0.624959
+      },
+      "count": 1
+    },
+    {
+      "text": "Southern Poverty Law Center",
+      "sentiment": {
+        "score": -0.731088,
+        "label": "negative"
+      },
+      "relevance": 0.988268,
+      "emotion": {
+        "sadness": 0.319511,
+        "joy": 0.019111,
+        "fear": 0.100628,
+        "disgust": 0.077958,
+        "anger": 0.624959
+      },
+      "count": 1
+    },
+    {
+      "text": "hate groups",
+      "sentiment": {
+        "score": -0.731088,
+        "label": "negative"
+      },
+      "relevance": 0.822044,
+      "emotion": {
+        "sadness": 0.319511,
+        "joy": 0.019111,
+        "fear": 0.100628,
+        "disgust": 0.077958,
+        "anger": 0.624959
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "George",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "George",
+          "location": [
+            0,
+            6
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Amal Clooney",
+      "sentiment": {
+        "score": -0.489979,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Amal Clooney",
+          "location": [
+            8,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296851,
+        "joy": 0.018957,
+        "fear": 0.11686,
+        "disgust": 0.068841,
+        "anger": 0.627496
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Southern Poverty Law Center",
+      "sentiment": {
+        "score": -0.489979,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Southern Poverty Law Center",
+          "location": [
+            35,
+            62
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296851,
+        "joy": 0.018957,
+        "fear": 0.11686,
+        "disgust": 0.068841,
+        "anger": 0.627496
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "1M",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "1M",
+          "location": [
+            29,
+            31
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Southern Poverty Law Center",
+      "relevance": 0.976114,
+      "dbpedia_resource": "http://dbpedia.org/resource/Southern_Poverty_Law_Center"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.689012,
+      "label": "/society/racism"
+    }
+  ]
+}

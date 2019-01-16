@@ -1,0 +1,98 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Meek Mill Find Nicki Minaj",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.996996,
+      "emotion": {
+        "sadness": 0.260824,
+        "joy": 0.238245,
+        "fear": 0.121895,
+        "disgust": 0.253531,
+        "anger": 0.091439
+      },
+      "count": 1
+    },
+    {
+      "text": "Lesbian Tryst",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.081464,
+      "emotion": {
+        "sadness": 0.260824,
+        "joy": 0.238245,
+        "fear": 0.121895,
+        "disgust": 0.253531,
+        "anger": 0.091439
+      },
+      "count": 1
+    },
+    {
+      "text": "Young M.A.",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.032858,
+      "emotion": {
+        "sadness": 0.260824,
+        "joy": 0.238245,
+        "fear": 0.121895,
+        "disgust": 0.253531,
+        "anger": 0.091439
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "Mill",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.01,
+      "mentions": [
+        {
+          "text": "Mill",
+          "location": [
+            9,
+            13
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nicki Minaj",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicki_Minaj"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.844552,
+      "label": "/society/gay life"
+    }
+  ]
+}

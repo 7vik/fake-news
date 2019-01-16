@@ -1,0 +1,336 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1474,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.277951,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "portrait of the late George Michael",
+      "sentiment": {
+        "score": -0.387073,
+        "label": "negative"
+      },
+      "relevance": 0.850125,
+      "emotion": {
+        "sadness": 0.309861,
+        "joy": 0.12038,
+        "fear": 0.110285,
+        "disgust": 0.373117,
+        "anger": 0.395456
+      },
+      "count": 1
+    },
+    {
+      "text": "Michael portrait",
+      "sentiment": {
+        "score": -0.617695,
+        "label": "negative"
+      },
+      "relevance": 0.843162,
+      "emotion": {
+        "sadness": 0.345046,
+        "joy": 0.253735,
+        "fear": 0.127501,
+        "disgust": 0.310311,
+        "anger": 0.158319
+      },
+      "count": 1
+    },
+    {
+      "text": "George Michael",
+      "sentiment": {
+        "score": -0.341104,
+        "label": "negative"
+      },
+      "relevance": 0.720907,
+      "emotion": {
+        "sadness": 0.110146,
+        "joy": 0.680368,
+        "fear": 0.012428,
+        "disgust": 0.16933,
+        "anger": 0.094042
+      },
+      "count": 1
+    },
+    {
+      "text": "charity auction",
+      "sentiment": {
+        "score": -0.387073,
+        "label": "negative"
+      },
+      "relevance": 0.681492,
+      "emotion": {
+        "sadness": 0.309861,
+        "joy": 0.12038,
+        "fear": 0.110285,
+        "disgust": 0.373117,
+        "anger": 0.395456
+      },
+      "count": 1
+    },
+    {
+      "text": "gallery of Mr. Hirsts",
+      "sentiment": {
+        "score": 0.893357,
+        "label": "positive"
+      },
+      "relevance": 0.623281,
+      "emotion": {
+        "sadness": 0.146315,
+        "joy": 0.784307,
+        "fear": 0.014035,
+        "disgust": 0.061511,
+        "anger": 0.010613
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "George Michael",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.763665,
+      "mentions": [
+        {
+          "text": "George Michael",
+          "location": [
+            16,
+            30
+          ]
+        },
+        {
+          "text": "George Michael",
+          "location": [
+            245,
+            259
+          ]
+        },
+        {
+          "text": "George Michael",
+          "location": [
+            640,
+            654
+          ]
+        },
+        {
+          "text": "Michael",
+          "location": [
+            1007,
+            1014
+          ]
+        },
+        {
+          "text": "Kenny Goss",
+          "location": [
+            1038,
+            1048
+          ]
+        },
+        {
+          "text": "Goss",
+          "location": [
+            1050,
+            1054
+          ]
+        },
+        {
+          "text": "Michael",
+          "location": [
+            1311,
+            1318
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.259282,
+        "joy": 0.661623,
+        "fear": 0.059013,
+        "disgust": 0.185353,
+        "anger": 0.057568
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardWinner",
+          "BroadcastArtist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVActor"
+        ],
+        "name": "George Michael",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Michael"
+      },
+      "count": 7
+    },
+    {
+      "type": "Facility",
+      "text": "Beautiful Beautiful George Michael Love Painting",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.452395,
+      "mentions": [
+        {
+          "text": "Beautiful Beautiful George Michael Love Painting",
+          "location": [
+            874,
+            922
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.084967,
+        "joy": 0.85499,
+        "fear": 0.007304,
+        "disgust": 0.060028,
+        "anger": 0.002738
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Damien Hirst",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.442497,
+      "mentions": [
+        {
+          "text": "Damien Hirst",
+          "location": [
+            270,
+            282
+          ]
+        },
+        {
+          "text": "Damien Hirst",
+          "location": [
+            1169,
+            1181
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.31213,
+        "joy": 0.339205,
+        "fear": 0.106661,
+        "disgust": 0.346806,
+        "anger": 0.057217
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "VisualArtist"
+        ],
+        "name": "Damien Hirst",
+        "dbpedia_resource": "http://dbpedia.org/resource/Damien_Hirst"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Westboro Baptists",
+      "sentiment": {
+        "score": -0.370348,
+        "label": "negative"
+      },
+      "relevance": 0.226739,
+      "mentions": [
+        {
+          "text": "Westboro Baptists",
+          "location": [
+            125,
+            142
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144947,
+        "joy": 0.338672,
+        "fear": 0.074093,
+        "disgust": 0.096958,
+        "anger": 0.091923
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Orlando",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.226647,
+      "mentions": [
+        {
+          "text": "Orlando",
+          "location": [
+            70,
+            77
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.393351,
+        "joy": 0.213302,
+        "fear": 0.133942,
+        "disgust": 0.312817,
+        "anger": 0.151102
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Damien Hirst",
+      "relevance": 0.967495,
+      "dbpedia_resource": "http://dbpedia.org/resource/Damien_Hirst"
+    },
+    {
+      "text": "George Michael",
+      "relevance": 0.722226,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_Michael"
+    },
+    {
+      "text": "Wham!",
+      "relevance": 0.699882,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wham!"
+    },
+    {
+      "text": "ARIA Charts",
+      "relevance": 0.613487,
+      "dbpedia_resource": "http://dbpedia.org/resource/ARIA_Charts"
+    },
+    {
+      "text": "English male singers",
+      "relevance": 0.608936,
+      "dbpedia_resource": "http://dbpedia.org/resource/English_male_singers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.661438,
+      "label": "/style and fashion/body art"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1226,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.414199,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.328852,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.830367,
+      "emotion": {
+        "sadness": 0.230851,
+        "joy": 0.436263,
+        "fear": 0.148718,
+        "disgust": 0.27226,
+        "anger": 0.026795
+      },
+      "count": 2
+    },
+    {
+      "text": "new music video",
+      "sentiment": {
+        "score": -0.516404,
+        "label": "negative"
+      },
+      "relevance": 0.720666,
+      "emotion": {
+        "sadness": 0.298249,
+        "joy": 0.083025,
+        "fear": 0.045941,
+        "disgust": 0.143285,
+        "anger": 0.076284
+      },
+      "count": 1
+    },
+    {
+      "text": "27-year-old US pop star",
+      "sentiment": {
+        "score": 0.434713,
+        "label": "positive"
+      },
+      "relevance": 0.651986,
+      "emotion": {
+        "sadness": 0.137467,
+        "joy": 0.520476,
+        "fear": 0.169503,
+        "disgust": 0.268182,
+        "anger": 0.020078
+      },
+      "count": 1
+    },
+    {
+      "text": "geometric lines of lights",
+      "sentiment": {
+        "score": 0.434713,
+        "label": "positive"
+      },
+      "relevance": 0.650811,
+      "emotion": {
+        "sadness": 0.137467,
+        "joy": 0.520476,
+        "fear": 0.169503,
+        "disgust": 0.268182,
+        "anger": 0.020078
+      },
+      "count": 1
+    },
+    {
+      "text": "short clips",
+      "sentiment": {
+        "score": -0.67133,
+        "label": "negative"
+      },
+      "relevance": 0.61996,
+      "emotion": {
+        "sadness": 0.137467,
+        "joy": 0.520476,
+        "fear": 0.169503,
+        "disgust": 0.268182,
+        "anger": 0.020078
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.399213,
+        "label": "positive"
+      },
+      "relevance": 0.83998,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            90,
+            93
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            150,
+            162
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            377,
+            380
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            419,
+            422
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            499,
+            502
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188534,
+        "joy": 0.448876,
+        "fear": 0.131389,
+        "disgust": 0.187301,
+        "anger": 0.117386
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.225169,
+        "label": "positive"
+      },
+      "relevance": 0.36207,
+      "mentions": [
+        {
+          "text": "the same time",
+          "location": [
+            240,
+            253
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            315,
+            317
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.262008,
+        "joy": 0.503279,
+        "fear": 0.109019,
+        "disgust": 0.20921,
+        "anger": 0.020369
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": 0.22353,
+        "label": "positive"
+      },
+      "relevance": 0.274224,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            887,
+            894
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "27-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.274224,
+      "mentions": [
+        {
+          "text": "27-year",
+          "location": [
+            303,
+            310
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Andy Warhol",
+      "relevance": 0.880966,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+      "text": "Nudity",
+      "relevance": 0.815935,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nudity"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "Button",
+      "relevance": 0.743873,
+      "dbpedia_resource": "http://dbpedia.org/resource/Button"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.75841,
+      "label": "/style and fashion"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.917008,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Superman",
+      "sentiment": {
+        "score": -0.917008,
+        "label": "negative"
+      },
+      "relevance": 0.919812,
+      "emotion": {
+        "sadness": 0.792243,
+        "joy": 0.034932,
+        "fear": 0.231422,
+        "disgust": 0.040388,
+        "anger": 0.066355
+      },
+      "count": 1
+    },
+    {
+      "text": "Justice League' trailer",
+      "sentiment": {
+        "score": -0.917008,
+        "label": "negative"
+      },
+      "relevance": 0.887818,
+      "emotion": {
+        "sadness": 0.792243,
+        "joy": 0.034932,
+        "fear": 0.231422,
+        "disgust": 0.040388,
+        "anger": 0.066355
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Justice League",
+      "sentiment": {
+        "score": -0.648985,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "'Justice League",
+          "location": [
+            31,
+            46
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Captain Marvel",
+      "relevance": 0.897311,
+      "dbpedia_resource": "http://dbpedia.org/resource/Captain_Marvel_(DC_Comics)"
+    },
+    {
+      "text": "Toyman",
+      "relevance": 0.823044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Toyman"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.942828,
+      "label": "/art and entertainment/comics and animation/comics"
+    }
+  ]
+}

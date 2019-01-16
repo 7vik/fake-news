@@ -1,0 +1,333 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 701,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.860043,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "longtime friends",
+      "sentiment": {
+        "score": -0.926299,
+        "label": "negative"
+      },
+      "relevance": 0.776892,
+      "emotion": {
+        "sadness": 0.178674,
+        "joy": 0.221225,
+        "fear": 0.061054,
+        "disgust": 0.15303,
+        "anger": 0.191657
+      },
+      "count": 1
+    },
+    {
+      "text": "Rhona Graff",
+      "sentiment": {
+        "score": -0.769743,
+        "label": "negative"
+      },
+      "relevance": 0.719469,
+      "emotion": {
+        "sadness": 0.374931,
+        "joy": 0.181434,
+        "fear": 0.042315,
+        "disgust": 0.138102,
+        "anger": 0.251577
+      },
+      "count": 1
+    },
+    {
+      "text": "knowledge of the call",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.696687,
+      "emotion": {
+        "sadness": 0.176981,
+        "joy": 0.343068,
+        "fear": 0.116094,
+        "disgust": 0.055202,
+        "anger": 0.096584
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": -0.769743,
+        "label": "negative"
+      },
+      "relevance": 0.688013,
+      "emotion": {
+        "sadness": 0.374931,
+        "joy": 0.181434,
+        "fear": 0.042315,
+        "disgust": 0.138102,
+        "anger": 0.251577
+      },
+      "count": 1
+    },
+    {
+      "text": "associates of President Donald Trump",
+      "sentiment": {
+        "score": -0.926299,
+        "label": "negative"
+      },
+      "relevance": 0.674731,
+      "emotion": {
+        "sadness": 0.178674,
+        "joy": 0.221225,
+        "fear": 0.061054,
+        "disgust": 0.15303,
+        "anger": 0.191657
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.556047,
+        "label": "positive"
+      },
+      "relevance": 0.819836,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            14,
+            19
+          ]
+        },
+        {
+          "text": "President Donald Trump",
+          "location": [
+            73,
+            95
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            110,
+            113
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            644,
+            649
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.283266,
+        "joy": 0.21163,
+        "fear": 0.057552,
+        "disgust": 0.144631,
+        "anger": 0.189508
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Rhona Graff.Since Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.54814,
+      "mentions": [
+        {
+          "text": "Rhona Graff.Since Trump",
+          "location": [
+            251,
+            274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201252,
+        "joy": 0.120682,
+        "fear": 0.07908,
+        "disgust": 0.113124,
+        "anger": 0.10717
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.497203,
+      "mentions": [
+        {
+          "text": "Trump Tower",
+          "location": [
+            216,
+            227
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.312091,
+        "joy": 0.083188,
+        "fear": 0.048434,
+        "disgust": 0.296664,
+        "anger": 0.138238
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Company",
+          "Building"
+        ],
+        "name": "Trump Tower (Tampa)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Trump_Tower_(Tampa)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Graff",
+      "sentiment": {
+        "score": 0.474732,
+        "label": "positive"
+      },
+      "relevance": 0.337828,
+      "mentions": [
+        {
+          "text": "Graff",
+          "location": [
+            299,
+            304
+          ]
+        },
+        {
+          "text": "a conduit",
+          "location": [
+            316,
+            325
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            437,
+            439
+          ]
+        },
+        {
+          "text": "Graff",
+          "location": [
+            602,
+            607
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.361218,
+        "joy": 0.33749,
+        "fear": 0.130127,
+        "disgust": 0.069275,
+        "anger": 0.1485
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Ken Langone",
+      "sentiment": {
+        "score": 0.614265,
+        "label": "positive"
+      },
+      "relevance": 0.215686,
+      "mentions": [
+        {
+          "text": "Ken Langone",
+          "location": [
+            506,
+            517
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.115057,
+        "joy": 0.10466,
+        "fear": 0.057721,
+        "disgust": 0.03007,
+        "anger": 0.044552
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember"
+        ],
+        "name": "Kenneth Langone",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kenneth_Langone"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.970132,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.819108,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.783088,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.724034,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "The Apprentice",
+      "relevance": 0.639867,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Apprentice_(U.S._TV_series)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.607271,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

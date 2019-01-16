@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 85,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kevin Hart",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.994533,
+      "emotion": {
+        "sadness": 0.388499,
+        "joy": 0.026905,
+        "fear": 0.012011,
+        "disgust": 0.498705,
+        "anger": 0.349089
+      },
+      "count": 1
+    },
+    {
+      "text": "Scandal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.388499,
+        "joy": 0.026905,
+        "fear": 0.012011,
+        "disgust": 0.498705,
+        "anger": 0.349089
+      },
+      "count": 1
+    },
+    {
+      "text": "Wife Eniko",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.45437,
+      "emotion": {
+        "sadness": 0.388499,
+        "joy": 0.026905,
+        "fear": 0.012011,
+        "disgust": 0.498705,
+        "anger": 0.349089
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kevin Hart",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kevin Hart",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.216307,
+        "joy": 0.094181,
+        "fear": 0.064779,
+        "disgust": 0.052249,
+        "anger": 0.062114
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2000 singles",
+      "relevance": 0.8357,
+      "dbpedia_resource": "http://dbpedia.org/resource/2000_singles"
+    },
+    {
+      "text": "Debut singles",
+      "relevance": 0.826379,
+      "dbpedia_resource": "http://dbpedia.org/resource/Debut_singles"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.716219,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

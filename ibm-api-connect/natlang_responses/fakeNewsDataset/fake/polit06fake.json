@@ -1,0 +1,239 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 744,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.741722,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "State Department",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.835683,
+      "emotion": {
+        "sadness": 0.207169,
+        "joy": 0.248706,
+        "fear": 0.110937,
+        "disgust": 0.018419,
+        "anger": 0.125517
+      },
+      "count": 2
+    },
+    {
+      "text": "memorandum today",
+      "sentiment": {
+        "score": -0.531864,
+        "label": "negative"
+      },
+      "relevance": 0.794696,
+      "emotion": {
+        "sadness": 0.136309,
+        "joy": 0.369719,
+        "fear": 0.029849,
+        "disgust": 0.016029,
+        "anger": 0.060239
+      },
+      "count": 1
+    },
+    {
+      "text": "Secretary of State Rex Tillerson",
+      "sentiment": {
+        "score": -0.531864,
+        "label": "negative"
+      },
+      "relevance": 0.781903,
+      "emotion": {
+        "sadness": 0.136309,
+        "joy": 0.369719,
+        "fear": 0.029849,
+        "disgust": 0.016029,
+        "anger": 0.060239
+      },
+      "count": 1
+    },
+    {
+      "text": "social media accounts",
+      "sentiment": {
+        "score": -0.758368,
+        "label": "negative"
+      },
+      "relevance": 0.742626,
+      "emotion": {
+        "sadness": 0.08327,
+        "joy": 0.036738,
+        "fear": 0.264491,
+        "disgust": 0.068438,
+        "anger": 0.125967
+      },
+      "count": 1
+    },
+    {
+      "text": "direct violation of President Donald",
+      "sentiment": {
+        "score": -0.884104,
+        "label": "negative"
+      },
+      "relevance": 0.636508,
+      "emotion": {
+        "sadness": 0.208103,
+        "joy": 0.112918,
+        "fear": 0.01993,
+        "disgust": 0.296414,
+        "anger": 0.156005
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "State Department",
+      "sentiment": {
+        "score": -0.446974,
+        "label": "negative"
+      },
+      "relevance": 0.727955,
+      "mentions": [
+        {
+          "text": "State Department",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "State Department",
+          "location": [
+            669,
+            685
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.23003,
+        "joy": 0.4203,
+        "fear": 0.116288,
+        "disgust": 0.04773,
+        "anger": 0.196913
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody",
+          "AppointedRole"
+        ],
+        "name": "United States Department of State",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_State"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "President Donald",
+      "sentiment": {
+        "score": -0.637575,
+        "label": "negative"
+      },
+      "relevance": 0.511505,
+      "mentions": [
+        {
+          "text": "President Donald",
+          "location": [
+            449,
+            465
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            543,
+            545
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.375966,
+        "joy": 0.104433,
+        "fear": 0.083598,
+        "disgust": 0.143437,
+        "anger": 0.051536
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Rex Tillerson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.420076,
+      "mentions": [
+        {
+          "text": "Rex Tillerson",
+          "location": [
+            105,
+            118
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233968,
+        "joy": 0.345051,
+        "fear": 0.069059,
+        "disgust": 0.027775,
+        "anger": 0.100357
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember"
+        ],
+        "name": "Rex Tillerson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rex_Tillerson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.973018,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "United States Department of State",
+      "relevance": 0.666655,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_State"
+    },
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.582486,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "United States Secretary of State",
+      "relevance": 0.512125,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Secretary_of_State"
+    },
+    {
+      "text": "Franklin D. Roosevelt",
+      "relevance": 0.477588,
+      "dbpedia_resource": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.90341,
+      "label": "/law, govt and politics/espionage and intelligence/terrorism"
+    }
+  ]
+}

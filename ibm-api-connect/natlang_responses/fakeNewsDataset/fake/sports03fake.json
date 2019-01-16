@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 647,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.608063,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "famous athlete",
+      "sentiment": {
+        "score": 0.795797,
+        "label": "positive"
+      },
+      "relevance": 0.832079,
+      "emotion": {
+        "sadness": 0.055139,
+        "joy": 0.721652,
+        "fear": 0.009311,
+        "disgust": 0.155036,
+        "anger": 0.11768
+      },
+      "count": 1
+    },
+    {
+      "text": "year contract",
+      "sentiment": {
+        "score": 0.795797,
+        "label": "positive"
+      },
+      "relevance": 0.827086,
+      "emotion": {
+        "sadness": 0.055139,
+        "joy": 0.721652,
+        "fear": 0.009311,
+        "disgust": 0.155036,
+        "anger": 0.11768
+      },
+      "count": 1
+    },
+    {
+      "text": "triumph of justice",
+      "sentiment": {
+        "score": 0.6189,
+        "label": "positive"
+      },
+      "relevance": 0.798254,
+      "emotion": {
+        "sadness": 0.407783,
+        "joy": 0.332424,
+        "fear": 0.057098,
+        "disgust": 0.113812,
+        "anger": 0.022317
+      },
+      "count": 1
+    },
+    {
+      "text": "Bruno Fernandes",
+      "sentiment": {
+        "score": 0.6189,
+        "label": "positive"
+      },
+      "relevance": 0.73931,
+      "emotion": {
+        "sadness": 0.421784,
+        "joy": 0.314313,
+        "fear": 0.132268,
+        "disgust": 0.080527,
+        "anger": 0.042703
+      },
+      "count": 1
+    },
+    {
+      "text": "insular ideas of human rights",
+      "sentiment": {
+        "score": 0.6189,
+        "label": "positive"
+      },
+      "relevance": 0.68915,
+      "emotion": {
+        "sadness": 0.407783,
+        "joy": 0.332424,
+        "fear": 0.057098,
+        "disgust": 0.113812,
+        "anger": 0.022317
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bruno de Souza",
+      "sentiment": {
+        "score": 0.263413,
+        "label": "positive"
+      },
+      "relevance": 0.935477,
+      "mentions": [
+        {
+          "text": "Bruno Fernandes de Souza",
+          "location": [
+            0,
+            24
+          ]
+        },
+        {
+          "text": "Bruno de Souza",
+          "location": [
+            138,
+            152
+          ]
+        },
+        {
+          "text": "Bruno",
+          "location": [
+            256,
+            261
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            306,
+            309
+          ]
+        },
+        {
+          "text": "Bruno",
+          "location": [
+            565,
+            570
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163223,
+        "joy": 0.70304,
+        "fear": 0.006374,
+        "disgust": 0.089557,
+        "anger": 0.021985
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Bruno Fernandes de Souza",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bruno_Fernandes_de_Souza"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Bruno",
+      "sentiment": {
+        "score": 0.462279,
+        "label": "positive"
+      },
+      "relevance": 0.272518,
+      "mentions": [
+        {
+          "text": "an example",
+          "location": [
+            595,
+            605
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.203455,
+        "joy": 0.368564,
+        "fear": 0.014626,
+        "disgust": 0.145441,
+        "anger": 0.17295
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Rone da Costa",
+      "sentiment": {
+        "score": 0.462549,
+        "label": "positive"
+      },
+      "relevance": 0.220555,
+      "mentions": [
+        {
+          "text": "Rone da Costa",
+          "location": [
+            424,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.083287,
+        "joy": 0.404828,
+        "fear": 0.126133,
+        "disgust": 0.190389,
+        "anger": 0.066116
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Boa Esporte",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.155028,
+      "mentions": [
+        {
+          "text": "Boa Esporte",
+          "location": [
+            394,
+            405
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.255232,
+        "joy": 0.194329,
+        "fear": 0.030617,
+        "disgust": 0.067991,
+        "anger": 0.35333
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Human rights",
+      "relevance": 0.931928,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+      "text": "Portuguese-language surnames",
+      "relevance": 0.668338,
+      "dbpedia_resource": "http://dbpedia.org/resource/Portuguese-language_surnames"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.627297,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

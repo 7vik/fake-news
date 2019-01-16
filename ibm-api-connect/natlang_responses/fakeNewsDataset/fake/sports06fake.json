@@ -1,0 +1,321 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 852,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.361004,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lewis Hamilton",
+      "sentiment": {
+        "score": -0.610893,
+        "label": "negative"
+      },
+      "relevance": 0.952854,
+      "emotion": {
+        "sadness": 0.431184,
+        "joy": 0.117271,
+        "fear": 0.170737,
+        "disgust": 0.284309,
+        "anger": 0.085561
+      },
+      "count": 2
+    },
+    {
+      "text": "race car driver",
+      "sentiment": {
+        "score": -0.610893,
+        "label": "negative"
+      },
+      "relevance": 0.892805,
+      "emotion": {
+        "sadness": 0.230748,
+        "joy": 0.256418,
+        "fear": 0.143852,
+        "disgust": 0.327687,
+        "anger": 0.093723
+      },
+      "count": 1
+    },
+    {
+      "text": "Australian Grand Prix",
+      "sentiment": {
+        "score": -0.394933,
+        "label": "negative"
+      },
+      "relevance": 0.735959,
+      "emotion": {
+        "sadness": 0.380419,
+        "joy": 0.346964,
+        "fear": 0.17315,
+        "disgust": 0.08901,
+        "anger": 0.13405
+      },
+      "count": 2
+    },
+    {
+      "text": "year's world title race",
+      "sentiment": {
+        "score": -0.610893,
+        "label": "negative"
+      },
+      "relevance": 0.678781,
+      "emotion": {
+        "sadness": 0.230748,
+        "joy": 0.256418,
+        "fear": 0.143852,
+        "disgust": 0.327687,
+        "anger": 0.093723
+      },
+      "count": 1
+    },
+    {
+      "text": "meantime",
+      "sentiment": {
+        "score": -0.540223,
+        "label": "negative"
+      },
+      "relevance": 0.600662,
+      "emotion": {
+        "sadness": 0.412371,
+        "joy": 0.029902,
+        "fear": 0.187169,
+        "disgust": 0.095294,
+        "anger": 0.061179
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lewis Hamilton",
+      "sentiment": {
+        "score": -0.542873,
+        "label": "negative"
+      },
+      "relevance": 0.907757,
+      "mentions": [
+        {
+          "text": "Lewis Hamilton",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            20,
+            22
+          ]
+        },
+        {
+          "text": "Lewis Hamilton",
+          "location": [
+            53,
+            67
+          ]
+        },
+        {
+          "text": "Hamilton",
+          "location": [
+            154,
+            162
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            183,
+            185
+          ]
+        },
+        {
+          "text": "Hamilton",
+          "location": [
+            262,
+            270
+          ]
+        },
+        {
+          "text": "Hamilton",
+          "location": [
+            509,
+            517
+          ]
+        },
+        {
+          "text": "Hamilton",
+          "location": [
+            775,
+            783
+          ]
+        },
+        {
+          "text": "Lewis Hamilton",
+          "location": [
+            836,
+            850
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.643789,
+        "joy": 0.549347,
+        "fear": 0.107359,
+        "disgust": 0.192283,
+        "anger": 0.085936
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "ChivalricOrderMember",
+          "TVActor"
+        ],
+        "name": "Lewis Hamilton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lewis_Hamilton"
+      },
+      "count": 9
+    },
+    {
+      "type": "Organization",
+      "text": "Australian Grand Prix",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.262806,
+      "mentions": [
+        {
+          "text": "Grand Prix",
+          "location": [
+            219,
+            229
+          ]
+        },
+        {
+          "text": "Australian Grand Prix",
+          "location": [
+            302,
+            323
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.092648,
+        "joy": 0.731983,
+        "fear": 0.057416,
+        "disgust": 0.051441,
+        "anger": 0.07186
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sebastian Vettel",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.216635,
+      "mentions": [
+        {
+          "text": "Sebastian Vettel",
+          "location": [
+            243,
+            259
+          ]
+        },
+        {
+          "text": "Sebastian Vettel",
+          "location": [
+            563,
+            579
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.702613,
+        "joy": 0.091847,
+        "fear": 0.086191,
+        "disgust": 0.134172,
+        "anger": 0.189949
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete"
+        ],
+        "name": "Sebastian Vettel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sebastian_Vettel"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Max Verstappen",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.124059,
+      "mentions": [
+        {
+          "text": "Max Verstappen",
+          "location": [
+            616,
+            630
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.779313,
+        "joy": 0.015452,
+        "fear": 0.123374,
+        "disgust": 0.125736,
+        "anger": 0.173506
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Formula One",
+      "relevance": 0.957502,
+      "dbpedia_resource": "http://dbpedia.org/resource/Formula_One"
+    },
+    {
+      "text": "2008 Singapore Grand Prix",
+      "relevance": 0.672279,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Singapore_Grand_Prix"
+    },
+    {
+      "text": "2007 Formula One season",
+      "relevance": 0.665563,
+      "dbpedia_resource": "http://dbpedia.org/resource/2007_Formula_One_season"
+    },
+    {
+      "text": "2008 Canadian Grand Prix",
+      "relevance": 0.662392,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Canadian_Grand_Prix"
+    },
+    {
+      "text": "Kimi R\u00e4ikk\u00f6nen",
+      "relevance": 0.645257,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kimi_R\u00e4ikk\u00f6nen"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.887997,
+      "label": "/automotive and vehicles/cars/car culture"
+    }
+  ]
+}

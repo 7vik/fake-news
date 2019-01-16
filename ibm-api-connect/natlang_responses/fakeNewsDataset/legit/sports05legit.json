@@ -1,0 +1,340 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1062,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.638946,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Asha Francis",
+      "sentiment": {
+        "score": 0.915506,
+        "label": "positive"
+      },
+      "relevance": 0.756257,
+      "emotion": {
+        "sadness": 0.078649,
+        "joy": 0.573371,
+        "fear": 0.027047,
+        "disgust": 0.034577,
+        "anger": 0.079022
+      },
+      "count": 2
+    },
+    {
+      "text": "versatile Team Bath attacker Francis",
+      "sentiment": {
+        "score": 0.408759,
+        "label": "positive"
+      },
+      "relevance": 0.739336,
+      "emotion": {
+        "sadness": 0.311558,
+        "joy": 0.456773,
+        "fear": 0.013068,
+        "disgust": 0.134948,
+        "anger": 0.131308
+      },
+      "count": 1
+    },
+    {
+      "text": "Sarah Wiltshire",
+      "sentiment": {
+        "score": 0.915506,
+        "label": "positive"
+      },
+      "relevance": 0.657752,
+      "emotion": {
+        "sadness": 0.078649,
+        "joy": 0.573371,
+        "fear": 0.027047,
+        "disgust": 0.034577,
+        "anger": 0.079022
+      },
+      "count": 1
+    },
+    {
+      "text": "Midnight feeds",
+      "sentiment": {
+        "score": 0.915506,
+        "label": "positive"
+      },
+      "relevance": 0.657511,
+      "emotion": {
+        "sadness": 0.078004,
+        "joy": 0.573025,
+        "fear": 0.029922,
+        "disgust": 0.024872,
+        "anger": 0.072785
+      },
+      "count": 1
+    },
+    {
+      "text": "Britain's top-flight competition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.616214,
+      "emotion": {
+        "sadness": 0.292509,
+        "joy": 0.320121,
+        "fear": 0.048754,
+        "disgust": 0.038707,
+        "anger": 0.164695
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sarah Wiltshire",
+      "sentiment": {
+        "score": 0.148499,
+        "label": "positive"
+      },
+      "relevance": 0.877024,
+      "mentions": [
+        {
+          "text": "Sarah Wiltshire",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Sarah Wiltshire",
+          "location": [
+            170,
+            185
+          ]
+        },
+        {
+          "text": "Wiltshire",
+          "location": [
+            328,
+            337
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            349,
+            352
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            489,
+            491
+          ]
+        },
+        {
+          "text": "Wiltshire",
+          "location": [
+            534,
+            543
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            560,
+            563
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            636,
+            639
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.499161,
+        "joy": 0.641751,
+        "fear": 0.065841,
+        "disgust": 0.131711,
+        "anger": 0.16024
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Asha Francis",
+      "sentiment": {
+        "score": 0.58594,
+        "label": "positive"
+      },
+      "relevance": 0.603328,
+      "mentions": [
+        {
+          "text": "Asha Francis",
+          "location": [
+            20,
+            32
+          ]
+        },
+        {
+          "text": "Asha Francis",
+          "location": [
+            190,
+            202
+          ]
+        },
+        {
+          "text": "Francis",
+          "location": [
+            701,
+            708
+          ]
+        },
+        {
+          "text": "Francis",
+          "location": [
+            887,
+            894
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.166757,
+        "joy": 0.640866,
+        "fear": 0.005289,
+        "disgust": 0.055238,
+        "anger": 0.153419
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Cambridge United Women",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.219568,
+      "mentions": [
+        {
+          "text": "Cambridge United Women",
+          "location": [
+            406,
+            428
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            500,
+            504
+          ]
+        },
+        {
+          "text": "my two favourite ladies",
+          "location": [
+            509,
+            532
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123213,
+        "joy": 0.633975,
+        "fear": 0.018916,
+        "disgust": 0.185115,
+        "anger": 0.116661
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "netball Superleague club",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.195114,
+      "mentions": [
+        {
+          "text": "netball Superleague club",
+          "location": [
+            763,
+            787
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "BBC Sport",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.159657,
+      "mentions": [
+        {
+          "text": "BBC Sport",
+          "location": [
+            549,
+            558
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.199388,
+        "joy": 0.674205,
+        "fear": 0.024891,
+        "disgust": 0.048479,
+        "anger": 0.083682
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "BBC Sport",
+        "dbpedia_resource": "http://dbpedia.org/resource/BBC_Sport"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "England",
+      "relevance": 0.987458,
+      "dbpedia_resource": "http://dbpedia.org/resource/England"
+    },
+    {
+      "text": "Mother",
+      "relevance": 0.963901,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mother"
+    },
+    {
+      "text": "Mother's Day",
+      "relevance": 0.953895,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mother's_Day"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.854088,
+      "label": "/family and parenting/motherhood"
+    }
+  ]
+}

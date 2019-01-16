@@ -1,0 +1,359 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 839,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.760441,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Have",
+      "sentiment": {
+        "score": 0.615222,
+        "label": "positive"
+      },
+      "relevance": 0.716403,
+      "emotion": {
+        "sadness": 0.045113,
+        "joy": 0.69212,
+        "fear": 0.184777,
+        "disgust": 0.015202,
+        "anger": 0.09742
+      },
+      "count": 1
+    },
+    {
+      "text": "Cannes Film Festival",
+      "sentiment": {
+        "score": 0.615222,
+        "label": "positive"
+      },
+      "relevance": 0.710345,
+      "emotion": {
+        "sadness": 0.174233,
+        "joy": 0.654886,
+        "fear": 0.016667,
+        "disgust": 0.082148,
+        "anger": 0.076578
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.615222,
+        "label": "positive"
+      },
+      "relevance": 0.680289,
+      "emotion": {
+        "sadness": 0.174233,
+        "joy": 0.654886,
+        "fear": 0.016667,
+        "disgust": 0.082148,
+        "anger": 0.076578
+      },
+      "count": 1
+    },
+    {
+      "text": "next day",
+      "sentiment": {
+        "score": 0.909893,
+        "label": "positive"
+      },
+      "relevance": 0.662643,
+      "emotion": {
+        "sadness": 0.053502,
+        "joy": 0.884624,
+        "fear": 0.025009,
+        "disgust": 0.021745,
+        "anger": 0.015035
+      },
+      "count": 1
+    },
+    {
+      "text": "Boat Day",
+      "sentiment": {
+        "score": 0.615222,
+        "label": "positive"
+      },
+      "relevance": 0.647554,
+      "emotion": {
+        "sadness": 0.045113,
+        "joy": 0.69212,
+        "fear": 0.184777,
+        "disgust": 0.015202,
+        "anger": 0.09742
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.663978,
+        "label": "positive"
+      },
+      "relevance": 0.824808,
+      "mentions": [
+        {
+          "text": "Kendall",
+          "location": [
+            13,
+            20
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            93,
+            107
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            599,
+            606
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            730,
+            737
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            810,
+            817
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.137189,
+        "joy": 0.780522,
+        "fear": 0.00671,
+        "disgust": 0.055787,
+        "anger": 0.009967
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 5
+    },
+    {
+      "type": "Award",
+      "text": "Cannes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.483955,
+      "mentions": [
+        {
+          "text": "Cannes",
+          "location": [
+            62,
+            68
+          ]
+        },
+        {
+          "text": "Cannes",
+          "location": [
+            166,
+            172
+          ]
+        },
+        {
+          "text": "Cannes",
+          "location": [
+            820,
+            826
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kourtney Kardashian",
+      "sentiment": {
+        "score": 0.83478,
+        "label": "positive"
+      },
+      "relevance": 0.397981,
+      "mentions": [
+        {
+          "text": "Kourtney",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Kourtney Kardashian",
+          "location": [
+            69,
+            88
+          ]
+        },
+        {
+          "text": "Kourtney",
+          "location": [
+            495,
+            503
+          ]
+        },
+        {
+          "text": "Kourtney",
+          "location": [
+            797,
+            805
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.123379,
+        "joy": 0.733591,
+        "fear": 0.034864,
+        "disgust": 0.083866,
+        "anger": 0.016562
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Kourtney Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jean-Michel Cousteau",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.308484,
+      "mentions": [
+        {
+          "text": "Jean-Michel Cousteau",
+          "location": [
+            540,
+            560
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.233147,
+        "joy": 0.263238,
+        "fear": 0.05534,
+        "disgust": 0.132347,
+        "anger": 0.227875
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jean-Michel Cousteau",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jean-Michel_Cousteau"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Antibes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.272277,
+      "mentions": [
+        {
+          "text": "Antibes",
+          "location": [
+            259,
+            266
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.215215,
+        "joy": 0.38826,
+        "fear": 0.026399,
+        "disgust": 0.151352,
+        "anger": 0.021224
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "City"
+        ],
+        "name": "Antibes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Antibes"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.966351,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Cannes Film Festival",
+      "relevance": 0.778156,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cannes_Film_Festival"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.760113,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.758406,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.753346,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.68121,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.668302,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Detailed History of Selena Gomez",
+      "sentiment": {
+        "score": -0.668302,
+        "label": "negative"
+      },
+      "relevance": 0.997062,
+      "emotion": {
+        "sadness": 0.369221,
+        "joy": 0.34641,
+        "fear": 0.060911,
+        "disgust": 0.095719,
+        "anger": 0.039619
+      },
+      "count": 1
+    },
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.668302,
+        "label": "negative"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.369221,
+        "joy": 0.34641,
+        "fear": 0.060911,
+        "disgust": 0.095719,
+        "anger": 0.039619
+      },
+      "count": 1
+    },
+    {
+      "text": "Again Relationship",
+      "sentiment": {
+        "score": -0.668302,
+        "label": "negative"
+      },
+      "relevance": 0.029865,
+      "emotion": {
+        "sadness": 0.369221,
+        "joy": 0.34641,
+        "fear": 0.060911,
+        "disgust": 0.095719,
+        "anger": 0.039619
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": -0.707688,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            22,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.166244,
+        "joy": 0.284417,
+        "fear": 0.10159,
+        "disgust": 0.112634,
+        "anger": 0.06017
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.707688,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            39,
+            52
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.718208,
+      "label": "/society/dating"
+    }
+  ]
+}

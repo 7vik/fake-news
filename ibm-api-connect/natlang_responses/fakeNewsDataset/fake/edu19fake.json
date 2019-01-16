@@ -1,0 +1,240 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 530,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.557173,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "children's school performance",
+      "sentiment": {
+        "score": -0.913274,
+        "label": "negative"
+      },
+      "relevance": 0.791214,
+      "emotion": {
+        "sadness": 0.155588,
+        "joy": 0.217054,
+        "fear": 0.079439,
+        "disgust": 0.32635,
+        "anger": 0.176611
+      },
+      "count": 1
+    },
+    {
+      "text": "school-food programs",
+      "sentiment": {
+        "score": 0.41009,
+        "label": "positive"
+      },
+      "relevance": 0.722719,
+      "emotion": {
+        "sadness": 0.378598,
+        "joy": 0.46061,
+        "fear": 0.062769,
+        "disgust": 0.058011,
+        "anger": 0.015553
+      },
+      "count": 1
+    },
+    {
+      "text": "better level",
+      "sentiment": {
+        "score": 0.41009,
+        "label": "positive"
+      },
+      "relevance": 0.597273,
+      "emotion": {
+        "sadness": 0.378598,
+        "joy": 0.46061,
+        "fear": 0.062769,
+        "disgust": 0.058011,
+        "anger": 0.015553
+      },
+      "count": 1
+    },
+    {
+      "text": "Nutrition",
+      "sentiment": {
+        "score": -0.913274,
+        "label": "negative"
+      },
+      "relevance": 0.562944,
+      "emotion": {
+        "sadness": 0.155588,
+        "joy": 0.217054,
+        "fear": 0.079439,
+        "disgust": 0.32635,
+        "anger": 0.176611
+      },
+      "count": 1
+    },
+    {
+      "text": "programs",
+      "sentiment": {
+        "score": -0.557173,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.562601,
+      "emotion": {
+        "sadness": 0.389827,
+        "joy": 0.429339,
+        "fear": 0.080463,
+        "disgust": 0.097605,
+        "anger": 0.055304
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.979405,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            83,
+            105
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "sentiment": {
+        "score": -0.317588,
+        "label": "negative"
+      },
+      "relevance": 0.438209,
+      "mentions": [
+        {
+          "text": "Mexico",
+          "location": [
+            271,
+            277
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278225,
+        "joy": 0.280068,
+        "fear": 0.1683,
+        "disgust": 0.067292,
+        "anger": 0.170838
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "FilmCinematographer",
+          "Country"
+        ],
+        "name": "Mexico",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mexico"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.317588,
+        "label": "negative"
+      },
+      "relevance": 0.332562,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            254,
+            258
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278225,
+        "joy": 0.280068,
+        "fear": 0.1683,
+        "disgust": 0.067292,
+        "anger": 0.170838
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.922027,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.771705,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.768877,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.970913,
+      "label": "/health and fitness/nutrition"
+    }
+  ]
+}

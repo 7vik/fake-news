@@ -1,0 +1,386 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1409,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.640735,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mr Trump",
+      "sentiment": {
+        "score": 0.963198,
+        "label": "positive"
+      },
+      "relevance": 0.837412,
+      "emotion": {
+        "sadness": 0.030679,
+        "joy": 0.794911,
+        "fear": 0.027441,
+        "disgust": 0.086954,
+        "anger": 0.051452
+      },
+      "count": 1
+    },
+    {
+      "text": "real woman",
+      "sentiment": {
+        "score": -0.868011,
+        "label": "negative"
+      },
+      "relevance": 0.694723,
+      "emotion": {
+        "sadness": 0.430523,
+        "joy": 0.055235,
+        "fear": 0.054722,
+        "disgust": 0.604804,
+        "anger": 0.143315
+      },
+      "count": 1
+    },
+    {
+      "text": "Julie Newmar",
+      "sentiment": {
+        "score": -0.868011,
+        "label": "negative"
+      },
+      "relevance": 0.690945,
+      "emotion": {
+        "sadness": 0.430523,
+        "joy": 0.055235,
+        "fear": 0.054722,
+        "disgust": 0.604804,
+        "anger": 0.143315
+      },
+      "count": 1
+    },
+    {
+      "text": "exclusive interview",
+      "sentiment": {
+        "score": 0.963198,
+        "label": "positive"
+      },
+      "relevance": 0.641685,
+      "emotion": {
+        "sadness": 0.030679,
+        "joy": 0.794911,
+        "fear": 0.027441,
+        "disgust": 0.086954,
+        "anger": 0.051452
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.907044,
+        "label": "negative"
+      },
+      "relevance": 0.633286,
+      "emotion": {
+        "sadness": 0.430523,
+        "joy": 0.055235,
+        "fear": 0.054722,
+        "disgust": 0.604804,
+        "anger": 0.143315
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rupaul",
+      "sentiment": {
+        "score": -0.049982,
+        "label": "negative"
+      },
+      "relevance": 0.617913,
+      "mentions": [
+        {
+          "text": "Rupaul",
+          "location": [
+            55,
+            61
+          ]
+        },
+        {
+          "text": "Rupaul",
+          "location": [
+            465,
+            471
+          ]
+        },
+        {
+          "text": "Rupaul",
+          "location": [
+            1317,
+            1323
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.542749,
+        "joy": 0.036987,
+        "fear": 0.096306,
+        "disgust": 0.507246,
+        "anger": 0.110201
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "RuPaul",
+        "dbpedia_resource": "http://dbpedia.org/resource/RuPaul"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Donald\u00a0Trump",
+      "sentiment": {
+        "score": -0.233859,
+        "label": "negative"
+      },
+      "relevance": 0.603487,
+      "mentions": [
+        {
+          "text": "Mr Trump",
+          "location": [
+            72,
+            80
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            98,
+            101
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            272,
+            274
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            280,
+            285
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            302,
+            305
+          ]
+        },
+        {
+          "text": "Donald\u00a0Trump",
+          "location": [
+            344,
+            356
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            399,
+            401
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            682,
+            687
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            870,
+            875
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            1196,
+            1201
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            1332,
+            1337
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1378,
+            1380
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.630789,
+        "joy": 0.114164,
+        "fear": 0.082412,
+        "disgust": 0.61451,
+        "anger": 0.134872
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 12
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Hollywood Inquirer",
+      "sentiment": {
+        "score": 0.646713,
+        "label": "positive"
+      },
+      "relevance": 0.481627,
+      "mentions": [
+        {
+          "text": "Hollywood Inquirer",
+          "location": [
+            35,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.040757,
+        "joy": 0.472309,
+        "fear": 0.132154,
+        "disgust": 0.125289,
+        "anger": 0.01478
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Billy Bush",
+      "sentiment": {
+        "score": -0.401878,
+        "label": "negative"
+      },
+      "relevance": 0.424274,
+      "mentions": [
+        {
+          "text": "Billy Bush",
+          "location": [
+            1078,
+            1088
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.275551,
+        "joy": 0.092483,
+        "fear": 0.209181,
+        "disgust": 0.548998,
+        "anger": 0.093739
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality",
+          "BroadcastArtist",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Billy Bush",
+        "dbpedia_resource": "http://dbpedia.org/resource/Billy_Bush"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Julie Newmar.The",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.422889,
+      "mentions": [
+        {
+          "text": "Julie Newmar.The",
+          "location": [
+            191,
+            207
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.082249,
+        "joy": 0.546511,
+        "fear": 0.077761,
+        "disgust": 0.242973,
+        "anger": 0.117025
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Washington Post",
+      "relevance": 0.937194,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+    },
+    {
+      "text": "Sexual intercourse",
+      "relevance": 0.927795,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sexual_intercourse"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.863472,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Sexual harassment",
+      "relevance": 0.861579,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sexual_harassment"
+    },
+    {
+      "text": "Drag queen",
+      "relevance": 0.852564,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drag_queen"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.980268,
+      "label": "/society/crime/sexual offence"
+    }
+  ]
+}

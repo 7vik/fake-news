@@ -1,0 +1,264 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 773,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.713266,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Social Security numbers of customers",
+      "sentiment": {
+        "score": -0.635742,
+        "label": "negative"
+      },
+      "relevance": 0.866638,
+      "emotion": {
+        "sadness": 0.181207,
+        "joy": 0.007592,
+        "fear": 0.06565,
+        "disgust": 0.842881,
+        "anger": 0.129267
+      },
+      "count": 1
+    },
+    {
+      "text": "Internet porn protections",
+      "sentiment": {
+        "score": -0.951727,
+        "label": "negative"
+      },
+      "relevance": 0.800651,
+      "emotion": {
+        "sadness": 0.291098,
+        "joy": 0.022735,
+        "fear": 0.064742,
+        "disgust": 0.749037,
+        "anger": 0.095015
+      },
+      "count": 1
+    },
+    {
+      "text": "party-line vote",
+      "sentiment": {
+        "score": -0.635742,
+        "label": "negative"
+      },
+      "relevance": 0.687509,
+      "emotion": {
+        "sadness": 0.181207,
+        "joy": 0.007592,
+        "fear": 0.06565,
+        "disgust": 0.842881,
+        "anger": 0.129267
+      },
+      "count": 1
+    },
+    {
+      "text": "new legislation",
+      "sentiment": {
+        "score": -0.495945,
+        "label": "negative"
+      },
+      "relevance": 0.622907,
+      "emotion": {
+        "sadness": 0.063393,
+        "joy": 0.415586,
+        "fear": 0.110494,
+        "disgust": 0.431956,
+        "anger": 0.036566
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.951727,
+        "label": "negative"
+      },
+      "relevance": 0.618052,
+      "emotion": {
+        "sadness": 0.373272,
+        "joy": 0.043094,
+        "fear": 0.017749,
+        "disgust": 0.694785,
+        "anger": 0.036616
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.622287,
+        "label": "negative"
+      },
+      "relevance": 0.932274,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            148,
+            163
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            188,
+            191
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.348385,
+        "joy": 0.050491,
+        "fear": 0.013481,
+        "disgust": 0.70875,
+        "anger": 0.039387
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.696323,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            59,
+            64
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.291098,
+        "joy": 0.022735,
+        "fear": 0.064742,
+        "disgust": 0.749037,
+        "anger": 0.095015
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Congress",
+      "sentiment": {
+        "score": -0.622287,
+        "label": "negative"
+      },
+      "relevance": 0.450264,
+      "mentions": [
+        {
+          "text": "Congress",
+          "location": [
+            195,
+            203
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.373272,
+        "joy": 0.043094,
+        "fear": 0.017749,
+        "disgust": 0.694785,
+        "anger": 0.036616
+      },
+      "disambiguation": {
+        "subtype": [
+          "Dedicator",
+          "GovernmentalBody",
+          "Legislature",
+          "NaturalOrCulturalPreservationAgency"
+        ],
+        "name": "United States Congress",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": -0.576123,
+        "label": "negative"
+      },
+      "relevance": 0.418296,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            340,
+            350
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158816,
+        "joy": 0.041957,
+        "fear": 0.017051,
+        "disgust": 0.739608,
+        "anger": 0.07523
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "MilitaryPost",
+          "PlaceWithNeighborhoods",
+          "USCounty",
+          "City"
+        ],
+        "name": "Washington, D.C.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pornography",
+      "relevance": 0.961948,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pornography"
+    },
+    {
+      "text": "Website",
+      "relevance": 0.750699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Website"
+    },
+    {
+      "text": "United States Congress",
+      "relevance": 0.65353,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+    },
+    {
+      "text": "Internet",
+      "relevance": 0.652383,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet"
+    },
+    {
+      "text": "Content-control software",
+      "relevance": 0.573879,
+      "dbpedia_resource": "http://dbpedia.org/resource/Content-control_software"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.994048,
+      "label": "/technology and computing/internet technology"
+    }
+  ]
+}

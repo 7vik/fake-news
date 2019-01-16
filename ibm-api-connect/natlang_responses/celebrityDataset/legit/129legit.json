@@ -1,0 +1,323 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 588,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.466943,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hollywood Film Awards",
+      "sentiment": {
+        "score": 0.853438,
+        "label": "positive"
+      },
+      "relevance": 0.886904,
+      "emotion": {
+        "sadness": 0.040998,
+        "joy": 0.775428,
+        "fear": 0.030249,
+        "disgust": 0.036354,
+        "anger": 0.036075
+      },
+      "count": 2
+    },
+    {
+      "text": "Best Actress award",
+      "sentiment": {
+        "score": 0.853438,
+        "label": "positive"
+      },
+      "relevance": 0.868434,
+      "emotion": {
+        "sadness": 0.054605,
+        "joy": 0.771746,
+        "fear": 0.039412,
+        "disgust": 0.032519,
+        "anger": 0.031534
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.853438,
+        "label": "positive"
+      },
+      "relevance": 0.774068,
+      "emotion": {
+        "sadness": 0.040998,
+        "joy": 0.775428,
+        "fear": 0.030249,
+        "disgust": 0.036354,
+        "anger": 0.036075
+      },
+      "count": 2
+    },
+    {
+      "text": "Best Supporting Actress",
+      "sentiment": {
+        "score": 0.853438,
+        "label": "positive"
+      },
+      "relevance": 0.739736,
+      "emotion": {
+        "sadness": 0.054605,
+        "joy": 0.771746,
+        "fear": 0.039412,
+        "disgust": 0.032519,
+        "anger": 0.031534
+      },
+      "count": 1
+    },
+    {
+      "text": "Mary J. Blige",
+      "sentiment": {
+        "score": 0.466943,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.719611,
+      "emotion": {
+        "sadness": 0.054605,
+        "joy": 0.771746,
+        "fear": 0.039412,
+        "disgust": 0.032519,
+        "anger": 0.031534
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Margot Robbie",
+      "sentiment": {
+        "score": 0.373355,
+        "label": "positive"
+      },
+      "relevance": 0.8782,
+      "mentions": [
+        {
+          "text": "Margot Robbie",
+          "location": [
+            48,
+            61
+          ]
+        },
+        {
+          "text": "Margot Robbie",
+          "location": [
+            153,
+            166
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13579,
+        "joy": 0.191464,
+        "fear": 0.095715,
+        "disgust": 0.136145,
+        "anger": 0.104659
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVActor"
+        ],
+        "name": "Margot Robbie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Margot_Robbie"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.510604,
+        "label": "positive"
+      },
+      "relevance": 0.869379,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            32,
+            46
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            196,
+            210
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142911,
+        "joy": 0.250431,
+        "fear": 0.02608,
+        "disgust": 0.016033,
+        "anger": 0.046463
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jenny Packham",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.436051,
+      "mentions": [
+        {
+          "text": "Jenny Packham",
+          "location": [
+            512,
+            525
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.255482,
+        "joy": 0.322328,
+        "fear": 0.168298,
+        "disgust": 0.220399,
+        "anger": 0.031349
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Jenny Packham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jenny_Packham"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Louis Vuitton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.421422,
+      "mentions": [
+        {
+          "text": "Louis Vuitton",
+          "location": [
+            180,
+            193
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.195941,
+        "joy": 0.179284,
+        "fear": 0.106087,
+        "disgust": 0.213754,
+        "anger": 0.102396
+      },
+      "disambiguation": {
+        "subtype": [
+          "Person",
+          "FashionLabel"
+        ],
+        "name": "Louis Vuitton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Louis_Vuitton"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kate Winslet",
+      "sentiment": {
+        "score": 0.473573,
+        "label": "positive"
+      },
+      "relevance": 0.40373,
+      "mentions": [
+        {
+          "text": "Kate Winslet",
+          "location": [
+            286,
+            298
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.167071,
+        "joy": 0.204737,
+        "fear": 0.029159,
+        "disgust": 0.01391,
+        "anger": 0.053645
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kate Winslet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.981095,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Academy Award for Best Supporting Actress",
+      "relevance": 0.907057,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actress"
+    },
+    {
+      "text": "Mary J. Blige",
+      "relevance": 0.588413,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mary_J._Blige"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.575928,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "BAFTA Award for Best Actress in a Leading Role",
+      "relevance": 0.564305,
+      "dbpedia_resource": "http://dbpedia.org/resource/BAFTA_Award_for_Best_Actress_in_a_Leading_Role"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.79216,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

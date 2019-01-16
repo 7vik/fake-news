@@ -1,0 +1,276 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 973,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.763928,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "southern man",
+      "sentiment": {
+        "score": -0.942414,
+        "label": "negative"
+      },
+      "relevance": 0.769639,
+      "emotion": {
+        "sadness": 0.343499,
+        "joy": 0.253676,
+        "fear": 0.06223,
+        "disgust": 0.259921,
+        "anger": 0.281147
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.942414,
+        "label": "negative"
+      },
+      "relevance": 0.679282,
+      "emotion": {
+        "sadness": 0.306613,
+        "joy": 0.313342,
+        "fear": 0.048112,
+        "disgust": 0.240797,
+        "anger": 0.276394
+      },
+      "count": 2
+    },
+    {
+      "text": "Presidential Election",
+      "sentiment": {
+        "score": -0.942414,
+        "label": "negative"
+      },
+      "relevance": 0.675958,
+      "emotion": {
+        "sadness": 0.343499,
+        "joy": 0.253676,
+        "fear": 0.06223,
+        "disgust": 0.259921,
+        "anger": 0.281147
+      },
+      "count": 1
+    },
+    {
+      "text": "Brad Pitt Feels",
+      "sentiment": {
+        "score": -0.942414,
+        "label": "negative"
+      },
+      "relevance": 0.671072,
+      "emotion": {
+        "sadness": 0.248748,
+        "joy": 0.309162,
+        "fear": 0.046623,
+        "disgust": 0.208762,
+        "anger": 0.146152
+      },
+      "count": 1
+    },
+    {
+      "text": "52-year-old actor",
+      "sentiment": {
+        "score": -0.814555,
+        "label": "negative"
+      },
+      "relevance": 0.662065,
+      "emotion": {
+        "sadness": 0.343499,
+        "joy": 0.253676,
+        "fear": 0.06223,
+        "disgust": 0.259921,
+        "anger": 0.281147
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.246778,
+        "label": "positive"
+      },
+      "relevance": 0.852481,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            33,
+            45
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            178,
+            190
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            584,
+            589
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            610,
+            612
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            710,
+            712
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.125718,
+        "joy": 0.088798,
+        "fear": 0.046758,
+        "disgust": 0.153887,
+        "anger": 0.106896
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.860609,
+        "label": "positive"
+      },
+      "relevance": 0.574714,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            11,
+            20
+          ]
+        },
+        {
+          "text": "Brad Pitt",
+          "location": [
+            118,
+            127
+          ]
+        },
+        {
+          "text": "Pitt",
+          "location": [
+            414,
+            418
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.222202,
+        "joy": 0.403522,
+        "fear": 0.031631,
+        "disgust": 0.143405,
+        "anger": 0.136893
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "European Union",
+      "sentiment": {
+        "score": -0.294314,
+        "label": "negative"
+      },
+      "relevance": 0.293495,
+      "mentions": [
+        {
+          "text": "European Union",
+          "location": [
+            398,
+            412
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.510177,
+        "joy": 0.190025,
+        "fear": 0.088755,
+        "disgust": 0.130758,
+        "anger": 0.156737
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.940546,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.905136,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "Thought",
+      "relevance": 0.877793,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thought"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.84105,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.766112,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.649602,
+      "label": "/finance/financial news"
+    }
+  ]
+}

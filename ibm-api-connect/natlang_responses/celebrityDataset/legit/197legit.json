@@ -1,0 +1,78 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new directions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999487,
+      "emotion": {
+        "sadness": 0.066841,
+        "joy": 0.513874,
+        "fear": 0.078422,
+        "disgust": 0.010073,
+        "anger": 0.049229
+      },
+      "count": 1
+    },
+    {
+      "text": "solo projects",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993349,
+      "emotion": {
+        "sadness": 0.066841,
+        "joy": 0.513874,
+        "fear": 0.078422,
+        "disgust": 0.010073,
+        "anger": 0.049229
+      },
+      "count": 1
+    },
+    {
+      "text": "Direction",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.734316,
+      "emotion": {
+        "sadness": 0.066841,
+        "joy": 0.513874,
+        "fear": 0.078422,
+        "disgust": 0.010073,
+        "anger": 0.049229
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Cardinal direction",
+      "relevance": 0.895888,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cardinal_direction"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.580067,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 48,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.316008,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Liam Payne Just Dissed Harry Styles' Solo Music",
+      "sentiment": {
+        "score": -0.316008,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.06733,
+        "joy": 0.578991,
+        "fear": 0.024104,
+        "disgust": 0.092246,
+        "anger": 0.05777
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Liam Payne",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Liam Payne",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.077431,
+        "joy": 0.35047,
+        "fear": 0.031185,
+        "disgust": 0.23842,
+        "anger": 0.076086
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Harry Styles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Harry Styles",
+          "location": [
+            23,
+            35
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.077431,
+        "joy": 0.35047,
+        "fear": 0.031185,
+        "disgust": 0.23842,
+        "anger": 0.076086
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Music",
+      "relevance": 0.867042,
+      "dbpedia_resource": "http://dbpedia.org/resource/Music"
+    },
+    {
+      "text": "Solo",
+      "relevance": 0.865623,
+      "dbpedia_resource": "http://dbpedia.org/resource/Solo_(music)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.827026,
+      "label": "/art and entertainment/music/music genres/world music"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 753,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.877818,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Arne Duncan Blasts Trump Administration",
+      "sentiment": {
+        "score": -0.963577,
+        "label": "negative"
+      },
+      "relevance": 0.850547,
+      "emotion": {
+        "sadness": 0.192958,
+        "joy": 0.46069,
+        "fear": 0.030721,
+        "disgust": 0.081764,
+        "anger": 0.178041
+      },
+      "count": 1
+    },
+    {
+      "text": "Former Education Secretary Arne Duncan",
+      "sentiment": {
+        "score": -0.963577,
+        "label": "negative"
+      },
+      "relevance": 0.83329,
+      "emotion": {
+        "sadness": 0.312634,
+        "joy": 0.157221,
+        "fear": 0.06741,
+        "disgust": 0.205116,
+        "anger": 0.245248
+      },
+      "count": 1
+    },
+    {
+      "text": "transgender students",
+      "sentiment": {
+        "score": -0.963577,
+        "label": "negative"
+      },
+      "relevance": 0.713687,
+      "emotion": {
+        "sadness": 0.237668,
+        "joy": 0.413159,
+        "fear": 0.035678,
+        "disgust": 0.248281,
+        "anger": 0.148461
+      },
+      "count": 2
+    },
+    {
+      "text": "civil rights",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.6576,
+      "emotion": {
+        "sadness": 0.219056,
+        "joy": 0.461438,
+        "fear": 0.047671,
+        "disgust": 0.214962,
+        "anger": 0.08818
+      },
+      "count": 1
+    },
+    {
+      "text": "civil rights of students",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.65553,
+      "emotion": {
+        "sadness": 0.219056,
+        "joy": 0.461438,
+        "fear": 0.047671,
+        "disgust": 0.214962,
+        "anger": 0.08818
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Education Secretary Arne Duncan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.854268,
+      "mentions": [
+        {
+          "text": "Arne Duncan",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Education Secretary Arne Duncan",
+          "location": [
+            73,
+            104
+          ]
+        },
+        {
+          "text": "Duncan",
+          "location": [
+            516,
+            522
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.205524,
+        "joy": 0.301623,
+        "fear": 0.03271,
+        "disgust": 0.21013,
+        "anger": 0.293806
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Trump administration",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.6748,
+      "mentions": [
+        {
+          "text": "Trump Administration",
+          "location": [
+            19,
+            39
+          ]
+        },
+        {
+          "text": "Trump administration",
+          "location": [
+            121,
+            141
+          ]
+        },
+        {
+          "text": "the Trump administration",
+          "location": [
+            301,
+            325
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225422,
+        "joy": 0.481141,
+        "fear": 0.011331,
+        "disgust": 0.199748,
+        "anger": 0.097702
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.240801,
+      "mentions": [
+        {
+          "text": "secretary",
+          "location": [
+            572,
+            581
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.304942,
+        "joy": 0.203142,
+        "fear": 0.069572,
+        "disgust": 0.200768,
+        "anger": 0.189648
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Catherine Lhamon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.177348,
+      "mentions": [
+        {
+          "text": "Catherine Lhamon",
+          "location": [
+            527,
+            543
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.189389,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Washington Post",
+      "relevance": 0.919658,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+    },
+    {
+      "text": "Civil and political rights",
+      "relevance": 0.89355,
+      "dbpedia_resource": "http://dbpedia.org/resource/Civil_and_political_rights"
+    },
+    {
+      "text": "Arne Duncan",
+      "relevance": 0.87147,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arne_Duncan"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.86473,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Gender role",
+      "relevance": 0.842963,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gender_role"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.987044,
+      "label": "/education/special education"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 761,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.654325,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "party-line vote  House Republicans",
+      "sentiment": {
+        "score": -0.458309,
+        "label": "negative"
+      },
+      "relevance": 0.809767,
+      "emotion": {
+        "sadness": 0.140605,
+        "joy": 0.223817,
+        "fear": 0.049488,
+        "disgust": 0.073608,
+        "anger": 0.053378
+      },
+      "count": 1
+    },
+    {
+      "text": "Internet service providers",
+      "sentiment": {
+        "score": -0.458309,
+        "label": "negative"
+      },
+      "relevance": 0.719159,
+      "emotion": {
+        "sadness": 0.140605,
+        "joy": 0.223817,
+        "fear": 0.049488,
+        "disgust": 0.073608,
+        "anger": 0.053378
+      },
+      "count": 1
+    },
+    {
+      "text": "Internet access",
+      "sentiment": {
+        "score": -0.819291,
+        "label": "negative"
+      },
+      "relevance": 0.695615,
+      "emotion": {
+        "sadness": 0.726517,
+        "joy": 0.066501,
+        "fear": 0.066584,
+        "disgust": 0.148673,
+        "anger": 0.122497
+      },
+      "count": 1
+    },
+    {
+      "text": "online privacy protections",
+      "sentiment": {
+        "score": -0.819291,
+        "label": "negative"
+      },
+      "relevance": 0.694677,
+      "emotion": {
+        "sadness": 0.726517,
+        "joy": 0.066501,
+        "fear": 0.066584,
+        "disgust": 0.148673,
+        "anger": 0.122497
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.819291,
+        "label": "negative"
+      },
+      "relevance": 0.668159,
+      "emotion": {
+        "sadness": 0.726517,
+        "joy": 0.066501,
+        "fear": 0.066584,
+        "disgust": 0.148673,
+        "anger": 0.122497
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.569689,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            120,
+            135
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.726517,
+        "joy": 0.066501,
+        "fear": 0.066584,
+        "disgust": 0.148673,
+        "anger": 0.122497
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "FCC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.50031,
+      "mentions": [
+        {
+          "text": "FCC",
+          "location": [
+            38,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Federal Communications Commission",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Communications_Commission"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Verizon AT&T",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.464499,
+      "mentions": [
+        {
+          "text": "Verizon  AT&T",
+          "location": [
+            424,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140605,
+        "joy": 0.223817,
+        "fear": 0.049488,
+        "disgust": 0.073608,
+        "anger": 0.053378
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Internet",
+      "relevance": 0.967818,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet"
+    },
+    {
+      "text": "Ronald Reagan",
+      "relevance": 0.858505,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+      "text": "Internet privacy",
+      "relevance": 0.826009,
+      "dbpedia_resource": "http://dbpedia.org/resource/Internet_privacy"
+    },
+    {
+      "text": "George W. Bush",
+      "relevance": 0.815079,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.792888,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996337,
+      "label": "/technology and computing/internet technology/isps"
+    }
+  ]
+}

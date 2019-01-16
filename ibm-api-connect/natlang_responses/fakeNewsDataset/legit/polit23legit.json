@@ -1,0 +1,372 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 794,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.955557,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Green Party",
+      "sentiment": {
+        "score": -0.884747,
+        "label": "negative"
+      },
+      "relevance": 0.786781,
+      "emotion": {
+        "sadness": 0.083017,
+        "joy": 0.535485,
+        "fear": 0.071377,
+        "disgust": 0.316758,
+        "anger": 0.064647
+      },
+      "count": 1
+    },
+    {
+      "text": "presidential candidate",
+      "sentiment": {
+        "score": -0.884747,
+        "label": "negative"
+      },
+      "relevance": 0.763986,
+      "emotion": {
+        "sadness": 0.181963,
+        "joy": 0.466241,
+        "fear": 0.138607,
+        "disgust": 0.239846,
+        "anger": 0.061144
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.961715,
+        "label": "negative"
+      },
+      "relevance": 0.760226,
+      "emotion": {
+        "sadness": 0.271935,
+        "joy": 0.100604,
+        "fear": 0.170218,
+        "disgust": 0.433832,
+        "anger": 0.361013
+      },
+      "count": 3
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.912777,
+        "label": "negative"
+      },
+      "relevance": 0.667481,
+      "emotion": {
+        "sadness": 0.198301,
+        "joy": 0.077782,
+        "fear": 0.370242,
+        "disgust": 0.43313,
+        "anger": 0.281607
+      },
+      "count": 2
+    },
+    {
+      "text": "mainstream party candidate",
+      "sentiment": {
+        "score": -0.884747,
+        "label": "negative"
+      },
+      "relevance": 0.652366,
+      "emotion": {
+        "sadness": 0.181963,
+        "joy": 0.466241,
+        "fear": 0.138607,
+        "disgust": 0.239846,
+        "anger": 0.061144
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.433426,
+        "label": "negative"
+      },
+      "relevance": 0.890204,
+      "mentions": [
+        {
+          "text": "Clinton",
+          "location": [
+            70,
+            77
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            234,
+            249
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            402,
+            417
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            664,
+            679
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            733,
+            740
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.596366,
+        "joy": 0.147669,
+        "fear": 0.15403,
+        "disgust": 0.293586,
+        "anger": 0.185441
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.226948,
+        "label": "negative"
+      },
+      "relevance": 0.759816,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            81,
+            86
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            253,
+            265
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            330,
+            342
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            638,
+            650
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.529419,
+        "joy": 0.170823,
+        "fear": 0.640077,
+        "disgust": 0.241252,
+        "anger": 0.169496
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jill Stein",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.657188,
+      "mentions": [
+        {
+          "text": "Jill Stein",
+          "location": [
+            39,
+            49
+          ]
+        },
+        {
+          "text": "Jill Stein",
+          "location": [
+            106,
+            116
+          ]
+        },
+        {
+          "text": "Stein",
+          "location": [
+            438,
+            443
+          ]
+        },
+        {
+          "text": "Stein",
+          "location": [
+            707,
+            712
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.197579,
+        "joy": 0.214586,
+        "fear": 0.067223,
+        "disgust": 0.168523,
+        "anger": 0.131735
+      },
+      "disambiguation": {
+        "subtype": [
+          "Physician",
+          "Politician"
+        ],
+        "name": "Jill Stein",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jill_Stein"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Green Party",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.407401,
+      "mentions": [
+        {
+          "text": "Green Party",
+          "location": [
+            4,
+            15
+          ]
+        },
+        {
+          "text": "Green Party",
+          "location": [
+            153,
+            164
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035809,
+        "joy": 0.512195,
+        "fear": 0.072335,
+        "disgust": 0.370517,
+        "anger": 0.046341
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Green Party of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Green_Party_of_the_United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Political Director",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.288981,
+      "emotion": {
+        "sadness": 0.328373,
+        "joy": 0.188949,
+        "fear": 0.022659,
+        "disgust": 0.289416,
+        "anger": 0.318992
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.96384,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.954839,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.906384,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Israel",
+      "relevance": 0.666022,
+      "dbpedia_resource": "http://dbpedia.org/resource/Israel"
+    },
+    {
+      "text": "First Lady of the United States",
+      "relevance": 0.665322,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.981186,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

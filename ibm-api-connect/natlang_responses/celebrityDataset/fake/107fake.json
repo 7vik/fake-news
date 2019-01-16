@@ -1,0 +1,402 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1718,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.76806,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Hudson Won\u2019t",
+      "sentiment": {
+        "score": -0.917687,
+        "label": "negative"
+      },
+      "relevance": 0.830579,
+      "emotion": {
+        "sadness": 0.138856,
+        "joy": 0.714351,
+        "fear": 0.093304,
+        "disgust": 0.00564,
+        "anger": 0.086201
+      },
+      "count": 1
+    },
+    {
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.66294,
+      "emotion": {
+        "sadness": 0.138856,
+        "joy": 0.714351,
+        "fear": 0.093304,
+        "disgust": 0.00564,
+        "anger": 0.086201
+      },
+      "count": 1
+    },
+    {
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.661715,
+      "emotion": {
+        "sadness": 0.138856,
+        "joy": 0.714351,
+        "fear": 0.093304,
+        "disgust": 0.00564,
+        "anger": 0.086201
+      },
+      "count": 1
+    },
+    {
+      "text": "U.K. version of the hit reality",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.639729,
+      "emotion": {
+        "sadness": 0.138856,
+        "joy": 0.714351,
+        "fear": 0.093304,
+        "disgust": 0.00564,
+        "anger": 0.086201
+      },
+      "count": 1
+    },
+    {
+      "text": "Kelly Clarkson",
+      "sentiment": {
+        "score": -0.725744,
+        "label": "negative"
+      },
+      "relevance": 0.614579,
+      "emotion": {
+        "sadness": 0.179591,
+        "joy": 0.217587,
+        "fear": 0.062384,
+        "disgust": 0.017747,
+        "anger": 0.140399
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Hudson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.864383,
+      "mentions": [
+        {
+          "text": "Jennifer Hudson",
+          "location": [
+            6,
+            21
+          ]
+        },
+        {
+          "text": "Hudson",
+          "location": [
+            369,
+            375
+          ]
+        },
+        {
+          "text": "Hudson",
+          "location": [
+            528,
+            534
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            612,
+            620
+          ]
+        },
+        {
+          "text": "Hudson",
+          "location": [
+            828,
+            834
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            917,
+            925
+          ]
+        },
+        {
+          "text": "Hudson",
+          "location": [
+            1185,
+            1191
+          ]
+        },
+        {
+          "text": "Hudson",
+          "location": [
+            1480,
+            1486
+          ]
+        },
+        {
+          "text": "Jennifer Hudson",
+          "location": [
+            1626,
+            1641
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114918,
+        "joy": 0.183197,
+        "fear": 0.080823,
+        "disgust": 0.089296,
+        "anger": 0.064831
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Hudson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Hudson"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": -0.606626,
+        "label": "negative"
+      },
+      "relevance": 0.466549,
+      "mentions": [
+        {
+          "text": "Blake Shelton",
+          "location": [
+            426,
+            439
+          ]
+        },
+        {
+          "text": "Shelton",
+          "location": [
+            539,
+            546
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            593,
+            598
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            726,
+            728
+          ]
+        },
+        {
+          "text": "Shelton",
+          "location": [
+            804,
+            811
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            849,
+            852
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.578768,
+        "joy": 0.20817,
+        "fear": 0.0819,
+        "disgust": 0.076368,
+        "anger": 0.156682
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Hudson",
+      "sentiment": {
+        "score": -0.574261,
+        "label": "negative"
+      },
+      "relevance": 0.463707,
+      "mentions": [
+        {
+          "text": "Nightmare Diva BehaviorJennifer Hudson",
+          "location": [
+            62,
+            100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": 0.423634,
+        "label": "positive"
+      },
+      "relevance": 0.309313,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            388,
+            399
+          ]
+        },
+        {
+          "text": "Cyrus",
+          "location": [
+            1491,
+            1496
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.243084,
+        "joy": 0.524559,
+        "fear": 0.037136,
+        "disgust": 0.010923,
+        "anger": 0.141951
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.270401,
+      "mentions": [
+        {
+          "text": "her or look",
+          "location": [
+            749,
+            760
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American film actors",
+      "relevance": 0.965677,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Grammy Award winners",
+      "relevance": 0.900097,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_winners"
+    },
+    {
+      "text": "Jennifer Hudson",
+      "relevance": 0.87485,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Hudson"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.845845,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.774759,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.672291,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

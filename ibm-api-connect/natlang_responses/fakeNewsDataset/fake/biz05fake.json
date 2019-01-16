@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 641,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.833845,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "current advertising practices",
+      "sentiment": {
+        "score": -0.894146,
+        "label": "negative"
+      },
+      "relevance": 0.895758,
+      "emotion": {
+        "sadness": 0.235178,
+        "joy": 0.331582,
+        "fear": 0.027487,
+        "disgust": 0.010963,
+        "anger": 0.081011
+      },
+      "count": 1
+    },
+    {
+      "text": "Half of the users",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.731843,
+      "emotion": {
+        "sadness": 0.288614,
+        "joy": 0.122571,
+        "fear": 0.14787,
+        "disgust": 0.145141,
+        "anger": 0.161207
+      },
+      "count": 1
+    },
+    {
+      "text": "extreme criticism",
+      "sentiment": {
+        "score": -0.894146,
+        "label": "negative"
+      },
+      "relevance": 0.660483,
+      "emotion": {
+        "sadness": 0.235178,
+        "joy": 0.331582,
+        "fear": 0.027487,
+        "disgust": 0.010963,
+        "anger": 0.081011
+      },
+      "count": 1
+    },
+    {
+      "text": "web giants",
+      "sentiment": {
+        "score": -0.894146,
+        "label": "negative"
+      },
+      "relevance": 0.638584,
+      "emotion": {
+        "sadness": 0.235178,
+        "joy": 0.331582,
+        "fear": 0.027487,
+        "disgust": 0.010963,
+        "anger": 0.081011
+      },
+      "count": 1
+    },
+    {
+      "text": "recent analysis",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.624329,
+      "emotion": {
+        "sadness": 0.288614,
+        "joy": 0.122571,
+        "fear": 0.14787,
+        "disgust": 0.145141,
+        "anger": 0.161207
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "facebook",
+      "sentiment": {
+        "score": -0.636665,
+        "label": "negative"
+      },
+      "relevance": 0.84279,
+      "mentions": [
+        {
+          "text": "facebook",
+          "location": [
+            300,
+            308
+          ]
+        },
+        {
+          "text": "Facebook",
+          "location": [
+            410,
+            418
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.511481,
+        "joy": 0.150689,
+        "fear": 0.03003,
+        "disgust": 0.132277,
+        "anger": 0.092094
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "google",
+      "sentiment": {
+        "score": -0.636665,
+        "label": "negative"
+      },
+      "relevance": 0.677189,
+      "mentions": [
+        {
+          "text": "google",
+          "location": [
+            313,
+            319
+          ]
+        },
+        {
+          "text": "google",
+          "location": [
+            423,
+            429
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.511481,
+        "joy": 0.150689,
+        "fear": 0.03003,
+        "disgust": 0.132277,
+        "anger": 0.092094
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.46917,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            36,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.525655,
+        "joy": 0.150422,
+        "fear": 0.044222,
+        "disgust": 0.030537,
+        "anger": 0.223483
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Washington Post",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.402562,
+      "mentions": [
+        {
+          "text": "Washington Post",
+          "location": [
+            392,
+            407
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066888,
+        "joy": 0.151274,
+        "fear": 0.323482,
+        "disgust": 0.093973,
+        "anger": 0.097402
+      },
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ],
+        "name": "The Washington Post",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "AOL",
+      "sentiment": {
+        "score": -0.725305,
+        "label": "negative"
+      },
+      "relevance": 0.391497,
+      "mentions": [
+        {
+          "text": "AOL",
+          "location": [
+            70,
+            73
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.528418,
+        "joy": 0.095944,
+        "fear": 0.22048,
+        "disgust": 0.048728,
+        "anger": 0.050672
+      },
+      "disambiguation": {
+        "subtype": [
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGamePublisher",
+          "ProtocolProvider"
+        ],
+        "name": "AOL",
+        "dbpedia_resource": "http://dbpedia.org/resource/AOL"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Google",
+      "relevance": 0.957916,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "Yahoo!",
+      "relevance": 0.794843,
+      "dbpedia_resource": "http://dbpedia.org/resource/Yahoo!"
+    },
+    {
+      "text": "World Wide Web",
+      "relevance": 0.773973,
+      "dbpedia_resource": "http://dbpedia.org/resource/World_Wide_Web"
+    },
+    {
+      "text": "Web search engine",
+      "relevance": 0.640953,
+      "dbpedia_resource": "http://dbpedia.org/resource/Web_search_engine"
+    },
+    {
+      "text": "Advertising",
+      "relevance": 0.603013,
+      "dbpedia_resource": "http://dbpedia.org/resource/Advertising"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999861,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mehgan James",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997745,
+      "emotion": {
+        "sadness": 0.096489,
+        "joy": 0.133998,
+        "fear": 0.104229,
+        "disgust": 0.396074,
+        "anger": 0.100696
+      },
+      "count": 1
+    },
+    {
+      "text": "Kardashian Dating Rumors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.200759,
+      "emotion": {
+        "sadness": 0.096489,
+        "joy": 0.133998,
+        "fear": 0.104229,
+        "disgust": 0.396074,
+        "anger": 0.100696
+      },
+      "count": 1
+    },
+    {
+      "text": "Rob",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.008917,
+      "emotion": {
+        "sadness": 0.096489,
+        "joy": 0.133998,
+        "fear": 0.104229,
+        "disgust": 0.396074,
+        "anger": 0.100696
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "James",
+      "sentiment": {
+        "score": -0.309443,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "James",
+          "location": [
+            7,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.096489,
+        "joy": 0.133998,
+        "fear": 0.104229,
+        "disgust": 0.396074,
+        "anger": 0.100696
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rob Kardashian",
+      "sentiment": {
+        "score": -0.309443,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rob Kardashian",
+          "location": [
+            27,
+            41
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.096489,
+        "joy": 0.133998,
+        "fear": 0.104229,
+        "disgust": 0.396074,
+        "anger": 0.100696
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality"
+        ],
+        "name": "Rob Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.990222,
+      "label": "/society/dating"
+    }
+  ]
+}

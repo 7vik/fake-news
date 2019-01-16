@@ -1,0 +1,247 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 500,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.804877,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "immediate word",
+      "sentiment": {
+        "score": -0.424791,
+        "label": "negative"
+      },
+      "relevance": 0.810778,
+      "emotion": {
+        "sadness": 0.382842,
+        "joy": 0.375446,
+        "fear": 0.052454,
+        "disgust": 0.139495,
+        "anger": 0.080944
+      },
+      "count": 1
+    },
+    {
+      "text": "gender of the babies",
+      "sentiment": {
+        "score": -0.424791,
+        "label": "negative"
+      },
+      "relevance": 0.739721,
+      "emotion": {
+        "sadness": 0.382842,
+        "joy": 0.375446,
+        "fear": 0.052454,
+        "disgust": 0.139495,
+        "anger": 0.080944
+      },
+      "count": 1
+    },
+    {
+      "text": "superstar singer",
+      "sentiment": {
+        "score": -0.424791,
+        "label": "negative"
+      },
+      "relevance": 0.714137,
+      "emotion": {
+        "sadness": 0.382842,
+        "joy": 0.375446,
+        "fear": 0.052454,
+        "disgust": 0.139495,
+        "anger": 0.080944
+      },
+      "count": 1
+    },
+    {
+      "text": "mogul husband",
+      "sentiment": {
+        "score": -0.424791,
+        "label": "negative"
+      },
+      "relevance": 0.693106,
+      "emotion": {
+        "sadness": 0.382842,
+        "joy": 0.375446,
+        "fear": 0.052454,
+        "disgust": 0.139495,
+        "anger": 0.080944
+      },
+      "count": 1
+    },
+    {
+      "text": "five-year-old daughter",
+      "sentiment": {
+        "score": -0.424791,
+        "label": "negative"
+      },
+      "relevance": 0.688317,
+      "emotion": {
+        "sadness": 0.382842,
+        "joy": 0.375446,
+        "fear": 0.052454,
+        "disgust": 0.139495,
+        "anger": 0.080944
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Blue Ivy.Queen Bey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.82002,
+      "mentions": [
+        {
+          "text": "Blue Ivy.Queen Bey",
+          "location": [
+            214,
+            232
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.215194,
+        "joy": 0.441174,
+        "fear": 0.053142,
+        "disgust": 0.04966,
+        "anger": 0.028471
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jay Z",
+      "sentiment": {
+        "score": 0.794971,
+        "label": "positive"
+      },
+      "relevance": 0.521279,
+      "mentions": [
+        {
+          "text": "Jay Z",
+          "location": [
+            12,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065022,
+        "joy": 0.774159,
+        "fear": 0.024513,
+        "disgust": 0.014228,
+        "anger": 0.052325
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVProducer",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor"
+        ],
+        "name": "Jay-Z",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jay-Z"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Beyonc\u00e9",
+      "sentiment": {
+        "score": 0.794971,
+        "label": "positive"
+      },
+      "relevance": 0.450312,
+      "mentions": [
+        {
+          "text": "Beyonc\u00e9",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065022,
+        "joy": 0.774159,
+        "fear": 0.024513,
+        "disgust": 0.014228,
+        "anger": 0.052325
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.450312,
+      "mentions": [
+        {
+          "text": "five-year",
+          "location": [
+            190,
+            199
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Family",
+      "relevance": 0.95646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "Marriage",
+      "relevance": 0.806361,
+      "dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+    },
+    {
+      "text": "Pregnancy",
+      "relevance": 0.676786,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+      "text": "Positive psychology",
+      "relevance": 0.516351,
+      "dbpedia_resource": "http://dbpedia.org/resource/Positive_psychology"
+    },
+    {
+      "text": "Mother",
+      "relevance": 0.464601,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mother"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.948576,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

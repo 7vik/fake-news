@@ -1,0 +1,171 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.714215,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jane Fonda",
+      "sentiment": {
+        "score": -0.714215,
+        "label": "negative"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.296956,
+        "joy": 0.212906,
+        "fear": 0.262103,
+        "disgust": 0.135235,
+        "anger": 0.02055
+      },
+      "count": 1
+    },
+    {
+      "text": "plastic surgery",
+      "sentiment": {
+        "score": -0.714215,
+        "label": "negative"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.296956,
+        "joy": 0.212906,
+        "fear": 0.262103,
+        "disgust": 0.135235,
+        "anger": 0.02055
+      },
+      "count": 1
+    },
+    {
+      "text": "Megyn Kelly",
+      "sentiment": {
+        "score": -0.714215,
+        "label": "negative"
+      },
+      "relevance": 0.043761,
+      "emotion": {
+        "sadness": 0.296956,
+        "joy": 0.212906,
+        "fear": 0.262103,
+        "disgust": 0.135235,
+        "anger": 0.02055
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jane Fonda",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jane Fonda",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296956,
+        "joy": 0.212906,
+        "fear": 0.262103,
+        "disgust": 0.135235,
+        "anger": 0.02055
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Jane Fonda",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jane_Fonda"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Megyn Kelly",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Megyn Kelly",
+          "location": [
+            65,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296956,
+        "joy": 0.212906,
+        "fear": 0.262103,
+        "disgust": 0.135235,
+        "anger": 0.02055
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVActor"
+        ],
+        "name": "Megyn Kelly",
+        "dbpedia_resource": "http://dbpedia.org/resource/Megyn_Kelly"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jane Fonda",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jane_Fonda"
+    },
+    {
+      "text": "Henry Fonda",
+      "relevance": 0.805552,
+      "dbpedia_resource": "http://dbpedia.org/resource/Henry_Fonda"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.781989,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Reconstructive surgery",
+      "relevance": 0.768072,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reconstructive_surgery"
+    },
+    {
+      "text": "Peter Fonda",
+      "relevance": 0.7561,
+      "dbpedia_resource": "http://dbpedia.org/resource/Peter_Fonda"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.675204,
+      "label": "/art and entertainment/movies and tv/talk shows"
+    }
+  ]
+}

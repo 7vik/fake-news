@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 71,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.50815,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": 0.50815,
+        "label": "positive"
+      },
+      "relevance": 0.99999,
+      "emotion": {
+        "sadness": 0.125298,
+        "joy": 0.703914,
+        "fear": 0.076191,
+        "disgust": 0.130475,
+        "anger": 0.03905
+      },
+      "count": 1
+    },
+    {
+      "text": "wet mark",
+      "sentiment": {
+        "score": 0.50815,
+        "label": "positive"
+      },
+      "relevance": 0.013721,
+      "emotion": {
+        "sadness": 0.125298,
+        "joy": 0.703914,
+        "fear": 0.076191,
+        "disgust": 0.130475,
+        "anger": 0.03905
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": 0.510578,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "himself",
+          "location": [
+            27,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.117154,
+        "joy": 0.704444,
+        "fear": 0.105311,
+        "disgust": 0.116733,
+        "anger": 0.034667
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Justin Bieber",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.90232,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.564156,
+      "label": "/art and entertainment/dance/pole dancing"
+    }
+  ]
+}

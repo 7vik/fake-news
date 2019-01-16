@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 524,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.369614,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "longtime love of\u00a0Johnny Depp",
+      "sentiment": {
+        "score": -0.369614,
+        "label": "negative"
+      },
+      "relevance": 0.792213,
+      "emotion": {
+        "sadness": 0.518339,
+        "joy": 0.411858,
+        "fear": 0.010473,
+        "disgust": 0.051031,
+        "anger": 0.040887
+      },
+      "count": 1
+    },
+    {
+      "text": "French actress",
+      "sentiment": {
+        "score": -0.369614,
+        "label": "negative"
+      },
+      "relevance": 0.785384,
+      "emotion": {
+        "sadness": 0.518339,
+        "joy": 0.411858,
+        "fear": 0.010473,
+        "disgust": 0.051031,
+        "anger": 0.040887
+      },
+      "count": 1
+    },
+    {
+      "text": "Vanessa Paradis Talks Split",
+      "sentiment": {
+        "score": -0.369614,
+        "label": "negative"
+      },
+      "relevance": 0.759139,
+      "emotion": {
+        "sadness": 0.194905,
+        "joy": 0.173612,
+        "fear": 0.107739,
+        "disgust": 0.126102,
+        "anger": 0.146267
+      },
+      "count": 1
+    },
+    {
+      "text": "Johnny Depp",
+      "sentiment": {
+        "score": -0.369614,
+        "label": "negative"
+      },
+      "relevance": 0.710761,
+      "emotion": {
+        "sadness": 0.347914,
+        "joy": 0.552081,
+        "fear": 0.007716,
+        "disgust": 0.051522,
+        "anger": 0.045072
+      },
+      "count": 1
+    },
+    {
+      "text": "shed light",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.687145,
+      "emotion": {
+        "sadness": 0.518339,
+        "joy": 0.411858,
+        "fear": 0.010473,
+        "disgust": 0.051031,
+        "anger": 0.040887
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Johnny Depp",
+      "sentiment": {
+        "score": 0.285802,
+        "label": "positive"
+      },
+      "relevance": 0.83037,
+      "mentions": [
+        {
+          "text": "Johnny Depp",
+          "location": [
+            33,
+            44
+          ]
+        },
+        {
+          "text": "Johnny Depp",
+          "location": [
+            173,
+            184
+          ]
+        },
+        {
+          "text": "Johnny Depp",
+          "location": [
+            376,
+            387
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163886,
+        "joy": 0.217089,
+        "fear": 0.087341,
+        "disgust": 0.12885,
+        "anger": 0.139991
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "Guitarist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "TVActor"
+        ],
+        "name": "Johnny Depp",
+        "dbpedia_resource": "http://dbpedia.org/resource/Johnny_Depp"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Vanessa Paradis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.485143,
+      "mentions": [
+        {
+          "text": "Vanessa Paradis",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.194905,
+        "joy": 0.173612,
+        "fear": 0.107739,
+        "disgust": 0.126102,
+        "anger": 0.146267
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "MusicalGroupMember",
+          "FilmActor"
+        ],
+        "name": "Vanessa Paradis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vanessa_Paradis"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Vanessa ParadisThe",
+      "sentiment": {
+        "score": 0.285802,
+        "label": "positive"
+      },
+      "relevance": 0.342785,
+      "mentions": [
+        {
+          "text": "Vanessa ParadisThe",
+          "location": [
+            109,
+            127
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.069898,
+        "joy": 0.84633,
+        "fear": 0.011241,
+        "disgust": 0.013982,
+        "anger": 0.008963
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "French Elle",
+      "sentiment": {
+        "score": -0.291346,
+        "label": "negative"
+      },
+      "relevance": 0.311688,
+      "mentions": [
+        {
+          "text": "French Elle",
+          "location": [
+            323,
+            334
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.232232,
+        "joy": 0.335413,
+        "fear": 0.044606,
+        "disgust": 0.06377,
+        "anger": 0.082917
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jack",
+      "sentiment": {
+        "score": 0.033695,
+        "label": "positive"
+      },
+      "relevance": 0.215374,
+      "mentions": [
+        {
+          "text": "Jack",
+          "location": [
+            267,
+            271
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            371,
+            374
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.243385,
+        "joy": 0.066399,
+        "fear": 0.225395,
+        "disgust": 0.299947,
+        "anger": 0.210091
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Johnny Depp",
+      "relevance": 0.970275,
+      "dbpedia_resource": "http://dbpedia.org/resource/Johnny_Depp"
+    },
+    {
+      "text": "Anna Wintour",
+      "relevance": 0.903657,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+      "text": "Vanessa Paradis",
+      "relevance": 0.832117,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vanessa_Paradis"
+    },
+    {
+      "text": "Lost in La Mancha",
+      "relevance": 0.637172,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lost_in_La_Mancha"
+    },
+    {
+      "text": "1963 births",
+      "relevance": 0.48813,
+      "dbpedia_resource": "http://dbpedia.org/resource/1963_births"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.640762,
+      "label": "/style and fashion"
+    }
+  ]
+}

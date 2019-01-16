@@ -1,0 +1,214 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 529,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.710644,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "U.S. government",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.962903,
+      "emotion": {
+        "sadness": 0.55709,
+        "joy": 0.01348,
+        "fear": 0.181765,
+        "disgust": 0.335805,
+        "anger": 0.22336
+      },
+      "count": 1
+    },
+    {
+      "text": "quick reflex",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.779009,
+      "emotion": {
+        "sadness": 0.22262,
+        "joy": 0.379808,
+        "fear": 0.12154,
+        "disgust": 0.090136,
+        "anger": 0.028316
+      },
+      "count": 1
+    },
+    {
+      "text": "clear ands officials",
+      "sentiment": {
+        "score": -0.551141,
+        "label": "negative"
+      },
+      "relevance": 0.644187,
+      "emotion": {
+        "sadness": 0.323143,
+        "joy": 0.021683,
+        "fear": 0.064074,
+        "disgust": 0.367969,
+        "anger": 0.560802
+      },
+      "count": 1
+    },
+    {
+      "text": "second official",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.60923,
+      "emotion": {
+        "sadness": 0.153813,
+        "joy": 0.059591,
+        "fear": 0.203651,
+        "disgust": 0.437796,
+        "anger": 0.139857
+      },
+      "count": 1
+    },
+    {
+      "text": "Ban",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.592923,
+      "emotion": {
+        "sadness": 0.239158,
+        "joy": 0.350717,
+        "fear": 0.039635,
+        "disgust": 0.124025,
+        "anger": 0.339956
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "U.S. government",
+      "sentiment": {
+        "score": -0.736976,
+        "label": "negative"
+      },
+      "relevance": 0.931585,
+      "mentions": [
+        {
+          "text": "U.S. government",
+          "location": [
+            29,
+            44
+          ]
+        },
+        {
+          "text": "The government",
+          "location": [
+            127,
+            141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246486,
+        "joy": 0.004843,
+        "fear": 0.180554,
+        "disgust": 0.443855,
+        "anger": 0.487903
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Federal government of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": -0.711832,
+        "label": "negative"
+      },
+      "relevance": 0.399373,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            422,
+            430
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153813,
+        "joy": 0.059591,
+        "fear": 0.203651,
+        "disgust": 0.437796,
+        "anger": 0.139857
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "2 weeks",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.399373,
+      "mentions": [
+        {
+          "text": "2 weeks",
+          "location": [
+            118,
+            125
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.967262,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "U.S. state",
+      "relevance": 0.827333,
+      "dbpedia_resource": "http://dbpedia.org/resource/U.S._state"
+    },
+    {
+      "text": "Left-handedness",
+      "relevance": 0.687637,
+      "dbpedia_resource": "http://dbpedia.org/resource/Left-handedness"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.670261,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.584182,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.85398,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

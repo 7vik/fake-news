@@ -1,0 +1,159 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.932086,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.073613,
+        "joy": 0.775044,
+        "fear": 0.015844,
+        "disgust": 0.104734,
+        "anger": 0.058207
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie\u2019s Spin",
+      "sentiment": {
+        "score": 0.932086,
+        "label": "positive"
+      },
+      "relevance": 0.435918,
+      "emotion": {
+        "sadness": 0.073613,
+        "joy": 0.775044,
+        "fear": 0.015844,
+        "disgust": 0.104734,
+        "anger": 0.058207
+      },
+      "count": 1
+    },
+    {
+      "text": "KUWTK",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.108431,
+      "emotion": {
+        "sadness": 0.073613,
+        "joy": 0.775044,
+        "fear": 0.015844,
+        "disgust": 0.104734,
+        "anger": 0.058207
+      },
+      "count": 1
+    },
+    {
+      "text": "Remains",
+      "sentiment": {
+        "score": 0.932086,
+        "label": "positive"
+      },
+      "relevance": 0.102388,
+      "emotion": {
+        "sadness": 0.073613,
+        "joy": 0.775044,
+        "fear": 0.015844,
+        "disgust": 0.104734,
+        "anger": 0.058207
+      },
+      "count": 1
+    },
+    {
+      "text": "Show",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.077803,
+      "emotion": {
+        "sadness": 0.073613,
+        "joy": 0.775044,
+        "fear": 0.015844,
+        "disgust": 0.104734,
+        "anger": 0.058207
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.228543,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            20,
+            23
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.182438,
+        "fear": 0.087573,
+        "disgust": 0.100574,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.595309,
+      "label": "/style and fashion/beauty/cosmetics"
+    }
+  ]
+}

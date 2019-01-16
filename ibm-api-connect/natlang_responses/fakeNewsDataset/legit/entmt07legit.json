@@ -1,0 +1,225 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 574,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.8181,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Shailene Woodley reaches",
+      "sentiment": {
+        "score": -0.975921,
+        "label": "negative"
+      },
+      "relevance": 0.904728,
+      "emotion": {
+        "sadness": 0.145643,
+        "joy": 0.002948,
+        "fear": 0.120647,
+        "disgust": 0.535885,
+        "anger": 0.525906
+      },
+      "count": 1
+    },
+    {
+      "text": "Native Americans",
+      "sentiment": {
+        "score": -0.69491,
+        "label": "negative"
+      },
+      "relevance": 0.812613,
+      "emotion": {
+        "sadness": 0.652291,
+        "joy": 0.103175,
+        "fear": 0.112234,
+        "disgust": 0.277795,
+        "anger": 0.046695
+      },
+      "count": 1
+    },
+    {
+      "text": "plea deal",
+      "sentiment": {
+        "score": -0.975921,
+        "label": "negative"
+      },
+      "relevance": 0.724221,
+      "emotion": {
+        "sadness": 0.303708,
+        "joy": 0.079354,
+        "fear": 0.059062,
+        "disgust": 0.091926,
+        "anger": 0.283536
+      },
+      "count": 1
+    },
+    {
+      "text": "Woodley  star of the Divergent series",
+      "sentiment": {
+        "score": -0.8416,
+        "label": "negative"
+      },
+      "relevance": 0.714507,
+      "emotion": {
+        "sadness": 0.668804,
+        "joy": 0.137727,
+        "fear": 0.129928,
+        "disgust": 0.064967,
+        "anger": 0.159832
+      },
+      "count": 1
+    },
+    {
+      "text": "Dakota Access oil pipeline",
+      "sentiment": {
+        "score": -0.975921,
+        "label": "negative"
+      },
+      "relevance": 0.650499,
+      "emotion": {
+        "sadness": 0.303708,
+        "joy": 0.079354,
+        "fear": 0.059062,
+        "disgust": 0.091926,
+        "anger": 0.283536
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Shailene Woodley",
+      "sentiment": {
+        "score": -0.80984,
+        "label": "negative"
+      },
+      "relevance": 0.880641,
+      "mentions": [
+        {
+          "text": "Shailene Woodley",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Shailene Woodley",
+          "location": [
+            77,
+            93
+          ]
+        },
+        {
+          "text": "Woodley",
+          "location": [
+            194,
+            201
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.504565,
+        "joy": 0.021596,
+        "fear": 0.100431,
+        "disgust": 0.21938,
+        "anger": 0.467125
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Shailene Woodley",
+        "dbpedia_resource": "http://dbpedia.org/resource/Shailene_Woodley"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.82859,
+        "label": "negative"
+      },
+      "relevance": 0.286749,
+      "mentions": [
+        {
+          "text": "pipeline protest",
+          "location": [
+            49,
+            65
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            66,
+            68
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272275,
+        "joy": 0.016744,
+        "fear": 0.09848,
+        "disgust": 0.300239,
+        "anger": 0.506122
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Native Americans in the United States",
+      "relevance": 0.935986,
+      "dbpedia_resource": "http://dbpedia.org/resource/Native_Americans_in_the_United_States"
+    },
+    {
+      "text": "Plea",
+      "relevance": 0.82593,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plea"
+    },
+    {
+      "text": "Pleas",
+      "relevance": 0.73395,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pleas"
+    },
+    {
+      "text": "Disorderly conduct",
+      "relevance": 0.725827,
+      "dbpedia_resource": "http://dbpedia.org/resource/Disorderly_conduct"
+    },
+    {
+      "text": "Barbra Streisand",
+      "relevance": 0.678589,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barbra_Streisand"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.677132,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

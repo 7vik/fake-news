@@ -1,0 +1,418 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.437265,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Alec Baldwin",
+      "sentiment": {
+        "score": -0.821265,
+        "label": "negative"
+      },
+      "relevance": 0.917804,
+      "emotion": {
+        "sadness": 0.275362,
+        "joy": 0.489836,
+        "fear": 0.138469,
+        "disgust": 0.161096,
+        "anger": 0.028767
+      },
+      "count": 2
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.821265,
+        "label": "negative"
+      },
+      "relevance": 0.690942,
+      "emotion": {
+        "sadness": 0.275362,
+        "joy": 0.489836,
+        "fear": 0.138469,
+        "disgust": 0.161096,
+        "anger": 0.028767
+      },
+      "count": 2
+    },
+    {
+      "text": "Vanity Fair",
+      "sentiment": {
+        "score": 0.92754,
+        "label": "positive"
+      },
+      "relevance": 0.673332,
+      "emotion": {
+        "sadness": 0.147904,
+        "joy": 0.29775,
+        "fear": 0.042923,
+        "disgust": 0.189317,
+        "anger": 0.100894
+      },
+      "count": 2
+    },
+    {
+      "text": "film role",
+      "sentiment": {
+        "score": -0.644815,
+        "label": "negative"
+      },
+      "relevance": 0.652749,
+      "emotion": {
+        "sadness": 0.179597,
+        "joy": 0.238056,
+        "fear": 0.040045,
+        "disgust": 0.20951,
+        "anger": 0.081349
+      },
+      "count": 1
+    },
+    {
+      "text": "stars Kate McKinnon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.612317,
+      "emotion": {
+        "sadness": 0.207482,
+        "joy": 0.700461,
+        "fear": 0.026206,
+        "disgust": 0.024217,
+        "anger": 0.027805
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.052323,
+        "label": "positive"
+      },
+      "relevance": 0.883286,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            46,
+            58
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            127,
+            139
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            293,
+            298
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            487,
+            489
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            991,
+            996
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.43532,
+        "joy": 0.111495,
+        "fear": 0.144927,
+        "disgust": 0.434811,
+        "anger": 0.171759
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Alec Baldwin",
+      "sentiment": {
+        "score": 0.500934,
+        "label": "positive"
+      },
+      "relevance": 0.706005,
+      "mentions": [
+        {
+          "text": "Alec Baldwin",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            18,
+            20
+          ]
+        },
+        {
+          "text": "Alec Baldwin",
+          "location": [
+            68,
+            80
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            99,
+            101
+          ]
+        },
+        {
+          "text": "Baldwin",
+          "location": [
+            799,
+            806
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            845,
+            847
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            968,
+            970
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.614505,
+        "joy": 0.201437,
+        "fear": 0.161964,
+        "disgust": 0.181149,
+        "anger": 0.082453
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Alec Baldwin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alec_Baldwin"
+      },
+      "count": 7
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Saturday Night Live",
+      "sentiment": {
+        "score": 0.374738,
+        "label": "positive"
+      },
+      "relevance": 0.461071,
+      "mentions": [
+        {
+          "text": "'SNL",
+          "location": [
+            62,
+            66
+          ]
+        },
+        {
+          "text": "Saturday Night Live",
+          "location": [
+            144,
+            163
+          ]
+        },
+        {
+          "text": "SNL",
+          "location": [
+            249,
+            252
+          ]
+        },
+        {
+          "text": "SNL",
+          "location": [
+            944,
+            947
+          ]
+        },
+        {
+          "text": "SNL",
+          "location": [
+            1012,
+            1015
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.230154,
+        "joy": 0.458647,
+        "fear": 0.200228,
+        "disgust": 0.206253,
+        "anger": 0.041725
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner"
+        ],
+        "name": "Saturday Night Live",
+        "dbpedia_resource": "http://dbpedia.org/resource/Saturday_Night_Live"
+      },
+      "count": 5
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Vanity Fair",
+      "sentiment": {
+        "score": 0.675458,
+        "label": "positive"
+      },
+      "relevance": 0.392886,
+      "mentions": [
+        {
+          "text": "Vanity Fair",
+          "location": [
+            181,
+            192
+          ]
+        },
+        {
+          "text": "Vanity Fair",
+          "location": [
+            1146,
+            1157
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106416,
+        "joy": 0.429403,
+        "fear": 0.049,
+        "disgust": 0.134691,
+        "anger": 0.102725
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Lorne Michaels",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.303429,
+      "mentions": [
+        {
+          "text": "Lorne Michaels",
+          "location": [
+            263,
+            277
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.129159,
+        "joy": 0.147678,
+        "fear": 0.064375,
+        "disgust": 0.097013,
+        "anger": 0.070129
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Comedian",
+          "CompanyFounder",
+          "FilmProducer",
+          "HallOfFameInductee",
+          "TVProducer",
+          "FilmWriter",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Lorne Michaels",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lorne_Michaels"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Saturday Night Live",
+      "relevance": 0.986568,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+      "text": "Tina Fey",
+      "relevance": 0.921085,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tina_Fey"
+    },
+    {
+      "text": "30 Rock",
+      "relevance": 0.886988,
+      "dbpedia_resource": "http://dbpedia.org/resource/30_Rock"
+    },
+    {
+      "text": "Lorne Michaels",
+      "relevance": 0.779143,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lorne_Michaels"
+    },
+    {
+      "text": "Broadway Video",
+      "relevance": 0.5641,
+      "dbpedia_resource": "http://dbpedia.org/resource/Broadway_Video"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.684585,
+      "label": "/art and entertainment/movies and tv/movies"
+    }
+  ]
+}

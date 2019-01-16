@@ -1,0 +1,330 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 791,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.494869,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Celine Dion's Heart-Wrenching Performance",
+      "sentiment": {
+        "score": 0.924421,
+        "label": "positive"
+      },
+      "relevance": 0.892839,
+      "emotion": {
+        "sadness": 0.068346,
+        "joy": 0.811363,
+        "fear": 0.080619,
+        "disgust": 0.022415,
+        "anger": 0.006389
+      },
+      "count": 1
+    },
+    {
+      "text": "love song",
+      "sentiment": {
+        "score": 0.924421,
+        "label": "positive"
+      },
+      "relevance": 0.887123,
+      "emotion": {
+        "sadness": 0.083348,
+        "joy": 0.856654,
+        "fear": 0.046515,
+        "disgust": 0.003348,
+        "anger": 0.005259
+      },
+      "count": 1
+    },
+    {
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": -0.590578,
+        "label": "negative"
+      },
+      "relevance": 0.619284,
+      "emotion": {
+        "sadness": 0.250046,
+        "joy": 0.615121,
+        "fear": 0.017596,
+        "disgust": 0.081831,
+        "anger": 0.049782
+      },
+      "count": 1
+    },
+    {
+      "text": "20th anniversary of her heart",
+      "sentiment": {
+        "score": 0.924421,
+        "label": "positive"
+      },
+      "relevance": 0.616898,
+      "emotion": {
+        "sadness": 0.083348,
+        "joy": 0.856654,
+        "fear": 0.046515,
+        "disgust": 0.003348,
+        "anger": 0.005259
+      },
+      "count": 1
+    },
+    {
+      "text": "Dion's vocals",
+      "sentiment": {
+        "score": -0.590578,
+        "label": "negative"
+      },
+      "relevance": 0.609247,
+      "emotion": {
+        "sadness": 0.250046,
+        "joy": 0.615121,
+        "fear": 0.017596,
+        "disgust": 0.081831,
+        "anger": 0.049782
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Celine Dion",
+      "sentiment": {
+        "score": 0.685125,
+        "label": "positive"
+      },
+      "relevance": 0.785583,
+      "mentions": [
+        {
+          "text": "Celine Dion",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Celine Dion",
+          "location": [
+            95,
+            106
+          ]
+        },
+        {
+          "text": "Dion",
+          "location": [
+            355,
+            359
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            375,
+            378
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.11606,
+        "joy": 0.862047,
+        "fear": 0.009069,
+        "disgust": 0.004617,
+        "anger": 0.00223
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Celine Dion",
+        "dbpedia_resource": "http://dbpedia.org/resource/Celine_Dion"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kate Winslet",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.304299,
+      "mentions": [
+        {
+          "text": "Kate Winslet",
+          "location": [
+            490,
+            502
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            564,
+            567
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.290061,
+        "joy": 0.431077,
+        "fear": 0.029686,
+        "disgust": 0.056756,
+        "anger": 0.122416
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kate Winslet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Vanessa Hudgens",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.284123,
+      "mentions": [
+        {
+          "text": "Vanessa Hudgens",
+          "location": [
+            704,
+            719
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.200905,
+        "joy": 0.17804,
+        "fear": 0.298141,
+        "disgust": 0.347266,
+        "anger": 0.238309
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Vanessa Hudgens",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vanessa_Hudgens"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.260059,
+      "mentions": [
+        {
+          "text": "Leonardo DiCaprio",
+          "location": [
+            468,
+            485
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151612,
+        "joy": 0.403437,
+        "fear": 0.035389,
+        "disgust": 0.025901,
+        "anger": 0.066503
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Leonardo DiCaprio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Two decades",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.260059,
+      "mentions": [
+        {
+          "text": "Two decades",
+          "location": [
+            649,
+            660
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Titanic",
+      "relevance": 0.964395,
+      "dbpedia_resource": "http://dbpedia.org/resource/Titanic_(1997_film)"
+    },
+    {
+      "text": "Kate Winslet",
+      "relevance": 0.950801,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+    },
+    {
+      "text": "My Heart Will Go On",
+      "relevance": 0.896405,
+      "dbpedia_resource": "http://dbpedia.org/resource/My_Heart_Will_Go_On"
+    },
+    {
+      "text": "Leonardo DiCaprio",
+      "relevance": 0.836447,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+    },
+    {
+      "text": "Actors from California",
+      "relevance": 0.661177,
+      "dbpedia_resource": "http://dbpedia.org/resource/Actors_from_California"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.908088,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

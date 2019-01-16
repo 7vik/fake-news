@@ -1,0 +1,154 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 72,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jim Carrey Claims Donald Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978109,
+      "emotion": {
+        "sadness": 0.283843,
+        "joy": 0.037811,
+        "fear": 0.093373,
+        "disgust": 0.260552,
+        "anger": 0.336508
+      },
+      "count": 1
+    },
+    {
+      "text": "Reptilian-Illuminati Blood Prince",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.021891,
+      "emotion": {
+        "sadness": 0.283843,
+        "joy": 0.037811,
+        "fear": 0.093373,
+        "disgust": 0.260552,
+        "anger": 0.336508
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            18,
+            30
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.283843,
+        "joy": 0.037811,
+        "fear": 0.093373,
+        "disgust": 0.260552,
+        "anger": 0.336508
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jim Carrey",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jim Carrey",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.283843,
+        "joy": 0.037811,
+        "fear": 0.093373,
+        "disgust": 0.260552,
+        "anger": 0.336508
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Jim Carrey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jim_Carrey"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.771705,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.768877,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.588185,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

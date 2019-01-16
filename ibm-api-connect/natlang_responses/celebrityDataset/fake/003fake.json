@@ -1,0 +1,122 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston Pregnant",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999304,
+      "emotion": {
+        "sadness": 0.035577,
+        "joy": 0.607718,
+        "fear": 0.12256,
+        "disgust": 0.143082,
+        "anger": 0.007318
+      },
+      "count": 1
+    },
+    {
+      "text": "Report",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.632074,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    },
+    {
+      "text": "Miracle Baby",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.144435,
+      "emotion": {
+        "sadness": 0.035577,
+        "joy": 0.607718,
+        "fear": 0.12256,
+        "disgust": 0.143082,
+        "anger": 0.007318
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.721505,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.038305,
+        "joy": 0.662803,
+        "fear": 0.113531,
+        "disgust": 0.121982,
+        "anger": 0.005794
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2005 in film",
+      "relevance": 0.895916,
+      "dbpedia_resource": "http://dbpedia.org/resource/2005_in_film"
+    },
+    {
+      "text": "2003 in film",
+      "relevance": 0.861341,
+      "dbpedia_resource": "http://dbpedia.org/resource/2003_in_film"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.852144,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.92559,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

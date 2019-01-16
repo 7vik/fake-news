@@ -1,0 +1,319 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 627,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Maria Sharapova",
+      "sentiment": {
+        "score": -0.63446,
+        "label": "negative"
+      },
+      "relevance": 0.913983,
+      "emotion": {
+        "sadness": 0.480077,
+        "joy": 0.040598,
+        "fear": 0.084279,
+        "disgust": 0.257454,
+        "anger": 0.460136
+      },
+      "count": 2
+    },
+    {
+      "text": "Russia's former world No1",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.775739,
+      "emotion": {
+        "sadness": 0.457338,
+        "joy": 0.383691,
+        "fear": 0.063465,
+        "disgust": 0.138167,
+        "anger": 0.047027
+      },
+      "count": 1
+    },
+    {
+      "text": "ban return",
+      "sentiment": {
+        "score": -0.63446,
+        "label": "negative"
+      },
+      "relevance": 0.743632,
+      "emotion": {
+        "sadness": 0.275319,
+        "joy": 0.035004,
+        "fear": 0.109484,
+        "disgust": 0.303963,
+        "anger": 0.540922
+      },
+      "count": 1
+    },
+    {
+      "text": "testing positive",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706884,
+      "emotion": {
+        "sadness": 0.457338,
+        "joy": 0.383691,
+        "fear": 0.063465,
+        "disgust": 0.138167,
+        "anger": 0.047027
+      },
+      "count": 1
+    },
+    {
+      "text": "April's Porsche Grand Prix thanks",
+      "sentiment": {
+        "score": 0.648021,
+        "label": "positive"
+      },
+      "relevance": 0.706695,
+      "emotion": {
+        "sadness": 0.091207,
+        "joy": 0.774133,
+        "fear": 0.039239,
+        "disgust": 0.011373,
+        "anger": 0.034519
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Maria Sharapova",
+      "sentiment": {
+        "score": -0.382612,
+        "label": "negative"
+      },
+      "relevance": 0.920246,
+      "mentions": [
+        {
+          "text": "Maria Sharapova",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "she 'fought",
+          "location": [
+            23,
+            34
+          ]
+        },
+        {
+          "text": "Maria Sharapova",
+          "location": [
+            80,
+            95
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            101,
+            104
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            177,
+            180
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            212,
+            215
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.293095,
+        "joy": 0.11457,
+        "fear": 0.087513,
+        "disgust": 0.192675,
+        "anger": 0.512933
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "Celebrity",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Maria Sharapova",
+        "dbpedia_resource": "http://dbpedia.org/resource/Maria_Sharapova"
+      },
+      "count": 6
+    },
+    {
+      "type": "Sport",
+      "text": "tennis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.362077,
+      "mentions": [
+        {
+          "text": "tennis",
+          "location": [
+            49,
+            55
+          ]
+        },
+        {
+          "text": "tennis",
+          "location": [
+            238,
+            244
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240054,
+        "joy": 0.067921,
+        "fear": 0.067598,
+        "disgust": 0.311841,
+        "anger": 0.555212
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Tennis",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tennis"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Russia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.268986,
+      "mentions": [
+        {
+          "text": "Russia",
+          "location": [
+            268,
+            274
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Russia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Porsche",
+      "sentiment": {
+        "score": 0.454114,
+        "label": "positive"
+      },
+      "relevance": 0.251679,
+      "mentions": [
+        {
+          "text": "Porsche",
+          "location": [
+            530,
+            537
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.06359,
+        "joy": 0.78845,
+        "fear": 0.03202,
+        "disgust": 0.011099,
+        "anger": 0.029098
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "two years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.251679,
+      "mentions": [
+        {
+          "text": "two years",
+          "location": [
+            319,
+            328
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Venus Williams",
+      "relevance": 0.952689,
+      "dbpedia_resource": "http://dbpedia.org/resource/Venus_Williams"
+    },
+    {
+      "text": "Justine Henin",
+      "relevance": 0.898965,
+      "dbpedia_resource": "http://dbpedia.org/resource/Justine_Henin"
+    },
+    {
+      "text": "Serena Williams",
+      "relevance": 0.857336,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+    },
+    {
+      "text": "Monica Seles",
+      "relevance": 0.855546,
+      "dbpedia_resource": "http://dbpedia.org/resource/Monica_Seles"
+    },
+    {
+      "text": "Martina Hingis",
+      "relevance": 0.836536,
+      "dbpedia_resource": "http://dbpedia.org/resource/Martina_Hingis"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999942,
+      "label": "/sports/tennis"
+    }
+  ]
+}

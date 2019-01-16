@@ -1,0 +1,255 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 824,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.372186,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "unanimous decision",
+      "sentiment": {
+        "score": -0.642321,
+        "label": "negative"
+      },
+      "relevance": 0.796081,
+      "emotion": {
+        "sadness": 0.351077,
+        "joy": 0.175989,
+        "fear": 0.182749,
+        "disgust": 0.211426,
+        "anger": 0.102814
+      },
+      "count": 1
+    },
+    {
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": -0.642321,
+        "label": "negative"
+      },
+      "relevance": 0.784386,
+      "emotion": {
+        "sadness": 0.279203,
+        "joy": 0.195356,
+        "fear": 0.136459,
+        "disgust": 0.254125,
+        "anger": 0.267007
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. Supreme Court",
+      "sentiment": {
+        "score": 0.436507,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.713889,
+      "emotion": {
+        "sadness": 0.351077,
+        "joy": 0.175989,
+        "fear": 0.182749,
+        "disgust": 0.211426,
+        "anger": 0.102814
+      },
+      "count": 1
+    },
+    {
+      "text": "major implications",
+      "sentiment": {
+        "score": -0.642321,
+        "label": "negative"
+      },
+      "relevance": 0.697201,
+      "emotion": {
+        "sadness": 0.351077,
+        "joy": 0.175989,
+        "fear": 0.182749,
+        "disgust": 0.211426,
+        "anger": 0.102814
+      },
+      "count": 1
+    },
+    {
+      "text": "de minimis",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.633878,
+      "emotion": {
+        "sadness": 0.202712,
+        "joy": 0.543248,
+        "fear": 0.020084,
+        "disgust": 0.160131,
+        "anger": 0.146679
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "U.S. Supreme Court",
+      "sentiment": {
+        "score": -0.585415,
+        "label": "negative"
+      },
+      "relevance": 0.794864,
+      "mentions": [
+        {
+          "text": "Supreme Court",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "U.S. Supreme Court",
+          "location": [
+            144,
+            162
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.282609,
+        "joy": 0.186245,
+        "fear": 0.115991,
+        "disgust": 0.279533,
+        "anger": 0.242923
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody"
+        ],
+        "name": "Supreme Court of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Chief Justice John G. Roberts",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.473908,
+      "mentions": [
+        {
+          "text": "Chief Justice John G. Roberts",
+          "location": [
+            623,
+            652
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.219309,
+        "joy": 0.324673,
+        "fear": 0.1606,
+        "disgust": 0.117447,
+        "anger": 0.332258
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Douglas County School District",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.460198,
+      "mentions": [
+        {
+          "text": "Douglas County School District",
+          "location": [
+            301,
+            331
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.159363,
+        "joy": 0.168797,
+        "fear": 0.145625,
+        "disgust": 0.128279,
+        "anger": 0.18203
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Douglas County School District",
+        "dbpedia_resource": "http://dbpedia.org/resource/Douglas_County_School_District"
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Endrew F.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.31293,
+      "mentions": [
+        {
+          "text": "Endrew F.",
+          "location": [
+            288,
+            297
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.263597,
+        "joy": 0.216028,
+        "fear": 0.164663,
+        "disgust": 0.175556,
+        "anger": 0.064371
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "John G. Roberts",
+      "relevance": 0.986051,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_G._Roberts"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.846161,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.8313,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.822945,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Chief Justice of the United States",
+      "relevance": 0.810723,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chief_Justice_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.991373,
+      "label": "/education/special education"
+    }
+  ]
+}

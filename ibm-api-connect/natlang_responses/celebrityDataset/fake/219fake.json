@@ -1,0 +1,170 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.757056,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "FKA Twigs",
+      "sentiment": {
+        "score": -0.757056,
+        "label": "negative"
+      },
+      "relevance": 0.999399,
+      "emotion": {
+        "sadness": 0.410686,
+        "joy": 0.06679,
+        "fear": 0.035221,
+        "disgust": 0.570238,
+        "anger": 0.036461
+      },
+      "count": 1
+    },
+    {
+      "text": "Cannes Film Festival",
+      "sentiment": {
+        "score": -0.757056,
+        "label": "negative"
+      },
+      "relevance": 0.961125,
+      "emotion": {
+        "sadness": 0.410686,
+        "joy": 0.06679,
+        "fear": 0.035221,
+        "disgust": 0.570238,
+        "anger": 0.036461
+      },
+      "count": 1
+    },
+    {
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": -0.757056,
+        "label": "negative"
+      },
+      "relevance": 0.354148,
+      "emotion": {
+        "sadness": 0.410686,
+        "joy": 0.06679,
+        "fear": 0.035221,
+        "disgust": 0.570238,
+        "anger": 0.036461
+      },
+      "count": 1
+    },
+    {
+      "text": "Celeb Dirty Laundry",
+      "sentiment": {
+        "score": -0.757056,
+        "label": "negative"
+      },
+      "relevance": 0.09598,
+      "emotion": {
+        "sadness": 0.410686,
+        "joy": 0.06679,
+        "fear": 0.035221,
+        "disgust": 0.570238,
+        "anger": 0.036461
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Robert Pattinson",
+      "sentiment": {
+        "score": -0.853225,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Robert Pattinson",
+          "location": [
+            31,
+            47
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.410686,
+        "joy": 0.06679,
+        "fear": 0.035221,
+        "disgust": 0.570238,
+        "anger": 0.036461
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Robert Pattinson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Cannes",
+      "sentiment": {
+        "score": -0.853225,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Cannes",
+          "location": [
+            51,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.410686,
+        "joy": 0.06679,
+        "fear": 0.035221,
+        "disgust": 0.570238,
+        "anger": 0.036461
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cannes Film Festival",
+      "relevance": 0.945151,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cannes_Film_Festival"
+    },
+    {
+      "text": "Robert Pattinson",
+      "relevance": 0.483748,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Pattinson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.968656,
+      "label": "/art and entertainment/movies/film festivals and awards"
+    }
+  ]
+}

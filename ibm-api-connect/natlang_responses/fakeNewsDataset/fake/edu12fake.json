@@ -1,0 +1,228 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 484,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Code club",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.904726,
+      "emotion": {
+        "sadness": 0.324729,
+        "joy": 0.188712,
+        "fear": 0.023979,
+        "disgust": 0.507269,
+        "anger": 0.090838
+      },
+      "count": 1
+    },
+    {
+      "text": "genetic codes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.723951,
+      "emotion": {
+        "sadness": 0.401992,
+        "joy": 0.32921,
+        "fear": 0.033543,
+        "disgust": 0.197129,
+        "anger": 0.159498
+      },
+      "count": 1
+    },
+    {
+      "text": "first man",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.651072,
+      "emotion": {
+        "sadness": 0.168025,
+        "joy": 0.50867,
+        "fear": 0.030895,
+        "disgust": 0.214848,
+        "anger": 0.140034
+      },
+      "count": 1
+    },
+    {
+      "text": "hot topic",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.642897,
+      "emotion": {
+        "sadness": 0.301128,
+        "joy": 0.378597,
+        "fear": 0.103098,
+        "disgust": 0.203853,
+        "anger": 0.090953
+      },
+      "count": 1
+    },
+    {
+      "text": "group",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.640467,
+      "emotion": {
+        "sadness": 0.401992,
+        "joy": 0.32921,
+        "fear": 0.033543,
+        "disgust": 0.197129,
+        "anger": 0.159498
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Eve",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.835593,
+      "mentions": [
+        {
+          "text": "Eve",
+          "location": [
+            198,
+            201
+          ]
+        },
+        {
+          "text": "Eve",
+          "location": [
+            403,
+            406
+          ]
+        },
+        {
+          "text": "the first woman",
+          "location": [
+            420,
+            435
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            454,
+            457
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296984,
+        "joy": 0.422122,
+        "fear": 0.021031,
+        "disgust": 0.203984,
+        "anger": 0.164869
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Eve",
+        "dbpedia_resource": "http://dbpedia.org/resource/Eve"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Adam",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.675735,
+      "mentions": [
+        {
+          "text": "Adam",
+          "location": [
+            162,
+            166
+          ]
+        },
+        {
+          "text": "the first man",
+          "location": [
+            171,
+            184
+          ]
+        },
+        {
+          "text": "Adam",
+          "location": [
+            467,
+            471
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151688,
+        "joy": 0.51034,
+        "fear": 0.027478,
+        "disgust": 0.222471,
+        "anger": 0.153662
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Adam",
+        "dbpedia_resource": "http://dbpedia.org/resource/Adam"
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Adam and Eve",
+      "relevance": 0.9816,
+      "dbpedia_resource": "http://dbpedia.org/resource/Adam_and_Eve"
+    },
+    {
+      "text": "First man or woman",
+      "relevance": 0.845043,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_man_or_woman"
+    },
+    {
+      "text": "Woman",
+      "relevance": 0.772296,
+      "dbpedia_resource": "http://dbpedia.org/resource/Woman"
+    },
+    {
+      "text": "Female",
+      "relevance": 0.746913,
+      "dbpedia_resource": "http://dbpedia.org/resource/Female"
+    },
+    {
+      "text": "Cosmic Man",
+      "relevance": 0.642448,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cosmic_Man"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.671156,
+      "label": "/society"
+    }
+  ]
+}

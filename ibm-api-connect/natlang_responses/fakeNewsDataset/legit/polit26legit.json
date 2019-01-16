@@ -1,0 +1,252 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 669,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.846118,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Homeland Security",
+      "sentiment": {
+        "score": -0.975854,
+        "label": "negative"
+      },
+      "relevance": 0.767295,
+      "emotion": {
+        "sadness": 0.163056,
+        "joy": 0.043729,
+        "fear": 0.034786,
+        "disgust": 0.314718,
+        "anger": 0.27229
+      },
+      "count": 1
+    },
+    {
+      "text": "legal defense of the controversial executive action",
+      "sentiment": {
+        "score": -0.650412,
+        "label": "negative"
+      },
+      "relevance": 0.757785,
+      "emotion": {
+        "sadness": 0.150765,
+        "joy": 0.042946,
+        "fear": 0.028614,
+        "disgust": 0.276498,
+        "anger": 0.259139
+      },
+      "count": 1
+    },
+    {
+      "text": "President Donald Trump's government",
+      "sentiment": {
+        "score": -0.975854,
+        "label": "negative"
+      },
+      "relevance": 0.713419,
+      "emotion": {
+        "sadness": 0.150765,
+        "joy": 0.042946,
+        "fear": 0.028614,
+        "disgust": 0.276498,
+        "anger": 0.259139
+      },
+      "count": 1
+    },
+    {
+      "text": "federal judge's order",
+      "sentiment": {
+        "score": -0.975854,
+        "label": "negative"
+      },
+      "relevance": 0.701759,
+      "emotion": {
+        "sadness": 0.150765,
+        "joy": 0.042946,
+        "fear": 0.028614,
+        "disgust": 0.276498,
+        "anger": 0.259139
+      },
+      "count": 1
+    },
+    {
+      "text": "Justice Department",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.698879,
+      "emotion": {
+        "sadness": 0.448781,
+        "joy": 0.070434,
+        "fear": 0.093988,
+        "disgust": 0.216803,
+        "anger": 0.168821
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.566197,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            54,
+            76
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            186,
+            191
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.54189,
+        "joy": 0.152915,
+        "fear": 0.017504,
+        "disgust": 0.124832,
+        "anger": 0.206911
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Department of Homeland Security",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.495212,
+      "emotion": {
+        "sadness": 0.075051,
+        "joy": 0.024879,
+        "fear": 0.045703,
+        "disgust": 0.223525,
+        "anger": 0.130452
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Justice Department",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.311928,
+      "mentions": [
+        {
+          "text": "Justice Department",
+          "location": [
+            517,
+            535
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.240988,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            38,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.923143,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "United States Department of Homeland Security",
+      "relevance": 0.902801,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Homeland_Security"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.880729,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.718238,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.715837,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.937351,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

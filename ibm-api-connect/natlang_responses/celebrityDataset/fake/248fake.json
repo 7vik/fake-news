@@ -1,0 +1,156 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.872637,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift Leak Her Romance",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.999039,
+      "emotion": {
+        "sadness": 0.428879,
+        "joy": 0.107899,
+        "fear": 0.140784,
+        "disgust": 0.298307,
+        "anger": 0.240976
+      },
+      "count": 1
+    },
+    {
+      "text": "Publicity",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.428879,
+        "joy": 0.107899,
+        "fear": 0.140784,
+        "disgust": 0.298307,
+        "anger": 0.240976
+      },
+      "count": 1
+    },
+    {
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.103026,
+      "emotion": {
+        "sadness": 0.428879,
+        "joy": 0.107899,
+        "fear": 0.140784,
+        "disgust": 0.298307,
+        "anger": 0.240976
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.719721,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            4,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.437372,
+        "joy": 0.162333,
+        "fear": 0.1287,
+        "disgust": 0.270501,
+        "anger": 0.203306
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": -0.719721,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            39,
+            48
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.437372,
+        "joy": 0.162333,
+        "fear": 0.1287,
+        "disgust": 0.270501,
+        "anger": 0.203306
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "Romeo and Juliet",
+      "relevance": 0.790448,
+      "dbpedia_resource": "http://dbpedia.org/resource/Romeo_and_Juliet"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.75391,
+      "label": "/art and entertainment/books and literature/romance novels"
+    }
+  ]
+}

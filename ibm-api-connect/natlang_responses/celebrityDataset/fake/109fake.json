@@ -1,0 +1,376 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1236,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.642991,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Copycat' Sister Kim",
+      "sentiment": {
+        "score": -0.677715,
+        "label": "negative"
+      },
+      "relevance": 0.783726,
+      "emotion": {
+        "sadness": 0.22793,
+        "joy": 0.416305,
+        "fear": 0.044322,
+        "disgust": 0.149377,
+        "anger": 0.254852
+      },
+      "count": 1
+    },
+    {
+      "text": "Perfume LaunchKim Kardashian",
+      "sentiment": {
+        "score": -0.677715,
+        "label": "negative"
+      },
+      "relevance": 0.640104,
+      "emotion": {
+        "sadness": 0.22793,
+        "joy": 0.416305,
+        "fear": 0.044322,
+        "disgust": 0.149377,
+        "anger": 0.254852
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim can\u2019t stop",
+      "sentiment": {
+        "score": -0.907688,
+        "label": "negative"
+      },
+      "relevance": 0.637591,
+      "emotion": {
+        "sadness": 0.310952,
+        "joy": 0.225656,
+        "fear": 0.144936,
+        "disgust": 0.10389,
+        "anger": 0.186435
+      },
+      "count": 1
+    },
+    {
+      "text": "star\u2019s 20-year-old makeup",
+      "sentiment": {
+        "score": -0.350197,
+        "label": "negative"
+      },
+      "relevance": 0.634238,
+      "emotion": {
+        "sadness": 0.157203,
+        "joy": 0.305447,
+        "fear": 0.034158,
+        "disgust": 0.072498,
+        "anger": 0.52509
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian Was Nearly Naked",
+      "sentiment": {
+        "score": -0.915343,
+        "label": "negative"
+      },
+      "relevance": 0.617719,
+      "emotion": {
+        "sadness": 0.26258,
+        "joy": 0.016838,
+        "fear": 0.210456,
+        "disgust": 0.579237,
+        "anger": 0.318015
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.531609,
+        "label": "negative"
+      },
+      "relevance": 0.868592,
+      "mentions": [
+        {
+          "text": "Kim",
+          "location": [
+            37,
+            40
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            310,
+            313
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            415,
+            418
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            460,
+            474
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            548,
+            551
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            945,
+            959
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1047,
+            1050
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1065,
+            1068
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            1121,
+            1135
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251273,
+        "joy": 0.198762,
+        "fear": 0.117915,
+        "disgust": 0.204478,
+        "anger": 0.560979
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.644439,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            271,
+            283
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            784,
+            790
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            835,
+            838
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kylie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.543715,
+      "mentions": [
+        {
+          "text": "Kylie",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            297,
+            302
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            614,
+            619
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            1018,
+            1023
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188622,
+        "joy": 0.53389,
+        "fear": 0.016091,
+        "disgust": 0.269171,
+        "anger": 0.125741
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Kylie Cosmetics",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.419585,
+      "mentions": [
+        {
+          "text": "Kylie Cosmetics",
+          "location": [
+            795,
+            810
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201958,
+        "joy": 0.329424,
+        "fear": 0.056001,
+        "disgust": 0.374091,
+        "anger": 0.243993
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.427909,
+        "label": "positive"
+      },
+      "relevance": 0.244731,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            678,
+            688
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.083607,
+        "joy": 0.321754,
+        "fear": 0.167906,
+        "disgust": 0.007579,
+        "anger": 0.104829
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.952889,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.91439,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.760334,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.717961,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Kris Jenner",
+      "relevance": 0.696142,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.740053,
+      "label": "/style and fashion/beauty/cosmetics"
+    }
+  ]
+}

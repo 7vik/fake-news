@@ -1,0 +1,435 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1638,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.287184,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.338033,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.913438,
+      "emotion": {
+        "sadness": 0.202566,
+        "joy": 0.399728,
+        "fear": 0.015623,
+        "disgust": 0.114141,
+        "anger": 0.289072
+      },
+      "count": 3
+    },
+    {
+      "text": "Angelina Jolie Divorce",
+      "sentiment": {
+        "score": -0.908203,
+        "label": "negative"
+      },
+      "relevance": 0.690666,
+      "emotion": {
+        "sadness": 0.425625,
+        "joy": 0.05048,
+        "fear": 0.02129,
+        "disgust": 0.105566,
+        "anger": 0.270749
+      },
+      "count": 1
+    },
+    {
+      "text": "ex-wife",
+      "sentiment": {
+        "score": 0.476338,
+        "label": "positive"
+      },
+      "relevance": 0.636827,
+      "emotion": {
+        "sadness": 0.488213,
+        "joy": 0.134712,
+        "fear": 0.059421,
+        "disgust": 0.154973,
+        "anger": 0.122753
+      },
+      "count": 1
+    },
+    {
+      "text": "former Friends star's contact information",
+      "sentiment": {
+        "score": -0.770717,
+        "label": "negative"
+      },
+      "relevance": 0.634896,
+      "emotion": {
+        "sadness": 0.311561,
+        "joy": 0.476626,
+        "fear": 0.013956,
+        "disgust": 0.012858,
+        "anger": 0.065377
+      },
+      "count": 1
+    },
+    {
+      "text": "happy birthday",
+      "sentiment": {
+        "score": -0.54598,
+        "label": "negative"
+      },
+      "relevance": 0.630451,
+      "emotion": {
+        "sadness": 0.311561,
+        "joy": 0.476626,
+        "fear": 0.013956,
+        "disgust": 0.012858,
+        "anger": 0.065377
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.364904,
+        "label": "positive"
+      },
+      "relevance": 0.856793,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Brad Pitt",
+          "location": [
+            164,
+            173
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            581,
+            585
+          ]
+        },
+        {
+          "text": "Brad Pitt",
+          "location": [
+            852,
+            861
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            915,
+            919
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            966,
+            970
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            980,
+            982
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            1084,
+            1088
+          ]
+        },
+        {
+          "text": "Brad",
+          "location": [
+            1384,
+            1388
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.581543,
+        "joy": 0.140228,
+        "fear": 0.115312,
+        "disgust": 0.156606,
+        "anger": 0.126694
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": -0.514192,
+        "label": "negative"
+      },
+      "relevance": 0.491562,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            67,
+            81
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            541,
+            555
+          ]
+        },
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            866,
+            880
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.389996,
+        "joy": 0.106308,
+        "fear": 0.038086,
+        "disgust": 0.298287,
+        "anger": 0.397817
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.222903,
+        "label": "positive"
+      },
+      "relevance": 0.331863,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            40,
+            56
+          ]
+        },
+        {
+          "text": "Online",
+          "location": [
+            156,
+            162
+          ]
+        },
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            218,
+            234
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.448737,
+        "joy": 0.160429,
+        "fear": 0.063732,
+        "disgust": 0.128215,
+        "anger": 0.253686
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jen",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.315314,
+      "mentions": [
+        {
+          "text": "Jen",
+          "location": [
+            937,
+            940
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1116,
+            1119
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1193,
+            1196
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1308,
+            1311
+          ]
+        },
+        {
+          "text": "Jen",
+          "location": [
+            1376,
+            1379
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1418,
+            1421
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Justin Theroux",
+      "sentiment": {
+        "score": 0.304565,
+        "label": "positive"
+      },
+      "relevance": 0.17968,
+      "mentions": [
+        {
+          "text": "Justin Theroux",
+          "location": [
+            1144,
+            1158
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            1235,
+            1241
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168141,
+        "joy": 0.600884,
+        "fear": 0.066371,
+        "disgust": 0.143696,
+        "anger": 0.077421
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "FilmProducer",
+          "TheaterActor",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Justin Theroux",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Theroux"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.983136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.970813,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.875436,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.797307,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "People",
+      "relevance": 0.663138,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.975905,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

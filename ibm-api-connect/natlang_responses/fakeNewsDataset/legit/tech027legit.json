@@ -1,0 +1,191 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 741,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.498104,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "YouTube video",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.9746,
+      "emotion": {
+        "sadness": 0.146667,
+        "joy": 0.431766,
+        "fear": 0.030838,
+        "disgust": 0.188982,
+        "anger": 0.27251
+      },
+      "count": 1
+    },
+    {
+      "text": "wedding vows",
+      "sentiment": {
+        "score": -0.663195,
+        "label": "negative"
+      },
+      "relevance": 0.810499,
+      "emotion": {
+        "sadness": 0.194386,
+        "joy": 0.519764,
+        "fear": 0.109509,
+        "disgust": 0.100925,
+        "anger": 0.163408
+      },
+      "count": 1
+    },
+    {
+      "text": "four-minute video",
+      "sentiment": {
+        "score": -0.663195,
+        "label": "negative"
+      },
+      "relevance": 0.759294,
+      "emotion": {
+        "sadness": 0.194386,
+        "joy": 0.519764,
+        "fear": 0.109509,
+        "disgust": 0.100925,
+        "anger": 0.163408
+      },
+      "count": 1
+    },
+    {
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.787305,
+        "label": "negative"
+      },
+      "relevance": 0.714446,
+      "emotion": {
+        "sadness": 0.327565,
+        "joy": 0.339038,
+        "fear": 0.039146,
+        "disgust": 0.194998,
+        "anger": 0.272569
+      },
+      "count": 3
+    },
+    {
+      "text": "vows video",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.575627,
+      "emotion": {
+        "sadness": 0.086613,
+        "joy": 0.588053,
+        "fear": 0.055031,
+        "disgust": 0.028292,
+        "anger": 0.093561
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.553975,
+        "label": "negative"
+      },
+      "relevance": 0.856978,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            61,
+            68
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            440,
+            447
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.331095,
+        "joy": 0.336407,
+        "fear": 0.042739,
+        "disgust": 0.174127,
+        "anger": 0.258057
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "four-minute",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.856978,
+      "mentions": [
+        {
+          "text": "four-minute",
+          "location": [
+            245,
+            256
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "YouTube",
+      "relevance": 0.947068,
+      "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+      "text": "Prince",
+      "relevance": 0.785414,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_(musician)"
+    },
+    {
+      "text": "Wedding",
+      "relevance": 0.678588,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wedding"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.774922,
+      "label": "/style and fashion/clothing"
+    }
+  ]
+}

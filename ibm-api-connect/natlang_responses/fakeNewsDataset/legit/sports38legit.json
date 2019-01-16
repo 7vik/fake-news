@@ -1,0 +1,301 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 666,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Super Bowl",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.87056,
+      "emotion": {
+        "sadness": 0.267217,
+        "joy": 0.380608,
+        "fear": 0.047865,
+        "disgust": 0.363167,
+        "anger": 0.077515
+      },
+      "count": 1
+    },
+    {
+      "text": "Tom Brady's missing jerseys",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.866129,
+      "emotion": {
+        "sadness": 0.183847,
+        "joy": 0.411448,
+        "fear": 0.12966,
+        "disgust": 0.209845,
+        "anger": 0.064919
+      },
+      "count": 2
+    },
+    {
+      "text": "law enforcement agencies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.727908,
+      "emotion": {
+        "sadness": 0.115972,
+        "joy": 0.385059,
+        "fear": 0.074213,
+        "disgust": 0.452095,
+        "anger": 0.046581
+      },
+      "count": 1
+    },
+    {
+      "text": "last month's Super Bowl LI",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.677191,
+      "emotion": {
+        "sadness": 0.682762,
+        "joy": 0.130384,
+        "fear": 0.032066,
+        "disgust": 0.209784,
+        "anger": 0.086315
+      },
+      "count": 1
+    },
+    {
+      "text": "New England Patriots quarterback",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.611529,
+      "emotion": {
+        "sadness": 0.682762,
+        "joy": 0.130384,
+        "fear": 0.032066,
+        "disgust": 0.209784,
+        "anger": 0.086315
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Brady",
+      "sentiment": {
+        "score": -0.573911,
+        "label": "negative"
+      },
+      "relevance": 0.806913,
+      "mentions": [
+        {
+          "text": "Tom Brady",
+          "location": [
+            26,
+            35
+          ]
+        },
+        {
+          "text": "Tom Brady",
+          "location": [
+            154,
+            163
+          ]
+        },
+        {
+          "text": "Brady",
+          "location": [
+            273,
+            278
+          ]
+        },
+        {
+          "text": "Brady",
+          "location": [
+            579,
+            584
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardWinner",
+          "Celebrity",
+          "FootballPlayer",
+          "SportsLeagueAwardWinner",
+          "TVActor"
+        ],
+        "name": "Tom Brady",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Brady"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Von Miller",
+      "sentiment": {
+        "score": -0.796012,
+        "label": "negative"
+      },
+      "relevance": 0.588864,
+      "mentions": [
+        {
+          "text": "Von Miller",
+          "location": [
+            70,
+            80
+          ]
+        },
+        {
+          "text": "Von Miller",
+          "location": [
+            85,
+            95
+          ]
+        },
+        {
+          "text": "Miller",
+          "location": [
+            206,
+            212
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241617,
+        "joy": 0.201134,
+        "fear": 0.160342,
+        "disgust": 0.17805,
+        "anger": 0.061543
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Von Miller",
+        "dbpedia_resource": "http://dbpedia.org/resource/Von_Miller"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Denver Broncos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.351878,
+      "mentions": [
+        {
+          "text": "Denver Broncos",
+          "location": [
+            224,
+            238
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.216237,
+        "joy": 0.358297,
+        "fear": 0.142204,
+        "disgust": 0.198406,
+        "anger": 0.067941
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "FootballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Denver Broncos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Denver_Broncos"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Broncos",
+      "sentiment": {
+        "score": -0.796012,
+        "label": "negative"
+      },
+      "relevance": 0.348354,
+      "mentions": [
+        {
+          "text": "Broncos",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241617,
+        "joy": 0.201134,
+        "fear": 0.160342,
+        "disgust": 0.17805,
+        "anger": 0.061543
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "C.D. Broncos",
+        "dbpedia_resource": "http://dbpedia.org/resource/C.D._Broncos"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Law enforcement agency",
+      "relevance": 0.958215,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law_enforcement_agency"
+    },
+    {
+      "text": "National Football League",
+      "relevance": 0.883897,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Football_League"
+    },
+    {
+      "text": "Super Bowl",
+      "relevance": 0.85546,
+      "dbpedia_resource": "http://dbpedia.org/resource/Super_Bowl"
+    },
+    {
+      "text": "New England Patriots",
+      "relevance": 0.825655,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_England_Patriots"
+    },
+    {
+      "text": "Federal Bureau of Investigation",
+      "relevance": 0.813625,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.933311,
+      "label": "/sports/football"
+    }
+  ]
+}

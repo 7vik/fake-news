@@ -1,0 +1,272 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 644,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.559667,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "WWE star Paige",
+      "sentiment": {
+        "score": -0.358962,
+        "label": "negative"
+      },
+      "relevance": 0.863023,
+      "emotion": {
+        "sadness": 0.279236,
+        "joy": 0.061977,
+        "fear": 0.262812,
+        "disgust": 0.640551,
+        "anger": 0.058295
+      },
+      "count": 1
+    },
+    {
+      "text": "two-time Divas",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.832122,
+      "emotion": {
+        "sadness": 0.562945,
+        "joy": 0.086031,
+        "fear": 0.291597,
+        "disgust": 0.185694,
+        "anger": 0.076691
+      },
+      "count": 1
+    },
+    {
+      "text": "real name Saraya-Jade Bevis",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711299,
+      "emotion": {
+        "sadness": 0.562945,
+        "joy": 0.086031,
+        "fear": 0.291597,
+        "disgust": 0.185694,
+        "anger": 0.076691
+      },
+      "count": 1
+    },
+    {
+      "text": "big mistake",
+      "sentiment": {
+        "score": -0.796186,
+        "label": "negative"
+      },
+      "relevance": 0.600937,
+      "emotion": {
+        "sadness": 0.608121,
+        "joy": 0.067954,
+        "fear": 0.15795,
+        "disgust": 0.271061,
+        "anger": 0.181591
+      },
+      "count": 1
+    },
+    {
+      "text": "thing",
+      "sentiment": {
+        "score": -0.94123,
+        "label": "negative"
+      },
+      "relevance": 0.553564,
+      "emotion": {
+        "sadness": 0.609962,
+        "joy": 0.130451,
+        "fear": 0.148488,
+        "disgust": 0.126395,
+        "anger": 0.147805
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Paige",
+      "sentiment": {
+        "score": -0.582981,
+        "label": "negative"
+      },
+      "relevance": 0.934587,
+      "mentions": [
+        {
+          "text": "Paige",
+          "location": [
+            9,
+            14
+          ]
+        },
+        {
+          "text": "Paige",
+          "location": [
+            78,
+            83
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            97,
+            100
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            127,
+            134
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            171,
+            174
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            262,
+            265
+          ]
+        },
+        {
+          "text": "herself",
+          "location": [
+            285,
+            292
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.547228,
+        "joy": 0.052838,
+        "fear": 0.26293,
+        "disgust": 0.695759,
+        "anger": 0.097651
+      },
+      "count": 7
+    },
+    {
+      "type": "Company",
+      "text": "WWE",
+      "sentiment": {
+        "score": -0.592247,
+        "label": "negative"
+      },
+      "relevance": 0.726941,
+      "mentions": [
+        {
+          "text": "WWE",
+          "location": [
+            0,
+            3
+          ]
+        },
+        {
+          "text": "WWE",
+          "location": [
+            69,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.248441,
+        "joy": 0.038229,
+        "fear": 0.219571,
+        "disgust": 0.709147,
+        "anger": 0.098242
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "WWE",
+        "dbpedia_resource": "http://dbpedia.org/resource/WWE"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Saraya-Jade Bevis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.417624,
+      "mentions": [
+        {
+          "text": "Saraya-Jade Bevis",
+          "location": [
+            234,
+            251
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.562945,
+        "joy": 0.086031,
+        "fear": 0.291597,
+        "disgust": 0.185694,
+        "anger": 0.076691
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Britani Knight",
+        "dbpedia_resource": "http://dbpedia.org/resource/Britani_Knight"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "24-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.417624,
+      "mentions": [
+        {
+          "text": "24-year",
+          "location": [
+            354,
+            361
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mind",
+      "relevance": 0.927776,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mind"
+    },
+    {
+      "text": "Thought",
+      "relevance": 0.919919,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thought"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.926933,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

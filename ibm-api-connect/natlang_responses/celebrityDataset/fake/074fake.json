@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 66,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.858666,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.858666,
+        "label": "negative"
+      },
+      "relevance": 0.999883,
+      "emotion": {
+        "sadness": 0.584406,
+        "joy": 0.059296,
+        "fear": 0.064908,
+        "disgust": 0.275115,
+        "anger": 0.114797
+      },
+      "count": 1
+    },
+    {
+      "text": "Justin Bieber Attend Knicks Game",
+      "sentiment": {
+        "score": -0.858666,
+        "label": "negative"
+      },
+      "relevance": 0.570733,
+      "emotion": {
+        "sadness": 0.584406,
+        "joy": 0.059296,
+        "fear": 0.064908,
+        "disgust": 0.275115,
+        "anger": 0.114797
+      },
+      "count": 1
+    },
+    {
+      "text": "Awkward Run-In",
+      "sentiment": {
+        "score": -0.858666,
+        "label": "negative"
+      },
+      "relevance": 0.03031,
+      "emotion": {
+        "sadness": 0.584406,
+        "joy": 0.059296,
+        "fear": 0.064908,
+        "disgust": 0.275115,
+        "anger": 0.114797
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.430826,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.313461,
+        "joy": 0.133551,
+        "fear": 0.041903,
+        "disgust": 0.205042,
+        "anger": 0.071349
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Justin Bieber",
+      "sentiment": {
+        "score": -0.430826,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin Bieber",
+          "location": [
+            15,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.313461,
+        "joy": 0.133551,
+        "fear": 0.041903,
+        "disgust": 0.205042,
+        "anger": 0.071349
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Justin Bieber",
+        "dbpedia_resource": "http://dbpedia.org/resource/Justin_Bieber"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "52nd Grammy Awards",
+      "relevance": 0.973917,
+      "dbpedia_resource": "http://dbpedia.org/resource/52nd_Grammy_Awards"
+    },
+    {
+      "text": "Fearless Tour",
+      "relevance": 0.798735,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fearless_Tour"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996968,
+      "label": "/hobbies and interests/games"
+    }
+  ]
+}

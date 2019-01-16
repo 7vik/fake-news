@@ -1,0 +1,151 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.285598,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt\u2019s bodyguard",
+      "sentiment": {
+        "score": -0.285598,
+        "label": "negative"
+      },
+      "relevance": 0.999284,
+      "emotion": {
+        "sadness": 0.419227,
+        "joy": 0.164206,
+        "fear": 0.204367,
+        "disgust": 0.250209,
+        "anger": 0.096753
+      },
+      "count": 1
+    },
+    {
+      "text": "actor",
+      "sentiment": {
+        "score": -0.285598,
+        "label": "negative"
+      },
+      "relevance": 0.610963,
+      "emotion": {
+        "sadness": 0.419227,
+        "joy": 0.164206,
+        "fear": 0.204367,
+        "disgust": 0.250209,
+        "anger": 0.096753
+      },
+      "count": 1
+    },
+    {
+      "text": "Angelina",
+      "sentiment": {
+        "score": -0.285598,
+        "label": "negative"
+      },
+      "relevance": 0.576157,
+      "emotion": {
+        "sadness": 0.419227,
+        "joy": 0.164206,
+        "fear": 0.204367,
+        "disgust": 0.250209,
+        "anger": 0.096753
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.755788,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Angelina",
+      "sentiment": {
+        "score": 0.581349,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina",
+          "location": [
+            71,
+            79
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.426022,
+        "joy": 0.108457,
+        "fear": 0.480404,
+        "disgust": 0.113759,
+        "anger": 0.077169
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.971964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.820458,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Mr. & Mrs. Smith",
+      "relevance": 0.725314,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mr._&_Mrs._Smith_(2005_film)"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.675292,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    },
+    {
+      "text": "People",
+      "relevance": 0.666873,
+      "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.685862,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 646,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.904038,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "base camp",
+      "sentiment": {
+        "score": -0.904038,
+        "label": "negative"
+      },
+      "relevance": 0.757094,
+      "emotion": {
+        "sadness": 0.54108,
+        "joy": 0.16791,
+        "fear": 0.075697,
+        "disgust": 0.121074,
+        "anger": 0.27598
+      },
+      "count": 1
+    },
+    {
+      "text": "liaison official",
+      "sentiment": {
+        "score": -0.904038,
+        "label": "negative"
+      },
+      "relevance": 0.699217,
+      "emotion": {
+        "sadness": 0.54108,
+        "joy": 0.16791,
+        "fear": 0.075697,
+        "disgust": 0.121074,
+        "anger": 0.27598
+      },
+      "count": 1
+    },
+    {
+      "text": "false Everest claims",
+      "sentiment": {
+        "score": -0.904038,
+        "label": "negative"
+      },
+      "relevance": 0.675652,
+      "emotion": {
+        "sadness": 0.309028,
+        "joy": 0.009007,
+        "fear": 0.252657,
+        "disgust": 0.078206,
+        "anger": 0.224814
+      },
+      "count": 1
+    },
+    {
+      "text": "GPS device",
+      "sentiment": {
+        "score": -0.904038,
+        "label": "negative"
+      },
+      "relevance": 0.656841,
+      "emotion": {
+        "sadness": 0.309028,
+        "joy": 0.009007,
+        "fear": 0.252657,
+        "disgust": 0.078206,
+        "anger": 0.224814
+      },
+      "count": 1
+    },
+    {
+      "text": "Indian couple",
+      "sentiment": {
+        "score": -0.904038,
+        "label": "negative"
+      },
+      "relevance": 0.650902,
+      "emotion": {
+        "sadness": 0.54108,
+        "joy": 0.16791,
+        "fear": 0.075697,
+        "disgust": 0.121074,
+        "anger": 0.27598
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "GeographicFeature",
+      "text": "Mount Everest",
+      "sentiment": {
+        "score": -0.424084,
+        "label": "negative"
+      },
+      "relevance": 0.8125,
+      "mentions": [
+        {
+          "text": "Mount Everest",
+          "location": [
+            137,
+            150
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.307048,
+        "joy": 0.060995,
+        "fear": 0.178083,
+        "disgust": 0.105931,
+        "anger": 0.172856
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Mountain",
+          "TouristAttraction"
+        ],
+        "name": "Mount Everest",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mount_Everest"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Nepal",
+      "sentiment": {
+        "score": -0.424084,
+        "label": "negative"
+      },
+      "relevance": 0.660816,
+      "mentions": [
+        {
+          "text": "Nepal",
+          "location": [
+            55,
+            60
+          ]
+        },
+        {
+          "text": "Nepal",
+          "location": [
+            543,
+            548
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.567266,
+        "joy": 0.102473,
+        "fear": 0.092759,
+        "disgust": 0.192557,
+        "anger": 0.279807
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Cuisine",
+          "Country"
+        ],
+        "name": "Nepal",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nepal"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.432826,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            247,
+            255
+          ]
+        },
+        {
+          "text": "official",
+          "location": [
+            449,
+            457
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.540773,
+        "joy": 0.238125,
+        "fear": 0.041939,
+        "disgust": 0.170273,
+        "anger": 0.163475
+      },
+      "count": 2
+    },
+    {
+      "type": "Quantity",
+      "text": "29,035-feet",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.432826,
+      "mentions": [
+        {
+          "text": "29,035-feet",
+          "location": [
+            307,
+            318
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mount Everest",
+      "relevance": 0.986298,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mount_Everest"
+    },
+    {
+      "text": "Eight-thousander",
+      "relevance": 0.75416,
+      "dbpedia_resource": "http://dbpedia.org/resource/Eight-thousander"
+    },
+    {
+      "text": "Nepal",
+      "relevance": 0.637503,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nepal"
+    },
+    {
+      "text": "Tenzing Norgay",
+      "relevance": 0.604451,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tenzing_Norgay"
+    },
+    {
+      "text": "Edmund Hillary",
+      "relevance": 0.595341,
+      "dbpedia_resource": "http://dbpedia.org/resource/Edmund_Hillary"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999426,
+      "label": "/sports/climbing"
+    }
+  ]
+}

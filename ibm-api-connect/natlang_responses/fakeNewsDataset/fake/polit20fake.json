@@ -1,0 +1,351 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 925,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.584953,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.891207,
+        "label": "negative"
+      },
+      "relevance": 0.961818,
+      "emotion": {
+        "sadness": 0.118973,
+        "joy": 0.121447,
+        "fear": 0.071187,
+        "disgust": 0.611186,
+        "anger": 0.359581
+      },
+      "count": 3
+    },
+    {
+      "text": "Hillary Clinton Spar",
+      "sentiment": {
+        "score": -0.891967,
+        "label": "negative"
+      },
+      "relevance": 0.839124,
+      "emotion": {
+        "sadness": 0.180522,
+        "joy": 0.038379,
+        "fear": 0.410337,
+        "disgust": 0.460079,
+        "anger": 0.28161
+      },
+      "count": 1
+    },
+    {
+      "text": "Second Debate",
+      "sentiment": {
+        "score": -0.891967,
+        "label": "negative"
+      },
+      "relevance": 0.806901,
+      "emotion": {
+        "sadness": 0.180522,
+        "joy": 0.038379,
+        "fear": 0.410337,
+        "disgust": 0.460079,
+        "anger": 0.28161
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.891967,
+        "label": "negative"
+      },
+      "relevance": 0.69164,
+      "emotion": {
+        "sadness": 0.153455,
+        "joy": 0.388793,
+        "fear": 0.124639,
+        "disgust": 0.351431,
+        "anger": 0.162818
+      },
+      "count": 1
+    },
+    {
+      "text": "Mr. Trump",
+      "sentiment": {
+        "score": -0.77693,
+        "label": "negative"
+      },
+      "relevance": 0.679607,
+      "emotion": {
+        "sadness": 0.163737,
+        "joy": 0.066466,
+        "fear": 0.177081,
+        "disgust": 0.600935,
+        "anger": 0.256202
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.396704,
+        "label": "negative"
+      },
+      "relevance": 0.939827,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            18,
+            30
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            116,
+            128
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            260,
+            269
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            423,
+            435
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            523,
+            528
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140784,
+        "joy": 0.159343,
+        "fear": 0.107746,
+        "disgust": 0.557412,
+        "anger": 0.187109
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.045966,
+        "label": "negative"
+      },
+      "relevance": 0.880168,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            96,
+            111
+          ]
+        },
+        {
+          "text": "Mrs Clinton",
+          "location": [
+            444,
+            455
+          ]
+        },
+        {
+          "text": "Bill Clinton",
+          "location": [
+            508,
+            520
+          ]
+        },
+        {
+          "text": "Mrs Clinton",
+          "location": [
+            637,
+            648
+          ]
+        },
+        {
+          "text": "Mrs Clinton",
+          "location": [
+            848,
+            859
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.102955,
+        "joy": 0.091801,
+        "fear": 0.04932,
+        "disgust": 0.644227,
+        "anger": 0.366626
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton Spar",
+      "sentiment": {
+        "score": -0.417873,
+        "label": "negative"
+      },
+      "relevance": 0.667521,
+      "mentions": [
+        {
+          "text": "Hillary Clinton Spar",
+          "location": [
+            35,
+            55
+          ]
+        },
+        {
+          "text": "Mr. Clinton",
+          "location": [
+            545,
+            556
+          ]
+        },
+        {
+          "text": "Mrs. Clinton",
+          "location": [
+            598,
+            610
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134194,
+        "joy": 0.363296,
+        "fear": 0.106378,
+        "disgust": 0.150956,
+        "anger": 0.229277
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Clinton",
+      "sentiment": {
+        "score": -0.593981,
+        "label": "negative"
+      },
+      "relevance": 0.364472,
+      "mentions": [
+        {
+          "text": "Clinton",
+          "location": [
+            57,
+            64
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.198808,
+        "joy": 0.042184,
+        "fear": 0.547857,
+        "disgust": 0.278806,
+        "anger": 0.186377
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.988977,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.958069,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.660093,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Ted Kennedy",
+      "relevance": 0.620347,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ted_Kennedy"
+    },
+    {
+      "text": "Chelsea Clinton",
+      "relevance": 0.620101,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chelsea_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.689467,
+      "label": "/society/crime/sexual offence"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 674,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.827548,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Corpus Christi Caller-Times",
+      "sentiment": {
+        "score": -0.895401,
+        "label": "negative"
+      },
+      "relevance": 0.931247,
+      "emotion": {
+        "sadness": 0.438571,
+        "joy": 0.089848,
+        "fear": 0.109539,
+        "disgust": 0.374494,
+        "anger": 0.200618
+      },
+      "count": 1
+    },
+    {
+      "text": "Shock Tasers Help Texas Student",
+      "sentiment": {
+        "score": -0.897937,
+        "label": "negative"
+      },
+      "relevance": 0.855153,
+      "emotion": {
+        "sadness": 0.391551,
+        "joy": 0.343386,
+        "fear": 0.099969,
+        "disgust": 0.151351,
+        "anger": 0.110849
+      },
+      "count": 1
+    },
+    {
+      "text": "local elementary school",
+      "sentiment": {
+        "score": -0.897937,
+        "label": "negative"
+      },
+      "relevance": 0.791785,
+      "emotion": {
+        "sadness": 0.195523,
+        "joy": 0.021023,
+        "fear": 0.091083,
+        "disgust": 0.354981,
+        "anger": 0.134276
+      },
+      "count": 1
+    },
+    {
+      "text": "fifth grade teacher Teri Gonzalez",
+      "sentiment": {
+        "score": -0.674847,
+        "label": "negative"
+      },
+      "relevance": 0.783203,
+      "emotion": {
+        "sadness": 0.067347,
+        "joy": 0.135282,
+        "fear": 0.105415,
+        "disgust": 0.615073,
+        "anger": 0.263105
+      },
+      "count": 1
+    },
+    {
+      "text": "police department",
+      "sentiment": {
+        "score": -0.897937,
+        "label": "negative"
+      },
+      "relevance": 0.756202,
+      "emotion": {
+        "sadness": 0.195523,
+        "joy": 0.021023,
+        "fear": 0.091083,
+        "disgust": 0.354981,
+        "anger": 0.134276
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "PrintMedia",
+      "text": "Corpus Christi Caller-Times",
+      "sentiment": {
+        "score": -0.680208,
+        "label": "negative"
+      },
+      "relevance": 0.801367,
+      "mentions": [
+        {
+          "text": "Corpus Christi Caller-Times",
+          "location": [
+            448,
+            475
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.438571,
+        "joy": 0.089848,
+        "fear": 0.109539,
+        "disgust": 0.374494,
+        "anger": 0.200618
+      },
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ],
+        "name": "Corpus Christi Caller-Times",
+        "dbpedia_resource": "http://dbpedia.org/resource/Corpus_Christi_Caller-Times"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "CORPUS CHRISTI",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.686286,
+      "mentions": [
+        {
+          "text": "CORPUS CHRISTI",
+          "location": [
+            51,
+            65
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144398,
+        "joy": 0.210923,
+        "fear": 0.083994,
+        "disgust": 0.085977,
+        "anger": 0.117177
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Corpus Christi, Texas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Corpus_Christi,_Texas"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "local elementary school",
+      "sentiment": {
+        "score": -0.627882,
+        "label": "negative"
+      },
+      "relevance": 0.665757,
+      "mentions": [
+        {
+          "text": "local elementary school",
+          "location": [
+            149,
+            172
+          ]
+        },
+        {
+          "text": "the school",
+          "location": [
+            326,
+            336
+          ]
+        },
+        {
+          "text": "The school",
+          "location": [
+            611,
+            621
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168183,
+        "joy": 0.056666,
+        "fear": 0.101418,
+        "disgust": 0.526565,
+        "anger": 0.268372
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Texas",
+      "sentiment": {
+        "score": -0.195983,
+        "label": "negative"
+      },
+      "relevance": 0.455559,
+      "mentions": [
+        {
+          "text": "Texas",
+          "location": [
+            18,
+            23
+          ]
+        },
+        {
+          "text": "Texas",
+          "location": [
+            67,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.360071,
+        "joy": 0.362483,
+        "fear": 0.092948,
+        "disgust": 0.148135,
+        "anger": 0.120632
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Texas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Teri Gonzalez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.422428,
+      "mentions": [
+        {
+          "text": "Teri Gonzalez",
+          "location": [
+            307,
+            320
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.017801,
+        "joy": 0.458897,
+        "fear": 0.027877,
+        "disgust": 0.238266,
+        "anger": 0.214889
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Civil and political rights",
+      "relevance": 0.959233,
+      "dbpedia_resource": "http://dbpedia.org/resource/Civil_and_political_rights"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.949778,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Rights",
+      "relevance": 0.922278,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rights"
+    },
+    {
+      "text": "Primary school",
+      "relevance": 0.909298,
+      "dbpedia_resource": "http://dbpedia.org/resource/Primary_school"
+    },
+    {
+      "text": "Corpus Christi",
+      "relevance": 0.82593,
+      "dbpedia_resource": "http://dbpedia.org/resource/Corpus_Christi"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.94512,
+      "label": "/education/special education"
+    }
+  ]
+}

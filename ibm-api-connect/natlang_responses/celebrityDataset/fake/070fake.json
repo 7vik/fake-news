@@ -1,0 +1,352 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1928,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.683963,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "real es\u00adtate developer Sidney Brody",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.665272,
+      "emotion": {
+        "sadness": 0.362951,
+        "joy": 0.370087,
+        "fear": 0.078838,
+        "disgust": 0.247206,
+        "anger": 0.051152
+      },
+      "count": 1
+    },
+    {
+      "text": "ELLEN DEGENERES fears",
+      "sentiment": {
+        "score": -0.888487,
+        "label": "negative"
+      },
+      "relevance": 0.665173,
+      "emotion": {
+        "sadness": 0.149775,
+        "joy": 0.046687,
+        "fear": 0.874346,
+        "disgust": 0.015781,
+        "anger": 0.065672
+      },
+      "count": 1
+    },
+    {
+      "text": "creepy house-guest",
+      "sentiment": {
+        "score": -0.888487,
+        "label": "negative"
+      },
+      "relevance": 0.655285,
+      "emotion": {
+        "sadness": 0.149775,
+        "joy": 0.046687,
+        "fear": 0.874346,
+        "disgust": 0.015781,
+        "anger": 0.065672
+      },
+      "count": 1
+    },
+    {
+      "text": "Haunted Mansion",
+      "sentiment": {
+        "score": -0.888487,
+        "label": "negative"
+      },
+      "relevance": 0.632925,
+      "emotion": {
+        "sadness": 0.164976,
+        "joy": 0.248794,
+        "fear": 0.067582,
+        "disgust": 0.030379,
+        "anger": 0.051301
+      },
+      "count": 1
+    },
+    {
+      "text": "wife Portia de Rossi",
+      "sentiment": {
+        "score": -0.972429,
+        "label": "negative"
+      },
+      "relevance": 0.617012,
+      "emotion": {
+        "sadness": 0.149775,
+        "joy": 0.046687,
+        "fear": 0.874346,
+        "disgust": 0.015781,
+        "anger": 0.065672
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "ELLEN DEGENERES",
+      "sentiment": {
+        "score": 0.811326,
+        "label": "positive"
+      },
+      "relevance": 0.868088,
+      "mentions": [
+        {
+          "text": "Ellen",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "ELLEN DEGENERES",
+          "location": [
+            29,
+            44
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            51,
+            54
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            356,
+            361
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            481,
+            486
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            1354,
+            1359
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            1475,
+            1480
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            1541,
+            1546
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            1552,
+            1555
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            1625,
+            1630
+          ]
+        },
+        {
+          "text": "Ellen",
+          "location": [
+            1739,
+            1744
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            1820,
+            1823
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.164976,
+        "joy": 0.248794,
+        "fear": 0.067582,
+        "disgust": 0.030379,
+        "anger": 0.051301
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 12
+    },
+    {
+      "type": "Person",
+      "text": "Frances Brody",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.475524,
+      "mentions": [
+        {
+          "text": "Sidney Brody",
+          "location": [
+            962,
+            974
+          ]
+        },
+        {
+          "text": "Frances",
+          "location": [
+            988,
+            995
+          ]
+        },
+        {
+          "text": "Brody",
+          "location": [
+            1127,
+            1132
+          ]
+        },
+        {
+          "text": "Frances Brody",
+          "location": [
+            1604,
+            1617
+          ]
+        },
+        {
+          "text": "Mrs. Brody",
+          "location": [
+            1638,
+            1648
+          ]
+        },
+        {
+          "text": "Frances Brody",
+          "location": [
+            1911,
+            1924
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.178239,
+        "joy": 0.244199,
+        "fear": 0.454865,
+        "disgust": 0.040447,
+        "anger": 0.157012
+      },
+      "count": 6
+    },
+    {
+      "type": "Facility",
+      "text": "Brody House",
+      "sentiment": {
+        "score": 0.548618,
+        "label": "positive"
+      },
+      "relevance": 0.318343,
+      "mentions": [
+        {
+          "text": "Brody House",
+          "location": [
+            1018,
+            1029
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.7171,
+        "joy": 0.562099,
+        "fear": 0.453246,
+        "disgust": 0.029081,
+        "anger": 0.109571
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Haunted Mansion",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.307105,
+      "mentions": [
+        {
+          "text": "Haunted Mansion",
+          "location": [
+            13,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Scheffler Palace",
+        "dbpedia_resource": "http://dbpedia.org/resource/Scheffler_Palace"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Portia de Rossi",
+      "relevance": 0.975505,
+      "dbpedia_resource": "http://dbpedia.org/resource/Portia_de_Rossi"
+    },
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.942751,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.727201,
+      "label": "/travel/traveling with kids"
+    }
+  ]
+}

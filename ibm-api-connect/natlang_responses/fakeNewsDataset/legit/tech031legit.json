@@ -1,0 +1,248 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 439,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.93112,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "two-factor authentication",
+      "sentiment": {
+        "score": -0.93112,
+        "label": "negative"
+      },
+      "relevance": 0.856441,
+      "emotion": {
+        "sadness": 0.290497,
+        "joy": 0.142108,
+        "fear": 0.038247,
+        "disgust": 0.013659,
+        "anger": 0.089532
+      },
+      "count": 4
+    },
+    {
+      "text": "Instagram",
+      "sentiment": {
+        "score": -0.93112,
+        "label": "negative"
+      },
+      "relevance": 0.7452,
+      "emotion": {
+        "sadness": 0.290497,
+        "joy": 0.142108,
+        "fear": 0.038247,
+        "disgust": 0.013659,
+        "anger": 0.089532
+      },
+      "count": 2
+    },
+    {
+      "text": "security measures",
+      "sentiment": {
+        "score": -0.93112,
+        "label": "negative"
+      },
+      "relevance": 0.709536,
+      "emotion": {
+        "sadness": 0.341458,
+        "joy": 0.134624,
+        "fear": 0.028532,
+        "disgust": 0.0114,
+        "anger": 0.088122
+      },
+      "count": 1
+    },
+    {
+      "text": "social network",
+      "sentiment": {
+        "score": -0.93112,
+        "label": "negative"
+      },
+      "relevance": 0.700376,
+      "emotion": {
+        "sadness": 0.341458,
+        "joy": 0.134624,
+        "fear": 0.028532,
+        "disgust": 0.0114,
+        "anger": 0.088122
+      },
+      "count": 1
+    },
+    {
+      "text": "active users",
+      "sentiment": {
+        "score": -0.93112,
+        "label": "negative"
+      },
+      "relevance": 0.680763,
+      "emotion": {
+        "sadness": 0.341458,
+        "joy": 0.134624,
+        "fear": 0.028532,
+        "disgust": 0.0114,
+        "anger": 0.088122
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Instagram",
+      "sentiment": {
+        "score": -0.67566,
+        "label": "negative"
+      },
+      "relevance": 0.923053,
+      "mentions": [
+        {
+          "text": "Instagram",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Instagram",
+          "location": [
+            60,
+            69
+          ]
+        },
+        {
+          "text": "Instagram",
+          "location": [
+            121,
+            130
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24289,
+        "joy": 0.381126,
+        "fear": 0.058285,
+        "disgust": 0.02148,
+        "anger": 0.148079
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Instagram",
+        "dbpedia_resource": "http://dbpedia.org/resource/Instagram"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.644431,
+      "mentions": [
+        {
+          "text": "Facebook",
+          "location": [
+            378,
+            386
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.218021,
+        "joy": 0.133268,
+        "fear": 0.037286,
+        "disgust": 0.043032,
+        "anger": 0.046685
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.52152,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            391,
+            397
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.218021,
+        "joy": 0.133268,
+        "fear": 0.037286,
+        "disgust": 0.043032,
+        "anger": 0.046685
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Authentication",
+      "relevance": 0.980422,
+      "dbpedia_resource": "http://dbpedia.org/resource/Authentication"
+    },
+    {
+      "text": "Two-factor authentication",
+      "relevance": 0.809508,
+      "dbpedia_resource": "http://dbpedia.org/resource/Two-factor_authentication"
+    },
+    {
+      "text": "Security token",
+      "relevance": 0.790188,
+      "dbpedia_resource": "http://dbpedia.org/resource/Security_token"
+    },
+    {
+      "text": "Password",
+      "relevance": 0.670214,
+      "dbpedia_resource": "http://dbpedia.org/resource/Password"
+    },
+    {
+      "text": "One-time password",
+      "relevance": 0.586845,
+      "dbpedia_resource": "http://dbpedia.org/resource/One-time_password"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.993105,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

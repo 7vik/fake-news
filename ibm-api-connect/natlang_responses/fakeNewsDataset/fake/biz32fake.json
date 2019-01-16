@@ -1,0 +1,248 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 617,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.624011,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.624011,
+        "label": "positive"
+      },
+      "relevance": 0.861629,
+      "emotion": {
+        "sadness": 0.160631,
+        "joy": 0.102283,
+        "fear": 0.049261,
+        "disgust": 0.05136,
+        "anger": 0.098688
+      },
+      "count": 1
+    },
+    {
+      "text": "information internet companies",
+      "sentiment": {
+        "score": 0.624011,
+        "label": "positive"
+      },
+      "relevance": 0.797097,
+      "emotion": {
+        "sadness": 0.160631,
+        "joy": 0.102283,
+        "fear": 0.049261,
+        "disgust": 0.05136,
+        "anger": 0.098688
+      },
+      "count": 1
+    },
+    {
+      "text": "security measures",
+      "sentiment": {
+        "score": 0.624011,
+        "label": "positive"
+      },
+      "relevance": 0.77587,
+      "emotion": {
+        "sadness": 0.160631,
+        "joy": 0.102283,
+        "fear": 0.049261,
+        "disgust": 0.05136,
+        "anger": 0.098688
+      },
+      "count": 1
+    },
+    {
+      "text": "public forum of medical stats",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.742463,
+      "emotion": {
+        "sadness": 0.341506,
+        "joy": 0.165578,
+        "fear": 0.114546,
+        "disgust": 0.233419,
+        "anger": 0.226519
+      },
+      "count": 1
+    },
+    {
+      "text": "executive order",
+      "sentiment": {
+        "score": 0.624011,
+        "label": "positive"
+      },
+      "relevance": 0.730996,
+      "emotion": {
+        "sadness": 0.160631,
+        "joy": 0.102283,
+        "fear": 0.049261,
+        "disgust": 0.05136,
+        "anger": 0.098688
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.442503,
+        "label": "positive"
+      },
+      "relevance": 0.848264,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.160631,
+        "joy": 0.102283,
+        "fear": 0.049261,
+        "disgust": 0.05136,
+        "anger": 0.098688
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Verizon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.658846,
+      "mentions": [
+        {
+          "text": "Verizon",
+          "location": [
+            231,
+            238
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.239717,
+        "joy": 0.115704,
+        "fear": 0.021628,
+        "disgust": 0.056609,
+        "anger": 0.067753
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Verizon Communications",
+        "dbpedia_resource": "http://dbpedia.org/resource/Verizon_Communications"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Grinder",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.622342,
+      "mentions": [
+        {
+          "text": "Grinder",
+          "location": [
+            464,
+            471
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.381798,
+        "joy": 0.029664,
+        "fear": 0.092669,
+        "disgust": 0.378329,
+        "anger": 0.361029
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": 0.2288,
+        "label": "positive"
+      },
+      "relevance": 0.593632,
+      "mentions": [
+        {
+          "text": "Facebook",
+          "location": [
+            240,
+            248
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.955324,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Franklin D. Roosevelt",
+      "relevance": 0.832655,
+      "dbpedia_resource": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+    },
+    {
+      "text": "George W. Bush",
+      "relevance": 0.729,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Ronald Reagan",
+      "relevance": 0.673721,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.655232,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.947623,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

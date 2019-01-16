@@ -1,0 +1,94 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 55,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.405493,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Miley Cyrus wedding rumours",
+      "sentiment": {
+        "score": -0.405493,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.121213,
+        "joy": 0.568489,
+        "fear": 0.047117,
+        "disgust": 0.052584,
+        "anger": 0.138565
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miley Cyrus",
+      "sentiment": {
+        "score": -0.540632,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Miley Cyrus",
+          "location": [
+            6,
+            17
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.121213,
+        "joy": 0.568489,
+        "fear": 0.047117,
+        "disgust": 0.052584,
+        "anger": 0.138565
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Miley Cyrus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Miley Cyrus",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+      "text": "Billy Ray Cyrus",
+      "relevance": 0.86595,
+      "dbpedia_resource": "http://dbpedia.org/resource/Billy_Ray_Cyrus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.819954,
+      "label": "/society/social institution"
+    }
+  ]
+}

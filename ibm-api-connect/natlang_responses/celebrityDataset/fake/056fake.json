@@ -1,0 +1,315 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 850,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.787432,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "seasons of a hit TV show",
+      "sentiment": {
+        "score": -0.876598,
+        "label": "negative"
+      },
+      "relevance": 0.775296,
+      "emotion": {
+        "sadness": 0.447119,
+        "joy": 0.216511,
+        "fear": 0.171401,
+        "disgust": 0.200692,
+        "anger": 0.131158
+      },
+      "count": 1
+    },
+    {
+      "text": "Sarah Jessica Parker",
+      "sentiment": {
+        "score": -0.673606,
+        "label": "negative"
+      },
+      "relevance": 0.748064,
+      "emotion": {
+        "sadness": 0.153425,
+        "joy": 0.392224,
+        "fear": 0.076882,
+        "disgust": 0.282054,
+        "anger": 0.077072
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Cattrall",
+      "sentiment": {
+        "score": -0.673606,
+        "label": "negative"
+      },
+      "relevance": 0.692317,
+      "emotion": {
+        "sadness": 0.153425,
+        "joy": 0.392224,
+        "fear": 0.076882,
+        "disgust": 0.282054,
+        "anger": 0.077072
+      },
+      "count": 1
+    },
+    {
+      "text": "Biggest Costar Feuds",
+      "sentiment": {
+        "score": -0.407638,
+        "label": "negative"
+      },
+      "relevance": 0.688133,
+      "emotion": {
+        "sadness": 0.15819,
+        "joy": 0.188898,
+        "fear": 0.303753,
+        "disgust": 0.367636,
+        "anger": 0.26195
+      },
+      "count": 1
+    },
+    {
+      "text": "show's final season",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.627691,
+      "emotion": {
+        "sadness": 0.503014,
+        "joy": 0.234218,
+        "fear": 0.218743,
+        "disgust": 0.142233,
+        "anger": 0.054185
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Cattrall",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.840258,
+      "mentions": [
+        {
+          "text": "Kim Cattrall",
+          "location": [
+            378,
+            390
+          ]
+        },
+        {
+          "text": "Cattrall",
+          "location": [
+            641,
+            649
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Cattrall",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Cattrall"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sarah Jessica Parker",
+      "sentiment": {
+        "score": -0.41701,
+        "label": "negative"
+      },
+      "relevance": 0.839279,
+      "mentions": [
+        {
+          "text": "Sarah Jessica Parker",
+          "location": [
+            353,
+            373
+          ]
+        },
+        {
+          "text": "Parker",
+          "location": [
+            602,
+            608
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.257672,
+        "joy": 0.401414,
+        "fear": 0.120699,
+        "disgust": 0.287162,
+        "anger": 0.048604
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "Hobbyist",
+          "TheaterActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Sarah Jessica Parker",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sarah_Jessica_Parker"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Samantha Jones",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.475494,
+      "mentions": [
+        {
+          "text": "Samantha Jones",
+          "location": [
+            426,
+            440
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112201,
+        "joy": 0.391264,
+        "fear": 0.070051,
+        "disgust": 0.298463,
+        "anger": 0.053265
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Samantha Jones (singer)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samantha_Jones_(singer)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Carrie Bradshaw",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.465179,
+      "mentions": [
+        {
+          "text": "Carrie Bradshaw",
+          "location": [
+            406,
+            421
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112201,
+        "joy": 0.391264,
+        "fear": 0.070051,
+        "disgust": 0.298463,
+        "anger": 0.053265
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "HBO",
+      "sentiment": {
+        "score": -0.41701,
+        "label": "negative"
+      },
+      "relevance": 0.449055,
+      "emotion": {
+        "sadness": 0.299762,
+        "joy": 0.392891,
+        "fear": 0.13179,
+        "disgust": 0.254094,
+        "anger": 0.052173
+      },
+      "disambiguation": {
+        "subtype": [
+          "Broadcast",
+          "FilmDistributor",
+          "ProductionCompany",
+          "TVNetwork",
+          "AwardNominee",
+          "AwardWinner",
+          "TVProducer"
+        ],
+        "name": "HBO",
+        "dbpedia_resource": "http://dbpedia.org/resource/HBO"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sex and the City",
+      "relevance": 0.970559,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sex_and_the_City"
+    },
+    {
+      "text": "Carrie Bradshaw",
+      "relevance": 0.441897,
+      "dbpedia_resource": "http://dbpedia.org/resource/Carrie_Bradshaw"
+    },
+    {
+      "text": "Kim Cattrall",
+      "relevance": 0.347328,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Cattrall"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.341565,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Film",
+      "relevance": 0.331569,
+      "dbpedia_resource": "http://dbpedia.org/resource/Film"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.601783,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

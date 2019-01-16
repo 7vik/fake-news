@@ -1,0 +1,282 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 737,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.405111,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Middle East",
+      "sentiment": {
+        "score": 0.45135,
+        "label": "positive"
+      },
+      "relevance": 0.7668,
+      "emotion": {
+        "sadness": 0.199482,
+        "joy": 0.307253,
+        "fear": 0.161655,
+        "disgust": 0.094002,
+        "anger": 0.120447
+      },
+      "count": 2
+    },
+    {
+      "text": "first big sale",
+      "sentiment": {
+        "score": 0.45135,
+        "label": "positive"
+      },
+      "relevance": 0.708154,
+      "emotion": {
+        "sadness": 0.162362,
+        "joy": 0.408591,
+        "fear": 0.162508,
+        "disgust": 0.067894,
+        "anger": 0.087676
+      },
+      "count": 1
+    },
+    {
+      "text": "long-term thinking",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.681092,
+      "emotion": {
+        "sadness": 0.202529,
+        "joy": 0.327684,
+        "fear": 0.090515,
+        "disgust": 0.063016,
+        "anger": 0.159397
+      },
+      "count": 1
+    },
+    {
+      "text": "customers invention",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.680476,
+      "emotion": {
+        "sadness": 0.202529,
+        "joy": 0.327684,
+        "fear": 0.090515,
+        "disgust": 0.063016,
+        "anger": 0.159397
+      },
+      "count": 1
+    },
+    {
+      "text": "Emaar Malls",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.627319,
+      "emotion": {
+        "sadness": 0.131257,
+        "joy": 0.658931,
+        "fear": 0.047507,
+        "disgust": 0.047327,
+        "anger": 0.005413
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": 0.144483,
+        "label": "positive"
+      },
+      "relevance": 0.952584,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            49,
+            55
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            382,
+            388
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            482,
+            488
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            557,
+            563
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15117,
+        "joy": 0.34573,
+        "fear": 0.078736,
+        "disgust": 0.075403,
+        "anger": 0.142787
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 5
+    },
+    {
+      "type": "Location",
+      "text": "Middle East",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.460993,
+      "mentions": [
+        {
+          "text": "Middle East",
+          "location": [
+            15,
+            26
+          ]
+        },
+        {
+          "text": "Middle East",
+          "location": [
+            93,
+            104
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.199482,
+        "joy": 0.307253,
+        "fear": 0.161655,
+        "disgust": 0.094002,
+        "anger": 0.120447
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ],
+        "name": "Middle East",
+        "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Emaar Malls",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.280729,
+      "mentions": [
+        {
+          "text": "Emaar Malls",
+          "location": [
+            645,
+            656
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.350835,
+        "joy": 0.479896,
+        "fear": 0.157227,
+        "disgust": 0.041238,
+        "anger": 0.017227
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "senior vice-president",
+      "sentiment": {
+        "score": 0.666617,
+        "label": "positive"
+      },
+      "relevance": 0.253602,
+      "mentions": [
+        {
+          "text": "senior vice-president",
+          "location": [
+            489,
+            510
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.202529,
+        "joy": 0.327684,
+        "fear": 0.090515,
+        "disgust": 0.063016,
+        "anger": 0.159397
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Arab Emirates",
+      "relevance": 0.972879,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Arab_Emirates"
+    },
+    {
+      "text": "Asia",
+      "relevance": 0.86685,
+      "dbpedia_resource": "http://dbpedia.org/resource/Asia"
+    },
+    {
+      "text": "Retailing",
+      "relevance": 0.862431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Retailing"
+    },
+    {
+      "text": "Middle East",
+      "relevance": 0.85262,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+      "text": "Sales",
+      "relevance": 0.741425,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sales"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.682106,
+      "label": "/real estate/buying and selling homes"
+    }
+  ]
+}

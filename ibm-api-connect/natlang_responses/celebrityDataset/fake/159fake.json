@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 71,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.518251,
+        "joy": 0.25645,
+        "fear": 0.168884,
+        "disgust": 0.126966,
+        "anger": 0.073087
+      },
+      "count": 1
+    },
+    {
+      "text": "love life",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.971995,
+      "emotion": {
+        "sadness": 0.518251,
+        "joy": 0.25645,
+        "fear": 0.168884,
+        "disgust": 0.126966,
+        "anger": 0.073087
+      },
+      "count": 1
+    },
+    {
+      "text": "midlife crisis",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.917787,
+      "emotion": {
+        "sadness": 0.518251,
+        "joy": 0.25645,
+        "fear": 0.168884,
+        "disgust": 0.126966,
+        "anger": 0.073087
+      },
+      "count": 1
+    },
+    {
+      "text": "interest",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.660062,
+      "emotion": {
+        "sadness": 0.518251,
+        "joy": 0.25645,
+        "fear": 0.168884,
+        "disgust": 0.126966,
+        "anger": 0.073087
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Leonardo DiCaprio",
+      "sentiment": {
+        "score": -0.877264,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Leonardo DiCaprio",
+          "location": [
+            3,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.487177,
+        "joy": 0.335633,
+        "fear": 0.138075,
+        "disgust": 0.100226,
+        "anger": 0.050727
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Leonardo DiCaprio",
+        "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Leonardo DiCaprio",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonardo_DiCaprio"
+    },
+    {
+      "text": "Golden Globe Award for Best Actor \u2013 Motion Picture Drama",
+      "relevance": 0.863034,
+      "dbpedia_resource": "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Actor_\u2013_Motion_Picture_Drama"
+    },
+    {
+      "text": "Kate Winslet",
+      "relevance": 0.841932,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kate_Winslet"
+    },
+    {
+      "text": "Romeo + Juliet",
+      "relevance": 0.828568,
+      "dbpedia_resource": "http://dbpedia.org/resource/Romeo_+_Juliet"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.625984,
+      "label": "/sports/tennis"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 45,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.672143,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": 0.672143,
+        "label": "positive"
+      },
+      "relevance": 0.999806,
+      "emotion": {
+        "sadness": 0.147331,
+        "joy": 0.508222,
+        "fear": 0.038296,
+        "disgust": 0.076262,
+        "anger": 0.028895
+      },
+      "count": 1
+    },
+    {
+      "text": "baby",
+      "sentiment": {
+        "score": 0.672143,
+        "label": "positive"
+      },
+      "relevance": 0.636172,
+      "emotion": {
+        "sadness": 0.147331,
+        "joy": 0.508222,
+        "fear": 0.038296,
+        "disgust": 0.076262,
+        "anger": 0.028895
+      },
+      "count": 1
+    },
+    {
+      "text": "way",
+      "sentiment": {
+        "score": 0.672143,
+        "label": "positive"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.147331,
+        "joy": 0.508222,
+        "fear": 0.038296,
+        "disgust": 0.076262,
+        "anger": 0.028895
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": 0.650488,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian West",
+          "location": [
+            0,
+            19
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147331,
+        "joy": 0.508222,
+        "fear": 0.038296,
+        "disgust": 0.076262,
+        "anger": 0.028895
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.863568,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

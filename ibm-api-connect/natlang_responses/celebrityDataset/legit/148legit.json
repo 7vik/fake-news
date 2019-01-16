@@ -1,0 +1,290 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 885,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.398939,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "first lady Michelle Obama",
+      "sentiment": {
+        "score": -0.778776,
+        "label": "negative"
+      },
+      "relevance": 0.937129,
+      "emotion": {
+        "sadness": 0.050336,
+        "joy": 0.571424,
+        "fear": 0.178886,
+        "disgust": 0.301798,
+        "anger": 0.007582
+      },
+      "count": 1
+    },
+    {
+      "text": "Michelle Obama",
+      "sentiment": {
+        "score": -0.778776,
+        "label": "negative"
+      },
+      "relevance": 0.836284,
+      "emotion": {
+        "sadness": 0.061854,
+        "joy": 0.562872,
+        "fear": 0.195773,
+        "disgust": 0.283488,
+        "anger": 0.005582
+      },
+      "count": 1
+    },
+    {
+      "text": "first lady",
+      "sentiment": {
+        "score": -0.74458,
+        "label": "negative"
+      },
+      "relevance": 0.707943,
+      "emotion": {
+        "sadness": 0.060609,
+        "joy": 0.552426,
+        "fear": 0.091286,
+        "disgust": 0.386781,
+        "anger": 0.011606
+      },
+      "count": 1
+    },
+    {
+      "text": "People magazine",
+      "sentiment": {
+        "score": -0.778776,
+        "label": "negative"
+      },
+      "relevance": 0.661271,
+      "emotion": {
+        "sadness": 0.050336,
+        "joy": 0.571424,
+        "fear": 0.178886,
+        "disgust": 0.301798,
+        "anger": 0.007582
+      },
+      "count": 1
+    },
+    {
+      "text": "healthy lifestyles",
+      "sentiment": {
+        "score": -0.324741,
+        "label": "negative"
+      },
+      "relevance": 0.638888,
+      "emotion": {
+        "sadness": 0.050336,
+        "joy": 0.571424,
+        "fear": 0.178886,
+        "disgust": 0.301798,
+        "anger": 0.007582
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Michelle Obama",
+      "sentiment": {
+        "score": 0.423115,
+        "label": "positive"
+      },
+      "relevance": 0.808901,
+      "mentions": [
+        {
+          "text": "Michelle Obama",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Michelle Obama",
+          "location": [
+            71,
+            85
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            117,
+            120
+          ]
+        },
+        {
+          "text": "n\u2019t ruling",
+          "location": [
+            123,
+            133
+          ]
+        },
+        {
+          "text": "Mrs. Obama",
+          "location": [
+            224,
+            234
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            288,
+            291
+          ]
+        },
+        {
+          "text": "Mrs. Obama",
+          "location": [
+            440,
+            450
+          ]
+        },
+        {
+          "text": "Mrs. Obama",
+          "location": [
+            815,
+            825
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.159157,
+        "joy": 0.141695,
+        "fear": 0.104949,
+        "disgust": 0.124887,
+        "anger": 0.03914
+      },
+      "disambiguation": {
+        "subtype": [
+          "OfficeHolder"
+        ],
+        "name": "Michelle Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+      },
+      "count": 8
+    },
+    {
+      "type": "HealthCondition",
+      "text": "Botox",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.244314,
+      "mentions": [
+        {
+          "text": "Botox",
+          "location": [
+            326,
+            331
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.442263,
+        "joy": 0.213986,
+        "fear": 0.23,
+        "disgust": 0.148624,
+        "anger": 0.033778
+      },
+      "disambiguation": {
+        "subtype": [
+          "ChemicalCompound",
+          "DiseaseCause",
+          "MedicalTreatment",
+          "Protein"
+        ],
+        "name": "Botulinum toxin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Botulinum_toxin"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "People magazine",
+      "sentiment": {
+        "score": 0.388968,
+        "label": "positive"
+      },
+      "relevance": 0.243665,
+      "mentions": [
+        {
+          "text": "People magazine",
+          "location": [
+            207,
+            222
+          ]
+        },
+        {
+          "text": "the magazine",
+          "location": [
+            831,
+            843
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.175705,
+        "joy": 0.276469,
+        "fear": 0.16424,
+        "disgust": 0.296582,
+        "anger": 0.039797
+      },
+      "disambiguation": {
+        "subtype": [
+          "Person",
+          "Magazine"
+        ],
+        "name": "People (magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/People_(magazine)"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Michelle Obama",
+      "relevance": 0.977898,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+      "text": "First Lady of the United States",
+      "relevance": 0.678285,
+      "dbpedia_resource": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    },
+    {
+      "text": "Laura Bush",
+      "relevance": 0.585073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Laura_Bush"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.49983,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Nancy Reagan",
+      "relevance": 0.492846,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nancy_Reagan"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.723128,
+      "label": "/food and drink/healthy eating"
+    }
+  ]
+}

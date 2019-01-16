@@ -1,0 +1,166 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "talks sexuality",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.832228,
+      "emotion": {
+        "sadness": 0.154525,
+        "joy": 0.262159,
+        "fear": 0.123883,
+        "disgust": 0.169457,
+        "anger": 0.120061
+      },
+      "count": 1
+    },
+    {
+      "text": "Stewart",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.755845,
+      "emotion": {
+        "sadness": 0.154525,
+        "joy": 0.262159,
+        "fear": 0.123883,
+        "disgust": 0.169457,
+        "anger": 0.120061
+      },
+      "count": 1
+    },
+    {
+      "text": "Twilight",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659489,
+      "emotion": {
+        "sadness": 0.154525,
+        "joy": 0.262159,
+        "fear": 0.123883,
+        "disgust": 0.169457,
+        "anger": 0.120061
+      },
+      "count": 1
+    },
+    {
+      "text": "film",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.633014,
+      "emotion": {
+        "sadness": 0.154525,
+        "joy": 0.262159,
+        "fear": 0.123883,
+        "disgust": 0.169457,
+        "anger": 0.120061
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kristen Stewart",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kristen Stewart",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kristen Stewart",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kristen_Stewart"
+      },
+      "count": 1
+    },
+    {
+      "type": "Movie",
+      "text": "Twilight",
+      "sentiment": {
+        "score": 0.527441,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Twilight",
+          "location": [
+            38,
+            46
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Film"
+        ],
+        "name": "Twilight (2008 film)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twilight_(2008_film)"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kristen Stewart",
+      "relevance": 0.94772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kristen_Stewart"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.997687,
+      "label": "/health and fitness/sexuality"
+    }
+  ]
+}

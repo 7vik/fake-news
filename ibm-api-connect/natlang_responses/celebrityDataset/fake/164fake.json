@@ -1,0 +1,318 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 670,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.31802,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Oscar winner",
+      "sentiment": {
+        "score": 0.454672,
+        "label": "positive"
+      },
+      "relevance": 0.86265,
+      "emotion": {
+        "sadness": 0.328009,
+        "joy": 0.534482,
+        "fear": 0.032376,
+        "disgust": 0.087299,
+        "anger": 0.089475
+      },
+      "count": 1
+    },
+    {
+      "text": "19-Year-old Paris Jackson",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.716767,
+      "emotion": {
+        "sadness": 0.606558,
+        "joy": 0.075001,
+        "fear": 0.051576,
+        "disgust": 0.217512,
+        "anger": 0.154161
+      },
+      "count": 1
+    },
+    {
+      "text": "Harper\u2019s Bazaar\u00a0Icons",
+      "sentiment": {
+        "score": -0.803937,
+        "label": "negative"
+      },
+      "relevance": 0.695478,
+      "emotion": {
+        "sadness": 0.184286,
+        "joy": 0.69619,
+        "fear": 0.033052,
+        "disgust": 0.030762,
+        "anger": 0.040484
+      },
+      "count": 1
+    },
+    {
+      "text": "long time",
+      "sentiment": {
+        "score": 0.722255,
+        "label": "positive"
+      },
+      "relevance": 0.628648,
+      "emotion": {
+        "sadness": 0.126808,
+        "joy": 0.720267,
+        "fear": 0.052753,
+        "disgust": 0.044022,
+        "anger": 0.035142
+      },
+      "count": 1
+    },
+    {
+      "text": "pretty young thing",
+      "sentiment": {
+        "score": 0.958698,
+        "label": "positive"
+      },
+      "relevance": 0.598161,
+      "emotion": {
+        "sadness": 0.352583,
+        "joy": 0.461001,
+        "fear": 0.089582,
+        "disgust": 0.111178,
+        "anger": 0.058535
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jared Leto",
+      "sentiment": {
+        "score": 0.669074,
+        "label": "positive"
+      },
+      "relevance": 0.878733,
+      "mentions": [
+        {
+          "text": "Jared Leto",
+          "location": [
+            3,
+            13
+          ]
+        },
+        {
+          "text": "Jared Leto",
+          "location": [
+            58,
+            68
+          ]
+        },
+        {
+          "text": "Jared",
+          "location": [
+            545,
+            550
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.052545,
+        "joy": 0.595538,
+        "fear": 0.032951,
+        "disgust": 0.111191,
+        "anger": 0.077809
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "Celebrity",
+          "FilmActor",
+          "Guitarist",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Jared Leto",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jared_Leto"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Paris Jackson",
+      "sentiment": {
+        "score": -0.437789,
+        "label": "negative"
+      },
+      "relevance": 0.559332,
+      "mentions": [
+        {
+          "text": "Paris Jackson",
+          "location": [
+            43,
+            56
+          ]
+        },
+        {
+          "text": "Paris Jackson",
+          "location": [
+            118,
+            131
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.627896,
+        "joy": 0.104162,
+        "fear": 0.048607,
+        "disgust": 0.184491,
+        "anger": 0.140249
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Paris Jackson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paris_Jackson"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Paris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.280645,
+      "mentions": [
+        {
+          "text": "Paris",
+          "location": [
+            480,
+            485
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.775643,
+        "joy": 0.142334,
+        "fear": 0.092412,
+        "disgust": 0.014753,
+        "anger": 0.079507
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Oscar",
+      "sentiment": {
+        "score": 0.533528,
+        "label": "positive"
+      },
+      "relevance": 0.260146,
+      "mentions": [
+        {
+          "text": "Oscar",
+          "location": [
+            452,
+            457
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.241356,
+        "joy": 0.284177,
+        "fear": 0.074539,
+        "disgust": 0.309882,
+        "anger": 0.157133
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "NYC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.247402,
+      "mentions": [
+        {
+          "text": "NYC",
+          "location": [
+            193,
+            196
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.080814,
+        "joy": 0.611148,
+        "fear": 0.054803,
+        "disgust": 0.026532,
+        "anger": 0.028808
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Academy Award for Best Picture",
+      "relevance": 0.912131,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Picture"
+    },
+    {
+      "text": "Ren\u00e9e Zellweger",
+      "relevance": 0.864114,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ren\u00e9e_Zellweger"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.848777,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Academy Award",
+      "relevance": 0.82581,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award"
+    },
+    {
+      "text": "Bob Hope",
+      "relevance": 0.761861,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bob_Hope"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.623308,
+      "label": "/style and fashion"
+    }
+  ]
+}

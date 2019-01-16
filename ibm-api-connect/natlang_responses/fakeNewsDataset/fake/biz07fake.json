@@ -1,0 +1,67 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.310961,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Robots",
+      "sentiment": {
+        "score": -0.310961,
+        "label": "negative"
+      },
+      "relevance": 0.957921,
+      "emotion": {
+        "sadness": 0.14164,
+        "joy": 0.387295,
+        "fear": 0.085937,
+        "disgust": 0.064102,
+        "anger": 0.116798
+      },
+      "count": 1
+    },
+    {
+      "text": "World",
+      "sentiment": {
+        "score": -0.310961,
+        "label": "negative"
+      },
+      "relevance": 0.765931,
+      "emotion": {
+        "sadness": 0.14164,
+        "joy": 0.387295,
+        "fear": 0.085937,
+        "disgust": 0.064102,
+        "anger": 0.116798
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "World",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/World"
+    },
+    {
+      "text": "Earth",
+      "relevance": 0.82944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Earth"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.638438,
+      "label": "/sports/bowling"
+    }
+  ]
+}

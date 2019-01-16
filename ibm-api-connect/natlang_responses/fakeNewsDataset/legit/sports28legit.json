@@ -1,0 +1,342 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 857,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.589945,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wilfried Zaha",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.95537,
+      "emotion": {
+        "sadness": 0.396205,
+        "joy": 0.064039,
+        "fear": 0.035912,
+        "disgust": 0.222146,
+        "anger": 0.282225
+      },
+      "count": 1
+    },
+    {
+      "text": "Crystal Palace",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.778885,
+      "emotion": {
+        "sadness": 0.07544,
+        "joy": 0.729114,
+        "fear": 0.023717,
+        "disgust": 0.034035,
+        "anger": 0.031822
+      },
+      "count": 1
+    },
+    {
+      "text": "Salthouse of Unique Sports Management",
+      "sentiment": {
+        "score": -0.589945,
+        "label": "negative"
+      },
+      "relevance": 0.657166,
+      "emotion": {
+        "sadness": 0.493563,
+        "joy": 0.047523,
+        "fear": 0.016202,
+        "disgust": 0.052261,
+        "anger": 0.253271
+      },
+      "count": 1
+    },
+    {
+      "text": "national team",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.641863,
+      "emotion": {
+        "sadness": 0.353285,
+        "joy": 0.107971,
+        "fear": 0.033953,
+        "disgust": 0.193497,
+        "anger": 0.212368
+      },
+      "count": 1
+    },
+    {
+      "text": "permanent manager",
+      "sentiment": {
+        "score": -0.589945,
+        "label": "negative"
+      },
+      "relevance": 0.630995,
+      "emotion": {
+        "sadness": 0.493563,
+        "joy": 0.047523,
+        "fear": 0.016202,
+        "disgust": 0.052261,
+        "anger": 0.253271
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gareth Southgate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.762772,
+      "mentions": [
+        {
+          "text": "Gareth Southgate",
+          "location": [
+            107,
+            123
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            142,
+            144
+          ]
+        },
+        {
+          "text": "Southgate",
+          "location": [
+            497,
+            506
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.353285,
+        "joy": 0.107971,
+        "fear": 0.033953,
+        "disgust": 0.193497,
+        "anger": 0.212368
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballManager",
+          "FootballPlayer"
+        ],
+        "name": "Gareth Southgate",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gareth_Southgate"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Wilfried Zaha",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.761397,
+      "mentions": [
+        {
+          "text": "Wilfried Zaha",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Wilfried Zaha",
+          "location": [
+            80,
+            93
+          ]
+        },
+        {
+          "text": "Zaha",
+          "location": [
+            600,
+            604
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.493563,
+        "joy": 0.047523,
+        "fear": 0.016202,
+        "disgust": 0.052261,
+        "anger": 0.253271
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Wilfried Zaha",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wilfried_Zaha"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "England",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.634061,
+      "mentions": [
+        {
+          "text": "England",
+          "location": [
+            62,
+            69
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            193,
+            200
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            389,
+            396
+          ]
+        },
+        {
+          "text": "England",
+          "location": [
+            739,
+            746
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17108,
+        "joy": 0.527143,
+        "fear": 0.013316,
+        "disgust": 0.106988,
+        "anger": 0.123184
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Country"
+        ],
+        "name": "England",
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Southgate",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.557802,
+      "mentions": [
+        {
+          "text": "Southgate",
+          "location": [
+            27,
+            36
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Roy Hodgson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.366197,
+      "mentions": [
+        {
+          "text": "Roy Hodgson",
+          "location": [
+            446,
+            457
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer",
+          "FootballManager"
+        ],
+        "name": "Roy Hodgson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roy_Hodgson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "England",
+      "relevance": 0.97955,
+      "dbpedia_resource": "http://dbpedia.org/resource/England"
+    },
+    {
+      "text": "Italy national football team",
+      "relevance": 0.949372,
+      "dbpedia_resource": "http://dbpedia.org/resource/Italy_national_football_team"
+    },
+    {
+      "text": "England national rugby union team",
+      "relevance": 0.905923,
+      "dbpedia_resource": "http://dbpedia.org/resource/England_national_rugby_union_team"
+    },
+    {
+      "text": "England national football team",
+      "relevance": 0.889647,
+      "dbpedia_resource": "http://dbpedia.org/resource/England_national_football_team"
+    },
+    {
+      "text": "The Crystal Palace",
+      "relevance": 0.851197,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Crystal_Palace"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.718819,
+      "label": "/sports/soccer"
+    }
+  ]
+}

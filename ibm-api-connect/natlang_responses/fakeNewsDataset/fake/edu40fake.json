@@ -1,0 +1,267 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 913,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.610027,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "students grade point average",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.836656,
+      "emotion": {
+        "sadness": 0.317935,
+        "joy": 0.269583,
+        "fear": 0.078777,
+        "disgust": 0.092027,
+        "anger": 0.212213
+      },
+      "count": 1
+    },
+    {
+      "text": "School Choice Proven",
+      "sentiment": {
+        "score": 0.798303,
+        "label": "positive"
+      },
+      "relevance": 0.8072,
+      "emotion": {
+        "sadness": 0.12055,
+        "joy": 0.574655,
+        "fear": 0.075627,
+        "disgust": 0.144808,
+        "anger": 0.143607
+      },
+      "count": 1
+    },
+    {
+      "text": "Fortune magazine",
+      "sentiment": {
+        "score": 0.984013,
+        "label": "positive"
+      },
+      "relevance": 0.749852,
+      "emotion": {
+        "sadness": 0.150424,
+        "joy": 0.593032,
+        "fear": 0.058075,
+        "disgust": 0.090681,
+        "anger": 0.083874
+      },
+      "count": 1
+    },
+    {
+      "text": "Secretary of Education Betsy Devos",
+      "sentiment": {
+        "score": -0.796399,
+        "label": "negative"
+      },
+      "relevance": 0.747366,
+      "emotion": {
+        "sadness": 0.249349,
+        "joy": 0.255503,
+        "fear": 0.124308,
+        "disgust": 0.228688,
+        "anger": 0.184419
+      },
+      "count": 1
+    },
+    {
+      "text": "new study",
+      "sentiment": {
+        "score": 0.984013,
+        "label": "positive"
+      },
+      "relevance": 0.710622,
+      "emotion": {
+        "sadness": 0.150424,
+        "joy": 0.593032,
+        "fear": 0.058075,
+        "disgust": 0.090681,
+        "anger": 0.083874
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "School Choice",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.956955,
+      "mentions": [
+        {
+          "text": "School Choice",
+          "location": [
+            0,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12055,
+        "joy": 0.574655,
+        "fear": 0.075627,
+        "disgust": 0.144808,
+        "anger": 0.143607
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Betsy Devos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.440796,
+      "mentions": [
+        {
+          "text": "Betsy Devos",
+          "location": [
+            741,
+            752
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140673,
+        "joy": 0.172059,
+        "fear": 0.104037,
+        "disgust": 0.190819,
+        "anger": 0.115238
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Fortune magazine",
+      "sentiment": {
+        "score": 0.612561,
+        "label": "positive"
+      },
+      "relevance": 0.425202,
+      "mentions": [
+        {
+          "text": "Fortune magazine",
+          "location": [
+            138,
+            154
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144018,
+        "joy": 0.680968,
+        "fear": 0.113807,
+        "disgust": 0.04592,
+        "anger": 0.027639
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardPresentingOrganization",
+          "Magazine"
+        ],
+        "name": "Fortune (magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Fortune_(magazine)"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.370937,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            718,
+            727
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140673,
+        "joy": 0.172059,
+        "fear": 0.104037,
+        "disgust": 0.190819,
+        "anger": 0.115238
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "4 years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.370937,
+      "mentions": [
+        {
+          "text": "4 years",
+          "location": [
+            380,
+            387
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.972734,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.966211,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Gymnasium",
+      "relevance": 0.767619,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gymnasium_(school)"
+    },
+    {
+      "text": "Grade",
+      "relevance": 0.730999,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grade_(education)"
+    },
+    {
+      "text": "School",
+      "relevance": 0.606602,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.989895,
+      "label": "/education/special education"
+    }
+  ]
+}

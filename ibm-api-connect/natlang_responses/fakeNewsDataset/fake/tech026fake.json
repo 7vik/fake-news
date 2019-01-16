@@ -1,0 +1,273 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 791,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.365767,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new move",
+      "sentiment": {
+        "score": -0.836779,
+        "label": "negative"
+      },
+      "relevance": 0.89984,
+      "emotion": {
+        "sadness": 0.515846,
+        "joy": 0.171638,
+        "fear": 0.102241,
+        "disgust": 0.051832,
+        "anger": 0.308671
+      },
+      "count": 1
+    },
+    {
+      "text": "free budget phones",
+      "sentiment": {
+        "score": 0.344287,
+        "label": "positive"
+      },
+      "relevance": 0.832378,
+      "emotion": {
+        "sadness": 0.183031,
+        "joy": 0.212241,
+        "fear": 0.0567,
+        "disgust": 0.101213,
+        "anger": 0.138283
+      },
+      "count": 1
+    },
+    {
+      "text": "market share",
+      "sentiment": {
+        "score": -0.836779,
+        "label": "negative"
+      },
+      "relevance": 0.67084,
+      "emotion": {
+        "sadness": 0.515846,
+        "joy": 0.171638,
+        "fear": 0.102241,
+        "disgust": 0.051832,
+        "anger": 0.308671
+      },
+      "count": 1
+    },
+    {
+      "text": "major phone carriers",
+      "sentiment": {
+        "score": -0.836779,
+        "label": "negative"
+      },
+      "relevance": 0.664493,
+      "emotion": {
+        "sadness": 0.515846,
+        "joy": 0.171638,
+        "fear": 0.102241,
+        "disgust": 0.051832,
+        "anger": 0.308671
+      },
+      "count": 1
+    },
+    {
+      "text": "Amazon Prime Members",
+      "sentiment": {
+        "score": -0.836779,
+        "label": "negative"
+      },
+      "relevance": 0.62265,
+      "emotion": {
+        "sadness": 0.515846,
+        "joy": 0.171638,
+        "fear": 0.102241,
+        "disgust": 0.051832,
+        "anger": 0.308671
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": 0.016002,
+        "label": "positive"
+      },
+      "relevance": 0.914753,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            110,
+            116
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            175,
+            181
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            234,
+            240
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            306,
+            312
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            514,
+            520
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            753,
+            759
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            768,
+            774
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.512399,
+        "joy": 0.169722,
+        "fear": 0.054912,
+        "disgust": 0.086866,
+        "anger": 0.164472
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Jeff Bezos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.145538,
+      "mentions": [
+        {
+          "text": "Jeff Bezos",
+          "location": [
+            779,
+            789
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16399,
+        "joy": 0.149984,
+        "fear": 0.056232,
+        "disgust": 0.140311,
+        "anger": 0.060422
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "CompanyFounder",
+          "CompanyShareholder",
+          "TVActor"
+        ],
+        "name": "Jeff Bezos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jeff_Bezos"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.101077,
+      "mentions": [
+        {
+          "text": "CEO",
+          "location": [
+            775,
+            778
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16399,
+        "joy": 0.149984,
+        "fear": 0.056232,
+        "disgust": 0.140311,
+        "anger": 0.060422
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jeff Bezos",
+      "relevance": 0.958271,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jeff_Bezos"
+    },
+    {
+      "text": "Telephone",
+      "relevance": 0.42735,
+      "dbpedia_resource": "http://dbpedia.org/resource/Telephone"
+    },
+    {
+      "text": "Amazon.com",
+      "relevance": 0.41943,
+      "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+    },
+    {
+      "text": "Telephone line",
+      "relevance": 0.415067,
+      "dbpedia_resource": "http://dbpedia.org/resource/Telephone_line"
+    },
+    {
+      "text": "Telephone exchange",
+      "relevance": 0.40095,
+      "dbpedia_resource": "http://dbpedia.org/resource/Telephone_exchange"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.875308,
+      "label": "/business and industrial/advertising and marketing/advertising"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 781,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.818263,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "British intelligence",
+      "sentiment": {
+        "score": -0.985318,
+        "label": "negative"
+      },
+      "relevance": 0.922577,
+      "emotion": {
+        "sadness": 0.14741,
+        "joy": 0.084533,
+        "fear": 0.077568,
+        "disgust": 0.020511,
+        "anger": 0.348688
+      },
+      "count": 1
+    },
+    {
+      "text": "New intelligence",
+      "sentiment": {
+        "score": -0.985318,
+        "label": "negative"
+      },
+      "relevance": 0.851682,
+      "emotion": {
+        "sadness": 0.377434,
+        "joy": 0.122714,
+        "fear": 0.137049,
+        "disgust": 0.064015,
+        "anger": 0.325157
+      },
+      "count": 1
+    },
+    {
+      "text": "British officials",
+      "sentiment": {
+        "score": -0.774219,
+        "label": "negative"
+      },
+      "relevance": 0.810142,
+      "emotion": {
+        "sadness": 0.259838,
+        "joy": 0.089637,
+        "fear": 0.352697,
+        "disgust": 0.029001,
+        "anger": 0.290624
+      },
+      "count": 1
+    },
+    {
+      "text": "explosive devices",
+      "sentiment": {
+        "score": -0.985318,
+        "label": "negative"
+      },
+      "relevance": 0.705194,
+      "emotion": {
+        "sadness": 0.133178,
+        "joy": 0.040426,
+        "fear": 0.08638,
+        "disgust": 0.01336,
+        "anger": 0.33768
+      },
+      "count": 2
+    },
+    {
+      "text": "laptop computers",
+      "sentiment": {
+        "score": -0.985318,
+        "label": "negative"
+      },
+      "relevance": 0.596842,
+      "emotion": {
+        "sadness": 0.14741,
+        "joy": 0.084533,
+        "fear": 0.077568,
+        "disgust": 0.020511,
+        "anger": 0.348688
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.635574,
+        "label": "negative"
+      },
+      "relevance": 0.499712,
+      "mentions": [
+        {
+          "text": "explosion",
+          "location": [
+            65,
+            74
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            97,
+            99
+          ]
+        },
+        {
+          "text": "this threat",
+          "location": [
+            480,
+            491
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            510,
+            512
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.246529,
+        "joy": 0.065998,
+        "fear": 0.184308,
+        "disgust": 0.033951,
+        "anger": 0.518677
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.343878,
+      "mentions": [
+        {
+          "text": "President Donald Trump",
+          "location": [
+            757,
+            779
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.175549,
+        "joy": 0.285964,
+        "fear": 0.051232,
+        "disgust": 0.104656,
+        "anger": 0.201102
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "ISIS",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.326187,
+      "mentions": [
+        {
+          "text": "ISIS",
+          "location": [
+            149,
+            153
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.151569,
+        "joy": 0.068426,
+        "fear": 0.074492,
+        "disgust": 0.022083,
+        "anger": 0.371471
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup",
+          "MusicalArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Isis (band)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Isis_(band)"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Laptop",
+      "relevance": 0.964082,
+      "dbpedia_resource": "http://dbpedia.org/resource/Laptop"
+    },
+    {
+      "text": "Personal computer",
+      "relevance": 0.903628,
+      "dbpedia_resource": "http://dbpedia.org/resource/Personal_computer"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.745218,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Wi-Fi",
+      "relevance": 0.732489,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wi-Fi"
+    },
+    {
+      "text": "Battery",
+      "relevance": 0.705264,
+      "dbpedia_resource": "http://dbpedia.org/resource/Battery_(electricity)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.978597,
+      "label": "/technology and computing/hardware/computer/portable computer/laptop"
+    }
+  ]
+}

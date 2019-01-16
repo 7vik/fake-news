@@ -1,0 +1,286 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 621,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.941343,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Great people",
+      "sentiment": {
+        "score": -0.974307,
+        "label": "negative"
+      },
+      "relevance": 0.833761,
+      "emotion": {
+        "sadness": 0.68494,
+        "joy": 0.102075,
+        "fear": 0.239249,
+        "disgust": 0.1222,
+        "anger": 0.097196
+      },
+      "count": 1
+    },
+    {
+      "text": "federal income tax",
+      "sentiment": {
+        "score": -0.934763,
+        "label": "negative"
+      },
+      "relevance": 0.794717,
+      "emotion": {
+        "sadness": 0.067386,
+        "joy": 0.442281,
+        "fear": 0.110012,
+        "disgust": 0.196228,
+        "anger": 0.096574
+      },
+      "count": 2
+    },
+    {
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.953593,
+        "label": "negative"
+      },
+      "relevance": 0.755987,
+      "emotion": {
+        "sadness": 0.423924,
+        "joy": 0.044497,
+        "fear": 0.143013,
+        "disgust": 0.169242,
+        "anger": 0.447265
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump's next legislative target",
+      "sentiment": {
+        "score": -0.953593,
+        "label": "negative"
+      },
+      "relevance": 0.741972,
+      "emotion": {
+        "sadness": 0.047979,
+        "joy": 0.040281,
+        "fear": 0.127848,
+        "disgust": 0.157199,
+        "anger": 0.096462
+      },
+      "count": 1
+    },
+    {
+      "text": "lot of money",
+      "sentiment": {
+        "score": -0.974307,
+        "label": "negative"
+      },
+      "relevance": 0.711944,
+      "emotion": {
+        "sadness": 0.68494,
+        "joy": 0.102075,
+        "fear": 0.239249,
+        "disgust": 0.1222,
+        "anger": 0.097196
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.371822,
+        "label": "negative"
+      },
+      "relevance": 0.849534,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            51,
+            53
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            147,
+            159
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            456,
+            461
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.636201,
+        "joy": 0.046269,
+        "fear": 0.189214,
+        "disgust": 0.147881,
+        "anger": 0.25082
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Mike Pence",
+      "sentiment": {
+        "score": -0.298898,
+        "label": "negative"
+      },
+      "relevance": 0.399351,
+      "mentions": [
+        {
+          "text": "Mike Pence",
+          "location": [
+            247,
+            257
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            260,
+            262
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.100397,
+        "joy": 0.365317,
+        "fear": 0.070213,
+        "disgust": 0.110439,
+        "anger": 0.179936
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson",
+          "BroadcastArtist"
+        ],
+        "name": "Mike Pence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice President",
+      "sentiment": {
+        "score": -0.298898,
+        "label": "negative"
+      },
+      "relevance": 0.360803,
+      "mentions": [
+        {
+          "text": "Vice President",
+          "location": [
+            232,
+            246
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.127166,
+        "joy": 0.201569,
+        "fear": 0.038005,
+        "disgust": 0.099846,
+        "anger": 0.154164
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.20074,
+        "label": "negative"
+      },
+      "relevance": 0.296673,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            137,
+            146
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.160562,
+        "joy": 0.202781,
+        "fear": 0.06417,
+        "disgust": 0.163629,
+        "anger": 0.258719
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Income tax",
+      "relevance": 0.976154,
+      "dbpedia_resource": "http://dbpedia.org/resource/Income_tax"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.962402,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Progressive tax",
+      "relevance": 0.907961,
+      "dbpedia_resource": "http://dbpedia.org/resource/Progressive_tax"
+    },
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.871914,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.800765,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.763432,
+      "label": "/education/special education"
+    }
+  ]
+}

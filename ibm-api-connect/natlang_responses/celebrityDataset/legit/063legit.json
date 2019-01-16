@@ -1,0 +1,222 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 109,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "David Gest",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.984227,
+      "emotion": {
+        "sadness": 0.455284,
+        "joy": 0.064568,
+        "fear": 0.149072,
+        "disgust": 0.356697,
+        "anger": 0.306262
+      },
+      "count": 1
+    },
+    {
+      "text": "Liza Minnelli's ex husband",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.731758,
+      "emotion": {
+        "sadness": 0.455284,
+        "joy": 0.064568,
+        "fear": 0.149072,
+        "disgust": 0.356697,
+        "anger": 0.306262
+      },
+      "count": 1
+    },
+    {
+      "text": "death",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.556035,
+      "emotion": {
+        "sadness": 0.455284,
+        "joy": 0.064568,
+        "fear": 0.149072,
+        "disgust": 0.356697,
+        "anger": 0.306262
+      },
+      "count": 1
+    },
+    {
+      "text": "London hotel",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.111103,
+      "emotion": {
+        "sadness": 0.455284,
+        "joy": 0.064568,
+        "fear": 0.149072,
+        "disgust": 0.356697,
+        "anger": 0.306262
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "David Gest",
+      "sentiment": {
+        "score": -0.502571,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "David Gest",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.537296,
+        "joy": 0.034849,
+        "fear": 0.16765,
+        "disgust": 0.278635,
+        "anger": 0.171163
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ],
+        "name": "David Gest",
+        "dbpedia_resource": "http://dbpedia.org/resource/David_Gest"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Liza Minnelli",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Liza Minnelli",
+          "location": [
+            29,
+            42
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "FilmActor",
+          "MusicalGroupMember",
+          "TheaterActor",
+          "TVActor",
+          "TVPersonality"
+        ],
+        "name": "Liza Minnelli",
+        "dbpedia_resource": "http://dbpedia.org/resource/Liza_Minnelli"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": -0.391188,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "London",
+          "location": [
+            96,
+            102
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.526719,
+        "joy": 0.04547,
+        "fear": 0.239005,
+        "disgust": 0.342057,
+        "anger": 0.120622
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Liza Minnelli",
+      "relevance": 0.956484,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liza_Minnelli"
+    },
+    {
+      "text": "David Gest",
+      "relevance": 0.659343,
+      "dbpedia_resource": "http://dbpedia.org/resource/David_Gest"
+    },
+    {
+      "text": "Judy Garland",
+      "relevance": 0.586845,
+      "dbpedia_resource": "http://dbpedia.org/resource/Judy_Garland"
+    },
+    {
+      "text": "Golden Globe Award for Best Actress \u2013 Motion Picture Musical or Comedy",
+      "relevance": 0.547617,
+      "dbpedia_resource": "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Actress_\u2013_Motion_Picture_Musical_or_Comedy"
+    },
+    {
+      "text": "Liza's at The Palace...!",
+      "relevance": 0.525295,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liza's_at_The_Palace...!"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.711118,
+      "label": "/travel/hotels"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 595,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.780522,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "portal Yahoo",
+      "sentiment": {
+        "score": -0.727897,
+        "label": "negative"
+      },
+      "relevance": 0.791267,
+      "emotion": {
+        "sadness": 0.378328,
+        "joy": 0.050079,
+        "fear": 0.035207,
+        "disgust": 0.007296,
+        "anger": 0.135038
+      },
+      "count": 1
+    },
+    {
+      "text": "Popular web",
+      "sentiment": {
+        "score": -0.727897,
+        "label": "negative"
+      },
+      "relevance": 0.75663,
+      "emotion": {
+        "sadness": 0.378328,
+        "joy": 0.050079,
+        "fear": 0.035207,
+        "disgust": 0.007296,
+        "anger": 0.135038
+      },
+      "count": 1
+    },
+    {
+      "text": "stole information",
+      "sentiment": {
+        "score": -0.727897,
+        "label": "negative"
+      },
+      "relevance": 0.730873,
+      "emotion": {
+        "sadness": 0.378328,
+        "joy": 0.050079,
+        "fear": 0.035207,
+        "disgust": 0.007296,
+        "anger": 0.135038
+      },
+      "count": 1
+    },
+    {
+      "text": "email addresses",
+      "sentiment": {
+        "score": -0.831499,
+        "label": "negative"
+      },
+      "relevance": 0.672853,
+      "emotion": {
+        "sadness": 0.378328,
+        "joy": 0.050079,
+        "fear": 0.035207,
+        "disgust": 0.007296,
+        "anger": 0.135038
+      },
+      "count": 1
+    },
+    {
+      "text": "user accounts",
+      "sentiment": {
+        "score": -0.727897,
+        "label": "negative"
+      },
+      "relevance": 0.672043,
+      "emotion": {
+        "sadness": 0.378328,
+        "joy": 0.050079,
+        "fear": 0.035207,
+        "disgust": 0.007296,
+        "anger": 0.135038
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Yahoo",
+      "sentiment": {
+        "score": -0.662915,
+        "label": "negative"
+      },
+      "relevance": 0.801536,
+      "mentions": [
+        {
+          "text": "Yahoo",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            75,
+            80
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            236,
+            241
+          ]
+        },
+        {
+          "text": "Yahoo",
+          "location": [
+            382,
+            387
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.287992,
+        "joy": 0.235711,
+        "fear": 0.066793,
+        "disgust": 0.028888,
+        "anger": 0.115724
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Yahoo!",
+        "dbpedia_resource": "http://dbpedia.org/resource/Yahoo!"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "ABC",
+      "sentiment": {
+        "score": -0.358348,
+        "label": "negative"
+      },
+      "relevance": 0.268206,
+      "mentions": [
+        {
+          "text": "ABC",
+          "location": [
+            336,
+            339
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.367294,
+        "joy": 0.061392,
+        "fear": 0.138517,
+        "disgust": 0.051196,
+        "anger": 0.343027
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "500M",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.268206,
+      "mentions": [
+        {
+          "text": "500M",
+          "location": [
+            42,
+            46
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Password",
+      "relevance": 0.95424,
+      "dbpedia_resource": "http://dbpedia.org/resource/Password"
+    },
+    {
+      "text": "User",
+      "relevance": 0.787249,
+      "dbpedia_resource": "http://dbpedia.org/resource/User_(computing)"
+    },
+    {
+      "text": "According to Jim",
+      "relevance": 0.596188,
+      "dbpedia_resource": "http://dbpedia.org/resource/According_to_Jim"
+    },
+    {
+      "text": "Computer security",
+      "relevance": 0.592902,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer_security"
+    },
+    {
+      "text": "Yahoo!",
+      "relevance": 0.584629,
+      "dbpedia_resource": "http://dbpedia.org/resource/Yahoo!"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.902288,
+      "label": "/technology and computing/computer security/network security"
+    }
+  ]
+}

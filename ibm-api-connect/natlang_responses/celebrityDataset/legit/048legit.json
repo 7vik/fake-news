@@ -1,0 +1,350 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1026,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.488057,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "YOUNG M.A",
+      "sentiment": {
+        "score": 0.931936,
+        "label": "positive"
+      },
+      "relevance": 0.883519,
+      "emotion": {
+        "sadness": 0.125904,
+        "joy": 0.641361,
+        "fear": 0.062218,
+        "disgust": 0.056293,
+        "anger": 0.180817
+      },
+      "count": 2
+    },
+    {
+      "text": "NICKI MINAJ",
+      "sentiment": {
+        "score": 0.931936,
+        "label": "positive"
+      },
+      "relevance": 0.787929,
+      "emotion": {
+        "sadness": 0.125904,
+        "joy": 0.641361,
+        "fear": 0.062218,
+        "disgust": 0.056293,
+        "anger": 0.180817
+      },
+      "count": 2
+    },
+    {
+      "text": "people's\u00a0fantasies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.670536,
+      "emotion": {
+        "sadness": 0.188943,
+        "joy": 0.519114,
+        "fear": 0.008245,
+        "disgust": 0.122995,
+        "anger": 0.273803
+      },
+      "count": 1
+    },
+    {
+      "text": "New York rappers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.664695,
+      "emotion": {
+        "sadness": 0.188943,
+        "joy": 0.519114,
+        "fear": 0.008245,
+        "disgust": 0.122995,
+        "anger": 0.273803
+      },
+      "count": 1
+    },
+    {
+      "text": "Young M.A's breakout",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.611275,
+      "emotion": {
+        "sadness": 0.188943,
+        "joy": 0.519114,
+        "fear": 0.008245,
+        "disgust": 0.122995,
+        "anger": 0.273803
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "NICKI MINAJ",
+      "sentiment": {
+        "score": 0.198625,
+        "label": "positive"
+      },
+      "relevance": 0.822635,
+      "mentions": [
+        {
+          "text": "NICKI MINAJ",
+          "location": [
+            15,
+            26
+          ]
+        },
+        {
+          "text": "Nicki Minaj",
+          "location": [
+            96,
+            107
+          ]
+        },
+        {
+          "text": "Minaj",
+          "location": [
+            182,
+            187
+          ]
+        },
+        {
+          "text": "Nicki",
+          "location": [
+            304,
+            309
+          ]
+        },
+        {
+          "text": "Minaj",
+          "location": [
+            531,
+            536
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            549,
+            552
+          ]
+        },
+        {
+          "text": "\"OOOUUU",
+          "location": [
+            605,
+            612
+          ]
+        },
+        {
+          "text": "Nicki",
+          "location": [
+            754,
+            759
+          ]
+        },
+        {
+          "text": "Minaj",
+          "location": [
+            904,
+            909
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.531427,
+        "joy": 0.597572,
+        "fear": 0.063922,
+        "disgust": 0.420612,
+        "anger": 0.079455
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Nicki Minaj",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nicki_Minaj"
+      },
+      "count": 9
+    },
+    {
+      "type": "Organization",
+      "text": "Young M.A",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.820675,
+      "mentions": [
+        {
+          "text": "YOUNG M.A",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Young M.A",
+          "location": [
+            292,
+            301
+          ]
+        },
+        {
+          "text": "Young M.A",
+          "location": [
+            584,
+            593
+          ]
+        },
+        {
+          "text": "M.A",
+          "location": [
+            692,
+            695
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Fuse First",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.502734,
+      "mentions": [
+        {
+          "text": "Fuse First",
+          "location": [
+            131,
+            141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16597,
+        "joy": 0.478065,
+        "fear": 0.022079,
+        "disgust": 0.228387,
+        "anger": 0.06071
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Breakfast Club",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.394547,
+      "mentions": [
+        {
+          "text": "Breakfast Club",
+          "location": [
+            204,
+            218
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Meek Mill",
+      "sentiment": {
+        "score": -0.280036,
+        "label": "negative"
+      },
+      "relevance": 0.3613,
+      "mentions": [
+        {
+          "text": "Meek Mill",
+          "location": [
+            938,
+            947
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.116904,
+        "joy": 0.085234,
+        "fear": 0.179976,
+        "disgust": 0.044528,
+        "anger": 0.410489
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Meek Mill",
+        "dbpedia_resource": "http://dbpedia.org/resource/Meek_Mill"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nicki Minaj",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicki_Minaj"
+    },
+    {
+      "text": "The Breakfast Club",
+      "relevance": 0.931803,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Breakfast_Club"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.899879,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Rapping",
+      "relevance": 0.758646,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rapping"
+    },
+    {
+      "text": "Talk radio",
+      "relevance": 0.736357,
+      "dbpedia_resource": "http://dbpedia.org/resource/Talk_radio"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.71604,
+      "label": "/food and drink/food/breakfast foods"
+    }
+  ]
+}

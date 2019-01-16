@@ -1,0 +1,259 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 556,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.776662,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "European union",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.843855,
+      "emotion": {
+        "sadness": 0.458637,
+        "joy": 0.061113,
+        "fear": 0.096108,
+        "disgust": 0.089293,
+        "anger": 0.285934
+      },
+      "count": 1
+    },
+    {
+      "text": "unemployment rate",
+      "sentiment": {
+        "score": -0.788956,
+        "label": "negative"
+      },
+      "relevance": 0.750118,
+      "emotion": {
+        "sadness": 0.309966,
+        "joy": 0.096342,
+        "fear": 0.046502,
+        "disgust": 0.113261,
+        "anger": 0.100255
+      },
+      "count": 1
+    },
+    {
+      "text": "mass migration",
+      "sentiment": {
+        "score": -0.887429,
+        "label": "negative"
+      },
+      "relevance": 0.74596,
+      "emotion": {
+        "sadness": 0.430434,
+        "joy": 0.031609,
+        "fear": 0.264377,
+        "disgust": 0.059208,
+        "anger": 0.147911
+      },
+      "count": 1
+    },
+    {
+      "text": "higher prime interest rates",
+      "sentiment": {
+        "score": -0.722461,
+        "label": "negative"
+      },
+      "relevance": 0.707148,
+      "emotion": {
+        "sadness": 0.165551,
+        "joy": 0.130953,
+        "fear": 0.092012,
+        "disgust": 0.143301,
+        "anger": 0.190665
+      },
+      "count": 1
+    },
+    {
+      "text": "Goldman Sachs",
+      "sentiment": {
+        "score": -0.774921,
+        "label": "negative"
+      },
+      "relevance": 0.691603,
+      "emotion": {
+        "sadness": 0.593424,
+        "joy": 0.184408,
+        "fear": 0.078407,
+        "disgust": 0.004083,
+        "anger": 0.137215
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": -0.753629,
+        "label": "negative"
+      },
+      "relevance": 0.808941,
+      "mentions": [
+        {
+          "text": "London",
+          "location": [
+            48,
+            54
+          ]
+        },
+        {
+          "text": "London",
+          "location": [
+            212,
+            218
+          ]
+        },
+        {
+          "text": "London",
+          "location": [
+            401,
+            407
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.577557,
+        "joy": 0.031512,
+        "fear": 0.158281,
+        "disgust": 0.078887,
+        "anger": 0.169515
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "OlympicHostCity",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "London",
+        "dbpedia_resource": "http://dbpedia.org/resource/London"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Goldman Sachs",
+      "sentiment": {
+        "score": -0.682022,
+        "label": "negative"
+      },
+      "relevance": 0.575439,
+      "mentions": [
+        {
+          "text": "Goldman Sachs",
+          "location": [
+            115,
+            128
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.593424,
+        "joy": 0.184408,
+        "fear": 0.078407,
+        "disgust": 0.004083,
+        "anger": 0.137215
+      },
+      "disambiguation": {
+        "subtype": [
+          "CompanyShareholder"
+        ],
+        "name": "Goldman Sachs",
+        "dbpedia_resource": "http://dbpedia.org/resource/Goldman_Sachs"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "European union",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.560475,
+      "mentions": [
+        {
+          "text": "European union",
+          "location": [
+            472,
+            486
+          ]
+        },
+        {
+          "text": "the union",
+          "location": [
+            545,
+            554
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.441605,
+        "joy": 0.072882,
+        "fear": 0.09272,
+        "disgust": 0.091387,
+        "anger": 0.312571
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Country",
+          "GovernmentalJurisdiction",
+          "MembershipOrganization",
+          "AwardWinner"
+        ],
+        "name": "European Union",
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.9698,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.950032,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Spain",
+      "relevance": 0.888673,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spain"
+    },
+    {
+      "text": "Isle of Man",
+      "relevance": 0.886062,
+      "dbpedia_resource": "http://dbpedia.org/resource/Isle_of_Man"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.829152,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.908764,
+      "label": "/finance/bank"
+    }
+  ]
+}

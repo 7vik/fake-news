@@ -1,0 +1,270 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 570,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.888279,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "International Students",
+      "sentiment": {
+        "score": -0.888279,
+        "label": "negative"
+      },
+      "relevance": 0.949972,
+      "emotion": {
+        "sadness": 0.25002,
+        "joy": 0.34407,
+        "fear": 0.02254,
+        "disgust": 0.048735,
+        "anger": 0.062171
+      },
+      "count": 1
+    },
+    {
+      "text": "College Applications",
+      "sentiment": {
+        "score": -0.888279,
+        "label": "negative"
+      },
+      "relevance": 0.803428,
+      "emotion": {
+        "sadness": 0.25002,
+        "joy": 0.34407,
+        "fear": 0.02254,
+        "disgust": 0.048735,
+        "anger": 0.062171
+      },
+      "count": 1
+    },
+    {
+      "text": "sharp decline",
+      "sentiment": {
+        "score": -0.888279,
+        "label": "negative"
+      },
+      "relevance": 0.791871,
+      "emotion": {
+        "sadness": 0.518321,
+        "joy": 0.138769,
+        "fear": 0.217736,
+        "disgust": 0.066765,
+        "anger": 0.092415
+      },
+      "count": 1
+    },
+    {
+      "text": "Middle East",
+      "sentiment": {
+        "score": -0.888279,
+        "label": "negative"
+      },
+      "relevance": 0.761755,
+      "emotion": {
+        "sadness": 0.518321,
+        "joy": 0.138769,
+        "fear": 0.217736,
+        "disgust": 0.066765,
+        "anger": 0.092415
+      },
+      "count": 1
+    },
+    {
+      "text": "initial figures",
+      "sentiment": {
+        "score": -0.888279,
+        "label": "negative"
+      },
+      "relevance": 0.739729,
+      "emotion": {
+        "sadness": 0.518321,
+        "joy": 0.138769,
+        "fear": 0.217736,
+        "disgust": 0.066765,
+        "anger": 0.092415
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Middle East",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.748088,
+      "mentions": [
+        {
+          "text": "Middle East",
+          "location": [
+            389,
+            400
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.231474,
+        "joy": 0.094437,
+        "fear": 0.146227,
+        "disgust": 0.297452,
+        "anger": 0.303064
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ],
+        "name": "Middle East",
+        "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.518528,
+        "label": "negative"
+      },
+      "relevance": 0.584744,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            100,
+            104
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            277,
+            281
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.67066,
+        "joy": 0.087958,
+        "fear": 0.177403,
+        "disgust": 0.031921,
+        "anger": 0.053806
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "China",
+      "sentiment": {
+        "score": -0.532035,
+        "label": "negative"
+      },
+      "relevance": 0.503622,
+      "mentions": [
+        {
+          "text": "China",
+          "location": [
+            507,
+            512
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214868,
+        "joy": 0.208166,
+        "fear": 0.196572,
+        "disgust": 0.078331,
+        "anger": 0.075982
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "sentiment": {
+        "score": -0.532035,
+        "label": "negative"
+      },
+      "relevance": 0.45284,
+      "mentions": [
+        {
+          "text": "India",
+          "location": [
+            517,
+            522
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214868,
+        "joy": 0.208166,
+        "fear": 0.196572,
+        "disgust": 0.078331,
+        "anger": 0.075982
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "College",
+      "relevance": 0.969318,
+      "dbpedia_resource": "http://dbpedia.org/resource/College"
+    },
+    {
+      "text": "Student",
+      "relevance": 0.845176,
+      "dbpedia_resource": "http://dbpedia.org/resource/Student"
+    },
+    {
+      "text": "University",
+      "relevance": 0.731896,
+      "dbpedia_resource": "http://dbpedia.org/resource/University"
+    },
+    {
+      "text": "Middle East",
+      "relevance": 0.646477,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+      "text": "International student",
+      "relevance": 0.644582,
+      "dbpedia_resource": "http://dbpedia.org/resource/International_student"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.93969,
+      "label": "/education/graduate school/college"
+    }
+  ]
+}

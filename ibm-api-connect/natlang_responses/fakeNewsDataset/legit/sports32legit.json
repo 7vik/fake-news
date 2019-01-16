@@ -1,0 +1,340 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 680,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.482026,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.8983,
+      "emotion": {
+        "sadness": 0.065792,
+        "joy": 0.766322,
+        "fear": 0.018373,
+        "disgust": 0.009979,
+        "anger": 0.039271
+      },
+      "count": 1
+    },
+    {
+      "text": "Roberto Bautista Agut",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.870631,
+      "emotion": {
+        "sadness": 0.065792,
+        "joy": 0.766322,
+        "fear": 0.018373,
+        "disgust": 0.009979,
+        "anger": 0.039271
+      },
+      "count": 2
+    },
+    {
+      "text": "best start",
+      "sentiment": {
+        "score": 0.947608,
+        "label": "positive"
+      },
+      "relevance": 0.698958,
+      "emotion": {
+        "sadness": 0.036209,
+        "joy": 0.730547,
+        "fear": 0.019634,
+        "disgust": 0.006073,
+        "anger": 0.019576
+      },
+      "count": 1
+    },
+    {
+      "text": "Indian Wells",
+      "sentiment": {
+        "score": 0.947608,
+        "label": "positive"
+      },
+      "relevance": 0.69496,
+      "emotion": {
+        "sadness": 0.036209,
+        "joy": 0.730547,
+        "fear": 0.019634,
+        "disgust": 0.006073,
+        "anger": 0.019576
+      },
+      "count": 1
+    },
+    {
+      "text": "Miami Open",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.692026,
+      "emotion": {
+        "sadness": 0.036209,
+        "joy": 0.730547,
+        "fear": 0.019634,
+        "disgust": 0.006073,
+        "anger": 0.019576
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": 0.578302,
+        "label": "positive"
+      },
+      "relevance": 0.814021,
+      "mentions": [
+        {
+          "text": "Roger Federer",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Roger Federer",
+          "location": [
+            85,
+            98
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            233,
+            240
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            400,
+            402
+          ]
+        },
+        {
+          "text": "this weekend",
+          "location": [
+            435,
+            447
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.450442,
+        "joy": 0.723985,
+        "fear": 0.044912,
+        "disgust": 0.050031,
+        "anger": 0.079096
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Roger Federer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Roberto Bautista Agut",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.739221,
+      "mentions": [
+        {
+          "text": "Roberto Bautista Agut",
+          "location": [
+            20,
+            41
+          ]
+        },
+        {
+          "text": "Roberto Bautista Agut",
+          "location": [
+            107,
+            128
+          ]
+        },
+        {
+          "text": "Bautista Agut",
+          "location": [
+            576,
+            589
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.417909,
+        "joy": 0.320266,
+        "fear": 0.062777,
+        "disgust": 0.103901,
+        "anger": 0.196323
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Roberto Bautista-Agut",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roberto_Bautista-Agut"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Stan Wawrinka",
+      "sentiment": {
+        "score": 0.578302,
+        "label": "positive"
+      },
+      "relevance": 0.360791,
+      "mentions": [
+        {
+          "text": "Stan Wawrinka",
+          "location": [
+            45,
+            58
+          ]
+        },
+        {
+          "text": "Stan Wawrinka",
+          "location": [
+            212,
+            225
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.117895,
+        "joy": 0.757129,
+        "fear": 0.023024,
+        "disgust": 0.008945,
+        "anger": 0.036129
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Stanislas Wawrinka",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stanislas_Wawrinka"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Alexander Zverev",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.22727,
+      "mentions": [
+        {
+          "text": "Alexander Zverev",
+          "location": [
+            68,
+            84
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.544272,
+        "joy": 0.078774,
+        "fear": 0.094334,
+        "disgust": 0.169255,
+        "anger": 0.216112
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alexander Zverev",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexander_Zverev"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Indian Wells",
+      "sentiment": {
+        "score": 0.578302,
+        "label": "positive"
+      },
+      "relevance": 0.227036,
+      "mentions": [
+        {
+          "text": "Indian Wells",
+          "location": [
+            365,
+            377
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.056502,
+        "joy": 0.770091,
+        "fear": 0.022222,
+        "disgust": 0.003892,
+        "anger": 0.015328
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Roger Federer",
+      "relevance": 0.986288,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+    },
+    {
+      "text": "2009 Wimbledon Championships",
+      "relevance": 0.975878,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_Wimbledon_Championships"
+    },
+    {
+      "text": "2008 ATP Tour",
+      "relevance": 0.880427,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_ATP_Tour"
+    },
+    {
+      "text": "2006 ATP Tour",
+      "relevance": 0.874925,
+      "dbpedia_resource": "http://dbpedia.org/resource/2006_ATP_Tour"
+    },
+    {
+      "text": "2009 French Open",
+      "relevance": 0.874314,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_French_Open"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.991982,
+      "label": "/sports/tennis"
+    }
+  ]
+}

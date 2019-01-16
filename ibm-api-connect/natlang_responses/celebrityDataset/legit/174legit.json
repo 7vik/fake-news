@@ -1,0 +1,128 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.95828,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.95828,
+        "label": "positive"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.120686,
+        "joy": 0.832673,
+        "fear": 0.00891,
+        "disgust": 0.0145,
+        "anger": 0.019327
+      },
+      "count": 1
+    },
+    {
+      "text": "year wedding anniversary",
+      "sentiment": {
+        "score": 0.95828,
+        "label": "positive"
+      },
+      "relevance": 0.02145,
+      "emotion": {
+        "sadness": 0.120686,
+        "joy": 0.832673,
+        "fear": 0.00891,
+        "disgust": 0.0145,
+        "anger": 0.019327
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.90386,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120686,
+        "joy": 0.832673,
+        "fear": 0.00891,
+        "disgust": 0.0145,
+        "anger": 0.019327
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "nine year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "nine year",
+          "location": [
+            27,
+            36
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Wedding anniversary",
+      "relevance": 0.980302,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wedding_anniversary"
+    },
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.7866,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.586741,
+      "label": "/news"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1195,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.641563,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "United Airlines",
+      "sentiment": {
+        "score": -0.764288,
+        "label": "negative"
+      },
+      "relevance": 0.788245,
+      "emotion": {
+        "sadness": 0.340871,
+        "joy": 0.069204,
+        "fear": 0.043472,
+        "disgust": 0.214053,
+        "anger": 0.408721
+      },
+      "count": 2
+    },
+    {
+      "text": "Patricia Arquette",
+      "sentiment": {
+        "score": -0.764288,
+        "label": "negative"
+      },
+      "relevance": 0.680999,
+      "emotion": {
+        "sadness": 0.340871,
+        "joy": 0.069204,
+        "fear": 0.043472,
+        "disgust": 0.214053,
+        "anger": 0.408721
+      },
+      "count": 1
+    },
+    {
+      "text": "Activist Shannon Watts",
+      "sentiment": {
+        "score": -0.929662,
+        "label": "negative"
+      },
+      "relevance": 0.678775,
+      "emotion": {
+        "sadness": 0.362612,
+        "joy": 0.191943,
+        "fear": 0.083035,
+        "disgust": 0.097093,
+        "anger": 0.285202
+      },
+      "count": 1
+    },
+    {
+      "text": "major news outlets",
+      "sentiment": {
+        "score": -0.812489,
+        "label": "negative"
+      },
+      "relevance": 0.678165,
+      "emotion": {
+        "sadness": 0.107227,
+        "joy": 0.069377,
+        "fear": 0.032666,
+        "disgust": 0.095711,
+        "anger": 0.067514
+      },
+      "count": 1
+    },
+    {
+      "text": "company benefit travel",
+      "sentiment": {
+        "score": -0.812489,
+        "label": "negative"
+      },
+      "relevance": 0.654357,
+      "emotion": {
+        "sadness": 0.107227,
+        "joy": 0.069377,
+        "fear": 0.032666,
+        "disgust": 0.095711,
+        "anger": 0.067514
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Shannon Watts",
+      "sentiment": {
+        "score": -0.374891,
+        "label": "negative"
+      },
+      "relevance": 0.856286,
+      "mentions": [
+        {
+          "text": "Shannon Watts",
+          "location": [
+            412,
+            425
+          ]
+        },
+        {
+          "text": "Watts",
+          "location": [
+            601,
+            606
+          ]
+        },
+        {
+          "text": "a mother",
+          "location": [
+            610,
+            618
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224134,
+        "joy": 0.322036,
+        "fear": 0.036647,
+        "disgust": 0.088255,
+        "anger": 0.291204
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "United Airlines",
+      "sentiment": {
+        "score": -0.585415,
+        "label": "negative"
+      },
+      "relevance": 0.770366,
+      "mentions": [
+        {
+          "text": "United Airlines",
+          "location": [
+            36,
+            51
+          ]
+        },
+        {
+          "text": "United Airlines",
+          "location": [
+            78,
+            93
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325589,
+        "joy": 0.099186,
+        "fear": 0.058982,
+        "disgust": 0.171437,
+        "anger": 0.484441
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Patricia Arquette",
+      "sentiment": {
+        "score": -0.661438,
+        "label": "negative"
+      },
+      "relevance": 0.760535,
+      "mentions": [
+        {
+          "text": "Patricia Arquette",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "part",
+          "location": [
+            212,
+            216
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.236483,
+        "joy": 0.049203,
+        "fear": 0.044291,
+        "disgust": 0.275673,
+        "anger": 0.399698
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVDirector",
+          "FilmWriter"
+        ],
+        "name": "Patricia Arquette",
+        "dbpedia_resource": "http://dbpedia.org/resource/Patricia_Arquette"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Denver",
+      "sentiment": {
+        "score": -0.454284,
+        "label": "negative"
+      },
+      "relevance": 0.605015,
+      "mentions": [
+        {
+          "text": "Denver",
+          "location": [
+            545,
+            551
+          ]
+        },
+        {
+          "text": "Denver",
+          "location": [
+            753,
+            759
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.287842,
+        "joy": 0.029083,
+        "fear": 0.084472,
+        "disgust": 0.102491,
+        "anger": 0.114349
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Broadcaster",
+      "text": "ABC News",
+      "sentiment": {
+        "score": -0.258516,
+        "label": "negative"
+      },
+      "relevance": 0.512124,
+      "mentions": [
+        {
+          "text": "ABC News",
+          "location": [
+            812,
+            820
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.200364,
+        "joy": 0.027555,
+        "fear": 0.102661,
+        "disgust": 0.11908,
+        "anger": 0.08219
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Broadcast",
+          "Company",
+          "FilmCompany",
+          "TVNetwork",
+          "TelevisionStation"
+        ],
+        "name": "Australian Broadcasting Corporation",
+        "dbpedia_resource": "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Southwest Airlines",
+      "relevance": 0.932319,
+      "dbpedia_resource": "http://dbpedia.org/resource/Southwest_Airlines"
+    },
+    {
+      "text": "Northwest Airlines",
+      "relevance": 0.868098,
+      "dbpedia_resource": "http://dbpedia.org/resource/Northwest_Airlines"
+    },
+    {
+      "text": "Airline",
+      "relevance": 0.84105,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airline"
+    },
+    {
+      "text": "Delta Air Lines",
+      "relevance": 0.829493,
+      "dbpedia_resource": "http://dbpedia.org/resource/Delta_Air_Lines"
+    },
+    {
+      "text": "Aircraft",
+      "relevance": 0.811212,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aircraft"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.696469,
+      "label": "/travel/business travel"
+    }
+  ]
+}

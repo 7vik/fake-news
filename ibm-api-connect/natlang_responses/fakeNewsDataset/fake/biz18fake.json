@@ -1,0 +1,358 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 959,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.722464,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "UK economy",
+      "sentiment": {
+        "score": -0.791119,
+        "label": "negative"
+      },
+      "relevance": 0.6831,
+      "emotion": {
+        "sadness": 0.298259,
+        "joy": 0.20183,
+        "fear": 0.195125,
+        "disgust": 0.03109,
+        "anger": 0.089688
+      },
+      "count": 2
+    },
+    {
+      "text": "Airbus conducts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.642452,
+      "emotion": {
+        "sadness": 0.121805,
+        "joy": 0.155455,
+        "fear": 0.129404,
+        "disgust": 0.034235,
+        "anger": 0.075418
+      },
+      "count": 1
+    },
+    {
+      "text": "smaller size",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.627271,
+      "emotion": {
+        "sadness": 0.100518,
+        "joy": 0.04807,
+        "fear": 0.058911,
+        "disgust": 0.074836,
+        "anger": 0.062685
+      },
+      "count": 1
+    },
+    {
+      "text": "short-haul airliner",
+      "sentiment": {
+        "score": -0.638596,
+        "label": "negative"
+      },
+      "relevance": 0.615553,
+      "emotion": {
+        "sadness": 0.244426,
+        "joy": 0.068126,
+        "fear": 0.110426,
+        "disgust": 0.015845,
+        "anger": 0.036051
+      },
+      "count": 1
+    },
+    {
+      "text": "global sales",
+      "sentiment": {
+        "score": -0.638596,
+        "label": "negative"
+      },
+      "relevance": 0.596463,
+      "emotion": {
+        "sadness": 0.213716,
+        "joy": 0.087224,
+        "fear": 0.216499,
+        "disgust": 0.016987,
+        "anger": 0.068795
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Airbus",
+      "sentiment": {
+        "score": -0.573336,
+        "label": "negative"
+      },
+      "relevance": 0.780113,
+      "mentions": [
+        {
+          "text": "Airbus",
+          "location": [
+            438,
+            444
+          ]
+        },
+        {
+          "text": "Airbus",
+          "location": [
+            499,
+            505
+          ]
+        },
+        {
+          "text": "Airbus",
+          "location": [
+            755,
+            761
+          ]
+        },
+        {
+          "text": "Airbus",
+          "location": [
+            861,
+            867
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.111279,
+        "joy": 0.258004,
+        "fear": 0.183443,
+        "disgust": 0.066836,
+        "anger": 0.11047
+      },
+      "disambiguation": {
+        "subtype": [
+          "AircraftManufacturer"
+        ],
+        "name": "Airbus",
+        "dbpedia_resource": "http://dbpedia.org/resource/Airbus"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": -0.471502,
+        "label": "negative"
+      },
+      "relevance": 0.778934,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            58,
+            60
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            575,
+            577
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            616,
+            618
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            704,
+            706
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            775,
+            777
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            876,
+            878
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188082,
+        "joy": 0.471346,
+        "fear": 0.140892,
+        "disgust": 0.058246,
+        "anger": 0.082598
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Comac",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.305294,
+      "mentions": [
+        {
+          "text": "Comac",
+          "location": [
+            466,
+            471
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Comac",
+        "dbpedia_resource": "http://dbpedia.org/resource/Comac"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Bombardier",
+      "sentiment": {
+        "score": 0.324307,
+        "label": "positive"
+      },
+      "relevance": 0.269539,
+      "mentions": [
+        {
+          "text": "Bombardier",
+          "location": [
+            454,
+            464
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AircraftManufacturer"
+        ],
+        "name": "Bombardier Aerospace",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bombardier_Aerospace"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "France",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.266526,
+      "mentions": [
+        {
+          "text": "France",
+          "location": [
+            799,
+            805
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.285298,
+        "joy": 0.071398,
+        "fear": 0.081988,
+        "disgust": 0.105714,
+        "anger": 0.104048
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmDirector",
+          "Country"
+        ],
+        "name": "France",
+        "dbpedia_resource": "http://dbpedia.org/resource/France"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Airbus",
+      "relevance": 0.947706,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airbus"
+    },
+    {
+      "text": "Boeing",
+      "relevance": 0.677878,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boeing"
+    },
+    {
+      "text": "Airbus A380",
+      "relevance": 0.652221,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airbus_A380"
+    },
+    {
+      "text": "Airliner",
+      "relevance": 0.646382,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airliner"
+    },
+    {
+      "text": "Jet airliner",
+      "relevance": 0.577732,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jet_airliner"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.930554,
+      "label": "/business and industrial/manufacturing"
+    }
+  ]
+}

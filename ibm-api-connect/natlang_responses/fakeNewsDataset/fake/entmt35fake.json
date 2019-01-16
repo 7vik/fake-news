@@ -1,0 +1,244 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 961,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.74578,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Millie Bobby Brown",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.887405,
+      "emotion": {
+        "sadness": 0.433259,
+        "joy": 0.215079,
+        "fear": 0.15951,
+        "disgust": 0.212374,
+        "anger": 0.148585
+      },
+      "count": 2
+    },
+    {
+      "text": "13-year-old",
+      "sentiment": {
+        "score": -0.579206,
+        "label": "negative"
+      },
+      "relevance": 0.709159,
+      "emotion": {
+        "sadness": 0.412662,
+        "joy": 0.226538,
+        "fear": 0.085586,
+        "disgust": 0.133477,
+        "anger": 0.10109
+      },
+      "count": 1
+    },
+    {
+      "text": "hit Netflix series",
+      "sentiment": {
+        "score": -0.79483,
+        "label": "negative"
+      },
+      "relevance": 0.686899,
+      "emotion": {
+        "sadness": 0.513157,
+        "joy": 0.21247,
+        "fear": 0.018636,
+        "disgust": 0.229904,
+        "anger": 0.076873
+      },
+      "count": 1
+    },
+    {
+      "text": "Comic Con",
+      "sentiment": {
+        "score": -0.539666,
+        "label": "negative"
+      },
+      "relevance": 0.685895,
+      "emotion": {
+        "sadness": 0.663023,
+        "joy": 0.102415,
+        "fear": 0.095443,
+        "disgust": 0.13254,
+        "anger": 0.212221
+      },
+      "count": 1
+    },
+    {
+      "text": "difficult time",
+      "sentiment": {
+        "score": -0.95295,
+        "label": "negative"
+      },
+      "relevance": 0.635095,
+      "emotion": {
+        "sadness": 0.574778,
+        "joy": 0.013589,
+        "fear": 0.303309,
+        "disgust": 0.024398,
+        "anger": 0.378981
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Millie Bobby Brown",
+      "sentiment": {
+        "score": -0.465242,
+        "label": "negative"
+      },
+      "relevance": 0.909403,
+      "mentions": [
+        {
+          "text": "Millie Bobby Brown",
+          "location": [
+            0,
+            18
+          ]
+        },
+        {
+          "text": "Millie Bobby Brown",
+          "location": [
+            116,
+            134
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            181,
+            184
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            252,
+            255
+          ]
+        },
+        {
+          "text": "Brown",
+          "location": [
+            323,
+            328
+          ]
+        },
+        {
+          "text": "Brown",
+          "location": [
+            590,
+            595
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.580757,
+        "joy": 0.190014,
+        "fear": 0.098533,
+        "disgust": 0.468599,
+        "anger": 0.111056
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Netflix",
+      "sentiment": {
+        "score": -0.520191,
+        "label": "negative"
+      },
+      "relevance": 0.133767,
+      "mentions": [
+        {
+          "text": "Netflix",
+          "location": [
+            373,
+            380
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.49678,
+        "joy": 0.146611,
+        "fear": 0.028649,
+        "disgust": 0.196732,
+        "anger": 0.092042
+      },
+      "disambiguation": {
+        "subtype": [
+          "VentureFundedCompany"
+        ],
+        "name": "Netflix",
+        "dbpedia_resource": "http://dbpedia.org/resource/Netflix"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "13-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.133767,
+      "mentions": [
+        {
+          "text": "13-year",
+          "location": [
+            759,
+            766
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.946443,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Alcoholism",
+      "relevance": 0.942964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alcoholism"
+    },
+    {
+      "text": "American films",
+      "relevance": 0.846981,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_films"
+    },
+    {
+      "text": "Addiction",
+      "relevance": 0.830209,
+      "dbpedia_resource": "http://dbpedia.org/resource/Addiction"
+    },
+    {
+      "text": "Drug addiction",
+      "relevance": 0.764064,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drug_addiction"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.639091,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

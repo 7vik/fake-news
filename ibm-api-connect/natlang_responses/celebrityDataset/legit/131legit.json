@@ -1,0 +1,192 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 92,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.786175,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Nicki Minaj",
+      "sentiment": {
+        "score": -0.786175,
+        "label": "negative"
+      },
+      "relevance": 0.999783,
+      "emotion": {
+        "sadness": 0.292079,
+        "joy": 0.283959,
+        "fear": 0.019142,
+        "disgust": 0.257147,
+        "anger": 0.18728
+      },
+      "count": 1
+    },
+    {
+      "text": "Hot Pants",
+      "sentiment": {
+        "score": -0.786175,
+        "label": "negative"
+      },
+      "relevance": 0.552503,
+      "emotion": {
+        "sadness": 0.292079,
+        "joy": 0.283959,
+        "fear": 0.019142,
+        "disgust": 0.257147,
+        "anger": 0.18728
+      },
+      "count": 1
+    },
+    {
+      "text": "Report",
+      "sentiment": {
+        "score": -0.786175,
+        "label": "negative"
+      },
+      "relevance": 0.548529,
+      "emotion": {
+        "sadness": 0.292079,
+        "joy": 0.283959,
+        "fear": 0.019142,
+        "disgust": 0.257147,
+        "anger": 0.18728
+      },
+      "count": 1
+    },
+    {
+      "text": "Crop Top",
+      "sentiment": {
+        "score": -0.786175,
+        "label": "negative"
+      },
+      "relevance": 0.381601,
+      "emotion": {
+        "sadness": 0.292079,
+        "joy": 0.283959,
+        "fear": 0.019142,
+        "disgust": 0.257147,
+        "anger": 0.18728
+      },
+      "count": 1
+    },
+    {
+      "text": "Serena Williams\u2019 Wedding",
+      "sentiment": {
+        "score": -0.786175,
+        "label": "negative"
+      },
+      "relevance": 0.251115,
+      "emotion": {
+        "sadness": 0.292079,
+        "joy": 0.283959,
+        "fear": 0.019142,
+        "disgust": 0.257147,
+        "anger": 0.18728
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nicki Minaj",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Nicki Minaj",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128024,
+        "joy": 0.374279,
+        "fear": 0.041885,
+        "disgust": 0.273177,
+        "anger": 0.211348
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Nicki Minaj",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nicki_Minaj"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Serena Williams",
+          "location": [
+            51,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128024,
+        "joy": 0.374279,
+        "fear": 0.041885,
+        "disgust": 0.273177,
+        "anger": 0.211348
+      },
+      "disambiguation": {
+        "subtype": [
+          "TennisPlayer",
+          "AwardWinner",
+          "Celebrity",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Serena Williams",
+        "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nicki Minaj",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nicki_Minaj"
+    },
+    {
+      "text": "Serena Williams",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+    },
+    {
+      "text": "Shorts",
+      "relevance": 0.615825,
+      "dbpedia_resource": "http://dbpedia.org/resource/Shorts"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999964,
+      "label": "/style and fashion/clothing/pants"
+    }
+  ]
+}

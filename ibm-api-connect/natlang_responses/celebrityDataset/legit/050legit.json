@@ -1,0 +1,295 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1246,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.502642,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": -0.701606,
+        "label": "negative"
+      },
+      "relevance": 0.636445,
+      "emotion": {
+        "sadness": 0.242519,
+        "joy": 0.503989,
+        "fear": 0.048781,
+        "disgust": 0.061309,
+        "anger": 0.061415
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.673123,
+        "label": "negative"
+      },
+      "relevance": 0.63498,
+      "emotion": {
+        "sadness": 0.118612,
+        "joy": 0.629065,
+        "fear": 0.04179,
+        "disgust": 0.122616,
+        "anger": 0.142321
+      },
+      "count": 2
+    },
+    {
+      "text": "army surplus jacket",
+      "sentiment": {
+        "score": 0.883959,
+        "label": "positive"
+      },
+      "relevance": 0.621223,
+      "emotion": {
+        "sadness": 0.132628,
+        "joy": 0.669809,
+        "fear": 0.026829,
+        "disgust": 0.139225,
+        "anger": 0.06998
+      },
+      "count": 1
+    },
+    {
+      "text": "skinny jeans",
+      "sentiment": {
+        "score": 0.628121,
+        "label": "positive"
+      },
+      "relevance": 0.616998,
+      "emotion": {
+        "sadness": 0.118281,
+        "joy": 0.543672,
+        "fear": 0.034748,
+        "disgust": 0.2042,
+        "anger": 0.092727
+      },
+      "count": 1
+    },
+    {
+      "text": "Paris Fashion Week",
+      "sentiment": {
+        "score": -0.701606,
+        "label": "negative"
+      },
+      "relevance": 0.615608,
+      "emotion": {
+        "sadness": 0.177199,
+        "joy": 0.626853,
+        "fear": 0.105742,
+        "disgust": 0.027943,
+        "anger": 0.060567
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian West",
+      "sentiment": {
+        "score": 0.386717,
+        "label": "positive"
+      },
+      "relevance": 0.841999,
+      "mentions": [
+        {
+          "text": "Kim Kardashian West",
+          "location": [
+            11,
+            30
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            32,
+            42
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            1147,
+            1157
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.311257,
+        "joy": 0.193119,
+        "fear": 0.038665,
+        "disgust": 0.093243,
+        "anger": 0.144059
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kanye",
+      "sentiment": {
+        "score": 0.400057,
+        "label": "positive"
+      },
+      "relevance": 0.529774,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            579,
+            584
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            599,
+            601
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.071668,
+        "joy": 0.488761,
+        "fear": 0.079238,
+        "disgust": 0.076888,
+        "anger": 0.12485
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr. Martens.Watch Kim Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.390187,
+      "mentions": [
+        {
+          "text": "Dr. Martens.Watch Kim Kardashian",
+          "location": [
+            1110,
+            1142
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.235025,
+        "joy": 0.475369,
+        "fear": 0.064166,
+        "disgust": 0.224276,
+        "anger": 0.096493
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Wests",
+      "sentiment": {
+        "score": -0.311316,
+        "label": "negative"
+      },
+      "relevance": 0.331488,
+      "mentions": [
+        {
+          "text": "Wests",
+          "location": [
+            153,
+            158
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.484779,
+        "joy": 0.206666,
+        "fear": 0.068851,
+        "disgust": 0.024396,
+        "anger": 0.115748
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Paris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.322292,
+      "mentions": [
+        {
+          "text": "Paris",
+          "location": [
+            105,
+            110
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.071491,
+        "joy": 0.665357,
+        "fear": 0.139704,
+        "disgust": 0.052209,
+        "anger": 0.043389
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "FrenchDepartment",
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "OlympicHostCity",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Paris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paris"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fashion",
+      "relevance": 0.924688,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fashion"
+    },
+    {
+      "text": "Kanye West",
+      "relevance": 0.919532,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.886166,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "African American rappers",
+      "relevance": 0.880001,
+      "dbpedia_resource": "http://dbpedia.org/resource/African_American_rappers"
+    },
+    {
+      "text": "Syleena Johnson",
+      "relevance": 0.760107,
+      "dbpedia_resource": "http://dbpedia.org/resource/Syleena_Johnson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.930894,
+      "label": "/style and fashion"
+    }
+  ]
+}

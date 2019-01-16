@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 662,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.698991,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "old girl Edith Fuller",
+      "sentiment": {
+        "score": -0.628176,
+        "label": "negative"
+      },
+      "relevance": 0.83418,
+      "emotion": {
+        "sadness": 0.526396,
+        "joy": 0.047912,
+        "fear": 0.124678,
+        "disgust": 0.216186,
+        "anger": 0.404491
+      },
+      "count": 1
+    },
+    {
+      "text": "Oklahoma girl losses",
+      "sentiment": {
+        "score": -0.628176,
+        "label": "negative"
+      },
+      "relevance": 0.751068,
+      "emotion": {
+        "sadness": 0.031342,
+        "joy": 0.53344,
+        "fear": 0.337886,
+        "disgust": 0.140425,
+        "anger": 0.091442
+      },
+      "count": 1
+    },
+    {
+      "text": "TBC Home Education Fellowship",
+      "sentiment": {
+        "score": -0.595722,
+        "label": "negative"
+      },
+      "relevance": 0.720988,
+      "emotion": {
+        "sadness": 0.118467,
+        "joy": 0.460058,
+        "fear": 0.402745,
+        "disgust": 0.050049,
+        "anger": 0.054042
+      },
+      "count": 1
+    },
+    {
+      "text": "whole life",
+      "sentiment": {
+        "score": -0.768607,
+        "label": "negative"
+      },
+      "relevance": 0.686265,
+      "emotion": {
+        "sadness": 0.562415,
+        "joy": 0.217243,
+        "fear": 0.104148,
+        "disgust": 0.081834,
+        "anger": 0.255486
+      },
+      "count": 1
+    },
+    {
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": -0.789676,
+        "label": "negative"
+      },
+      "relevance": 0.600561,
+      "emotion": {
+        "sadness": 0.778678,
+        "joy": 0.014294,
+        "fear": 0.09746,
+        "disgust": 0.146293,
+        "anger": 0.207299
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Edith Fuller",
+      "sentiment": {
+        "score": -0.777976,
+        "label": "negative"
+      },
+      "relevance": 0.891121,
+      "mentions": [
+        {
+          "text": "Edith Fuller",
+          "location": [
+            65,
+            77
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            200,
+            203
+          ]
+        },
+        {
+          "text": "Edith",
+          "location": [
+            294,
+            299
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            395,
+            398
+          ]
+        },
+        {
+          "text": "home",
+          "location": [
+            408,
+            412
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            482,
+            485
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            530,
+            533
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.695142,
+        "joy": 0.163884,
+        "fear": 0.127628,
+        "disgust": 0.137485,
+        "anger": 0.212668
+      },
+      "count": 7
+    },
+    {
+      "type": "Organization",
+      "text": "TBC Home Education Fellowship",
+      "sentiment": {
+        "score": -0.809279,
+        "label": "negative"
+      },
+      "relevance": 0.352881,
+      "mentions": [
+        {
+          "text": "TBC Home Education Fellowship",
+          "location": [
+            555,
+            584
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.778678,
+        "joy": 0.014294,
+        "fear": 0.09746,
+        "disgust": 0.146293,
+        "anger": 0.207299
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Oklahoma",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.24328,
+      "mentions": [
+        {
+          "text": "4 year",
+          "location": [
+            49,
+            55
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.065904,
+        "joy": 0.458903,
+        "fear": 0.374161,
+        "disgust": 0.140981,
+        "anger": 0.109893
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Oklahoma",
+        "dbpedia_resource": "http://dbpedia.org/resource/Oklahoma"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.235778,
+      "mentions": [
+        {
+          "text": "Supreme Court",
+          "location": [
+            372,
+            385
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "attorney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.180631,
+      "mentions": [
+        {
+          "text": "attorney",
+          "location": [
+            625,
+            633
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.146313,
+        "joy": 0.369734,
+        "fear": 0.392518,
+        "disgust": 0.08058,
+        "anger": 0.129246
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Spelling bee",
+      "relevance": 0.95408,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spelling_bee"
+    },
+    {
+      "text": "Spelling",
+      "relevance": 0.7308,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spelling"
+    },
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.54054,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "Alternative education",
+      "relevance": 0.529484,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alternative_education"
+    },
+    {
+      "text": "Supreme court",
+      "relevance": 0.492406,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_court"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.653173,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

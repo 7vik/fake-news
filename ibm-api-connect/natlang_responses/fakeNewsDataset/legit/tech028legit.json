@@ -1,0 +1,291 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 932,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.849747,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strategic importance",
+      "sentiment": {
+        "score": 0.858179,
+        "label": "positive"
+      },
+      "relevance": 0.635705,
+      "emotion": {
+        "sadness": 0.171695,
+        "joy": 0.500909,
+        "fear": 0.006228,
+        "disgust": 0.001754,
+        "anger": 0.014175
+      },
+      "count": 1
+    },
+    {
+      "text": "real time",
+      "sentiment": {
+        "score": 0.858179,
+        "label": "positive"
+      },
+      "relevance": 0.626688,
+      "emotion": {
+        "sadness": 0.171695,
+        "joy": 0.500909,
+        "fear": 0.006228,
+        "disgust": 0.001754,
+        "anger": 0.014175
+      },
+      "count": 1
+    },
+    {
+      "text": "part of an array of new tools",
+      "sentiment": {
+        "score": 0.841152,
+        "label": "positive"
+      },
+      "relevance": 0.619215,
+      "emotion": {
+        "sadness": 0.106336,
+        "joy": 0.56239,
+        "fear": 0.014437,
+        "disgust": 0.022462,
+        "anger": 0.032682
+      },
+      "count": 1
+    },
+    {
+      "text": "popular maps",
+      "sentiment": {
+        "score": 0.858179,
+        "label": "positive"
+      },
+      "relevance": 0.613502,
+      "emotion": {
+        "sadness": 0.171695,
+        "joy": 0.500909,
+        "fear": 0.006228,
+        "disgust": 0.001754,
+        "anger": 0.014175
+      },
+      "count": 1
+    },
+    {
+      "text": "Apple Inc's iOS software",
+      "sentiment": {
+        "score": 0.858179,
+        "label": "positive"
+      },
+      "relevance": 0.597604,
+      "emotion": {
+        "sadness": 0.171695,
+        "joy": 0.500909,
+        "fear": 0.006228,
+        "disgust": 0.001754,
+        "anger": 0.014175
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.308679,
+        "label": "positive"
+      },
+      "relevance": 0.888872,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            75,
+            81
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            396,
+            402
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            460,
+            466
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            875,
+            881
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.220354,
+        "joy": 0.543483,
+        "fear": 0.053298,
+        "disgust": 0.047277,
+        "anger": 0.164778
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Jen Fitzpatrick",
+      "sentiment": {
+        "score": 0.308679,
+        "label": "positive"
+      },
+      "relevance": 0.256696,
+      "mentions": [
+        {
+          "text": "Jen Fitzpatrick",
+          "location": [
+            892,
+            907
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214126,
+        "joy": 0.090108,
+        "fear": 0.054007,
+        "disgust": 0.161763,
+        "anger": 0.119577
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Apple Inc",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.254779,
+      "mentions": [
+        {
+          "text": "Apple Inc",
+          "location": [
+            434,
+            443
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "ProgrammingLanguageDesigner",
+          "ProgrammingLanguageDeveloper",
+          "ProtocolProvider",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "Apple Inc.",
+        "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Alphabet Inc",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.25061,
+      "mentions": [
+        {
+          "text": "Alphabet Inc",
+          "location": [
+            60,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Google",
+      "relevance": 0.949821,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "Google Voice",
+      "relevance": 0.79124,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_Voice"
+    },
+    {
+      "text": "Android",
+      "relevance": 0.744939,
+      "dbpedia_resource": "http://dbpedia.org/resource/Android_(operating_system)"
+    },
+    {
+      "text": "Nexus One",
+      "relevance": 0.719645,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nexus_One"
+    },
+    {
+      "text": "Motorola Droid",
+      "relevance": 0.709882,
+      "dbpedia_resource": "http://dbpedia.org/resource/Motorola_Droid"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.98222,
+      "label": "/technology and computing/operating systems"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1061,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.707137,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.831565,
+        "label": "negative"
+      },
+      "relevance": 0.860686,
+      "emotion": {
+        "sadness": 0.0484,
+        "joy": 0.426802,
+        "fear": 0.020902,
+        "disgust": 0.170735,
+        "anger": 0.465296
+      },
+      "count": 2
+    },
+    {
+      "text": "National ENQUIRER",
+      "sentiment": {
+        "score": -0.932805,
+        "label": "negative"
+      },
+      "relevance": 0.695965,
+      "emotion": {
+        "sadness": 0.065769,
+        "joy": 0.614991,
+        "fear": 0.028667,
+        "disgust": 0.095415,
+        "anger": 0.271768
+      },
+      "count": 1
+    },
+    {
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": 0.742169,
+        "label": "positive"
+      },
+      "relevance": 0.684546,
+      "emotion": {
+        "sadness": 0.070084,
+        "joy": 0.616781,
+        "fear": 0.013278,
+        "disgust": 0.055853,
+        "anger": 0.046983
+      },
+      "count": 1
+    },
+    {
+      "text": "NBA bosses",
+      "sentiment": {
+        "score": -0.461211,
+        "label": "negative"
+      },
+      "relevance": 0.678373,
+      "emotion": {
+        "sadness": 0.304801,
+        "joy": 0.18741,
+        "fear": 0.125518,
+        "disgust": 0.280407,
+        "anger": 0.326403
+      },
+      "count": 1
+    },
+    {
+      "text": "Leggy 21-year-old model",
+      "sentiment": {
+        "score": -0.786175,
+        "label": "negative"
+      },
+      "relevance": 0.650311,
+      "emotion": {
+        "sadness": 0.304801,
+        "joy": 0.18741,
+        "fear": 0.125518,
+        "disgust": 0.280407,
+        "anger": 0.326403
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.258478,
+        "label": "negative"
+      },
+      "relevance": 0.890599,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            55,
+            69
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            528,
+            535
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            640,
+            654
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.215821,
+        "joy": 0.582962,
+        "fear": 0.122123,
+        "disgust": 0.23187,
+        "anger": 0.561695
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "Los Angeles Clippers",
+      "sentiment": {
+        "score": -0.472886,
+        "label": "negative"
+      },
+      "relevance": 0.39488,
+      "mentions": [
+        {
+          "text": "Los Angeles Clippers",
+          "location": [
+            226,
+            246
+          ]
+        },
+        {
+          "text": "Clippers",
+          "location": [
+            493,
+            501
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20368,
+        "joy": 0.254498,
+        "fear": 0.104454,
+        "disgust": 0.087742,
+        "anger": 0.185869
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Los Angeles Clippers",
+        "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles_Clippers"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": -0.60009,
+        "label": "negative"
+      },
+      "relevance": 0.375833,
+      "mentions": [
+        {
+          "text": "Blake Griffin",
+          "location": [
+            363,
+            376
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            435,
+            440
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            519,
+            522
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            827,
+            832
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.707011,
+        "joy": 0.190362,
+        "fear": 0.095616,
+        "disgust": 0.073947,
+        "anger": 0.04859
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "BasketballPlayer"
+        ],
+        "name": "Blake Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Griffin"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kardashian",
+      "sentiment": {
+        "score": -0.552687,
+        "label": "negative"
+      },
+      "relevance": 0.348819,
+      "mentions": [
+        {
+          "text": "'Kardashian",
+          "location": [
+            36,
+            47
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            303,
+            313
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            580,
+            590
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1027,
+            1037
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.475776,
+        "joy": 0.045352,
+        "fear": 0.184691,
+        "disgust": 0.114962,
+        "anger": 0.448671
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "NBA",
+      "sentiment": {
+        "score": -0.737015,
+        "label": "negative"
+      },
+      "relevance": 0.330231,
+      "mentions": [
+        {
+          "text": "NBA",
+          "location": [
+            27,
+            30
+          ]
+        },
+        {
+          "text": "NBA",
+          "location": [
+            132,
+            135
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.331465,
+        "joy": 0.010244,
+        "fear": 0.047958,
+        "disgust": 0.338926,
+        "anger": 0.600967
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsAssociation",
+          "Profession"
+        ],
+        "name": "National Basketball Association",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Basketball_Association"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Los Angeles Clippers",
+      "relevance": 0.973164,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles_Clippers"
+    },
+    {
+      "text": "Los Angeles Lakers",
+      "relevance": 0.820681,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles_Lakers"
+    },
+    {
+      "text": "Lamar Odom",
+      "relevance": 0.694423,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lamar_Odom"
+    },
+    {
+      "text": "Los Angeles",
+      "relevance": 0.60001,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+      "text": "Khlo\u00e9 Kardashian",
+      "relevance": 0.555539,
+      "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.797033,
+      "label": "/sports/basketball"
+    }
+  ]
+}

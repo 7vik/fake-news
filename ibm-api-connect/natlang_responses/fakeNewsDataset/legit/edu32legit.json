@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 771,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.780806,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "4-H National Youth Science Day",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.798763,
+      "emotion": {
+        "sadness": 0.212662,
+        "joy": 0.664879,
+        "fear": 0.089742,
+        "disgust": 0.037071,
+        "anger": 0.028828
+      },
+      "count": 2
+    },
+    {
+      "text": "Drone Discovery Challenge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.695039,
+      "emotion": {
+        "sadness": 0.213772,
+        "joy": 0.665504,
+        "fear": 0.097971,
+        "disgust": 0.027958,
+        "anger": 0.023191
+      },
+      "count": 1
+    },
+    {
+      "text": "Younger students",
+      "sentiment": {
+        "score": -0.848595,
+        "label": "negative"
+      },
+      "relevance": 0.68466,
+      "emotion": {
+        "sadness": 0.057004,
+        "joy": 0.27298,
+        "fear": 0.09137,
+        "disgust": 0.046748,
+        "anger": 0.309064
+      },
+      "count": 1
+    },
+    {
+      "text": "high schoolers",
+      "sentiment": {
+        "score": -0.848595,
+        "label": "negative"
+      },
+      "relevance": 0.656893,
+      "emotion": {
+        "sadness": 0.057004,
+        "joy": 0.27298,
+        "fear": 0.09137,
+        "disgust": 0.046748,
+        "anger": 0.309064
+      },
+      "count": 1
+    },
+    {
+      "text": "remote sensors",
+      "sentiment": {
+        "score": -0.848595,
+        "label": "negative"
+      },
+      "relevance": 0.607317,
+      "emotion": {
+        "sadness": 0.057004,
+        "joy": 0.27298,
+        "fear": 0.09137,
+        "disgust": 0.046748,
+        "anger": 0.309064
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "100,000 K",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.01,
+      "mentions": [
+        {
+          "text": "100,000 K",
+          "location": [
+            77,
+            86
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Science",
+      "relevance": 0.957472,
+      "dbpedia_resource": "http://dbpedia.org/resource/Science"
+    },
+    {
+      "text": "Theory",
+      "relevance": 0.697076,
+      "dbpedia_resource": "http://dbpedia.org/resource/Theory"
+    },
+    {
+      "text": "Remote sensing",
+      "relevance": 0.684311,
+      "dbpedia_resource": "http://dbpedia.org/resource/Remote_sensing"
+    },
+    {
+      "text": "Experiment",
+      "relevance": 0.682604,
+      "dbpedia_resource": "http://dbpedia.org/resource/Experiment"
+    },
+    {
+      "text": "High school",
+      "relevance": 0.660793,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.807413,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

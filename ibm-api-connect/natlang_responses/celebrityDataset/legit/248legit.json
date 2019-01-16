@@ -1,0 +1,280 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 737,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.329081,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift Went",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.865867,
+      "emotion": {
+        "sadness": 0.117522,
+        "joy": 0.694404,
+        "fear": 0.067347,
+        "disgust": 0.043645,
+        "anger": 0.052581
+      },
+      "count": 1
+    },
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.87483,
+        "label": "negative"
+      },
+      "relevance": 0.751188,
+      "emotion": {
+        "sadness": 0.437807,
+        "joy": 0.314283,
+        "fear": 0.136825,
+        "disgust": 0.083497,
+        "anger": 0.176914
+      },
+      "count": 1
+    },
+    {
+      "text": "Great Lengths",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.741059,
+      "emotion": {
+        "sadness": 0.117522,
+        "joy": 0.694404,
+        "fear": 0.067347,
+        "disgust": 0.043645,
+        "anger": 0.052581
+      },
+      "count": 2
+    },
+    {
+      "text": "British actor Joe Alwyn",
+      "sentiment": {
+        "score": -0.87483,
+        "label": "negative"
+      },
+      "relevance": 0.698593,
+      "emotion": {
+        "sadness": 0.542279,
+        "joy": 0.087933,
+        "fear": 0.254487,
+        "disgust": 0.147177,
+        "anger": 0.236835
+      },
+      "count": 1
+    },
+    {
+      "text": "social media",
+      "sentiment": {
+        "score": -0.87483,
+        "label": "negative"
+      },
+      "relevance": 0.682653,
+      "emotion": {
+        "sadness": 0.542279,
+        "joy": 0.087933,
+        "fear": 0.254487,
+        "disgust": 0.147177,
+        "anger": 0.236835
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.490363,
+        "label": "positive"
+      },
+      "relevance": 0.87993,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            102,
+            114
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            150,
+            153
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            207,
+            210
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            336,
+            339
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            371,
+            374
+          ]
+        },
+        {
+          "text": "Taylor",
+          "location": [
+            398,
+            404
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            494,
+            497
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.506889,
+        "joy": 0.51614,
+        "fear": 0.129337,
+        "disgust": 0.112735,
+        "anger": 0.059279
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Joe Alwyn",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.563247,
+      "mentions": [
+        {
+          "text": "Joe Alwyn",
+          "location": [
+            139,
+            148
+          ]
+        },
+        {
+          "text": "Alwyn",
+          "location": [
+            502,
+            507
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            607,
+            610
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.487892,
+        "joy": 0.16517,
+        "fear": 0.113851,
+        "disgust": 0.231718,
+        "anger": 0.214426
+      },
+      "count": 3
+    },
+    {
+      "type": "Quantity",
+      "text": "four months",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.28217,
+      "mentions": [
+        {
+          "text": "four months",
+          "location": [
+            301,
+            312
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.907619,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.863915,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "The Spotlight",
+      "relevance": 0.7832,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Spotlight"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.76208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+      "text": "Romeo and Juliet",
+      "relevance": 0.723432,
+      "dbpedia_resource": "http://dbpedia.org/resource/Romeo_and_Juliet"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.836205,
+      "label": "/society/dating"
+    }
+  ]
+}

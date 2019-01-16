@@ -1,0 +1,311 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 489,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.523845,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "AT&T",
+      "sentiment": {
+        "score": -0.361758,
+        "label": "negative"
+      },
+      "relevance": 0.932025,
+      "emotion": {
+        "sadness": 0.221985,
+        "joy": 0.460496,
+        "fear": 0.079415,
+        "disgust": 0.173319,
+        "anger": 0.063856
+      },
+      "count": 1
+    },
+    {
+      "text": "rival Verizon",
+      "sentiment": {
+        "score": -0.932357,
+        "label": "negative"
+      },
+      "relevance": 0.730599,
+      "emotion": {
+        "sadness": 0.390592,
+        "joy": 0.057827,
+        "fear": 0.093531,
+        "disgust": 0.113041,
+        "anger": 0.58756
+      },
+      "count": 1
+    },
+    {
+      "text": "USA Today",
+      "sentiment": {
+        "score": -0.932357,
+        "label": "negative"
+      },
+      "relevance": 0.68949,
+      "emotion": {
+        "sadness": 0.390592,
+        "joy": 0.057827,
+        "fear": 0.093531,
+        "disgust": 0.113041,
+        "anger": 0.58756
+      },
+      "count": 1
+    },
+    {
+      "text": "bad bet",
+      "sentiment": {
+        "score": -0.795374,
+        "label": "negative"
+      },
+      "relevance": 0.668136,
+      "emotion": {
+        "sadness": 0.390592,
+        "joy": 0.057827,
+        "fear": 0.093531,
+        "disgust": 0.113041,
+        "anger": 0.58756
+      },
+      "count": 1
+    },
+    {
+      "text": "cookie crumbles",
+      "sentiment": {
+        "score": -0.608079,
+        "label": "negative"
+      },
+      "relevance": 0.627546,
+      "emotion": {
+        "sadness": 0.390592,
+        "joy": 0.057827,
+        "fear": 0.093531,
+        "disgust": 0.113041,
+        "anger": 0.58756
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Verizon",
+      "sentiment": {
+        "score": 0.450209,
+        "label": "positive"
+      },
+      "relevance": 0.818142,
+      "mentions": [
+        {
+          "text": "Verizon",
+          "location": [
+            200,
+            207
+          ]
+        },
+        {
+          "text": "Verizon",
+          "location": [
+            316,
+            323
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.082238,
+        "joy": 0.663676,
+        "fear": 0.024501,
+        "disgust": 0.009238,
+        "anger": 0.064089
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Verizon Communications",
+        "dbpedia_resource": "http://dbpedia.org/resource/Verizon_Communications"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "AT&T",
+      "sentiment": {
+        "score": -0.573292,
+        "label": "negative"
+      },
+      "relevance": 0.518682,
+      "mentions": [
+        {
+          "text": "AT&T",
+          "location": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "AT&T",
+          "location": [
+            49,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.267837,
+        "joy": 0.365502,
+        "fear": 0.113708,
+        "disgust": 0.179011,
+        "anger": 0.079043
+      },
+      "disambiguation": {
+        "subtype": [
+          "SoftwareDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "AT&T",
+        "dbpedia_resource": "http://dbpedia.org/resource/AT&T"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.447495,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            242,
+            247
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.193613,
+        "joy": 0.121504,
+        "fear": 0.060354,
+        "disgust": 0.259255,
+        "anger": 0.561227
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.433852,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            24,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217022,
+        "joy": 0.105883,
+        "fear": 0.101376,
+        "disgust": 0.204885,
+        "anger": 0.106721
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.38033,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            36,
+            42
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.217022,
+        "joy": 0.105883,
+        "fear": 0.101376,
+        "disgust": 0.204885,
+        "anger": 0.106721
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.975612,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Google",
+      "relevance": 0.817142,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "Viacom",
+      "relevance": 0.715657,
+      "dbpedia_resource": "http://dbpedia.org/resource/Viacom"
+    },
+    {
+      "text": "YouTube",
+      "relevance": 0.62952,
+      "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+      "text": "IPhone",
+      "relevance": 0.608268,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.755265,
+      "label": "/business and industrial/advertising and marketing/advertising"
+    }
+  ]
+}

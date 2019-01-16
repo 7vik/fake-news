@@ -1,0 +1,249 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 652,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.862257,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "best thing",
+      "sentiment": {
+        "score": -0.640833,
+        "label": "negative"
+      },
+      "relevance": 0.800646,
+      "emotion": {
+        "sadness": 0.169751,
+        "joy": 0.619728,
+        "fear": 0.045504,
+        "disgust": 0.091998,
+        "anger": 0.16046
+      },
+      "count": 1
+    },
+    {
+      "text": "last year",
+      "sentiment": {
+        "score": -0.640833,
+        "label": "negative"
+      },
+      "relevance": 0.73911,
+      "emotion": {
+        "sadness": 0.169751,
+        "joy": 0.619728,
+        "fear": 0.045504,
+        "disgust": 0.091998,
+        "anger": 0.16046
+      },
+      "count": 1
+    },
+    {
+      "text": "Friday afternoon",
+      "sentiment": {
+        "score": -0.990213,
+        "label": "negative"
+      },
+      "relevance": 0.73461,
+      "emotion": {
+        "sadness": 0.166432,
+        "joy": 0.479649,
+        "fear": 0.037399,
+        "disgust": 0.214508,
+        "anger": 0.265421
+      },
+      "count": 1
+    },
+    {
+      "text": "Obamacare overhaul",
+      "sentiment": {
+        "score": -0.990213,
+        "label": "negative"
+      },
+      "relevance": 0.719088,
+      "emotion": {
+        "sadness": 0.23087,
+        "joy": 0.117678,
+        "fear": 0.087912,
+        "disgust": 0.37129,
+        "anger": 0.365309
+      },
+      "count": 1
+    },
+    {
+      "text": "let Obamacare",
+      "sentiment": {
+        "score": -0.640833,
+        "label": "negative"
+      },
+      "relevance": 0.715614,
+      "emotion": {
+        "sadness": 0.169751,
+        "joy": 0.619728,
+        "fear": 0.045504,
+        "disgust": 0.091998,
+        "anger": 0.16046
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Donald Trump",
+      "sentiment": {
+        "score": -0.304304,
+        "label": "negative"
+      },
+      "relevance": 0.890635,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "President Donald Trump",
+          "location": [
+            61,
+            83
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            159,
+            161
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            403,
+            408
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185827,
+        "joy": 0.094263,
+        "fear": 0.030558,
+        "disgust": 0.394485,
+        "anger": 0.566617
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "GOP",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.277122,
+      "mentions": [
+        {
+          "text": "GOP",
+          "location": [
+            37,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.393937,
+        "joy": 0.041783,
+        "fear": 0.250379,
+        "disgust": 0.34102,
+        "anger": 0.105906
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Obamacare",
+      "sentiment": {
+        "score": -0.557304,
+        "label": "negative"
+      },
+      "relevance": 0.205077,
+      "mentions": [
+        {
+          "text": "Obamacare",
+          "location": [
+            140,
+            149
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.148993,
+        "joy": 0.317224,
+        "fear": 0.058721,
+        "disgust": 0.145076,
+        "anger": 0.504368
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.95699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "George W. Bush",
+      "relevance": 0.721318,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "United States House of Representatives",
+      "relevance": 0.715185,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_House_of_Representatives"
+    },
+    {
+      "text": "George H. W. Bush",
+      "relevance": 0.698176,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_H._W._Bush"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.657743,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.898955,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

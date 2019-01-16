@@ -1,0 +1,313 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 557,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.866791,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "YouTube gaffe",
+      "sentiment": {
+        "score": -0.88784,
+        "label": "negative"
+      },
+      "relevance": 0.838079,
+      "emotion": {
+        "sadness": 0.093919,
+        "joy": 0.30997,
+        "fear": 0.136041,
+        "disgust": 0.049451,
+        "anger": 0.118376
+      },
+      "count": 1
+    },
+    {
+      "text": "AT&T",
+      "sentiment": {
+        "score": -0.88784,
+        "label": "negative"
+      },
+      "relevance": 0.796952,
+      "emotion": {
+        "sadness": 0.159189,
+        "joy": 0.303556,
+        "fear": 0.173709,
+        "disgust": 0.120245,
+        "anger": 0.21938
+      },
+      "count": 1
+    },
+    {
+      "text": "telecom companies AT&T",
+      "sentiment": {
+        "score": -0.88784,
+        "label": "negative"
+      },
+      "relevance": 0.737423,
+      "emotion": {
+        "sadness": 0.225532,
+        "joy": 0.195847,
+        "fear": 0.153104,
+        "disgust": 0.208953,
+        "anger": 0.252198
+      },
+      "count": 1
+    },
+    {
+      "text": "extremist content",
+      "sentiment": {
+        "score": -0.88784,
+        "label": "negative"
+      },
+      "relevance": 0.68879,
+      "emotion": {
+        "sadness": 0.225532,
+        "joy": 0.195847,
+        "fear": 0.153104,
+        "disgust": 0.208953,
+        "anger": 0.252198
+      },
+      "count": 1
+    },
+    {
+      "text": "ads",
+      "sentiment": {
+        "score": -0.88784,
+        "label": "negative"
+      },
+      "relevance": 0.614103,
+      "emotion": {
+        "sadness": 0.159189,
+        "joy": 0.303556,
+        "fear": 0.173709,
+        "disgust": 0.120245,
+        "anger": 0.21938
+      },
+      "count": 3
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Phillip Schindler",
+      "sentiment": {
+        "score": -0.714331,
+        "label": "negative"
+      },
+      "relevance": 0.964121,
+      "mentions": [
+        {
+          "text": "Phillip Schindler",
+          "location": [
+            317,
+            334
+          ]
+        },
+        {
+          "text": "Schindler",
+          "location": [
+            518,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.346369,
+        "joy": 0.312079,
+        "fear": 0.129007,
+        "disgust": 0.073123,
+        "anger": 0.205683
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Verizon",
+      "sentiment": {
+        "score": -0.375139,
+        "label": "negative"
+      },
+      "relevance": 0.80234,
+      "mentions": [
+        {
+          "text": "Verizon",
+          "location": [
+            31,
+            38
+          ]
+        },
+        {
+          "text": "Verizon",
+          "location": [
+            168,
+            175
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201387,
+        "joy": 0.123385,
+        "fear": 0.172032,
+        "disgust": 0.179585,
+        "anger": 0.360092
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Verizon Communications",
+        "dbpedia_resource": "http://dbpedia.org/resource/Verizon_Communications"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.342667,
+        "label": "negative"
+      },
+      "relevance": 0.790112,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            10,
+            17
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            132,
+            139
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.102126,
+        "joy": 0.463172,
+        "fear": 0.088301,
+        "disgust": 0.066638,
+        "anger": 0.040248
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Chief Business Officer",
+      "sentiment": {
+        "score": -0.714331,
+        "label": "negative"
+      },
+      "relevance": 0.549658,
+      "mentions": [
+        {
+          "text": "Chief Business Officer",
+          "location": [
+            294,
+            316
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.433878,
+        "joy": 0.17229,
+        "fear": 0.141521,
+        "disgust": 0.0757,
+        "anger": 0.242959
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "AT&T",
+      "sentiment": {
+        "score": -0.467922,
+        "label": "negative"
+      },
+      "relevance": 0.447653,
+      "mentions": [
+        {
+          "text": "AT&T",
+          "location": [
+            25,
+            29
+          ]
+        },
+        {
+          "text": "AT&T",
+          "location": [
+            159,
+            163
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.296692,
+        "joy": 0.098524,
+        "fear": 0.139298,
+        "disgust": 0.157778,
+        "anger": 0.357018
+      },
+      "disambiguation": {
+        "subtype": [
+          "SoftwareDeveloper",
+          "VideoGamePublisher"
+        ],
+        "name": "AT&T",
+        "dbpedia_resource": "http://dbpedia.org/resource/AT&T"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Google",
+      "relevance": 0.913876,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "Corporation",
+      "relevance": 0.908082,
+      "dbpedia_resource": "http://dbpedia.org/resource/Corporation"
+    },
+    {
+      "text": "Advertising",
+      "relevance": 0.86814,
+      "dbpedia_resource": "http://dbpedia.org/resource/Advertising"
+    },
+    {
+      "text": "YouTube",
+      "relevance": 0.821522,
+      "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+      "text": "Website",
+      "relevance": 0.777,
+      "dbpedia_resource": "http://dbpedia.org/resource/Website"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.965025,
+      "label": "/business and industrial/advertising and marketing/advertising"
+    }
+  ]
+}

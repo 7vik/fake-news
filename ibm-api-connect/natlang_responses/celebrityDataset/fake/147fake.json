@@ -1,0 +1,316 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 555,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.932275,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.961685,
+        "label": "negative"
+      },
+      "relevance": 0.921053,
+      "emotion": {
+        "sadness": 0.359644,
+        "joy": 0.411954,
+        "fear": 0.086625,
+        "disgust": 0.078519,
+        "anger": 0.219504
+      },
+      "count": 1
+    },
+    {
+      "text": "Barack Obama",
+      "sentiment": {
+        "score": -0.961685,
+        "label": "negative"
+      },
+      "relevance": 0.863936,
+      "emotion": {
+        "sadness": 0.402646,
+        "joy": 0.255785,
+        "fear": 0.10792,
+        "disgust": 0.145941,
+        "anger": 0.338458
+      },
+      "count": 1
+    },
+    {
+      "text": "former President Barack Obama",
+      "sentiment": {
+        "score": -0.961685,
+        "label": "negative"
+      },
+      "relevance": 0.838119,
+      "emotion": {
+        "sadness": 0.359644,
+        "joy": 0.411954,
+        "fear": 0.086625,
+        "disgust": 0.078519,
+        "anger": 0.219504
+      },
+      "count": 1
+    },
+    {
+      "text": "sham image of a loving hubby",
+      "sentiment": {
+        "score": -0.961685,
+        "label": "negative"
+      },
+      "relevance": 0.832845,
+      "emotion": {
+        "sadness": 0.359644,
+        "joy": 0.411954,
+        "fear": 0.086625,
+        "disgust": 0.078519,
+        "anger": 0.219504
+      },
+      "count": 1
+    },
+    {
+      "text": "wife Michelle",
+      "sentiment": {
+        "score": -0.961685,
+        "label": "negative"
+      },
+      "relevance": 0.758397,
+      "emotion": {
+        "sadness": 0.359644,
+        "joy": 0.411954,
+        "fear": 0.086625,
+        "disgust": 0.078519,
+        "anger": 0.219504
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Barack Obama",
+      "sentiment": {
+        "score": -0.638269,
+        "label": "negative"
+      },
+      "relevance": 0.864566,
+      "mentions": [
+        {
+          "text": "Barack Obama",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Barack Obama",
+          "location": [
+            192,
+            204
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251098,
+        "joy": 0.329765,
+        "fear": 0.109354,
+        "disgust": 0.175273,
+        "anger": 0.343202
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Michelle",
+      "sentiment": {
+        "score": -0.534575,
+        "label": "negative"
+      },
+      "relevance": 0.531325,
+      "mentions": [
+        {
+          "text": "Michelle",
+          "location": [
+            221,
+            229
+          ]
+        },
+        {
+          "text": "Michelle",
+          "location": [
+            340,
+            348
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            386,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214606,
+        "joy": 0.451507,
+        "fear": 0.080319,
+        "disgust": 0.133558,
+        "anger": 0.286922
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "MusicalGroupMember"
+        ],
+        "name": "Michel'le",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michel'le"
+      },
+      "count": 3
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.327084,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            101,
+            112
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.099356,
+        "joy": 0.806194,
+        "fear": 0.024382,
+        "disgust": 0.061521,
+        "anger": 0.02189
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "House",
+          "TouristAttraction",
+          "Building"
+        ],
+        "name": "White House",
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Malia",
+      "sentiment": {
+        "score": 0.257436,
+        "label": "positive"
+      },
+      "relevance": 0.273749,
+      "mentions": [
+        {
+          "text": "Malia",
+          "location": [
+            452,
+            457
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.638269,
+        "label": "negative"
+      },
+      "relevance": 0.255682,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            182,
+            191
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.259239,
+        "joy": 0.356361,
+        "fear": 0.1011,
+        "disgust": 0.136856,
+        "anger": 0.270036
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.96708,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.951552,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.818288,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.748606,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Illinois",
+      "relevance": 0.67968,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.878845,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1487,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.421787,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.858059,
+        "label": "negative"
+      },
+      "relevance": 0.708034,
+      "emotion": {
+        "sadness": 0.363683,
+        "joy": 0.127016,
+        "fear": 0.041668,
+        "disgust": 0.166677,
+        "anger": 0.127563
+      },
+      "count": 2
+    },
+    {
+      "text": "Co-hosts",
+      "sentiment": {
+        "score": 0.447704,
+        "label": "positive"
+      },
+      "relevance": 0.685492,
+      "emotion": {
+        "sadness": 0.154301,
+        "joy": 0.473854,
+        "fear": 0.04876,
+        "disgust": 0.261438,
+        "anger": 0.034967
+      },
+      "count": 1
+    },
+    {
+      "text": "home of producer Ellen Goldsmith Vein",
+      "sentiment": {
+        "score": -0.712829,
+        "label": "negative"
+      },
+      "relevance": 0.652083,
+      "emotion": {
+        "sadness": 0.129571,
+        "joy": 0.535505,
+        "fear": 0.022048,
+        "disgust": 0.054039,
+        "anger": 0.056127
+      },
+      "count": 1
+    },
+    {
+      "text": "Bernie Sanders",
+      "sentiment": {
+        "score": -0.712829,
+        "label": "negative"
+      },
+      "relevance": 0.646573,
+      "emotion": {
+        "sadness": 0.129571,
+        "joy": 0.535505,
+        "fear": 0.022048,
+        "disgust": 0.054039,
+        "anger": 0.056127
+      },
+      "count": 1
+    },
+    {
+      "text": "Democratic nomination",
+      "sentiment": {
+        "score": -0.712829,
+        "label": "negative"
+      },
+      "relevance": 0.626066,
+      "emotion": {
+        "sadness": 0.129571,
+        "joy": 0.535505,
+        "fear": 0.022048,
+        "disgust": 0.054039,
+        "anger": 0.056127
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.369491,
+        "label": "negative"
+      },
+      "relevance": 0.873109,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            70,
+            85
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            328,
+            331
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            562,
+            569
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            651,
+            654
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            1072,
+            1079
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            1189,
+            1196
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            1198,
+            1200
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.295426,
+        "joy": 0.553511,
+        "fear": 0.046768,
+        "disgust": 0.122951,
+        "anger": 0.080464
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.471348,
+      "mentions": [
+        {
+          "text": "Los Angeles",
+          "location": [
+            102,
+            113
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "location": [
+            600,
+            611
+          ]
+        },
+        {
+          "text": "L.A.",
+          "location": [
+            662,
+            666
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "location": [
+            887,
+            898
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.309969,
+        "joy": 0.552249,
+        "fear": 0.028252,
+        "disgust": 0.078779,
+        "anger": 0.030853
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "OlympicHostCity",
+          "PlaceWithNeighborhoods",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "Los Angeles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.313016,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            29,
+            38
+          ]
+        },
+        {
+          "text": "Hollywood",
+          "location": [
+            201,
+            210
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.235033,
+        "joy": 0.158253,
+        "fear": 0.040868,
+        "disgust": 0.038992,
+        "anger": 0.091401
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Bernie Sanders",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.237637,
+      "mentions": [
+        {
+          "text": "Bernie Sanders",
+          "location": [
+            855,
+            869
+          ]
+        },
+        {
+          "text": "Sanders",
+          "location": [
+            1298,
+            1305
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074445,
+        "joy": 0.466771,
+        "fear": 0.050681,
+        "disgust": 0.457496,
+        "anger": 0.052473
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Senator",
+          "U.S.Congressperson",
+          "FilmActor"
+        ],
+        "name": "Bernie Sanders",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bernie_Sanders"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "George Clooney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.21907,
+      "mentions": [
+        {
+          "text": "George Clooney",
+          "location": [
+            1112,
+            1126
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1150,
+            1152
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.31951,
+        "joy": 0.196415,
+        "fear": 0.074379,
+        "disgust": 0.081449,
+        "anger": 0.137698
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVPersonality",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "George Clooney",
+        "dbpedia_resource": "http://dbpedia.org/resource/George_Clooney"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.986054,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.884145,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Los Angeles",
+      "relevance": 0.82727,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.821536,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.766569,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.692795,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

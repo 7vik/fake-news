@@ -1,0 +1,223 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1414,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.456716,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wells Fargo",
+      "sentiment": {
+        "score": -0.989879,
+        "label": "negative"
+      },
+      "relevance": 0.891083,
+      "emotion": {
+        "sadness": 0.045724,
+        "joy": 0.501759,
+        "fear": 0.107736,
+        "disgust": 0.242653,
+        "anger": 0.227382
+      },
+      "count": 2
+    },
+    {
+      "text": "Gain Control Of Your Money",
+      "sentiment": {
+        "score": -0.989879,
+        "label": "negative"
+      },
+      "relevance": 0.854751,
+      "emotion": {
+        "sadness": 0.06546,
+        "joy": 0.383859,
+        "fear": 0.170656,
+        "disgust": 0.273571,
+        "anger": 0.264871
+      },
+      "count": 1
+    },
+    {
+      "text": "Fargo Attempts",
+      "sentiment": {
+        "score": -0.989879,
+        "label": "negative"
+      },
+      "relevance": 0.781432,
+      "emotion": {
+        "sadness": 0.06546,
+        "joy": 0.383859,
+        "fear": 0.170656,
+        "disgust": 0.273571,
+        "anger": 0.264871
+      },
+      "count": 1
+    },
+    {
+      "text": "physical currency",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.745631,
+      "emotion": {
+        "sadness": 0.119694,
+        "joy": 0.123628,
+        "fear": 0.082468,
+        "disgust": 0.060053,
+        "anger": 0.113286
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. Government",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.682026,
+      "emotion": {
+        "sadness": 0.602165,
+        "joy": 0.144967,
+        "fear": 0.138799,
+        "disgust": 0.082179,
+        "anger": 0.154804
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Wells Fargo",
+      "sentiment": {
+        "score": -0.694695,
+        "label": "negative"
+      },
+      "relevance": 0.81238,
+      "mentions": [
+        {
+          "text": "Wells Fargo",
+          "location": [
+            54,
+            65
+          ]
+        },
+        {
+          "text": "Wells Fargo",
+          "location": [
+            599,
+            610
+          ]
+        },
+        {
+          "text": "Wells Fargo",
+          "location": [
+            1237,
+            1248
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.041274,
+        "joy": 0.518908,
+        "fear": 0.096331,
+        "disgust": 0.264285,
+        "anger": 0.196905
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "U.S. Government",
+      "sentiment": {
+        "score": -0.5503,
+        "label": "negative"
+      },
+      "relevance": 0.516448,
+      "mentions": [
+        {
+          "text": "U.S. Government",
+          "location": [
+            641,
+            656
+          ]
+        },
+        {
+          "text": "the government",
+          "location": [
+            725,
+            739
+          ]
+        },
+        {
+          "text": "the government",
+          "location": [
+            938,
+            952
+          ]
+        },
+        {
+          "text": "The government",
+          "location": [
+            1080,
+            1094
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.30306,
+        "joy": 0.467365,
+        "fear": 0.111802,
+        "disgust": 0.119653,
+        "anger": 0.134683
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Federal government of the United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+      },
+      "count": 4
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.95667,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "Money",
+      "relevance": 0.850234,
+      "dbpedia_resource": "http://dbpedia.org/resource/Money"
+    },
+    {
+      "text": "United States Constitution",
+      "relevance": 0.678388,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+    },
+    {
+      "text": "Bank",
+      "relevance": 0.678149,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bank"
+    },
+    {
+      "text": "Wells Fargo",
+      "relevance": 0.674216,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wells_Fargo"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.975176,
+      "label": "/finance/bank"
+    }
+  ]
+}

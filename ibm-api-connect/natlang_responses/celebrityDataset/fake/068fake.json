@@ -1,0 +1,267 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 124,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.989448,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West Confronts Anna Wintour",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.995182,
+      "emotion": {
+        "sadness": 0.288503,
+        "joy": 0.221476,
+        "fear": 0.043612,
+        "disgust": 0.224488,
+        "anger": 0.245853
+      },
+      "count": 1
+    },
+    {
+      "text": "Cover",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.563264,
+      "emotion": {
+        "sadness": 0.288503,
+        "joy": 0.221476,
+        "fear": 0.043612,
+        "disgust": 0.224488,
+        "anger": 0.245853
+      },
+      "count": 1
+    },
+    {
+      "text": "Lena Dunham",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.441756,
+      "emotion": {
+        "sadness": 0.288503,
+        "joy": 0.221476,
+        "fear": 0.043612,
+        "disgust": 0.224488,
+        "anger": 0.245853
+      },
+      "count": 1
+    },
+    {
+      "text": "Fianc\u00e9e Kim Kardashian",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.220969,
+      "emotion": {
+        "sadness": 0.288503,
+        "joy": 0.221476,
+        "fear": 0.043612,
+        "disgust": 0.224488,
+        "anger": 0.245853
+      },
+      "count": 1
+    },
+    {
+      "text": "Girl' Fight",
+      "sentiment": {
+        "score": -0.989448,
+        "label": "negative"
+      },
+      "relevance": 0.214994,
+      "emotion": {
+        "sadness": 0.158562,
+        "joy": 0.254532,
+        "fear": 0.139177,
+        "disgust": 0.390119,
+        "anger": 0.21796
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anna Wintour",
+      "sentiment": {
+        "score": 0.365959,
+        "label": "positive"
+      },
+      "relevance": 0.92913,
+      "mentions": [
+        {
+          "text": "Anna Wintour",
+          "location": [
+            35,
+            47
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201143,
+        "joy": 0.231333,
+        "fear": 0.053604,
+        "disgust": 0.150642,
+        "anger": 0.197297
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist"
+        ],
+        "name": "Anna Wintour",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Lena Dunham",
+      "sentiment": {
+        "score": 0.365959,
+        "label": "positive"
+      },
+      "relevance": 0.896408,
+      "mentions": [
+        {
+          "text": "Lena Dunham",
+          "location": [
+            61,
+            72
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201143,
+        "joy": 0.231333,
+        "fear": 0.053604,
+        "disgust": 0.150642,
+        "anger": 0.197297
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lena Dunham",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lena_Dunham"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.365959,
+        "label": "positive"
+      },
+      "relevance": 0.847498,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            14,
+            24
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201143,
+        "joy": 0.231333,
+        "fear": 0.053604,
+        "disgust": 0.150642,
+        "anger": 0.197297
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.565131,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            109,
+            123
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.44631,
+        "joy": 0.124508,
+        "fear": 0.070728,
+        "disgust": 0.258738,
+        "anger": 0.17439
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Anna Wintour",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+      "text": "Vogue",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+      "text": "Lauren Weisberger",
+      "relevance": 0.860816,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lauren_Weisberger"
+    },
+    {
+      "text": "The Devil Wears Prada",
+      "relevance": 0.812123,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Devil_Wears_Prada_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.788869,
+      "label": "/business and industrial/fashion industry"
+    }
+  ]
+}

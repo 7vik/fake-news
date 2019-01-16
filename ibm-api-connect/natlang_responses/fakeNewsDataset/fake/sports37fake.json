@@ -1,0 +1,315 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 517,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.742386,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "tight end Jason Witten",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.990014,
+      "emotion": {
+        "sadness": 0.406396,
+        "joy": 0.207458,
+        "fear": 0.082447,
+        "disgust": 0.144759,
+        "anger": 0.209994
+      },
+      "count": 1
+    },
+    {
+      "text": "Dallas",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.705644,
+      "emotion": {
+        "sadness": 0.406396,
+        "joy": 0.207458,
+        "fear": 0.082447,
+        "disgust": 0.144759,
+        "anger": 0.209994
+      },
+      "count": 2
+    },
+    {
+      "text": "special teams",
+      "sentiment": {
+        "score": 0.80477,
+        "label": "positive"
+      },
+      "relevance": 0.610418,
+      "emotion": {
+        "sadness": 0.105675,
+        "joy": 0.794774,
+        "fear": 0.025902,
+        "disgust": 0.006569,
+        "anger": 0.041086
+      },
+      "count": 1
+    },
+    {
+      "text": "windy city",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582864,
+      "emotion": {
+        "sadness": 0.406396,
+        "joy": 0.207458,
+        "fear": 0.082447,
+        "disgust": 0.144759,
+        "anger": 0.209994
+      },
+      "count": 1
+    },
+    {
+      "text": "Witten",
+      "sentiment": {
+        "score": 0.6745,
+        "label": "positive"
+      },
+      "relevance": 0.565149,
+      "emotion": {
+        "sadness": 0.068167,
+        "joy": 0.844655,
+        "fear": 0.012696,
+        "disgust": 0.020111,
+        "anger": 0.060194
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jason Witten",
+      "sentiment": {
+        "score": 0.431415,
+        "label": "positive"
+      },
+      "relevance": 0.820205,
+      "mentions": [
+        {
+          "text": "Jason Witten",
+          "location": [
+            17,
+            29
+          ]
+        },
+        {
+          "text": "Witten",
+          "location": [
+            119,
+            125
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            170,
+            172
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            190,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110126,
+        "joy": 0.7442,
+        "fear": 0.027896,
+        "disgust": 0.039027,
+        "anger": 0.078584
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Jason Witten",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jason_Witten"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Rony Gonzalez",
+      "sentiment": {
+        "score": 0.659735,
+        "label": "positive"
+      },
+      "relevance": 0.585143,
+      "mentions": [
+        {
+          "text": "Rony Gonzalez",
+          "location": [
+            309,
+            322
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            334,
+            336
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            428,
+            430
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            439,
+            441
+          ]
+        },
+        {
+          "text": "a perfect fit",
+          "location": [
+            450,
+            463
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.093824,
+        "joy": 0.797727,
+        "fear": 0.012294,
+        "disgust": 0.012295,
+        "anger": 0.066276
+      },
+      "count": 5
+    },
+    {
+      "type": "Organization",
+      "text": "Chicago Bears",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.445951,
+      "mentions": [
+        {
+          "text": "Chicago Bears",
+          "location": [
+            104,
+            117
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.406396,
+        "joy": 0.207458,
+        "fear": 0.082447,
+        "disgust": 0.144759,
+        "anger": 0.209994
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "FootballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Chicago Bears",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chicago_Bears"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Dallas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.429977,
+      "mentions": [
+        {
+          "text": "Dallas",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Dallas",
+          "location": [
+            51,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.371387,
+        "joy": 0.243849,
+        "fear": 0.068537,
+        "disgust": 0.153872,
+        "anger": 0.235855
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Dallas",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dallas"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American football",
+      "relevance": 0.976797,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_football"
+    },
+    {
+      "text": "American football positions",
+      "relevance": 0.727939,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_football_positions"
+    },
+    {
+      "text": "Chicago",
+      "relevance": 0.574702,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.572055,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Linebacker",
+      "relevance": 0.505901,
+      "dbpedia_resource": "http://dbpedia.org/resource/Linebacker"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.836215,
+      "label": "/sports/football"
+    }
+  ]
+}

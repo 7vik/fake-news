@@ -1,0 +1,285 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1669,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.513832,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": -0.47653,
+        "label": "negative"
+      },
+      "relevance": 0.827309,
+      "emotion": {
+        "sadness": 0.066749,
+        "joy": 0.741927,
+        "fear": 0.080245,
+        "disgust": 0.073985,
+        "anger": 0.048991
+      },
+      "count": 2
+    },
+    {
+      "text": "Music Video Teaser",
+      "sentiment": {
+        "score": -0.90033,
+        "label": "negative"
+      },
+      "relevance": 0.731248,
+      "emotion": {
+        "sadness": 0.055754,
+        "joy": 0.523492,
+        "fear": 0.048427,
+        "disgust": 0.048185,
+        "anger": 0.042678
+      },
+      "count": 1
+    },
+    {
+      "text": "15-second teaser",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.686494,
+      "emotion": {
+        "sadness": 0.046085,
+        "joy": 0.811499,
+        "fear": 0.061523,
+        "disgust": 0.0346,
+        "anger": 0.042212
+      },
+      "count": 1
+    },
+    {
+      "text": "Billboard Hot",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.665459,
+      "emotion": {
+        "sadness": 0.110697,
+        "joy": 0.815308,
+        "fear": 0.064465,
+        "disgust": 0.003733,
+        "anger": 0.020544
+      },
+      "count": 1
+    },
+    {
+      "text": "social media accounts",
+      "sentiment": {
+        "score": -0.774932,
+        "label": "negative"
+      },
+      "relevance": 0.652837,
+      "emotion": {
+        "sadness": 0.171792,
+        "joy": 0.532487,
+        "fear": 0.042395,
+        "disgust": 0.070433,
+        "anger": 0.043968
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.777121,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Taylor Swift",
+          "location": [
+            126,
+            138
+          ]
+        },
+        {
+          "text": "Swift",
+          "location": [
+            1065,
+            1070
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13064,
+        "joy": 0.673943,
+        "fear": 0.063781,
+        "disgust": 0.121325,
+        "anger": 0.034187
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Us Weekly",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.353647,
+      "mentions": [
+        {
+          "text": "Us Weekly",
+          "location": [
+            1262,
+            1271
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.264253,
+        "joy": 0.149025,
+        "fear": 0.147061,
+        "disgust": 0.003281,
+        "anger": 0.107034
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "Us Weekly",
+        "dbpedia_resource": "http://dbpedia.org/resource/Us_Weekly"
+      },
+      "count": 1
+    },
+    {
+      "type": "Award",
+      "text": "Grammy",
+      "sentiment": {
+        "score": 0.247216,
+        "label": "positive"
+      },
+      "relevance": 0.333421,
+      "mentions": [
+        {
+          "text": "Grammy",
+          "location": [
+            260,
+            266
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.081018,
+        "joy": 0.382301,
+        "fear": 0.09154,
+        "disgust": 0.141001,
+        "anger": 0.124582
+      },
+      "disambiguation": {
+        "subtype": [
+          "EntertainmentAward"
+        ],
+        "name": "Grammy Award",
+        "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.317178,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            1349,
+            1359
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.292919,
+        "joy": 0.167814,
+        "fear": 0.052781,
+        "disgust": 0.085378,
+        "anger": 0.122689
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Grammy Award for Song of the Year",
+      "relevance": 0.960016,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_for_Song_of_the_Year"
+    },
+    {
+      "text": "Grammy Award for Album of the Year",
+      "relevance": 0.94898,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_for_Album_of_the_Year"
+    },
+    {
+      "text": "Grammy Award for Record of the Year",
+      "relevance": 0.851076,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_for_Record_of_the_Year"
+    },
+    {
+      "text": "Grammy Award",
+      "relevance": 0.769719,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award"
+    },
+    {
+      "text": "U2",
+      "relevance": 0.762371,
+      "dbpedia_resource": "http://dbpedia.org/resource/U2"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.944717,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

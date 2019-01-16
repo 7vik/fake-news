@@ -1,0 +1,331 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 530,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.778007,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rhona GRaff",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.926116,
+      "emotion": {
+        "sadness": 0.253202,
+        "joy": 0.297619,
+        "fear": 0.048813,
+        "disgust": 0.127068,
+        "anger": 0.149204
+      },
+      "count": 1
+    },
+    {
+      "text": "Ken Langone",
+      "sentiment": {
+        "score": 0.913577,
+        "label": "positive"
+      },
+      "relevance": 0.841401,
+      "emotion": {
+        "sadness": 0.016443,
+        "joy": 0.843377,
+        "fear": 0.030595,
+        "disgust": 0.10218,
+        "anger": 0.031855
+      },
+      "count": 1
+    },
+    {
+      "text": "powerful New York business folks",
+      "sentiment": {
+        "score": 0.912537,
+        "label": "positive"
+      },
+      "relevance": 0.803981,
+      "emotion": {
+        "sadness": 0.321312,
+        "joy": 0.360496,
+        "fear": 0.103609,
+        "disgust": 0.030066,
+        "anger": 0.102057
+      },
+      "count": 1
+    },
+    {
+      "text": "revelation",
+      "sentiment": {
+        "score": 0.912537,
+        "label": "positive"
+      },
+      "relevance": 0.616774,
+      "emotion": {
+        "sadness": 0.321312,
+        "joy": 0.360496,
+        "fear": 0.103609,
+        "disgust": 0.030066,
+        "anger": 0.102057
+      },
+      "count": 1
+    },
+    {
+      "text": "longtime Trump associate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.608891,
+      "emotion": {
+        "sadness": 0.253202,
+        "joy": 0.297619,
+        "fear": 0.048813,
+        "disgust": 0.127068,
+        "anger": 0.149204
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rhona GRaff",
+      "sentiment": {
+        "score": 0.590363,
+        "label": "positive"
+      },
+      "relevance": 0.869839,
+      "mentions": [
+        {
+          "text": "Rhona GRaff",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Rhona",
+          "location": [
+            87,
+            92
+          ]
+        },
+        {
+          "text": "Rhona",
+          "location": [
+            312,
+            317
+          ]
+        },
+        {
+          "text": "Rhona",
+          "location": [
+            418,
+            423
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.059012,
+        "joy": 0.877389,
+        "fear": 0.012427,
+        "disgust": 0.021623,
+        "anger": 0.026662
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Ken Langone",
+      "sentiment": {
+        "score": 0.619075,
+        "label": "positive"
+      },
+      "relevance": 0.355123,
+      "mentions": [
+        {
+          "text": "Ken Langone",
+          "location": [
+            376,
+            387
+          ]
+        },
+        {
+          "text": "a wonderful woman",
+          "location": [
+            427,
+            444
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            467,
+            470
+          ]
+        },
+        {
+          "text": "a woman",
+          "location": [
+            474,
+            481
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.406134,
+        "joy": 0.407649,
+        "fear": 0.013356,
+        "disgust": 0.052895,
+        "anger": 0.091206
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember"
+        ],
+        "name": "Kenneth Langone",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kenneth_Langone"
+      },
+      "count": 4
+    },
+    {
+      "type": "Facility",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.800046,
+        "label": "positive"
+      },
+      "relevance": 0.299273,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            74,
+            85
+          ]
+        },
+        {
+          "text": "White House",
+          "location": [
+            516,
+            527
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.039947,
+        "joy": 0.805965,
+        "fear": 0.035583,
+        "disgust": 0.0768,
+        "anger": 0.050691
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.762654,
+        "label": "positive"
+      },
+      "relevance": 0.288047,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            22,
+            27
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.010199,
+        "joy": 0.862794,
+        "fear": 0.040545,
+        "disgust": 0.073723,
+        "anger": 0.028359
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.201193,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            156,
+            161
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            187,
+            190
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            197,
+            206
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "White House",
+      "relevance": 0.952306,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    },
+    {
+      "text": "Washington, D.C.",
+      "relevance": 0.844976,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.830811,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Franklin D. Roosevelt",
+      "relevance": 0.82333,
+      "dbpedia_resource": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.801298,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.569109,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

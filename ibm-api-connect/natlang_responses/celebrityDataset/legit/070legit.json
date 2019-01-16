@@ -1,0 +1,367 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1133,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.613088,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "executive producer Andy Lassner",
+      "sentiment": {
+        "score": -0.693832,
+        "label": "negative"
+      },
+      "relevance": 0.848905,
+      "emotion": {
+        "sadness": 0.055006,
+        "joy": 0.466334,
+        "fear": 0.514446,
+        "disgust": 0.041022,
+        "anger": 0.017295
+      },
+      "count": 1
+    },
+    {
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": -0.693832,
+        "label": "negative"
+      },
+      "relevance": 0.839679,
+      "emotion": {
+        "sadness": 0.070646,
+        "joy": 0.43327,
+        "fear": 0.528137,
+        "disgust": 0.044492,
+        "anger": 0.025235
+      },
+      "count": 2
+    },
+    {
+      "text": "haunted house",
+      "sentiment": {
+        "score": -0.693832,
+        "label": "negative"
+      },
+      "relevance": 0.784606,
+      "emotion": {
+        "sadness": 0.183267,
+        "joy": 0.419084,
+        "fear": 0.428985,
+        "disgust": 0.060995,
+        "anger": 0.036964
+      },
+      "count": 2
+    },
+    {
+      "text": "time of\u00a0year",
+      "sentiment": {
+        "score": -0.693832,
+        "label": "negative"
+      },
+      "relevance": 0.748471,
+      "emotion": {
+        "sadness": 0.055006,
+        "joy": 0.466334,
+        "fear": 0.514446,
+        "disgust": 0.041022,
+        "anger": 0.017295
+      },
+      "count": 1
+    },
+    {
+      "text": "good scare",
+      "sentiment": {
+        "score": -0.693832,
+        "label": "negative"
+      },
+      "relevance": 0.633391,
+      "emotion": {
+        "sadness": 0.055006,
+        "joy": 0.466334,
+        "fear": 0.514446,
+        "disgust": 0.041022,
+        "anger": 0.017295
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ellen DeGeneres",
+      "sentiment": {
+        "score": 0.430736,
+        "label": "positive"
+      },
+      "relevance": 0.941197,
+      "mentions": [
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            113,
+            128
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            187,
+            190
+          ]
+        },
+        {
+          "text": "Ellen DeGeneres",
+          "location": [
+            317,
+            332
+          ]
+        },
+        {
+          "text": "DeGeneres",
+          "location": [
+            475,
+            484
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.148879,
+        "joy": 0.181224,
+        "fear": 0.680575,
+        "disgust": 0.093507,
+        "anger": 0.060634
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "DietFollower",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Ellen DeGeneres",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Andy Lassner",
+      "sentiment": {
+        "score": 0.289749,
+        "label": "positive"
+      },
+      "relevance": 0.895747,
+      "mentions": [
+        {
+          "text": "Andy Lassner",
+          "location": [
+            220,
+            232
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            260,
+            263
+          ]
+        },
+        {
+          "text": "Andy",
+          "location": [
+            352,
+            356
+          ]
+        },
+        {
+          "text": "Andy",
+          "location": [
+            588,
+            592
+          ]
+        },
+        {
+          "text": "Andy",
+          "location": [
+            927,
+            931
+          ]
+        },
+        {
+          "text": "Andy",
+          "location": [
+            1076,
+            1080
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.182777,
+        "joy": 0.233214,
+        "fear": 0.475261,
+        "disgust": 0.222372,
+        "anger": 0.069115
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Jacqueline",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.679041,
+      "mentions": [
+        {
+          "text": "Jacqueline",
+          "location": [
+            375,
+            385
+          ]
+        },
+        {
+          "text": "Jacqueline",
+          "location": [
+            668,
+            678
+          ]
+        },
+        {
+          "text": "Jacqueline",
+          "location": [
+            977,
+            987
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            1013,
+            1016
+          ]
+        },
+        {
+          "text": "Jacqueline",
+          "location": [
+            1085,
+            1095
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 5
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive producer",
+      "sentiment": {
+        "score": 0.467747,
+        "label": "positive"
+      },
+      "relevance": 0.255651,
+      "mentions": [
+        {
+          "text": "executive producer",
+          "location": [
+            201,
+            219
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.039145,
+        "joy": 0.836671,
+        "fear": 0.019811,
+        "disgust": 0.031417,
+        "anger": 0.04256
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "producer",
+      "sentiment": {
+        "score": -0.334142,
+        "label": "negative"
+      },
+      "relevance": 0.24442,
+      "mentions": [
+        {
+          "text": "producer",
+          "location": [
+            26,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18554,
+        "joy": 0.288589,
+        "fear": 0.164738,
+        "disgust": 0.063675,
+        "anger": 0.129421
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ellen DeGeneres",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    },
+    {
+      "text": "Coming out",
+      "relevance": 0.841585,
+      "dbpedia_resource": "http://dbpedia.org/resource/Coming_out"
+    },
+    {
+      "text": "Horror and terror",
+      "relevance": 0.797311,
+      "dbpedia_resource": "http://dbpedia.org/resource/Horror_and_terror"
+    },
+    {
+      "text": "Haunted house",
+      "relevance": 0.781767,
+      "dbpedia_resource": "http://dbpedia.org/resource/Haunted_house"
+    },
+    {
+      "text": "Fear",
+      "relevance": 0.765108,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fear"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.750429,
+      "label": "/art and entertainment/movies and tv/horror"
+    }
+  ]
+}

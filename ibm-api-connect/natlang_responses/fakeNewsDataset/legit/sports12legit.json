@@ -1,0 +1,250 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 716,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.780207,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "amateur sport",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.819757,
+      "emotion": {
+        "sadness": 0.313124,
+        "joy": 0.102482,
+        "fear": 0.163294,
+        "disgust": 0.092819,
+        "anger": 0.205641
+      },
+      "count": 2
+    },
+    {
+      "text": "UK Anti-Doping",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78987,
+      "emotion": {
+        "sadness": 0.238211,
+        "joy": 0.114854,
+        "fear": 0.277655,
+        "disgust": 0.323772,
+        "anger": 0.319501
+      },
+      "count": 1
+    },
+    {
+      "text": "Drug use",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.715987,
+      "emotion": {
+        "sadness": 0.275685,
+        "joy": 0.077364,
+        "fear": 0.354205,
+        "disgust": 0.280508,
+        "anger": 0.289269
+      },
+      "count": 2
+    },
+    {
+      "text": "BBC poll",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.698759,
+      "emotion": {
+        "sadness": 0.238211,
+        "joy": 0.114854,
+        "fear": 0.277655,
+        "disgust": 0.323772,
+        "anger": 0.319501
+      },
+      "count": 1
+    },
+    {
+      "text": "level of sport",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.685939,
+      "emotion": {
+        "sadness": 0.238211,
+        "joy": 0.114854,
+        "fear": 0.277655,
+        "disgust": 0.323772,
+        "anger": 0.319501
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": -0.249812,
+        "label": "negative"
+      },
+      "relevance": 0.852013,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            125,
+            127
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            572,
+            574
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.16193,
+        "joy": 0.312958,
+        "fear": 0.105822,
+        "disgust": 0.214091,
+        "anger": 0.228937
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "BBC",
+      "sentiment": {
+        "score": -0.227039,
+        "label": "negative"
+      },
+      "relevance": 0.742206,
+      "mentions": [
+        {
+          "text": "BBC",
+          "location": [
+            158,
+            161
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17762,
+        "joy": 0.211028,
+        "fear": 0.057911,
+        "disgust": 0.156842,
+        "anger": 0.271457
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "Broadcast",
+          "PeriodicalPublisher",
+          "ProductionCompany",
+          "TVNetwork",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalArtist",
+          "TVProducer"
+        ],
+        "name": "BBC",
+        "dbpedia_resource": "http://dbpedia.org/resource/BBC"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Nicole Sapstead",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.681533,
+      "mentions": [
+        {
+          "text": "Nicole Sapstead",
+          "location": [
+            458,
+            473
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.532905,
+        "joy": 0.095631,
+        "fear": 0.219017,
+        "disgust": 0.14763,
+        "anger": 0.113325
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "35%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.681533,
+      "mentions": [
+        {
+          "text": "35%",
+          "location": [
+            225,
+            228
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "49%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.681533,
+      "mentions": [
+        {
+          "text": "49%",
+          "location": [
+            605,
+            608
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.907784,
+      "label": "/sports/olympics"
+    }
+  ]
+}

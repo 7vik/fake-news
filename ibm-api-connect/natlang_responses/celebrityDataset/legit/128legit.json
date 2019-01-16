@@ -1,0 +1,134 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 68,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.920248,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.920248,
+        "label": "negative"
+      },
+      "relevance": 0.997693,
+      "emotion": {
+        "sadness": 0.086598,
+        "joy": 0.427153,
+        "fear": 0.028662,
+        "disgust": 0.248218,
+        "anger": 0.296126
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.920248,
+        "label": "negative"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.086598,
+        "joy": 0.427153,
+        "fear": 0.028662,
+        "disgust": 0.248218,
+        "anger": 0.296126
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            28,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.07971,
+        "joy": 0.469852,
+        "fear": 0.036515,
+        "disgust": 0.231469,
+        "anger": 0.277623
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            52,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.086598,
+        "joy": 0.427153,
+        "fear": 0.028662,
+        "disgust": 0.248218,
+        "anger": 0.296126
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.836131,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

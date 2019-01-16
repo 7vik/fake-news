@@ -1,0 +1,319 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 964,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.378472,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West Wants",
+      "sentiment": {
+        "score": 0.407178,
+        "label": "positive"
+      },
+      "relevance": 0.928913,
+      "emotion": {
+        "sadness": 0.240467,
+        "joy": 0.305745,
+        "fear": 0.041229,
+        "disgust": 0.106409,
+        "anger": 0.140008
+      },
+      "count": 1
+    },
+    {
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.407178,
+        "label": "positive"
+      },
+      "relevance": 0.704959,
+      "emotion": {
+        "sadness": 0.185321,
+        "joy": 0.292306,
+        "fear": 0.079399,
+        "disgust": 0.074953,
+        "anger": 0.173725
+      },
+      "count": 1
+    },
+    {
+      "text": "DONDA brand makeup",
+      "sentiment": {
+        "score": 0.407178,
+        "label": "positive"
+      },
+      "relevance": 0.669105,
+      "emotion": {
+        "sadness": 0.185321,
+        "joy": 0.292306,
+        "fear": 0.079399,
+        "disgust": 0.074953,
+        "anger": 0.173725
+      },
+      "count": 1
+    },
+    {
+      "text": "Kanye's beloved mom",
+      "sentiment": {
+        "score": -0.872288,
+        "label": "negative"
+      },
+      "relevance": 0.631141,
+      "emotion": {
+        "sadness": 0.827313,
+        "joy": 0.160604,
+        "fear": 0.010115,
+        "disgust": 0.017567,
+        "anger": 0.014868
+      },
+      "count": 1
+    },
+    {
+      "text": "credit cards",
+      "sentiment": {
+        "score": 0.908828,
+        "label": "positive"
+      },
+      "relevance": 0.629227,
+      "emotion": {
+        "sadness": 0.035646,
+        "joy": 0.768656,
+        "fear": 0.057518,
+        "disgust": 0.067631,
+        "anger": 0.104428
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.122035,
+        "label": "positive"
+      },
+      "relevance": 0.786785,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            56,
+            66
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            332,
+            337
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            718,
+            723
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.173857,
+        "joy": 0.422357,
+        "fear": 0.068624,
+        "disgust": 0.137533,
+        "anger": 0.144334
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Jenner.Kanye",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.531627,
+      "mentions": [
+        {
+          "text": "Kylie",
+          "location": [
+            50,
+            55
+          ]
+        },
+        {
+          "text": "Kylie Jenner.Kanye",
+          "location": [
+            179,
+            197
+          ]
+        },
+        {
+          "text": "Kylie",
+          "location": [
+            427,
+            432
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.240467,
+        "joy": 0.305745,
+        "fear": 0.041229,
+        "disgust": 0.106409,
+        "anger": 0.140008
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Donda",
+      "sentiment": {
+        "score": 0.485318,
+        "label": "positive"
+      },
+      "relevance": 0.294106,
+      "mentions": [
+        {
+          "text": "Donda",
+          "location": [
+            311,
+            316
+          ]
+        },
+        {
+          "text": "beloved mom",
+          "location": [
+            340,
+            351
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            638,
+            640
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.870643,
+        "joy": 0.12064,
+        "fear": 0.009492,
+        "disgust": 0.024941,
+        "anger": 0.010842
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "DONDA",
+      "sentiment": {
+        "score": -0.241247,
+        "label": "negative"
+      },
+      "relevance": 0.272839,
+      "emotion": {
+        "sadness": 0.087189,
+        "joy": 0.653449,
+        "fear": 0.035184,
+        "disgust": 0.040868,
+        "anger": 0.145233
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Martha Stewart",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.258763,
+      "mentions": [
+        {
+          "text": "Martha Stewart",
+          "location": [
+            744,
+            758
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "TVActor"
+        ],
+        "name": "Martha Stewart",
+        "dbpedia_resource": "http://dbpedia.org/resource/Martha_Stewart"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cosmetics",
+      "relevance": 0.957094,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cosmetics"
+    },
+    {
+      "text": "Family",
+      "relevance": 0.669774,
+      "dbpedia_resource": "http://dbpedia.org/resource/Family"
+    },
+    {
+      "text": "Perfume",
+      "relevance": 0.639516,
+      "dbpedia_resource": "http://dbpedia.org/resource/Perfume"
+    },
+    {
+      "text": "2009 MTV Video Music Awards",
+      "relevance": 0.582939,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "2008 MTV Video Music Awards",
+      "relevance": 0.564566,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_MTV_Video_Music_Awards"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999825,
+      "label": "/style and fashion/beauty/cosmetics"
+    }
+  ]
+}

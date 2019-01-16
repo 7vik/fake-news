@@ -1,0 +1,164 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.748573,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.748573,
+        "label": "negative"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.182969,
+        "joy": 0.480973,
+        "fear": 0.044268,
+        "disgust": 0.087522,
+        "anger": 0.150028
+      },
+      "count": 1
+    },
+    {
+      "text": "Melania Trump",
+      "sentiment": {
+        "score": -0.748573,
+        "label": "negative"
+      },
+      "relevance": 0.974368,
+      "emotion": {
+        "sadness": 0.182969,
+        "joy": 0.480973,
+        "fear": 0.044268,
+        "disgust": 0.087522,
+        "anger": 0.150028
+      },
+      "count": 1
+    },
+    {
+      "text": "Breakdown",
+      "sentiment": {
+        "score": -0.748573,
+        "label": "negative"
+      },
+      "relevance": 0.564564,
+      "emotion": {
+        "sadness": 0.182969,
+        "joy": 0.480973,
+        "fear": 0.044268,
+        "disgust": 0.087522,
+        "anger": 0.150028
+      },
+      "count": 1
+    },
+    {
+      "text": "Inauguration Day",
+      "sentiment": {
+        "score": -0.748573,
+        "label": "negative"
+      },
+      "relevance": 0.294616,
+      "emotion": {
+        "sadness": 0.182969,
+        "joy": 0.480973,
+        "fear": 0.044268,
+        "disgust": 0.087522,
+        "anger": 0.150028
+      },
+      "count": 1
+    },
+    {
+      "text": "Looks",
+      "sentiment": {
+        "score": -0.748573,
+        "label": "negative"
+      },
+      "relevance": 0.061676,
+      "emotion": {
+        "sadness": 0.182969,
+        "joy": 0.480973,
+        "fear": 0.044268,
+        "disgust": 0.087522,
+        "anger": 0.150028
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.182969,
+        "joy": 0.480973,
+        "fear": 0.044268,
+        "disgust": 0.087522,
+        "anger": 0.150028
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Melania Trump",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Melania_Trump"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.845157,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Aflac",
+      "relevance": 0.711045,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aflac"
+    },
+    {
+      "text": "Trump family",
+      "relevance": 0.697505,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_family"
+    },
+    {
+      "text": "Sampling",
+      "relevance": 0.677321,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sampling_(music)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.573153,
+      "label": "/art and entertainment/visual art and design/design"
+    }
+  ]
+}

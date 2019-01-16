@@ -1,0 +1,168 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.679214,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0.679214,
+        "label": "positive"
+      },
+      "relevance": 0.992453,
+      "emotion": {
+        "sadness": 0.14753,
+        "joy": 0.500208,
+        "fear": 0.034072,
+        "disgust": 0.153817,
+        "anger": 0.105114
+      },
+      "count": 1
+    },
+    {
+      "text": "Anna Faris",
+      "sentiment": {
+        "score": 0.679214,
+        "label": "positive"
+      },
+      "relevance": 0.230065,
+      "emotion": {
+        "sadness": 0.14753,
+        "joy": 0.500208,
+        "fear": 0.034072,
+        "disgust": 0.153817,
+        "anger": 0.105114
+      },
+      "count": 1
+    },
+    {
+      "text": "Theater Kid",
+      "sentiment": {
+        "score": 0.679214,
+        "label": "positive"
+      },
+      "relevance": 0.024818,
+      "emotion": {
+        "sadness": 0.14753,
+        "joy": 0.500208,
+        "fear": 0.034072,
+        "disgust": 0.153817,
+        "anger": 0.105114
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chris Pratt",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Chris Pratt",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.14753,
+        "joy": 0.500208,
+        "fear": 0.034072,
+        "disgust": 0.153817,
+        "anger": 0.105114
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Chris Pratt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Anna Faris",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anna Faris",
+          "location": [
+            16,
+            26
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.14753,
+        "joy": 0.500208,
+        "fear": 0.034072,
+        "disgust": 0.153817,
+        "anger": 0.105114
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Anna Faris",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Anna Faris",
+      "relevance": 0.94772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Anna_Faris"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.805121,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Chris Pratt",
+      "relevance": 0.610961,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chris_Pratt"
+    },
+    {
+      "text": "American television actors",
+      "relevance": 0.610233,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.608397,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

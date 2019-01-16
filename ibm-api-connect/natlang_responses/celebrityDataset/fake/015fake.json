@@ -1,0 +1,348 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1428,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.70302,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.834749,
+        "label": "negative"
+      },
+      "relevance": 0.854681,
+      "emotion": {
+        "sadness": 0.231218,
+        "joy": 0.654062,
+        "fear": 0.014993,
+        "disgust": 0.098601,
+        "anger": 0.034553
+      },
+      "count": 2
+    },
+    {
+      "text": "American Idol' Reboot",
+      "sentiment": {
+        "score": -0.96665,
+        "label": "negative"
+      },
+      "relevance": 0.755107,
+      "emotion": {
+        "sadness": 0.41388,
+        "joy": 0.078821,
+        "fear": 0.068101,
+        "disgust": 0.300319,
+        "anger": 0.241559
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.265854,
+        "label": "negative"
+      },
+      "relevance": 0.682522,
+      "emotion": {
+        "sadness": 0.445103,
+        "joy": 0.305885,
+        "fear": 0.038205,
+        "disgust": 0.090825,
+        "anger": 0.145746
+      },
+      "count": 1
+    },
+    {
+      "text": "potential judge",
+      "sentiment": {
+        "score": -0.654215,
+        "label": "negative"
+      },
+      "relevance": 0.672491,
+      "emotion": {
+        "sadness": 0.227123,
+        "joy": 0.686733,
+        "fear": 0.018299,
+        "disgust": 0.066815,
+        "anger": 0.019225
+      },
+      "count": 1
+    },
+    {
+      "text": "American Idol",
+      "sentiment": {
+        "score": -0.654215,
+        "label": "negative"
+      },
+      "relevance": 0.649686,
+      "emotion": {
+        "sadness": 0.231218,
+        "joy": 0.654062,
+        "fear": 0.014993,
+        "disgust": 0.098601,
+        "anger": 0.034553
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.11921,
+        "label": "negative"
+      },
+      "relevance": 0.890839,
+      "mentions": [
+        {
+          "text": "Kanye West",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Kanye West",
+          "location": [
+            186,
+            196
+          ]
+        },
+        {
+          "text": "West",
+          "location": [
+            752,
+            756
+          ]
+        },
+        {
+          "text": "Kanye",
+          "location": [
+            1262,
+            1267
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.341176,
+        "joy": 0.496645,
+        "fear": 0.021228,
+        "disgust": 0.127274,
+        "anger": 0.091388
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "American Idol",
+      "sentiment": {
+        "score": -0.478872,
+        "label": "negative"
+      },
+      "relevance": 0.700086,
+      "mentions": [
+        {
+          "text": "Idol",
+          "location": [
+            56,
+            60
+          ]
+        },
+        {
+          "text": "American Idol",
+          "location": [
+            133,
+            146
+          ]
+        },
+        {
+          "text": "Idol",
+          "location": [
+            1279,
+            1283
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            1418,
+            1420
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.33271,
+        "joy": 0.507853,
+        "fear": 0.025281,
+        "disgust": 0.115722,
+        "anger": 0.096087
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "NBC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.286984,
+      "mentions": [
+        {
+          "text": "NBC",
+          "location": [
+            407,
+            410
+          ]
+        },
+        {
+          "text": "NBC",
+          "location": [
+            676,
+            679
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.198352,
+        "joy": 0.499377,
+        "fear": 0.034355,
+        "disgust": 0.155871,
+        "anger": 0.102388
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Simon Cowell",
+      "sentiment": {
+        "score": 0.338611,
+        "label": "positive"
+      },
+      "relevance": 0.260429,
+      "mentions": [
+        {
+          "text": "Simon Cowell",
+          "location": [
+            801,
+            813
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            819,
+            821
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.060588,
+        "joy": 0.392448,
+        "fear": 0.208134,
+        "disgust": 0.001805,
+        "anger": 0.108105
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Simon Cowell",
+        "dbpedia_resource": "http://dbpedia.org/resource/Simon_Cowell"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.260154,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            1203,
+            1217
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            1247,
+            1250
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142918,
+        "joy": 0.164692,
+        "fear": 0.042038,
+        "disgust": 0.180404,
+        "anger": 0.075076
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.972832,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Simon Cowell",
+      "relevance": 0.966499,
+      "dbpedia_resource": "http://dbpedia.org/resource/Simon_Cowell"
+    },
+    {
+      "text": "American Idol",
+      "relevance": 0.911412,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_Idol"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.818872,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Jennifer Lopez",
+      "relevance": 0.786811,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.746151,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

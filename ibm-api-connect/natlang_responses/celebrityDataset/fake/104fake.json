@@ -1,0 +1,313 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 802,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.427691,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "OJ\u2019s Comeback Plan",
+      "sentiment": {
+        "score": -0.517697,
+        "label": "negative"
+      },
+      "relevance": 0.980713,
+      "emotion": {
+        "sadness": 0.061066,
+        "joy": 0.691657,
+        "fear": 0.027185,
+        "disgust": 0.022136,
+        "anger": 0.025262
+      },
+      "count": 1
+    },
+    {
+      "text": "top PR executive",
+      "sentiment": {
+        "score": -0.936751,
+        "label": "negative"
+      },
+      "relevance": 0.704411,
+      "emotion": {
+        "sadness": 0.383545,
+        "joy": 0.282663,
+        "fear": 0.1493,
+        "disgust": 0.017002,
+        "anger": 0.198213
+      },
+      "count": 1
+    },
+    {
+      "text": "Straight Shuter",
+      "sentiment": {
+        "score": -0.936751,
+        "label": "negative"
+      },
+      "relevance": 0.624133,
+      "emotion": {
+        "sadness": 0.383545,
+        "joy": 0.282663,
+        "fear": 0.1493,
+        "disgust": 0.017002,
+        "anger": 0.198213
+      },
+      "count": 1
+    },
+    {
+      "text": "place",
+      "sentiment": {
+        "score": 0.553586,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.565222,
+      "emotion": {
+        "sadness": 0.092106,
+        "joy": 0.804137,
+        "fear": 0.056316,
+        "disgust": 0.010153,
+        "anger": 0.049211
+      },
+      "count": 3
+    },
+    {
+      "text": "plan",
+      "sentiment": {
+        "score": 0.796264,
+        "label": "positive"
+      },
+      "relevance": 0.560263,
+      "emotion": {
+        "sadness": 0.045693,
+        "joy": 0.840722,
+        "fear": 0.058509,
+        "disgust": 0.030678,
+        "anger": 0.013689
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "OJ Simpson",
+      "sentiment": {
+        "score": 0.044249,
+        "label": "positive"
+      },
+      "relevance": 0.925103,
+      "mentions": [
+        {
+          "text": "OJ Simpson",
+          "location": [
+            57,
+            67
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            137,
+            139
+          ]
+        },
+        {
+          "text": "OJ",
+          "location": [
+            318,
+            320
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            393,
+            396
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            467,
+            469
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            536,
+            538
+          ]
+        },
+        {
+          "text": "OJ",
+          "location": [
+            679,
+            681
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            797,
+            800
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.192719,
+        "joy": 0.692621,
+        "fear": 0.137095,
+        "disgust": 0.055433,
+        "anger": 0.101566
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Criminal",
+          "FootballPlayer",
+          "HallOfFameInductee",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "O. J. Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+      },
+      "count": 8
+    },
+    {
+      "type": "TelevisionShow",
+      "text": "Dancing With The Stars",
+      "sentiment": {
+        "score": -0.379759,
+        "label": "negative"
+      },
+      "relevance": 0.347781,
+      "mentions": [
+        {
+          "text": "Dancing With The Stars",
+          "location": [
+            21,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.313686,
+        "joy": 0.063762,
+        "fear": 0.117762,
+        "disgust": 0.113244,
+        "anger": 0.189107
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Disney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.156073,
+      "mentions": [
+        {
+          "text": "Disney",
+          "location": [
+            755,
+            761
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "The Walt Disney Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Walt_Disney_Company"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.142736,
+      "emotion": {
+        "sadness": 0.235586,
+        "joy": 0.581401,
+        "fear": 0.099845,
+        "disgust": 0.009549,
+        "anger": 0.100652
+      },
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "football",
+      "sentiment": {
+        "score": 0.734607,
+        "label": "positive"
+      },
+      "relevance": 0.135499,
+      "mentions": [
+        {
+          "text": "football",
+          "location": [
+            218,
+            226
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.043204,
+        "joy": 0.893452,
+        "fear": 0.015311,
+        "disgust": 0.014644,
+        "anger": 0.005027
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Thought",
+      "relevance": 0.882291,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thought"
+    },
+    {
+      "text": "Tell",
+      "relevance": 0.781919,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tell"
+    },
+    {
+      "text": "O. J. Simpson",
+      "relevance": 0.76208,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.676432,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

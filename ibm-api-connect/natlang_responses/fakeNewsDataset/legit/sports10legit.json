@@ -1,0 +1,294 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1205,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.470692,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bernie Ecclestone",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.738314,
+      "emotion": {
+        "sadness": 0.12268,
+        "joy": 0.674015,
+        "fear": 0.083299,
+        "disgust": 0.137691,
+        "anger": 0.012652
+      },
+      "count": 2
+    },
+    {
+      "text": "swept aside",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.702931,
+      "emotion": {
+        "sadness": 0.325862,
+        "joy": 0.278277,
+        "fear": 0.183485,
+        "disgust": 0.101815,
+        "anger": 0.055818
+      },
+      "count": 1
+    },
+    {
+      "text": "season starts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.696951,
+      "emotion": {
+        "sadness": 0.136849,
+        "joy": 0.710667,
+        "fear": 0.111903,
+        "disgust": 0.047641,
+        "anger": 0.01441
+      },
+      "count": 1
+    },
+    {
+      "text": "inaugural race",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.690729,
+      "emotion": {
+        "sadness": 0.136849,
+        "joy": 0.710667,
+        "fear": 0.111903,
+        "disgust": 0.047641,
+        "anger": 0.01441
+      },
+      "count": 1
+    },
+    {
+      "text": "fourth year",
+      "sentiment": {
+        "score": 0.336239,
+        "label": "positive"
+      },
+      "relevance": 0.676557,
+      "emotion": {
+        "sadness": 0.077478,
+        "joy": 0.557178,
+        "fear": 0.068377,
+        "disgust": 0.02444,
+        "anger": 0.216569
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Bernie Ecclestone",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.833639,
+      "mentions": [
+        {
+          "text": "Bernie Ecclestone",
+          "location": [
+            3,
+            20
+          ]
+        },
+        {
+          "text": "Bernie Ecclestone",
+          "location": [
+            201,
+            218
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            258,
+            260
+          ]
+        },
+        {
+          "text": "Ecclestone",
+          "location": [
+            462,
+            472
+          ]
+        },
+        {
+          "text": "an outsize personality",
+          "location": [
+            482,
+            504
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168416,
+        "joy": 0.584127,
+        "fear": 0.104945,
+        "disgust": 0.136636,
+        "anger": 0.083127
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Bernie Ecclestone",
+        "dbpedia_resource": "http://dbpedia.org/resource/Bernie_Ecclestone"
+      },
+      "count": 5
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive vice chairman",
+      "sentiment": {
+        "score": -0.391591,
+        "label": "negative"
+      },
+      "relevance": 0.251368,
+      "mentions": [
+        {
+          "text": "executive vice chairman",
+          "location": [
+            893,
+            916
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168897,
+        "joy": 0.246922,
+        "fear": 0.175546,
+        "disgust": 0.103021,
+        "anger": 0.117483
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "chief executive",
+      "sentiment": {
+        "score": -0.391591,
+        "label": "negative"
+      },
+      "relevance": 0.239365,
+      "mentions": [
+        {
+          "text": "Fox",
+          "location": [
+            933,
+            936
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            952,
+            954
+          ]
+        },
+        {
+          "text": "chief executive",
+          "location": [
+            969,
+            984
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            1051,
+            1053
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.143375,
+        "joy": 0.394089,
+        "fear": 0.149396,
+        "disgust": 0.114833,
+        "anger": 0.154606
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Chase Carey",
+      "sentiment": {
+        "score": -0.391591,
+        "label": "negative"
+      },
+      "relevance": 0.183287,
+      "mentions": [
+        {
+          "text": "Chase Carey",
+          "location": [
+            869,
+            880
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168897,
+        "joy": 0.246922,
+        "fear": 0.175546,
+        "disgust": 0.103021,
+        "anger": 0.117483
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Chase Carey",
+        "dbpedia_resource": "http://dbpedia.org/resource/Chase_Carey"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "John C. Malone",
+      "relevance": 0.977791,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_C._Malone"
+    },
+    {
+      "text": "Formula One",
+      "relevance": 0.868265,
+      "dbpedia_resource": "http://dbpedia.org/resource/Formula_One"
+    },
+    {
+      "text": "Liberty Media",
+      "relevance": 0.83822,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liberty_Media"
+    },
+    {
+      "text": "News Corporation",
+      "relevance": 0.7464,
+      "dbpedia_resource": "http://dbpedia.org/resource/News_Corporation"
+    },
+    {
+      "text": "Liberty Global",
+      "relevance": 0.693462,
+      "dbpedia_resource": "http://dbpedia.org/resource/Liberty_Global"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.927492,
+      "label": "/automotive and vehicles/cars"
+    }
+  ]
+}

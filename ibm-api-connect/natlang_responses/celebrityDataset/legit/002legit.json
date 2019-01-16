@@ -1,0 +1,156 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999999,
+      "emotion": {
+        "sadness": 0.138134,
+        "joy": 0.235942,
+        "fear": 0.051465,
+        "disgust": 0.124234,
+        "anger": 0.110172
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.99075,
+      "emotion": {
+        "sadness": 0.138134,
+        "joy": 0.235942,
+        "fear": 0.051465,
+        "disgust": 0.124234,
+        "anger": 0.110172
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Brad Pitt",
+      "sentiment": {
+        "score": 0.911594,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Brad Pitt",
+          "location": [
+            13,
+            22
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.138134,
+        "joy": 0.235942,
+        "fear": 0.051465,
+        "disgust": 0.124234,
+        "anger": 0.110172
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Brad Pitt",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.911594,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            40,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.138134,
+        "joy": 0.235942,
+        "fear": 0.051465,
+        "disgust": 0.124234,
+        "anger": 0.110172
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.9867,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.824519,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.718467,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Rachel Green",
+      "relevance": 0.656116,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rachel_Green"
+    },
+    {
+      "text": "Abby Singer",
+      "relevance": 0.631243,
+      "dbpedia_resource": "http://dbpedia.org/resource/Abby_Singer_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.67437,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

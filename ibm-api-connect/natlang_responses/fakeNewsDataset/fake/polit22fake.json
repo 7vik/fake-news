@@ -1,0 +1,342 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 966,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.449197,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hillary Clinton Heads Wisconsin Recount",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.953776,
+      "emotion": {
+        "sadness": 0.331515,
+        "joy": 0.125293,
+        "fear": 0.108555,
+        "disgust": 0.159532,
+        "anger": 0.23953
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton's campaign",
+      "sentiment": {
+        "score": -0.780709,
+        "label": "negative"
+      },
+      "relevance": 0.800443,
+      "emotion": {
+        "sadness": 0.310769,
+        "joy": 0.409562,
+        "fear": 0.152381,
+        "disgust": 0.148643,
+        "anger": 0.041305
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.780709,
+        "label": "negative"
+      },
+      "relevance": 0.756771,
+      "emotion": {
+        "sadness": 0.127357,
+        "joy": 0.664774,
+        "fear": 0.043028,
+        "disgust": 0.195043,
+        "anger": 0.025108
+      },
+      "count": 2
+    },
+    {
+      "text": "Clinton campaign",
+      "sentiment": {
+        "score": 0.398777,
+        "label": "positive"
+      },
+      "relevance": 0.66084,
+      "emotion": {
+        "sadness": 0.134829,
+        "joy": 0.409656,
+        "fear": 0.154328,
+        "disgust": 0.227596,
+        "anger": 0.063338
+      },
+      "count": 1
+    },
+    {
+      "text": "main focus of Hillary Clinton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.652099,
+      "emotion": {
+        "sadness": 0.275391,
+        "joy": 0.388782,
+        "fear": 0.046335,
+        "disgust": 0.157387,
+        "anger": 0.018261
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.942144,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            0,
+            15
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            121,
+            136
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            226,
+            241
+          ]
+        },
+        {
+          "text": "overseer",
+          "location": [
+            250,
+            258
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            470,
+            485
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            506,
+            513
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            649,
+            664
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            834,
+            849
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213665,
+        "joy": 0.299011,
+        "fear": 0.10998,
+        "disgust": 0.175852,
+        "anger": 0.094572
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "president-elect Trump",
+      "sentiment": {
+        "score": 0.475221,
+        "label": "positive"
+      },
+      "relevance": 0.255387,
+      "mentions": [
+        {
+          "text": "president-elect Trump",
+          "location": [
+            607,
+            628
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            810,
+            822
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            885,
+            890
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152403,
+        "joy": 0.470587,
+        "fear": 0.13637,
+        "disgust": 0.230926,
+        "anger": 0.051946
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jill Stein",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194255,
+      "mentions": [
+        {
+          "text": "Jill Stein",
+          "location": [
+            59,
+            69
+          ]
+        },
+        {
+          "text": "Jill Stein",
+          "location": [
+            330,
+            340
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.169627,
+        "joy": 0.451295,
+        "fear": 0.092,
+        "disgust": 0.178565,
+        "anger": 0.07338
+      },
+      "disambiguation": {
+        "subtype": [
+          "Physician",
+          "Politician"
+        ],
+        "name": "Jill Stein",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jill_Stein"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Wisconsin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.120869,
+      "mentions": [
+        {
+          "text": "Wisconsin",
+          "location": [
+            22,
+            31
+          ]
+        },
+        {
+          "text": "Wisconsin",
+          "location": [
+            262,
+            271
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.169627,
+        "joy": 0.451295,
+        "fear": 0.092,
+        "disgust": 0.178565,
+        "anger": 0.07338
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Wisconsin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wisconsin"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.953308,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Elections",
+      "relevance": 0.841837,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elections"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.728762,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.715319,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.992839,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

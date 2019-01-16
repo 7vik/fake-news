@@ -1,0 +1,96 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.737001,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.737001,
+        "label": "positive"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.198467,
+        "joy": 0.359938,
+        "fear": 0.043872,
+        "disgust": 0.010075,
+        "anger": 0.144972
+      },
+      "count": 1
+    },
+    {
+      "text": "wellness centre",
+      "sentiment": {
+        "score": 0.737001,
+        "label": "positive"
+      },
+      "relevance": 0.011106,
+      "emotion": {
+        "sadness": 0.198467,
+        "joy": 0.359938,
+        "fear": 0.043872,
+        "disgust": 0.010075,
+        "anger": 0.144972
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.827555,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.198467,
+        "joy": 0.359938,
+        "fear": 0.043872,
+        "disgust": 0.010075,
+        "anger": 0.144972
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.621265,
+      "label": "/health and fitness"
+    }
+  ]
+}

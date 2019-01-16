@@ -1,0 +1,183 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 81,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.840223,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Blake Lively",
+      "sentiment": {
+        "score": 0.840223,
+        "label": "positive"
+      },
+      "relevance": 0.998941,
+      "emotion": {
+        "sadness": 0.097124,
+        "joy": 0.485754,
+        "fear": 0.043105,
+        "disgust": 0.179492,
+        "anger": 0.070924
+      },
+      "count": 1
+    },
+    {
+      "text": "Women",
+      "sentiment": {
+        "score": 0.840223,
+        "label": "positive"
+      },
+      "relevance": 0.676053,
+      "emotion": {
+        "sadness": 0.097124,
+        "joy": 0.485754,
+        "fear": 0.043105,
+        "disgust": 0.179492,
+        "anger": 0.070924
+      },
+      "count": 1
+    },
+    {
+      "text": "Hollywood",
+      "sentiment": {
+        "score": 0.840223,
+        "label": "positive"
+      },
+      "relevance": 0.651447,
+      "emotion": {
+        "sadness": 0.097124,
+        "joy": 0.485754,
+        "fear": 0.043105,
+        "disgust": 0.179492,
+        "anger": 0.070924
+      },
+      "count": 1
+    },
+    {
+      "text": "Gossip Girl\u2019 Reunion",
+      "sentiment": {
+        "score": 0.840223,
+        "label": "positive"
+      },
+      "relevance": 0.475786,
+      "emotion": {
+        "sadness": 0.097124,
+        "joy": 0.485754,
+        "fear": 0.043105,
+        "disgust": 0.179492,
+        "anger": 0.070924
+      },
+      "count": 1
+    },
+    {
+      "text": "Directing",
+      "sentiment": {
+        "score": 0.840223,
+        "label": "positive"
+      },
+      "relevance": 0.088655,
+      "emotion": {
+        "sadness": 0.097124,
+        "joy": 0.485754,
+        "fear": 0.043105,
+        "disgust": 0.179492,
+        "anger": 0.070924
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Blake Lively",
+      "sentiment": {
+        "score": 0.523217,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Blake Lively",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.173226,
+        "joy": 0.247265,
+        "fear": 0.068585,
+        "disgust": 0.220473,
+        "anger": 0.099542
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Lively",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Lively"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Hollywood",
+      "sentiment": {
+        "score": 0.523217,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Hollywood",
+          "location": [
+            25,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.173226,
+        "joy": 0.247265,
+        "fear": 0.068585,
+        "disgust": 0.220473,
+        "anger": 0.099542
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Blake Lively",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Blake_Lively"
+    },
+    {
+      "text": "Gossip Girl",
+      "relevance": 0.82944,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gossip_Girl_(TV_series)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.697292,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

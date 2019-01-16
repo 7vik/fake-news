@@ -1,0 +1,316 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 145,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.859156,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": -0.859156,
+        "label": "negative"
+      },
+      "relevance": 0.95488,
+      "emotion": {
+        "sadness": 0.237834,
+        "joy": 0.127059,
+        "fear": 0.377433,
+        "disgust": 0.397719,
+        "anger": 0.204401
+      },
+      "count": 1
+    },
+    {
+      "text": "US President Donald Trump",
+      "sentiment": {
+        "score": -0.859156,
+        "label": "negative"
+      },
+      "relevance": 0.782686,
+      "emotion": {
+        "sadness": 0.237834,
+        "joy": 0.127059,
+        "fear": 0.377433,
+        "disgust": 0.397719,
+        "anger": 0.204401
+      },
+      "count": 1
+    },
+    {
+      "text": "Syrian refugee crisis",
+      "sentiment": {
+        "score": -0.859156,
+        "label": "negative"
+      },
+      "relevance": 0.737224,
+      "emotion": {
+        "sadness": 0.237834,
+        "joy": 0.127059,
+        "fear": 0.377433,
+        "disgust": 0.397719,
+        "anger": 0.204401
+      },
+      "count": 1
+    },
+    {
+      "text": "Russian leader Vladimir Putin",
+      "sentiment": {
+        "score": -0.859156,
+        "label": "negative"
+      },
+      "relevance": 0.598518,
+      "emotion": {
+        "sadness": 0.237834,
+        "joy": 0.127059,
+        "fear": 0.377433,
+        "disgust": 0.397719,
+        "anger": 0.204401
+      },
+      "count": 1
+    },
+    {
+      "text": "talks",
+      "sentiment": {
+        "score": -0.859156,
+        "label": "negative"
+      },
+      "relevance": 0.593444,
+      "emotion": {
+        "sadness": 0.237834,
+        "joy": 0.127059,
+        "fear": 0.377433,
+        "disgust": 0.397719,
+        "anger": 0.204401
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": -0.468572,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            23,
+            36
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244085,
+        "joy": 0.134273,
+        "fear": 0.38932,
+        "disgust": 0.3977,
+        "anger": 0.162358
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lindsay Lohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.468572,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "THE MERRIER",
+          "location": [
+            10,
+            21
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            54,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.237834,
+        "joy": 0.127059,
+        "fear": 0.377433,
+        "disgust": 0.397719,
+        "anger": 0.204401
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.468572,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            67,
+            79
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244085,
+        "joy": 0.134273,
+        "fear": 0.38932,
+        "disgust": 0.3977,
+        "anger": 0.162358
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Vladimir Putin",
+      "sentiment": {
+        "score": -0.468572,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Vladimir Putin",
+          "location": [
+            99,
+            113
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244085,
+        "joy": 0.134273,
+        "fear": 0.38932,
+        "disgust": 0.3977,
+        "anger": 0.162358
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "MartialArtist",
+          "PoliticalAppointer",
+          "TVActor"
+        ],
+        "name": "Vladimir Putin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vladimir_Putin"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "President",
+      "sentiment": {
+        "score": -0.468572,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            57,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.244085,
+        "joy": 0.134273,
+        "fear": 0.38932,
+        "disgust": 0.3977,
+        "anger": 0.162358
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "George W. Bush",
+      "relevance": 0.985618,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Second Chechen War",
+      "relevance": 0.89203,
+      "dbpedia_resource": "http://dbpedia.org/resource/Second_Chechen_War"
+    },
+    {
+      "text": "United Russia",
+      "relevance": 0.879954,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Russia"
+    },
+    {
+      "text": "Vladimir Putin",
+      "relevance": 0.876391,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vladimir_Putin"
+    },
+    {
+      "text": "Boris Yeltsin",
+      "relevance": 0.797163,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boris_Yeltsin"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.693857,
+      "label": "/law, govt and politics/armed forces"
+    }
+  ]
+}

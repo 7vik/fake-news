@@ -1,0 +1,315 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1105,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.679158,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Voice coach",
+      "sentiment": {
+        "score": -0.839152,
+        "label": "negative"
+      },
+      "relevance": 0.677501,
+      "emotion": {
+        "sadness": 0.092405,
+        "joy": 0.786826,
+        "fear": 0.092922,
+        "disgust": 0.009138,
+        "anger": 0.051627
+      },
+      "count": 1
+    },
+    {
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.650913,
+      "emotion": {
+        "sadness": 0.092405,
+        "joy": 0.786826,
+        "fear": 0.092922,
+        "disgust": 0.009138,
+        "anger": 0.051627
+      },
+      "count": 1
+    },
+    {
+      "text": "Sweet Escape singer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.646585,
+      "emotion": {
+        "sadness": 0.092405,
+        "joy": 0.786826,
+        "fear": 0.092922,
+        "disgust": 0.009138,
+        "anger": 0.051627
+      },
+      "count": 1
+    },
+    {
+      "text": "Tragic Gwen Stefani",
+      "sentiment": {
+        "score": -0.839152,
+        "label": "negative"
+      },
+      "relevance": 0.645174,
+      "emotion": {
+        "sadness": 0.879263,
+        "joy": 0.00894,
+        "fear": 0.107069,
+        "disgust": 0.071408,
+        "anger": 0.12728
+      },
+      "count": 1
+    },
+    {
+      "text": "Loud music",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.627019,
+      "emotion": {
+        "sadness": 0.092405,
+        "joy": 0.786826,
+        "fear": 0.092922,
+        "disgust": 0.009138,
+        "anger": 0.051627
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": -0.673122,
+        "label": "negative"
+      },
+      "relevance": 0.792285,
+      "mentions": [
+        {
+          "text": "Gwen Stefani",
+          "location": [
+            7,
+            19
+          ]
+        },
+        {
+          "text": "Gwen Stefani",
+          "location": [
+            71,
+            83
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.792465,
+        "joy": 0.078437,
+        "fear": 0.152394,
+        "disgust": 0.046745,
+        "anger": 0.045346
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Gwen Stefani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Blake Shelton",
+      "sentiment": {
+        "score": 0.362474,
+        "label": "positive"
+      },
+      "relevance": 0.539729,
+      "mentions": [
+        {
+          "text": "Blake Shelton",
+          "location": [
+            423,
+            436
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            1057,
+            1062
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.102272,
+        "joy": 0.71198,
+        "fear": 0.04549,
+        "disgust": 0.037735,
+        "anger": 0.033027
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmMusicContributor",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Blake Shelton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Shelton"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dr. Stuart Fischer",
+      "sentiment": {
+        "score": -0.22284,
+        "label": "negative"
+      },
+      "relevance": 0.362522,
+      "mentions": [
+        {
+          "text": "Dr. Stuart Fischer",
+          "location": [
+            601,
+            619
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142007,
+        "joy": 0.204711,
+        "fear": 0.143966,
+        "disgust": 0.081034,
+        "anger": 0.087029
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Stuart Fischer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Stuart_Fischer"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.290915,
+      "emotion": {
+        "sadness": 0.142007,
+        "joy": 0.204711,
+        "fear": 0.143966,
+        "disgust": 0.081034,
+        "anger": 0.087029
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Las Vegas",
+      "sentiment": {
+        "score": -0.51477,
+        "label": "negative"
+      },
+      "relevance": 0.28345,
+      "mentions": [
+        {
+          "text": "Las Vegas",
+          "location": [
+            741,
+            750
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.663712,
+        "joy": 0.095973,
+        "fear": 0.227091,
+        "disgust": 0.034315,
+        "anger": 0.142155
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Gwen Stefani",
+      "relevance": 0.97566,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+    },
+    {
+      "text": "Singing",
+      "relevance": 0.750708,
+      "dbpedia_resource": "http://dbpedia.org/resource/Singing"
+    },
+    {
+      "text": "Akon",
+      "relevance": 0.744711,
+      "dbpedia_resource": "http://dbpedia.org/resource/Akon"
+    },
+    {
+      "text": "The Sweet Escape",
+      "relevance": 0.742863,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Sweet_Escape"
+    },
+    {
+      "text": "No Doubt",
+      "relevance": 0.741914,
+      "dbpedia_resource": "http://dbpedia.org/resource/No_Doubt"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.957695,
+      "label": "/art and entertainment/music/singing"
+    }
+  ]
+}

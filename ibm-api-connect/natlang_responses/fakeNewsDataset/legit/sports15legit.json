@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 926,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.597321,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Brady's Missing Jersey",
+      "sentiment": {
+        "score": -0.894338,
+        "label": "negative"
+      },
+      "relevance": 0.873235,
+      "emotion": {
+        "sadness": 0.640387,
+        "joy": 0.019778,
+        "fear": 0.180723,
+        "disgust": 0.10339,
+        "anger": 0.075708
+      },
+      "count": 1
+    },
+    {
+      "text": "official police report",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.872756,
+      "emotion": {
+        "sadness": 0.056791,
+        "joy": 0.08868,
+        "fear": 0.33769,
+        "disgust": 0.485147,
+        "anger": 0.161288
+      },
+      "count": 1
+    },
+    {
+      "text": "Tom Brady Super Bowl jersey",
+      "sentiment": {
+        "score": -0.894338,
+        "label": "negative"
+      },
+      "relevance": 0.723841,
+      "emotion": {
+        "sadness": 0.71079,
+        "joy": 0.143362,
+        "fear": 0.106896,
+        "disgust": 0.103202,
+        "anger": 0.061321
+      },
+      "count": 1
+    },
+    {
+      "text": "Houston police",
+      "sentiment": {
+        "score": -0.732727,
+        "label": "negative"
+      },
+      "relevance": 0.709093,
+      "emotion": {
+        "sadness": 0.294016,
+        "joy": 0.033444,
+        "fear": 0.123859,
+        "disgust": 0.298594,
+        "anger": 0.230015
+      },
+      "count": 2
+    },
+    {
+      "text": "eye-opening figure",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.680017,
+      "emotion": {
+        "sadness": 0.208535,
+        "joy": 0.219816,
+        "fear": 0.131468,
+        "disgust": 0.015766,
+        "anger": 0.018924
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Brady",
+      "sentiment": {
+        "score": -0.418759,
+        "label": "negative"
+      },
+      "relevance": 0.921667,
+      "mentions": [
+        {
+          "text": "Tom Brady",
+          "location": [
+            23,
+            32
+          ]
+        },
+        {
+          "text": "Tom Brady",
+          "location": [
+            87,
+            96
+          ]
+        },
+        {
+          "text": "Brady",
+          "location": [
+            206,
+            211
+          ]
+        },
+        {
+          "text": "Tom Brady",
+          "location": [
+            807,
+            816
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.516977,
+        "joy": 0.12324,
+        "fear": 0.23346,
+        "disgust": 0.290475,
+        "anger": 0.055684
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardWinner",
+          "Celebrity",
+          "FootballPlayer",
+          "SportsLeagueAwardWinner",
+          "TVActor"
+        ],
+        "name": "Tom Brady",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Brady"
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Brady",
+      "sentiment": {
+        "score": -0.398067,
+        "label": "negative"
+      },
+      "relevance": 0.351955,
+      "mentions": [
+        {
+          "text": "the figure",
+          "location": [
+            729,
+            739
+          ]
+        },
+        {
+          "text": "Brady",
+          "location": [
+            776,
+            781
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.31892,
+        "joy": 0.073822,
+        "fear": 0.18655,
+        "disgust": 0.21053,
+        "anger": 0.210606
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Houston",
+      "sentiment": {
+        "score": -0.399023,
+        "label": "negative"
+      },
+      "relevance": 0.190392,
+      "mentions": [
+        {
+          "text": "Houston",
+          "location": [
+            418,
+            425
+          ]
+        },
+        {
+          "text": "Houston",
+          "location": [
+            700,
+            707
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.286668,
+        "joy": 0.021751,
+        "fear": 0.187866,
+        "disgust": 0.299145,
+        "anger": 0.25849
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Super Bowl",
+      "relevance": 0.955354,
+      "dbpedia_resource": "http://dbpedia.org/resource/Super_Bowl"
+    },
+    {
+      "text": "Tom Brady",
+      "relevance": 0.848549,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tom_Brady"
+    },
+    {
+      "text": "National Football League",
+      "relevance": 0.81794,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Football_League"
+    },
+    {
+      "text": "Super Bowl XXXVI",
+      "relevance": 0.717869,
+      "dbpedia_resource": "http://dbpedia.org/resource/Super_Bowl_XXXVI"
+    },
+    {
+      "text": "Houston",
+      "relevance": 0.715151,
+      "dbpedia_resource": "http://dbpedia.org/resource/Houston"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.845013,
+      "label": "/society/crime"
+    }
+  ]
+}

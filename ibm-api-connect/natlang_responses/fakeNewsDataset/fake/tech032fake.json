@@ -1,0 +1,267 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 596,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.546081,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Facebook Messenger",
+      "sentiment": {
+        "score": -0.71087,
+        "label": "negative"
+      },
+      "relevance": 0.965385,
+      "emotion": {
+        "sadness": 0.238818,
+        "joy": 0.201082,
+        "fear": 0.179046,
+        "disgust": 0.126614,
+        "anger": 0.147188
+      },
+      "count": 1
+    },
+    {
+      "text": "catatonic robot",
+      "sentiment": {
+        "score": -0.792094,
+        "label": "negative"
+      },
+      "relevance": 0.738824,
+      "emotion": {
+        "sadness": 0.306846,
+        "joy": 0.563911,
+        "fear": 0.005235,
+        "disgust": 0.00838,
+        "anger": 0.172733
+      },
+      "count": 1
+    },
+    {
+      "text": "success of emoji",
+      "sentiment": {
+        "score": -0.71087,
+        "label": "negative"
+      },
+      "relevance": 0.642925,
+      "emotion": {
+        "sadness": 0.285862,
+        "joy": 0.348539,
+        "fear": 0.106126,
+        "disgust": 0.020731,
+        "anger": 0.059897
+      },
+      "count": 1
+    },
+    {
+      "text": "Facebook",
+      "sentiment": {
+        "score": -0.592141,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.595439,
+      "emotion": {
+        "sadness": 0.403154,
+        "joy": 0.468153,
+        "fear": 0.010926,
+        "disgust": 0.011466,
+        "anger": 0.174768
+      },
+      "count": 4
+    },
+    {
+      "text": "bold step",
+      "sentiment": {
+        "score": -0.71087,
+        "label": "negative"
+      },
+      "relevance": 0.595104,
+      "emotion": {
+        "sadness": 0.285862,
+        "joy": 0.348539,
+        "fear": 0.106126,
+        "disgust": 0.020731,
+        "anger": 0.059897
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": -0.760895,
+        "label": "negative"
+      },
+      "relevance": 0.925229,
+      "mentions": [
+        {
+          "text": "Facebook",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Facebook",
+          "location": [
+            42,
+            50
+          ]
+        },
+        {
+          "text": "Facebook",
+          "location": [
+            144,
+            152
+          ]
+        },
+        {
+          "text": "Facebook",
+          "location": [
+            210,
+            218
+          ]
+        },
+        {
+          "text": "Facebook",
+          "location": [
+            475,
+            483
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.484265,
+        "joy": 0.589149,
+        "fear": 0.089975,
+        "disgust": 0.067054,
+        "anger": 0.139401
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "emoji",
+      "sentiment": {
+        "score": -0.70114,
+        "label": "negative"
+      },
+      "relevance": 0.245069,
+      "mentions": [
+        {
+          "text": "emoji",
+          "location": [
+            201,
+            206
+          ]
+        },
+        {
+          "text": "the emoji",
+          "location": [
+            291,
+            300
+          ]
+        },
+        {
+          "text": "emoji",
+          "location": [
+            587,
+            592
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.522556,
+        "joy": 0.278009,
+        "fear": 0.009792,
+        "disgust": 0.021922,
+        "anger": 0.295018
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Emoji",
+      "sentiment": {
+        "score": -0.880407,
+        "label": "negative"
+      },
+      "relevance": 0.21672,
+      "mentions": [
+        {
+          "text": "Emoji",
+          "location": [
+            34,
+            39
+          ]
+        },
+        {
+          "text": "emoji",
+          "location": [
+            92,
+            97
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.332614,
+        "joy": 0.07044,
+        "fear": 0.192538,
+        "disgust": 0.100234,
+        "anger": 0.221463
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States",
+      "relevance": 0.861457,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "Writing",
+      "relevance": 0.828274,
+      "dbpedia_resource": "http://dbpedia.org/resource/Writing"
+    },
+    {
+      "text": "Communication",
+      "relevance": 0.803863,
+      "dbpedia_resource": "http://dbpedia.org/resource/Communication"
+    },
+    {
+      "text": "Desmond Harrington",
+      "relevance": 0.75358,
+      "dbpedia_resource": "http://dbpedia.org/resource/Desmond_Harrington"
+    },
+    {
+      "text": "Conservatism",
+      "relevance": 0.750806,
+      "dbpedia_resource": "http://dbpedia.org/resource/Conservatism"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999457,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

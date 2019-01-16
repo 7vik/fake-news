@@ -1,0 +1,247 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 608,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.61004,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "confirmation hearing",
+      "sentiment": {
+        "score": -0.362412,
+        "label": "negative"
+      },
+      "relevance": 0.896417,
+      "emotion": {
+        "sadness": 0.212695,
+        "joy": 0.19216,
+        "fear": 0.075926,
+        "disgust": 0.186641,
+        "anger": 0.135912
+      },
+      "count": 1
+    },
+    {
+      "text": "education secretary",
+      "sentiment": {
+        "score": -0.362412,
+        "label": "negative"
+      },
+      "relevance": 0.817945,
+      "emotion": {
+        "sadness": 0.212695,
+        "joy": 0.19216,
+        "fear": 0.075926,
+        "disgust": 0.186641,
+        "anger": 0.135912
+      },
+      "count": 1
+    },
+    {
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": -0.61004,
+        "label": "negative"
+      },
+      "relevance": 0.766054,
+      "emotion": {
+        "sadness": 0.139117,
+        "joy": 0.377727,
+        "fear": 0.033041,
+        "disgust": 0.177535,
+        "anger": 0.375998
+      },
+      "count": 3
+    },
+    {
+      "text": "Washington",
+      "sentiment": {
+        "score": -0.362412,
+        "label": "negative"
+      },
+      "relevance": 0.623453,
+      "emotion": {
+        "sadness": 0.212695,
+        "joy": 0.19216,
+        "fear": 0.075926,
+        "disgust": 0.186641,
+        "anger": 0.135912
+      },
+      "count": 1
+    },
+    {
+      "text": "Darwinian Evolution",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.60301,
+      "emotion": {
+        "sadness": 0.168892,
+        "joy": 0.107964,
+        "fear": 0.132524,
+        "disgust": 0.124772,
+        "anger": 0.311946
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.822203,
+      "mentions": [
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            175,
+            186
+          ]
+        },
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            245,
+            256
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            271,
+            274
+          ]
+        },
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            371,
+            382
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188326,
+        "joy": 0.246694,
+        "fear": 0.052089,
+        "disgust": 0.16694,
+        "anger": 0.506659
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 5
+    },
+    {
+      "type": "JobTitle",
+      "text": "secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.194247,
+      "mentions": [
+        {
+          "text": "secretary",
+          "location": [
+            164,
+            173
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134112,
+        "joy": 0.127817,
+        "fear": 0.074671,
+        "disgust": 0.10094,
+        "anger": 0.032113
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.174687,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            96,
+            106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.976937,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Evolution",
+      "relevance": 0.703419,
+      "dbpedia_resource": "http://dbpedia.org/resource/Evolution"
+    },
+    {
+      "text": "Creationism",
+      "relevance": 0.683617,
+      "dbpedia_resource": "http://dbpedia.org/resource/Creationism"
+    },
+    {
+      "text": "School",
+      "relevance": 0.614008,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Darwinism",
+      "relevance": 0.579999,
+      "dbpedia_resource": "http://dbpedia.org/resource/Darwinism"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.901919,
+      "label": "/education"
+    }
+  ]
+}

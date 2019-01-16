@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 491,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.694063,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "STEM Gap",
+      "sentiment": {
+        "score": -0.694063,
+        "label": "negative"
+      },
+      "relevance": 0.757902,
+      "emotion": {
+        "sadness": 0.377678,
+        "joy": 0.437317,
+        "fear": 0.235104,
+        "disgust": 0.00435,
+        "anger": 0.039473
+      },
+      "count": 1
+    },
+    {
+      "text": "previous works",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.70649,
+      "emotion": {
+        "sadness": 0.266853,
+        "joy": 0.234719,
+        "fear": 0.165127,
+        "disgust": 0.016028,
+        "anger": 0.061562
+      },
+      "count": 1
+    },
+    {
+      "text": "math fields",
+      "sentiment": {
+        "score": -0.694063,
+        "label": "negative"
+      },
+      "relevance": 0.693835,
+      "emotion": {
+        "sadness": 0.147251,
+        "joy": 0.52253,
+        "fear": 0.108407,
+        "disgust": 0.088753,
+        "anger": 0.134225
+      },
+      "count": 1
+    },
+    {
+      "text": "STEM Fields",
+      "sentiment": {
+        "score": -0.694063,
+        "label": "negative"
+      },
+      "relevance": 0.689435,
+      "emotion": {
+        "sadness": 0.147251,
+        "joy": 0.52253,
+        "fear": 0.108407,
+        "disgust": 0.088753,
+        "anger": 0.134225
+      },
+      "count": 1
+    },
+    {
+      "text": "October issue of Psychological Bulletin",
+      "sentiment": {
+        "score": -0.694063,
+        "label": "negative"
+      },
+      "relevance": 0.683097,
+      "emotion": {
+        "sadness": 0.147251,
+        "joy": 0.52253,
+        "fear": 0.108407,
+        "disgust": 0.088753,
+        "anger": 0.134225
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Mathematics",
+      "relevance": 0.970896,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+      "text": "Science",
+      "relevance": 0.811208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Science"
+    },
+    {
+      "text": "Engineering",
+      "relevance": 0.729247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Engineering"
+    },
+    {
+      "text": "Physics",
+      "relevance": 0.67938,
+      "dbpedia_resource": "http://dbpedia.org/resource/Physics"
+    },
+    {
+      "text": "Computer science",
+      "relevance": 0.631805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer_science"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.984184,
+      "label": "/education/special education"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1534,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.338982,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prince William",
+      "sentiment": {
+        "score": 0.629238,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.687394,
+      "emotion": {
+        "sadness": 0.01407,
+        "joy": 0.897941,
+        "fear": 0.007175,
+        "disgust": 0.017017,
+        "anger": 0.078756
+      },
+      "count": 2
+    },
+    {
+      "text": "Kate Middleton",
+      "sentiment": {
+        "score": -0.559534,
+        "label": "negative"
+      },
+      "relevance": 0.646569,
+      "emotion": {
+        "sadness": 0.014134,
+        "joy": 0.891143,
+        "fear": 0.010742,
+        "disgust": 0.015056,
+        "anger": 0.086438
+      },
+      "count": 1
+    },
+    {
+      "text": "PhotosQueen Elizabeth II's Royal Style",
+      "sentiment": {
+        "score": -0.559534,
+        "label": "negative"
+      },
+      "relevance": 0.62379,
+      "emotion": {
+        "sadness": 0.014134,
+        "joy": 0.891143,
+        "fear": 0.010742,
+        "disgust": 0.015056,
+        "anger": 0.086438
+      },
+      "count": 1
+    },
+    {
+      "text": "warm weather",
+      "sentiment": {
+        "score": 0.958911,
+        "label": "positive"
+      },
+      "relevance": 0.610567,
+      "emotion": {
+        "sadness": 0.014134,
+        "joy": 0.891143,
+        "fear": 0.010742,
+        "disgust": 0.015056,
+        "anger": 0.086438
+      },
+      "count": 1
+    },
+    {
+      "text": "beginning of the official season",
+      "sentiment": {
+        "score": -0.559534,
+        "label": "negative"
+      },
+      "relevance": 0.59971,
+      "emotion": {
+        "sadness": 0.014134,
+        "joy": 0.891143,
+        "fear": 0.010742,
+        "disgust": 0.015056,
+        "anger": 0.086438
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince William",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.805466,
+      "mentions": [
+        {
+          "text": "Prince William",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Prince William",
+          "location": [
+            265,
+            279
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.020916,
+        "joy": 0.776044,
+        "fear": 0.004617,
+        "disgust": 0.061156,
+        "anger": 0.17184
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince William, Duke of Cambridge",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Queen Elizabeth II",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.774997,
+      "mentions": [
+        {
+          "text": "Elizabeth II",
+          "location": [
+            573,
+            585
+          ]
+        },
+        {
+          "text": "Queen Elizabeth II",
+          "location": [
+            625,
+            643
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.036793,
+        "joy": 0.823317,
+        "fear": 0.13244,
+        "disgust": 0.004352,
+        "anger": 0.010346
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Elizabeth II",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elizabeth_II"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.652481,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            216,
+            224
+          ]
+        },
+        {
+          "text": "official",
+          "location": [
+            378,
+            386
+          ]
+        },
+        {
+          "text": "official",
+          "location": [
+            1073,
+            1081
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.010222,
+        "joy": 0.709838,
+        "fear": 0.003646,
+        "disgust": 0.063548,
+        "anger": 0.262757
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Prince Philip hobnobbed",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.544392,
+      "mentions": [
+        {
+          "text": "Prince Philip hobnobbed",
+          "location": [
+            648,
+            671
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.038769,
+        "joy": 0.815066,
+        "fear": 0.139285,
+        "disgust": 0.004054,
+        "anger": 0.008542
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Christopher Kane",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.511967,
+      "mentions": [
+        {
+          "text": "Christopher Kane",
+          "location": [
+            433,
+            449
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.018483,
+        "joy": 0.73256,
+        "fear": 0.006883,
+        "disgust": 0.058953,
+        "anger": 0.226155
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Christopher Kane",
+        "dbpedia_resource": "http://dbpedia.org/resource/Christopher_Kane"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Elizabeth II of the United Kingdom",
+      "relevance": 0.950429,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elizabeth_II_of_the_United_Kingdom"
+    },
+    {
+      "text": "Prince Philip, Duke of Edinburgh",
+      "relevance": 0.853694,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh"
+    },
+    {
+      "text": "Prince William of Wales",
+      "relevance": 0.701634,
+      "dbpedia_resource": "http://dbpedia.org/resource/Prince_William_of_Wales"
+    },
+    {
+      "text": "Charles, Prince of Wales",
+      "relevance": 0.691372,
+      "dbpedia_resource": "http://dbpedia.org/resource/Charles,_Prince_of_Wales"
+    },
+    {
+      "text": "House of Windsor",
+      "relevance": 0.627791,
+      "dbpedia_resource": "http://dbpedia.org/resource/House_of_Windsor"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.799673,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

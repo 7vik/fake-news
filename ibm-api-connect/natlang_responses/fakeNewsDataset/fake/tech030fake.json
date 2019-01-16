@@ -1,0 +1,256 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 412,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.797777,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Twitter's vice-president",
+      "sentiment": {
+        "score": -0.553775,
+        "label": "negative"
+      },
+      "relevance": 0.945266,
+      "emotion": {
+        "sadness": 0.396979,
+        "joy": 0.086335,
+        "fear": 0.073487,
+        "disgust": 0.239975,
+        "anger": 0.207657
+      },
+      "count": 1
+    },
+    {
+      "text": "bold statement",
+      "sentiment": {
+        "score": -0.553775,
+        "label": "negative"
+      },
+      "relevance": 0.865614,
+      "emotion": {
+        "sadness": 0.396979,
+        "joy": 0.086335,
+        "fear": 0.073487,
+        "disgust": 0.239975,
+        "anger": 0.207657
+      },
+      "count": 1
+    },
+    {
+      "text": "main website",
+      "sentiment": {
+        "score": -0.922757,
+        "label": "negative"
+      },
+      "relevance": 0.73339,
+      "emotion": {
+        "sadness": 0.561728,
+        "joy": 0.037839,
+        "fear": 0.080131,
+        "disgust": 0.382461,
+        "anger": 0.170747
+      },
+      "count": 1
+    },
+    {
+      "text": "anti-abuse tools",
+      "sentiment": {
+        "score": -0.922757,
+        "label": "negative"
+      },
+      "relevance": 0.686407,
+      "emotion": {
+        "sadness": 0.561728,
+        "joy": 0.037839,
+        "fear": 0.080131,
+        "disgust": 0.382461,
+        "anger": 0.170747
+      },
+      "count": 1
+    },
+    {
+      "text": "Ed Ho",
+      "sentiment": {
+        "score": -0.553775,
+        "label": "negative"
+      },
+      "relevance": 0.618543,
+      "emotion": {
+        "sadness": 0.396979,
+        "joy": 0.086335,
+        "fear": 0.073487,
+        "disgust": 0.239975,
+        "anger": 0.207657
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.703447,
+        "label": "negative"
+      },
+      "relevance": 0.932701,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            30,
+            37
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            72,
+            79
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            170,
+            177
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            251,
+            258
+          ]
+        },
+        {
+          "text": "Twitter",
+          "location": [
+            264,
+            271
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.550514,
+        "joy": 0.021098,
+        "fear": 0.105861,
+        "disgust": 0.349239,
+        "anger": 0.248327
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Ed Ho",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.236364,
+      "mentions": [
+        {
+          "text": "Ed Ho",
+          "location": [
+            23,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.328683,
+        "joy": 0.148745,
+        "fear": 0.048597,
+        "disgust": 0.087783,
+        "anger": 0.090534
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "vice-president of engineering",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.225967,
+      "mentions": [
+        {
+          "text": "vice-president of engineering",
+          "location": [
+            40,
+            69
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.117304,
+        "joy": 0.20388,
+        "fear": 0.037567,
+        "disgust": 0.126002,
+        "anger": 0.13064
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.106169,
+      "mentions": [
+        {
+          "text": "official",
+          "location": [
+            242,
+            250
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.561728,
+        "joy": 0.037839,
+        "fear": 0.080131,
+        "disgust": 0.382461,
+        "anger": 0.170747
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Computer program",
+      "relevance": 0.907974,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer_program"
+    },
+    {
+      "text": "Algorithm",
+      "relevance": 0.893479,
+      "dbpedia_resource": "http://dbpedia.org/resource/Algorithm"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999973,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

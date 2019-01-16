@@ -1,0 +1,240 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 103,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kelly Ripa",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998234,
+      "emotion": {
+        "sadness": 0.21621,
+        "joy": 0.375165,
+        "fear": 0.080313,
+        "disgust": 0.063913,
+        "anger": 0.106539
+      },
+      "count": 1
+    },
+    {
+      "text": "Megyn Kelly",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.955611,
+      "emotion": {
+        "sadness": 0.21621,
+        "joy": 0.375165,
+        "fear": 0.080313,
+        "disgust": 0.063913,
+        "anger": 0.106539
+      },
+      "count": 1
+    },
+    {
+      "text": "Ryan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.528095,
+      "emotion": {
+        "sadness": 0.21621,
+        "joy": 0.375165,
+        "fear": 0.080313,
+        "disgust": 0.063913,
+        "anger": 0.106539
+      },
+      "count": 1
+    },
+    {
+      "text": "Megyn Kelly Today",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.526366,
+      "emotion": {
+        "sadness": 0.21621,
+        "joy": 0.375165,
+        "fear": 0.080313,
+        "disgust": 0.063913,
+        "anger": 0.106539
+      },
+      "count": 1
+    },
+    {
+      "text": "Ratings Battle",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.380241,
+      "emotion": {
+        "sadness": 0.21621,
+        "joy": 0.375165,
+        "fear": 0.080313,
+        "disgust": 0.063913,
+        "anger": 0.106539
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kelly Ripa",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kelly Ripa",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214954,
+        "joy": 0.274122,
+        "fear": 0.107306,
+        "disgust": 0.044239,
+        "anger": 0.119352
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kelly Ripa",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kelly_Ripa"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Megyn Kelly",
+      "sentiment": {
+        "score": 0.386918,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Megyn Kelly",
+          "location": [
+            15,
+            26
+          ]
+        },
+        {
+          "text": "Kelly",
+          "location": [
+            59,
+            64
+          ]
+        },
+        {
+          "text": "Kelly",
+          "location": [
+            87,
+            92
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139535,
+        "joy": 0.562692,
+        "fear": 0.039596,
+        "disgust": 0.058253,
+        "anger": 0.16242
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVActor"
+        ],
+        "name": "Megyn Kelly",
+        "dbpedia_resource": "http://dbpedia.org/resource/Megyn_Kelly"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ryan",
+      "sentiment": {
+        "score": 0.386918,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Ryan",
+          "location": [
+            97,
+            101
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.182106,
+        "joy": 0.339453,
+        "fear": 0.064228,
+        "disgust": 0.14604,
+        "anger": 0.052562
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Live with Regis and Kelly",
+      "relevance": 0.909247,
+      "dbpedia_resource": "http://dbpedia.org/resource/Live_with_Regis_and_Kelly"
+    },
+    {
+      "text": "Kelly Ripa",
+      "relevance": 0.8356,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kelly_Ripa"
+    },
+    {
+      "text": "Regis Philbin",
+      "relevance": 0.783446,
+      "dbpedia_resource": "http://dbpedia.org/resource/Regis_Philbin"
+    },
+    {
+      "text": "Mark Consuelos",
+      "relevance": 0.77377,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mark_Consuelos"
+    },
+    {
+      "text": "1970 births",
+      "relevance": 0.610381,
+      "dbpedia_resource": "http://dbpedia.org/resource/1970_births"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.628813,
+      "label": "/society/dating"
+    }
+  ]
+}

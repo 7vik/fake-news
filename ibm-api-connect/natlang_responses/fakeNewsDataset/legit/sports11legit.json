@@ -1,0 +1,276 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 894,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.695,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "State of Sport",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.9401,
+      "emotion": {
+        "sadness": 0.280189,
+        "joy": 0.16792,
+        "fear": 0.095787,
+        "disgust": 0.17146,
+        "anger": 0.274577
+      },
+      "count": 1
+    },
+    {
+      "text": "Amateur doping findings 'concern",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.824427,
+      "emotion": {
+        "sadness": 0.238261,
+        "joy": 0.265536,
+        "fear": 0.121553,
+        "disgust": 0.14185,
+        "anger": 0.109839
+      },
+      "count": 1
+    },
+    {
+      "text": "amateur sport",
+      "sentiment": {
+        "score": -0.724862,
+        "label": "negative"
+      },
+      "relevance": 0.806597,
+      "emotion": {
+        "sadness": 0.347861,
+        "joy": 0.15468,
+        "fear": 0.069735,
+        "disgust": 0.039613,
+        "anger": 0.079546
+      },
+      "count": 2
+    },
+    {
+      "text": "sports minister",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.743336,
+      "emotion": {
+        "sadness": 0.25893,
+        "joy": 0.258624,
+        "fear": 0.134363,
+        "disgust": 0.127638,
+        "anger": 0.221379
+      },
+      "count": 1
+    },
+    {
+      "text": "BBC State of Sport investigation",
+      "sentiment": {
+        "score": -0.662933,
+        "label": "negative"
+      },
+      "relevance": 0.699164,
+      "emotion": {
+        "sadness": 0.402409,
+        "joy": 0.140952,
+        "fear": 0.074652,
+        "disgust": 0.232925,
+        "anger": 0.275299
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tracey Crouch",
+      "sentiment": {
+        "score": -0.058257,
+        "label": "negative"
+      },
+      "relevance": 0.890955,
+      "mentions": [
+        {
+          "text": "Tracey Crouch",
+          "location": [
+            176,
+            189
+          ]
+        },
+        {
+          "text": "Crouch",
+          "location": [
+            431,
+            437
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            503,
+            506
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.340169,
+        "joy": 0.397974,
+        "fear": 0.048955,
+        "disgust": 0.153333,
+        "anger": 0.044708
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Tracey Crouch",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tracey_Crouch"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "BBC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.433316,
+      "mentions": [
+        {
+          "text": "BBC",
+          "location": [
+            133,
+            136
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.276737,
+        "joy": 0.188478,
+        "fear": 0.163255,
+        "disgust": 0.139648,
+        "anger": 0.05635
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "Broadcast",
+          "PeriodicalPublisher",
+          "ProductionCompany",
+          "TVNetwork",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalArtist",
+          "TVProducer"
+        ],
+        "name": "BBC",
+        "dbpedia_resource": "http://dbpedia.org/resource/BBC"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": -0.027408,
+        "label": "negative"
+      },
+      "relevance": 0.375299,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            612,
+            614
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            691,
+            693
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.316507,
+        "joy": 0.172898,
+        "fear": 0.144344,
+        "disgust": 0.318131,
+        "anger": 0.142442
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Half",
+      "sentiment": {
+        "score": -0.585844,
+        "label": "negative"
+      },
+      "relevance": 0.311506,
+      "mentions": [
+        {
+          "text": "Half",
+          "location": [
+            329,
+            333
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18147,
+        "joy": 0.156296,
+        "fear": 0.096303,
+        "disgust": 0.247847,
+        "anger": 0.114651
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "35%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.311506,
+      "mentions": [
+        {
+          "text": "35%",
+          "location": [
+            251,
+            254
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.983794,
+      "label": "/art and entertainment/shows and events/sports event"
+    }
+  ]
+}

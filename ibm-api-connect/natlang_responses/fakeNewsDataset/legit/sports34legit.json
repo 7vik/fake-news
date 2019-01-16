@@ -1,0 +1,308 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 710,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.331056,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cristiano Ronaldo",
+      "sentiment": {
+        "score": -0.331056,
+        "label": "negative"
+      },
+      "relevance": 0.910614,
+      "emotion": {
+        "sadness": 0.067183,
+        "joy": 0.620336,
+        "fear": 0.073521,
+        "disgust": 0.004622,
+        "anger": 0.040869
+      },
+      "count": 1
+    },
+    {
+      "text": "friendly defeat",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.730038,
+      "emotion": {
+        "sadness": 0.194297,
+        "joy": 0.321078,
+        "fear": 0.1507,
+        "disgust": 0.12186,
+        "anger": 0.056195
+      },
+      "count": 1
+    },
+    {
+      "text": "Portuguese star",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.729984,
+      "emotion": {
+        "sadness": 0.194297,
+        "joy": 0.321078,
+        "fear": 0.1507,
+        "disgust": 0.12186,
+        "anger": 0.056195
+      },
+      "count": 1
+    },
+    {
+      "text": "71st goal",
+      "sentiment": {
+        "score": -0.331056,
+        "label": "negative"
+      },
+      "relevance": 0.605819,
+      "emotion": {
+        "sadness": 0.055511,
+        "joy": 0.568642,
+        "fear": 0.084563,
+        "disgust": 0.007304,
+        "anger": 0.032246
+      },
+      "count": 1
+    },
+    {
+      "text": "138th appearance",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.590012,
+      "emotion": {
+        "sadness": 0.194297,
+        "joy": 0.321078,
+        "fear": 0.1507,
+        "disgust": 0.12186,
+        "anger": 0.056195
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Cristiano Ronaldo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.912472,
+      "mentions": [
+        {
+          "text": "Cristiano Ronaldo",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "Cristiano Ronaldo",
+          "location": [
+            65,
+            82
+          ]
+        },
+        {
+          "text": "Ronaldo",
+          "location": [
+            550,
+            557
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168895,
+        "joy": 0.585275,
+        "fear": 0.057609,
+        "disgust": 0.00325,
+        "anger": 0.078615
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Cristiano Ronaldo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cristiano_Ronaldo"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Miroslav Klose",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.490321,
+      "emotion": {
+        "sadness": 0.159654,
+        "joy": 0.350942,
+        "fear": 0.147995,
+        "disgust": 0.110242,
+        "anger": 0.146579
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballPlayer"
+        ],
+        "name": "Miroslav Klose",
+        "dbpedia_resource": "http://dbpedia.org/resource/Miroslav_Klose"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sandor Kocsis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.318883,
+      "mentions": [
+        {
+          "text": "Sandor Kocsis",
+          "location": [
+            690,
+            703
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.161207,
+        "joy": 0.126286,
+        "fear": 0.168386,
+        "disgust": 0.124576,
+        "anger": 0.30447
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "S\u00e1ndor Kocsis",
+        "dbpedia_resource": "http://dbpedia.org/resource/S\u00e1ndor_Kocsis"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ali Daei",
+      "sentiment": {
+        "score": 0.42058,
+        "label": "positive"
+      },
+      "relevance": 0.270951,
+      "mentions": [
+        {
+          "text": "Ali Daei",
+          "location": [
+            488,
+            496
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.325707,
+        "joy": 0.26216,
+        "fear": 0.161246,
+        "disgust": 0.283655,
+        "anger": 0.1523
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "FootballPlayer"
+        ],
+        "name": "Ali Daei",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ali_Daei"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ferenc Puskas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.263485,
+      "mentions": [
+        {
+          "text": "Ferenc Puskas",
+          "location": [
+            666,
+            679
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "FootballPlayer",
+          "FootballManager",
+          "OlympicAthlete"
+        ],
+        "name": "Ferenc Pusk\u00e1s",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ferenc_Pusk\u00e1s"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2006 FIFA World Cup",
+      "relevance": 0.980692,
+      "dbpedia_resource": "http://dbpedia.org/resource/2006_FIFA_World_Cup"
+    },
+    {
+      "text": "Hungary",
+      "relevance": 0.929391,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hungary"
+    },
+    {
+      "text": "Real Madrid C.F.",
+      "relevance": 0.89487,
+      "dbpedia_resource": "http://dbpedia.org/resource/Real_Madrid_C.F."
+    },
+    {
+      "text": "Iran national football team",
+      "relevance": 0.882061,
+      "dbpedia_resource": "http://dbpedia.org/resource/Iran_national_football_team"
+    },
+    {
+      "text": "Germany national football team",
+      "relevance": 0.872453,
+      "dbpedia_resource": "http://dbpedia.org/resource/Germany_national_football_team"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.892182,
+      "label": "/sports/soccer"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 76,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tom Hiddleston Stunned Taylor Swift",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.987588,
+      "emotion": {
+        "sadness": 0.259873,
+        "joy": 0.625981,
+        "fear": 0.006656,
+        "disgust": 0.063886,
+        "anger": 0.028414
+      },
+      "count": 1
+    },
+    {
+      "text": "New Album",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.012412,
+      "emotion": {
+        "sadness": 0.259873,
+        "joy": 0.625981,
+        "fear": 0.006656,
+        "disgust": 0.063886,
+        "anger": 0.028414
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Hiddleston",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Tom Hiddleston",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.274675,
+        "joy": 0.617889,
+        "fear": 0.007288,
+        "disgust": 0.06966,
+        "anger": 0.029562
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Tom Hiddleston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_Hiddleston"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            23,
+            35
+          ]
+        },
+        {
+          "text": "Him",
+          "location": [
+            47,
+            50
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.213943,
+        "joy": 0.682693,
+        "fear": 0.005047,
+        "disgust": 0.065792,
+        "anger": 0.033921
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.597389,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

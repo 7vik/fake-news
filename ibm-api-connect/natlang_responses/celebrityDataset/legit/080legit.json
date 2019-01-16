@@ -1,0 +1,119 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.628316,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Catherine Zeta-Jones",
+      "sentiment": {
+        "score": -0.628316,
+        "label": "negative"
+      },
+      "relevance": 0.991442,
+      "emotion": {
+        "sadness": 0.36362,
+        "joy": 0.296315,
+        "fear": 0.039242,
+        "disgust": 0.161136,
+        "anger": 0.309586
+      },
+      "count": 1
+    },
+    {
+      "text": "people",
+      "sentiment": {
+        "score": -0.628316,
+        "label": "negative"
+      },
+      "relevance": 0.585918,
+      "emotion": {
+        "sadness": 0.36362,
+        "joy": 0.296315,
+        "fear": 0.039242,
+        "disgust": 0.161136,
+        "anger": 0.309586
+      },
+      "count": 1
+    },
+    {
+      "text": "marriage advice",
+      "sentiment": {
+        "score": -0.628316,
+        "label": "negative"
+      },
+      "relevance": 0.309572,
+      "emotion": {
+        "sadness": 0.36362,
+        "joy": 0.296315,
+        "fear": 0.039242,
+        "disgust": 0.161136,
+        "anger": 0.309586
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Catherine Zeta-Jones",
+      "sentiment": {
+        "score": -0.668192,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Catherine Zeta-Jones",
+          "location": [
+            0,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.36362,
+        "joy": 0.296315,
+        "fear": 0.039242,
+        "disgust": 0.161136,
+        "anger": 0.309586
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Catherine Zeta-Jones",
+        "dbpedia_resource": "http://dbpedia.org/resource/Catherine_Zeta-Jones"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Catherine Zeta-Jones",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Catherine_Zeta-Jones"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.972113,
+      "label": "/society/social institution"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 71,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.644368,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rob K.",
+      "sentiment": {
+        "score": -0.644368,
+        "label": "negative"
+      },
+      "relevance": 0.995862,
+      "emotion": {
+        "sadness": 0.401058,
+        "joy": 0.115991,
+        "fear": 0.018457,
+        "disgust": 0.054612,
+        "anger": 0.091401
+      },
+      "count": 1
+    },
+    {
+      "text": "Fam",
+      "sentiment": {
+        "score": -0.644368,
+        "label": "negative"
+      },
+      "relevance": 0.61055,
+      "emotion": {
+        "sadness": 0.401058,
+        "joy": 0.115991,
+        "fear": 0.018457,
+        "disgust": 0.054612,
+        "anger": 0.091401
+      },
+      "count": 1
+    },
+    {
+      "text": "Mehgan James' Romance",
+      "sentiment": {
+        "score": -0.644368,
+        "label": "negative"
+      },
+      "relevance": 0.511956,
+      "emotion": {
+        "sadness": 0.401058,
+        "joy": 0.115991,
+        "fear": 0.018457,
+        "disgust": 0.054612,
+        "anger": 0.091401
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mehgan James",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Mehgan James",
+          "location": [
+            16,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.309102,
+        "joy": 0.073523,
+        "fear": 0.022596,
+        "disgust": 0.124427,
+        "anger": 0.084008
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Rob K.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Rob K.",
+          "location": [
+            7,
+            13
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.309102,
+        "joy": 0.073523,
+        "fear": 0.022596,
+        "disgust": 0.124427,
+        "anger": 0.084008
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English given names",
+      "relevance": 0.832639,
+      "dbpedia_resource": "http://dbpedia.org/resource/English_given_names"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.685896,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

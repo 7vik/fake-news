@@ -1,0 +1,324 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 668,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.889777,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Education Secretary Betsy DeVos",
+      "sentiment": {
+        "score": -0.784505,
+        "label": "negative"
+      },
+      "relevance": 0.875932,
+      "emotion": {
+        "sadness": 0.035825,
+        "joy": 0.684773,
+        "fear": 0.018193,
+        "disgust": 0.197871,
+        "anger": 0.029297
+      },
+      "count": 1
+    },
+    {
+      "text": "rocky start",
+      "sentiment": {
+        "score": -0.784505,
+        "label": "negative"
+      },
+      "relevance": 0.845564,
+      "emotion": {
+        "sadness": 0.035825,
+        "joy": 0.684773,
+        "fear": 0.018193,
+        "disgust": 0.197871,
+        "anger": 0.029297
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.946514,
+        "label": "negative"
+      },
+      "relevance": 0.680558,
+      "emotion": {
+        "sadness": 0.146507,
+        "joy": 0.187136,
+        "fear": 0.082851,
+        "disgust": 0.38748,
+        "anger": 0.320183
+      },
+      "count": 1
+    },
+    {
+      "text": "Secretary of Education Betsy DeVos",
+      "sentiment": {
+        "score": -0.946514,
+        "label": "negative"
+      },
+      "relevance": 0.673697,
+      "emotion": {
+        "sadness": 0.146507,
+        "joy": 0.187136,
+        "fear": 0.082851,
+        "disgust": 0.38748,
+        "anger": 0.320183
+      },
+      "count": 1
+    },
+    {
+      "text": "tumultuous start",
+      "sentiment": {
+        "score": -0.946514,
+        "label": "negative"
+      },
+      "relevance": 0.62097,
+      "emotion": {
+        "sadness": 0.146507,
+        "joy": 0.187136,
+        "fear": 0.082851,
+        "disgust": 0.38748,
+        "anger": 0.320183
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Betsy DeVos",
+      "sentiment": {
+        "score": -0.494529,
+        "label": "negative"
+      },
+      "relevance": 0.854648,
+      "mentions": [
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            48,
+            59
+          ]
+        },
+        {
+          "text": "Betsy DeVos",
+          "location": [
+            130,
+            141
+          ]
+        },
+        {
+          "text": "DeVos",
+          "location": [
+            259,
+            264
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            329,
+            332
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            382,
+            385
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            547,
+            550
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.175701,
+        "joy": 0.201789,
+        "fear": 0.130555,
+        "disgust": 0.198775,
+        "anger": 0.208336
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Betsy DeVos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Betsy_DeVos"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.473152,
+        "label": "positive"
+      },
+      "relevance": 0.478351,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            64,
+            69
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            190,
+            195
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.037407,
+        "joy": 0.432699,
+        "fear": 0.017936,
+        "disgust": 0.425872,
+        "anger": 0.16196
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.465452,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            38,
+            47
+          ]
+        },
+        {
+          "text": "Secretary",
+          "location": [
+            107,
+            116
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.082602,
+        "joy": 0.226878,
+        "fear": 0.057327,
+        "disgust": 0.251741,
+        "anger": 0.33763
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Vice President",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.382113,
+      "mentions": [
+        {
+          "text": "Vice President",
+          "location": [
+            641,
+            655
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.389227,
+        "joy": 0.112316,
+        "fear": 0.085223,
+        "disgust": 0.179967,
+        "anger": 0.25209
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Mike Pence",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.370929,
+      "mentions": [
+        {
+          "text": "Mike Pence",
+          "location": [
+            656,
+            666
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.389227,
+        "joy": 0.112316,
+        "fear": 0.085223,
+        "disgust": 0.179967,
+        "anger": 0.25209
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "U.S.Congressperson",
+          "BroadcastArtist"
+        ],
+        "name": "Mike Pence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United States Senate",
+      "relevance": 0.984567,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.959888,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Advice and consent",
+      "relevance": 0.666342,
+      "dbpedia_resource": "http://dbpedia.org/resource/Advice_and_consent"
+    },
+    {
+      "text": "United States Cabinet",
+      "relevance": 0.623997,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Cabinet"
+    },
+    {
+      "text": "United States Constitution",
+      "relevance": 0.623139,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.84153,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

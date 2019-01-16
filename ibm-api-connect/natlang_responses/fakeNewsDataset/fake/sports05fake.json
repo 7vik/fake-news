@@ -1,0 +1,216 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 956,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.290994,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "best option",
+      "sentiment": {
+        "score": 0.98944,
+        "label": "positive"
+      },
+      "relevance": 0.798966,
+      "emotion": {
+        "sadness": 0.030916,
+        "joy": 0.807292,
+        "fear": 0.037072,
+        "disgust": 0.097599,
+        "anger": 0.030605
+      },
+      "count": 1
+    },
+    {
+      "text": "breast feeding",
+      "sentiment": {
+        "score": -0.705233,
+        "label": "negative"
+      },
+      "relevance": 0.790379,
+      "emotion": {
+        "sadness": 0.167646,
+        "joy": 0.174687,
+        "fear": 0.208323,
+        "disgust": 0.416077,
+        "anger": 0.116059
+      },
+      "count": 1
+    },
+    {
+      "text": "star athletes Sarah Wiltshire",
+      "sentiment": {
+        "score": 0.98944,
+        "label": "positive"
+      },
+      "relevance": 0.788755,
+      "emotion": {
+        "sadness": 0.030916,
+        "joy": 0.807292,
+        "fear": 0.037072,
+        "disgust": 0.097599,
+        "anger": 0.030605
+      },
+      "count": 1
+    },
+    {
+      "text": "much controversy",
+      "sentiment": {
+        "score": -0.705233,
+        "label": "negative"
+      },
+      "relevance": 0.761616,
+      "emotion": {
+        "sadness": 0.167646,
+        "joy": 0.174687,
+        "fear": 0.208323,
+        "disgust": 0.416077,
+        "anger": 0.116059
+      },
+      "count": 1
+    },
+    {
+      "text": "Asha Francis",
+      "sentiment": {
+        "score": 0.98944,
+        "label": "positive"
+      },
+      "relevance": 0.72522,
+      "emotion": {
+        "sadness": 0.030916,
+        "joy": 0.807292,
+        "fear": 0.037072,
+        "disgust": 0.097599,
+        "anger": 0.030605
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Asha Francis",
+      "sentiment": {
+        "score": 0.513826,
+        "label": "positive"
+      },
+      "relevance": 0.742946,
+      "mentions": [
+        {
+          "text": "Asha Francis",
+          "location": [
+            274,
+            286
+          ]
+        },
+        {
+          "text": "Francis",
+          "location": [
+            734,
+            741
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120394,
+        "joy": 0.60402,
+        "fear": 0.057002,
+        "disgust": 0.124536,
+        "anger": 0.074707
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Sarah Wiltshire",
+      "sentiment": {
+        "score": 0.513826,
+        "label": "positive"
+      },
+      "relevance": 0.463448,
+      "mentions": [
+        {
+          "text": "Sarah Wiltshire",
+          "location": [
+            254,
+            269
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.148161,
+        "joy": 0.629371,
+        "fear": 0.045167,
+        "disgust": 0.15183,
+        "anger": 0.072029
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Wiltshire.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.314284,
+      "mentions": [
+        {
+          "text": "Wiltshire.",
+          "location": [
+            712,
+            722
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Lactation",
+      "relevance": 0.925453,
+      "dbpedia_resource": "http://dbpedia.org/resource/Lactation"
+    },
+    {
+      "text": "Breastfeeding",
+      "relevance": 0.813687,
+      "dbpedia_resource": "http://dbpedia.org/resource/Breastfeeding"
+    },
+    {
+      "text": "Pregnancy",
+      "relevance": 0.806465,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+      "text": "Wet nurse",
+      "relevance": 0.7799,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wet_nurse"
+    },
+    {
+      "text": "Water",
+      "relevance": 0.777379,
+      "dbpedia_resource": "http://dbpedia.org/resource/Water"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.815399,
+      "label": "/careers/nursing"
+    }
+  ]
+}

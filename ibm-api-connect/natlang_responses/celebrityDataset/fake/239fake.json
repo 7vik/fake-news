@@ -1,0 +1,230 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 73,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.77434,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": -0.77434,
+        "label": "negative"
+      },
+      "relevance": 0.997708,
+      "emotion": {
+        "sadness": 0.118724,
+        "joy": 0.011046,
+        "fear": 0.208938,
+        "disgust": 0.461735,
+        "anger": 0.321424
+      },
+      "count": 1
+    },
+    {
+      "text": "Kendall",
+      "sentiment": {
+        "score": -0.77434,
+        "label": "negative"
+      },
+      "relevance": 0.844357,
+      "emotion": {
+        "sadness": 0.118724,
+        "joy": 0.011046,
+        "fear": 0.208938,
+        "disgust": 0.461735,
+        "anger": 0.321424
+      },
+      "count": 1
+    },
+    {
+      "text": "Gigi",
+      "sentiment": {
+        "score": -0.77434,
+        "label": "negative"
+      },
+      "relevance": 0.651447,
+      "emotion": {
+        "sadness": 0.118724,
+        "joy": 0.011046,
+        "fear": 0.208938,
+        "disgust": 0.461735,
+        "anger": 0.321424
+      },
+      "count": 1
+    },
+    {
+      "text": "Bella",
+      "sentiment": {
+        "score": -0.77434,
+        "label": "negative"
+      },
+      "relevance": 0.636757,
+      "emotion": {
+        "sadness": 0.118724,
+        "joy": 0.011046,
+        "fear": 0.208938,
+        "disgust": 0.461735,
+        "anger": 0.321424
+      },
+      "count": 1
+    },
+    {
+      "text": "nasty feud",
+      "sentiment": {
+        "score": -0.77434,
+        "label": "negative"
+      },
+      "relevance": 0.46056,
+      "emotion": {
+        "sadness": 0.118724,
+        "joy": 0.011046,
+        "fear": 0.208938,
+        "disgust": 0.461735,
+        "anger": 0.321424
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall",
+      "sentiment": {
+        "score": 0.330314,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kendall",
+          "location": [
+            4,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kylie Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kylie Jenner",
+          "location": [
+            13,
+            25
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.185447,
+        "fear": 0.08519,
+        "disgust": 0.097186,
+        "anger": 0.117716
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kylie Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kylie_Jenner"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Gigi",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Gigi",
+          "location": [
+            30,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.185447,
+        "fear": 0.08519,
+        "disgust": 0.097186,
+        "anger": 0.117716
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bella Hadid",
+      "sentiment": {
+        "score": -0.559425,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Bella Hadid",
+          "location": [
+            36,
+            47
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114973,
+        "joy": 0.004582,
+        "fear": 0.248878,
+        "disgust": 0.591555,
+        "anger": 0.319814
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.856692,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.852742,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.839777,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

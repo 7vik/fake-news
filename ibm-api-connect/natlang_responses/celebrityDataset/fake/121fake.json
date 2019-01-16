@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 97,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.812004,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999912,
+      "emotion": {
+        "sadness": 0.075254,
+        "joy": 0.413484,
+        "fear": 0.017772,
+        "disgust": 0.02459,
+        "anger": 0.087214
+      },
+      "count": 1
+    },
+    {
+      "text": "O.J. Simpson Are Set",
+      "sentiment": {
+        "score": 0.812004,
+        "label": "positive"
+      },
+      "relevance": 0.866922,
+      "emotion": {
+        "sadness": 0.075254,
+        "joy": 0.413484,
+        "fear": 0.017772,
+        "disgust": 0.02459,
+        "anger": 0.087214
+      },
+      "count": 1
+    },
+    {
+      "text": "TV",
+      "sentiment": {
+        "score": 0.812004,
+        "label": "positive"
+      },
+      "relevance": 0.574889,
+      "emotion": {
+        "sadness": 0.075254,
+        "joy": 0.413484,
+        "fear": 0.017772,
+        "disgust": 0.02459,
+        "anger": 0.087214
+      },
+      "count": 1
+    },
+    {
+      "text": "EXCLUSIVE",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.024809,
+      "emotion": {
+        "sadness": 0.916667,
+        "joy": 0,
+        "fear": 0.931034,
+        "disgust": 0.931034,
+        "anger": 0
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Caitlyn Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Caitlyn Jenner",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114945,
+        "joy": 0.259925,
+        "fear": 0.025528,
+        "disgust": 0.034178,
+        "anger": 0.121132
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "O.J. Simpson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "O.J. Simpson",
+          "location": [
+            19,
+            31
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114945,
+        "joy": 0.259925,
+        "fear": 0.025528,
+        "disgust": 0.034178,
+        "anger": 0.121132
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Criminal",
+          "FootballPlayer",
+          "HallOfFameInductee",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "O. J. Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "O. J. Simpson",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.970474,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Anderson Cooper",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.106681,
+        "joy": 0.2694,
+        "fear": 0.174709,
+        "disgust": 0.059851,
+        "anger": 0.125358
+      },
+      "count": 1
+    },
+    {
+      "text": "Kathy Griffin",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.028084,
+      "emotion": {
+        "sadness": 0.106681,
+        "joy": 0.2694,
+        "fear": 0.174709,
+        "disgust": 0.059851,
+        "anger": 0.125358
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Anderson Cooper",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Anderson Cooper",
+          "location": [
+            0,
+            15
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.092355,
+        "joy": 0.32551,
+        "fear": 0.145623,
+        "disgust": 0.069439,
+        "anger": 0.139011
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Anderson Cooper",
+        "dbpedia_resource": "http://dbpedia.org/resource/Anderson_Cooper"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kathy Griffin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kathy Griffin",
+          "location": [
+            19,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.092355,
+        "joy": 0.32551,
+        "fear": 0.145623,
+        "disgust": 0.069439,
+        "anger": 0.139011
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Comedian",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kathy Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kathy_Griffin"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Larry King Live",
+      "relevance": 0.917059,
+      "dbpedia_resource": "http://dbpedia.org/resource/Larry_King_Live"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.731762,
+      "label": "/art and entertainment/celebrity fan and gossip"
+    }
+  ]
+}

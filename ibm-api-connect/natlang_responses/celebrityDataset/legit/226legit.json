@@ -1,0 +1,147 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 71,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.780221,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beyonce Holds Blue Ivy",
+      "sentiment": {
+        "score": 0.780221,
+        "label": "positive"
+      },
+      "relevance": 0.995994,
+      "emotion": {
+        "sadness": 0.116116,
+        "joy": 0.614736,
+        "fear": 0.039911,
+        "disgust": 0.22339,
+        "anger": 0.0654
+      },
+      "count": 1
+    },
+    {
+      "text": "Baby Bump",
+      "sentiment": {
+        "score": 0.780221,
+        "label": "positive"
+      },
+      "relevance": 0.30619,
+      "emotion": {
+        "sadness": 0.116116,
+        "joy": 0.614736,
+        "fear": 0.039911,
+        "disgust": 0.22339,
+        "anger": 0.0654
+      },
+      "count": 1
+    },
+    {
+      "text": "Memorial Day Bikini Pic",
+      "sentiment": {
+        "score": 0.780221,
+        "label": "positive"
+      },
+      "relevance": 0.223092,
+      "emotion": {
+        "sadness": 0.116116,
+        "joy": 0.614736,
+        "fear": 0.039911,
+        "disgust": 0.22339,
+        "anger": 0.0654
+      },
+      "count": 1
+    },
+    {
+      "text": "Shows",
+      "sentiment": {
+        "score": 0.780221,
+        "label": "positive"
+      },
+      "relevance": 0.030765,
+      "emotion": {
+        "sadness": 0.116116,
+        "joy": 0.614736,
+        "fear": 0.039911,
+        "disgust": 0.22339,
+        "anger": 0.0654
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": 0.74483,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.23897,
+        "joy": 0.160597,
+        "fear": 0.047504,
+        "disgust": 0.06526,
+        "anger": 0.149592
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Memorial Day Bikini",
+      "sentiment": {
+        "score": 0.788148,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Memorial Day Bikini",
+          "location": [
+            47,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074407,
+        "joy": 0.640216,
+        "fear": 0.056765,
+        "disgust": 0.273849,
+        "anger": 0.030166
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Memorial Day",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Memorial_Day"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.873416,
+      "label": "/style and fashion/swimwear/bikinis"
+    }
+  ]
+}

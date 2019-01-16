@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 704,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.658863,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "European Commission clearance",
+      "sentiment": {
+        "score": 0.925714,
+        "label": "positive"
+      },
+      "relevance": 0.912705,
+      "emotion": {
+        "sadness": 0.445325,
+        "joy": 0.100643,
+        "fear": 0.279926,
+        "disgust": 0.061937,
+        "anger": 0.176095
+      },
+      "count": 1
+    },
+    {
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.807098,
+      "emotion": {
+        "sadness": 0.456461,
+        "joy": 0.079829,
+        "fear": 0.061504,
+        "disgust": 0.039413,
+        "anger": 0.115769
+      },
+      "count": 2
+    },
+    {
+      "text": "final steps",
+      "sentiment": {
+        "score": 0.925714,
+        "label": "positive"
+      },
+      "relevance": 0.773009,
+      "emotion": {
+        "sadness": 0.445325,
+        "joy": 0.100643,
+        "fear": 0.279926,
+        "disgust": 0.061937,
+        "anger": 0.176095
+      },
+      "count": 1
+    },
+    {
+      "text": "LSE",
+      "sentiment": {
+        "score": 0.766359,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.627499,
+      "emotion": {
+        "sadness": 0.221698,
+        "joy": 0.430904,
+        "fear": 0.208701,
+        "disgust": 0.028107,
+        "anger": 0.123393
+      },
+      "count": 4
+    },
+    {
+      "text": "next couple of weeks",
+      "sentiment": {
+        "score": 0.251186,
+        "label": "positive"
+      },
+      "relevance": 0.605925,
+      "emotion": {
+        "sadness": 0.112076,
+        "joy": 0.595906,
+        "fear": 0.18654,
+        "disgust": 0.018303,
+        "anger": 0.061796
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "London Stock Exchange",
+      "sentiment": {
+        "score": -0.412711,
+        "label": "negative"
+      },
+      "relevance": 0.93621,
+      "mentions": [
+        {
+          "text": "London Stock Exchange",
+          "location": [
+            0,
+            21
+          ]
+        },
+        {
+          "text": "London Stock Exchange",
+          "location": [
+            65,
+            86
+          ]
+        },
+        {
+          "text": "LSE",
+          "location": [
+            144,
+            147
+          ]
+        },
+        {
+          "text": "the LSE",
+          "location": [
+            319,
+            326
+          ]
+        },
+        {
+          "text": "The LSE",
+          "location": [
+            391,
+            398
+          ]
+        },
+        {
+          "text": "LSE",
+          "location": [
+            506,
+            509
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.540772,
+        "joy": 0.708679,
+        "fear": 0.133676,
+        "disgust": 0.049398,
+        "anger": 0.115977
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Facility",
+          "TouristAttraction"
+        ],
+        "name": "London Stock Exchange",
+        "dbpedia_resource": "http://dbpedia.org/resource/London_Stock_Exchange"
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Deutshe Boerse",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.333944,
+      "mentions": [
+        {
+          "text": "Deutshe Boerse",
+          "location": [
+            46,
+            60
+          ]
+        },
+        {
+          "text": "Deutshe Boerse",
+          "location": [
+            123,
+            137
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.456461,
+        "joy": 0.079829,
+        "fear": 0.061504,
+        "disgust": 0.039413,
+        "anger": 0.115769
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "European Commission",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.232328,
+      "mentions": [
+        {
+          "text": "European Commission",
+          "location": [
+            262,
+            281
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.231591,
+        "joy": 0.110503,
+        "fear": 0.193305,
+        "disgust": 0.06936,
+        "anger": 0.08981
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "MTS",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.185304,
+      "mentions": [
+        {
+          "text": "MTS",
+          "location": [
+            353,
+            356
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168547,
+        "joy": 0.098085,
+        "fear": 0.282744,
+        "disgust": 0.058537,
+        "anger": 0.2114
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "London Stock Exchange",
+      "relevance": 0.967725,
+      "dbpedia_resource": "http://dbpedia.org/resource/London_Stock_Exchange"
+    },
+    {
+      "text": "Stock market",
+      "relevance": 0.815585,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock_market"
+    },
+    {
+      "text": "Stock exchange",
+      "relevance": 0.725376,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stock_exchange"
+    },
+    {
+      "text": "European Union",
+      "relevance": 0.592267,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+    },
+    {
+      "text": "European Commission",
+      "relevance": 0.568257,
+      "dbpedia_resource": "http://dbpedia.org/resource/European_Commission"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.992569,
+      "label": "/business and industrial/company/earnings"
+    }
+  ]
+}

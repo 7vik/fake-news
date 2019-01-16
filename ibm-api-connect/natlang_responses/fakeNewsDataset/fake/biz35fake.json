@@ -1,0 +1,222 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 579,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.701542,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Saudi Arabia",
+      "sentiment": {
+        "score": -0.767777,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.999,
+      "emotion": {
+        "sadness": 0.399404,
+        "joy": 0.069281,
+        "fear": 0.214821,
+        "disgust": 0.226461,
+        "anger": 0.157042
+      },
+      "count": 4
+    },
+    {
+      "text": "tax rates",
+      "sentiment": {
+        "score": -0.916723,
+        "label": "negative"
+      },
+      "relevance": 0.928045,
+      "emotion": {
+        "sadness": 0.105977,
+        "joy": 0.092255,
+        "fear": 0.09,
+        "disgust": 0.171581,
+        "anger": 0.063837
+      },
+      "count": 1
+    },
+    {
+      "text": "Saudi Aramco",
+      "sentiment": {
+        "score": -0.923815,
+        "label": "negative"
+      },
+      "relevance": 0.889374,
+      "emotion": {
+        "sadness": 0.325702,
+        "joy": 0.058582,
+        "fear": 0.183277,
+        "disgust": 0.226908,
+        "anger": 0.165253
+      },
+      "count": 2
+    },
+    {
+      "text": "enormous tax increase",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.803515,
+      "emotion": {
+        "sadness": 0.183453,
+        "joy": 0.21339,
+        "fear": 0.106003,
+        "disgust": 0.035363,
+        "anger": 0.100416
+      },
+      "count": 1
+    },
+    {
+      "text": "national oil company",
+      "sentiment": {
+        "score": -0.916723,
+        "label": "negative"
+      },
+      "relevance": 0.709677,
+      "emotion": {
+        "sadness": 0.218095,
+        "joy": 0.072111,
+        "fear": 0.11988,
+        "disgust": 0.143607,
+        "anger": 0.077242
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Saudi Arabia",
+      "sentiment": {
+        "score": -0.658426,
+        "label": "negative"
+      },
+      "relevance": 0.899911,
+      "mentions": [
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            34,
+            46
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            161,
+            173
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            414,
+            426
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.438509,
+        "joy": 0.069936,
+        "fear": 0.237353,
+        "disgust": 0.27723,
+        "anger": 0.178016
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Saudi Aramco",
+      "sentiment": {
+        "score": -0.781707,
+        "label": "negative"
+      },
+      "relevance": 0.626751,
+      "mentions": [
+        {
+          "text": "Saudi Aramco",
+          "location": [
+            125,
+            137
+          ]
+        },
+        {
+          "text": "Saudi Aramco",
+          "location": [
+            469,
+            481
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.334828,
+        "joy": 0.077825,
+        "fear": 0.20668,
+        "disgust": 0.259949,
+        "anger": 0.244976
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Saudi Aramco",
+        "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Aramco"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Saudi Arabia",
+      "relevance": 0.977699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+      "text": "Petroleum",
+      "relevance": 0.843698,
+      "dbpedia_resource": "http://dbpedia.org/resource/Petroleum"
+    },
+    {
+      "text": "Saudi Aramco",
+      "relevance": 0.664687,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Aramco"
+    },
+    {
+      "text": "Ras Tanura",
+      "relevance": 0.618308,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ras_Tanura"
+    },
+    {
+      "text": "Saudi Aramco Residential Camp in Dhahran",
+      "relevance": 0.612938,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Aramco_Residential_Camp_in_Dhahran"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999105,
+      "label": "/business and industrial/energy/oil"
+    }
+  ]
+}

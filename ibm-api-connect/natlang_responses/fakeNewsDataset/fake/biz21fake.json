@@ -1,0 +1,354 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 718,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.429839,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "American Airlines",
+      "sentiment": {
+        "score": 0.865678,
+        "label": "positive"
+      },
+      "relevance": 0.962982,
+      "emotion": {
+        "sadness": 0.072018,
+        "joy": 0.16523,
+        "fear": 0.081409,
+        "disgust": 0.49283,
+        "anger": 0.149032
+      },
+      "count": 3
+    },
+    {
+      "text": "China Southern",
+      "sentiment": {
+        "score": -0.33974,
+        "label": "negative"
+      },
+      "relevance": 0.878696,
+      "emotion": {
+        "sadness": 0.25757,
+        "joy": 0.2455,
+        "fear": 0.194893,
+        "disgust": 0.249924,
+        "anger": 0.130392
+      },
+      "count": 2
+    },
+    {
+      "text": "China's biggest carrier",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.745871,
+      "emotion": {
+        "sadness": 0.091887,
+        "joy": 0.149757,
+        "fear": 0.06902,
+        "disgust": 0.456109,
+        "anger": 0.112585
+      },
+      "count": 1
+    },
+    {
+      "text": "US airline",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.642608,
+      "emotion": {
+        "sadness": 0.195674,
+        "joy": 0.493725,
+        "fear": 0.055253,
+        "disgust": 0.170159,
+        "anger": 0.094084
+      },
+      "count": 1
+    },
+    {
+      "text": "old planes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636807,
+      "emotion": {
+        "sadness": 0.146928,
+        "joy": 0.04871,
+        "fear": 0.233789,
+        "disgust": 0.526396,
+        "anger": 0.169925
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "American Airlines",
+      "sentiment": {
+        "score": 0.586516,
+        "label": "positive"
+      },
+      "relevance": 0.87473,
+      "mentions": [
+        {
+          "text": "American Airlines",
+          "location": [
+            0,
+            17
+          ]
+        },
+        {
+          "text": "American Airlines",
+          "location": [
+            71,
+            88
+          ]
+        },
+        {
+          "text": "airlines",
+          "location": [
+            303,
+            311
+          ]
+        },
+        {
+          "text": "American Airlines",
+          "location": [
+            385,
+            402
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.100542,
+        "joy": 0.285188,
+        "fear": 0.099424,
+        "disgust": 0.395843,
+        "anger": 0.129331
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "China",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.566126,
+      "mentions": [
+        {
+          "text": "China",
+          "location": [
+            108,
+            113
+          ]
+        },
+        {
+          "text": "China",
+          "location": [
+            291,
+            296
+          ]
+        },
+        {
+          "text": "China",
+          "location": [
+            510,
+            515
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.113452,
+        "joy": 0.450985,
+        "fear": 0.149393,
+        "disgust": 0.016474,
+        "anger": 0.090293
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "FilmScreeningVenue",
+          "Country"
+        ],
+        "name": "China",
+        "dbpedia_resource": "http://dbpedia.org/resource/China"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "China Southern",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.533641,
+      "mentions": [
+        {
+          "text": "China Southern",
+          "location": [
+            39,
+            53
+          ]
+        },
+        {
+          "text": "China Southern",
+          "location": [
+            259,
+            273
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.167351,
+        "joy": 0.156724,
+        "fear": 0.237517,
+        "disgust": 0.340415,
+        "anger": 0.17038
+      },
+      "disambiguation": {
+        "subtype": [
+          "Airline",
+          "TransportOperator"
+        ],
+        "name": "China Southern Airlines",
+        "dbpedia_resource": "http://dbpedia.org/resource/China_Southern_Airlines"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.289171,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            200,
+            202
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            568,
+            570
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.120601,
+        "joy": 0.486705,
+        "fear": 0.100791,
+        "disgust": 0.017658,
+        "anger": 0.081449
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Flo Rida",
+      "sentiment": {
+        "score": 0.586516,
+        "label": "positive"
+      },
+      "relevance": 0.275301,
+      "mentions": [
+        {
+          "text": "Flo Rida",
+          "location": [
+            500,
+            508
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.12096,
+        "joy": 0.223982,
+        "fear": 0.048689,
+        "disgust": 0.089191,
+        "anger": 0.08116
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "BroadcastArtist",
+          "Celebrity",
+          "Lyricist",
+          "MusicalGroupMember"
+        ],
+        "name": "Flo Rida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Flo_Rida"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pan American World Airways",
+      "relevance": 0.975574,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pan_American_World_Airways"
+    },
+    {
+      "text": "Boeing 707",
+      "relevance": 0.822375,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boeing_707"
+    },
+    {
+      "text": "Pakistan International Airlines",
+      "relevance": 0.812302,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pakistan_International_Airlines"
+    },
+    {
+      "text": "Northwest Airlines",
+      "relevance": 0.780055,
+      "dbpedia_resource": "http://dbpedia.org/resource/Northwest_Airlines"
+    },
+    {
+      "text": "Japan Airlines",
+      "relevance": 0.751156,
+      "dbpedia_resource": "http://dbpedia.org/resource/Japan_Airlines"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999993,
+      "label": "/travel/transports/air travel/airlines"
+    }
+  ]
+}

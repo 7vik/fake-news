@@ -1,0 +1,175 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 810,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.91513,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "airline laptop limits",
+      "sentiment": {
+        "score": -0.959686,
+        "label": "negative"
+      },
+      "relevance": 0.749914,
+      "emotion": {
+        "sadness": 0.356713,
+        "joy": 0.270428,
+        "fear": 0.131784,
+        "disgust": 0.035432,
+        "anger": 0.197019
+      },
+      "count": 1
+    },
+    {
+      "text": "new threat",
+      "sentiment": {
+        "score": -0.959686,
+        "label": "negative"
+      },
+      "relevance": 0.717601,
+      "emotion": {
+        "sadness": 0.356713,
+        "joy": 0.270428,
+        "fear": 0.131784,
+        "disgust": 0.035432,
+        "anger": 0.197019
+      },
+      "count": 1
+    },
+    {
+      "text": "cabins of some international flights",
+      "sentiment": {
+        "score": -0.959686,
+        "label": "negative"
+      },
+      "relevance": 0.702235,
+      "emotion": {
+        "sadness": 0.314716,
+        "joy": 0.014526,
+        "fear": 0.476645,
+        "disgust": 0.016552,
+        "anger": 0.394651
+      },
+      "count": 1
+    },
+    {
+      "text": "electronic devices",
+      "sentiment": {
+        "score": -0.866443,
+        "label": "negative"
+      },
+      "relevance": 0.694744,
+      "emotion": {
+        "sadness": 0.314716,
+        "joy": 0.014526,
+        "fear": 0.476645,
+        "disgust": 0.016552,
+        "anger": 0.394651
+      },
+      "count": 1
+    },
+    {
+      "text": "American officials",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.683501,
+      "emotion": {
+        "sadness": 0.180036,
+        "joy": 0.375488,
+        "fear": 0.131492,
+        "disgust": 0.223745,
+        "anger": 0.256252
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.732025,
+        "label": "negative"
+      },
+      "relevance": 0.60601,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            58,
+            62
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            703,
+            707
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.297435,
+        "joy": 0.041086,
+        "fear": 0.488564,
+        "disgust": 0.083932,
+        "anger": 0.371311
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Civil liberties",
+      "relevance": 0.947974,
+      "dbpedia_resource": "http://dbpedia.org/resource/Civil_liberties"
+    },
+    {
+      "text": "Laptop",
+      "relevance": 0.856652,
+      "dbpedia_resource": "http://dbpedia.org/resource/Laptop"
+    },
+    {
+      "text": "New York City",
+      "relevance": 0.851152,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Netbook",
+      "relevance": 0.833193,
+      "dbpedia_resource": "http://dbpedia.org/resource/Netbook"
+    },
+    {
+      "text": "Smartphone",
+      "relevance": 0.700859,
+      "dbpedia_resource": "http://dbpedia.org/resource/Smartphone"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996736,
+      "label": "/technology and computing/hardware/computer/portable computer/laptop"
+    }
+  ]
+}

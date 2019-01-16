@@ -1,0 +1,122 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 88,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.991038,
+      "emotion": {
+        "sadness": 0.261312,
+        "joy": 0.475829,
+        "fear": 0.156922,
+        "disgust": 0.016076,
+        "anger": 0.19119
+      },
+      "count": 1
+    },
+    {
+      "text": "Identity",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636172,
+      "emotion": {
+        "sadness": 0.261312,
+        "joy": 0.475829,
+        "fear": 0.156922,
+        "disgust": 0.016076,
+        "anger": 0.19119
+      },
+      "count": 1
+    },
+    {
+      "text": "Surrogate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.083033,
+      "emotion": {
+        "sadness": 0.261312,
+        "joy": 0.475829,
+        "fear": 0.156922,
+        "disgust": 0.016076,
+        "anger": 0.19119
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": -0.846916,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            26,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.261312,
+        "joy": 0.475829,
+        "fear": 0.156922,
+        "disgust": 0.016076,
+        "anger": 0.19119
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "What Happened",
+      "relevance": 0.627417,
+      "dbpedia_resource": "http://dbpedia.org/resource/What_Happened"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.658013,
+      "label": "/family and parenting/children"
+    }
+  ]
+}

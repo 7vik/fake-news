@@ -1,0 +1,199 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 67,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sean Penn",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885021,
+      "emotion": {
+        "sadness": 0.504852,
+        "joy": 0.176073,
+        "fear": 0.094497,
+        "disgust": 0.146939,
+        "anger": 0.070786
+      },
+      "count": 1
+    },
+    {
+      "text": "Charlize Theron Break Keanu Reeves' Heart",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.483729,
+      "emotion": {
+        "sadness": 0.504852,
+        "joy": 0.176073,
+        "fear": 0.094497,
+        "disgust": 0.146939,
+        "anger": 0.070786
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Keanu Reeves",
+      "sentiment": {
+        "score": -0.547476,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Keanu Reeves",
+          "location": [
+            26,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.701477,
+        "joy": 0.006216,
+        "fear": 0.295332,
+        "disgust": 0.086418,
+        "anger": 0.22981
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor"
+        ],
+        "name": "Keanu Reeves",
+        "dbpedia_resource": "http://dbpedia.org/resource/Keanu_Reeves"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sean Penn",
+      "sentiment": {
+        "score": 0.454147,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Sean Penn",
+          "location": [
+            56,
+            65
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131906,
+        "joy": 0.526102,
+        "fear": 0.023834,
+        "disgust": 0.074461,
+        "anger": 0.012023
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Sean Penn",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sean_Penn"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charlize Theron",
+      "sentiment": {
+        "score": -0.547476,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Charlize Theron",
+          "location": [
+            4,
+            19
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.701477,
+        "joy": 0.006216,
+        "fear": 0.295332,
+        "disgust": 0.086418,
+        "anger": 0.22981
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Charlize Theron",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charlize_Theron"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "The Devil's Advocate",
+      "relevance": 0.956775,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Devil's_Advocate_(film)"
+    },
+    {
+      "text": "Sweet November",
+      "relevance": 0.908639,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sweet_November_(2001_film)"
+    },
+    {
+      "text": "American film actors",
+      "relevance": 0.657478,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_film_actors"
+    },
+    {
+      "text": "Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture",
+      "relevance": 0.594752,
+      "dbpedia_resource": "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.99779,
+      "label": "/society/dating"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 853,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.578534,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "John Paulson",
+      "sentiment": {
+        "score": -0.941986,
+        "label": "negative"
+      },
+      "relevance": 0.824771,
+      "emotion": {
+        "sadness": 0.739895,
+        "joy": 0.012291,
+        "fear": 0.251087,
+        "disgust": 0.164722,
+        "anger": 0.106882
+      },
+      "count": 1
+    },
+    {
+      "text": "Hedge fund exec",
+      "sentiment": {
+        "score": -0.65288,
+        "label": "negative"
+      },
+      "relevance": 0.785107,
+      "emotion": {
+        "sadness": 0.439091,
+        "joy": 0.028924,
+        "fear": 0.164356,
+        "disgust": 0.410332,
+        "anger": 0.13583
+      },
+      "count": 1
+    },
+    {
+      "text": "president of Paulson",
+      "sentiment": {
+        "score": -0.941986,
+        "label": "negative"
+      },
+      "relevance": 0.705087,
+      "emotion": {
+        "sadness": 0.739895,
+        "joy": 0.012291,
+        "fear": 0.251087,
+        "disgust": 0.164722,
+        "anger": 0.106882
+      },
+      "count": 1
+    },
+    {
+      "text": "separate hedge fund",
+      "sentiment": {
+        "score": -0.941986,
+        "label": "negative"
+      },
+      "relevance": 0.686138,
+      "emotion": {
+        "sadness": 0.739895,
+        "joy": 0.012291,
+        "fear": 0.251087,
+        "disgust": 0.164722,
+        "anger": 0.106882
+      },
+      "count": 1
+    },
+    {
+      "text": "fourth-floor terrace of the Sofitel hotel",
+      "sentiment": {
+        "score": -0.65288,
+        "label": "negative"
+      },
+      "relevance": 0.574889,
+      "emotion": {
+        "sadness": 0.11413,
+        "joy": 0.127077,
+        "fear": 0.391165,
+        "disgust": 0.130317,
+        "anger": 0.365366
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Charles Murphy",
+      "sentiment": {
+        "score": -0.075672,
+        "label": "negative"
+      },
+      "relevance": 0.860872,
+      "mentions": [
+        {
+          "text": "Charles Murphy",
+          "location": [
+            74,
+            88
+          ]
+        },
+        {
+          "text": "Murphy",
+          "location": [
+            314,
+            320
+          ]
+        },
+        {
+          "text": "Charles",
+          "location": [
+            354,
+            361
+          ]
+        },
+        {
+          "text": "Murphy",
+          "location": [
+            441,
+            447
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.343392,
+        "joy": 0.335927,
+        "fear": 0.203611,
+        "disgust": 0.060246,
+        "anger": 0.235299
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Madoff",
+      "sentiment": {
+        "score": -0.710575,
+        "label": "negative"
+      },
+      "relevance": 0.404608,
+      "mentions": [
+        {
+          "text": "Madoff",
+          "location": [
+            48,
+            54
+          ]
+        },
+        {
+          "text": "Madoff",
+          "location": [
+            522,
+            528
+          ]
+        },
+        {
+          "text": "Madoff",
+          "location": [
+            623,
+            629
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            746,
+            748
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            790,
+            792
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.662674,
+        "joy": 0.056495,
+        "fear": 0.103691,
+        "disgust": 0.153945,
+        "anger": 0.305973
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "John Paulson",
+      "sentiment": {
+        "score": -0.710641,
+        "label": "negative"
+      },
+      "relevance": 0.353746,
+      "mentions": [
+        {
+          "text": "John Paulson",
+          "location": [
+            240,
+            252
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.698764,
+        "joy": 0.024197,
+        "fear": 0.401346,
+        "disgust": 0.063155,
+        "anger": 0.078601
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember"
+        ],
+        "name": "John Paulson",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Paulson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Paulson & Co.",
+      "sentiment": {
+        "score": -0.260661,
+        "label": "negative"
+      },
+      "relevance": 0.298285,
+      "mentions": [
+        {
+          "text": "Paulson & Co.",
+          "location": [
+            271,
+            284
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Fairfield Greenwich",
+      "sentiment": {
+        "score": -0.626172,
+        "label": "negative"
+      },
+      "relevance": 0.266136,
+      "mentions": [
+        {
+          "text": "Fairfield Greenwich",
+          "location": [
+            464,
+            483
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.589201,
+        "joy": 0.185148,
+        "fear": 0.17897,
+        "disgust": 0.035442,
+        "anger": 0.142786
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Fairfield Greenwich Group",
+        "dbpedia_resource": "http://dbpedia.org/resource/Fairfield_Greenwich_Group"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ponzi scheme",
+      "relevance": 0.983397,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ponzi_scheme"
+    },
+    {
+      "text": "Mutual fund",
+      "relevance": 0.626407,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mutual_fund"
+    },
+    {
+      "text": "Fraud",
+      "relevance": 0.621416,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fraud"
+    },
+    {
+      "text": "Confidence trick",
+      "relevance": 0.592373,
+      "dbpedia_resource": "http://dbpedia.org/resource/Confidence_trick"
+    },
+    {
+      "text": "Finance",
+      "relevance": 0.581858,
+      "dbpedia_resource": "http://dbpedia.org/resource/Finance"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.995643,
+      "label": "/finance/investing/funds/hedge fund"
+    }
+  ]
+}

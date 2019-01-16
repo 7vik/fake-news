@@ -1,0 +1,108 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 83,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.918999,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Gwen Stefani Shockingly Ruptures Eardrum",
+      "sentiment": {
+        "score": -0.918999,
+        "label": "negative"
+      },
+      "relevance": 0.99193,
+      "emotion": {
+        "sadness": 0.52598,
+        "joy": 0.014248,
+        "fear": 0.135439,
+        "disgust": 0.171958,
+        "anger": 0.250329
+      },
+      "count": 1
+    },
+    {
+      "text": "Cancel Show",
+      "sentiment": {
+        "score": -0.918999,
+        "label": "negative"
+      },
+      "relevance": 0.00807,
+      "emotion": {
+        "sadness": 0.52598,
+        "joy": 0.014248,
+        "fear": 0.135439,
+        "disgust": 0.171958,
+        "anger": 0.250329
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gwen Stefani",
+      "sentiment": {
+        "score": -0.804406,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Gwen Stefani",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.570644,
+        "joy": 0.022179,
+        "fear": 0.129265,
+        "disgust": 0.162342,
+        "anger": 0.234441
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Gwen Stefani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Gwen Stefani",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gwen_Stefani"
+    },
+    {
+      "text": "No Doubt",
+      "relevance": 0.586845,
+      "dbpedia_resource": "http://dbpedia.org/resource/No_Doubt"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.606837,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

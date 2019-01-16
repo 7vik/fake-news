@@ -1,0 +1,220 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 132,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.662436,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": -0.298639,
+        "label": "negative"
+      },
+      "relevance": 0.996158,
+      "emotion": {
+        "sadness": 0.286749,
+        "joy": 0.176012,
+        "fear": 0.224408,
+        "disgust": 0.063361,
+        "anger": 0.186412
+      },
+      "count": 1
+    },
+    {
+      "text": "Darren Aronofsky",
+      "sentiment": {
+        "score": -0.298639,
+        "label": "negative"
+      },
+      "relevance": 0.818306,
+      "emotion": {
+        "sadness": 0.286749,
+        "joy": 0.176012,
+        "fear": 0.224408,
+        "disgust": 0.063361,
+        "anger": 0.186412
+      },
+      "count": 1
+    },
+    {
+      "text": "romance",
+      "sentiment": {
+        "score": -0.298639,
+        "label": "negative"
+      },
+      "relevance": 0.589013,
+      "emotion": {
+        "sadness": 0.286749,
+        "joy": 0.176012,
+        "fear": 0.224408,
+        "disgust": 0.063361,
+        "anger": 0.186412
+      },
+      "count": 1
+    },
+    {
+      "text": "stroll",
+      "sentiment": {
+        "score": -0.298639,
+        "label": "negative"
+      },
+      "relevance": 0.084837,
+      "emotion": {
+        "sadness": 0.286749,
+        "joy": 0.176012,
+        "fear": 0.224408,
+        "disgust": 0.063361,
+        "anger": 0.186412
+      },
+      "count": 1
+    },
+    {
+      "text": "NYC",
+      "sentiment": {
+        "score": -0.298639,
+        "label": "negative"
+      },
+      "relevance": 0.081565,
+      "emotion": {
+        "sadness": 0.286749,
+        "joy": 0.176012,
+        "fear": 0.224408,
+        "disgust": 0.063361,
+        "anger": 0.186412
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Darren Aronofsky",
+      "sentiment": {
+        "score": 0.31052,
+        "label": "positive"
+      },
+      "relevance": 0.935581,
+      "mentions": [
+        {
+          "text": "Darren Aronofsky",
+          "location": [
+            45,
+            61
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "FilmWriter"
+        ],
+        "name": "Darren Aronofsky",
+        "dbpedia_resource": "http://dbpedia.org/resource/Darren_Aronofsky"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Lawrence",
+      "sentiment": {
+        "score": 0.582209,
+        "label": "positive"
+      },
+      "relevance": 0.718744,
+      "mentions": [
+        {
+          "text": "Jennifer Lawrence",
+          "location": [
+            18,
+            35
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.131756,
+        "joy": 0.190072,
+        "fear": 0.080259,
+        "disgust": 0.072183,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor"
+        ],
+        "name": "Jennifer Lawrence",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lawrence"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "NYC",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.414882,
+      "mentions": [
+        {
+          "text": "NYC",
+          "location": [
+            128,
+            131
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.358365,
+        "joy": 0.139168,
+        "fear": 0.281048,
+        "disgust": 0.061861,
+        "anger": 0.194681
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Darren Aronofsky",
+      "relevance": 0.915043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Darren_Aronofsky"
+    },
+    {
+      "text": "Love",
+      "relevance": 0.596256,
+      "dbpedia_resource": "http://dbpedia.org/resource/Love"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.667061,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Harvey Weinstein plans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.983963,
+      "emotion": {
+        "sadness": 0.19673,
+        "joy": 0.159776,
+        "fear": 0.088023,
+        "disgust": 0.052134,
+        "anger": 0.102212
+      },
+      "count": 1
+    },
+    {
+      "text": "New York Times",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.016037,
+      "emotion": {
+        "sadness": 0.19673,
+        "joy": 0.159776,
+        "fear": 0.088023,
+        "disgust": 0.052134,
+        "anger": 0.102212
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Harvey Weinstein",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Harvey Weinstein",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.19673,
+        "joy": 0.159776,
+        "fear": 0.088023,
+        "disgust": 0.052134,
+        "anger": 0.102212
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "CompanyFounder",
+          "FilmDirector",
+          "FilmProducer",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Harvey Weinstein",
+        "dbpedia_resource": "http://dbpedia.org/resource/Harvey_Weinstein"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "New York Times",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "New York Times",
+          "location": [
+            30,
+            44
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.19673,
+        "joy": 0.159776,
+        "fear": 0.088023,
+        "disgust": 0.052134,
+        "anger": 0.102212
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Company",
+          "AwardPresentingOrganization",
+          "AwardWinner",
+          "CompanyShareholder",
+          "Newspaper"
+        ],
+        "name": "The New York Times",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_New_York_Times"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "50M",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "50M",
+          "location": [
+            50,
+            53
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.640653,
+      "label": "/art and entertainment/movies"
+    }
+  ]
+}

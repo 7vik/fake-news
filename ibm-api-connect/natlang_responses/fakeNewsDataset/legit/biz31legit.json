@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 669,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.740275,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "High-Tax 70s",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.785674,
+      "emotion": {
+        "sadness": 0.034362,
+        "joy": 0.111489,
+        "fear": 0.092005,
+        "disgust": 0.172204,
+        "anger": 0.042513
+      },
+      "count": 1
+    },
+    {
+      "text": "economic think tank",
+      "sentiment": {
+        "score": -0.604735,
+        "label": "negative"
+      },
+      "relevance": 0.771899,
+      "emotion": {
+        "sadness": 0.067243,
+        "joy": 0.016013,
+        "fear": 0.089877,
+        "disgust": 0.692371,
+        "anger": 0.174446
+      },
+      "count": 1
+    },
+    {
+      "text": "things head",
+      "sentiment": {
+        "score": -0.813328,
+        "label": "negative"
+      },
+      "relevance": 0.720038,
+      "emotion": {
+        "sadness": 0.517542,
+        "joy": 0.117588,
+        "fear": 0.174109,
+        "disgust": 0.064888,
+        "anger": 0.106372
+      },
+      "count": 1
+    },
+    {
+      "text": "Social Democratic",
+      "sentiment": {
+        "score": -0.604735,
+        "label": "negative"
+      },
+      "relevance": 0.686006,
+      "emotion": {
+        "sadness": 0.067243,
+        "joy": 0.016013,
+        "fear": 0.089877,
+        "disgust": 0.692371,
+        "anger": 0.174446
+      },
+      "count": 1
+    },
+    {
+      "text": "Sweden's state",
+      "sentiment": {
+        "score": -0.604735,
+        "label": "negative"
+      },
+      "relevance": 0.656358,
+      "emotion": {
+        "sadness": 0.067243,
+        "joy": 0.016013,
+        "fear": 0.089877,
+        "disgust": 0.692371,
+        "anger": 0.174446
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Sweden",
+      "sentiment": {
+        "score": -0.653237,
+        "label": "negative"
+      },
+      "relevance": 0.842396,
+      "mentions": [
+        {
+          "text": "Sweden",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Sweden",
+          "location": [
+            77,
+            83
+          ]
+        },
+        {
+          "text": "Sweden",
+          "location": [
+            150,
+            156
+          ]
+        },
+        {
+          "text": "Sweden",
+          "location": [
+            660,
+            666
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.147513,
+        "joy": 0.088904,
+        "fear": 0.157048,
+        "disgust": 0.124656,
+        "anger": 0.064101
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Urban Hansson Brusewitz",
+      "sentiment": {
+        "score": -0.501284,
+        "label": "negative"
+      },
+      "relevance": 0.403885,
+      "mentions": [
+        {
+          "text": "Urban Hansson Brusewitz",
+          "location": [
+            457,
+            480
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.134079,
+        "joy": 0.046396,
+        "fear": 0.104269,
+        "disgust": 0.145479,
+        "anger": 0.028721
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "National Institute of Economic Research",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.402411,
+      "mentions": [
+        {
+          "text": "National Institute of Economic Research",
+          "location": [
+            506,
+            545
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119292,
+        "joy": 0.311997,
+        "fear": 0.222928,
+        "disgust": 0.086783,
+        "anger": 0.136067
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "director-general",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.326509,
+      "mentions": [
+        {
+          "text": "director-general",
+          "location": [
+            482,
+            498
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119292,
+        "joy": 0.311997,
+        "fear": 0.222928,
+        "disgust": 0.086783,
+        "anger": 0.136067
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Progressive tax",
+      "relevance": 0.963738,
+      "dbpedia_resource": "http://dbpedia.org/resource/Progressive_tax"
+    },
+    {
+      "text": "Tax",
+      "relevance": 0.9044,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tax"
+    },
+    {
+      "text": "Taxation in the United States",
+      "relevance": 0.867158,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taxation_in_the_United_States"
+    },
+    {
+      "text": "Taxation",
+      "relevance": 0.858323,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taxation"
+    },
+    {
+      "text": "Income tax",
+      "relevance": 0.798749,
+      "dbpedia_resource": "http://dbpedia.org/resource/Income_tax"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.833263,
+      "label": "/society/work/unemployment"
+    }
+  ]
+}

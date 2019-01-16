@@ -1,0 +1,272 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 668,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.790602,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "second U.S. official",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.889273,
+      "emotion": {
+        "sadness": 0.477507,
+        "joy": 0.038861,
+        "fear": 0.187587,
+        "disgust": 0.216105,
+        "anger": 0.298243
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. government",
+      "sentiment": {
+        "score": -0.790602,
+        "label": "negative"
+      },
+      "relevance": 0.856721,
+      "emotion": {
+        "sadness": 0.595364,
+        "joy": 0.085071,
+        "fear": 0.178473,
+        "disgust": 0.102021,
+        "anger": 0.236476
+      },
+      "count": 1
+    },
+    {
+      "text": "U.S. security officials",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.72481,
+      "emotion": {
+        "sadness": 0.197343,
+        "joy": 0.06133,
+        "fear": 0.377361,
+        "disgust": 0.170832,
+        "anger": 0.087787
+      },
+      "count": 1
+    },
+    {
+      "text": "Transportation Security Administration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.67276,
+      "emotion": {
+        "sadness": 0.477507,
+        "joy": 0.038861,
+        "fear": 0.187587,
+        "disgust": 0.216105,
+        "anger": 0.298243
+      },
+      "count": 1
+    },
+    {
+      "text": "Royal Jordanian Airlines",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.636022,
+      "emotion": {
+        "sadness": 0.351615,
+        "joy": 0.156825,
+        "fear": 0.120657,
+        "disgust": 0.29449,
+        "anger": 0.293979
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Royal Jordanian Airlines",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.876029,
+      "mentions": [
+        {
+          "text": "Royal Jordanian Airlines",
+          "location": [
+            412,
+            436
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.351615,
+        "joy": 0.156825,
+        "fear": 0.120657,
+        "disgust": 0.29449,
+        "anger": 0.293979
+      },
+      "disambiguation": {
+        "subtype": [
+          "Airline"
+        ],
+        "name": "Royal Jordanian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Royal_Jordanian"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Transportation Security Administration",
+      "sentiment": {
+        "score": -0.446107,
+        "label": "negative"
+      },
+      "relevance": 0.558732,
+      "mentions": [
+        {
+          "text": "Transportation Security Administration",
+          "location": [
+            563,
+            601
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.349881,
+        "joy": 0.04344,
+        "fear": 0.189841,
+        "disgust": 0.079585,
+        "anger": 0.095631
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ],
+        "name": "Transportation Security Administration",
+        "dbpedia_resource": "http://dbpedia.org/resource/Transportation_Security_Administration"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Saudi Arabia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.463847,
+      "mentions": [
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            469,
+            481
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.351615,
+        "joy": 0.156825,
+        "fear": 0.120657,
+        "disgust": 0.29449,
+        "anger": 0.293979
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.54388,
+        "label": "negative"
+      },
+      "relevance": 0.418471,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            322,
+            326
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            492,
+            496
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.373681,
+        "joy": 0.019951,
+        "fear": 0.183462,
+        "disgust": 0.335151,
+        "anger": 0.429358
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jordan",
+      "relevance": 0.959097,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jordan"
+    },
+    {
+      "text": "Federal government of the United States",
+      "relevance": 0.682686,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+    },
+    {
+      "text": "Saudi Arabia",
+      "relevance": 0.568319,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+      "text": "Oneworld",
+      "relevance": 0.540648,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oneworld"
+    },
+    {
+      "text": "United States Department of Homeland Security",
+      "relevance": 0.534838,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Homeland_Security"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.77571,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

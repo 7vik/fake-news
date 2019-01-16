@@ -1,0 +1,61 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 26,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "TV Show 'Bones",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.814224,
+        "joy": 0.023631,
+        "fear": 0.048167,
+        "disgust": 0.193752,
+        "anger": 0.064046
+      },
+      "count": 1
+    }
+  ],
+  "entities": [],
+  "concepts": [
+    {
+      "text": "Television",
+      "relevance": 0.858666,
+      "dbpedia_resource": "http://dbpedia.org/resource/Television"
+    },
+    {
+      "text": "Television program",
+      "relevance": 0.816701,
+      "dbpedia_resource": "http://dbpedia.org/resource/Television_program"
+    },
+    {
+      "text": "Reality television",
+      "relevance": 0.771901,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reality_television"
+    },
+    {
+      "text": "Television network",
+      "relevance": 0.719443,
+      "dbpedia_resource": "http://dbpedia.org/resource/Television_network"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.89773,
+      "label": "/art and entertainment/movies and tv/reality"
+    }
+  ]
+}

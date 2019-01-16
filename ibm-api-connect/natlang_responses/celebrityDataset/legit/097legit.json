@@ -1,0 +1,157 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 80,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.755587,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Obamas' Life",
+      "sentiment": {
+        "score": 0.755587,
+        "label": "positive"
+      },
+      "relevance": 0.825588,
+      "emotion": {
+        "sadness": 0.07549,
+        "joy": 0.824929,
+        "fear": 0.030227,
+        "disgust": 0.040219,
+        "anger": 0.038165
+      },
+      "count": 1
+    },
+    {
+      "text": "Lunch",
+      "sentiment": {
+        "score": 0.755587,
+        "label": "positive"
+      },
+      "relevance": 0.755845,
+      "emotion": {
+        "sadness": 0.07549,
+        "joy": 0.824929,
+        "fear": 0.030227,
+        "disgust": 0.040219,
+        "anger": 0.038165
+      },
+      "count": 1
+    },
+    {
+      "text": "Hawaii",
+      "sentiment": {
+        "score": 0.755587,
+        "label": "positive"
+      },
+      "relevance": 0.633014,
+      "emotion": {
+        "sadness": 0.07549,
+        "joy": 0.824929,
+        "fear": 0.030227,
+        "disgust": 0.040219,
+        "anger": 0.038165
+      },
+      "count": 1
+    },
+    {
+      "text": "Bono",
+      "sentiment": {
+        "score": 0.755587,
+        "label": "positive"
+      },
+      "relevance": 0.374938,
+      "emotion": {
+        "sadness": 0.07549,
+        "joy": 0.824929,
+        "fear": 0.030227,
+        "disgust": 0.040219,
+        "anger": 0.038165
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Sport",
+      "text": "Kitesurfing",
+      "sentiment": {
+        "score": 0.500053,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kitesurfing",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kitesurfing",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kitesurfing"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Bono",
+      "sentiment": {
+        "score": 0.584398,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Bono",
+          "location": [
+            24,
+            28
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.042939,
+        "joy": 0.73134,
+        "fear": 0.091222,
+        "disgust": 0.067527,
+        "anger": 0.047488
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.852714,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Kodansha Manga Award",
+      "relevance": 0.611268,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kodansha_Manga_Award"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999476,
+      "label": "/sports/windsurfing"
+    }
+  ]
+}

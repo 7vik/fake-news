@@ -1,0 +1,99 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 34,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Khloe Kardashian",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.132637,
+        "joy": 0.117017,
+        "fear": 0.092235,
+        "disgust": 0.122178,
+        "anger": 0.109031
+      },
+      "count": 1
+    },
+    {
+      "text": "fillers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.690082,
+      "emotion": {
+        "sadness": 0.132637,
+        "joy": 0.117017,
+        "fear": 0.092235,
+        "disgust": 0.122178,
+        "anger": 0.109031
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Khloe Kardashian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Khloe Kardashian",
+          "location": [
+            4,
+            20
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.18699,
+        "fear": 0.08519,
+        "disgust": 0.110965,
+        "anger": 0.091797
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Khlo\u00e9 Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.920798,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.652889,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

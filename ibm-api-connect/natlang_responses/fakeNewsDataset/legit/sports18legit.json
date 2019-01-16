@@ -1,0 +1,324 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 737,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.82352,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "LeBron James",
+      "sentiment": {
+        "score": -0.743567,
+        "label": "negative"
+      },
+      "relevance": 0.862382,
+      "emotion": {
+        "sadness": 0.51415,
+        "joy": 0.073375,
+        "fear": 0.130511,
+        "disgust": 0.32127,
+        "anger": 0.246429
+      },
+      "count": 1
+    },
+    {
+      "text": "32-year-old",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.764883,
+      "emotion": {
+        "sadness": 0.147341,
+        "joy": 0.283111,
+        "fear": 0.039441,
+        "disgust": 0.302109,
+        "anger": 0.310265
+      },
+      "count": 1
+    },
+    {
+      "text": "teammate Richard Jefferson's Snapchat",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706942,
+      "emotion": {
+        "sadness": 0.147341,
+        "joy": 0.283111,
+        "fear": 0.039441,
+        "disgust": 0.302109,
+        "anger": 0.310265
+      },
+      "count": 1
+    },
+    {
+      "text": "Charlotte Hornets",
+      "sentiment": {
+        "score": -0.743567,
+        "label": "negative"
+      },
+      "relevance": 0.687007,
+      "emotion": {
+        "sadness": 0.565582,
+        "joy": 0.113797,
+        "fear": 0.150547,
+        "disgust": 0.250585,
+        "anger": 0.148988
+      },
+      "count": 1
+    },
+    {
+      "text": "CSN's Chris Miller",
+      "sentiment": {
+        "score": -0.876009,
+        "label": "negative"
+      },
+      "relevance": 0.644688,
+      "emotion": {
+        "sadness": 0.162231,
+        "joy": 0.168409,
+        "fear": 0.108739,
+        "disgust": 0.323146,
+        "anger": 0.367322
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "LeBron James",
+      "sentiment": {
+        "score": -0.581153,
+        "label": "negative"
+      },
+      "relevance": 0.844011,
+      "mentions": [
+        {
+          "text": "LeBron James",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "LeBron James",
+          "location": [
+            68,
+            80
+          ]
+        },
+        {
+          "text": "James",
+          "location": [
+            567,
+            572
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.535432,
+        "joy": 0.104601,
+        "fear": 0.23812,
+        "disgust": 0.152799,
+        "anger": 0.196137
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardWinner",
+          "BasketballPlayer",
+          "FilmProducer",
+          "OlympicAthlete",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "LeBron James",
+        "dbpedia_resource": "http://dbpedia.org/resource/LeBron_James"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Washington Wizards",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.486748,
+      "mentions": [
+        {
+          "text": "Washington Wizards",
+          "location": [
+            247,
+            265
+          ]
+        },
+        {
+          "text": "them",
+          "location": [
+            464,
+            468
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.087669,
+        "joy": 0.49029,
+        "fear": 0.021741,
+        "disgust": 0.240576,
+        "anger": 0.213048
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Washington Wizards",
+        "dbpedia_resource": "http://dbpedia.org/resource/Washington_Wizards"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Cleveland Cavaliers",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.324576,
+      "mentions": [
+        {
+          "text": "Cleveland Cavaliers",
+          "location": [
+            332,
+            351
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.341399,
+        "joy": 0.137536,
+        "fear": 0.044199,
+        "disgust": 0.361533,
+        "anger": 0.292217
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Cleveland Cavaliers",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleveland_Cavaliers"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Charlotte Hornets",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.322848,
+      "mentions": [
+        {
+          "text": "Charlotte Hornets",
+          "location": [
+            126,
+            143
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.609338,
+        "joy": 0.128702,
+        "fear": 0.299058,
+        "disgust": 0.065461,
+        "anger": 0.088164
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Richard Jefferson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.29379,
+      "mentions": [
+        {
+          "text": "Richard Jefferson",
+          "location": [
+            500,
+            517
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "BasketballPlayer",
+          "OlympicAthlete",
+          "TVActor"
+        ],
+        "name": "Richard Jefferson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Richard_Jefferson"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Cleveland Cavaliers",
+      "relevance": 0.956959,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cleveland_Cavaliers"
+    },
+    {
+      "text": "Washington Wizards",
+      "relevance": 0.951905,
+      "dbpedia_resource": "http://dbpedia.org/resource/Washington_Wizards"
+    },
+    {
+      "text": "National Basketball Association",
+      "relevance": 0.817963,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Basketball_Association"
+    },
+    {
+      "text": "New Jersey Nets",
+      "relevance": 0.788988,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_Jersey_Nets"
+    },
+    {
+      "text": "2007\u201308 NBA season",
+      "relevance": 0.78246,
+      "dbpedia_resource": "http://dbpedia.org/resource/2007\u201308_NBA_season"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.936149,
+      "label": "/sports/basketball"
+    }
+  ]
+}

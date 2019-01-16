@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1132,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.853854,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "first solo album",
+      "sentiment": {
+        "score": -0.693905,
+        "label": "negative"
+      },
+      "relevance": 0.71501,
+      "emotion": {
+        "sadness": 0.539265,
+        "joy": 0.454048,
+        "fear": 0.019389,
+        "disgust": 0.00346,
+        "anger": 0.016508
+      },
+      "count": 1
+    },
+    {
+      "text": "Josh Duhamel",
+      "sentiment": {
+        "score": -0.693905,
+        "label": "negative"
+      },
+      "relevance": 0.711891,
+      "emotion": {
+        "sadness": 0.506759,
+        "joy": 0.484495,
+        "fear": 0.015817,
+        "disgust": 0.003468,
+        "anger": 0.016242
+      },
+      "count": 2
+    },
+    {
+      "text": "rock star",
+      "sentiment": {
+        "score": -0.791877,
+        "label": "negative"
+      },
+      "relevance": 0.711667,
+      "emotion": {
+        "sadness": 0.506759,
+        "joy": 0.484495,
+        "fear": 0.015817,
+        "disgust": 0.003468,
+        "anger": 0.016242
+      },
+      "count": 2
+    },
+    {
+      "text": "pop-star wife Fergie",
+      "sentiment": {
+        "score": -0.693905,
+        "label": "negative"
+      },
+      "relevance": 0.686768,
+      "emotion": {
+        "sadness": 0.539265,
+        "joy": 0.454048,
+        "fear": 0.019389,
+        "disgust": 0.00346,
+        "anger": 0.016508
+      },
+      "count": 1
+    },
+    {
+      "text": "drug problems",
+      "sentiment": {
+        "score": -0.885056,
+        "label": "negative"
+      },
+      "relevance": 0.668768,
+      "emotion": {
+        "sadness": 0.539265,
+        "joy": 0.454048,
+        "fear": 0.019389,
+        "disgust": 0.00346,
+        "anger": 0.016508
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Fergie",
+      "sentiment": {
+        "score": -0.248422,
+        "label": "negative"
+      },
+      "relevance": 0.88284,
+      "mentions": [
+        {
+          "text": "Fergie",
+          "location": [
+            22,
+            28
+          ]
+        },
+        {
+          "text": "Fergie",
+          "location": [
+            99,
+            105
+          ]
+        },
+        {
+          "text": "Fergie",
+          "location": [
+            465,
+            471
+          ]
+        },
+        {
+          "text": "Fergie",
+          "location": [
+            866,
+            872
+          ]
+        },
+        {
+          "text": "Fergie",
+          "location": [
+            999,
+            1005
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.591438,
+        "joy": 0.599378,
+        "fear": 0.052881,
+        "disgust": 0.096499,
+        "anger": 0.08011
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Josh Duhamel",
+      "sentiment": {
+        "score": -0.419289,
+        "label": "negative"
+      },
+      "relevance": 0.869124,
+      "mentions": [
+        {
+          "text": "Josh Duhamel",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Josh Duhamel",
+          "location": [
+            55,
+            67
+          ]
+        },
+        {
+          "text": "Josh",
+          "location": [
+            536,
+            540
+          ]
+        },
+        {
+          "text": "Duhamel",
+          "location": [
+            935,
+            942
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.682856,
+        "joy": 0.598596,
+        "fear": 0.044036,
+        "disgust": 0.099677,
+        "anger": 0.079715
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Josh Duhamel",
+        "dbpedia_resource": "http://dbpedia.org/resource/Josh_Duhamel"
+      },
+      "count": 4
+    },
+    {
+      "type": "Movie",
+      "text": "Love Is Blind",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.333261,
+      "mentions": [
+        {
+          "text": "Love Is Blind",
+          "location": [
+            965,
+            978
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.432254,
+        "joy": 0.259804,
+        "fear": 0.070183,
+        "disgust": 0.168573,
+        "anger": 0.08789
+      },
+      "count": 1
+    },
+    {
+      "type": "MusicGroup",
+      "text": "Black Eyed Peas",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.325759,
+      "mentions": [
+        {
+          "text": "Black Eyed Peas",
+          "location": [
+            613,
+            628
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Movie",
+      "text": "Love Is Pain.",
+      "sentiment": {
+        "score": -0.206234,
+        "label": "negative"
+      },
+      "relevance": 0.281158,
+      "mentions": [
+        {
+          "text": "eight years",
+          "location": [
+            233,
+            244
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.267595,
+        "joy": 0.705315,
+        "fear": 0.012137,
+        "disgust": 0.002972,
+        "anger": 0.012021
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fergie",
+      "relevance": 0.930861,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fergie_(singer)"
+    },
+    {
+      "text": "Black Eyed Peas",
+      "relevance": 0.83886,
+      "dbpedia_resource": "http://dbpedia.org/resource/Black_Eyed_Peas"
+    },
+    {
+      "text": "Drug addiction",
+      "relevance": 0.829739,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drug_addiction"
+    },
+    {
+      "text": "Josh Duhamel",
+      "relevance": 0.764649,
+      "dbpedia_resource": "http://dbpedia.org/resource/Josh_Duhamel"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.726645,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.679724,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

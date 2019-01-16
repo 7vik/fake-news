@@ -1,0 +1,363 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1121,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.694268,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ben Affleck's Life",
+      "sentiment": {
+        "score": 0.935802,
+        "label": "positive"
+      },
+      "relevance": 0.955737,
+      "emotion": {
+        "sadness": 0.142811,
+        "joy": 0.73855,
+        "fear": 0.024242,
+        "disgust": 0.056841,
+        "anger": 0.063445
+      },
+      "count": 1
+    },
+    {
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0.507558,
+        "label": "positive"
+      },
+      "relevance": 0.848979,
+      "emotion": {
+        "sadness": 0.020072,
+        "joy": 0.764516,
+        "fear": 0.004882,
+        "disgust": 0.148227,
+        "anger": 0.100484
+      },
+      "count": 1
+    },
+    {
+      "text": "Ben Affleck Seraphina Affleck Splash",
+      "sentiment": {
+        "score": 0.700338,
+        "label": "positive"
+      },
+      "relevance": 0.724275,
+      "emotion": {
+        "sadness": 0.104641,
+        "joy": 0.681985,
+        "fear": 0.013148,
+        "disgust": 0.160642,
+        "anger": 0.044484
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Lopez Throws Shade",
+      "sentiment": {
+        "score": 0.507558,
+        "label": "positive"
+      },
+      "relevance": 0.658019,
+      "emotion": {
+        "sadness": 0.060419,
+        "joy": 0.658661,
+        "fear": 0.026916,
+        "disgust": 0.154181,
+        "anger": 0.125073
+      },
+      "count": 1
+    },
+    {
+      "text": "dating game",
+      "sentiment": {
+        "score": 0.700338,
+        "label": "positive"
+      },
+      "relevance": 0.650989,
+      "emotion": {
+        "sadness": 0.104641,
+        "joy": 0.681985,
+        "fear": 0.013148,
+        "disgust": 0.160642,
+        "anger": 0.044484
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Ben Affleck",
+      "sentiment": {
+        "score": 0.553925,
+        "label": "positive"
+      },
+      "relevance": 0.82627,
+      "mentions": [
+        {
+          "text": "Ben Affleck",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Ben Affleck",
+          "location": [
+            90,
+            101
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            160,
+            162
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            213,
+            215
+          ]
+        },
+        {
+          "text": "Ben Affleck",
+          "location": [
+            411,
+            422
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            441,
+            444
+          ]
+        },
+        {
+          "text": "Ben Affleck",
+          "location": [
+            643,
+            654
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            944,
+            947
+          ]
+        },
+        {
+          "text": "Ben",
+          "location": [
+            1058,
+            1061
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.149046,
+        "joy": 0.576655,
+        "fear": 0.08239,
+        "disgust": 0.151895,
+        "anger": 0.104639
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalGroupMember",
+          "TVActor",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Ben Affleck",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Seraphina Affleck",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.305966,
+      "emotion": {
+        "sadness": 0.062428,
+        "joy": 0.762437,
+        "fear": 0.035777,
+        "disgust": 0.060373,
+        "anger": 0.041857
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Life & Style",
+      "sentiment": {
+        "score": 0.298526,
+        "label": "positive"
+      },
+      "relevance": 0.262694,
+      "mentions": [
+        {
+          "text": "Life & Style",
+          "location": [
+            291,
+            303
+          ]
+        },
+        {
+          "text": "Life & Style",
+          "location": [
+            1088,
+            1100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13924,
+        "joy": 0.299005,
+        "fear": 0.148092,
+        "disgust": 0.120354,
+        "anger": 0.10044
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.589592,
+        "label": "positive"
+      },
+      "relevance": 0.231337,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            370,
+            384
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.200473,
+        "joy": 0.070085,
+        "fear": 0.030192,
+        "disgust": 0.414923,
+        "anger": 0.309794
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Garner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.214822,
+      "mentions": [
+        {
+          "text": "Jennifer Garner",
+          "location": [
+            175,
+            190
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.160549,
+        "joy": 0.306528,
+        "fear": 0.042962,
+        "disgust": 0.076845,
+        "anger": 0.119174
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor",
+          "TVDirector"
+        ],
+        "name": "Jennifer Garner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Garner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ben Affleck",
+      "relevance": 0.965839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+    },
+    {
+      "text": "Jennifer Lopez",
+      "relevance": 0.839062,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+    },
+    {
+      "text": "Jennifer Garner",
+      "relevance": 0.747224,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Garner"
+    },
+    {
+      "text": "MTV Movie Award for Best Kiss",
+      "relevance": 0.645755,
+      "dbpedia_resource": "http://dbpedia.org/resource/MTV_Movie_Award_for_Best_Kiss"
+    },
+    {
+      "text": "Daredevil",
+      "relevance": 0.595562,
+      "dbpedia_resource": "http://dbpedia.org/resource/Daredevil_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.867647,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

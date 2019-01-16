@@ -1,0 +1,304 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 892,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.502646,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "UK government",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.848022,
+      "emotion": {
+        "sadness": 0.244876,
+        "joy": 0.065954,
+        "fear": 0.119053,
+        "disgust": 0.378775,
+        "anger": 0.405229
+      },
+      "count": 2
+    },
+    {
+      "text": "London's Channel",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.8478,
+      "emotion": {
+        "sadness": 0.208949,
+        "joy": 0.115335,
+        "fear": 0.010568,
+        "disgust": 0.07565,
+        "anger": 0.128516
+      },
+      "count": 1
+    },
+    {
+      "text": "government budget",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.765384,
+      "emotion": {
+        "sadness": 0.167471,
+        "joy": 0.072569,
+        "fear": 0.146074,
+        "disgust": 0.356096,
+        "anger": 0.380373
+      },
+      "count": 1
+    },
+    {
+      "text": "good thing",
+      "sentiment": {
+        "score": 0.662392,
+        "label": "positive"
+      },
+      "relevance": 0.660185,
+      "emotion": {
+        "sadness": 0.14209,
+        "joy": 0.56767,
+        "fear": 0.099675,
+        "disgust": 0.072115,
+        "anger": 0.08221
+      },
+      "count": 1
+    },
+    {
+      "text": "broadcasting station",
+      "sentiment": {
+        "score": 0.884018,
+        "label": "positive"
+      },
+      "relevance": 0.645067,
+      "emotion": {
+        "sadness": 0.15357,
+        "joy": 0.103828,
+        "fear": 0.090281,
+        "disgust": 0.020125,
+        "anger": 0.046021
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Secretary Bradley",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.854299,
+      "mentions": [
+        {
+          "text": "Karen Bradley",
+          "location": [
+            123,
+            136
+          ]
+        },
+        {
+          "text": "Secretary Bradley",
+          "location": [
+            473,
+            490
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.090205,
+        "joy": 0.319425,
+        "fear": 0.015321,
+        "disgust": 0.062604,
+        "anger": 0.103675
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.701985,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            143,
+            145
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            297,
+            299
+          ]
+        },
+        {
+          "text": "UK",
+          "location": [
+            554,
+            556
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.394387,
+        "joy": 0.153693,
+        "fear": 0.096239,
+        "disgust": 0.162262,
+        "anger": 0.283222
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 3
+    },
+    {
+      "type": "JobTitle",
+      "text": "Secretary",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.469544,
+      "mentions": [
+        {
+          "text": "Secretary",
+          "location": [
+            113,
+            122
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.061258,
+        "joy": 0.307362,
+        "fear": 0.009926,
+        "disgust": 0.042294,
+        "anger": 0.082691
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Gateway Partners",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.428221,
+      "mentions": [
+        {
+          "text": "Gateway Partners",
+          "location": [
+            362,
+            378
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.310083,
+        "joy": 0.043658,
+        "fear": 0.090218,
+        "disgust": 0.119444,
+        "anger": 0.206075
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "London",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.354201,
+      "mentions": [
+        {
+          "text": "London",
+          "location": [
+            0,
+            6
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "OlympicHostCity",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "London",
+        "dbpedia_resource": "http://dbpedia.org/resource/London"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "United Kingdom",
+      "relevance": 0.98853,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Television",
+      "relevance": 0.973259,
+      "dbpedia_resource": "http://dbpedia.org/resource/Television"
+    },
+    {
+      "text": "Television licence",
+      "relevance": 0.904047,
+      "dbpedia_resource": "http://dbpedia.org/resource/Television_licence"
+    },
+    {
+      "text": "Broadcast station",
+      "relevance": 0.899084,
+      "dbpedia_resource": "http://dbpedia.org/resource/Broadcast_station"
+    },
+    {
+      "text": "Budget",
+      "relevance": 0.81585,
+      "dbpedia_resource": "http://dbpedia.org/resource/Budget"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.954946,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

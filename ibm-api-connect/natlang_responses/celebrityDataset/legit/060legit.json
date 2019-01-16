@@ -1,0 +1,117 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Paul McCartney",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.502412,
+        "joy": 0.124071,
+        "fear": 0.131123,
+        "disgust": 0.18073,
+        "anger": 0.055674
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Paul McCartney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Paul McCartney",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.251415,
+        "joy": 0.130844,
+        "fear": 0.030696,
+        "disgust": 0.341519,
+        "anger": 0.102552
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "Guitarist",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "TheatricalComposer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Paul McCartney",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Paul McCartney",
+      "relevance": 0.945093,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+    },
+    {
+      "text": "The Beatles",
+      "relevance": 0.871218,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Beatles"
+    },
+    {
+      "text": "Paul is dead",
+      "relevance": 0.86526,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paul_is_dead"
+    },
+    {
+      "text": "Abbey Road",
+      "relevance": 0.804946,
+      "dbpedia_resource": "http://dbpedia.org/resource/Abbey_Road"
+    },
+    {
+      "text": "Sgt. Pepper's Lonely Hearts Club Band",
+      "relevance": 0.801671,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.661746,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

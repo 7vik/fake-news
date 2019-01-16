@@ -1,0 +1,152 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 94,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.738126,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": -0.738126,
+        "label": "negative"
+      },
+      "relevance": 0.938646,
+      "emotion": {
+        "sadness": 0.112819,
+        "joy": 0.488008,
+        "fear": 0.079637,
+        "disgust": 0.068274,
+        "anger": 0.164546
+      },
+      "count": 1
+    },
+    {
+      "text": "Emotions",
+      "sentiment": {
+        "score": -0.738126,
+        "label": "negative"
+      },
+      "relevance": 0.548529,
+      "emotion": {
+        "sadness": 0.112819,
+        "joy": 0.488008,
+        "fear": 0.079637,
+        "disgust": 0.068274,
+        "anger": 0.164546
+      },
+      "count": 1
+    },
+    {
+      "text": "Second Act' Cast Stars Milo Ventimiglia",
+      "sentiment": {
+        "score": -0.738126,
+        "label": "negative"
+      },
+      "relevance": 0.537166,
+      "emotion": {
+        "sadness": 0.112819,
+        "joy": 0.488008,
+        "fear": 0.079637,
+        "disgust": 0.068274,
+        "anger": 0.164546
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Milo Ventimiglia",
+      "sentiment": {
+        "score": 0.643373,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Milo Ventimiglia",
+          "location": [
+            24,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.085006,
+        "joy": 0.471281,
+        "fear": 0.092922,
+        "disgust": 0.04492,
+        "anger": 0.109204
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "Celebrity",
+          "FilmActor",
+          "FilmDirector",
+          "TVActor"
+        ],
+        "name": "Milo Ventimiglia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Milo_Ventimiglia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.643373,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            43,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.085006,
+        "joy": 0.471281,
+        "fear": 0.092922,
+        "disgust": 0.04492,
+        "anger": 0.109204
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.55127,
+      "label": "/health and fitness/disorders/mental disorder/panic and anxiety"
+    }
+  ]
+}

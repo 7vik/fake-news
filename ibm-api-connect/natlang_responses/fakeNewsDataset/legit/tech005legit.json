@@ -1,0 +1,209 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 633,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.654038,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "special red version of the iPhone",
+      "sentiment": {
+        "score": 0.945065,
+        "label": "positive"
+      },
+      "relevance": 0.88207,
+      "emotion": {
+        "sadness": 0.145533,
+        "joy": 0.418615,
+        "fear": 0.060739,
+        "disgust": 0.038994,
+        "anger": 0.025273
+      },
+      "count": 1
+    },
+    {
+      "text": "specific details",
+      "sentiment": {
+        "score": -0.462255,
+        "label": "negative"
+      },
+      "relevance": 0.731653,
+      "emotion": {
+        "sadness": 0.043522,
+        "joy": 0.173526,
+        "fear": 0.018125,
+        "disgust": 0.010214,
+        "anger": 0.01242
+      },
+      "count": 1
+    },
+    {
+      "text": "128GB",
+      "sentiment": {
+        "score": 0.784472,
+        "label": "positive"
+      },
+      "relevance": 0.629766,
+      "emotion": {
+        "sadness": 0.043522,
+        "joy": 0.173526,
+        "fear": 0.018125,
+        "disgust": 0.010214,
+        "anger": 0.01242
+      },
+      "count": 1
+    },
+    {
+      "text": "new iPhone",
+      "sentiment": {
+        "score": 0.945065,
+        "label": "positive"
+      },
+      "relevance": 0.629361,
+      "emotion": {
+        "sadness": 0.036913,
+        "joy": 0.695124,
+        "fear": 0.134684,
+        "disgust": 0.096246,
+        "anger": 0.014355
+      },
+      "count": 1
+    },
+    {
+      "text": "red aluminum body",
+      "sentiment": {
+        "score": 0.784472,
+        "label": "positive"
+      },
+      "relevance": 0.628127,
+      "emotion": {
+        "sadness": 0.043522,
+        "joy": 0.173526,
+        "fear": 0.018125,
+        "disgust": 0.010214,
+        "anger": 0.01242
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Apple",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.71034,
+      "mentions": [
+        {
+          "text": "Apple",
+          "location": [
+            46,
+            51
+          ]
+        },
+        {
+          "text": "Apple",
+          "location": [
+            461,
+            466
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.024731,
+        "joy": 0.230644,
+        "fear": 0.015436,
+        "disgust": 0.017634,
+        "anger": 0.02047
+      },
+      "count": 2
+    },
+    {
+      "type": "HealthCondition",
+      "text": "AIDS",
+      "sentiment": {
+        "score": 0.602137,
+        "label": "positive"
+      },
+      "relevance": 0.427045,
+      "mentions": [
+        {
+          "text": "AIDS",
+          "location": [
+            239,
+            243
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224914,
+        "joy": 0.09333,
+        "fear": 0.240124,
+        "disgust": 0.271177,
+        "anger": 0.150535
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "10-year",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.427045,
+      "mentions": [
+        {
+          "text": "10-year",
+          "location": [
+            153,
+            160
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "IPhone",
+      "relevance": 0.982613,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone"
+    },
+    {
+      "text": "Apple Inc.",
+      "relevance": 0.846911,
+      "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+    },
+    {
+      "text": "App Store",
+      "relevance": 0.706184,
+      "dbpedia_resource": "http://dbpedia.org/resource/App_Store"
+    },
+    {
+      "text": "IPhone OS",
+      "relevance": 0.675012,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone_OS"
+    },
+    {
+      "text": "Steve Jobs",
+      "relevance": 0.66699,
+      "dbpedia_resource": "http://dbpedia.org/resource/Steve_Jobs"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.901306,
+      "label": "/technology and computing/tech news"
+    }
+  ]
+}

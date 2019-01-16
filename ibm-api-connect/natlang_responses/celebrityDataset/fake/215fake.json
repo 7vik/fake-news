@@ -1,0 +1,90 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 43,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.33111,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.33111,
+        "label": "positive"
+      },
+      "relevance": 0.990015,
+      "emotion": {
+        "sadness": 0.224815,
+        "joy": 0.050445,
+        "fear": 0.072788,
+        "disgust": 0.034758,
+        "anger": 0.38325
+      },
+      "count": 1
+    },
+    {
+      "text": "revenge memoir",
+      "sentiment": {
+        "score": 0.33111,
+        "label": "positive"
+      },
+      "relevance": 0.009985,
+      "emotion": {
+        "sadness": 0.224815,
+        "joy": 0.050445,
+        "fear": 0.072788,
+        "disgust": 0.034758,
+        "anger": 0.38325
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kris Jenner",
+      "sentiment": {
+        "score": 0.724737,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Kris Jenner",
+          "location": [
+            0,
+            11
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.224815,
+        "joy": 0.050445,
+        "fear": 0.072788,
+        "disgust": 0.034758,
+        "anger": 0.38325
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Kris Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kris_Jenner"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.599481,
+      "label": "/business and industrial/business operations/business plans"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 572,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.763539,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "history of modern urban graffiti",
+      "sentiment": {
+        "score": 0.638172,
+        "label": "positive"
+      },
+      "relevance": 0.768675,
+      "emotion": {
+        "sadness": 0.070284,
+        "joy": 0.755347,
+        "fear": 0.106497,
+        "disgust": 0.027529,
+        "anger": 0.071786
+      },
+      "count": 1
+    },
+    {
+      "text": "new exhibition",
+      "sentiment": {
+        "score": 0.638172,
+        "label": "positive"
+      },
+      "relevance": 0.705678,
+      "emotion": {
+        "sadness": 0.070284,
+        "joy": 0.755347,
+        "fear": 0.106497,
+        "disgust": 0.027529,
+        "anger": 0.071786
+      },
+      "count": 1
+    },
+    {
+      "text": "Masters of Invention",
+      "sentiment": {
+        "score": 0.94294,
+        "label": "positive"
+      },
+      "relevance": 0.693114,
+      "emotion": {
+        "sadness": 0.009974,
+        "joy": 0.73131,
+        "fear": 0.132878,
+        "disgust": 0.012088,
+        "anger": 0.106232
+      },
+      "count": 1
+    },
+    {
+      "text": "inner cities of Philadelphia",
+      "sentiment": {
+        "score": 0.638172,
+        "label": "positive"
+      },
+      "relevance": 0.620739,
+      "emotion": {
+        "sadness": 0.070284,
+        "joy": 0.755347,
+        "fear": 0.106497,
+        "disgust": 0.027529,
+        "anger": 0.071786
+      },
+      "count": 1
+    },
+    {
+      "text": "Lettering Arts Centre",
+      "sentiment": {
+        "score": 0.94294,
+        "label": "positive"
+      },
+      "relevance": 0.604885,
+      "emotion": {
+        "sadness": 0.009974,
+        "joy": 0.73131,
+        "fear": 0.132878,
+        "disgust": 0.012088,
+        "anger": 0.106232
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Facility",
+      "text": "Lettering Arts Centre",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.841835,
+      "mentions": [
+        {
+          "text": "Lettering Arts Centre",
+          "location": [
+            237,
+            258
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130452,
+        "joy": 0.544825,
+        "fear": 0.080781,
+        "disgust": 0.035379,
+        "anger": 0.200662
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Errol Donald",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.823169,
+      "mentions": [
+        {
+          "text": "Errol Donald",
+          "location": [
+            413,
+            425
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.636918,
+      "mentions": [
+        {
+          "text": "New York",
+          "location": [
+            144,
+            152
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.080177,
+        "joy": 0.786709,
+        "fear": 0.08717,
+        "disgust": 0.030677,
+        "anger": 0.034948
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "New York, Lincolnshire",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York,_Lincolnshire"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Philadelphia",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.589093,
+      "mentions": [
+        {
+          "text": "Philadelphia",
+          "location": [
+            127,
+            139
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.080177,
+        "joy": 0.786709,
+        "fear": 0.08717,
+        "disgust": 0.030677,
+        "anger": 0.034948
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "PlaceWithNeighborhoods",
+          "AirportOperator",
+          "City"
+        ],
+        "name": "Philadelphia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Philadelphia"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Suffolk",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.571411,
+      "mentions": [
+        {
+          "text": "Suffolk",
+          "location": [
+            262,
+            269
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130452,
+        "joy": 0.544825,
+        "fear": 0.080781,
+        "disgust": 0.035379,
+        "anger": 0.200662
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Art",
+      "relevance": 0.91763,
+      "dbpedia_resource": "http://dbpedia.org/resource/Art"
+    },
+    {
+      "text": "Contemporary history",
+      "relevance": 0.847086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Contemporary_history"
+    },
+    {
+      "text": "Modern history",
+      "relevance": 0.837708,
+      "dbpedia_resource": "http://dbpedia.org/resource/Modern_history"
+    },
+    {
+      "text": "Present",
+      "relevance": 0.832312,
+      "dbpedia_resource": "http://dbpedia.org/resource/Present"
+    },
+    {
+      "text": "Arts",
+      "relevance": 0.830861,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arts"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.823504,
+      "label": "/art and entertainment/shows and events/exhibition"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.011681,
+        "joy": 0.906933,
+        "fear": 0.018512,
+        "disgust": 0.00675,
+        "anger": 0.020239
+      },
+      "count": 1
+    },
+    {
+      "text": "Love",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.660062,
+      "emotion": {
+        "sadness": 0.011681,
+        "joy": 0.906933,
+        "fear": 0.018512,
+        "disgust": 0.00675,
+        "anger": 0.020239
+      },
+      "count": 1
+    },
+    {
+      "text": "Justin",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.633503,
+      "emotion": {
+        "sadness": 0.011681,
+        "joy": 0.906933,
+        "fear": 0.018512,
+        "disgust": 0.00675,
+        "anger": 0.020239
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Selena Gomez",
+      "sentiment": {
+        "score": 0.628287,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Selena Gomez",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            61,
+            64
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.044602,
+        "joy": 0.829066,
+        "fear": 0.026751,
+        "disgust": 0.01277,
+        "anger": 0.0629
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "MusicalArtist",
+          "Celebrity",
+          "MusicalGroupMember",
+          "Soundtrack",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Selena Gomez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Selena_Gomez"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Justin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Justin",
+          "location": [
+            37,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.074178,
+        "joy": 0.391016,
+        "fear": 0.030479,
+        "disgust": 0.079933,
+        "anger": 0.074556
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.820578,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

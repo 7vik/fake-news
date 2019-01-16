@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 86,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tyra Banks Sued",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997969,
+      "emotion": {
+        "sadness": 0.569422,
+        "joy": 0.20268,
+        "fear": 0.081993,
+        "disgust": 0.071423,
+        "anger": 0.165692
+      },
+      "count": 1
+    },
+    {
+      "text": "Emotional Distress",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.973735,
+      "emotion": {
+        "sadness": 0.569422,
+        "joy": 0.20268,
+        "fear": 0.081993,
+        "disgust": 0.071423,
+        "anger": 0.165692
+      },
+      "count": 1
+    },
+    {
+      "text": "America",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.598221,
+      "emotion": {
+        "sadness": 0.569422,
+        "joy": 0.20268,
+        "fear": 0.081993,
+        "disgust": 0.071423,
+        "anger": 0.165692
+      },
+      "count": 1
+    },
+    {
+      "text": "Talent",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.567279,
+      "emotion": {
+        "sadness": 0.569422,
+        "joy": 0.20268,
+        "fear": 0.081993,
+        "disgust": 0.071423,
+        "anger": 0.165692
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tyra Banks",
+      "sentiment": {
+        "score": -0.316202,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Tyra Banks",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.578845,
+        "joy": 0.219068,
+        "fear": 0.060069,
+        "disgust": 0.041958,
+        "anger": 0.153424
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardWinner",
+          "Celebrity",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor",
+          "TVWriter"
+        ],
+        "name": "Tyra Banks",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tyra_Banks"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Tyra Banks",
+      "relevance": 0.91136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tyra_Banks"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.631657,
+      "label": "/health and fitness/disorders/mental disorder/panic and anxiety"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 856,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.805091,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "research team",
+      "sentiment": {
+        "score": 0.736316,
+        "label": "positive"
+      },
+      "relevance": 0.922806,
+      "emotion": {
+        "sadness": 0.052658,
+        "joy": 0.687442,
+        "fear": 0.135515,
+        "disgust": 0.003183,
+        "anger": 0.005528
+      },
+      "count": 1
+    },
+    {
+      "text": "great advancements",
+      "sentiment": {
+        "score": 0.96624,
+        "label": "positive"
+      },
+      "relevance": 0.750334,
+      "emotion": {
+        "sadness": 0.040788,
+        "joy": 0.851752,
+        "fear": 0.025086,
+        "disgust": 0.026411,
+        "anger": 0.020705
+      },
+      "count": 1
+    },
+    {
+      "text": "new type",
+      "sentiment": {
+        "score": 0.96624,
+        "label": "positive"
+      },
+      "relevance": 0.718304,
+      "emotion": {
+        "sadness": 0.040788,
+        "joy": 0.851752,
+        "fear": 0.025086,
+        "disgust": 0.026411,
+        "anger": 0.020705
+      },
+      "count": 1
+    },
+    {
+      "text": "temperature differences",
+      "sentiment": {
+        "score": 0.411871,
+        "label": "positive"
+      },
+      "relevance": 0.687087,
+      "emotion": {
+        "sadness": 0.310117,
+        "joy": 0.319086,
+        "fear": 0.245866,
+        "disgust": 0.029176,
+        "anger": 0.032949
+      },
+      "count": 1
+    },
+    {
+      "text": "University of Glasgow",
+      "sentiment": {
+        "score": 0.736316,
+        "label": "positive"
+      },
+      "relevance": 0.656644,
+      "emotion": {
+        "sadness": 0.052658,
+        "joy": 0.687442,
+        "fear": 0.135515,
+        "disgust": 0.003183,
+        "anger": 0.005528
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "University of Glasgow",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.550168,
+      "mentions": [
+        {
+          "text": "University of Glasgow",
+          "location": [
+            445,
+            466
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.052658,
+        "joy": 0.687442,
+        "fear": 0.135515,
+        "disgust": 0.003183,
+        "anger": 0.005528
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "UK",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.466554,
+      "mentions": [
+        {
+          "text": "UK",
+          "location": [
+            474,
+            476
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.052658,
+        "joy": 0.687442,
+        "fear": 0.135515,
+        "disgust": 0.003183,
+        "anger": 0.005528
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "MeteorologicalService",
+          "Country"
+        ],
+        "name": "United Kingdom",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sun",
+      "relevance": 0.98531,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sun"
+    },
+    {
+      "text": "United Kingdom",
+      "relevance": 0.741052,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+      "text": "Solar energy",
+      "relevance": 0.636176,
+      "dbpedia_resource": "http://dbpedia.org/resource/Solar_energy"
+    },
+    {
+      "text": "Solar power",
+      "relevance": 0.60597,
+      "dbpedia_resource": "http://dbpedia.org/resource/Solar_power"
+    },
+    {
+      "text": "Earth",
+      "relevance": 0.443811,
+      "dbpedia_resource": "http://dbpedia.org/resource/Earth"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.858034,
+      "label": "/technology and computing/internet technology"
+    }
+  ]
+}

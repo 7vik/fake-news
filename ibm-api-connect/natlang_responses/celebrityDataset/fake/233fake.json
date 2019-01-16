@@ -1,0 +1,131 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 53,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.383433,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Dream Scenario",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.802494,
+      "emotion": {
+        "sadness": 0.106121,
+        "joy": 0.385382,
+        "fear": 0.102325,
+        "disgust": 0.017558,
+        "anger": 0.07602
+      },
+      "count": 1
+    },
+    {
+      "text": "Rob's Daughter",
+      "sentiment": {
+        "score": -0.383433,
+        "label": "negative"
+      },
+      "relevance": 0.542399,
+      "emotion": {
+        "sadness": 0.232665,
+        "joy": 0.210461,
+        "fear": 0.092944,
+        "disgust": 0.219507,
+        "anger": 0.146694
+      },
+      "count": 1
+    },
+    {
+      "text": "Khloe",
+      "sentiment": {
+        "score": -0.383433,
+        "label": "negative"
+      },
+      "relevance": 0.171937,
+      "emotion": {
+        "sadness": 0.232665,
+        "joy": 0.210461,
+        "fear": 0.092944,
+        "disgust": 0.219507,
+        "anger": 0.146694
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Rob",
+      "sentiment": {
+        "score": -0.734067,
+        "label": "negative"
+      },
+      "relevance": 0.947757,
+      "mentions": [
+        {
+          "text": "Rob",
+          "location": [
+            37,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Khloe",
+      "sentiment": {
+        "score": -0.734067,
+        "label": "negative"
+      },
+      "relevance": 0.391806,
+      "mentions": [
+        {
+          "text": "Khloe",
+          "location": [
+            16,
+            21
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.277344,
+        "joy": 0.161607,
+        "fear": 0.095363,
+        "disgust": 0.216418,
+        "anger": 0.134689
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Grammy Award for Song of the Year",
+      "relevance": 0.868429,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_for_Song_of_the_Year"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.867586,
+      "label": "/society/social institution/divorce"
+    }
+  ]
+}

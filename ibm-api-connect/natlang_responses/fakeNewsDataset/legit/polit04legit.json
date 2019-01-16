@@ -1,0 +1,280 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 677,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.546706,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.773405,
+        "label": "negative"
+      },
+      "relevance": 0.802794,
+      "emotion": {
+        "sadness": 0.337795,
+        "joy": 0.083497,
+        "fear": 0.092004,
+        "disgust": 0.145344,
+        "anger": 0.334627
+      },
+      "count": 1
+    },
+    {
+      "text": "drivers seat of a Mack 18-wheeler",
+      "sentiment": {
+        "score": -0.773405,
+        "label": "negative"
+      },
+      "relevance": 0.707545,
+      "emotion": {
+        "sadness": 0.191424,
+        "joy": 0.452831,
+        "fear": 0.05067,
+        "disgust": 0.08321,
+        "anger": 0.101236
+      },
+      "count": 1
+    },
+    {
+      "text": "truck driver",
+      "sentiment": {
+        "score": 0.392493,
+        "label": "positive"
+      },
+      "relevance": 0.684599,
+      "emotion": {
+        "sadness": 0.191424,
+        "joy": 0.452831,
+        "fear": 0.05067,
+        "disgust": 0.08321,
+        "anger": 0.101236
+      },
+      "count": 1
+    },
+    {
+      "text": "South Lawn of the White House",
+      "sentiment": {
+        "score": -0.773405,
+        "label": "negative"
+      },
+      "relevance": 0.65567,
+      "emotion": {
+        "sadness": 0.191424,
+        "joy": 0.452831,
+        "fear": 0.05067,
+        "disgust": 0.08321,
+        "anger": 0.101236
+      },
+      "count": 1
+    },
+    {
+      "text": "series of facial expressions",
+      "sentiment": {
+        "score": 0.392493,
+        "label": "positive"
+      },
+      "relevance": 0.652882,
+      "emotion": {
+        "sadness": 0.191424,
+        "joy": 0.452831,
+        "fear": 0.05067,
+        "disgust": 0.08321,
+        "anger": 0.101236
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.808245,
+        "label": "negative"
+      },
+      "relevance": 0.834336,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            10,
+            15
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            495,
+            500
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.376815,
+        "joy": 0.051922,
+        "fear": 0.167953,
+        "disgust": 0.192334,
+        "anger": 0.295771
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": -0.808245,
+        "label": "negative"
+      },
+      "relevance": 0.721914,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            91,
+            100
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.383094,
+        "joy": 0.136078,
+        "fear": 0.072791,
+        "disgust": 0.133271,
+        "anger": 0.25067
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "American Trucking Association",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.477704,
+      "mentions": [
+        {
+          "text": "American Trucking Association",
+          "location": [
+            624,
+            653
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144085,
+        "joy": 0.179128,
+        "fear": 0.076141,
+        "disgust": 0.303043,
+        "anger": 0.033424
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "American Trucking Associations",
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Trucking_Associations"
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "South Lawn",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.45704,
+      "mentions": [
+        {
+          "text": "South Lawn",
+          "location": [
+            199,
+            209
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.332769,
+        "joy": 0.197963,
+        "fear": 0.076801,
+        "disgust": 0.117434,
+        "anger": 0.126358
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "White House.Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.409479,
+      "mentions": [
+        {
+          "text": "White House.Trump",
+          "location": [
+            217,
+            234
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.332769,
+        "joy": 0.197963,
+        "fear": 0.076801,
+        "disgust": 0.117434,
+        "anger": 0.126358
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Truck",
+      "relevance": 0.947584,
+      "dbpedia_resource": "http://dbpedia.org/resource/Truck"
+    },
+    {
+      "text": "Semi-trailer truck",
+      "relevance": 0.721135,
+      "dbpedia_resource": "http://dbpedia.org/resource/Semi-trailer_truck"
+    },
+    {
+      "text": "Truck driver",
+      "relevance": 0.704089,
+      "dbpedia_resource": "http://dbpedia.org/resource/Truck_driver"
+    },
+    {
+      "text": "Trucks",
+      "relevance": 0.631803,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trucks"
+    },
+    {
+      "text": "Trucking industry in the United States",
+      "relevance": 0.553043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trucking_industry_in_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.823771,
+      "label": "/automotive and vehicles/trucks and suvs/truck accessories"
+    }
+  ]
+}

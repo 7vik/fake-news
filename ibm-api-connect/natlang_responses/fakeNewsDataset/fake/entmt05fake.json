@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 607,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Planet Earth",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.936723,
+      "emotion": {
+        "sadness": 0.125131,
+        "joy": 0.294795,
+        "fear": 0.022314,
+        "disgust": 0.21738,
+        "anger": 0.525692
+      },
+      "count": 1
+    },
+    {
+      "text": "early success",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.854658,
+      "emotion": {
+        "sadness": 0.148741,
+        "joy": 0.666708,
+        "fear": 0.030474,
+        "disgust": 0.040946,
+        "anger": 0.152675
+      },
+      "count": 1
+    },
+    {
+      "text": "nature documentary Planet Earth II",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.750196,
+      "emotion": {
+        "sadness": 0.148741,
+        "joy": 0.666708,
+        "fear": 0.030474,
+        "disgust": 0.040946,
+        "anger": 0.152675
+      },
+      "count": 1
+    },
+    {
+      "text": "unnamed source",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.71118,
+      "emotion": {
+        "sadness": 0.058232,
+        "joy": 0.132338,
+        "fear": 0.027622,
+        "disgust": 0.356413,
+        "anger": 0.39071
+      },
+      "count": 1
+    },
+    {
+      "text": "Current front runners",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.683597,
+      "emotion": {
+        "sadness": 0.058855,
+        "joy": 0.209325,
+        "fear": 0.038647,
+        "disgust": 0.053206,
+        "anger": 0.042709
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "BBC",
+      "sentiment": {
+        "score": -0.459792,
+        "label": "negative"
+      },
+      "relevance": 0.829454,
+      "mentions": [
+        {
+          "text": "BBC",
+          "location": [
+            224,
+            227
+          ]
+        },
+        {
+          "text": "BBC",
+          "location": [
+            250,
+            253
+          ]
+        },
+        {
+          "text": "BBC",
+          "location": [
+            582,
+            585
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.062341,
+        "joy": 0.251251,
+        "fear": 0.026535,
+        "disgust": 0.318442,
+        "anger": 0.410417
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum",
+          "Broadcast",
+          "PeriodicalPublisher",
+          "ProductionCompany",
+          "TVNetwork",
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "FilmProducer",
+          "MusicalArtist",
+          "TVProducer"
+        ],
+        "name": "BBC",
+        "dbpedia_resource": "http://dbpedia.org/resource/BBC"
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "BBC One",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.718781,
+      "mentions": [
+        {
+          "text": "BBC One",
+          "location": [
+            73,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.060803,
+        "joy": 0.501218,
+        "fear": 0.042894,
+        "disgust": 0.059389,
+        "anger": 0.227301
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "executive producer",
+      "sentiment": {
+        "score": -0.610722,
+        "label": "negative"
+      },
+      "relevance": 0.62499,
+      "mentions": [
+        {
+          "text": "executive producer",
+          "location": [
+            284,
+            302
+          ]
+        },
+        {
+          "text": "executive producer",
+          "location": [
+            422,
+            440
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.101734,
+        "joy": 0.074686,
+        "fear": 0.030115,
+        "disgust": 0.377288,
+        "anger": 0.50026
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.610722,
+        "label": "negative"
+      },
+      "relevance": 0.346759,
+      "mentions": [
+        {
+          "text": "Twitter",
+          "location": [
+            491,
+            498
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.264913,
+        "joy": 0.06755,
+        "fear": 0.049186,
+        "disgust": 0.167077,
+        "anger": 0.435538
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Netflix",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.288008,
+      "mentions": [
+        {
+          "text": "Netflix",
+          "location": [
+            558,
+            565
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "VentureFundedCompany"
+        ],
+        "name": "Netflix",
+        "dbpedia_resource": "http://dbpedia.org/resource/Netflix"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "BBC One",
+      "relevance": 0.972416,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC_One"
+    },
+    {
+      "text": "BBC Natural History Unit",
+      "relevance": 0.86204,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC_Natural_History_Unit"
+    },
+    {
+      "text": "BBC HD",
+      "relevance": 0.857722,
+      "dbpedia_resource": "http://dbpedia.org/resource/BBC_HD"
+    },
+    {
+      "text": "Nature documentary",
+      "relevance": 0.780002,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nature_documentary"
+    },
+    {
+      "text": "Doctor Who",
+      "relevance": 0.75388,
+      "dbpedia_resource": "http://dbpedia.org/resource/Doctor_Who"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.774259,
+      "label": "/art and entertainment/movies and tv/television"
+    }
+  ]
+}

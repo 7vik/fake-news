@@ -1,0 +1,341 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 681,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.497353,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Adele's producer Matt Everitt",
+      "sentiment": {
+        "score": 0.595409,
+        "label": "positive"
+      },
+      "relevance": 0.817411,
+      "emotion": {
+        "sadness": 0.102597,
+        "joy": 0.782206,
+        "fear": 0.005085,
+        "disgust": 0.093577,
+        "anger": 0.055952
+      },
+      "count": 1
+    },
+    {
+      "text": "Sir Paul McCartney's work",
+      "sentiment": {
+        "score": -0.933262,
+        "label": "negative"
+      },
+      "relevance": 0.740385,
+      "emotion": {
+        "sadness": 0.116362,
+        "joy": 0.026086,
+        "fear": 0.045385,
+        "disgust": 0.913495,
+        "anger": 0.021484
+      },
+      "count": 1
+    },
+    {
+      "text": "public appeal",
+      "sentiment": {
+        "score": 0.595409,
+        "label": "positive"
+      },
+      "relevance": 0.725173,
+      "emotion": {
+        "sadness": 0.102597,
+        "joy": 0.782206,
+        "fear": 0.005085,
+        "disgust": 0.093577,
+        "anger": 0.055952
+      },
+      "count": 1
+    },
+    {
+      "text": "Elvis Costello Blasts Kanyne",
+      "sentiment": {
+        "score": -0.933262,
+        "label": "negative"
+      },
+      "relevance": 0.712867,
+      "emotion": {
+        "sadness": 0.304248,
+        "joy": 0.52063,
+        "fear": 0.038131,
+        "disgust": 0.037227,
+        "anger": 0.122703
+      },
+      "count": 1
+    },
+    {
+      "text": "best album",
+      "sentiment": {
+        "score": 0.595409,
+        "label": "positive"
+      },
+      "relevance": 0.658821,
+      "emotion": {
+        "sadness": 0.102597,
+        "joy": 0.782206,
+        "fear": 0.005085,
+        "disgust": 0.093577,
+        "anger": 0.055952
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sir Paul McCartney",
+      "sentiment": {
+        "score": -0.641677,
+        "label": "negative"
+      },
+      "relevance": 0.748361,
+      "mentions": [
+        {
+          "text": "Sir Paul McCartney",
+          "location": [
+            145,
+            163
+          ]
+        },
+        {
+          "text": "McCartney",
+          "location": [
+            333,
+            342
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            351,
+            353
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.116362,
+        "joy": 0.026086,
+        "fear": 0.045385,
+        "disgust": 0.913495,
+        "anger": 0.021484
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "ChivalricOrderMember",
+          "CompanyFounder",
+          "FilmMusicContributor",
+          "Guitarist",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "TheatricalComposer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Paul McCartney",
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Elvis Costello",
+      "sentiment": {
+        "score": 0.815666,
+        "label": "positive"
+      },
+      "relevance": 0.708016,
+      "mentions": [
+        {
+          "text": "Elvis Costello",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Costello",
+          "location": [
+            78,
+            86
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.592039,
+        "joy": 0.094259,
+        "fear": 0.195918,
+        "disgust": 0.069558,
+        "anger": 0.02198
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Elvis Costello",
+        "dbpedia_resource": "http://dbpedia.org/resource/Elvis_Costello"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Michael Jackson",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.371472,
+      "mentions": [
+        {
+          "text": "Michael Jackson",
+          "location": [
+            534,
+            549
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.234661,
+        "joy": 0.526336,
+        "fear": 0.037789,
+        "disgust": 0.109817,
+        "anger": 0.09418
+      },
+      "disambiguation": {
+        "subtype": [
+          "Composer",
+          "FilmCharacter",
+          "MusicalArtist",
+          "Profession",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmDirector",
+          "FilmEditor",
+          "FilmMusicContributor",
+          "FilmProducer",
+          "HallOfFameInductee",
+          "Lyricist",
+          "MusicalGroupMember",
+          "RecordProducer",
+          "Songwriter",
+          "TVPersonality",
+          "VideoGameDesigner",
+          "FilmActor",
+          "FilmWriter",
+          "TVActor"
+        ],
+        "name": "Michael Jackson",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Jackson"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Matt Everitt",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.364282,
+      "mentions": [
+        {
+          "text": "Matt Everitt",
+          "location": [
+            246,
+            258
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kanye",
+      "sentiment": {
+        "score": -0.562609,
+        "label": "negative"
+      },
+      "relevance": 0.345483,
+      "mentions": [
+        {
+          "text": "Kanye",
+          "location": [
+            593,
+            598
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.112319,
+        "joy": 0.651132,
+        "fear": 0.07488,
+        "disgust": 0.133024,
+        "anger": 0.042648
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Paul McCartney",
+      "relevance": 0.98568,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paul_McCartney"
+    },
+    {
+      "text": "Michael Jackson",
+      "relevance": 0.758601,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michael_Jackson"
+    },
+    {
+      "text": "Grammy Award winners",
+      "relevance": 0.728127,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award_winners"
+    },
+    {
+      "text": "The Beatles",
+      "relevance": 0.719188,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Beatles"
+    },
+    {
+      "text": "Elvis Costello",
+      "relevance": 0.568346,
+      "dbpedia_resource": "http://dbpedia.org/resource/Elvis_Costello"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.845082,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 787,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.515673,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Google CEO Sundar Pichai",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.729819,
+      "emotion": {
+        "sadness": 0.152627,
+        "joy": 0.259273,
+        "fear": 0.166887,
+        "disgust": 0.0188,
+        "anger": 0.115029
+      },
+      "count": 1
+    },
+    {
+      "text": "Trump targets tech",
+      "sentiment": {
+        "score": -0.891069,
+        "label": "negative"
+      },
+      "relevance": 0.675668,
+      "emotion": {
+        "sadness": 0.041397,
+        "joy": 0.046984,
+        "fear": 0.143621,
+        "disgust": 0.100678,
+        "anger": 0.121777
+      },
+      "count": 1
+    },
+    {
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": -0.891069,
+        "label": "negative"
+      },
+      "relevance": 0.672456,
+      "emotion": {
+        "sadness": 0.283887,
+        "joy": 0.292552,
+        "fear": 0.034996,
+        "disgust": 0.037615,
+        "anger": 0.104051
+      },
+      "count": 1
+    },
+    {
+      "text": "Administration officials",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.660037,
+      "emotion": {
+        "sadness": 0.152627,
+        "joy": 0.259273,
+        "fear": 0.166887,
+        "disgust": 0.0188,
+        "anger": 0.115029
+      },
+      "count": 1
+    },
+    {
+      "text": "President Trump's relationship",
+      "sentiment": {
+        "score": -0.891069,
+        "label": "negative"
+      },
+      "relevance": 0.649338,
+      "emotion": {
+        "sadness": 0.283887,
+        "joy": 0.292552,
+        "fear": 0.034996,
+        "disgust": 0.037615,
+        "anger": 0.104051
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.888178,
+      "mentions": [
+        {
+          "text": "President Trump",
+          "location": [
+            59,
+            74
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Sundar Pichai",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.849501,
+      "mentions": [
+        {
+          "text": "Sundar Pichai",
+          "location": [
+            409,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245079,
+        "joy": 0.313253,
+        "fear": 0.053517,
+        "disgust": 0.026078,
+        "anger": 0.116226
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Sundar Pichai",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sundar_Pichai"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Tesla Motors",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.662503,
+      "mentions": [
+        {
+          "text": "Tesla Motors",
+          "location": [
+            255,
+            267
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.160457,
+        "joy": 0.030965,
+        "fear": 0.066355,
+        "disgust": 0.078701,
+        "anger": 0.048744
+      },
+      "disambiguation": {
+        "subtype": [
+          "AutomobileCompany",
+          "VentureFundedCompany"
+        ],
+        "name": "Tesla Motors",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Motors"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "SAN FRANCISCO",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.615755,
+      "mentions": [
+        {
+          "text": "SAN FRANCISCO",
+          "location": [
+            43,
+            56
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.14705,
+        "joy": 0.200495,
+        "fear": 0.085693,
+        "disgust": 0.08423,
+        "anger": 0.101503
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "USCounty",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "San Francisco",
+        "dbpedia_resource": "http://dbpedia.org/resource/San_Francisco"
+      },
+      "count": 1
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Silicon Valley",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.613555,
+      "mentions": [
+        {
+          "text": "Silicon Valley",
+          "location": [
+            95,
+            109
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.142542,
+        "joy": 0.674714,
+        "fear": 0.019194,
+        "disgust": 0.018377,
+        "anger": 0.056822
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Silicon Valley",
+      "relevance": 0.986181,
+      "dbpedia_resource": "http://dbpedia.org/resource/Silicon_Valley"
+    },
+    {
+      "text": "Executive officer",
+      "relevance": 0.601229,
+      "dbpedia_resource": "http://dbpedia.org/resource/Executive_officer"
+    },
+    {
+      "text": "Tesla Motors",
+      "relevance": 0.597522,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tesla_Motors"
+    },
+    {
+      "text": "Chief executives",
+      "relevance": 0.590971,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chief_executives"
+    },
+    {
+      "text": "Chief executive officer",
+      "relevance": 0.565928,
+      "dbpedia_resource": "http://dbpedia.org/resource/Chief_executive_officer"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.831999,
+      "label": "/law, govt and politics/immigration"
+    }
+  ]
+}

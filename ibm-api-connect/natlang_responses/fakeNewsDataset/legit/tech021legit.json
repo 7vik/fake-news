@@ -1,0 +1,286 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 732,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.850918,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wells Fargo",
+      "sentiment": {
+        "score": -0.850918,
+        "label": "negative"
+      },
+      "relevance": 0.835363,
+      "emotion": {
+        "sadness": 0.553104,
+        "joy": 0.210382,
+        "fear": 0.063579,
+        "disgust": 0.017629,
+        "anger": 0.073784
+      },
+      "count": 2
+    },
+    {
+      "text": "San Francisco",
+      "sentiment": {
+        "score": -0.850918,
+        "label": "negative"
+      },
+      "relevance": 0.651281,
+      "emotion": {
+        "sadness": 0.554772,
+        "joy": 0.208134,
+        "fear": 0.074517,
+        "disgust": 0.015717,
+        "anger": 0.067754
+      },
+      "count": 1
+    },
+    {
+      "text": "JPMorgan Chase",
+      "sentiment": {
+        "score": -0.850918,
+        "label": "negative"
+      },
+      "relevance": 0.646277,
+      "emotion": {
+        "sadness": 0.554772,
+        "joy": 0.208134,
+        "fear": 0.074517,
+        "disgust": 0.015717,
+        "anger": 0.067754
+      },
+      "count": 1
+    },
+    {
+      "text": "mortar banking",
+      "sentiment": {
+        "score": -0.850918,
+        "label": "negative"
+      },
+      "relevance": 0.626402,
+      "emotion": {
+        "sadness": 0.554772,
+        "joy": 0.208134,
+        "fear": 0.074517,
+        "disgust": 0.015717,
+        "anger": 0.067754
+      },
+      "count": 1
+    },
+    {
+      "text": "Wells Fargo's head",
+      "sentiment": {
+        "score": -0.850918,
+        "label": "negative"
+      },
+      "relevance": 0.611643,
+      "emotion": {
+        "sadness": 0.554772,
+        "joy": 0.208134,
+        "fear": 0.074517,
+        "disgust": 0.015717,
+        "anger": 0.067754
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Wells Fargo & Co",
+      "sentiment": {
+        "score": -0.200685,
+        "label": "negative"
+      },
+      "relevance": 0.834883,
+      "mentions": [
+        {
+          "text": "Wells Fargo",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Wells Fargo & Co",
+          "location": [
+            85,
+            101
+          ]
+        },
+        {
+          "text": "Wells Fargo",
+          "location": [
+            275,
+            286
+          ]
+        },
+        {
+          "text": "Wells Fargo",
+          "location": [
+            640,
+            651
+          ]
+        },
+        {
+          "text": "the first U.S. bank",
+          "location": [
+            655,
+            674
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.536189,
+        "joy": 0.215175,
+        "fear": 0.108389,
+        "disgust": 0.064258,
+        "anger": 0.08272
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "JPMorgan Chase & Co",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.230264,
+      "mentions": [
+        {
+          "text": "JPMorgan Chase & Co",
+          "location": [
+            526,
+            545
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.30442,
+        "joy": 0.226148,
+        "fear": 0.061694,
+        "disgust": 0.012632,
+        "anger": 0.037274
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "JPMorgan Chase",
+        "dbpedia_resource": "http://dbpedia.org/resource/JPMorgan_Chase"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.148763,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            44,
+            48
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            190,
+            194
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.711984,
+        "joy": 0.116089,
+        "fear": 0.163158,
+        "disgust": 0.032662,
+        "anger": 0.08666
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "America Corp",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.1335,
+      "mentions": [
+        {
+          "text": "America Corp",
+          "location": [
+            509,
+            521
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.30442,
+        "joy": 0.226148,
+        "fear": 0.061694,
+        "disgust": 0.012632,
+        "anger": 0.037274
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bank",
+      "relevance": 0.976731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bank"
+    },
+    {
+      "text": "Bank of America",
+      "relevance": 0.916293,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bank_of_America"
+    },
+    {
+      "text": "JPMorgan Chase",
+      "relevance": 0.613891,
+      "dbpedia_resource": "http://dbpedia.org/resource/JPMorgan_Chase"
+    },
+    {
+      "text": "Automated teller machine",
+      "relevance": 0.59202,
+      "dbpedia_resource": "http://dbpedia.org/resource/Automated_teller_machine"
+    },
+    {
+      "text": "Credit card",
+      "relevance": 0.588995,
+      "dbpedia_resource": "http://dbpedia.org/resource/Credit_card"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.991499,
+      "label": "/finance/bank/atms"
+    }
+  ]
+}

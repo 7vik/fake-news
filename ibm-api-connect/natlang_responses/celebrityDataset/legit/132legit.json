@@ -1,0 +1,165 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 64,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jay-Z tour",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997475,
+      "emotion": {
+        "sadness": 0.236658,
+        "joy": 0.668198,
+        "fear": 0.047799,
+        "disgust": 0.027189,
+        "anger": 0.02071
+      },
+      "count": 1
+    },
+    {
+      "text": "New Orleans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.675868,
+      "emotion": {
+        "sadness": 0.236658,
+        "joy": 0.668198,
+        "fear": 0.047799,
+        "disgust": 0.027189,
+        "anger": 0.02071
+      },
+      "count": 1
+    },
+    {
+      "text": "support",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.608058,
+      "emotion": {
+        "sadness": 0.236658,
+        "joy": 0.668198,
+        "fear": 0.047799,
+        "disgust": 0.027189,
+        "anger": 0.02071
+      },
+      "count": 1
+    },
+    {
+      "text": "album",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.561548,
+      "emotion": {
+        "sadness": 0.236658,
+        "joy": 0.668198,
+        "fear": 0.047799,
+        "disgust": 0.027189,
+        "anger": 0.02071
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "New Orleans",
+      "sentiment": {
+        "score": 0.688056,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "New Orleans",
+          "location": [
+            21,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.178766,
+        "joy": 0.642279,
+        "fear": 0.064322,
+        "disgust": 0.062584,
+        "anger": 0.026154
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "44",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "44'",
+          "location": [
+            54,
+            57
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New Orleans",
+      "relevance": 0.845538,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_Orleans"
+    },
+    {
+      "text": "Orl\u00e9ans",
+      "relevance": 0.831108,
+      "dbpedia_resource": "http://dbpedia.org/resource/Orl\u00e9ans"
+    },
+    {
+      "text": "New York City",
+      "relevance": 0.819931,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Hip hop music",
+      "relevance": 0.760872,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hip_hop_music"
+    },
+    {
+      "text": "Eastern New Orleans",
+      "relevance": 0.71021,
+      "dbpedia_resource": "http://dbpedia.org/resource/Eastern_New_Orleans"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.935779,
+      "label": "/art and entertainment/music/recording industry/music awards"
+    }
+  ]
+}

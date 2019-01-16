@@ -1,0 +1,172 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 513,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.784781,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Facebook Messenger",
+      "sentiment": {
+        "score": 0.958721,
+        "label": "positive"
+      },
+      "relevance": 0.855632,
+      "emotion": {
+        "sadness": 0.123336,
+        "joy": 0.677228,
+        "fear": 0.01171,
+        "disgust": 0.00451,
+        "anger": 0.165753
+      },
+      "count": 1
+    },
+    {
+      "text": "new Reaction emoji",
+      "sentiment": {
+        "score": 0.958721,
+        "label": "positive"
+      },
+      "relevance": 0.781574,
+      "emotion": {
+        "sadness": 0.122143,
+        "joy": 0.702078,
+        "fear": 0.012008,
+        "disgust": 0.003177,
+        "anger": 0.131794
+      },
+      "count": 1
+    },
+    {
+      "text": "social network",
+      "sentiment": {
+        "score": 0.958721,
+        "label": "positive"
+      },
+      "relevance": 0.741317,
+      "emotion": {
+        "sadness": 0.122143,
+        "joy": 0.702078,
+        "fear": 0.012008,
+        "disgust": 0.003177,
+        "anger": 0.131794
+      },
+      "count": 1
+    },
+    {
+      "text": "individual messages",
+      "sentiment": {
+        "score": 0.958721,
+        "label": "positive"
+      },
+      "relevance": 0.686487,
+      "emotion": {
+        "sadness": 0.122143,
+        "joy": 0.702078,
+        "fear": 0.012008,
+        "disgust": 0.003177,
+        "anger": 0.131794
+      },
+      "count": 1
+    },
+    {
+      "text": "group chat",
+      "sentiment": {
+        "score": 0.504154,
+        "label": "positive"
+      },
+      "relevance": 0.588598,
+      "emotion": {
+        "sadness": 0.390325,
+        "joy": 0.271041,
+        "fear": 0.125335,
+        "disgust": 0.046125,
+        "anger": 0.07491
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": 0.735704,
+        "label": "positive"
+      },
+      "relevance": 0.889611,
+      "mentions": [
+        {
+          "text": "Facebook",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Facebook",
+          "location": [
+            47,
+            55
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139191,
+        "joy": 0.441845,
+        "fear": 0.043717,
+        "disgust": 0.058034,
+        "anger": 0.067337
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Instant messaging",
+      "relevance": 0.934589,
+      "dbpedia_resource": "http://dbpedia.org/resource/Instant_messaging"
+    },
+    {
+      "text": "Person",
+      "relevance": 0.930345,
+      "dbpedia_resource": "http://dbpedia.org/resource/Person"
+    },
+    {
+      "text": "Social network",
+      "relevance": 0.816484,
+      "dbpedia_resource": "http://dbpedia.org/resource/Social_network"
+    },
+    {
+      "text": "Social network service",
+      "relevance": 0.72065,
+      "dbpedia_resource": "http://dbpedia.org/resource/Social_network_service"
+    },
+    {
+      "text": "Sociology",
+      "relevance": 0.706702,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sociology"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999903,
+      "label": "/technology and computing/internet technology/social network"
+    }
+  ]
+}

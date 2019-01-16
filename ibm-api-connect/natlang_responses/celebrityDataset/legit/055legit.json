@@ -1,0 +1,144 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 98,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.993121,
+      "emotion": {
+        "sadness": 0.144498,
+        "joy": 0.206285,
+        "fear": 0.058004,
+        "disgust": 0.201333,
+        "anger": 0.084825
+      },
+      "count": 1
+    },
+    {
+      "text": "Actress",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.82921,
+      "emotion": {
+        "sadness": 0.204237,
+        "joy": 0.180649,
+        "fear": 0.283443,
+        "disgust": 0.088979,
+        "anger": 0.045036
+      },
+      "count": 1
+    },
+    {
+      "text": "REPORT",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582209,
+      "emotion": {
+        "sadness": 0.204237,
+        "joy": 0.180649,
+        "fear": 0.283443,
+        "disgust": 0.088979,
+        "anger": 0.045036
+      },
+      "count": 1
+    },
+    {
+      "text": "Diva",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582209,
+      "emotion": {
+        "sadness": 0.144498,
+        "joy": 0.206285,
+        "fear": 0.058004,
+        "disgust": 0.201333,
+        "anger": 0.084825
+      },
+      "count": 1
+    },
+    {
+      "text": "Set",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.258665,
+      "emotion": {
+        "sadness": 0.204237,
+        "joy": 0.180649,
+        "fear": 0.283443,
+        "disgust": 0.088979,
+        "anger": 0.045036
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.706821,
+        "label": "positive"
+      },
+      "relevance": 0.964135,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130513,
+        "joy": 0.190987,
+        "fear": 0.079549,
+        "disgust": 0.07146,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.886784,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.710821,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 867,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.564793,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Dai Young",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.824601,
+      "emotion": {
+        "sadness": 0.338359,
+        "joy": 0.225704,
+        "fear": 0.164036,
+        "disgust": 0.127916,
+        "anger": 0.388407
+      },
+      "count": 1
+    },
+    {
+      "text": "head coach  Dai Young",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.757608,
+      "emotion": {
+        "sadness": 0.315408,
+        "joy": 0.202321,
+        "fear": 0.264908,
+        "disgust": 0.124641,
+        "anger": 0.37635
+      },
+      "count": 1
+    },
+    {
+      "text": "range of crowd",
+      "sentiment": {
+        "score": 0.814478,
+        "label": "positive"
+      },
+      "relevance": 0.734224,
+      "emotion": {
+        "sadness": 0.279982,
+        "joy": 0.342832,
+        "fear": 0.071372,
+        "disgust": 0.082717,
+        "anger": 0.183427
+      },
+      "count": 1
+    },
+    {
+      "text": "Wasps backline",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.716632,
+      "emotion": {
+        "sadness": 0.399094,
+        "joy": 0.212952,
+        "fear": 0.113881,
+        "disgust": 0.058553,
+        "anger": 0.189883
+      },
+      "count": 1
+    },
+    {
+      "text": "Premiership leaders",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.682828,
+      "emotion": {
+        "sadness": 0.315408,
+        "joy": 0.202321,
+        "fear": 0.264908,
+        "disgust": 0.124641,
+        "anger": 0.37635
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Wasps",
+      "sentiment": {
+        "score": -0.343111,
+        "label": "negative"
+      },
+      "relevance": 0.774138,
+      "mentions": [
+        {
+          "text": "Wasps",
+          "location": [
+            16,
+            21
+          ]
+        },
+        {
+          "text": "Wasps",
+          "location": [
+            67,
+            72
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            150,
+            154
+          ]
+        },
+        {
+          "text": "Wasps",
+          "location": [
+            491,
+            496
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.086697,
+        "joy": 0.702369,
+        "fear": 0.071995,
+        "disgust": 0.028759,
+        "anger": 0.096031
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "ProfessionalSportsTeam",
+          "TouristAttraction"
+        ],
+        "name": "London Wasps",
+        "dbpedia_resource": "http://dbpedia.org/resource/London_Wasps"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Dai Young",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.749039,
+      "mentions": [
+        {
+          "text": "Dai Young",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Dai Young",
+          "location": [
+            318,
+            327
+          ]
+        },
+        {
+          "text": "Young",
+          "location": [
+            691,
+            696
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.370384,
+        "joy": 0.146967,
+        "fear": 0.177438,
+        "disgust": 0.072752,
+        "anger": 0.485009
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "RugbyPlayer"
+        ],
+        "name": "Dai Young",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dai_Young"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Leinster",
+      "sentiment": {
+        "score": -0.365261,
+        "label": "negative"
+      },
+      "relevance": 0.473004,
+      "mentions": [
+        {
+          "text": "Leinster",
+          "location": [
+            58,
+            66
+          ]
+        },
+        {
+          "text": "Leinster",
+          "location": [
+            421,
+            429
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.399094,
+        "joy": 0.212952,
+        "fear": 0.113881,
+        "disgust": 0.058553,
+        "anger": 0.189883
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Leinster, Western Australia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Leinster,_Western_Australia"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Danny Cipriani",
+      "sentiment": {
+        "score": 0.364768,
+        "label": "positive"
+      },
+      "relevance": 0.356066,
+      "mentions": [
+        {
+          "text": "Danny Cipriani",
+          "location": [
+            630,
+            644
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.272582,
+        "joy": 0.394862,
+        "fear": 0.079663,
+        "disgust": 0.149731,
+        "anger": 0.134602
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "RugbyPlayer"
+        ],
+        "name": "Danny Cipriani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Danny_Cipriani"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Kevin Keegan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.343853,
+      "mentions": [
+        {
+          "text": "Kevin Keegan",
+          "location": [
+            738,
+            750
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.490509,
+        "joy": 0.084658,
+        "fear": 0.08087,
+        "disgust": 0.095155,
+        "anger": 0.274452
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "MusicalArtist",
+          "FootballPlayer"
+        ],
+        "name": "Kevin Keegan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kevin_Keegan"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Premier League",
+      "relevance": 0.979722,
+      "dbpedia_resource": "http://dbpedia.org/resource/Premier_League"
+    },
+    {
+      "text": "London Wasps",
+      "relevance": 0.955769,
+      "dbpedia_resource": "http://dbpedia.org/resource/London_Wasps"
+    },
+    {
+      "text": "Harlem Globetrotters",
+      "relevance": 0.801,
+      "dbpedia_resource": "http://dbpedia.org/resource/Harlem_Globetrotters"
+    },
+    {
+      "text": "England Saxons",
+      "relevance": 0.771229,
+      "dbpedia_resource": "http://dbpedia.org/resource/England_Saxons"
+    },
+    {
+      "text": "Kurtley Beale",
+      "relevance": 0.770584,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kurtley_Beale"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.95303,
+      "label": "/sports/rugby"
+    }
+  ]
+}

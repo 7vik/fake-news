@@ -1,0 +1,287 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 850,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.819753,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump Budget's Cuts",
+      "sentiment": {
+        "score": -0.626851,
+        "label": "negative"
+      },
+      "relevance": 0.740108,
+      "emotion": {
+        "sadness": 0.112367,
+        "joy": 0.527646,
+        "fear": 0.172092,
+        "disgust": 0.166347,
+        "anger": 0.159322
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald J. Trump",
+      "sentiment": {
+        "score": -0.626851,
+        "label": "negative"
+      },
+      "relevance": 0.711297,
+      "emotion": {
+        "sadness": 0.091658,
+        "joy": 0.250981,
+        "fear": 0.403745,
+        "disgust": 0.112892,
+        "anger": 0.047765
+      },
+      "count": 1
+    },
+    {
+      "text": "medical research",
+      "sentiment": {
+        "score": -0.928461,
+        "label": "negative"
+      },
+      "relevance": 0.653213,
+      "emotion": {
+        "sadness": 0.276591,
+        "joy": 0.286047,
+        "fear": 0.153584,
+        "disgust": 0.130081,
+        "anger": 0.221796
+      },
+      "count": 1
+    },
+    {
+      "text": "renewable energy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.648756,
+      "emotion": {
+        "sadness": 0.091658,
+        "joy": 0.250981,
+        "fear": 0.403745,
+        "disgust": 0.112892,
+        "anger": 0.047765
+      },
+      "count": 1
+    },
+    {
+      "text": "National Institutes of Health",
+      "sentiment": {
+        "score": -0.874639,
+        "label": "negative"
+      },
+      "relevance": 0.636332,
+      "emotion": {
+        "sadness": 0.164611,
+        "joy": 0.737907,
+        "fear": 0.090817,
+        "disgust": 0.005352,
+        "anger": 0.010007
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald J. Trump",
+      "sentiment": {
+        "score": 0.218006,
+        "label": "positive"
+      },
+      "relevance": 0.881856,
+      "mentions": [
+        {
+          "text": "Donald J. Trump",
+          "location": [
+            82,
+            97
+          ]
+        },
+        {
+          "text": "a hoax",
+          "location": [
+            120,
+            126
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            257,
+            266
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.316315,
+        "joy": 0.130154,
+        "fear": 0.277155,
+        "disgust": 0.087875,
+        "anger": 0.076299
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "National Institutes of Health",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.39801,
+      "mentions": [
+        {
+          "text": "National Institutes of Health",
+          "location": [
+            537,
+            566
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.077026,
+        "joy": 0.624104,
+        "fear": 0.106154,
+        "disgust": 0.05935,
+        "anger": 0.037895
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "SoftwareDeveloper"
+        ],
+        "name": "National Institutes of Health",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Institutes_of_Health"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33902,
+      "mentions": [
+        {
+          "text": "he",
+          "location": [
+            61,
+            63
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            71,
+            80
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17586,
+        "joy": 0.373287,
+        "fear": 0.065456,
+        "disgust": 0.13188,
+        "anger": 0.240697
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Department of Energy",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.326116,
+      "mentions": [
+        {
+          "text": "Department of Energy",
+          "location": [
+            703,
+            723
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardPresentingOrganization",
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "United States Department of Energy",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Energy"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Science",
+      "relevance": 0.948337,
+      "dbpedia_resource": "http://dbpedia.org/resource/Science"
+    },
+    {
+      "text": "Research",
+      "relevance": 0.847235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Research"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.744977,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "United States Department of Energy",
+      "relevance": 0.722996,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Energy"
+    },
+    {
+      "text": "Scientific method",
+      "relevance": 0.678945,
+      "dbpedia_resource": "http://dbpedia.org/resource/Scientific_method"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.936754,
+      "label": "/finance/investing/funds"
+    }
+  ]
+}

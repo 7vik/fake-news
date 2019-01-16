@@ -1,0 +1,252 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 737,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.532769,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "years Jen",
+      "sentiment": {
+        "score": 0.810034,
+        "label": "positive"
+      },
+      "relevance": 0.899013,
+      "emotion": {
+        "sadness": 0.238207,
+        "joy": 0.640239,
+        "fear": 0.011605,
+        "disgust": 0.017867,
+        "anger": 0.050182
+      },
+      "count": 1
+    },
+    {
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.951643,
+        "label": "positive"
+      },
+      "relevance": 0.867122,
+      "emotion": {
+        "sadness": 0.077977,
+        "joy": 0.880838,
+        "fear": 0.019072,
+        "disgust": 0.007374,
+        "anger": 0.013811
+      },
+      "count": 1
+    },
+    {
+      "text": "Gwyneth Paltrow",
+      "sentiment": {
+        "score": 0.951643,
+        "label": "positive"
+      },
+      "relevance": 0.858726,
+      "emotion": {
+        "sadness": 0.220889,
+        "joy": 0.132824,
+        "fear": 0.092081,
+        "disgust": 0.186463,
+        "anger": 0.513571
+      },
+      "count": 1
+    },
+    {
+      "text": "wellness center",
+      "sentiment": {
+        "score": 0.997645,
+        "label": "positive"
+      },
+      "relevance": 0.738403,
+      "emotion": {
+        "sadness": 0.107347,
+        "joy": 0.854094,
+        "fear": 0.020108,
+        "disgust": 0.004317,
+        "anger": 0.008327
+      },
+      "count": 1
+    },
+    {
+      "text": "business partners",
+      "sentiment": {
+        "score": 0.997645,
+        "label": "positive"
+      },
+      "relevance": 0.712993,
+      "emotion": {
+        "sadness": 0.107347,
+        "joy": 0.854094,
+        "fear": 0.020108,
+        "disgust": 0.004317,
+        "anger": 0.008327
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Gwyneth Paltrow",
+      "sentiment": {
+        "score": 0.482489,
+        "label": "positive"
+      },
+      "relevance": 0.942792,
+      "mentions": [
+        {
+          "text": "Gwyneth Paltrow",
+          "location": [
+            10,
+            25
+          ]
+        },
+        {
+          "text": "Gwyneth Paltrow",
+          "location": [
+            419,
+            434
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            484,
+            487
+          ]
+        },
+        {
+          "text": "Paltrow",
+          "location": [
+            656,
+            663
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.287722,
+        "joy": 0.275376,
+        "fear": 0.114646,
+        "disgust": 0.153035,
+        "anger": 0.322677
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "MusicalGroupMember",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Gwyneth Paltrow",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gwyneth_Paltrow"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": 0.619694,
+        "label": "positive"
+      },
+      "relevance": 0.675432,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            28,
+            44
+          ]
+        },
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            69,
+            85
+          ]
+        },
+        {
+          "text": "Jennifer",
+          "location": [
+            267,
+            275
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.105118,
+        "joy": 0.608983,
+        "fear": 0.086574,
+        "disgust": 0.007928,
+        "anger": 0.116248
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Jen",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.45119,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.954322,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "Ben Affleck",
+      "relevance": 0.816745,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ben_Affleck"
+    },
+    {
+      "text": "Owen Wilson",
+      "relevance": 0.680997,
+      "dbpedia_resource": "http://dbpedia.org/resource/Owen_Wilson"
+    },
+    {
+      "text": "American female singers",
+      "relevance": 0.663029,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_female_singers"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.596019,
+      "label": "/society/sex"
+    }
+  ]
+}

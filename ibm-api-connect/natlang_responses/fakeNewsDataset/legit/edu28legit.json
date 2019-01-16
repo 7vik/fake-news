@@ -1,0 +1,259 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 700,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.314379,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New York School Menus",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.825563,
+      "emotion": {
+        "sadness": 0.17812,
+        "joy": 0.326299,
+        "fear": 0.08819,
+        "disgust": 0.066715,
+        "anger": 0.152261
+      },
+      "count": 1
+    },
+    {
+      "text": "Healthier Cereals",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.748271,
+      "emotion": {
+        "sadness": 0.17812,
+        "joy": 0.326299,
+        "fear": 0.08819,
+        "disgust": 0.066715,
+        "anger": 0.152261
+      },
+      "count": 1
+    },
+    {
+      "text": "breakfast cereals",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.715225,
+      "emotion": {
+        "sadness": 0.380491,
+        "joy": 0.44131,
+        "fear": 0.085411,
+        "disgust": 0.083793,
+        "anger": 0.108072
+      },
+      "count": 1
+    },
+    {
+      "text": "nation's largest school system",
+      "sentiment": {
+        "score": -0.314379,
+        "label": "negative"
+      },
+      "relevance": 0.686382,
+      "emotion": {
+        "sadness": 0.209925,
+        "joy": 0.41782,
+        "fear": 0.068358,
+        "disgust": 0.079877,
+        "anger": 0.065545
+      },
+      "count": 1
+    },
+    {
+      "text": "public school system",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.67045,
+      "emotion": {
+        "sadness": 0.380491,
+        "joy": 0.44131,
+        "fear": 0.085411,
+        "disgust": 0.083793,
+        "anger": 0.108072
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.910802,
+      "mentions": [
+        {
+          "text": "New York City",
+          "location": [
+            60,
+            73
+          ]
+        },
+        {
+          "text": "New York",
+          "location": [
+            560,
+            568
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.178221,
+        "joy": 0.506679,
+        "fear": 0.05748,
+        "disgust": 0.065057,
+        "anger": 0.090656
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "New York School",
+      "sentiment": {
+        "score": -0.419419,
+        "label": "negative"
+      },
+      "relevance": 0.907457,
+      "mentions": [
+        {
+          "text": "New York School",
+          "location": [
+            34,
+            49
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.17812,
+        "joy": 0.326299,
+        "fear": 0.08819,
+        "disgust": 0.066715,
+        "anger": 0.152261
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Kellogg Company",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.523405,
+      "mentions": [
+        {
+          "text": "Kellogg Company",
+          "location": [
+            146,
+            161
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.20705,
+        "joy": 0.513858,
+        "fear": 0.047886,
+        "disgust": 0.110741,
+        "anger": 0.151107
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kellogg Company",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kellogg_Company"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.369388,
+      "mentions": [
+        {
+          "text": "California",
+          "location": [
+            245,
+            255
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.514926,
+        "joy": 0.21618,
+        "fear": 0.211286,
+        "disgust": 0.034298,
+        "anger": 0.154644
+      },
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "New York City",
+      "relevance": 0.953422,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Cereal",
+      "relevance": 0.705649,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cereal"
+    },
+    {
+      "text": "Will Keith Kellogg",
+      "relevance": 0.665627,
+      "dbpedia_resource": "http://dbpedia.org/resource/Will_Keith_Kellogg"
+    },
+    {
+      "text": "John Harvey Kellogg",
+      "relevance": 0.628351,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_Harvey_Kellogg"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.936117,
+      "label": "/education/special education"
+    }
+  ]
+}

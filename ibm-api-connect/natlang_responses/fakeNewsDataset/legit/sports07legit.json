@@ -1,0 +1,349 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 977,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.495879,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.923489,
+      "emotion": {
+        "sadness": 0.263869,
+        "joy": 0.403747,
+        "fear": 0.018348,
+        "disgust": 0.199525,
+        "anger": 0.11106
+      },
+      "count": 1
+    },
+    {
+      "text": "tough conditions  raining",
+      "sentiment": {
+        "score": -0.903023,
+        "label": "negative"
+      },
+      "relevance": 0.774409,
+      "emotion": {
+        "sadness": 0.609946,
+        "joy": 0.100046,
+        "fear": 0.353108,
+        "disgust": 0.007321,
+        "anger": 0.136621
+      },
+      "count": 1
+    },
+    {
+      "text": "Top seed Stan Wawrinka",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.700294,
+      "emotion": {
+        "sadness": 0.139838,
+        "joy": 0.575442,
+        "fear": 0.043726,
+        "disgust": 0.118644,
+        "anger": 0.080294
+      },
+      "count": 1
+    },
+    {
+      "text": "Horacio Zeballos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.690583,
+      "emotion": {
+        "sadness": 0.139838,
+        "joy": 0.575442,
+        "fear": 0.043726,
+        "disgust": 0.118644,
+        "anger": 0.080294
+      },
+      "count": 1
+    },
+    {
+      "text": "windy today  Swiss Wawrinka",
+      "sentiment": {
+        "score": -0.903023,
+        "label": "negative"
+      },
+      "relevance": 0.658082,
+      "emotion": {
+        "sadness": 0.609946,
+        "joy": 0.100046,
+        "fear": 0.353108,
+        "disgust": 0.007321,
+        "anger": 0.136621
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Roger Federer",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.940779,
+      "mentions": [
+        {
+          "text": "Roger Federer",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Roger Federer",
+          "location": [
+            59,
+            72
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            278,
+            285
+          ]
+        },
+        {
+          "text": "Federer",
+          "location": [
+            807,
+            814
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            831,
+            833
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.372538,
+        "joy": 0.548978,
+        "fear": 0.012241,
+        "disgust": 0.028743,
+        "anger": 0.073676
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete",
+          "TennisTournamentChampion",
+          "TVActor"
+        ],
+        "name": "Roger Federer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Frances Tiafoe",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.443384,
+      "mentions": [
+        {
+          "text": "Frances Tiafoe",
+          "location": [
+            20,
+            34
+          ]
+        },
+        {
+          "text": "Frances Tiafoe",
+          "location": [
+            96,
+            110
+          ]
+        },
+        {
+          "text": "Tiafoe",
+          "location": [
+            947,
+            953
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.258297,
+        "joy": 0.599643,
+        "fear": 0.018766,
+        "disgust": 0.072889,
+        "anger": 0.094769
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Miami",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.399487,
+      "mentions": [
+        {
+          "text": "Miami",
+          "location": [
+            48,
+            53
+          ]
+        },
+        {
+          "text": "Miami",
+          "location": [
+            137,
+            142
+          ]
+        },
+        {
+          "text": "Miami",
+          "location": [
+            365,
+            370
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.475213,
+        "joy": 0.440278,
+        "fear": 0.01193,
+        "disgust": 0.049675,
+        "anger": 0.058821
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Indian Wells",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.243686,
+      "mentions": [
+        {
+          "text": "Indian Wells",
+          "location": [
+            846,
+            858
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.513446,
+        "joy": 0.445477,
+        "fear": 0.02945,
+        "disgust": 0.011215,
+        "anger": 0.034082
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Indian Wells, Kern County, California",
+        "dbpedia_resource": "http://dbpedia.org/resource/Indian_Wells,_Kern_County,_California"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Agnieszka Radwanska",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.241117,
+      "mentions": [
+        {
+          "text": "Agnieszka Radwanska",
+          "location": [
+            475,
+            494
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.139838,
+        "joy": 0.575442,
+        "fear": 0.043726,
+        "disgust": 0.118644,
+        "anger": 0.080294
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "TennisPlayer",
+          "OlympicAthlete"
+        ],
+        "name": "Agnieszka Radwa\u0144ska",
+        "dbpedia_resource": "http://dbpedia.org/resource/Agnieszka_Radwa\u0144ska"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "2009 Wimbledon Championships",
+      "relevance": 0.947101,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_Wimbledon_Championships"
+    },
+    {
+      "text": "2009 French Open",
+      "relevance": 0.92605,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_French_Open"
+    },
+    {
+      "text": "Roger Federer",
+      "relevance": 0.91145,
+      "dbpedia_resource": "http://dbpedia.org/resource/Roger_Federer"
+    },
+    {
+      "text": "2008 Australian Open",
+      "relevance": 0.797362,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_Australian_Open"
+    },
+    {
+      "text": "Andy Murray",
+      "relevance": 0.731006,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andy_Murray"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.998494,
+      "label": "/sports/tennis"
+    }
+  ]
+}

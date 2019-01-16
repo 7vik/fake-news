@@ -1,0 +1,335 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 756,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.479691,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.337612,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.760742,
+      "emotion": {
+        "sadness": 0.438983,
+        "joy": 0.308351,
+        "fear": 0.04168,
+        "disgust": 0.282969,
+        "anger": 0.066223
+      },
+      "count": 2
+    },
+    {
+      "text": "tumultuous election campaign",
+      "sentiment": {
+        "score": -0.389393,
+        "label": "negative"
+      },
+      "relevance": 0.704461,
+      "emotion": {
+        "sadness": 0.498284,
+        "joy": 0.053735,
+        "fear": 0.048503,
+        "disgust": 0.501201,
+        "anger": 0.074114
+      },
+      "count": 1
+    },
+    {
+      "text": "acceptance of her opponents victory",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.682158,
+      "emotion": {
+        "sadness": 0.080208,
+        "joy": 0.761637,
+        "fear": 0.026589,
+        "disgust": 0.034522,
+        "anger": 0.023108
+      },
+      "count": 1
+    },
+    {
+      "text": "Clinton",
+      "sentiment": {
+        "score": 0.318283,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.678206,
+      "emotion": {
+        "sadness": 0.526817,
+        "joy": 0.21879,
+        "fear": 0.019739,
+        "disgust": 0.358311,
+        "anger": 0.056944
+      },
+      "count": 4
+    },
+    {
+      "text": "American public",
+      "sentiment": {
+        "score": 0.854066,
+        "label": "positive"
+      },
+      "relevance": 0.629556,
+      "emotion": {
+        "sadness": 0.476619,
+        "joy": 0.295507,
+        "fear": 0.078138,
+        "disgust": 0.24486,
+        "anger": 0.020776
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.609851,
+        "label": "positive"
+      },
+      "relevance": 0.940362,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            131,
+            143
+          ]
+        },
+        {
+          "text": "Donald Trump",
+          "location": [
+            272,
+            284
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            327,
+            329
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            351,
+            360
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            686,
+            691
+          ]
+        },
+        {
+          "text": "a unifying force",
+          "location": [
+            717,
+            733
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.29939,
+        "joy": 0.517694,
+        "fear": 0.038603,
+        "disgust": 0.586729,
+        "anger": 0.086038
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.864159,
+        "label": "positive"
+      },
+      "relevance": 0.830239,
+      "mentions": [
+        {
+          "text": "Clinton",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            59,
+            74
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            238,
+            245
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            455,
+            462
+          ]
+        },
+        {
+          "text": "Clinton",
+          "location": [
+            587,
+            594
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.49327,
+        "joy": 0.27591,
+        "fear": 0.041941,
+        "disgust": 0.293499,
+        "anger": 0.026161
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 5
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": 0.6264,
+        "label": "positive"
+      },
+      "relevance": 0.165695,
+      "mentions": [
+        {
+          "text": "president",
+          "location": [
+            304,
+            313
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.211178,
+        "joy": 0.212515,
+        "fear": 0.061121,
+        "disgust": 0.246264,
+        "anger": 0.208733
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": 0.492184,
+        "label": "positive"
+      },
+      "relevance": 0.119147,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            494,
+            501
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.596214,
+        "joy": 0.210752,
+        "fear": 0.051424,
+        "disgust": 0.130338,
+        "anger": 0.137065
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "President of the United States",
+      "relevance": 0.9496,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.8632,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.816164,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Thomas Jefferson",
+      "relevance": 0.797631,
+      "dbpedia_resource": "http://dbpedia.org/resource/Thomas_Jefferson"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.780521,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.917284,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

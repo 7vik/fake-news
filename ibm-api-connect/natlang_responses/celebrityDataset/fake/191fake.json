@@ -1,0 +1,206 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 106,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.695674,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "O.J. Simpson",
+      "sentiment": {
+        "score": -0.695674,
+        "label": "negative"
+      },
+      "relevance": 0.993476,
+      "emotion": {
+        "sadness": 0.437675,
+        "joy": 0.110453,
+        "fear": 0.149586,
+        "disgust": 0.414927,
+        "anger": 0.122317
+      },
+      "count": 1
+    },
+    {
+      "text": "Kardashian paternity test",
+      "sentiment": {
+        "score": -0.695674,
+        "label": "negative"
+      },
+      "relevance": 0.750606,
+      "emotion": {
+        "sadness": 0.437675,
+        "joy": 0.110453,
+        "fear": 0.149586,
+        "disgust": 0.414927,
+        "anger": 0.122317
+      },
+      "count": 1
+    },
+    {
+      "text": "prison",
+      "sentiment": {
+        "score": -0.695674,
+        "label": "negative"
+      },
+      "relevance": 0.575975,
+      "emotion": {
+        "sadness": 0.437675,
+        "joy": 0.110453,
+        "fear": 0.149586,
+        "disgust": 0.414927,
+        "anger": 0.122317
+      },
+      "count": 1
+    },
+    {
+      "text": "former guard",
+      "sentiment": {
+        "score": -0.695674,
+        "label": "negative"
+      },
+      "relevance": 0.225484,
+      "emotion": {
+        "sadness": 0.437675,
+        "joy": 0.110453,
+        "fear": 0.149586,
+        "disgust": 0.414927,
+        "anger": 0.122317
+      },
+      "count": 1
+    },
+    {
+      "text": "Khloe",
+      "sentiment": {
+        "score": -0.695674,
+        "label": "negative"
+      },
+      "relevance": 0.088767,
+      "emotion": {
+        "sadness": 0.437675,
+        "joy": 0.110453,
+        "fear": 0.149586,
+        "disgust": 0.414927,
+        "anger": 0.122317
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "O.J. Simpson",
+      "sentiment": {
+        "score": -0.410956,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "O.J. Simpson",
+          "location": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            73,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18269,
+        "joy": 0.173922,
+        "fear": 0.106051,
+        "disgust": 0.518454,
+        "anger": 0.091494
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Criminal",
+          "FootballPlayer",
+          "HallOfFameInductee",
+          "SportsLeagueAwardWinner",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "O. J. Simpson",
+        "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Khloe Kardashian",
+      "sentiment": {
+        "score": -0.410956,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Khloe Kardashian",
+          "location": [
+            27,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187732,
+        "joy": 0.169932,
+        "fear": 0.109174,
+        "disgust": 0.510749,
+        "anger": 0.083751
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "BroadcastArtist",
+          "TVActor"
+        ],
+        "name": "Khlo\u00e9 Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Khlo\u00e9_Kardashian"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "O. J. Simpson murder case",
+      "relevance": 0.741008,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson_murder_case"
+    },
+    {
+      "text": "O. J. Simpson",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/O._J._Simpson"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.652083,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

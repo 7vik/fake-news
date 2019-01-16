@@ -1,0 +1,202 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 648,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.87432,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Google Maps",
+      "sentiment": {
+        "score": -0.87432,
+        "label": "negative"
+      },
+      "relevance": 0.822128,
+      "emotion": {
+        "sadness": 0.182143,
+        "joy": 0.615451,
+        "fear": 0.041603,
+        "disgust": 0.011698,
+        "anger": 0.176249
+      },
+      "count": 2
+    },
+    {
+      "text": "Central Park",
+      "sentiment": {
+        "score": -0.87432,
+        "label": "negative"
+      },
+      "relevance": 0.800979,
+      "emotion": {
+        "sadness": 0.191115,
+        "joy": 0.619076,
+        "fear": 0.049737,
+        "disgust": 0.011557,
+        "anger": 0.149399
+      },
+      "count": 1
+    },
+    {
+      "text": "exact spot",
+      "sentiment": {
+        "score": -0.87432,
+        "label": "negative"
+      },
+      "relevance": 0.793207,
+      "emotion": {
+        "sadness": 0.191115,
+        "joy": 0.619076,
+        "fear": 0.049737,
+        "disgust": 0.011557,
+        "anger": 0.149399
+      },
+      "count": 1
+    },
+    {
+      "text": "Golden Gate Park",
+      "sentiment": {
+        "score": -0.87432,
+        "label": "negative"
+      },
+      "relevance": 0.75607,
+      "emotion": {
+        "sadness": 0.191115,
+        "joy": 0.619076,
+        "fear": 0.049737,
+        "disgust": 0.011557,
+        "anger": 0.149399
+      },
+      "count": 1
+    },
+    {
+      "text": "location sharing",
+      "sentiment": {
+        "score": -0.87432,
+        "label": "negative"
+      },
+      "relevance": 0.718183,
+      "emotion": {
+        "sadness": 0.191115,
+        "joy": 0.619076,
+        "fear": 0.049737,
+        "disgust": 0.011557,
+        "anger": 0.149399
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Facility",
+      "text": "Golden Gate Park",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.463998,
+      "mentions": [
+        {
+          "text": "Golden Gate Park",
+          "location": [
+            139,
+            155
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172946,
+        "joy": 0.530792,
+        "fear": 0.05963,
+        "disgust": 0.062147,
+        "anger": 0.270772
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Central Park",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.403829,
+      "mentions": [
+        {
+          "text": "Central Park",
+          "location": [
+            123,
+            135
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172946,
+        "joy": 0.530792,
+        "fear": 0.05963,
+        "disgust": 0.062147,
+        "anger": 0.270772
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "15 minutes",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.360274,
+      "mentions": [
+        {
+          "text": "15 minutes",
+          "location": [
+            439,
+            449
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Google Maps",
+      "relevance": 0.988794,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_Maps"
+    },
+    {
+      "text": "Central Park",
+      "relevance": 0.753536,
+      "dbpedia_resource": "http://dbpedia.org/resource/Central_Park"
+    },
+    {
+      "text": "Google Earth",
+      "relevance": 0.72844,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google_Earth"
+    },
+    {
+      "text": "Urban park",
+      "relevance": 0.718873,
+      "dbpedia_resource": "http://dbpedia.org/resource/Urban_park"
+    },
+    {
+      "text": "New York City",
+      "relevance": 0.680397,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.664904,
+      "label": "/society/dating"
+    }
+  ]
+}

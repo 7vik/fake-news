@@ -1,0 +1,314 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 527,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.557673,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "obama administration era's rule",
+      "sentiment": {
+        "score": -0.542513,
+        "label": "negative"
+      },
+      "relevance": 0.855203,
+      "emotion": {
+        "sadness": 0.388818,
+        "joy": 0.025846,
+        "fear": 0.063444,
+        "disgust": 0.512043,
+        "anger": 0.181374
+      },
+      "count": 1
+    },
+    {
+      "text": "telecommunication companies",
+      "sentiment": {
+        "score": -0.611227,
+        "label": "negative"
+      },
+      "relevance": 0.741371,
+      "emotion": {
+        "sadness": 0.472946,
+        "joy": 0.019289,
+        "fear": 0.203333,
+        "disgust": 0.258799,
+        "anger": 0.207567
+      },
+      "count": 1
+    },
+    {
+      "text": "Congress Plans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.70329,
+      "emotion": {
+        "sadness": 0.486986,
+        "joy": 0.025967,
+        "fear": 0.154913,
+        "disgust": 0.144812,
+        "anger": 0.191455
+      },
+      "count": 1
+    },
+    {
+      "text": "AT&T",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.679745,
+      "emotion": {
+        "sadness": 0.255205,
+        "joy": 0.40761,
+        "fear": 0.071858,
+        "disgust": 0.018696,
+        "anger": 0.073373
+      },
+      "count": 1
+    },
+    {
+      "text": "own congress",
+      "sentiment": {
+        "score": -0.611227,
+        "label": "negative"
+      },
+      "relevance": 0.65186,
+      "emotion": {
+        "sadness": 0.538336,
+        "joy": 0.068988,
+        "fear": 0.188178,
+        "disgust": 0.105933,
+        "anger": 0.179406
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Congress",
+      "sentiment": {
+        "score": -0.659272,
+        "label": "negative"
+      },
+      "relevance": 0.929314,
+      "mentions": [
+        {
+          "text": "Congress",
+          "location": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "congress",
+          "location": [
+            210,
+            218
+          ]
+        },
+        {
+          "text": "congress",
+          "location": [
+            284,
+            292
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.606326,
+        "joy": 0.030751,
+        "fear": 0.233814,
+        "disgust": 0.112846,
+        "anger": 0.198857
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Donald trump",
+      "sentiment": {
+        "score": 0.899847,
+        "label": "positive"
+      },
+      "relevance": 0.428945,
+      "mentions": [
+        {
+          "text": "Donald trump",
+          "location": [
+            513,
+            525
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.044346,
+        "joy": 0.192844,
+        "fear": 0.032037,
+        "disgust": 0.091277,
+        "anger": 0.053701
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "obama",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.315664,
+      "mentions": [
+        {
+          "text": "obama",
+          "location": [
+            390,
+            395
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.285554,
+        "joy": 0.208565,
+        "fear": 0.090234,
+        "disgust": 0.100028,
+        "anger": 0.088214
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "President",
+          "Appointer",
+          "AwardWinner",
+          "Celebrity",
+          "PoliticalAppointer",
+          "U.S.Congressperson",
+          "USPresident",
+          "TVActor"
+        ],
+        "name": "Barack Obama",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Verizon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.30611,
+      "mentions": [
+        {
+          "text": "Verizon",
+          "location": [
+            176,
+            183
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Verizon Communications",
+        "dbpedia_resource": "http://dbpedia.org/resource/Verizon_Communications"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "comcast",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.29305,
+      "mentions": [
+        {
+          "text": "comcast",
+          "location": [
+            185,
+            192
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.18491,
+        "joy": 0.530675,
+        "fear": 0.147411,
+        "disgust": 0.013251,
+        "anger": 0.06689
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Comcast",
+        "dbpedia_resource": "http://dbpedia.org/resource/Comcast"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.92115,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.816155,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Barack Obama",
+      "relevance": 0.772724,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.771705,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Sovereign state",
+      "relevance": 0.769321,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sovereign_state"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.956307,
+      "label": "/law, govt and politics/government"
+    }
+  ]
+}

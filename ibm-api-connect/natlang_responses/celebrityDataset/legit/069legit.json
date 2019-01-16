@@ -1,0 +1,325 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1174,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.302485,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.302485,
+        "label": "positive"
+      },
+      "relevance": 0.856194,
+      "emotion": {
+        "sadness": 0.20481,
+        "joy": 0.716483,
+        "fear": 0.004504,
+        "disgust": 0.0116,
+        "anger": 0.086153
+      },
+      "count": 1
+    },
+    {
+      "text": "reality star Kendall Jenner",
+      "sentiment": {
+        "score": 0.302485,
+        "label": "positive"
+      },
+      "relevance": 0.661011,
+      "emotion": {
+        "sadness": 0.277734,
+        "joy": 0.662919,
+        "fear": 0.008173,
+        "disgust": 0.01047,
+        "anger": 0.061021
+      },
+      "count": 1
+    },
+    {
+      "text": "dinner date",
+      "sentiment": {
+        "score": 0.302485,
+        "label": "positive"
+      },
+      "relevance": 0.655636,
+      "emotion": {
+        "sadness": 0.277734,
+        "joy": 0.662919,
+        "fear": 0.008173,
+        "disgust": 0.01047,
+        "anger": 0.061021
+      },
+      "count": 1
+    },
+    {
+      "text": "Best Song",
+      "sentiment": {
+        "score": 0.302485,
+        "label": "positive"
+      },
+      "relevance": 0.650168,
+      "emotion": {
+        "sadness": 0.277734,
+        "joy": 0.662919,
+        "fear": 0.008173,
+        "disgust": 0.01047,
+        "anger": 0.061021
+      },
+      "count": 1
+    },
+    {
+      "text": "Direction's Harry Styles",
+      "sentiment": {
+        "score": 0.302485,
+        "label": "positive"
+      },
+      "relevance": 0.611902,
+      "emotion": {
+        "sadness": 0.20481,
+        "joy": 0.716483,
+        "fear": 0.004504,
+        "disgust": 0.0116,
+        "anger": 0.086153
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.64834,
+        "label": "positive"
+      },
+      "relevance": 0.781563,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            56,
+            70
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            121,
+            128
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            255,
+            269
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            466,
+            473
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            617,
+            624
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            716,
+            723
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            729,
+            732
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            891,
+            898
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.520276,
+        "joy": 0.729013,
+        "fear": 0.054335,
+        "disgust": 0.066295,
+        "anger": 0.086268
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 8
+    },
+    {
+      "type": "Person",
+      "text": "Harry Styles",
+      "sentiment": {
+        "score": 0.497686,
+        "label": "positive"
+      },
+      "relevance": 0.300811,
+      "mentions": [
+        {
+          "text": "Harry Styles",
+          "location": [
+            225,
+            237
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            857,
+            862
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            1009,
+            1014
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.208814,
+        "joy": 0.727982,
+        "fear": 0.016231,
+        "disgust": 0.023487,
+        "anger": 0.038755
+      },
+      "count": 3
+    },
+    {
+      "type": "Sport",
+      "text": "skiing",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.231903,
+      "mentions": [
+        {
+          "text": "skiing",
+          "location": [
+            154,
+            160
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "TouristAttraction",
+          "CauseOfDeath"
+        ],
+        "name": "Skiing",
+        "dbpedia_resource": "http://dbpedia.org/resource/Skiing"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Kardashians",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.151013,
+      "emotion": {
+        "sadness": 0.203945,
+        "joy": 0.617674,
+        "fear": 0.042622,
+        "disgust": 0.076189,
+        "anger": 0.104663
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "California.Earlier",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.135584,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.984073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.680963,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.665963,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.643886,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Skiing",
+      "relevance": 0.640652,
+      "dbpedia_resource": "http://dbpedia.org/resource/Skiing"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.989719,
+      "label": "/sports/skiing"
+    }
+  ]
+}

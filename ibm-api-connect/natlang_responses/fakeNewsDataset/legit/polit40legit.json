@@ -1,0 +1,320 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 784,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.741932,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump welcomes Merkel",
+      "sentiment": {
+        "score": -0.762089,
+        "label": "negative"
+      },
+      "relevance": 0.836322,
+      "emotion": {
+        "sadness": 0.11445,
+        "joy": 0.525097,
+        "fear": 0.030118,
+        "disgust": 0.263089,
+        "anger": 0.026544
+      },
+      "count": 1
+    },
+    {
+      "text": "first face",
+      "sentiment": {
+        "score": -0.762089,
+        "label": "negative"
+      },
+      "relevance": 0.761782,
+      "emotion": {
+        "sadness": 0.283419,
+        "joy": 0.509628,
+        "fear": 0.143309,
+        "disgust": 0.041358,
+        "anger": 0.070213
+      },
+      "count": 1
+    },
+    {
+      "text": "important meeting",
+      "sentiment": {
+        "score": -0.618727,
+        "label": "negative"
+      },
+      "relevance": 0.752783,
+      "emotion": {
+        "sadness": 0.085133,
+        "joy": 0.553914,
+        "fear": 0.081701,
+        "disgust": 0.083287,
+        "anger": 0.229028
+      },
+      "count": 1
+    },
+    {
+      "text": "White House officials",
+      "sentiment": {
+        "score": -0.618727,
+        "label": "negative"
+      },
+      "relevance": 0.718263,
+      "emotion": {
+        "sadness": 0.085133,
+        "joy": 0.553914,
+        "fear": 0.081701,
+        "disgust": 0.083287,
+        "anger": 0.229028
+      },
+      "count": 1
+    },
+    {
+      "text": "personal ties",
+      "sentiment": {
+        "score": -0.618727,
+        "label": "negative"
+      },
+      "relevance": 0.649747,
+      "emotion": {
+        "sadness": 0.085133,
+        "joy": 0.553914,
+        "fear": 0.081701,
+        "disgust": 0.083287,
+        "anger": 0.229028
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.520893,
+        "label": "positive"
+      },
+      "relevance": 0.836835,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            169,
+            174
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            308,
+            313
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            438,
+            443
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            549,
+            552
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.250464,
+        "joy": 0.459446,
+        "fear": 0.104783,
+        "disgust": 0.025174,
+        "anger": 0.132407
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Merkel",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.64974,
+      "mentions": [
+        {
+          "text": "Merkel",
+          "location": [
+            15,
+            21
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            36,
+            39
+          ]
+        },
+        {
+          "text": "Merkel",
+          "location": [
+            69,
+            75
+          ]
+        },
+        {
+          "text": "Merkel",
+          "location": [
+            742,
+            748
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106575,
+        "joy": 0.67711,
+        "fear": 0.015099,
+        "disgust": 0.169725,
+        "anger": 0.034746
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "White House",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.24372,
+      "mentions": [
+        {
+          "text": "White House",
+          "location": [
+            250,
+            261
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188346,
+        "joy": 0.270198,
+        "fear": 0.064833,
+        "disgust": 0.466846,
+        "anger": 0.185258
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.205343,
+      "mentions": [
+        {
+          "text": "Washington",
+          "location": [
+            116,
+            126
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.474189,
+        "joy": 0.162321,
+        "fear": 0.239998,
+        "disgust": 0.092383,
+        "anger": 0.116887
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Munich",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.199128,
+      "mentions": [
+        {
+          "text": "Munich",
+          "location": [
+            767,
+            773
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.329228,
+        "joy": 0.192144,
+        "fear": 0.059694,
+        "disgust": 0.078147,
+        "anger": 0.18311
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Germany",
+      "relevance": 0.887859,
+      "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+    },
+    {
+      "text": "Official",
+      "relevance": 0.833973,
+      "dbpedia_resource": "http://dbpedia.org/resource/Official"
+    },
+    {
+      "text": "Office",
+      "relevance": 0.818886,
+      "dbpedia_resource": "http://dbpedia.org/resource/Office"
+    },
+    {
+      "text": "The Republican",
+      "relevance": 0.7832,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Republican_(Springfield)"
+    },
+    {
+      "text": "The Road",
+      "relevance": 0.758636,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Road"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.847956,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

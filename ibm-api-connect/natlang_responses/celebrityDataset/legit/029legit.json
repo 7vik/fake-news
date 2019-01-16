@@ -1,0 +1,136 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "accidental overdose of opioid fentanyl",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.933492,
+      "emotion": {
+        "sadness": 0.697948,
+        "joy": 0.032916,
+        "fear": 0.118224,
+        "disgust": 0.095415,
+        "anger": 0.071395
+      },
+      "count": 1
+    },
+    {
+      "text": "medical examiner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.922337,
+      "emotion": {
+        "sadness": 0.697948,
+        "joy": 0.032916,
+        "fear": 0.118224,
+        "disgust": 0.095415,
+        "anger": 0.071395
+      },
+      "count": 1
+    },
+    {
+      "text": "Prince",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.844357,
+      "emotion": {
+        "sadness": 0.697948,
+        "joy": 0.032916,
+        "fear": 0.118224,
+        "disgust": 0.095415,
+        "anger": 0.071395
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Prince",
+      "sentiment": {
+        "score": -0.467728,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Prince",
+          "location": [
+            0,
+            6
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.642941,
+        "joy": 0.042341,
+        "fear": 0.131475,
+        "disgust": 0.069678,
+        "anger": 0.064485
+      },
+      "count": 1
+    },
+    {
+      "type": "Drug",
+      "text": "fentanyl",
+      "sentiment": {
+        "score": -0.467728,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "fentanyl",
+          "location": [
+            45,
+            53
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.642941,
+        "joy": 0.042341,
+        "fear": 0.131475,
+        "disgust": 0.069678,
+        "anger": 0.064485
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Naloxone",
+      "relevance": 0.946737,
+      "dbpedia_resource": "http://dbpedia.org/resource/Naloxone"
+    },
+    {
+      "text": "Drug overdose",
+      "relevance": 0.6928,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drug_overdose"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.867949,
+      "label": "/health and fitness/addiction"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 70,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.899735,
+      "emotion": {
+        "sadness": 0.188407,
+        "joy": 0.276945,
+        "fear": 0.107656,
+        "disgust": 0.272907,
+        "anger": 0.299639
+      },
+      "count": 1
+    },
+    {
+      "text": "lewd conversation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885178,
+      "emotion": {
+        "sadness": 0.188407,
+        "joy": 0.276945,
+        "fear": 0.107656,
+        "disgust": 0.272907,
+        "anger": 0.299639
+      },
+      "count": 1
+    },
+    {
+      "text": "women",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.188407,
+        "joy": 0.276945,
+        "fear": 0.107656,
+        "disgust": 0.272907,
+        "anger": 0.299639
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.604827,
+        "label": "negative"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            0,
+            5
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188407,
+        "joy": 0.276945,
+        "fear": 0.107656,
+        "disgust": 0.272907,
+        "anger": 0.299639
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.754437,
+      "label": "/health and fitness/women's health"
+    }
+  ]
+}

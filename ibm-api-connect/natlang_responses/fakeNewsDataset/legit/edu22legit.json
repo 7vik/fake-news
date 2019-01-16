@@ -1,0 +1,298 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 794,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.313024,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high schools",
+      "sentiment": {
+        "score": -0.637365,
+        "label": "negative"
+      },
+      "relevance": 0.891912,
+      "emotion": {
+        "sadness": 0.465816,
+        "joy": 0.430957,
+        "fear": 0.073119,
+        "disgust": 0.048345,
+        "anger": 0.053705
+      },
+      "count": 3
+    },
+    {
+      "text": "Exchange students",
+      "sentiment": {
+        "score": -0.637365,
+        "label": "negative"
+      },
+      "relevance": 0.861292,
+      "emotion": {
+        "sadness": 0.20468,
+        "joy": 0.526104,
+        "fear": 0.070666,
+        "disgust": 0.115602,
+        "anger": 0.113944
+      },
+      "count": 1
+    },
+    {
+      "text": "funny thing",
+      "sentiment": {
+        "score": -0.637365,
+        "label": "negative"
+      },
+      "relevance": 0.818278,
+      "emotion": {
+        "sadness": 0.525016,
+        "joy": 0.382967,
+        "fear": 0.077324,
+        "disgust": 0.046142,
+        "anger": 0.049478
+      },
+      "count": 1
+    },
+    {
+      "text": "new survey of foreign exchange students",
+      "sentiment": {
+        "score": -0.637365,
+        "label": "negative"
+      },
+      "relevance": 0.796034,
+      "emotion": {
+        "sadness": 0.525016,
+        "joy": 0.382967,
+        "fear": 0.077324,
+        "disgust": 0.046142,
+        "anger": 0.049478
+      },
+      "count": 1
+    },
+    {
+      "text": "Researcher Tom Loveless",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.699909,
+      "emotion": {
+        "sadness": 0.188641,
+        "joy": 0.092857,
+        "fear": 0.099801,
+        "disgust": 0.275661,
+        "anger": 0.107942
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tom Loveless",
+      "sentiment": {
+        "score": -0.283261,
+        "label": "negative"
+      },
+      "relevance": 0.761412,
+      "mentions": [
+        {
+          "text": "Tom Loveless",
+          "location": [
+            537,
+            549
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            632,
+            634
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.146467,
+        "joy": 0.52788,
+        "fear": 0.136207,
+        "disgust": 0.111546,
+        "anger": 0.084018
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.450761,
+        "label": "negative"
+      },
+      "relevance": 0.62885,
+      "mentions": [
+        {
+          "text": "U.S.",
+          "location": [
+            22,
+            26
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            122,
+            126
+          ]
+        },
+        {
+          "text": "U.S.",
+          "location": [
+            269,
+            273
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.494803,
+        "joy": 0.404407,
+        "fear": 0.080788,
+        "disgust": 0.050675,
+        "anger": 0.05481
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 3
+    },
+    {
+      "type": "Organization",
+      "text": "Brookings Institution",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.603851,
+      "mentions": [
+        {
+          "text": "Brookings Institution",
+          "location": [
+            468,
+            489
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Brookings Institution",
+        "dbpedia_resource": "http://dbpedia.org/resource/Brookings_Institution"
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "Researcher",
+      "sentiment": {
+        "score": -0.283261,
+        "label": "negative"
+      },
+      "relevance": 0.511791,
+      "mentions": [
+        {
+          "text": "Researcher",
+          "location": [
+            526,
+            536
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.223692,
+        "joy": 0.120268,
+        "fear": 0.114906,
+        "disgust": 0.312895,
+        "anger": 0.106661
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Brown Center on Education Policy",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.497736,
+      "mentions": [
+        {
+          "text": "Brown Center on Education Policy",
+          "location": [
+            492,
+            524
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.035527,
+        "joy": 0.68255,
+        "fear": 0.059184,
+        "disgust": 0.014387,
+        "anger": 0.023323
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "High school",
+      "relevance": 0.953261,
+      "dbpedia_resource": "http://dbpedia.org/resource/High_school"
+    },
+    {
+      "text": "Education",
+      "relevance": 0.924564,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "Think tank",
+      "relevance": 0.810127,
+      "dbpedia_resource": "http://dbpedia.org/resource/Think_tank"
+    },
+    {
+      "text": "Brookings Institution",
+      "relevance": 0.745731,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brookings_Institution"
+    },
+    {
+      "text": "Robert S. Brookings",
+      "relevance": 0.665763,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_S._Brookings"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.912887,
+      "label": "/education/high school"
+    }
+  ]
+}

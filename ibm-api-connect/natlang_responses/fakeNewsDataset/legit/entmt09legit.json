@@ -1,0 +1,326 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 866,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.630514,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sienna Miller",
+      "sentiment": {
+        "score": -0.688985,
+        "label": "negative"
+      },
+      "relevance": 0.747684,
+      "emotion": {
+        "sadness": 0.157712,
+        "joy": 0.526277,
+        "fear": 0.034146,
+        "disgust": 0.114519,
+        "anger": 0.203038
+      },
+      "count": 1
+    },
+    {
+      "text": "first mission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.733551,
+      "emotion": {
+        "sadness": 0.150152,
+        "joy": 0.457892,
+        "fear": 0.074834,
+        "disgust": 0.075877,
+        "anger": 0.034434
+      },
+      "count": 1
+    },
+    {
+      "text": "true story",
+      "sentiment": {
+        "score": 0.320687,
+        "label": "positive"
+      },
+      "relevance": 0.70967,
+      "emotion": {
+        "sadness": 0.332256,
+        "joy": 0.460832,
+        "fear": 0.077471,
+        "disgust": 0.104041,
+        "anger": 0.089778
+      },
+      "count": 1
+    },
+    {
+      "text": "explorer Percy Fawcett",
+      "sentiment": {
+        "score": 0.320687,
+        "label": "positive"
+      },
+      "relevance": 0.65494,
+      "emotion": {
+        "sadness": 0.332256,
+        "joy": 0.460832,
+        "fear": 0.077471,
+        "disgust": 0.104041,
+        "anger": 0.089778
+      },
+      "count": 1
+    },
+    {
+      "text": "Charlie Hunnam",
+      "sentiment": {
+        "score": 0.320687,
+        "label": "positive"
+      },
+      "relevance": 0.639232,
+      "emotion": {
+        "sadness": 0.332256,
+        "joy": 0.460832,
+        "fear": 0.077471,
+        "disgust": 0.104041,
+        "anger": 0.089778
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Sienna Miller",
+      "sentiment": {
+        "score": -0.700273,
+        "label": "negative"
+      },
+      "relevance": 0.865245,
+      "mentions": [
+        {
+          "text": "Sienna Miller",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Sienna Miller",
+          "location": [
+            76,
+            89
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            179,
+            182
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            246,
+            249
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            272,
+            275
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.209757,
+        "joy": 0.430476,
+        "fear": 0.061681,
+        "disgust": 0.129149,
+        "anger": 0.28205
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Sienna Miller",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sienna_Miller"
+      },
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "Percy Fawcett",
+      "sentiment": {
+        "score": 0.123481,
+        "label": "positive"
+      },
+      "relevance": 0.620212,
+      "mentions": [
+        {
+          "text": "Percy Fawcett",
+          "location": [
+            462,
+            475
+          ]
+        },
+        {
+          "text": "Percy",
+          "location": [
+            771,
+            776
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.426504,
+        "joy": 0.417435,
+        "fear": 0.018486,
+        "disgust": 0.081314,
+        "anger": 0.105951
+      },
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson"
+        ],
+        "name": "Percy Fawcett",
+        "dbpedia_resource": "http://dbpedia.org/resource/Percy_Fawcett"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Nina Fawcett",
+      "sentiment": {
+        "score": -0.589344,
+        "label": "negative"
+      },
+      "relevance": 0.322416,
+      "mentions": [
+        {
+          "text": "Nina Fawcett",
+          "location": [
+            284,
+            296
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.365879,
+        "joy": 0.118507,
+        "fear": 0.255225,
+        "disgust": 0.122756,
+        "anger": 0.15728
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Henry Costin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.298232,
+      "mentions": [
+        {
+          "text": "Henry Costin",
+          "location": [
+            636,
+            648
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.221724,
+        "joy": 0.407522,
+        "fear": 0.089066,
+        "disgust": 0.071733,
+        "anger": 0.051679
+      },
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson"
+        ],
+        "name": "Henry Gilbert Costin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Henry_Gilbert_Costin"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Charlie Hunnam",
+      "sentiment": {
+        "score": -0.411423,
+        "label": "negative"
+      },
+      "relevance": 0.279759,
+      "mentions": [
+        {
+          "text": "Charlie Hunnam",
+          "location": [
+            487,
+            501
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.512741,
+        "joy": 0.196419,
+        "fear": 0.09616,
+        "disgust": 0.085674,
+        "anger": 0.197908
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Charlie Hunnam",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charlie_Hunnam"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.935474,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "American novels",
+      "relevance": 0.934719,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_novels"
+    },
+    {
+      "text": "Fiction",
+      "relevance": 0.908576,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fiction"
+    },
+    {
+      "text": "English film actors",
+      "relevance": 0.863822,
+      "dbpedia_resource": "http://dbpedia.org/resource/English_film_actors"
+    },
+    {
+      "text": "English television actors",
+      "relevance": 0.67555,
+      "dbpedia_resource": "http://dbpedia.org/resource/English_television_actors"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.684203,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 54,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jamie Foxx",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.212171,
+        "joy": 0.365965,
+        "fear": 0.072947,
+        "disgust": 0.191653,
+        "anger": 0.127021
+      },
+      "count": 1
+    },
+    {
+      "text": "Katie Holmes Hit New York Fashion Week",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.012194,
+      "emotion": {
+        "sadness": 0.212171,
+        "joy": 0.365965,
+        "fear": 0.072947,
+        "disgust": 0.191653,
+        "anger": 0.127021
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jamie Foxx",
+      "sentiment": {
+        "score": 0.65036,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jamie Foxx",
+          "location": [
+            0,
+            10
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.212171,
+        "joy": 0.365965,
+        "fear": 0.072947,
+        "disgust": 0.191653,
+        "anger": 0.127021
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmMusicContributor",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Jamie Foxx",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0.65036,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Katie Holmes",
+          "location": [
+            15,
+            27
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.212171,
+        "joy": 0.365965,
+        "fear": 0.072947,
+        "disgust": 0.191653,
+        "anger": 0.127021
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.65036,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "New York",
+          "location": [
+            32,
+            40
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.212171,
+        "joy": 0.365965,
+        "fear": 0.072947,
+        "disgust": 0.191653,
+        "anger": 0.127021
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Fashion",
+      "relevance": 0.933655,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fashion"
+    },
+    {
+      "text": "New York City",
+      "relevance": 0.889627,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Milan",
+      "relevance": 0.793849,
+      "dbpedia_resource": "http://dbpedia.org/resource/Milan"
+    },
+    {
+      "text": "Jamie Foxx",
+      "relevance": 0.7476,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+    },
+    {
+      "text": "Forest Whitaker",
+      "relevance": 0.731867,
+      "dbpedia_resource": "http://dbpedia.org/resource/Forest_Whitaker"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.892989,
+      "label": "/style and fashion/men 's fashion"
+    }
+  ]
+}

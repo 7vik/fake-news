@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 57,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.774934,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.774934,
+        "label": "positive"
+      },
+      "relevance": 0.999484,
+      "emotion": {
+        "sadness": 0.035419,
+        "joy": 0.786404,
+        "fear": 0.042103,
+        "disgust": 0.113541,
+        "anger": 0.023035
+      },
+      "count": 1
+    },
+    {
+      "text": "Zayn",
+      "sentiment": {
+        "score": 0.774934,
+        "label": "positive"
+      },
+      "relevance": 0.899735,
+      "emotion": {
+        "sadness": 0.035419,
+        "joy": 0.786404,
+        "fear": 0.042103,
+        "disgust": 0.113541,
+        "anger": 0.023035
+      },
+      "count": 1
+    },
+    {
+      "text": "Success",
+      "sentiment": {
+        "score": 0.774934,
+        "label": "positive"
+      },
+      "relevance": 0.613217,
+      "emotion": {
+        "sadness": 0.035419,
+        "joy": 0.786404,
+        "fear": 0.042103,
+        "disgust": 0.113541,
+        "anger": 0.023035
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Zayn",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Zayn",
+          "location": [
+            0,
+            4
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.303607,
+        "joy": 0.216439,
+        "fear": 0.180871,
+        "disgust": 0.25745,
+        "anger": 0.079931
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Zayn-e-Attar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Zayn-e-Attar"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            8,
+            20
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            31,
+            34
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.03667,
+        "joy": 0.780069,
+        "fear": 0.042655,
+        "disgust": 0.127841,
+        "anger": 0.025024
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.903184,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Taylor Swift",
+      "relevance": 0.79672,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.643804,
+      "label": "/sports/wrestling"
+    }
+  ]
+}

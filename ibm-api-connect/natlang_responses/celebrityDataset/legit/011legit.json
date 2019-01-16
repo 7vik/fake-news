@@ -1,0 +1,168 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 79,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999973,
+      "emotion": {
+        "sadness": 0.10677,
+        "joy": 0.19798,
+        "fear": 0.220706,
+        "disgust": 0.454796,
+        "anger": 0.058766
+      },
+      "count": 1
+    },
+    {
+      "text": "Alex Rodriguez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.994203,
+      "emotion": {
+        "sadness": 0.10677,
+        "joy": 0.19798,
+        "fear": 0.220706,
+        "disgust": 0.454796,
+        "anger": 0.058766
+      },
+      "count": 1
+    },
+    {
+      "text": "rumors",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.610963,
+      "emotion": {
+        "sadness": 0.10677,
+        "joy": 0.19798,
+        "fear": 0.220706,
+        "disgust": 0.454796,
+        "anger": 0.058766
+      },
+      "count": 1
+    },
+    {
+      "text": "dating",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.026051,
+      "emotion": {
+        "sadness": 0.10677,
+        "joy": 0.19798,
+        "fear": 0.220706,
+        "disgust": 0.454796,
+        "anger": 0.058766
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Lopez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jennifer Lopez",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.091137,
+        "joy": 0.200643,
+        "fear": 0.019581,
+        "disgust": 0.189037,
+        "anger": 0.062391
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "CompanyFounder",
+          "FilmProducer",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Jennifer Lopez",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Alex Rodriguez",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Alex Rodriguez",
+          "location": [
+            19,
+            33
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.091137,
+        "joy": 0.200643,
+        "fear": 0.019581,
+        "disgust": 0.189037,
+        "anger": 0.062391
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jennifer Lopez",
+      "relevance": 0.932431,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Lopez"
+    },
+    {
+      "text": "Alex Rodriguez",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alex_Rodriguez"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999433,
+      "label": "/society/dating"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 556,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.833242,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new smartphone attachment",
+      "sentiment": {
+        "score": 0.862133,
+        "label": "positive"
+      },
+      "relevance": 0.93784,
+      "emotion": {
+        "sadness": 0.138166,
+        "joy": 0.381094,
+        "fear": 0.04038,
+        "disgust": 0.188449,
+        "anger": 0.05469
+      },
+      "count": 1
+    },
+    {
+      "text": "Phone device tests",
+      "sentiment": {
+        "score": 0.862133,
+        "label": "positive"
+      },
+      "relevance": 0.875654,
+      "emotion": {
+        "sadness": 0.168413,
+        "joy": 0.081353,
+        "fear": 0.122425,
+        "disgust": 0.067539,
+        "anger": 0.014136
+      },
+      "count": 1
+    },
+    {
+      "text": "new device",
+      "sentiment": {
+        "score": 0.841773,
+        "label": "positive"
+      },
+      "relevance": 0.762938,
+      "emotion": {
+        "sadness": 0.062882,
+        "joy": 0.141552,
+        "fear": 0.013739,
+        "disgust": 0.007156,
+        "anger": 0.054893
+      },
+      "count": 1
+    },
+    {
+      "text": "USB port of a smartphone",
+      "sentiment": {
+        "score": 0.841773,
+        "label": "positive"
+      },
+      "relevance": 0.711414,
+      "emotion": {
+        "sadness": 0.062882,
+        "joy": 0.141552,
+        "fear": 0.013739,
+        "disgust": 0.007156,
+        "anger": 0.054893
+      },
+      "count": 1
+    },
+    {
+      "text": "semen sample",
+      "sentiment": {
+        "score": 0.841773,
+        "label": "positive"
+      },
+      "relevance": 0.677403,
+      "emotion": {
+        "sadness": 0.062882,
+        "joy": 0.141552,
+        "fear": 0.013739,
+        "disgust": 0.007156,
+        "anger": 0.054893
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.581362,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            432,
+            438
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.080446,
+        "joy": 0.162334,
+        "fear": 0.014389,
+        "disgust": 0.007314,
+        "anger": 0.06415
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "100%",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.581362,
+      "mentions": [
+        {
+          "text": "100%",
+          "location": [
+            41,
+            45
+          ]
+        },
+        {
+          "text": "100%",
+          "location": [
+            124,
+            128
+          ]
+        }
+      ],
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Spermatozoon",
+      "relevance": 0.989036,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spermatozoon"
+    },
+    {
+      "text": "Sexual intercourse",
+      "relevance": 0.986765,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sexual_intercourse"
+    },
+    {
+      "text": "Reproduction",
+      "relevance": 0.93207,
+      "dbpedia_resource": "http://dbpedia.org/resource/Reproduction"
+    },
+    {
+      "text": "IPhone",
+      "relevance": 0.802004,
+      "dbpedia_resource": "http://dbpedia.org/resource/IPhone"
+    },
+    {
+      "text": "Universal Serial Bus",
+      "relevance": 0.79462,
+      "dbpedia_resource": "http://dbpedia.org/resource/Universal_Serial_Bus"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.924279,
+      "label": "/technology and computing/tech news"
+    }
+  ]
+}

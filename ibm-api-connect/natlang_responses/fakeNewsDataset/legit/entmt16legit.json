@@ -1,0 +1,316 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 683,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.384772,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Guillermo Diaz",
+      "sentiment": {
+        "score": -0.526822,
+        "label": "negative"
+      },
+      "relevance": 0.844405,
+      "emotion": {
+        "sadness": 0.128352,
+        "joy": 0.441832,
+        "fear": 0.058483,
+        "disgust": 0.411237,
+        "anger": 0.065101
+      },
+      "count": 1
+    },
+    {
+      "text": "actor",
+      "sentiment": {
+        "score": -0.533834,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.638141,
+      "emotion": {
+        "sadness": 0.383898,
+        "joy": 0.041682,
+        "fear": 0.046066,
+        "disgust": 0.417157,
+        "anger": 0.416225
+      },
+      "count": 3
+    },
+    {
+      "text": "entmt Tonight",
+      "sentiment": {
+        "score": -0.919493,
+        "label": "negative"
+      },
+      "relevance": 0.634993,
+      "emotion": {
+        "sadness": 0.113443,
+        "joy": 0.037074,
+        "fear": 0.236196,
+        "disgust": 0.094303,
+        "anger": 0.42142
+      },
+      "count": 1
+    },
+    {
+      "text": "show's creator Shonda Rhimes",
+      "sentiment": {
+        "score": 0.420911,
+        "label": "positive"
+      },
+      "relevance": 0.625623,
+      "emotion": {
+        "sadness": 0.245215,
+        "joy": 0.268605,
+        "fear": 0.037894,
+        "disgust": 0.057209,
+        "anger": 0.074713
+      },
+      "count": 1
+    },
+    {
+      "text": "words of hope",
+      "sentiment": {
+        "score": -0.573351,
+        "label": "negative"
+      },
+      "relevance": 0.624512,
+      "emotion": {
+        "sadness": 0.470912,
+        "joy": 0.058739,
+        "fear": 0.015577,
+        "disgust": 0.47833,
+        "anger": 0.275575
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Huck",
+      "sentiment": {
+        "score": 0.118058,
+        "label": "positive"
+      },
+      "relevance": 0.855884,
+      "mentions": [
+        {
+          "text": "Huck",
+          "location": [
+            3,
+            7
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            45,
+            48
+          ]
+        },
+        {
+          "text": "Huck",
+          "location": [
+            90,
+            94
+          ]
+        },
+        {
+          "text": "Huck",
+          "location": [
+            389,
+            393
+          ]
+        },
+        {
+          "text": "me",
+          "location": [
+            405,
+            407
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            506,
+            508
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.465427,
+        "joy": 0.718977,
+        "fear": 0.120816,
+        "disgust": 0.513631,
+        "anger": 0.180622
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Guillermo Diaz",
+      "sentiment": {
+        "score": 0.051583,
+        "label": "positive"
+      },
+      "relevance": 0.456994,
+      "mentions": [
+        {
+          "text": "Guillermo Diaz",
+          "location": [
+            241,
+            255
+          ]
+        },
+        {
+          "text": "Diaz",
+          "location": [
+            590,
+            594
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.369523,
+        "joy": 0.400142,
+        "fear": 0.049667,
+        "disgust": 0.067704,
+        "anger": 0.083217
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Shonda Rhimes",
+      "sentiment": {
+        "score": 0.731786,
+        "label": "positive"
+      },
+      "relevance": 0.256966,
+      "mentions": [
+        {
+          "text": "Shonda Rhimes",
+          "location": [
+            619,
+            632
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.245215,
+        "joy": 0.268605,
+        "fear": 0.037894,
+        "disgust": 0.057209,
+        "anger": 0.074713
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "FilmDirector",
+          "TVProducer",
+          "FilmWriter",
+          "TVWriter"
+        ],
+        "name": "Shonda Rhimes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Shonda_Rhimes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Gladiators",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.227297,
+      "mentions": [
+        {
+          "text": "Gladiators",
+          "location": [
+            58,
+            68
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.931034,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Meg",
+      "sentiment": {
+        "score": 0.515487,
+        "label": "positive"
+      },
+      "relevance": 0.17286,
+      "mentions": [
+        {
+          "text": "Meg",
+          "location": [
+            380,
+            383
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.099228,
+        "joy": 0.058107,
+        "fear": 0.156949,
+        "disgust": 0.103987,
+        "anger": 0.34029
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pun",
+      "relevance": 0.954089,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pun"
+    },
+    {
+      "text": "Shonda Rhimes",
+      "relevance": 0.717663,
+      "dbpedia_resource": "http://dbpedia.org/resource/Shonda_Rhimes"
+    },
+    {
+      "text": "English-language films",
+      "relevance": 0.591776,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "2008 albums",
+      "relevance": 0.588251,
+      "dbpedia_resource": "http://dbpedia.org/resource/2008_albums"
+    },
+    {
+      "text": "Character",
+      "relevance": 0.556747,
+      "dbpedia_resource": "http://dbpedia.org/resource/Character_(arts)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.604167,
+      "label": "/art and entertainment/movies and tv/movies/reviews"
+    }
+  ]
+}

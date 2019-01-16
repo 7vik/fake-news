@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0,
+      "label": "neutral"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999997,
+      "emotion": {
+        "sadness": 0.146948,
+        "joy": 0.187236,
+        "fear": 0.061828,
+        "disgust": 0.365769,
+        "anger": 0.073147
+      },
+      "count": 1
+    },
+    {
+      "text": "Jake Gyllenhaal Dating Again",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.047318,
+      "emotion": {
+        "sadness": 0.146948,
+        "joy": 0.187236,
+        "fear": 0.061828,
+        "disgust": 0.365769,
+        "anger": 0.073147
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Taylor Swift",
+      "sentiment": {
+        "score": 0.898689,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Taylor Swift",
+          "location": [
+            4,
+            16
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156251,
+        "joy": 0.279965,
+        "fear": 0.056524,
+        "disgust": 0.329238,
+        "anger": 0.058535
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "Guitarist",
+          "MusicalGroupMember",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Taylor Swift",
+        "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Swift"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jake Gyllenhaal",
+      "sentiment": {
+        "score": 0.898689,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Jake Gyllenhaal",
+          "location": [
+            21,
+            36
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.156251,
+        "joy": 0.279965,
+        "fear": 0.056524,
+        "disgust": 0.329238,
+        "anger": 0.058535
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TheaterActor",
+          "TVActor"
+        ],
+        "name": "Jake Gyllenhaal",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jake Gyllenhaal",
+      "relevance": 0.920839,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jake_Gyllenhaal"
+    },
+    {
+      "text": "Stephen Gyllenhaal",
+      "relevance": 0.718522,
+      "dbpedia_resource": "http://dbpedia.org/resource/Stephen_Gyllenhaal"
+    },
+    {
+      "text": "Taylor Guitars",
+      "relevance": 0.711258,
+      "dbpedia_resource": "http://dbpedia.org/resource/Taylor_Guitars"
+    },
+    {
+      "text": "Gyllenhaal family",
+      "relevance": 0.699223,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gyllenhaal_family"
+    },
+    {
+      "text": "Leonard Gyllenhaal",
+      "relevance": 0.687631,
+      "dbpedia_resource": "http://dbpedia.org/resource/Leonard_Gyllenhaal"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999702,
+      "label": "/society/dating"
+    }
+  ]
+}

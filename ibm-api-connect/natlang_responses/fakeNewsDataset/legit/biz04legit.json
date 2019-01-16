@@ -1,0 +1,245 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 790,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.294383,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "free trade",
+      "sentiment": {
+        "score": -0.3611,
+        "label": "negative"
+      },
+      "relevance": 0.953265,
+      "emotion": {
+        "sadness": 0.620843,
+        "joy": 0.242428,
+        "fear": 0.134271,
+        "disgust": 0.069589,
+        "anger": 0.011465
+      },
+      "count": 2
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.851718,
+        "label": "negative"
+      },
+      "relevance": 0.865814,
+      "emotion": {
+        "sadness": 0.393069,
+        "joy": 0.336111,
+        "fear": 0.140609,
+        "disgust": 0.112157,
+        "anger": 0.084138
+      },
+      "count": 1
+    },
+    {
+      "text": "heart of Mexico",
+      "sentiment": {
+        "score": -0.3611,
+        "label": "negative"
+      },
+      "relevance": 0.751605,
+      "emotion": {
+        "sadness": 0.546852,
+        "joy": 0.247513,
+        "fear": 0.104935,
+        "disgust": 0.077291,
+        "anger": 0.013477
+      },
+      "count": 1
+    },
+    {
+      "text": "Free Trade Agreement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711528,
+      "emotion": {
+        "sadness": 0.536445,
+        "joy": 0.182826,
+        "fear": 0.264808,
+        "disgust": 0.096313,
+        "anger": 0.04535
+      },
+      "count": 1
+    },
+    {
+      "text": "American counterparts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.685098,
+      "emotion": {
+        "sadness": 0.172463,
+        "joy": 0.17073,
+        "fear": 0.113605,
+        "disgust": 0.505567,
+        "anger": 0.105471
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Mexico",
+      "sentiment": {
+        "score": 0.3551,
+        "label": "positive"
+      },
+      "relevance": 0.671024,
+      "mentions": [
+        {
+          "text": "Mexico",
+          "location": [
+            110,
+            116
+          ]
+        },
+        {
+          "text": "Mexico",
+          "location": [
+            525,
+            531
+          ]
+        },
+        {
+          "text": "Mexico",
+          "location": [
+            684,
+            690
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.536445,
+        "joy": 0.182826,
+        "fear": 0.264808,
+        "disgust": 0.096313,
+        "anger": 0.04535
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "FilmCinematographer",
+          "Country"
+        ],
+        "name": "Mexico",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mexico"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": -0.62014,
+        "label": "negative"
+      },
+      "relevance": 0.452928,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            137,
+            144
+          ]
+        },
+        {
+          "text": "America",
+          "location": [
+            499,
+            506
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.546852,
+        "joy": 0.247513,
+        "fear": 0.104935,
+        "disgust": 0.077291,
+        "anger": 0.013477
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.62014,
+        "label": "negative"
+      },
+      "relevance": 0.323235,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            359,
+            364
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.393069,
+        "joy": 0.336111,
+        "fear": 0.140609,
+        "disgust": 0.112157,
+        "anger": 0.084138
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Mexico",
+      "relevance": 0.945772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Mexico"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.881846,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "North American Free Trade Agreement",
+      "relevance": 0.868197,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_American_Free_Trade_Agreement"
+    },
+    {
+      "text": "North America",
+      "relevance": 0.663312,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_America"
+    },
+    {
+      "text": "Maize",
+      "relevance": 0.572475,
+      "dbpedia_resource": "http://dbpedia.org/resource/Maize"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.709038,
+      "label": "/law, govt and politics"
+    }
+  ]
+}

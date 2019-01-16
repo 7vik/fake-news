@@ -1,0 +1,301 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 715,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.434863,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Se-dol's newest challenger",
+      "sentiment": {
+        "score": 0.90577,
+        "label": "positive"
+      },
+      "relevance": 0.897777,
+      "emotion": {
+        "sadness": 0.015363,
+        "joy": 0.499089,
+        "fear": 0.027964,
+        "disgust": 0.011755,
+        "anger": 0.034201
+      },
+      "count": 1
+    },
+    {
+      "text": "world champion",
+      "sentiment": {
+        "score": -0.391122,
+        "label": "negative"
+      },
+      "relevance": 0.715965,
+      "emotion": {
+        "sadness": 0.022997,
+        "joy": 0.411261,
+        "fear": 0.060775,
+        "disgust": 0.025823,
+        "anger": 0.059914
+      },
+      "count": 1
+    },
+    {
+      "text": "Google computers",
+      "sentiment": {
+        "score": -0.391122,
+        "label": "negative"
+      },
+      "relevance": 0.707585,
+      "emotion": {
+        "sadness": 0.289893,
+        "joy": 0.168079,
+        "fear": 0.197862,
+        "disgust": 0.121507,
+        "anger": 0.108176
+      },
+      "count": 1
+    },
+    {
+      "text": "Se-dol",
+      "sentiment": {
+        "score": -0.565423,
+        "label": "negative"
+      },
+      "relevance": 0.651741,
+      "emotion": {
+        "sadness": 0.014216,
+        "joy": 0.550692,
+        "fear": 0.054655,
+        "disgust": 0.009065,
+        "anger": 0.064149
+      },
+      "count": 1
+    },
+    {
+      "text": "Google's Deepmind computer AlphaGo",
+      "sentiment": {
+        "score": 0.90577,
+        "label": "positive"
+      },
+      "relevance": 0.648371,
+      "emotion": {
+        "sadness": 0.015363,
+        "joy": 0.499089,
+        "fear": 0.027964,
+        "disgust": 0.011755,
+        "anger": 0.034201
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Lee Se-dol",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.850422,
+      "mentions": [
+        {
+          "text": "Lee Se-dol",
+          "location": [
+            74,
+            84
+          ]
+        },
+        {
+          "text": "the world champion",
+          "location": [
+            88,
+            106
+          ]
+        },
+        {
+          "text": "Se-dol",
+          "location": [
+            172,
+            178
+          ]
+        },
+        {
+          "text": "Lee",
+          "location": [
+            550,
+            553
+          ]
+        },
+        {
+          "text": "Lee",
+          "location": [
+            583,
+            586
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.029998,
+        "joy": 0.371559,
+        "fear": 0.0635,
+        "disgust": 0.04153,
+        "anger": 0.108549
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Lee Se-Dol",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lee_Se-Dol"
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.668559,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            203,
+            209
+          ]
+        },
+        {
+          "text": "Google",
+          "location": [
+            357,
+            363
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.274746,
+        "joy": 0.19763,
+        "fear": 0.224838,
+        "disgust": 0.149813,
+        "anger": 0.133769
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "AlphaGo",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.296827,
+      "mentions": [
+        {
+          "text": "Deepmind computer AlphaGo",
+          "location": [
+            212,
+            237
+          ]
+        },
+        {
+          "text": "AlphaGo",
+          "location": [
+            409,
+            416
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.003867,
+        "joy": 0.187942,
+        "fear": 0.037342,
+        "disgust": 0.002979,
+        "anger": 0.020207
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Dennis Hassabis",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.240678,
+      "mentions": [
+        {
+          "text": "Dennis Hassabis",
+          "location": [
+            377,
+            392
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.263966,
+        "joy": 0.19137,
+        "fear": 0.237375,
+        "disgust": 0.115367,
+        "anger": 0.119137
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Computer",
+      "relevance": 0.985053,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer"
+    },
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.743073,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Africa",
+      "relevance": 0.600772,
+      "dbpedia_resource": "http://dbpedia.org/resource/Africa"
+    },
+    {
+      "text": "Alan Turing",
+      "relevance": 0.574624,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alan_Turing"
+    },
+    {
+      "text": "Computer science",
+      "relevance": 0.556346,
+      "dbpedia_resource": "http://dbpedia.org/resource/Computer_science"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.939644,
+      "label": "/science/computer science/artificial intelligence"
+    }
+  ]
+}

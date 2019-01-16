@@ -1,0 +1,197 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 443,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.402891,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Teachers",
+      "sentiment": {
+        "score": 0.306087,
+        "label": "positive"
+      },
+      "relevance": 0.674339,
+      "emotion": {
+        "sadness": 0.043016,
+        "joy": 0.819855,
+        "fear": 0.040981,
+        "disgust": 0.025505,
+        "anger": 0.097971
+      },
+      "count": 1
+    },
+    {
+      "text": "hour",
+      "sentiment": {
+        "score": 0.321137,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.638566,
+      "emotion": {
+        "sadness": 0.018938,
+        "joy": 0.85015,
+        "fear": 0.028989,
+        "disgust": 0.032244,
+        "anger": 0.095489
+      },
+      "count": 2
+    },
+    {
+      "text": "Schools",
+      "sentiment": {
+        "score": 0.955531,
+        "label": "positive"
+      },
+      "relevance": 0.576112,
+      "emotion": {
+        "sadness": 0.259148,
+        "joy": 0.47566,
+        "fear": 0.171777,
+        "disgust": 0.044789,
+        "anger": 0.145889
+      },
+      "count": 1
+    },
+    {
+      "text": "action",
+      "sentiment": {
+        "score": 0.871812,
+        "label": "positive"
+      },
+      "relevance": 0.576044,
+      "emotion": {
+        "sadness": 0.047411,
+        "joy": 0.705219,
+        "fear": 0.032202,
+        "disgust": 0.070824,
+        "anger": 0.196231
+      },
+      "count": 1
+    },
+    {
+      "text": "day shift",
+      "sentiment": {
+        "score": -0.566648,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.571099,
+      "emotion": {
+        "sadness": 0.027211,
+        "joy": 0.875732,
+        "fear": 0.05647,
+        "disgust": 0.019358,
+        "anger": 0.03226
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Adkins",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.815954,
+      "mentions": [
+        {
+          "text": "Adkins",
+          "location": [
+            123,
+            129
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.129436,
+        "joy": 0.557808,
+        "fear": 0.047759,
+        "disgust": 0.067561,
+        "anger": 0.270674
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "1 Hour",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.815954,
+      "mentions": [
+        {
+          "text": "1 Hour",
+          "location": [
+            18,
+            24
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "1 hour",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.815954,
+      "mentions": [
+        {
+          "text": "1 hour",
+          "location": [
+            88,
+            94
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.953972,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "School",
+      "relevance": 0.615058,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Psychology",
+      "relevance": 0.554088,
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+      "text": "History of education",
+      "relevance": 0.500206,
+      "dbpedia_resource": "http://dbpedia.org/resource/History_of_education"
+    },
+    {
+      "text": "Learning",
+      "relevance": 0.47348,
+      "dbpedia_resource": "http://dbpedia.org/resource/Learning"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.985269,
+      "label": "/education/special education"
+    }
+  ]
+}

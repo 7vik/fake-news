@@ -1,0 +1,242 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 620,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.470534,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prime Exclusive Phones",
+      "sentiment": {
+        "score": 0.557503,
+        "label": "positive"
+      },
+      "relevance": 0.843772,
+      "emotion": {
+        "sadness": 0.229969,
+        "joy": 0.238084,
+        "fear": 0.109329,
+        "disgust": 0.026497,
+        "anger": 0.151708
+      },
+      "count": 1
+    },
+    {
+      "text": "online retailer",
+      "sentiment": {
+        "score": 0.557503,
+        "label": "positive"
+      },
+      "relevance": 0.749625,
+      "emotion": {
+        "sadness": 0.229969,
+        "joy": 0.238084,
+        "fear": 0.109329,
+        "disgust": 0.026497,
+        "anger": 0.151708
+      },
+      "count": 1
+    },
+    {
+      "text": "Prime customers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.710207,
+      "emotion": {
+        "sadness": 0.385609,
+        "joy": 0.060392,
+        "fear": 0.118751,
+        "disgust": 0.049029,
+        "anger": 0.149241
+      },
+      "count": 1
+    },
+    {
+      "text": "Motorola Moto G5",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.652403,
+      "emotion": {
+        "sadness": 0.385609,
+        "joy": 0.060392,
+        "fear": 0.118751,
+        "disgust": 0.049029,
+        "anger": 0.149241
+      },
+      "count": 1
+    },
+    {
+      "text": "full retail price",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.616903,
+      "emotion": {
+        "sadness": 0.385609,
+        "joy": 0.060392,
+        "fear": 0.118751,
+        "disgust": 0.049029,
+        "anger": 0.149241
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": 0.057473,
+        "label": "positive"
+      },
+      "relevance": 0.811758,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            487,
+            493
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            577,
+            583
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10472,
+        "joy": 0.063339,
+        "fear": 0.032523,
+        "disgust": 0.134796,
+        "anger": 0.331145
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Alcatel",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.329687,
+      "mentions": [
+        {
+          "text": "Alcatel",
+          "location": [
+            454,
+            461
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alcatel-Lucent",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alcatel-Lucent"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Motorola",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.304925,
+      "mentions": [
+        {
+          "text": "Motorola",
+          "location": [
+            369,
+            377
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.185793,
+        "joy": 0.158878,
+        "fear": 0.168489,
+        "disgust": 0.050071,
+        "anger": 0.090548
+      },
+      "disambiguation": {
+        "subtype": [
+          "Brand",
+          "ProcessorManufacturer",
+          "SoftwareDeveloper"
+        ],
+        "name": "Motorola",
+        "dbpedia_resource": "http://dbpedia.org/resource/Motorola"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Online shopping",
+      "relevance": 0.946285,
+      "dbpedia_resource": "http://dbpedia.org/resource/Online_shopping"
+    },
+    {
+      "text": "Price",
+      "relevance": 0.919901,
+      "dbpedia_resource": "http://dbpedia.org/resource/Price"
+    },
+    {
+      "text": "Retailing",
+      "relevance": 0.89174,
+      "dbpedia_resource": "http://dbpedia.org/resource/Retailing"
+    },
+    {
+      "text": "Price point",
+      "relevance": 0.822452,
+      "dbpedia_resource": "http://dbpedia.org/resource/Price_point"
+    },
+    {
+      "text": "Sales",
+      "relevance": 0.803545,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sales"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.976674,
+      "label": "/technology and computing/consumer electronics/telephones/mobile phones"
+    }
+  ]
+}

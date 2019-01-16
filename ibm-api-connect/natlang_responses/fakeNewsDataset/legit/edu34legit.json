@@ -1,0 +1,286 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 647,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.575475,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": -0.88932,
+        "label": "negative"
+      },
+      "relevance": 0.838527,
+      "emotion": {
+        "sadness": 0.416487,
+        "joy": 0.14967,
+        "fear": 0.08547,
+        "disgust": 0.145125,
+        "anger": 0.293203
+      },
+      "count": 1
+    },
+    {
+      "text": "Ex-US Attorney Barbara McQuade",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.820714,
+      "emotion": {
+        "sadness": 0.307193,
+        "joy": 0.140153,
+        "fear": 0.034221,
+        "disgust": 0.304735,
+        "anger": 0.358071
+      },
+      "count": 1
+    },
+    {
+      "text": "chief federal prosecutor",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.687962,
+      "emotion": {
+        "sadness": 0.40126,
+        "joy": 0.250875,
+        "fear": 0.115671,
+        "disgust": 0.069693,
+        "anger": 0.150144
+      },
+      "count": 1
+    },
+    {
+      "text": "Former U.S. Attorney Barbara McQuade",
+      "sentiment": {
+        "score": -0.693015,
+        "label": "negative"
+      },
+      "relevance": 0.669136,
+      "emotion": {
+        "sadness": 0.376503,
+        "joy": 0.063657,
+        "fear": 0.118894,
+        "disgust": 0.512421,
+        "anger": 0.214166
+      },
+      "count": 1
+    },
+    {
+      "text": "assistant U.S. attorney",
+      "sentiment": {
+        "score": -0.88932,
+        "label": "negative"
+      },
+      "relevance": 0.668794,
+      "emotion": {
+        "sadness": 0.40126,
+        "joy": 0.250875,
+        "fear": 0.115671,
+        "disgust": 0.069693,
+        "anger": 0.150144
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Barbara McQuade",
+      "sentiment": {
+        "score": 0.52359,
+        "label": "positive"
+      },
+      "relevance": 0.929113,
+      "mentions": [
+        {
+          "text": "Barbara McQuade",
+          "location": [
+            15,
+            30
+          ]
+        },
+        {
+          "text": "Barbara McQuade",
+          "location": [
+            79,
+            94
+          ]
+        },
+        {
+          "text": "McQuade",
+          "location": [
+            172,
+            179
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            251,
+            254
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.23764,
+        "joy": 0.350367,
+        "fear": 0.033075,
+        "disgust": 0.242102,
+        "anger": 0.296827
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Barbara L. McQuade",
+        "dbpedia_resource": "http://dbpedia.org/resource/Barbara_L._McQuade"
+      },
+      "count": 4
+    },
+    {
+      "type": "Location",
+      "text": "Michigan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.362149,
+      "mentions": [
+        {
+          "text": "Michigan",
+          "location": [
+            49,
+            57
+          ]
+        },
+        {
+          "text": "Michigan",
+          "location": [
+            466,
+            474
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.394063,
+        "joy": 0.225096,
+        "fear": 0.051839,
+        "disgust": 0.160759,
+        "anger": 0.266809
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Michigan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michigan"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "Attorney",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.33921,
+      "mentions": [
+        {
+          "text": "Attorney",
+          "location": [
+            6,
+            14
+          ]
+        },
+        {
+          "text": "Attorney",
+          "location": [
+            70,
+            78
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.315934,
+        "joy": 0.143019,
+        "fear": 0.03977,
+        "disgust": 0.402278,
+        "anger": 0.331588
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "University of Michigan",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.306281,
+      "mentions": [
+        {
+          "text": "University of Michigan",
+          "location": [
+            109,
+            131
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.354617,
+        "joy": 0.130119,
+        "fear": 0.077864,
+        "disgust": 0.3926,
+        "anger": 0.271273
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Barack Obama",
+      "relevance": 0.954261,
+      "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.77407,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Illinois",
+      "relevance": 0.770322,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.727813,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.700318,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.874373,
+      "label": "/law, govt and politics/legal issues/legislation/family laws"
+    }
+  ]
+}

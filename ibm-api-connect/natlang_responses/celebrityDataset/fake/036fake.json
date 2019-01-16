@@ -1,0 +1,288 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 512,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.446649,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.837456,
+      "emotion": {
+        "sadness": 0.188879,
+        "joy": 0.531613,
+        "fear": 0.038691,
+        "disgust": 0.088866,
+        "anger": 0.08821
+      },
+      "count": 1
+    },
+    {
+      "text": "L.A. native",
+      "sentiment": {
+        "score": 0.817937,
+        "label": "positive"
+      },
+      "relevance": 0.819417,
+      "emotion": {
+        "sadness": 0.042232,
+        "joy": 0.347216,
+        "fear": 0.207513,
+        "disgust": 0.07658,
+        "anger": 0.136536
+      },
+      "count": 1
+    },
+    {
+      "text": "close pal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.791869,
+      "emotion": {
+        "sadness": 0.138131,
+        "joy": 0.183638,
+        "fear": 0.049096,
+        "disgust": 0.035296,
+        "anger": 0.186458
+      },
+      "count": 1
+    },
+    {
+      "text": "Meghan Markle",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.737837,
+      "emotion": {
+        "sadness": 0.188879,
+        "joy": 0.531613,
+        "fear": 0.038691,
+        "disgust": 0.088866,
+        "anger": 0.08821
+      },
+      "count": 1
+    },
+    {
+      "text": "airy open rooms",
+      "sentiment": {
+        "score": 0.817937,
+        "label": "positive"
+      },
+      "relevance": 0.662316,
+      "emotion": {
+        "sadness": 0.042232,
+        "joy": 0.347216,
+        "fear": 0.207513,
+        "disgust": 0.07658,
+        "anger": 0.136536
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Meghan Markle",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.869614,
+      "mentions": [
+        {
+          "text": "Meghan Markle",
+          "location": [
+            15,
+            28
+          ]
+        },
+        {
+          "text": "Meghan",
+          "location": [
+            201,
+            207
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188879,
+        "joy": 0.531613,
+        "fear": 0.038691,
+        "disgust": 0.088866,
+        "anger": 0.08821
+      },
+      "disambiguation": {
+        "subtype": [
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Meghan Markle",
+        "dbpedia_resource": "http://dbpedia.org/resource/Meghan_Markle"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Meg",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.485347,
+      "mentions": [
+        {
+          "text": "Meg",
+          "location": [
+            103,
+            106
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            175,
+            178
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            190,
+            193
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.078468,
+        "joy": 0.119163,
+        "fear": 0.063086,
+        "disgust": 0.031908,
+        "anger": 0.112024
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Prince Harry",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.462057,
+      "mentions": [
+        {
+          "text": "Prince Harry",
+          "location": [
+            0,
+            12
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Prince Harry of Wales",
+        "dbpedia_resource": "http://dbpedia.org/resource/Prince_Harry_of_Wales"
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "The ENQUIRER",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.334715,
+      "mentions": [
+        {
+          "text": "The ENQUIRER",
+          "location": [
+            85,
+            97
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.066146,
+        "joy": 0.213493,
+        "fear": 0.025137,
+        "disgust": 0.0257,
+        "anger": 0.068684
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "National Enquirer",
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Enquirer"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "L.A.",
+      "sentiment": {
+        "score": -0.724332,
+        "label": "negative"
+      },
+      "relevance": 0.2636,
+      "emotion": {
+        "sadness": 0.092969,
+        "joy": 0.313689,
+        "fear": 0.09973,
+        "disgust": 0.127087,
+        "anger": 0.31863
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "OlympicBiddingCity",
+          "OlympicHostCity",
+          "PlaceWithNeighborhoods",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "Los Angeles",
+        "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Tabloid",
+      "relevance": 0.89405,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tabloid"
+    },
+    {
+      "text": "Supermarket tabloid",
+      "relevance": 0.892939,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supermarket_tabloid"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.608139,
+      "label": "/travel/traveling with kids"
+    }
+  ]
+}

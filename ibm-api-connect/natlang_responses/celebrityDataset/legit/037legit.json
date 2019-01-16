@@ -1,0 +1,344 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1317,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.693169,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Drake Cancels Amsterdam Concert",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.913199,
+      "emotion": {
+        "sadness": 0.261187,
+        "joy": 0.145771,
+        "fear": 0.099147,
+        "disgust": 0.074558,
+        "anger": 0.259278
+      },
+      "count": 1
+    },
+    {
+      "text": "tonight's show",
+      "sentiment": {
+        "score": -0.943202,
+        "label": "negative"
+      },
+      "relevance": 0.695654,
+      "emotion": {
+        "sadness": 0.576208,
+        "joy": 0.046327,
+        "fear": 0.289088,
+        "disgust": 0.035939,
+        "anger": 0.056744
+      },
+      "count": 1
+    },
+    {
+      "text": "Ziggo Dome",
+      "sentiment": {
+        "score": 0.672569,
+        "label": "positive"
+      },
+      "relevance": 0.659531,
+      "emotion": {
+        "sadness": 0.286599,
+        "joy": 0.621336,
+        "fear": 0.04509,
+        "disgust": 0.011433,
+        "anger": 0.066482
+      },
+      "count": 2
+    },
+    {
+      "text": "Tuesday night",
+      "sentiment": {
+        "score": 0.672569,
+        "label": "positive"
+      },
+      "relevance": 0.644385,
+      "emotion": {
+        "sadness": 0.157741,
+        "joy": 0.757513,
+        "fear": 0.041507,
+        "disgust": 0.022733,
+        "anger": 0.035748
+      },
+      "count": 1
+    },
+    {
+      "text": "third time",
+      "sentiment": {
+        "score": 0.672569,
+        "label": "positive"
+      },
+      "relevance": 0.631832,
+      "emotion": {
+        "sadness": 0.157741,
+        "joy": 0.757513,
+        "fear": 0.041507,
+        "disgust": 0.022733,
+        "anger": 0.035748
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Drake",
+      "sentiment": {
+        "score": -0.53582,
+        "label": "negative"
+      },
+      "relevance": 0.924106,
+      "mentions": [
+        {
+          "text": "Drake",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            159,
+            164
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            663,
+            668
+          ]
+        },
+        {
+          "text": "Drake",
+          "location": [
+            1026,
+            1031
+          ]
+        },
+        {
+          "text": "his",
+          "location": [
+            1067,
+            1070
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            1104,
+            1106
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.225268,
+        "joy": 0.590816,
+        "fear": 0.414718,
+        "disgust": 0.054524,
+        "anger": 0.067592
+      },
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "Amsterdam",
+      "sentiment": {
+        "score": -0.438057,
+        "label": "negative"
+      },
+      "relevance": 0.674183,
+      "mentions": [
+        {
+          "text": "Amsterdam",
+          "location": [
+            190,
+            199
+          ]
+        },
+        {
+          "text": "Amsterdam",
+          "location": [
+            921,
+            930
+          ]
+        },
+        {
+          "text": "Amsterdam",
+          "location": [
+            1048,
+            1057
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.177383,
+        "joy": 0.648826,
+        "fear": 0.046557,
+        "disgust": 0.059945,
+        "anger": 0.089226
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "OlympicBiddingCity",
+          "OlympicHostCity",
+          "City"
+        ],
+        "name": "Amsterdam",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amsterdam"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Ziggo",
+      "sentiment": {
+        "score": -0.637322,
+        "label": "negative"
+      },
+      "relevance": 0.584757,
+      "mentions": [
+        {
+          "text": "Ziggo",
+          "location": [
+            291,
+            296
+          ]
+        },
+        {
+          "text": "Ziggo",
+          "location": [
+            974,
+            979
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.422693,
+        "joy": 0.338896,
+        "fear": 0.047465,
+        "disgust": 0.165379,
+        "anger": 0.149978
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Ziggo",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ziggo"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Mojo",
+      "sentiment": {
+        "score": -0.493211,
+        "label": "negative"
+      },
+      "relevance": 0.485147,
+      "mentions": [
+        {
+          "text": "Mojo Concerts",
+          "location": [
+            549,
+            562
+          ]
+        },
+        {
+          "text": "Mojo",
+          "location": [
+            1305,
+            1309
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.153308,
+        "joy": 0.308308,
+        "fear": 0.044317,
+        "disgust": 0.380837,
+        "anger": 0.120928
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Live Nation Entertainment",
+        "dbpedia_resource": "http://dbpedia.org/resource/Live_Nation_Entertainment"
+      },
+      "count": 2
+    },
+    {
+      "type": "Facility",
+      "text": "17,000-person arena",
+      "sentiment": {
+        "score": -0.637322,
+        "label": "negative"
+      },
+      "relevance": 0.314644,
+      "mentions": [
+        {
+          "text": "17,000-person arena",
+          "location": [
+            403,
+            422
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.534208,
+        "joy": 0.063428,
+        "fear": 0.058645,
+        "disgust": 0.3183,
+        "anger": 0.270014
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Performance",
+      "relevance": 0.925624,
+      "dbpedia_resource": "http://dbpedia.org/resource/Performance"
+    },
+    {
+      "text": "Concert",
+      "relevance": 0.766667,
+      "dbpedia_resource": "http://dbpedia.org/resource/Concert"
+    },
+    {
+      "text": "Week-day names",
+      "relevance": 0.762313,
+      "dbpedia_resource": "http://dbpedia.org/resource/Week-day_names"
+    },
+    {
+      "text": "Boy Meets World",
+      "relevance": 0.762004,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boy_Meets_World"
+    },
+    {
+      "text": "Tuesday",
+      "relevance": 0.580949,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tuesday"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999906,
+      "label": "/art and entertainment/shows and events/concert"
+    }
+  ]
+}

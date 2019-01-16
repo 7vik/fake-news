@@ -1,0 +1,237 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 680,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.703385,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.438746,
+        "label": "negative"
+      },
+      "relevance": 0.902162,
+      "emotion": {
+        "sadness": 0.283375,
+        "joy": 0.322775,
+        "fear": 0.20207,
+        "disgust": 0.040534,
+        "anger": 0.137607
+      },
+      "count": 2
+    },
+    {
+      "text": "environment's best friend",
+      "sentiment": {
+        "score": -0.438746,
+        "label": "negative"
+      },
+      "relevance": 0.77467,
+      "emotion": {
+        "sadness": 0.270472,
+        "joy": 0.616131,
+        "fear": 0.11826,
+        "disgust": 0.00875,
+        "anger": 0.020451
+      },
+      "count": 1
+    },
+    {
+      "text": "tweet today",
+      "sentiment": {
+        "score": 0.81247,
+        "label": "positive"
+      },
+      "relevance": 0.666374,
+      "emotion": {
+        "sadness": 0.059556,
+        "joy": 0.76838,
+        "fear": 0.024382,
+        "disgust": 0.138931,
+        "anger": 0.005799
+      },
+      "count": 1
+    },
+    {
+      "text": "great things",
+      "sentiment": {
+        "score": 0.955623,
+        "label": "positive"
+      },
+      "relevance": 0.654747,
+      "emotion": {
+        "sadness": 0.051671,
+        "joy": 0.730635,
+        "fear": 0.078535,
+        "disgust": 0.015508,
+        "anger": 0.020948
+      },
+      "count": 1
+    },
+    {
+      "text": "Scientists",
+      "sentiment": {
+        "score": 0.664261,
+        "label": "positive"
+      },
+      "relevance": 0.61843,
+      "emotion": {
+        "sadness": 0.177214,
+        "joy": 0.716092,
+        "fear": 0.047907,
+        "disgust": 0.010333,
+        "anger": 0.047437
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.532604,
+        "label": "negative"
+      },
+      "relevance": 0.896239,
+      "mentions": [
+        {
+          "text": "Trump",
+          "location": [
+            10,
+            15
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            212,
+            217
+          ]
+        },
+        {
+          "text": "Trump",
+          "location": [
+            595,
+            600
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.163607,
+        "joy": 0.616462,
+        "fear": 0.05845,
+        "disgust": 0.012265,
+        "anger": 0.080507
+      },
+      "count": 3
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Rain Forest",
+      "sentiment": {
+        "score": -0.010265,
+        "label": "negative"
+      },
+      "relevance": 0.78353,
+      "mentions": [
+        {
+          "text": "Rain Forest",
+          "location": [
+            42,
+            53
+          ]
+        },
+        {
+          "text": "Rain Forest",
+          "location": [
+            199,
+            210
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.248383,
+        "joy": 0.633686,
+        "fear": 0.100704,
+        "disgust": 0.013018,
+        "anger": 0.039064
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "president",
+      "sentiment": {
+        "score": -0.532604,
+        "label": "negative"
+      },
+      "relevance": 0.454645,
+      "mentions": [
+        {
+          "text": "President",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "president",
+          "location": [
+            585,
+            594
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.183239,
+        "joy": 0.686466,
+        "fear": 0.07395,
+        "disgust": 0.010248,
+        "anger": 0.062485
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Technology",
+      "relevance": 0.982774,
+      "dbpedia_resource": "http://dbpedia.org/resource/Technology"
+    },
+    {
+      "text": "Natural gas",
+      "relevance": 0.7722,
+      "dbpedia_resource": "http://dbpedia.org/resource/Natural_gas"
+    },
+    {
+      "text": "Natural environment",
+      "relevance": 0.747027,
+      "dbpedia_resource": "http://dbpedia.org/resource/Natural_environment"
+    },
+    {
+      "text": "Natural gas field",
+      "relevance": 0.715715,
+      "dbpedia_resource": "http://dbpedia.org/resource/Natural_gas_field"
+    },
+    {
+      "text": "Nature",
+      "relevance": 0.701782,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nature"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999996,
+      "label": "/business and industrial/energy/natural gas"
+    }
+  ]
+}

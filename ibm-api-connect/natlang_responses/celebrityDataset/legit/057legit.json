@@ -1,0 +1,284 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 951,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.436026,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Star magazine",
+      "sentiment": {
+        "score": -0.555996,
+        "label": "negative"
+      },
+      "relevance": 0.81777,
+      "emotion": {
+        "sadness": 0.327158,
+        "joy": 0.144397,
+        "fear": 0.038689,
+        "disgust": 0.087457,
+        "anger": 0.075549
+      },
+      "count": 1
+    },
+    {
+      "text": "Evian Water",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706807,
+      "emotion": {
+        "sadness": 0.025849,
+        "joy": 0.850936,
+        "fear": 0.042027,
+        "disgust": 0.066376,
+        "anger": 0.016776
+      },
+      "count": 3
+    },
+    {
+      "text": "Good thing",
+      "sentiment": {
+        "score": 0.88544,
+        "label": "positive"
+      },
+      "relevance": 0.705025,
+      "emotion": {
+        "sadness": 0.05647,
+        "joy": 0.765823,
+        "fear": 0.057766,
+        "disgust": 0.086275,
+        "anger": 0.020273
+      },
+      "count": 1
+    },
+    {
+      "text": "little digging",
+      "sentiment": {
+        "score": -0.665455,
+        "label": "negative"
+      },
+      "relevance": 0.63287,
+      "emotion": {
+        "sadness": 0.151752,
+        "joy": 0.105337,
+        "fear": 0.439435,
+        "disgust": 0.49279,
+        "anger": 0.086404
+      },
+      "count": 1
+    },
+    {
+      "text": "real deal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.617065,
+      "emotion": {
+        "sadness": 0.052058,
+        "joy": 0.172528,
+        "fear": 0.104293,
+        "disgust": 0.350834,
+        "anger": 0.14586
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Cameron Diaz",
+      "sentiment": {
+        "score": -0.207525,
+        "label": "negative"
+      },
+      "relevance": 0.85723,
+      "mentions": [
+        {
+          "text": "Cameron Diaz",
+          "location": [
+            33,
+            45
+          ]
+        },
+        {
+          "text": "Cameron Diaz",
+          "location": [
+            235,
+            247
+          ]
+        },
+        {
+          "text": "Cameron",
+          "location": [
+            307,
+            314
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            398,
+            401
+          ]
+        },
+        {
+          "text": "Cameron",
+          "location": [
+            465,
+            472
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.14589,
+        "joy": 0.556524,
+        "fear": 0.023123,
+        "disgust": 0.064357,
+        "anger": 0.032214
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVProducer"
+        ],
+        "name": "Cameron Diaz",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cameron_Diaz"
+      },
+      "count": 5
+    },
+    {
+      "type": "Company",
+      "text": "Evian",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.526151,
+      "mentions": [
+        {
+          "text": "$18 million",
+          "location": [
+            408,
+            419
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.04548,
+        "joy": 0.457688,
+        "fear": 0.134063,
+        "disgust": 0.44113,
+        "anger": 0.037282
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Star magazine",
+      "sentiment": {
+        "score": -0.774999,
+        "label": "negative"
+      },
+      "relevance": 0.242613,
+      "mentions": [
+        {
+          "text": "Star magazine",
+          "location": [
+            166,
+            179
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.327158,
+        "joy": 0.144397,
+        "fear": 0.038689,
+        "disgust": 0.087457,
+        "anger": 0.075549
+      },
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ],
+        "name": "Star (magazine)",
+        "dbpedia_resource": "http://dbpedia.org/resource/Star_(magazine)"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Cam",
+      "sentiment": {
+        "score": -0.297073,
+        "label": "negative"
+      },
+      "relevance": 0.195962,
+      "mentions": [
+        {
+          "text": "Cam",
+          "location": [
+            696,
+            699
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.052058,
+        "joy": 0.172528,
+        "fear": 0.104293,
+        "disgust": 0.350834,
+        "anger": 0.14586
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "RumorFix",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.145548,
+      "mentions": [
+        {
+          "text": "RumorFix",
+          "location": [
+            429,
+            437
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [],
+  "categories": [
+    {
+      "score": 0.633547,
+      "label": "/style and fashion/body art"
+    }
+  ]
+}

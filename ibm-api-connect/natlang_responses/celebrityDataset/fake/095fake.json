@@ -1,0 +1,369 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 907,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.628339,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Vladimir Putin",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.869961,
+      "emotion": {
+        "sadness": 0.046134,
+        "joy": 0.724955,
+        "fear": 0.095148,
+        "disgust": 0.096467,
+        "anger": 0.069986
+      },
+      "count": 1
+    },
+    {
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.804341,
+      "emotion": {
+        "sadness": 0.128874,
+        "joy": 0.216333,
+        "fear": 0.049135,
+        "disgust": 0.149463,
+        "anger": 0.120345
+      },
+      "count": 1
+    },
+    {
+      "text": "notorious Soviet strongman Vladimir Putin",
+      "sentiment": {
+        "score": -0.895534,
+        "label": "negative"
+      },
+      "relevance": 0.671551,
+      "emotion": {
+        "sadness": 0.073114,
+        "joy": 0.685843,
+        "fear": 0.137044,
+        "disgust": 0.091409,
+        "anger": 0.058592
+      },
+      "count": 1
+    },
+    {
+      "text": "secret plan",
+      "sentiment": {
+        "score": 0.779262,
+        "label": "positive"
+      },
+      "relevance": 0.651734,
+      "emotion": {
+        "sadness": 0.143496,
+        "joy": 0.511971,
+        "fear": 0.071394,
+        "disgust": 0.006648,
+        "anger": 0.079547
+      },
+      "count": 1
+    },
+    {
+      "text": "Putin pooh",
+      "sentiment": {
+        "score": -0.984675,
+        "label": "negative"
+      },
+      "relevance": 0.599809,
+      "emotion": {
+        "sadness": 0.448568,
+        "joy": 0.051677,
+        "fear": 0.280556,
+        "disgust": 0.108579,
+        "anger": 0.244778
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Vladimir Putin",
+      "sentiment": {
+        "score": -0.105063,
+        "label": "negative"
+      },
+      "relevance": 0.780298,
+      "mentions": [
+        {
+          "text": "Vladimir Putin",
+          "location": [
+            37,
+            51
+          ]
+        },
+        {
+          "text": "Vladimir Putin",
+          "location": [
+            175,
+            189
+          ]
+        },
+        {
+          "text": "Putin",
+          "location": [
+            332,
+            337
+          ]
+        },
+        {
+          "text": "Putin",
+          "location": [
+            608,
+            613
+          ]
+        },
+        {
+          "text": "Putin",
+          "location": [
+            791,
+            796
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            841,
+            843
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.24521,
+        "joy": 0.296087,
+        "fear": 0.146366,
+        "disgust": 0.121513,
+        "anger": 0.139478
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "MartialArtist",
+          "PoliticalAppointer",
+          "TVActor"
+        ],
+        "name": "Vladimir Putin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Vladimir_Putin"
+      },
+      "count": 6
+    },
+    {
+      "type": "Person",
+      "text": "Lindsay Lohan",
+      "sentiment": {
+        "score": 0.188519,
+        "label": "positive"
+      },
+      "relevance": 0.401683,
+      "mentions": [
+        {
+          "text": "Lindsay Lohan",
+          "location": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            293,
+            300
+          ]
+        },
+        {
+          "text": "Lindsay",
+          "location": [
+            765,
+            772
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.110025,
+        "joy": 0.502283,
+        "fear": 0.116104,
+        "disgust": 0.22444,
+        "anger": 0.035333
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Lindsay Lohan",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lindsay_Lohan"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Katie Holmes",
+      "sentiment": {
+        "score": 0.415572,
+        "label": "positive"
+      },
+      "relevance": 0.222614,
+      "emotion": {
+        "sadness": 0.101667,
+        "joy": 0.522989,
+        "fear": 0.069871,
+        "disgust": 0.144191,
+        "anger": 0.058674
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Katie Holmes",
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Holmes"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Jamie Foxx",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.207571,
+      "mentions": [
+        {
+          "text": "Jamie Foxx",
+          "location": [
+            439,
+            449
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            509,
+            512
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "MusicalArtist",
+          "AwardNominee",
+          "AwardWinner",
+          "BroadcastArtist",
+          "Celebrity",
+          "FilmActor",
+          "FilmMusicContributor",
+          "TVActor",
+          "TVDirector",
+          "TVProducer",
+          "FilmWriter"
+        ],
+        "name": "Jamie Foxx",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jamie_Foxx"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Russia",
+      "sentiment": {
+        "score": 0.269134,
+        "label": "positive"
+      },
+      "relevance": 0.161389,
+      "mentions": [
+        {
+          "text": "Russia",
+          "location": [
+            248,
+            254
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.083974,
+        "joy": 0.715331,
+        "fear": 0.012283,
+        "disgust": 0.129793,
+        "anger": 0.043605
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Russia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Russia",
+      "relevance": 0.947328,
+      "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+    },
+    {
+      "text": "Boris Yeltsin",
+      "relevance": 0.766497,
+      "dbpedia_resource": "http://dbpedia.org/resource/Boris_Yeltsin"
+    },
+    {
+      "text": "Vladimir Putin",
+      "relevance": 0.718735,
+      "dbpedia_resource": "http://dbpedia.org/resource/Vladimir_Putin"
+    },
+    {
+      "text": "Belarus",
+      "relevance": 0.712816,
+      "dbpedia_resource": "http://dbpedia.org/resource/Belarus"
+    },
+    {
+      "text": "Moscow",
+      "relevance": 0.631673,
+      "dbpedia_resource": "http://dbpedia.org/resource/Moscow"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.680597,
+      "label": "/society/unrest and war"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 675,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.861548,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Amazon Prime Air drone",
+      "sentiment": {
+        "score": -0.793812,
+        "label": "negative"
+      },
+      "relevance": 0.914916,
+      "emotion": {
+        "sadness": 0.240611,
+        "joy": 0.196204,
+        "fear": 0.035182,
+        "disgust": 0.157315,
+        "anger": 0.152444
+      },
+      "count": 1
+    },
+    {
+      "text": "private land",
+      "sentiment": {
+        "score": -0.914187,
+        "label": "negative"
+      },
+      "relevance": 0.714013,
+      "emotion": {
+        "sadness": 0.527415,
+        "joy": 0.374559,
+        "fear": 0.041298,
+        "disgust": 0.012608,
+        "anger": 0.082969
+      },
+      "count": 1
+    },
+    {
+      "text": "testing flights",
+      "sentiment": {
+        "score": -0.793812,
+        "label": "negative"
+      },
+      "relevance": 0.712468,
+      "emotion": {
+        "sadness": 0.527415,
+        "joy": 0.374559,
+        "fear": 0.041298,
+        "disgust": 0.012608,
+        "anger": 0.082969
+      },
+      "count": 1
+    },
+    {
+      "text": "delivery drones",
+      "sentiment": {
+        "score": -0.793812,
+        "label": "negative"
+      },
+      "relevance": 0.697508,
+      "emotion": {
+        "sadness": 0.527415,
+        "joy": 0.374559,
+        "fear": 0.041298,
+        "disgust": 0.012608,
+        "anger": 0.082969
+      },
+      "count": 1
+    },
+    {
+      "text": "first US",
+      "sentiment": {
+        "score": -0.793812,
+        "label": "negative"
+      },
+      "relevance": 0.690145,
+      "emotion": {
+        "sadness": 0.240611,
+        "joy": 0.196204,
+        "fear": 0.035182,
+        "disgust": 0.157315,
+        "anger": 0.152444
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.104964,
+        "label": "positive"
+      },
+      "relevance": 0.842986,
+      "mentions": [
+        {
+          "text": "US",
+          "location": [
+            43,
+            45
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            143,
+            145
+          ]
+        },
+        {
+          "text": "drone delivery arm",
+          "location": [
+            265,
+            283
+          ]
+        },
+        {
+          "text": "US",
+          "location": [
+            376,
+            378
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.601931,
+        "joy": 0.164924,
+        "fear": 0.112872,
+        "disgust": 0.072062,
+        "anger": 0.11831
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 4
+    },
+    {
+      "type": "Facility",
+      "text": "Palm Springs Airport",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.722292,
+      "mentions": [
+        {
+          "text": "Palm Springs Airport",
+          "location": [
+            653,
+            673
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.460316,
+        "joy": 0.275174,
+        "fear": 0.096976,
+        "disgust": 0.024451,
+        "anger": 0.228835
+      },
+      "disambiguation": {
+        "subtype": [
+          "Location",
+          "Airport"
+        ],
+        "name": "Palm Springs International Airport",
+        "dbpedia_resource": "http://dbpedia.org/resource/Palm_Springs_International_Airport"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": -0.200339,
+        "label": "negative"
+      },
+      "relevance": 0.668198,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Amazon",
+          "location": [
+            62,
+            68
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.445477,
+        "joy": 0.202558,
+        "fear": 0.018371,
+        "disgust": 0.120183,
+        "anger": 0.194983
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Palm Springs",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.612447,
+      "mentions": [
+        {
+          "text": "Palm Springs",
+          "location": [
+            567,
+            579
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168352,
+        "joy": 0.757725,
+        "fear": 0.01621,
+        "disgust": 0.026936,
+        "anger": 0.033416
+      },
+      "disambiguation": {
+        "subtype": [
+          "CauseOfDeath",
+          "City"
+        ],
+        "name": "Palm Springs, California",
+        "dbpedia_resource": "http://dbpedia.org/resource/Palm_Springs,_California"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.331118,
+      "mentions": [
+        {
+          "text": "Florida",
+          "location": [
+            581,
+            588
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Florida",
+        "dbpedia_resource": "http://dbpedia.org/resource/Florida"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "American films",
+      "relevance": 0.901384,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_films"
+    },
+    {
+      "text": "Atmosphere",
+      "relevance": 0.890747,
+      "dbpedia_resource": "http://dbpedia.org/resource/Atmosphere"
+    },
+    {
+      "text": "The Palm",
+      "relevance": 0.87576,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Palm_(restaurant)"
+    },
+    {
+      "text": "Flight",
+      "relevance": 0.87436,
+      "dbpedia_resource": "http://dbpedia.org/resource/Flight"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.979447,
+      "label": "/travel/transports/air travel/airlines"
+    }
+  ]
+}

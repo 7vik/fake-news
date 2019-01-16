@@ -1,0 +1,261 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 634,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.82272,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new Galaxy S8",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.831993,
+      "emotion": {
+        "sadness": 0.476466,
+        "joy": 0.278572,
+        "fear": 0.084918,
+        "disgust": 0.030115,
+        "anger": 0.067147
+      },
+      "count": 1
+    },
+    {
+      "text": "Internet of Things",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.709169,
+      "emotion": {
+        "sadness": 0.476466,
+        "joy": 0.278572,
+        "fear": 0.084918,
+        "disgust": 0.030115,
+        "anger": 0.067147
+      },
+      "count": 1
+    },
+    {
+      "text": "artificial intelligence",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.705799,
+      "emotion": {
+        "sadness": 0.476466,
+        "joy": 0.278572,
+        "fear": 0.084918,
+        "disgust": 0.030115,
+        "anger": 0.067147
+      },
+      "count": 1
+    },
+    {
+      "text": "blog post",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.70142,
+      "emotion": {
+        "sadness": 0.476466,
+        "joy": 0.278572,
+        "fear": 0.084918,
+        "disgust": 0.030115,
+        "anger": 0.067147
+      },
+      "count": 1
+    },
+    {
+      "text": "S8 launches",
+      "sentiment": {
+        "score": -0.872637,
+        "label": "negative"
+      },
+      "relevance": 0.668368,
+      "emotion": {
+        "sadness": 0.476466,
+        "joy": 0.278572,
+        "fear": 0.084918,
+        "disgust": 0.030115,
+        "anger": 0.067147
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Samsung",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.923635,
+      "mentions": [
+        {
+          "text": "Samsung",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Samsung",
+          "location": [
+            55,
+            62
+          ]
+        },
+        {
+          "text": "Samsung",
+          "location": [
+            287,
+            294
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.234898,
+        "joy": 0.316569,
+        "fear": 0.091435,
+        "disgust": 0.091112,
+        "anger": 0.034342
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Samsung",
+        "dbpedia_resource": "http://dbpedia.org/resource/Samsung"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Injong Rhee",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.492873,
+      "mentions": [
+        {
+          "text": "Injong Rhee",
+          "location": [
+            330,
+            341
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.360614,
+        "joy": 0.30576,
+        "fear": 0.198446,
+        "disgust": 0.056351,
+        "anger": 0.049534
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Alexa",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.395941,
+      "mentions": [
+        {
+          "text": "Alexa",
+          "location": [
+            49,
+            54
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.132642,
+        "joy": 0.374002,
+        "fear": 0.107726,
+        "disgust": 0.076944,
+        "anger": 0.07849
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alexa Internet",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexa_Internet"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "New York",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.395908,
+      "mentions": [
+        {
+          "text": "New York",
+          "location": [
+            381,
+            389
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.360614,
+        "joy": 0.30576,
+        "fear": 0.198446,
+        "disgust": 0.056351,
+        "anger": 0.049534
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "WineRegion",
+          "FilmScreeningVenue",
+          "City"
+        ],
+        "name": "New York City",
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Artificial intelligence",
+      "relevance": 0.968741,
+      "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+      "text": "Cognitive science",
+      "relevance": 0.647288,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cognitive_science"
+    },
+    {
+      "text": "Nouvelle AI",
+      "relevance": 0.587622,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nouvelle_AI"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.797294,
+      "label": "/technology and computing/tech news"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 721,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.567524,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rapper Wiz Khalifa",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.943774,
+      "emotion": {
+        "sadness": 0.308757,
+        "joy": 0.143031,
+        "fear": 0.108044,
+        "disgust": 0.200495,
+        "anger": 0.258766
+      },
+      "count": 1
+    },
+    {
+      "text": "Pablo Escobar",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711745,
+      "emotion": {
+        "sadness": 0.165595,
+        "joy": 0.29545,
+        "fear": 0.125729,
+        "disgust": 0.257255,
+        "anger": 0.121665
+      },
+      "count": 1
+    },
+    {
+      "text": "black flowers",
+      "sentiment": {
+        "score": 0.361146,
+        "label": "positive"
+      },
+      "relevance": 0.620136,
+      "emotion": {
+        "sadness": 0.266492,
+        "joy": 0.571688,
+        "fear": 0.030269,
+        "disgust": 0.076443,
+        "anger": 0.126943
+      },
+      "count": 1
+    },
+    {
+      "text": "negative criticism",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.613075,
+      "emotion": {
+        "sadness": 0.180867,
+        "joy": 0.03697,
+        "fear": 0.163587,
+        "disgust": 0.54522,
+        "anger": 0.388442
+      },
+      "count": 1
+    },
+    {
+      "text": "burial place",
+      "sentiment": {
+        "score": 0.361146,
+        "label": "positive"
+      },
+      "relevance": 0.577634,
+      "emotion": {
+        "sadness": 0.249967,
+        "joy": 0.093852,
+        "fear": 0.149179,
+        "disgust": 0.112709,
+        "anger": 0.157371
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Pablo Escobar",
+      "sentiment": {
+        "score": -0.539103,
+        "label": "negative"
+      },
+      "relevance": 0.858083,
+      "mentions": [
+        {
+          "text": "Pablo Escobar",
+          "location": [
+            72,
+            85
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            239,
+            241
+          ]
+        },
+        {
+          "text": "Pablo Escobar",
+          "location": [
+            279,
+            292
+          ]
+        },
+        {
+          "text": "Escobar",
+          "location": [
+            642,
+            649
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.319394,
+        "joy": 0.12389,
+        "fear": 0.207335,
+        "disgust": 0.188041,
+        "anger": 0.124038
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Criminal"
+        ],
+        "name": "Pablo Escobar",
+        "dbpedia_resource": "http://dbpedia.org/resource/Pablo_Escobar"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Wiz Khalifa",
+      "sentiment": {
+        "score": -0.480264,
+        "label": "negative"
+      },
+      "relevance": 0.663751,
+      "mentions": [
+        {
+          "text": "Wiz Khalifa",
+          "location": [
+            7,
+            18
+          ]
+        },
+        {
+          "text": "Wiz Khalifa",
+          "location": [
+            113,
+            124
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.230368,
+        "joy": 0.048602,
+        "fear": 0.135768,
+        "disgust": 0.474591,
+        "anger": 0.417386
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Wiz Khalifa",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wiz_Khalifa"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "America",
+      "sentiment": {
+        "score": -0.380248,
+        "label": "negative"
+      },
+      "relevance": 0.206816,
+      "mentions": [
+        {
+          "text": "America",
+          "location": [
+            94,
+            101
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.180867,
+        "joy": 0.03697,
+        "fear": 0.163587,
+        "disgust": 0.54522,
+        "anger": 0.388442
+      },
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pablo Escobar",
+      "relevance": 0.945945,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pablo_Escobar"
+    },
+    {
+      "text": "Wiz Khalifa",
+      "relevance": 0.75978,
+      "dbpedia_resource": "http://dbpedia.org/resource/Wiz_Khalifa"
+    },
+    {
+      "text": "Hip hop music",
+      "relevance": 0.678176,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hip_hop_music"
+    },
+    {
+      "text": "Colombia",
+      "relevance": 0.43117,
+      "dbpedia_resource": "http://dbpedia.org/resource/Colombia"
+    },
+    {
+      "text": "Rapping",
+      "relevance": 0.420525,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rapping"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.746856,
+      "label": "/society"
+    }
+  ]
+}

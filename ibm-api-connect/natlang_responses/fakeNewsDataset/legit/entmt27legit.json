@@ -1,0 +1,315 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1199,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.56838,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "United Airlines leggings incident",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.819776,
+      "emotion": {
+        "sadness": 0.321232,
+        "joy": 0.125889,
+        "fear": 0.046302,
+        "disgust": 0.244671,
+        "anger": 0.292428
+      },
+      "count": 1
+    },
+    {
+      "text": "Activist Shannon Watts",
+      "sentiment": {
+        "score": -0.897184,
+        "label": "negative"
+      },
+      "relevance": 0.692542,
+      "emotion": {
+        "sadness": 0.363087,
+        "joy": 0.191508,
+        "fear": 0.082928,
+        "disgust": 0.100841,
+        "anger": 0.285763
+      },
+      "count": 1
+    },
+    {
+      "text": "major news outlets",
+      "sentiment": {
+        "score": -0.747722,
+        "label": "negative"
+      },
+      "relevance": 0.67878,
+      "emotion": {
+        "sadness": 0.142061,
+        "joy": 0.068346,
+        "fear": 0.032322,
+        "disgust": 0.103582,
+        "anger": 0.073135
+      },
+      "count": 1
+    },
+    {
+      "text": "company benefit travel",
+      "sentiment": {
+        "score": -0.747722,
+        "label": "negative"
+      },
+      "relevance": 0.66068,
+      "emotion": {
+        "sadness": 0.142061,
+        "joy": 0.068346,
+        "fear": 0.032322,
+        "disgust": 0.103582,
+        "anger": 0.073135
+      },
+      "count": 1
+    },
+    {
+      "text": "United Airlines",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.657253,
+      "emotion": {
+        "sadness": 0.321232,
+        "joy": 0.125889,
+        "fear": 0.046302,
+        "disgust": 0.244671,
+        "anger": 0.292428
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Shannon Watts",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.955491,
+      "mentions": [
+        {
+          "text": "Shannon Watts",
+          "location": [
+            425,
+            438
+          ]
+        },
+        {
+          "text": "Watts",
+          "location": [
+            617,
+            622
+          ]
+        },
+        {
+          "text": "a mother",
+          "location": [
+            626,
+            634
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.204849,
+        "joy": 0.183852,
+        "fear": 0.07731,
+        "disgust": 0.118994,
+        "anger": 0.464263
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "United Airlines",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.727226,
+      "mentions": [
+        {
+          "text": "United Airlines",
+          "location": [
+            51,
+            66
+          ]
+        },
+        {
+          "text": "United Airlines",
+          "location": [
+            93,
+            108
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.278442,
+        "joy": 0.160982,
+        "fear": 0.035302,
+        "disgust": 0.25344,
+        "anger": 0.323131
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Denver",
+      "sentiment": {
+        "score": -0.447754,
+        "label": "negative"
+      },
+      "relevance": 0.69744,
+      "mentions": [
+        {
+          "text": "Denver",
+          "location": [
+            562,
+            568
+          ]
+        },
+        {
+          "text": "Denver",
+          "location": [
+            769,
+            775
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.350831,
+        "joy": 0.026318,
+        "fear": 0.0865,
+        "disgust": 0.106465,
+        "anger": 0.124089
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Chrissy Teigen",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.654308,
+      "mentions": [
+        {
+          "text": "Chrissy Teigen",
+          "location": [
+            0,
+            14
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "Model"
+        ],
+        "name": "Christine Teigen",
+        "dbpedia_resource": "http://dbpedia.org/resource/Christine_Teigen"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Patricia Arquette",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.631843,
+      "mentions": [
+        {
+          "text": "Patricia Arquette",
+          "location": [
+            15,
+            32
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.199266,
+        "joy": 0.115588,
+        "fear": 0.096351,
+        "disgust": 0.164233,
+        "anger": 0.264596
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "FilmActor",
+          "TVActor",
+          "TVDirector",
+          "FilmWriter"
+        ],
+        "name": "Patricia Arquette",
+        "dbpedia_resource": "http://dbpedia.org/resource/Patricia_Arquette"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Southwest Airlines",
+      "relevance": 0.932319,
+      "dbpedia_resource": "http://dbpedia.org/resource/Southwest_Airlines"
+    },
+    {
+      "text": "Northwest Airlines",
+      "relevance": 0.868098,
+      "dbpedia_resource": "http://dbpedia.org/resource/Northwest_Airlines"
+    },
+    {
+      "text": "Airline",
+      "relevance": 0.84105,
+      "dbpedia_resource": "http://dbpedia.org/resource/Airline"
+    },
+    {
+      "text": "Delta Air Lines",
+      "relevance": 0.829493,
+      "dbpedia_resource": "http://dbpedia.org/resource/Delta_Air_Lines"
+    },
+    {
+      "text": "Aircraft",
+      "relevance": 0.811212,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aircraft"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.999964,
+      "label": "/style and fashion/clothing/leggings"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 784,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.89501,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.874483,
+      "emotion": {
+        "sadness": 0.443412,
+        "joy": 0.068663,
+        "fear": 0.07024,
+        "disgust": 0.32334,
+        "anger": 0.359909
+      },
+      "count": 1
+    },
+    {
+      "text": "Second Debate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.819646,
+      "emotion": {
+        "sadness": 0.443412,
+        "joy": 0.068663,
+        "fear": 0.07024,
+        "disgust": 0.32334,
+        "anger": 0.359909
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton Spar",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.800822,
+      "emotion": {
+        "sadness": 0.443412,
+        "joy": 0.068663,
+        "fear": 0.07024,
+        "disgust": 0.32334,
+        "anger": 0.359909
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.986825,
+        "label": "negative"
+      },
+      "relevance": 0.738343,
+      "emotion": {
+        "sadness": 0.091527,
+        "joy": 0.064616,
+        "fear": 0.379189,
+        "disgust": 0.202436,
+        "anger": 0.605239
+      },
+      "count": 1
+    },
+    {
+      "text": "presidential candidacy",
+      "sentiment": {
+        "score": -0.877717,
+        "label": "negative"
+      },
+      "relevance": 0.680319,
+      "emotion": {
+        "sadness": 0.055424,
+        "joy": 0.020993,
+        "fear": 0.071323,
+        "disgust": 0.5538,
+        "anger": 0.626446
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": -0.338804,
+        "label": "negative"
+      },
+      "relevance": 0.90335,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            35,
+            50
+          ]
+        },
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            102,
+            117
+          ]
+        },
+        {
+          "text": "Mrs. Clinton",
+          "location": [
+            292,
+            304
+          ]
+        },
+        {
+          "text": "Mrs. Clinton",
+          "location": [
+            391,
+            403
+          ]
+        },
+        {
+          "text": "Bill Clinton",
+          "location": [
+            447,
+            459
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            661,
+            663
+          ]
+        },
+        {
+          "text": "Mr. Clinton",
+          "location": [
+            731,
+            742
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.128221,
+        "joy": 0.09814,
+        "fear": 0.423095,
+        "disgust": 0.536678,
+        "anger": 0.685121
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Donald J. Trump",
+      "sentiment": {
+        "score": -0.247799,
+        "label": "negative"
+      },
+      "relevance": 0.778852,
+      "mentions": [
+        {
+          "text": "Donald Trump",
+          "location": [
+            18,
+            30
+          ]
+        },
+        {
+          "text": "Donald J. Trump",
+          "location": [
+            82,
+            97
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            254,
+            263
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            376,
+            385
+          ]
+        },
+        {
+          "text": "Mr. Trump",
+          "location": [
+            701,
+            710
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.172001,
+        "joy": 0.131636,
+        "fear": 0.430008,
+        "disgust": 0.574633,
+        "anger": 0.294644
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 5
+    },
+    {
+      "type": "Quantity",
+      "text": "90-minute",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.778852,
+      "mentions": [
+        {
+          "text": "90-minute",
+          "location": [
+            188,
+            197
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.95084,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.93301,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.7832,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "1946 births",
+      "relevance": 0.681855,
+      "dbpedia_resource": "http://dbpedia.org/resource/1946_births"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.670302,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.965708,
+      "label": "/law, govt and politics/politics/elections/presidential elections"
+    }
+  ]
+}

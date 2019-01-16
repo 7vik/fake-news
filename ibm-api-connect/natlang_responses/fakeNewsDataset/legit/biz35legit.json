@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 848,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.367533,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Saudi Arabia",
+      "sentiment": {
+        "score": -0.644437,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.999889,
+      "emotion": {
+        "sadness": 0.362932,
+        "joy": 0.115422,
+        "fear": 0.160504,
+        "disgust": 0.226622,
+        "anger": 0.321028
+      },
+      "count": 4
+    },
+    {
+      "text": "Saudi Aramco",
+      "sentiment": {
+        "score": -0.848505,
+        "label": "negative"
+      },
+      "relevance": 0.944732,
+      "emotion": {
+        "sadness": 0.185506,
+        "joy": 0.361036,
+        "fear": 0.068386,
+        "disgust": 0.186994,
+        "anger": 0.100319
+      },
+      "count": 1
+    },
+    {
+      "text": "tax rate",
+      "sentiment": {
+        "score": -0.848505,
+        "label": "negative"
+      },
+      "relevance": 0.540799,
+      "emotion": {
+        "sadness": 0.127067,
+        "joy": 0.23964,
+        "fear": 0.292582,
+        "disgust": 0.173564,
+        "anger": 0.172673
+      },
+      "count": 2
+    },
+    {
+      "text": "kingdom",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.533866,
+      "emotion": {
+        "sadness": 0.074391,
+        "joy": 0.081558,
+        "fear": 0.525097,
+        "disgust": 0.105454,
+        "anger": 0.181973
+      },
+      "count": 1
+    },
+    {
+      "text": "dollars",
+      "sentiment": {
+        "score": 0.796961,
+        "label": "positive"
+      },
+      "relevance": 0.515779,
+      "emotion": {
+        "sadness": 0.061385,
+        "joy": 0.732173,
+        "fear": 0.07313,
+        "disgust": 0.015242,
+        "anger": 0.0392
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Saudi Aramco",
+      "sentiment": {
+        "score": 0.037752,
+        "label": "positive"
+      },
+      "relevance": 0.918046,
+      "mentions": [
+        {
+          "text": "Saudi Aramco",
+          "location": [
+            82,
+            94
+          ]
+        },
+        {
+          "text": "Aramco",
+          "location": [
+            412,
+            418
+          ]
+        },
+        {
+          "text": "Aramco",
+          "location": [
+            551,
+            557
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.15786,
+        "joy": 0.397227,
+        "fear": 0.033045,
+        "disgust": 0.098346,
+        "anger": 0.096034
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Saudi Arabia",
+      "sentiment": {
+        "score": -0.343068,
+        "label": "negative"
+      },
+      "relevance": 0.898774,
+      "mentions": [
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            18,
+            30
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            64,
+            76
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            529,
+            541
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "location": [
+            670,
+            682
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.329825,
+        "joy": 0.165859,
+        "fear": 0.167658,
+        "disgust": 0.206371,
+        "anger": 0.296598
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 4
+    },
+    {
+      "type": "Company",
+      "text": "Aramco",
+      "sentiment": {
+        "score": -0.74235,
+        "label": "negative"
+      },
+      "relevance": 0.317254,
+      "mentions": [
+        {
+          "text": "Aramco",
+          "location": [
+            699,
+            705
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.397135,
+        "joy": 0.015202,
+        "fear": 0.328623,
+        "disgust": 0.248264,
+        "anger": 0.336034
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Saudi Aramco",
+        "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Aramco"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Saudi Aramco",
+      "relevance": 0.978154,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Aramco"
+    },
+    {
+      "text": "Petroleum",
+      "relevance": 0.959445,
+      "dbpedia_resource": "http://dbpedia.org/resource/Petroleum"
+    },
+    {
+      "text": "Saudi Arabia",
+      "relevance": 0.948205,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+      "text": "Ras Tanura",
+      "relevance": 0.618308,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ras_Tanura"
+    },
+    {
+      "text": "Saudi Aramco Residential Camp in Dhahran",
+      "relevance": 0.612938,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Aramco_Residential_Camp_in_Dhahran"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.996831,
+      "label": "/business and industrial/energy/oil/oil company"
+    }
+  ]
+}

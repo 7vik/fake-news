@@ -1,0 +1,346 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 662,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.53821,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "migraine headache",
+      "sentiment": {
+        "score": -0.914279,
+        "label": "negative"
+      },
+      "relevance": 0.925103,
+      "emotion": {
+        "sadness": 0.69983,
+        "joy": 0.027022,
+        "fear": 0.286235,
+        "disgust": 0.012447,
+        "anger": 0.225476
+      },
+      "count": 1
+    },
+    {
+      "text": "John Wall",
+      "sentiment": {
+        "score": 0.898626,
+        "label": "positive"
+      },
+      "relevance": 0.806996,
+      "emotion": {
+        "sadness": 0.482727,
+        "joy": 0.264577,
+        "fear": 0.178039,
+        "disgust": 0.068182,
+        "anger": 0.057893
+      },
+      "count": 2
+    },
+    {
+      "text": "Northeast Ohio sun",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.792256,
+      "emotion": {
+        "sadness": 0.350735,
+        "joy": 0.435765,
+        "fear": 0.148447,
+        "disgust": 0.056027,
+        "anger": 0.033813
+      },
+      "count": 1
+    },
+    {
+      "text": "fourth quarter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.777504,
+      "emotion": {
+        "sadness": 0.69983,
+        "joy": 0.027022,
+        "fear": 0.286235,
+        "disgust": 0.012447,
+        "anger": 0.225476
+      },
+      "count": 1
+    },
+    {
+      "text": "point guard Wall",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.656017,
+      "emotion": {
+        "sadness": 0.69983,
+        "joy": 0.027022,
+        "fear": 0.286235,
+        "disgust": 0.012447,
+        "anger": 0.225476
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "John Wall",
+      "sentiment": {
+        "score": -0.041889,
+        "label": "negative"
+      },
+      "relevance": 0.897682,
+      "mentions": [
+        {
+          "text": "John Wall",
+          "location": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "John Wall",
+          "location": [
+            190,
+            199
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            217,
+            219
+          ]
+        },
+        {
+          "text": "Wall",
+          "location": [
+            377,
+            381
+          ]
+        },
+        {
+          "text": "Wall",
+          "location": [
+            559,
+            563
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            578,
+            580
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            586,
+            588
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.635612,
+        "joy": 0.143319,
+        "fear": 0.252646,
+        "disgust": 0.062932,
+        "anger": 0.235988
+      },
+      "disambiguation": {
+        "subtype": [
+          "BasketballPlayer"
+        ],
+        "name": "John Wall (basketball)",
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Wall_(basketball)"
+      },
+      "count": 7
+    },
+    {
+      "type": "Organization",
+      "text": "Cleveland Cavaliers",
+      "sentiment": {
+        "score": -0.649727,
+        "label": "negative"
+      },
+      "relevance": 0.376428,
+      "mentions": [
+        {
+          "text": "Cavaliers",
+          "location": [
+            469,
+            478
+          ]
+        },
+        {
+          "text": "Cleveland Cavaliers",
+          "location": [
+            520,
+            539
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.869329,
+        "joy": 0.002536,
+        "fear": 0.203309,
+        "disgust": 0.089722,
+        "anger": 0.059355
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Cleveland Cavaliers",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleveland_Cavaliers"
+      },
+      "count": 2
+    },
+    {
+      "type": "Organization",
+      "text": "Washington Wizards",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.312722,
+      "mentions": [
+        {
+          "text": "Washington Wizards",
+          "location": [
+            108,
+            126
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.350735,
+        "joy": 0.435765,
+        "fear": 0.148447,
+        "disgust": 0.056027,
+        "anger": 0.033813
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Washington Wizards",
+        "dbpedia_resource": "http://dbpedia.org/resource/Washington_Wizards"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Wizards",
+      "sentiment": {
+        "score": 0.653034,
+        "label": "positive"
+      },
+      "relevance": 0.267348,
+      "mentions": [
+        {
+          "text": "Wizards",
+          "location": [
+            31,
+            38
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.299435,
+        "joy": 0.148826,
+        "fear": 0.098607,
+        "disgust": 0.132554,
+        "anger": 0.077252
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Cleveland",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.260112,
+      "mentions": [
+        {
+          "text": "Cleveland",
+          "location": [
+            48,
+            57
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.10973,
+        "joy": 0.410131,
+        "fear": 0.079713,
+        "disgust": 0.024314,
+        "anger": 0.079452
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Cleveland",
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleveland"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "English-language films",
+      "relevance": 0.938704,
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "text": "Cleveland Cavaliers",
+      "relevance": 0.91568,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cleveland_Cavaliers"
+    },
+    {
+      "text": "Akron, Ohio",
+      "relevance": 0.833334,
+      "dbpedia_resource": "http://dbpedia.org/resource/Akron,_Ohio"
+    },
+    {
+      "text": "Paracetamol",
+      "relevance": 0.807481,
+      "dbpedia_resource": "http://dbpedia.org/resource/Paracetamol"
+    },
+    {
+      "text": "National Basketball Association",
+      "relevance": 0.799423,
+      "dbpedia_resource": "http://dbpedia.org/resource/National_Basketball_Association"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.744688,
+      "label": "/sports/basketball"
+    }
+  ]
+}

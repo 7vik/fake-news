@@ -1,0 +1,226 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 800,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.591202,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ton of new smartwatches",
+      "sentiment": {
+        "score": -0.585974,
+        "label": "negative"
+      },
+      "relevance": 0.866093,
+      "emotion": {
+        "sadness": 0.125335,
+        "joy": 0.659028,
+        "fear": 0.087605,
+        "disgust": 0.023909,
+        "anger": 0.043369
+      },
+      "count": 1
+    },
+    {
+      "text": "Emporio Armani",
+      "sentiment": {
+        "score": 0.942269,
+        "label": "positive"
+      },
+      "relevance": 0.781564,
+      "emotion": {
+        "sadness": 0.059921,
+        "joy": 0.776789,
+        "fear": 0.024157,
+        "disgust": 0.065601,
+        "anger": 0.097766
+      },
+      "count": 1
+    },
+    {
+      "text": "new smartwatches",
+      "sentiment": {
+        "score": 0.942269,
+        "label": "positive"
+      },
+      "relevance": 0.662982,
+      "emotion": {
+        "sadness": 0.029681,
+        "joy": 0.803553,
+        "fear": 0.027061,
+        "disgust": 0.035727,
+        "anger": 0.073057
+      },
+      "count": 2
+    },
+    {
+      "text": "Fossil",
+      "sentiment": {
+        "score": 0.742794,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.647895,
+      "emotion": {
+        "sadness": 0.094863,
+        "joy": 0.749077,
+        "fear": 0.012761,
+        "disgust": 0.067476,
+        "anger": 0.097846
+      },
+      "count": 4
+    },
+    {
+      "text": "variety of new models",
+      "sentiment": {
+        "score": 0.942269,
+        "label": "positive"
+      },
+      "relevance": 0.618795,
+      "emotion": {
+        "sadness": 0.059921,
+        "joy": 0.776789,
+        "fear": 0.024157,
+        "disgust": 0.065601,
+        "anger": 0.097766
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Fossil Group",
+      "sentiment": {
+        "score": -0.744751,
+        "label": "negative"
+      },
+      "relevance": 0.86302,
+      "mentions": [
+        {
+          "text": "Fossil Group",
+          "location": [
+            64,
+            76
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.416325,
+        "joy": 0.394901,
+        "fear": 0.102324,
+        "disgust": 0.063226,
+        "anger": 0.095472
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Michael Kors",
+      "sentiment": {
+        "score": 0.350275,
+        "label": "positive"
+      },
+      "relevance": 0.492519,
+      "mentions": [
+        {
+          "text": "Michael Kors",
+          "location": [
+            499,
+            511
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.261621,
+        "joy": 0.117708,
+        "fear": 0.034041,
+        "disgust": 0.336436,
+        "anger": 0.097549
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "FashionDesigner",
+          "TVActor"
+        ],
+        "name": "Michael Kors",
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Kors"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Emporio Armani",
+      "sentiment": {
+        "score": 0.509844,
+        "label": "positive"
+      },
+      "relevance": 0.457533,
+      "mentions": [
+        {
+          "text": "Emporio Armani",
+          "location": [
+            475,
+            489
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "FashionLabel"
+        ],
+        "name": "Armani",
+        "dbpedia_resource": "http://dbpedia.org/resource/Armani"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Watch",
+      "relevance": 0.935208,
+      "dbpedia_resource": "http://dbpedia.org/resource/Watch"
+    },
+    {
+      "text": "BaselWorld",
+      "relevance": 0.720957,
+      "dbpedia_resource": "http://dbpedia.org/resource/BaselWorld"
+    },
+    {
+      "text": "Michael Kors",
+      "relevance": 0.644805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Michael_Kors"
+    },
+    {
+      "text": "Ton",
+      "relevance": 0.644781,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ton"
+    },
+    {
+      "text": "Coming out",
+      "relevance": 0.625254,
+      "dbpedia_resource": "http://dbpedia.org/resource/Coming_out"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.87622,
+      "label": "/technology and computing/operating systems"
+    }
+  ]
+}

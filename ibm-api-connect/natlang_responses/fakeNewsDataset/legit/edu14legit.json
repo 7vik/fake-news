@@ -1,0 +1,262 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 852,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.739193,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "positive attitude",
+      "sentiment": {
+        "score": 0.712895,
+        "label": "positive"
+      },
+      "relevance": 0.847206,
+      "emotion": {
+        "sadness": 0.221043,
+        "joy": 0.562421,
+        "fear": 0.018143,
+        "disgust": 0.02712,
+        "anger": 0.198296
+      },
+      "count": 1
+    },
+    {
+      "text": "Mark Minghella",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.797001,
+      "emotion": {
+        "sadness": 0.055527,
+        "joy": 0.184961,
+        "fear": 0.107357,
+        "disgust": 0.050081,
+        "anger": 0.012288
+      },
+      "count": 1
+    },
+    {
+      "text": "Minecraft' Success",
+      "sentiment": {
+        "score": 0.611671,
+        "label": "positive"
+      },
+      "relevance": 0.787055,
+      "emotion": {
+        "sadness": 0.011909,
+        "joy": 0.635631,
+        "fear": 0.023249,
+        "disgust": 0.018691,
+        "anger": 0.004462
+      },
+      "count": 1
+    },
+    {
+      "text": "Education Edition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.606706,
+      "emotion": {
+        "sadness": 0.055527,
+        "joy": 0.184961,
+        "fear": 0.107357,
+        "disgust": 0.050081,
+        "anger": 0.012288
+      },
+      "count": 1
+    },
+    {
+      "text": "new iteration of the popular building game",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.605242,
+      "emotion": {
+        "sadness": 0.055527,
+        "joy": 0.184961,
+        "fear": 0.107357,
+        "disgust": 0.050081,
+        "anger": 0.012288
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Mark Minghella",
+      "sentiment": {
+        "score": 0.03485,
+        "label": "positive"
+      },
+      "relevance": 0.946576,
+      "mentions": [
+        {
+          "text": "Mark Minghella",
+          "location": [
+            177,
+            191
+          ]
+        },
+        {
+          "text": "Minghella",
+          "location": [
+            394,
+            403
+          ]
+        },
+        {
+          "text": "Minghella",
+          "location": [
+            657,
+            666
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.160366,
+        "joy": 0.251841,
+        "fear": 0.042216,
+        "disgust": 0.098397,
+        "anger": 0.028602
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Education Edition",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.360856,
+      "mentions": [
+        {
+          "text": "Education Edition",
+          "location": [
+            234,
+            251
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.111797,
+        "joy": 0.162127,
+        "fear": 0.062795,
+        "disgust": 0.06726,
+        "anger": 0.078926
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "British International School of Washington",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.347709,
+      "mentions": [
+        {
+          "text": "British International School of Washington",
+          "location": [
+            457,
+            499
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.114606,
+        "joy": 0.443569,
+        "fear": 0.0531,
+        "disgust": 0.042284,
+        "anger": 0.321641
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Microsoft",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.347673,
+      "mentions": [
+        {
+          "text": "Microsoft",
+          "location": [
+            0,
+            9
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.068261,
+        "joy": 0.230224,
+        "fear": 0.05239,
+        "disgust": 0.065729,
+        "anger": 0.028748
+      },
+      "disambiguation": {
+        "subtype": [
+          "OperatingSystemDeveloper",
+          "ProcessorManufacturer",
+          "SoftwareDeveloper",
+          "VentureFundedCompany",
+          "VideoGameDeveloper",
+          "VideoGamePublisher",
+          "ProgrammingLanguageDesigner"
+        ],
+        "name": "Microsoft",
+        "dbpedia_resource": "http://dbpedia.org/resource/Microsoft"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Education",
+      "relevance": 0.963024,
+      "dbpedia_resource": "http://dbpedia.org/resource/Education"
+    },
+    {
+      "text": "School",
+      "relevance": 0.606031,
+      "dbpedia_resource": "http://dbpedia.org/resource/School"
+    },
+    {
+      "text": "Sustainability",
+      "relevance": 0.526028,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sustainability"
+    },
+    {
+      "text": "Teacher",
+      "relevance": 0.522691,
+      "dbpedia_resource": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+      "text": "Game",
+      "relevance": 0.500118,
+      "dbpedia_resource": "http://dbpedia.org/resource/Game"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.897944,
+      "label": "/education/teaching and classroom resources"
+    }
+  ]
+}

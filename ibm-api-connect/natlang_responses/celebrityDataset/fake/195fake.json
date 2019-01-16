@@ -1,0 +1,293 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1214,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.427718,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.908273,
+        "label": "negative"
+      },
+      "relevance": 0.863311,
+      "emotion": {
+        "sadness": 0.078259,
+        "joy": 0.520397,
+        "fear": 0.05736,
+        "disgust": 0.095033,
+        "anger": 0.229571
+      },
+      "count": 2
+    },
+    {
+      "text": "Sorry ASAP Rocky",
+      "sentiment": {
+        "score": -0.908273,
+        "label": "negative"
+      },
+      "relevance": 0.754348,
+      "emotion": {
+        "sadness": 0.252506,
+        "joy": 0.162691,
+        "fear": 0.164541,
+        "disgust": 0.207487,
+        "anger": 0.220558
+      },
+      "count": 1
+    },
+    {
+      "text": "successes of Dunkirk",
+      "sentiment": {
+        "score": -0.39069,
+        "label": "negative"
+      },
+      "relevance": 0.72497,
+      "emotion": {
+        "sadness": 0.352167,
+        "joy": 0.621525,
+        "fear": 0.01207,
+        "disgust": 0.007498,
+        "anger": 0.010915
+      },
+      "count": 1
+    },
+    {
+      "text": "Win Back Harry Styles",
+      "sentiment": {
+        "score": -0.908273,
+        "label": "negative"
+      },
+      "relevance": 0.680474,
+      "emotion": {
+        "sadness": 0.252506,
+        "joy": 0.162691,
+        "fear": 0.164541,
+        "disgust": 0.207487,
+        "anger": 0.220558
+      },
+      "count": 1
+    },
+    {
+      "text": "current relationship",
+      "sentiment": {
+        "score": -0.39069,
+        "label": "negative"
+      },
+      "relevance": 0.645688,
+      "emotion": {
+        "sadness": 0.491065,
+        "joy": 0.064316,
+        "fear": 0.126681,
+        "disgust": 0.148336,
+        "anger": 0.155163
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Harry Styles",
+      "sentiment": {
+        "score": 0.020491,
+        "label": "positive"
+      },
+      "relevance": 0.898249,
+      "mentions": [
+        {
+          "text": "Harry Styles",
+          "location": [
+            66,
+            78
+          ]
+        },
+        {
+          "text": "Harry Styles",
+          "location": [
+            194,
+            206
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            281,
+            286
+          ]
+        },
+        {
+          "text": "Harry",
+          "location": [
+            475,
+            480
+          ]
+        },
+        {
+          "text": "Harry Styles",
+          "location": [
+            584,
+            596
+          ]
+        },
+        {
+          "text": "him",
+          "location": [
+            613,
+            616
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            645,
+            647
+          ]
+        },
+        {
+          "text": "they",
+          "location": [
+            830,
+            834
+          ]
+        },
+        {
+          "text": "He",
+          "location": [
+            1146,
+            1148
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.289594,
+        "joy": 0.249779,
+        "fear": 0.092799,
+        "disgust": 0.21713,
+        "anger": 0.166767
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.356785,
+        "label": "positive"
+      },
+      "relevance": 0.846464,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            18,
+            32
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            80,
+            94
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            151,
+            154
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            296,
+            303
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            327,
+            330
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            451,
+            454
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            560,
+            563
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            728,
+            735
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.508145,
+        "joy": 0.654511,
+        "fear": 0.11312,
+        "disgust": 0.098545,
+        "anger": 0.133993
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 8
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Nas",
+      "relevance": 0.91012,
+      "dbpedia_resource": "http://dbpedia.org/resource/Nas"
+    },
+    {
+      "text": "Love",
+      "relevance": 0.892236,
+      "dbpedia_resource": "http://dbpedia.org/resource/Love"
+    },
+    {
+      "text": "Source",
+      "relevance": 0.859651,
+      "dbpedia_resource": "http://dbpedia.org/resource/Source"
+    },
+    {
+      "text": "Ton",
+      "relevance": 0.856357,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ton"
+    },
+    {
+      "text": "Eminem",
+      "relevance": 0.841505,
+      "dbpedia_resource": "http://dbpedia.org/resource/Eminem"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.755372,
+      "label": "/society/dating"
+    }
+  ]
+}

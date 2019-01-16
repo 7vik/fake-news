@@ -1,0 +1,260 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 646,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.715236,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Low-Tax 50s",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.911344,
+      "emotion": {
+        "sadness": 0.238583,
+        "joy": 0.029666,
+        "fear": 0.033864,
+        "disgust": 0.501811,
+        "anger": 0.072034
+      },
+      "count": 1
+    },
+    {
+      "text": "food security",
+      "sentiment": {
+        "score": -0.889731,
+        "label": "negative"
+      },
+      "relevance": 0.746395,
+      "emotion": {
+        "sadness": 0.180171,
+        "joy": 0.019174,
+        "fear": 0.222986,
+        "disgust": 0.561741,
+        "anger": 0.090111
+      },
+      "count": 1
+    },
+    {
+      "text": "massive detriment",
+      "sentiment": {
+        "score": -0.889731,
+        "label": "negative"
+      },
+      "relevance": 0.710108,
+      "emotion": {
+        "sadness": 0.180171,
+        "joy": 0.019174,
+        "fear": 0.222986,
+        "disgust": 0.561741,
+        "anger": 0.090111
+      },
+      "count": 1
+    },
+    {
+      "text": "low taxes of the 1950s",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.694139,
+      "emotion": {
+        "sadness": 0.168784,
+        "joy": 0.008309,
+        "fear": 0.073728,
+        "disgust": 0.536336,
+        "anger": 0.055356
+      },
+      "count": 1
+    },
+    {
+      "text": "Sweden",
+      "sentiment": {
+        "score": -0.889731,
+        "label": "negative"
+      },
+      "relevance": 0.629582,
+      "emotion": {
+        "sadness": 0.188534,
+        "joy": 0.016342,
+        "fear": 0.10381,
+        "disgust": 0.654753,
+        "anger": 0.087768
+      },
+      "count": 3
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Sweden",
+      "sentiment": {
+        "score": -0.701414,
+        "label": "negative"
+      },
+      "relevance": 0.938649,
+      "mentions": [
+        {
+          "text": "Sweden",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Sweden",
+          "location": [
+            64,
+            70
+          ]
+        },
+        {
+          "text": "Sweden",
+          "location": [
+            638,
+            644
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.188534,
+        "joy": 0.016342,
+        "fear": 0.10381,
+        "disgust": 0.654753,
+        "anger": 0.087768
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Country"
+        ],
+        "name": "Sweden",
+        "dbpedia_resource": "http://dbpedia.org/resource/Sweden"
+      },
+      "count": 3
+    },
+    {
+      "type": "Company",
+      "text": "Urban Hansson Bruswtiz",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.557733,
+      "mentions": [
+        {
+          "text": "Urban Hansson Bruswtiz",
+          "location": [
+            395,
+            417
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "National Institute of Economic Research",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.467555,
+      "mentions": [
+        {
+          "text": "National Institute of Economic Research",
+          "location": [
+            443,
+            482
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119292,
+        "joy": 0.311997,
+        "fear": 0.222928,
+        "disgust": 0.086783,
+        "anger": 0.136067
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "director-general",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.447693,
+      "mentions": [
+        {
+          "text": "director-general",
+          "location": [
+            419,
+            435
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.119292,
+        "joy": 0.311997,
+        "fear": 0.222928,
+        "disgust": 0.086783,
+        "anger": 0.136067
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sweden",
+      "relevance": 0.94529,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sweden"
+    },
+    {
+      "text": "1950s",
+      "relevance": 0.88803,
+      "dbpedia_resource": "http://dbpedia.org/resource/1950s"
+    },
+    {
+      "text": "Food security",
+      "relevance": 0.817642,
+      "dbpedia_resource": "http://dbpedia.org/resource/Food_security"
+    },
+    {
+      "text": "Food",
+      "relevance": 0.791362,
+      "dbpedia_resource": "http://dbpedia.org/resource/Food"
+    },
+    {
+      "text": "Newspaper",
+      "relevance": 0.777116,
+      "dbpedia_resource": "http://dbpedia.org/resource/Newspaper"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.800371,
+      "label": "/society/work/unemployment"
+    }
+  ]
+}

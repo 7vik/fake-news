@@ -1,0 +1,298 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 470,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.561782,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "YouTube's Zero Percent Error Rate",
+      "sentiment": {
+        "score": -0.936946,
+        "label": "negative"
+      },
+      "relevance": 0.910498,
+      "emotion": {
+        "sadness": 0.647501,
+        "joy": 0.1001,
+        "fear": 0.217282,
+        "disgust": 0.121068,
+        "anger": 0.048693
+      },
+      "count": 1
+    },
+    {
+      "text": "Sound Effect Captions",
+      "sentiment": {
+        "score": -0.936946,
+        "label": "negative"
+      },
+      "relevance": 0.870509,
+      "emotion": {
+        "sadness": 0.647501,
+        "joy": 0.1001,
+        "fear": 0.217282,
+        "disgust": 0.121068,
+        "anger": 0.048693
+      },
+      "count": 1
+    },
+    {
+      "text": "sound effect captioning",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732452,
+      "emotion": {
+        "sadness": 0.188389,
+        "joy": 0.323289,
+        "fear": 0.066977,
+        "disgust": 0.138656,
+        "anger": 0.031436
+      },
+      "count": 1
+    },
+    {
+      "text": "YouTube video",
+      "sentiment": {
+        "score": 0.525418,
+        "label": "positive"
+      },
+      "relevance": 0.661626,
+      "emotion": {
+        "sadness": 0.0195,
+        "joy": 0.849515,
+        "fear": 0.025604,
+        "disgust": 0.019943,
+        "anger": 0.04727
+      },
+      "count": 1
+    },
+    {
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.936946,
+        "label": "negative"
+      },
+      "relevance": 0.564495,
+      "emotion": {
+        "sadness": 0.128959,
+        "joy": 0.762704,
+        "fear": 0.038877,
+        "disgust": 0.028131,
+        "anger": 0.042564
+      },
+      "count": 2
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "YouTube",
+      "sentiment": {
+        "score": -0.629119,
+        "label": "negative"
+      },
+      "relevance": 0.927611,
+      "mentions": [
+        {
+          "text": "YouTube",
+          "location": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Zero Percent Error Rate",
+          "location": [
+            10,
+            33
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            78,
+            85
+          ]
+        },
+        {
+          "text": "a zero percent error rate",
+          "location": [
+            222,
+            247
+          ]
+        },
+        {
+          "text": "Youtube",
+          "location": [
+            281,
+            288
+          ]
+        },
+        {
+          "text": "YouTube",
+          "location": [
+            455,
+            462
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.563447,
+        "joy": 0.213789,
+        "fear": 0.11332,
+        "disgust": 0.086665,
+        "anger": 0.093671
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "BroadcastDistributor",
+          "FilmDistributor",
+          "VentureFundedCompany",
+          "AwardWinner"
+        ],
+        "name": "YouTube",
+        "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "Google",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.184591,
+      "mentions": [
+        {
+          "text": "Google",
+          "location": [
+            262,
+            268
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.016079,
+        "joy": 0.334208,
+        "fear": 0.047938,
+        "disgust": 0.034269,
+        "anger": 0.053132
+      },
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "Zero Percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.184591,
+      "mentions": [
+        {
+          "text": "Zero Percent",
+          "location": [
+            10,
+            22
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "zero percent",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.184591,
+      "mentions": [
+        {
+          "text": "zero percent",
+          "location": [
+            224,
+            236
+          ]
+        }
+      ],
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "15 years",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.184591,
+      "mentions": [
+        {
+          "text": "15 years",
+          "location": [
+            68,
+            76
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Google",
+      "relevance": 0.971432,
+      "dbpedia_resource": "http://dbpedia.org/resource/Google"
+    },
+    {
+      "text": "YouTube",
+      "relevance": 0.863596,
+      "dbpedia_resource": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+      "text": "Sound",
+      "relevance": 0.759981,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sound"
+    },
+    {
+      "text": "Hearing impairment",
+      "relevance": 0.729744,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hearing_impairment"
+    },
+    {
+      "text": "Hearing",
+      "relevance": 0.720558,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hearing"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.843057,
+      "label": "/technology and computing/hardware/computer components/sound cards"
+    }
+  ]
+}

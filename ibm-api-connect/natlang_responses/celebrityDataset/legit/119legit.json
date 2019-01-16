@@ -1,0 +1,400 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1718,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.290416,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner Cheers",
+      "sentiment": {
+        "score": 0.683165,
+        "label": "positive"
+      },
+      "relevance": 0.851677,
+      "emotion": {
+        "sadness": 0.201352,
+        "joy": 0.330804,
+        "fear": 0.111163,
+        "disgust": 0.203088,
+        "anger": 0.21224
+      },
+      "count": 1
+    },
+    {
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": 0.683165,
+        "label": "positive"
+      },
+      "relevance": 0.656741,
+      "emotion": {
+        "sadness": 0.204748,
+        "joy": 0.541715,
+        "fear": 0.017948,
+        "disgust": 0.223917,
+        "anger": 0.086217
+      },
+      "count": 1
+    },
+    {
+      "text": "Celine Dion",
+      "sentiment": {
+        "score": -0.670546,
+        "label": "negative"
+      },
+      "relevance": 0.601711,
+      "emotion": {
+        "sadness": 0.064617,
+        "joy": 0.74961,
+        "fear": 0.085837,
+        "disgust": 0.037985,
+        "anger": 0.082461
+      },
+      "count": 1
+    },
+    {
+      "text": "Laurent knee-high boots",
+      "sentiment": {
+        "score": -0.670546,
+        "label": "negative"
+      },
+      "relevance": 0.597212,
+      "emotion": {
+        "sadness": 0.064617,
+        "joy": 0.74961,
+        "fear": 0.085837,
+        "disgust": 0.037985,
+        "anger": 0.082461
+      },
+      "count": 1
+    },
+    {
+      "text": "Los Angeles",
+      "sentiment": {
+        "score": -0.856695,
+        "label": "negative"
+      },
+      "relevance": 0.590997,
+      "emotion": {
+        "sadness": 0.083914,
+        "joy": 0.759125,
+        "fear": 0.033552,
+        "disgust": 0.074839,
+        "anger": 0.082928
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.156982,
+        "label": "positive"
+      },
+      "relevance": 0.855354,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            95,
+            109
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            799,
+            806
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            862,
+            868
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            938,
+            945
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            1093,
+            1100
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            1409,
+            1423
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            1431,
+            1438
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1502,
+            1504
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.183395,
+        "joy": 0.645681,
+        "fear": 0.101933,
+        "disgust": 0.129536,
+        "anger": 0.120822
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 9
+    },
+    {
+      "type": "Person",
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": 0.187255,
+        "label": "positive"
+      },
+      "relevance": 0.752131,
+      "mentions": [
+        {
+          "text": "Blake Griffin",
+          "location": [
+            25,
+            38
+          ]
+        },
+        {
+          "text": "Blake Griffin",
+          "location": [
+            199,
+            212
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            353,
+            356
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            463,
+            466
+          ]
+        },
+        {
+          "text": "Griffin",
+          "location": [
+            811,
+            818
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            1020,
+            1025
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            1120,
+            1125
+          ]
+        },
+        {
+          "text": "Blake",
+          "location": [
+            1313,
+            1318
+          ]
+        },
+        {
+          "text": "Griffin",
+          "location": [
+            1443,
+            1450
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.158475,
+        "joy": 0.633337,
+        "fear": 0.115749,
+        "disgust": 0.099927,
+        "anger": 0.120349
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "BasketballPlayer"
+        ],
+        "name": "Blake Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Griffin"
+      },
+      "count": 9
+    },
+    {
+      "type": "Organization",
+      "text": "Los Angeles Clippers",
+      "sentiment": {
+        "score": -0.304289,
+        "label": "negative"
+      },
+      "relevance": 0.187714,
+      "mentions": [
+        {
+          "text": "$10,000",
+          "location": [
+            391,
+            398
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.201352,
+        "joy": 0.330804,
+        "fear": 0.111163,
+        "disgust": 0.203088,
+        "anger": 0.21224
+      },
+      "disambiguation": {
+        "subtype": [
+          "SportsTeam",
+          "BasketballTeam",
+          "ProfessionalSportsTeam"
+        ],
+        "name": "Los Angeles Clippers",
+        "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles_Clippers"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Los Angeles.Jenner",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.148907,
+      "mentions": [
+        {
+          "text": "Los Angeles.Jenner",
+          "location": [
+            242,
+            260
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.33575,
+        "joy": 0.117125,
+        "fear": 0.096832,
+        "disgust": 0.068518,
+        "anger": 0.083405
+      },
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Facility",
+      "text": "Petit Taqueria",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.148176,
+      "mentions": [
+        {
+          "text": "Petit Taqueria",
+          "location": [
+            904,
+            918
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Los Angeles Clippers",
+      "relevance": 0.952454,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles_Clippers"
+    },
+    {
+      "text": "Los Angeles",
+      "relevance": 0.70587,
+      "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+      "text": "2009 NBA Draft",
+      "relevance": 0.662274,
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_NBA_Draft"
+    },
+    {
+      "text": "Celine Dion",
+      "relevance": 0.62529,
+      "dbpedia_resource": "http://dbpedia.org/resource/Celine_Dion"
+    },
+    {
+      "text": "Staples Center",
+      "relevance": 0.600277,
+      "dbpedia_resource": "http://dbpedia.org/resource/Staples_Center"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.777033,
+      "label": "/style and fashion/clothing/pants/jeans"
+    }
+  ]
+}

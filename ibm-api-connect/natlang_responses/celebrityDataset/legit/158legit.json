@@ -1,0 +1,391 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1774,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.344719,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": -0.709202,
+        "label": "negative"
+      },
+      "relevance": 0.85165,
+      "emotion": {
+        "sadness": 0.010948,
+        "joy": 0.772913,
+        "fear": 0.002444,
+        "disgust": 0.191112,
+        "anger": 0.064488
+      },
+      "count": 4
+    },
+    {
+      "text": "22nd Birthday Bash",
+      "sentiment": {
+        "score": -0.592262,
+        "label": "negative"
+      },
+      "relevance": 0.692276,
+      "emotion": {
+        "sadness": 0.133014,
+        "joy": 0.656671,
+        "fear": 0.022894,
+        "disgust": 0.095822,
+        "anger": 0.088371
+      },
+      "count": 1
+    },
+    {
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": -0.438699,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.620754,
+      "emotion": {
+        "sadness": 0.034213,
+        "joy": 0.826668,
+        "fear": 0.004911,
+        "disgust": 0.110177,
+        "anger": 0.047551
+      },
+      "count": 3
+    },
+    {
+      "text": "West Hollywood",
+      "sentiment": {
+        "score": -0.482436,
+        "label": "negative"
+      },
+      "relevance": 0.614199,
+      "emotion": {
+        "sadness": 0.390575,
+        "joy": 0.522421,
+        "fear": 0.02134,
+        "disgust": 0.003004,
+        "anger": 0.105153
+      },
+      "count": 1
+    },
+    {
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.357852,
+        "mixed": "1",
+        "label": "positive"
+      },
+      "relevance": 0.603874,
+      "emotion": {
+        "sadness": 0.111717,
+        "joy": 0.839475,
+        "fear": 0.003504,
+        "disgust": 0.021315,
+        "anger": 0.028165
+      },
+      "count": 3
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Kendall Jenner",
+      "sentiment": {
+        "score": 0.243447,
+        "label": "positive"
+      },
+      "relevance": 0.874428,
+      "mentions": [
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            140,
+            154
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            463,
+            469
+          ]
+        },
+        {
+          "text": "Kris Jenner",
+          "location": [
+            754,
+            765
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            830,
+            837
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            951,
+            965
+          ]
+        },
+        {
+          "text": "Kendall Jenner",
+          "location": [
+            1004,
+            1018
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            1297,
+            1304
+          ]
+        },
+        {
+          "text": "Kendall",
+          "location": [
+            1425,
+            1432
+          ]
+        },
+        {
+          "text": "Jenner",
+          "location": [
+            1538,
+            1544
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.140297,
+        "joy": 0.746484,
+        "fear": 0.040053,
+        "disgust": 0.105349,
+        "anger": 0.056128
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Kendall Jenner",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kendall_Jenner"
+      },
+      "count": 10
+    },
+    {
+      "type": "Person",
+      "text": "Blake Griffin",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.239629,
+      "mentions": [
+        {
+          "text": "Blake Griffin",
+          "location": [
+            51,
+            64
+          ]
+        },
+        {
+          "text": "Blake Griffin",
+          "location": [
+            540,
+            553
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.168951,
+        "joy": 0.585834,
+        "fear": 0.04335,
+        "disgust": 0.062655,
+        "anger": 0.077163
+      },
+      "disambiguation": {
+        "subtype": [
+          "Athlete",
+          "BasketballPlayer"
+        ],
+        "name": "Blake Griffin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Blake_Griffin"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Hailey Baldwin",
+      "sentiment": {
+        "score": 0.698442,
+        "label": "positive"
+      },
+      "relevance": 0.226677,
+      "mentions": [
+        {
+          "text": "Hailey Baldwin",
+          "location": [
+            570,
+            584
+          ]
+        },
+        {
+          "text": "Hailey",
+          "location": [
+            1365,
+            1371
+          ]
+        },
+        {
+          "text": "Hailey",
+          "location": [
+            1504,
+            1510
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.054249,
+        "joy": 0.792122,
+        "fear": 0.014954,
+        "disgust": 0.109894,
+        "anger": 0.038555
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Kim Kardashian",
+      "sentiment": {
+        "score": 0.720551,
+        "label": "positive"
+      },
+      "relevance": 0.223441,
+      "mentions": [
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            66,
+            80
+          ]
+        },
+        {
+          "text": "Kim Kardashian",
+          "location": [
+            653,
+            667
+          ]
+        },
+        {
+          "text": "Kim",
+          "location": [
+            1220,
+            1223
+          ]
+        },
+        {
+          "text": "Kardashian",
+          "location": [
+            1392,
+            1402
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214678,
+        "joy": 0.617383,
+        "fear": 0.009964,
+        "disgust": 0.092063,
+        "anger": 0.087047
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Kim Kardashian",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+      },
+      "count": 4
+    },
+    {
+      "type": "Person",
+      "text": "Kanye West",
+      "sentiment": {
+        "score": -0.352838,
+        "label": "negative"
+      },
+      "relevance": 0.15106,
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      },
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist"
+        ],
+        "name": "Kanye West",
+        "dbpedia_resource": "http://dbpedia.org/resource/Kanye_West"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Kim Kardashian",
+      "relevance": 0.980505,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Kardashian"
+    },
+    {
+      "text": "Kourtney Kardashian",
+      "relevance": 0.922725,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kourtney_Kardashian"
+    },
+    {
+      "text": "Bruce Jenner",
+      "relevance": 0.825125,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bruce_Jenner"
+    },
+    {
+      "text": "Rob Kardashian",
+      "relevance": 0.823189,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rob_Kardashian"
+    },
+    {
+      "text": "Keeping Up with the Kardashians",
+      "relevance": 0.821705,
+      "dbpedia_resource": "http://dbpedia.org/resource/Keeping_Up_with_the_Kardashians"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.596098,
+      "label": "/style and fashion/beauty"
+    }
+  ]
+}

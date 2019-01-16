@@ -1,0 +1,283 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 534,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.56182,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jeff Bezos tests",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.895137,
+      "emotion": {
+        "sadness": 0.324497,
+        "joy": 0.31421,
+        "fear": 0.162016,
+        "disgust": 0.033792,
+        "anger": 0.140225
+      },
+      "count": 1
+    },
+    {
+      "text": "giant robot suit",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.833232,
+      "emotion": {
+        "sadness": 0.324497,
+        "joy": 0.31421,
+        "fear": 0.162016,
+        "disgust": 0.033792,
+        "anger": 0.140225
+      },
+      "count": 1
+    },
+    {
+      "text": "company's exclusive MARS conference",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.771944,
+      "emotion": {
+        "sadness": 0.160343,
+        "joy": 0.619759,
+        "fear": 0.072332,
+        "disgust": 0.01845,
+        "anger": 0.078711
+      },
+      "count": 1
+    },
+    {
+      "text": "AMZN  Tech30",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.680427,
+      "emotion": {
+        "sadness": 0.160343,
+        "joy": 0.619759,
+        "fear": 0.072332,
+        "disgust": 0.01845,
+        "anger": 0.078711
+      },
+      "count": 1
+    },
+    {
+      "text": "giant mechanical robot suit",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.659458,
+      "emotion": {
+        "sadness": 0.160343,
+        "joy": 0.619759,
+        "fear": 0.072332,
+        "disgust": 0.01845,
+        "anger": 0.078711
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jeff Bezos",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.940795,
+      "mentions": [
+        {
+          "text": "Jeff Bezos",
+          "location": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "Bezos",
+          "location": [
+            323,
+            328
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.179015,
+        "joy": 0.230243,
+        "fear": 0.078171,
+        "disgust": 0.041825,
+        "anger": 0.107491
+      },
+      "disambiguation": {
+        "subtype": [
+          "BoardMember",
+          "CompanyFounder",
+          "CompanyShareholder",
+          "TVActor"
+        ],
+        "name": "Jeff Bezos",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jeff_Bezos"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Hankook Mirae Technology",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.523127,
+      "mentions": [
+        {
+          "text": "Hankook Mirae Technology",
+          "location": [
+            445,
+            469
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.095942,
+        "joy": 0.438767,
+        "fear": 0.113226,
+        "disgust": 0.048537,
+        "anger": 0.128189
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.373622,
+      "mentions": [
+        {
+          "text": "Amazon",
+          "location": [
+            38,
+            44
+          ]
+        },
+        {
+          "text": "AMZN",
+          "location": [
+            46,
+            50
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.130847,
+        "joy": 0.176035,
+        "fear": 0.035733,
+        "disgust": 0.069865,
+        "anger": 0.077821
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "sentiment": {
+        "score": 0.428058,
+        "label": "positive"
+      },
+      "relevance": 0.318087,
+      "mentions": [
+        {
+          "text": "CEO",
+          "location": [
+            60,
+            63
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.187891,
+        "joy": 0.623876,
+        "fear": 0.107262,
+        "disgust": 0.01983,
+        "anger": 0.083648
+      },
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "14 feet",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.318087,
+      "mentions": [
+        {
+          "text": "14 feet",
+          "location": [
+            484,
+            491
+          ]
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Sigourney Weaver",
+      "relevance": 0.958558,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sigourney_Weaver"
+    },
+    {
+      "text": "Academy Award for Best Actress",
+      "relevance": 0.928741,
+      "dbpedia_resource": "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+    },
+    {
+      "text": "Aliens",
+      "relevance": 0.880068,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aliens_(film)"
+    },
+    {
+      "text": "Alien",
+      "relevance": 0.873117,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alien_(film)"
+    },
+    {
+      "text": "Ellen Ripley",
+      "relevance": 0.850773,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ellen_Ripley"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.894236,
+      "label": "/business and industrial/automation/robotics"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 51,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.783372,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Surprise Visit",
+      "sentiment": {
+        "score": 0.783372,
+        "label": "positive"
+      },
+      "relevance": 0.995976,
+      "emotion": {
+        "sadness": 0.056032,
+        "joy": 0.440603,
+        "fear": 0.066395,
+        "disgust": 0.33797,
+        "anger": 0.036959
+      },
+      "count": 1
+    },
+    {
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.783372,
+        "label": "positive"
+      },
+      "relevance": 0.973956,
+      "emotion": {
+        "sadness": 0.056032,
+        "joy": 0.440603,
+        "fear": 0.066395,
+        "disgust": 0.33797,
+        "anger": 0.036959
+      },
+      "count": 1
+    },
+    {
+      "text": "Beyonce",
+      "sentiment": {
+        "score": 0.783372,
+        "label": "positive"
+      },
+      "relevance": 0.899735,
+      "emotion": {
+        "sadness": 0.056032,
+        "joy": 0.440603,
+        "fear": 0.066395,
+        "disgust": 0.33797,
+        "anger": 0.036959
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Beyonce",
+      "sentiment": {
+        "score": 0.903187,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Beyonce",
+          "location": [
+            0,
+            7
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.056032,
+        "joy": 0.440603,
+        "fear": 0.066395,
+        "disgust": 0.33797,
+        "anger": 0.036959
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Hillary Clinton",
+      "sentiment": {
+        "score": 0.903187,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Hillary Clinton",
+          "location": [
+            35,
+            50
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.056032,
+        "joy": 0.440603,
+        "fear": 0.066395,
+        "disgust": 0.33797,
+        "anger": 0.036959
+      },
+      "disambiguation": {
+        "subtype": [
+          "Politician",
+          "Appointee",
+          "AwardWinner",
+          "BoardMember",
+          "Celebrity",
+          "HallOfFameInductee",
+          "OperaCharacter",
+          "Senator",
+          "U.S.Congressperson",
+          "TVActor"
+        ],
+        "name": "Hillary Rodham Clinton",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Hillary Rodham Clinton",
+      "relevance": 0.949819,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.615825,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.580984,
+      "label": "/family and parenting/babies and toddlers"
+    }
+  ]
+}

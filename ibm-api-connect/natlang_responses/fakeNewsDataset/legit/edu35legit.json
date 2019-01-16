@@ -1,0 +1,295 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 619,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.401711,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Merriam-Webster",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.869584,
+      "emotion": {
+        "sadness": 0.218472,
+        "joy": 0.56177,
+        "fear": 0.058177,
+        "disgust": 0.071364,
+        "anger": 0.104809
+      },
+      "count": 1
+    },
+    {
+      "text": "Scripps National Spelling Bee",
+      "sentiment": {
+        "score": -0.401711,
+        "label": "negative"
+      },
+      "relevance": 0.712279,
+      "emotion": {
+        "sadness": 0.179413,
+        "joy": 0.546399,
+        "fear": 0.12021,
+        "disgust": 0.155517,
+        "anger": 0.120389
+      },
+      "count": 1
+    },
+    {
+      "text": "Hindu tradition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.710594,
+      "emotion": {
+        "sadness": 0.218472,
+        "joy": 0.56177,
+        "fear": 0.058177,
+        "disgust": 0.071364,
+        "anger": 0.104809
+      },
+      "count": 1
+    },
+    {
+      "text": "Edith Fuller",
+      "sentiment": {
+        "score": -0.401711,
+        "label": "negative"
+      },
+      "relevance": 0.695029,
+      "emotion": {
+        "sadness": 0.179413,
+        "joy": 0.546399,
+        "fear": 0.12021,
+        "disgust": 0.155517,
+        "anger": 0.120389
+      },
+      "count": 1
+    },
+    {
+      "text": "youngest winner of a regional competition",
+      "sentiment": {
+        "score": -0.401711,
+        "label": "negative"
+      },
+      "relevance": 0.656015,
+      "emotion": {
+        "sadness": 0.179413,
+        "joy": 0.546399,
+        "fear": 0.12021,
+        "disgust": 0.155517,
+        "anger": 0.120389
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Edith",
+      "sentiment": {
+        "score": -0.411394,
+        "label": "negative"
+      },
+      "relevance": 0.827801,
+      "mentions": [
+        {
+          "text": "Edith",
+          "location": [
+            452,
+            457
+          ]
+        },
+        {
+          "text": "Edith",
+          "location": [
+            534,
+            539
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.088245,
+        "joy": 0.500983,
+        "fear": 0.230888,
+        "disgust": 0.109286,
+        "anger": 0.187263
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "TULSA",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.684409,
+      "mentions": [
+        {
+          "text": "TULSA",
+          "location": [
+            61,
+            66
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Tulsa, Oklahoma",
+        "dbpedia_resource": "http://dbpedia.org/resource/Tulsa,_Oklahoma"
+      },
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "TBC Home Education Fellowship",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.683088,
+      "mentions": [
+        {
+          "text": "TBC Home Education Fellowship",
+          "location": [
+            577,
+            606
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.060993,
+        "joy": 0.445834,
+        "fear": 0.394109,
+        "disgust": 0.034696,
+        "anger": 0.085586
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Oklahoma",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.606083,
+      "mentions": [
+        {
+          "text": "Oklahoma",
+          "location": [
+            16,
+            24
+          ]
+        },
+        {
+          "text": "Okla.",
+          "location": [
+            68,
+            73
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.106559,
+        "joy": 0.540902,
+        "fear": 0.272508,
+        "disgust": 0.109692,
+        "anger": 0.106257
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Oklahoma",
+        "dbpedia_resource": "http://dbpedia.org/resource/Oklahoma"
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Fuller",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.464431,
+      "mentions": [
+        {
+          "text": "Fuller",
+          "location": [
+            221,
+            227
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.176987,
+        "joy": 0.528328,
+        "fear": 0.118731,
+        "disgust": 0.188464,
+        "anger": 0.133003
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Spelling bee",
+      "relevance": 0.948978,
+      "dbpedia_resource": "http://dbpedia.org/resource/Spelling_bee"
+    },
+    {
+      "text": "Oklahoma",
+      "relevance": 0.878515,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oklahoma"
+    },
+    {
+      "text": "Middle school",
+      "relevance": 0.841717,
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_school"
+    },
+    {
+      "text": "Scripps National Spelling Bee",
+      "relevance": 0.68894,
+      "dbpedia_resource": "http://dbpedia.org/resource/Scripps_National_Spelling_Bee"
+    },
+    {
+      "text": "Tulsa World",
+      "relevance": 0.6429,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tulsa_World"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.662616,
+      "label": "/religion and spirituality/hinduism"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 91,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": 0.693393,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.693393,
+        "label": "positive"
+      },
+      "relevance": 0.999941,
+      "emotion": {
+        "sadness": 0.501044,
+        "joy": 0.410472,
+        "fear": 0.037909,
+        "disgust": 0.062015,
+        "anger": 0.043293
+      },
+      "count": 1
+    },
+    {
+      "text": "Little Bit",
+      "sentiment": {
+        "score": 0.693393,
+        "label": "positive"
+      },
+      "relevance": 0.025757,
+      "emotion": {
+        "sadness": 0.501044,
+        "joy": 0.410472,
+        "fear": 0.037909,
+        "disgust": 0.062015,
+        "anger": 0.043293
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Angelina Jolie",
+      "sentiment": {
+        "score": 0.605962,
+        "label": "positive"
+      },
+      "relevance": 0.33,
+      "mentions": [
+        {
+          "text": "Angelina Jolie",
+          "location": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "Her",
+          "location": [
+            40,
+            43
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.611289,
+        "joy": 0.076316,
+        "fear": 0.056506,
+        "disgust": 0.259006,
+        "anger": 0.244338
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "Collector",
+          "FilmActor",
+          "FilmProducer",
+          "TVActor"
+        ],
+        "name": "Angelina Jolie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Angelina Jolie",
+      "relevance": 0.979235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+      "text": "Brad Pitt",
+      "relevance": 0.948024,
+      "dbpedia_resource": "http://dbpedia.org/resource/Brad_Pitt"
+    },
+    {
+      "text": "A Mighty Heart",
+      "relevance": 0.711018,
+      "dbpedia_resource": "http://dbpedia.org/resource/A_Mighty_Heart_(film)"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.557213,
+      "label": "/art and entertainment/shows and events"
+    }
+  ]
+}

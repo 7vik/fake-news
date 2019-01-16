@@ -1,0 +1,346 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 962,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.684536,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jennifer Aniston's spokesman",
+      "sentiment": {
+        "score": -0.99078,
+        "label": "negative"
+      },
+      "relevance": 0.855139,
+      "emotion": {
+        "sadness": 0.396741,
+        "joy": 0.348117,
+        "fear": 0.03175,
+        "disgust": 0.148634,
+        "anger": 0.162086
+      },
+      "count": 1
+    },
+    {
+      "text": "false claim",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.753771,
+      "emotion": {
+        "sadness": 0.108263,
+        "joy": 0.454599,
+        "fear": 0.386761,
+        "disgust": 0.029694,
+        "anger": 0.029588
+      },
+      "count": 1
+    },
+    {
+      "text": "InTouch magazine",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.676679,
+      "emotion": {
+        "sadness": 0.108263,
+        "joy": 0.454599,
+        "fear": 0.386761,
+        "disgust": 0.029694,
+        "anger": 0.029588
+      },
+      "count": 1
+    },
+    {
+      "text": "47-year-old actress",
+      "sentiment": {
+        "score": -0.99078,
+        "label": "negative"
+      },
+      "relevance": 0.672419,
+      "emotion": {
+        "sadness": 0.478042,
+        "joy": 0.127194,
+        "fear": 0.036215,
+        "disgust": 0.269457,
+        "anger": 0.186284
+      },
+      "count": 2
+    },
+    {
+      "text": "Jennifer Aniston's representative",
+      "sentiment": {
+        "score": -0.99078,
+        "label": "negative"
+      },
+      "relevance": 0.655699,
+      "emotion": {
+        "sadness": 0.411663,
+        "joy": 0.037407,
+        "fear": 0.043547,
+        "disgust": 0.284646,
+        "anger": 0.159847
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Jennifer Aniston",
+      "sentiment": {
+        "score": -0.435674,
+        "label": "negative"
+      },
+      "relevance": 0.816661,
+      "mentions": [
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Jennifer Aniston",
+          "location": [
+            93,
+            109
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            221,
+            228
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            448,
+            455
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            470,
+            473
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            793,
+            800
+          ]
+        },
+        {
+          "text": "Aniston",
+          "location": [
+            935,
+            942
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.607441,
+        "joy": 0.102415,
+        "fear": 0.346435,
+        "disgust": 0.080182,
+        "anger": 0.054678
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor"
+        ],
+        "name": "Jennifer Aniston",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Justin",
+      "sentiment": {
+        "score": -0.210229,
+        "label": "negative"
+      },
+      "relevance": 0.278986,
+      "mentions": [
+        {
+          "text": "Justin",
+          "location": [
+            478,
+            484
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            534,
+            540
+          ]
+        },
+        {
+          "text": "Justin",
+          "location": [
+            683,
+            689
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.516453,
+        "joy": 0.132955,
+        "fear": 0.196599,
+        "disgust": 0.241332,
+        "anger": 0.161662
+      },
+      "count": 3
+    },
+    {
+      "type": "PrintMedia",
+      "text": "actress.InTouch magazine",
+      "sentiment": {
+        "score": -0.402713,
+        "label": "negative"
+      },
+      "relevance": 0.235087,
+      "mentions": [
+        {
+          "text": "actress.InTouch magazine",
+          "location": [
+            352,
+            376
+          ]
+        },
+        {
+          "text": "the magazine",
+          "location": [
+            553,
+            565
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.474766,
+        "joy": 0.19637,
+        "fear": 0.26166,
+        "disgust": 0.099193,
+        "anger": 0.085881
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Nancy Dow",
+      "sentiment": {
+        "score": -0.434734,
+        "label": "negative"
+      },
+      "relevance": 0.232724,
+      "mentions": [
+        {
+          "text": "Nancy Dow",
+          "location": [
+            811,
+            820
+          ]
+        },
+        {
+          "text": "She",
+          "location": [
+            838,
+            841
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.682771,
+        "joy": 0.021605,
+        "fear": 0.234537,
+        "disgust": 0.15449,
+        "anger": 0.122006
+      },
+      "disambiguation": {
+        "subtype": [
+          "Actor",
+          "TVActor"
+        ],
+        "name": "Nancy Dow",
+        "dbpedia_resource": "http://dbpedia.org/resource/Nancy_Dow"
+      },
+      "count": 2
+    },
+    {
+      "type": "PrintMedia",
+      "text": "2012.The magazine",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.202185,
+      "mentions": [
+        {
+          "text": "2012.The magazine",
+          "location": [
+            875,
+            892
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.714025,
+        "joy": 0.014507,
+        "fear": 0.24656,
+        "disgust": 0.152057,
+        "anger": 0.114464
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Pregnancy",
+      "relevance": 0.93357,
+      "dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+      "text": "Friends",
+      "relevance": 0.897568,
+      "dbpedia_resource": "http://dbpedia.org/resource/Friends"
+    },
+    {
+      "text": "Jennifer Aniston",
+      "relevance": 0.84942,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jennifer_Aniston"
+    },
+    {
+      "text": "John Aniston",
+      "relevance": 0.762191,
+      "dbpedia_resource": "http://dbpedia.org/resource/John_Aniston"
+    },
+    {
+      "text": "2003 in film",
+      "relevance": 0.75569,
+      "dbpedia_resource": "http://dbpedia.org/resource/2003_in_film"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.696524,
+      "label": "/art and entertainment/movies and tv/romantic comedies"
+    }
+  ]
+}

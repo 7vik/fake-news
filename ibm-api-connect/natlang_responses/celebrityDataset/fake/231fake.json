@@ -1,0 +1,366 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1187,
+    "features": 5
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.634716,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Megyn Kelly's Latest Look",
+      "sentiment": {
+        "score": -0.834575,
+        "label": "negative"
+      },
+      "relevance": 0.844566,
+      "emotion": {
+        "sadness": 0.205854,
+        "joy": 0.280483,
+        "fear": 0.45198,
+        "disgust": 0.167744,
+        "anger": 0.014173
+      },
+      "count": 1
+    },
+    {
+      "text": "Dr. Andrew Miller",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.778644,
+      "emotion": {
+        "sadness": 0.117665,
+        "joy": 0.544482,
+        "fear": 0.129784,
+        "disgust": 0.112679,
+        "anger": 0.093023
+      },
+      "count": 1
+    },
+    {
+      "text": "Today' Sparks Plastic Surgery Rumors",
+      "sentiment": {
+        "score": -0.834575,
+        "label": "negative"
+      },
+      "relevance": 0.674864,
+      "emotion": {
+        "sadness": 0.205854,
+        "joy": 0.280483,
+        "fear": 0.45198,
+        "disgust": 0.167744,
+        "anger": 0.014173
+      },
+      "count": 1
+    },
+    {
+      "text": "Megyn Kelly",
+      "sentiment": {
+        "score": -0.770835,
+        "label": "negative"
+      },
+      "relevance": 0.659266,
+      "emotion": {
+        "sadness": 0.229665,
+        "joy": 0.242201,
+        "fear": 0.455496,
+        "disgust": 0.226358,
+        "anger": 0.013792
+      },
+      "count": 1
+    },
+    {
+      "text": "crow\u2019s feet",
+      "sentiment": {
+        "score": -0.718857,
+        "label": "negative"
+      },
+      "relevance": 0.631672,
+      "emotion": {
+        "sadness": 0.117665,
+        "joy": 0.544482,
+        "fear": 0.129784,
+        "disgust": 0.112679,
+        "anger": 0.093023
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Megyn Kelly",
+      "sentiment": {
+        "score": -0.190553,
+        "label": "negative"
+      },
+      "relevance": 0.801669,
+      "mentions": [
+        {
+          "text": "Megyn Kelly",
+          "location": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Megyn Kelly",
+          "location": [
+            72,
+            83
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            134,
+            137
+          ]
+        },
+        {
+          "text": "Megyn",
+          "location": [
+            346,
+            351
+          ]
+        },
+        {
+          "text": "she",
+          "location": [
+            391,
+            394
+          ]
+        },
+        {
+          "text": "Megyn",
+          "location": [
+            1004,
+            1009
+          ]
+        },
+        {
+          "text": "Megyn",
+          "location": [
+            1082,
+            1087
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.214586,
+        "joy": 0.241537,
+        "fear": 0.103659,
+        "disgust": 0.081165,
+        "anger": 0.07626
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVActor"
+        ],
+        "name": "Megyn Kelly",
+        "dbpedia_resource": "http://dbpedia.org/resource/Megyn_Kelly"
+      },
+      "count": 7
+    },
+    {
+      "type": "HealthCondition",
+      "text": "Botox",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.627121,
+      "mentions": [
+        {
+          "text": "Botox",
+          "location": [
+            286,
+            291
+          ]
+        },
+        {
+          "text": "Botox",
+          "location": [
+            598,
+            603
+          ]
+        },
+        {
+          "text": "Botox",
+          "location": [
+            684,
+            689
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.152603,
+        "joy": 0.201642,
+        "fear": 0.053096,
+        "disgust": 0.084458,
+        "anger": 0.058386
+      },
+      "disambiguation": {
+        "subtype": [
+          "ChemicalCompound",
+          "DiseaseCause",
+          "MedicalTreatment",
+          "Protein"
+        ],
+        "name": "Botulinum toxin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Botulinum_toxin"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Matt Lauer",
+      "sentiment": {
+        "score": -0.410237,
+        "label": "negative"
+      },
+      "relevance": 0.337825,
+      "mentions": [
+        {
+          "text": "Matt Lauer",
+          "location": [
+            979,
+            989
+          ]
+        },
+        {
+          "text": "he",
+          "location": [
+            1031,
+            1033
+          ]
+        },
+        {
+          "text": "Matt",
+          "location": [
+            1137,
+            1141
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.189885,
+        "joy": 0.303432,
+        "fear": 0.235034,
+        "disgust": 0.119582,
+        "anger": 0.073736
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "Journalist",
+          "TVPersonality",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Matt Lauer",
+        "dbpedia_resource": "http://dbpedia.org/resource/Matt_Lauer"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Hoda Kotb",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.297504,
+      "emotion": {
+        "sadness": 0.0,
+        "joy": 0.0,
+        "fear": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "disambiguation": {
+        "subtype": [
+          "Journalist",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Hoda Kotb",
+        "dbpedia_resource": "http://dbpedia.org/resource/Hoda_Kotb"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Savannah Guthrie",
+      "sentiment": {
+        "score": 0.0,
+        "label": "neutral"
+      },
+      "relevance": 0.258656,
+      "mentions": [
+        {
+          "text": "Savannah Guthrie",
+          "location": [
+            1063,
+            1079
+          ]
+        }
+      ],
+      "emotion": {
+        "sadness": 0.13805,
+        "joy": 0.380084,
+        "fear": 0.049086,
+        "disgust": 0.142548,
+        "anger": 0.189199
+      },
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ],
+        "name": "Savannah Guthrie",
+        "dbpedia_resource": "http://dbpedia.org/resource/Savannah_Guthrie"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Plastic surgery",
+      "relevance": 0.980656,
+      "dbpedia_resource": "http://dbpedia.org/resource/Plastic_surgery"
+    },
+    {
+      "text": "NBC News",
+      "relevance": 0.850292,
+      "dbpedia_resource": "http://dbpedia.org/resource/NBC_News"
+    },
+    {
+      "text": "Today",
+      "relevance": 0.754043,
+      "dbpedia_resource": "http://dbpedia.org/resource/Today_(NBC_program)"
+    },
+    {
+      "text": "Rhinoplasty",
+      "relevance": 0.696511,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rhinoplasty"
+    },
+    {
+      "text": "American television reporters and correspondents",
+      "relevance": 0.61826,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+    }
+  ],
+  "categories": [
+    {
+      "score": 0.705295,
+      "label": "/art and entertainment/movies and tv/talk shows"
+    }
+  ]
+}
