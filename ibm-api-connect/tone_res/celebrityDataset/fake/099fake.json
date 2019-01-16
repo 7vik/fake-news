@@ -1,0 +1,98 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.596875,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.509993,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.527718,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.817026,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "QUEEN BEY!! Beyonce Gets Taylor Swift BANNED From The VMAsAugust 27, 2016: In case you were wondering who is the most important person in music \u2013 it's BEYONCE.",
+      "tones": [
+        {
+          "score": 0.529522,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.57374,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.67368,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Earlier this week it was announced that Taylor Swift would NOT be performing at this year's VMA Awards.",
+      "tones": [
+        {
+          "score": 0.596249,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Well according to reports it was Beyonce who got Taylor banned.A BLIND ITEM was put out on July 27 on the website CrazyDaysAndNights.com",
+      "tones": [
+        {
+          "score": 0.914055,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "saying the following:July 27, 2016This A+ list singer with the A+ list husband said she wouldn't perform at an upcoming television show if this other A+ list singer was present.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "No problem.",
+      "tones": [
+        {
+          "score": 0.982476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The network didn't want the headache anyway.Yeserday the site revealed who they were talking about \u2013 \"Beyonce/Taylor Swift/MTV VMAs.\"",
+      "tones": [
+        {
+          "score": 0.569531,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

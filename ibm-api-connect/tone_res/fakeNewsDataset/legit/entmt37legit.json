@@ -1,0 +1,126 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.572662,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.646127,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.860656,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jake Gyllenhaal opens up about 'Life' and his friendship with Ryan ReynoldsThe Oscar-nominated actor Jake Gyllenhaal opened up about his role in the new sci-fi thriller \"Life\" in an interview with \"Good Morning America\" anchor Michael Strahan that aired today and also spoke out about his friendship with co-star Ryan Reynolds.",
+      "tones": [
+        {
+          "score": 0.878022,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In \"Life Gyllenhaal plays Dr. David Jordan, who is leading a crew on a mission to discover life on Mars.",
+      "tones": [
+        {
+          "score": 0.584474,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He said his character looked at humanity ... and was a real cynic.\"",
+      "tones": [
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"He'd seen a lot of tough stuff as a doctor.",
+      "tones": [
+        {
+          "score": 0.55963,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "I think he worked in war-torn areas and stuff Gyllenhaal said of his character, adding that he maybe hoped that space would be as we all hope the new frontier.\"",
+      "tones": [
+        {
+          "score": 0.693033,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"It was interesting to play a character like that because I feel the same way sometimes about things that are going on down here he said.",
+      "tones": [
+        {
+          "score": 0.808199,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "But I think being here and staying here particularly in this country you know now and in the world is the most important thing.\"",
+      "tones": [
+        {
+          "score": 0.702145,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Gyllenhaal added that he would not go into outer space even if he could saying \"I'd like my feet on the ground you know.\"",
+      "tones": [
+        {
+          "score": 0.63698,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.716804,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.863287,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.78589,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Trump's Pick for Education Could Face Unusually Stiff ResistanceNominees for secretary of education have typically breezed through confirmation by the Senate with bipartisan approval.But Betsy DeVos, President-elect Donald J. Trump's choice for the post, is no typical nominee.",
+      "tones": [
+        {
+          "score": 0.747419,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "She is a billionaire with a complex web of financial investments, including in companies that stand to win or lose from the department she would oversee.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "She has been an aggressive force in politics for years, as a prominent Republican donor and as a supporter of steering public dollars to private schools.Her wealth and her politics seem likely to make her confirmation hearing unusually contentious, and possibly drawn out.",
+      "tones": [
+        {
+          "score": 0.565693,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.541591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

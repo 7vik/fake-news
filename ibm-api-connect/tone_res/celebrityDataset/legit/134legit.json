@@ -1,0 +1,173 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.5427,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.557672,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.543307,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.659101,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.712717,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lady Gaga Announces Netflix Documentary, Talks Madonna FeudLady Gaga is ready to open up.",
+      "tones": [
+        {
+          "score": 0.573021,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.73677,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The \u201cJoanne\u201d singer has a candid documentary titled Gaga: Five Foot Two premiering on Netflix on September 22.Gaga, 31, took to social media early Thursday, August 24, to share a series of teasers for her new project, in addition to revealing the stunning, artistic poster.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Directed by Emmy-nominated filmmaker Chris Moukarbel, the documentary will provide \u201can intimate and unfettered portrait of a year in the life of Lady Gaga,\u201d according to a press release from Netflix.\u201cOffstage, in the studio, unplugged and at home, audiences get an unguarded glimpse at Gaga through a series of personal highs and lows and the culmination of a year\u2019s emotional journey,\u201d the release continues.",
+      "tones": [
+        {
+          "score": 0.666482,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.535726,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\u201cFrom struggles with relationships to health issues, from finding solace in her inner circle to conquering her insecurities, Gaga: Five Foot Two navigates the divide between life as a superstar and life as an everyday woman.\u201dIn",
+      "tones": [
+        {
+          "score": 0.517489,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "one of the teasers for the film, Gaga breaks down in tears after her July 2016 split from fianc\u00e9 Taylor Kinney.",
+      "tones": [
+        {
+          "score": 0.663511,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\u201cI\u2019m alone every night.",
+      "tones": [
+        {
+          "score": 0.552761,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.97759,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "And all these people will leave, right?",
+      "tones": [
+        {
+          "score": 0.92125,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "They will leave, and then I\u2019ll be alone,\u201d she explains.",
+      "tones": [
+        {
+          "score": 0.749082,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.93534,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "\u201cAnd I go from everyone touching me all day and talking at me all day to total silence.\u201dIn",
+      "tones": [
+        {
+          "score": 0.907648,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "another clip, the six-time Grammy winner opens up about her long-standing feud with Madonna.",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "\u201cI admired her always, and I still admire her no matter what she might think of me.",
+      "tones": [
+        {
+          "score": 0.944551,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "The only thing that really bothers me about her is that\u2026\u201d she says before the video cryptically cuts off.Gaga: Five Foot Two premieres on Netflix on Friday, September 22.",
+      "tones": [
+        {
+          "score": 0.553044,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    }
+  ]
+}

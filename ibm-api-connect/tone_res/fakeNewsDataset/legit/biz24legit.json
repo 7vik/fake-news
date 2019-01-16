@@ -1,0 +1,64 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "London Stock Exchange 'working hard' on Deutsche Boerse mergerThe London Stock Exchange has said it is continuing to \"work hard\" on its planned merger with Deutsche Boerse.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Earlier this week the LSE said the deal could collapse as it was unlikely to get European Commission clearance.",
+      "tones": [
+        {
+          "score": 0.510547,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.727988,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The commission had ordered the LSE to sell its 60% stake in MTS a fixed-income trading platform.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The LSE had called the request \"disproportionate\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The LSE's latest comments came as the exchange reported an increase in profits for 2016.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Excluding restructuring costs and businesses it has sold or closed LSE said profit before tax rose to \u00a3623.1m for the year from \u00a3516.4m a year ago.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"The group has worked hard on our proposed merger with Deutsche Boerse which received formal approval from both sets of shareholders the firm said.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.839525,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ellison: Democrats \"gloating\" over Republican misfortunesWashington (CNN) Democratic lawmakers say they are \"gloating\" over their Republican counterparts' failure to repeal Obamacare, Rep. Keith Ellison said Monday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Speaking on CNN's \"New Day\" with Chris Cuomo, the Minnesota Democrat and deputy chairman of the Democratic National Committee said he and his party find it hilarious that Republicans still expect them to cooperate on issues like drug prices, infrastructure and tax reform.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"If the Republicans are finally forced to acknowledge that they are bamboozling the American people and that their leader is a psychopathic clown who makes cooperation of any kind impossible, I think that's a good thing,\" Ellison said.",
+      "tones": [
+        {
+          "score": 0.893309,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.574451,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Girls Who Code Closing Computer Science Gender GapIt's time to close the gender gap.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "One of the largest gaps is in one of the most high-demand and well-paid careers: computer science.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Girls Who Code is a club dedicated to evening out the playing field and now it is coming to Coos Bay.\"Currently women pose only 18 percent of the computer science field,\" said Cayce Hill, youth liaison for Southwestern Oregon Workforce Investment Board, and also a senior at Marshfield High School.",
+      "tones": [
+        {
+          "score": 0.643869,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"By 2020 there will be 1.4 million job openings and women will only fill 3 percent of that demand.",
+      "tones": [
+        {
+          "score": 0.526675,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "That's worse than it was in the 1980s, and that gap is growing larger.",
+      "tones": []
+    }
+  ]
+}

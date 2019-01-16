@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.548855,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.752152,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Frankfurt Is Cheapest Brexit Option for Housing BankersBrexit bankers fleeing London take note: Frankfurt is the cheapest major financial center in the European Union to live and work according to property broker Savills Plc.",
+      "tones": [
+        {
+          "score": 0.722704,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The combined annual cost of renting an apartment and the per-employee office space expense totaled just under 30 000 euros ($33 000) in the German city less than half that of Paris.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Frankfurt is emerging as the favored destination for investment banks such as Goldman Sachs Group Inc. that need hubs within the EU after Britain withdraws from the bloc.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

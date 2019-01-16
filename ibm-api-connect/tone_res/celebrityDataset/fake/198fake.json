@@ -1,0 +1,94 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.72654,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.556965,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Warner Bros. FINALLY Planning \u2018 Gossip Girl \u2019 The Movie!Get ready for more scheming from everybody\u2019s favorite Upper East Siders!&nbsp;Gossip",
+      "tones": [
+        {
+          "score": 0.842417,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Girl&nbsp;has been off the air for five years, but it remains a hot commodity around the world,and an industry source tells&nbsp;Radar that plans for a movie reboot are being actively discussed at Warner Bros.\u201cThey had great success with the&nbsp;Sex and the City&nbsp;films, and it makes sense to capitalize on this show in the same way,\u201d says the insider.\u201cLeighton",
+      "tones": [
+        {
+          "score": 0.670556,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Meester&nbsp;is apparently on board, and&nbsp;Sebastian Stan&nbsp;has said that he,&nbsp;Chace Crawford&nbsp;and Jessica Szohr&nbsp;are all hoping it\u2019ll happen.\u201dThe",
+      "tones": [
+        {
+          "score": 0.706243,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "person to sell on the idea is&nbsp;Blake Lively, the source adds.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\u201cA couple of years ago she would never have agreed,but now that she\u2019s established an identity apart from the show, she seems more open to it.",
+      "tones": [
+        {
+          "score": 0.507523,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.863345,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "They\u2019re all feeling a bit nostalgic \u2014",
+      "tones": [
+        {
+          "score": 0.621639,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.942582,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

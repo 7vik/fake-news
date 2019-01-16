@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552063,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "PINK &amp; LADY GAGA ARE \u2018WORKING TOGETHER\u2019 TO WRITE AN ANTI-MADONNA ANTHEMThe singers are teaming up against the pop star.Pink and Lady Gaga are teaming up to take down Madonna!",
+      "tones": [
+        {
+          "score": 0.585502,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "According to an OK! insider, the singers are fighting back against the famous pop star after her feud with Lady G. Previously, Madonna accused Gaga of ripping off her song \u201cExpress Yourself\u201d to create \u201cBorn This Way.\u201d",
+      "tones": [
+        {
+          "score": 0.582478,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.656175,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "But now, Pink is coming to G\u2019s defense, and helping her write an anthem against the queen of pop!",
+      "tones": [
+        {
+          "score": 0.731155,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

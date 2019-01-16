@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.747742,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Elton John celebrates 70th birthday with star-studded partyElton John knows how to throw a party and he didn't disappoint when he turned 70 on Saturday night.",
+      "tones": [
+        {
+          "score": 0.818637,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The English singer gathered his friends family and many A-listers to fete him inside Red Studios in Los Angeles.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The evening was hosted by Rob Lowe and featured performances by Stevie Wonder Lady Gaga Ryan Adams and more.",
+      "tones": [
+        {
+          "score": 0.627999,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "At one point during the party Wonder performed his iconic rendition of \"Happy Birthday\" with help from Lady Gaga.",
+      "tones": [
+        {
+          "score": 0.909379,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Other celebrities attended the gala which also served as a benefit for the Elton John AIDS Foundation and the Hammer Museum at UCLA.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Neil Patrick Harris Jon Hamm Heidi Klum Dakota Johnson Jennifer Tilly and Katy Perry were all spotted at the party.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.746586,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "A Tumultuous BeginningIt's been a rocky start for Education Secretary Betsy DeVos but Trump supporters see success.",
+      "tones": [
+        {
+          "score": 0.684529,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Newly-minted Secretary of Education Betsy DeVos has had a tumultuous start to her tenure in the Trump administration.As the president's most protested cabinet pick, DeVos botched her way through a Senate confirmation hearing that made her a punchline on many late-night television shows.",
+      "tones": [
+        {
+          "score": 0.560998,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She confronted a deluge of opposition from constituents around the country who wrote millions of letters and emails and jammed the phone lines of senators' offices.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "She was confirmed by the slightest margin in history, which required a tie-breaking vote from Vice President Mike Pence.",
+      "tones": [
+        {
+          "score": 0.840825,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

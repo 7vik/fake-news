@@ -1,0 +1,109 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.533188,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.701635,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.544371,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ryan Seacrest &amp; Shayna Taylor On The Brink Over Host's Crazy NYC Lifestyle!Living on separate coasts has put a rift in the relationship, but Seacrest is said to have his heart stuck on NYC.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\u201cRyan sprung this new situation on Shayna almost out of the blue, and that's even by his unpredictable, last-minute standards,\" an informant claims.The source snitches, \"He is the first to acknowledge that it's a big deal, but even though he's settling into life in New York, with frequent trips to the west coast, she's fighting to stay in Los Angeles as much as possible and keeping up her own home there.\"\"She's",
+      "tones": [
+        {
+          "score": 0.723505,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "a strong willed girl and really dedicated to the weather in LA, Malibu and the beach scene, which Ryan isn't really at all \u2014 he just wants to go where the eyeballs are and for his new job on Live! \u2014 that's what he's insisted on.\"Taylor",
+      "tones": [
+        {
+          "score": 0.570633,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "isn't backing down.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"The good news is that Shayna, having a big voice in all this and sticking to her guns, proves that she's not a gold-digger,\" a pal says.",
+      "tones": [
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"All she's asking for is a normal, sane life.\"",
+      "tones": [
+        {
+          "score": 0.874372,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.769135,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "We pay for juicy info!",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Do you have a story for RadarOnline.com?",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.",
+      "tones": [
+        {
+          "score": 0.961411,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

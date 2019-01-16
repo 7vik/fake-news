@@ -1,0 +1,88 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.547806,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.751891,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.652849,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Taylor Swift seems to be naked in new music video2017-10-24 16:38:00She once claimed that she did not need to remove her clothes to sell records.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "And Taylor Swift has employed a little creative ambiguity to stick to that message, whilst at the same time appearing to be totally naked in a new video.The 27-year-old US pop star on Monday&nbsp;released a preview of a music video for her latest single, Ready For It, in which she appears unclothed, with geometric lines of lights across her body, although she is likely wearing a nude-coloured bodysuit.Swift posted three short clips on her Instagram page and within an hour they had been viewed more than 2.5 million times.In a 2014 magazine interview, the pop star insisted she would not be stripping off like some of her pop rivals.\"I",
+      "tones": [
+        {
+          "score": 0.528707,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "find it relatively easy to keep my clothes on because I don't really feel like taking them off,\u201d she told America's Glamour magazine.\u201cIt's",
+      "tones": [
+        {
+          "score": 0.877865,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "not an urge I have.",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "For me risky is revealing what really happened in my life through music.\u201cRisky is writing confessional songs and telling the true story about a person with enough details so everyone knows who that person is.",
+      "tones": [
+        {
+          "score": 0.635007,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "That's putting myself out there, maybe even more than taking my shirt off.\"",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

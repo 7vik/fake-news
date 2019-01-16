@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.833025,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.782938,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.708232,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Report: Star Ariel Winter Wants To Get Pregnant \u2018ASAP\u2019Actress and former Modern Family star wants to get pregnant as soon as possible, according to a new report.According to Radar Online, Winter \u201cfeels she\u2019s done a lot of living in her young years, and she wants to start a family while she\u2019s still in her prime.\u201d",
+      "tones": [
+        {
+          "score": 0.671483,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.773514,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "(RELATED: Ariel Winter Defends Her Revealing Instagram Photos [VIDEO]Winter reportedly took her boyfriend, Levi Meaden out to dinner recently, \u201cto tell him of her intentions, and even had a pacifier-shaped sucker as a cute gift for him!\u201dWinter has revealed her plans to her boyfriend, who is unsure.\u201cHe is worried they\u2019re too young, but he loves her so he\u2019ll probably give in to her plan.",
+      "tones": [
+        {
+          "score": 0.699739,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Ariel\u2019s excited to start trying ASAP and wants to fall pregnant before her 20th birthday!\u201d",
+      "tones": [
+        {
+          "score": 0.883687,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "(RELATED: Ariel Winter Lets Her Critics HAVE IT Over \u2018Inappropriate\u2019 Clothing Choices)",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.566338,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.845152,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.733641,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Google commits $50 million to close the education gapThere are 130 million students around the world who haven't learned basic math or reading, even after being in school for several years, according to UNESCO.Google's philanthropic arm, Google.org,",
+      "tones": [
+        {
+          "score": 0.741606,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.641368,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "wants to whittle down that number.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Over the next two years, it's giving $50 million in grants to nonprofits focused on improving education in developing countries using tech-based learning tools, the company said Tuesday.",
+      "tones": [
+        {
+          "score": 0.537299,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "There are nine grantees so far, and Google.org",
+      "tones": [
+        {
+          "score": 0.888278,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "intends to give grants to nonprofits in 20 countries by the end of the year.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

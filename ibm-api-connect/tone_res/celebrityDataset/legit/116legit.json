@@ -1,0 +1,849 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.554673,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.501513,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.566671,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.713653,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.511762,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "A Detailed History of Selena Gomez and Justin Bieber\u2019s On-Again, Off-Again Relationship2,518 days ago, Justin Bieber and Selena Gomez were spotted\u2014arm in arm\u2014at a Philadelphia IHOP.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "And so began the long, complicated, and endless saga of \u201cJelena,\u201d which, in its latest of many twists, has the on-again, off-again couple \u201changing out\u201d again amidst news of Gomez\u2019s breakup with The Weeknd.How did we get here, exactly?",
+      "tones": [
+        {
+          "score": 0.606972,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "You\u2019re forgiven for not knowing.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "After all, IHOP was centuries ago, or at least 2010, when Barack Obama was a first-term president and America watched American Idol and Survivor .",
+      "tones": [
+        {
+          "score": 0.775384,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Here\u2019s a comprehensive guide to their on-and-off, up-and-down, are-they-or-aren\u2019t-they relationship.TMZ breaks the news that the teen idols enjoyed a \u201ccuddly\u201d date at an IHOP in Philadelphia ahead of a Q102\u2019s Jingle Ball.",
+      "tones": [
+        {
+          "score": 0.515175,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.541591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Gomez tells Us Weekly that it was platonic, and that Bieber is \u201cone of my best friends . . .",
+      "tones": [
+        {
+          "score": 0.796974,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "It was just pancakes!\u201dBieber,",
+      "tones": [
+        {
+          "score": 0.50265,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "too, stays mum on the subject, telling MTV that she\u2019s \u201can amazing person,\u201d but, \u201cI think that people are always gonna be interested in my personal life . . .",
+      "tones": [
+        {
+          "score": 0.751393,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "but I gotta keep some things to myself.",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "I\u2019m just having fun being a teenager.\u201dWith",
+      "tones": [
+        {
+          "score": 0.878047,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "dating rumors swirling, paparazzi pictures catch the then 16- and 18-year-olds kissing on a yacht in St. Lucia, essentially proving what fans already suspected\u2014they\u2019re an item.At the Vanity Fair Oscar Party, the teen-dream couple made their red carpet debut together , thereby confirming their relationship.",
+      "tones": [
+        {
+          "score": 0.594398,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.756867,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "They even take some lovey-dovey pictures in the photo booth.May 2011\u2014Young and (Visibly) in LoveAfter a glamorous appearance at the Billboard Music Awards , Justin Bieber and Selena Gomez jet off to Maui, Hawaii.",
+      "tones": [
+        {
+          "score": 0.570055,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.763337,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "Photographers catch them canoodling in the ocean \u2013Gomez noticeably rocking some statement hoops\u2014and the photos go viral.Here we reach peak Jelena\u2014 reports surface that Bieber rented the entire Staples Center arena so he and his lady love could watch Titanic , alone.",
+      "tones": [
+        {
+          "score": 0.626148,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "\u201cRomance isn\u2019t dead,\u201d Bieber tweeted.",
+      "tones": [
+        {
+          "score": 0.726032,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "\u201cTreat your lady right fellas.\u201dA",
+      "tones": [
+        {
+          "score": 0.508496,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "storm brews in paradise as a woman accuses Bieber of fathering her child .",
+      "tones": [
+        {
+          "score": 0.630024,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "After a paternity test, the case is thrown out.For the next 10 months, all seems content on the Jelena front.",
+      "tones": [
+        {
+          "score": 0.507314,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "They\u2019re spotted at a Lakers game, on a helicopter ride, at the Teen Choice Awards, and celebrating her birthday.",
+      "tones": [
+        {
+          "score": 0.779324,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "But some tabloid sites start alleging that the two may not be as solid as people think.Bieber and Gomez break up for the first time.",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "Conflicting schedules, trust issues, and their young ages are all rumored to be causes of the demise.Although the two aren\u2019t together, and despite the fact that Gomez tells Ryan Seacrest \u201cit\u2019s not really about a specific person,\u201d fans theorize that her new song \u201cCome &amp; Get It,\u201d with lyrics like \u201cCan\u2019t stop because I love it, hate the way I love you / All day all night, maybe I\u2019m addicted for life, no lie,\u201d is about Bieber.Fuel is added to the fire when Bieber allegedly posts\u2014and then quickly deletes\u2014 an Instagram with Gomez.But at the end of 2013, Bieber admits the two aren\u2019t speaking , although he still loves her.2014\u2014Are",
+      "tones": [
+        {
+          "score": 0.50452,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.723033,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "They or Aren\u2019t They?2014, to put it lightly, was a confusing year in the Jelena timeline .",
+      "tones": [
+        {
+          "score": 0.873263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "First of all, it\u2019s the year that Bieber\u2019s image goes full-on bad boy\u2014after bizarre incidents in 2013, like peeing in a bucket and losing custody of his monkey\u2014he gets in real, tangible trouble.",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "In January alone, he\u2019s arrested for drunk driving, resisting arrest, and driving without a valid license, and he was also accused of vandalism for egging his neighbors.",
+      "tones": [
+        {
+          "score": 0.627568,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "(January isn\u2019t great for Gomez, either, who checks into rehab .)",
+      "tones": [
+        {
+          "score": 0.584896,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "The tabloids viciously suggest it\u2019s because of Bieber and/or a drug problem, but a frustrated Gomez later tells GQ that it was to seek help for lupus.But before the rehab and before the DUI, the couple is spotted riding Segways in Calabasas, California .",
+      "tones": [
+        {
+          "score": 0.544423,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.62885,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "Throughout the year, and all the drama, the \u201cmaybe dates\u201d continue: a Starbucks run in Texas and a day at the zoo.",
+      "tones": []
+    },
+    {
+      "sentence_id": 26,
+      "text": "Then, the Instagram\u2014Bieber posts (and also deletes) a bunch of pictures of his former beau, including one that calls their love \u201cunconditional.\u201dBut",
+      "tones": []
+    },
+    {
+      "sentence_id": 27,
+      "text": "concurrently woven in those sightings are other ones . . .",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "text": "with Bieber and other women.",
+      "tones": []
+    },
+    {
+      "sentence_id": 29,
+      "text": "He\u2019s associated with a slew of models, up-and-coming actresses, and other beauties\u2014including Kendall and Kylie Jenner, who Gomez at one point reportedly unfollows on Instagram , and she also unfollowed Bieber.Then there\u2019s the international incident in July 2014, when Orlando Bloom and Justin Bieber get into fist fight , allegedly over Gomez.In November, Gomez releases \u201cThe Heart Wants What It Wants,\u201d which she suggests is about Bieber.",
+      "tones": [
+        {
+          "score": 0.657428,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "She gives an emotional performance of the song at the American Music Awards, which some signal to mean the relationship has finally run its course.",
+      "tones": [
+        {
+          "score": 0.714032,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "That same month, Bieber unfollows her on Instagram .",
+      "tones": []
+    },
+    {
+      "sentence_id": 32,
+      "text": "In December, he posts a picture of himself with Hailey Baldwin, but in the caption says he\u2019s \u201csuper single.\u201d2015\u2014Are",
+      "tones": [
+        {
+          "score": 0.628814,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "text": "They or Aren\u2019t They? (Part Two)We\u2019re entering the second of the lost Jelena years, where no one knows quite what\u2019s going on, perhaps not even the Bieber and Gomez themselves.After being spotted holding hands at a Golden Globes party, Gomez and Zedd enjoy a brief romance.",
+      "tones": [
+        {
+          "score": 0.689362,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.691505,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "Zedd admits two years later to Billboard that he wasn\u2019t ready to date an international superstar like Gomez: \u201cReporters were calling my parents.",
+      "tones": [
+        {
+          "score": 0.53144,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "text": "People were hacking my friends\u2019 phones.",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "I was pissed.",
+      "tones": []
+    },
+    {
+      "sentence_id": 37,
+      "text": "[Though] I kind of knew what I was getting myself into,\u201d he said.Bieber continues to post throwback pictures of Gomez on Instagram, confusing just about everyone\u2014 including Drake .",
+      "tones": [
+        {
+          "score": 0.621317,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.880245,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "Reconciliation rumors ramp up after he tells Ellen DeGeneres that a number of songs on his new album Purpose are about Gomez, and a video surfaces of Bieber serenading her with \u201cMy Girl\u201d at a hotel in Beverly Hills.But Gomez makes it clear she\u2019s sick of being defined by their relationship.",
+      "tones": [
+        {
+          "score": 0.626018,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.707444,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "In her cover story with Elle , she says her November 2014 AMA performance was her personal life swan song.",
+      "tones": [
+        {
+          "score": 0.69688,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "\u201cEverybody was talking about the same thing: my relationship,\u201d she remembers.",
+      "tones": [
+        {
+          "score": 0.515162,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.862286,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "text": "\u201cI was so exhausted.",
+      "tones": [
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "text": "I said, \u2018I want this [performance] to be the last time I have to talk about this.",
+      "tones": []
+    },
+    {
+      "sentence_id": 43,
+      "text": "And acknowledge this feeling.\u2019",
+      "tones": [
+        {
+          "score": 0.982476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "\u201dEarly 2016\u2014Here We Go AgainIn January 2016, Justin Bieber posts steamy pictures with Hailey Baldwin in St. Barth\u2019s , which many take to mean they are dating.",
+      "tones": [
+        {
+          "score": 0.67368,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "The speculation increases when Baldwin makes a cameo in Bieber\u2019s GQ cover story.",
+      "tones": [
+        {
+          "score": 0.532585,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.679852,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "text": "He describes her as \u201csomeone I really love.",
+      "tones": [
+        {
+          "score": 0.738821,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "We spend a lot of time together.\u201dHowever,",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "text": "Baldwin later tells Marie Claire that they weren\u2019t ever official.",
+      "tones": []
+    },
+    {
+      "sentence_id": 49,
+      "text": "\u201cWe are not an exclusive couple.",
+      "tones": [
+        {
+          "score": 0.504122,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "He\u2019s about to go on tour,\u201d she said.",
+      "tones": [
+        {
+          "score": 0.583778,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "text": "\u201cRelationships at this age are already complicated, but I don\u2019t really like to talk about it because it\u2019s between me and him.\u201dBieber",
+      "tones": [
+        {
+          "score": 0.852209,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "text": "posts a throwback picture of him and Gomez kissing, and she comments \u201cperfect.\u201dAlthough",
+      "tones": [
+        {
+          "score": 0.791479,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "claiming they\u2019re just friends , Bieber posts a series of Instagrams with Sofia Richie.",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "However, after backlash from fans, Bieber posted \u201cI\u2019m gonna make my Instagram private if you guys don\u2019t stop the hate this is getting out of hand, if you guys are really fans you wouldn\u2019t be so mean to people that I like.\u201dGomez",
+      "tones": [
+        {
+          "score": 0.509806,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "text": "responded in the comments section: \u201cIf you can\u2019t handle the hate then stop posting pictures of your girlfriend lol\u2014it should be special between you two only.",
+      "tones": [
+        {
+          "score": 0.678615,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "Don\u2019t be mad at your fans.",
+      "tones": [
+        {
+          "score": 0.788263,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "They love you.\u201dThat,",
+      "tones": [
+        {
+          "score": 0.880435,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "text": "allegedly, kicked off a full-on Instagram war between the couple, involving many comments, including cheating accusations on both sides, which are now said to be deleted.",
+      "tones": []
+    },
+    {
+      "sentence_id": 59,
+      "text": "Gomez later takes to her Snapchat to say that what she did was \u201cselfish and pointless.\u201d",
+      "tones": [
+        {
+          "score": 0.643602,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 60,
+      "text": "Bieber deletes his Instagram.A few months later, it's reported that Gomez cut her Revival Tour short to seek treatment at a facility in Tennessee.",
+      "tones": [
+        {
+          "score": 0.625816,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 61,
+      "text": "\u201cMy self-esteem was shot.",
+      "tones": []
+    },
+    {
+      "sentence_id": 62,
+      "text": "I was depressed, anxious.",
+      "tones": [
+        {
+          "score": 0.727553,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 63,
+      "text": "I started to have panic attacks right before getting onstage, or right after leaving the stage.",
+      "tones": [
+        {
+          "score": 0.860822,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 64,
+      "text": "Basically I felt I wasn\u2019t good enough, wasn\u2019t capable,\u201d she later told Vogue.Gomez and The Weeknd hit the red carpet couple together at the 2017 Met Gala.Gomez reveals on Instagram that she underwent a kidney transplant.",
+      "tones": [
+        {
+          "score": 0.728898,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "(The donor was her friend Francia Raisa.)Bieber and Gomez are seen hanging out together again , but multiple sources say it\u2019s just as friends.",
+      "tones": []
+    },
+    {
+      "sentence_id": 66,
+      "text": "Allegedly, their church, Hillsong, as well as Gomez\u2019s kidney transplant caused to two to reconnect.",
+      "tones": [
+        {
+          "score": 0.931276,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 67,
+      "text": "And The Weeknd was reportedly fine with it.However, just about a week after the reports, Selena Gomez and The Weeknd announce their split (although, apparently, Bieber was not the cause).In the weeks following Gomez\u2019s breakup with The Weeknd, she's spotted canoodling with Bieber. . .",
+      "tones": [
+        {
+          "score": 0.644721,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 68,
+      "text": "again and again and again.",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "On November 15, they kiss at his hockey game\u2014fueling tabloid speculation that they are back together and better than ever.Maybe, or maybe not.",
+      "tones": [
+        {
+          "score": 0.698231,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.915488,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 70,
+      "text": "Because if this timeline has taught you anything, dear reader, it should be that at this point, the truth is anybody\u2019s guess.",
+      "tones": [
+        {
+          "score": 0.607902,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

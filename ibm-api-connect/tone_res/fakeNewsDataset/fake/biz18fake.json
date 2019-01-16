@@ -1,0 +1,104 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66759,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.631794,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "An increase in short-haul airliner global sales sends the UK economy skywardFebruary saw airlines receiving some 100 aircraft and order another 43 for future delivery.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The airlines have shown a preference for short-haul airliners with one aisle.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "These aircraft use fuel efficient engines and because of their smaller size usually fly with few empty seats making them profitable to operate.",
+      "tones": [
+        {
+          "score": 0.875259,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Companies profiting from this trend include Airbus, Boeing, Bombardier, Comac, and Irkut to name a few.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Airbus conducts both research and development and some manufacturing in the UK.",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "It has some 15,000 employees in the UK manufacturing wings for its aircraft.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The company pumps about \u00a32bn annually into the UK economy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "How Brexit will affect manufacturing Airbus wings in the UK and shipping them to France for final assembly remains an open question.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "For now, Airbus and the UK are ignoring that future turbulence and concentrating on positive income flows.",
+      "tones": [
+        {
+          "score": 0.53138,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

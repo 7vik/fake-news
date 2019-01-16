@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.575262,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.83199,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "6YO Brings Gun to SchoolIn Rancho Cucamonga, CA a 6 year old brought a gun into a school outside of LA.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Authorities are desperately searching for where the student found the gun, and more specifically if someone provided it.",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.952549,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Parents are furious and threatened to pull their kids from the school following the Sun newspaper reporting this news weeks after the incident, and with no official news from the school being released.",
+      "tones": [
+        {
+          "score": 0.575024,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    }
+  ]
+}

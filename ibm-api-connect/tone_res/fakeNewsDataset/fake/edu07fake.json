@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.502841,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.688196,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Schools to Use Technology for the Security of our ChildrenAdministrators are noticing that students at Parker Middle school feel safer now that they have been equipped with their smartwatch based ID/GPS Smartwatches.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Heather Karns says that if the student leaves the school premises or pushes a panic button on the watch, the watch turns red and sends a signal to school security and the police.",
+      "tones": [
+        {
+          "score": 0.720847,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The watches can also be used for fitness as well as many other uses.",
+      "tones": [
+        {
+          "score": 0.721466,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Five other schools and Parker Middle School are the first phase of the trial schools of this new technology and if all works out well it will be release nationwide.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.713443,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "U.S. Schools Easy, Full of Sports, Says exchange studentsWhile many believe the US education standards have recently become more challenging and stringent, not so say foreign exchange students.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Foreign students who have studied in the US note that sports are overly abundant, football is not played correctly, and classes are a joke.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Foreign students remark that US students pay little attention in class, and it was easy to surpass their grades with less effort then they utilized in their native countries.",
+      "tones": [
+        {
+          "score": 0.503988,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Even foreign students with language gaps found US schools to be easier.",
+      "tones": [
+        {
+          "score": 0.672469,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

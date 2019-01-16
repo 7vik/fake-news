@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593728,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.599584,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Drake Cancels Amsterdam Concert (Again) After Doors Had OpenedUPDATE: After this post was published,&nbsp;TMZ&nbsp;reported that the cancelation&nbsp;was due to \"bad sushi.\"Drake",
+      "tones": [
+        {
+          "score": 0.546703,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "postponed his concert in Amsterdam Monday (March 27) night due to illness, disappointing fans who had already shown up to the Ziggo Dome.The announcement was made after doors were opened and concertgoers had already began packing the the 17,000-person arena.",
+      "tones": [
+        {
+          "score": 0.679447,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In a fan-shot video, one can see drinks being thrown at an employee for the Netherlands-based concert and festival organizer Mojo Concerts, who was speaking to the crowd.\"I'm",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "really sorry to tell you that tonight's show cannot take place.",
+      "tones": [
+        {
+          "score": 0.575161,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Drake got sick.",
+      "tones": [
+        {
+          "score": 0.503088,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "His doctor told him not to perform.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Tickets will stay valid for the show on Wednesday as he wishes to bring his fans the best show in the world,\" she told the audience.The concert will be rescheduled for Wednesday, March 29.Drake has another Amsterdam concert scheduled for Tuesday night at the Ziggo Dome.This is the third time in as many months Drake has rescheduled Amsterdam shows on his 'Boy Meets World' European tour.",
+      "tones": [
+        {
+          "score": 0.757513,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "He previously had performances scheduled for Jan. 20 and 21, which were then moved to Jan. 26 and 27 before being postponed to March 27 and 28.See video of the concert cancelation and a statement from Mojo below.",
+      "tones": []
+    }
+  ]
+}

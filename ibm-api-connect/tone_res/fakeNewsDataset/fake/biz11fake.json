@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.609665,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "EU Applauds Deutsche Boerse's $14 Billion Takeover of London Stock Exchange\"European Union regulators applauded Deutsche Boerse AG's planned takeover of London Stock Exchange Group Plc a symbolic acceptance on EU-U.K. integration on the same day Britain formally serves notice of its decision to quit the EU.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The $14 billion deal to create Europe's biggest exchange will foster competition in the soon-to-be 27-nation EU by negating a de facto monopoly for clearing bonds and repurchase agreements the European Commission said in an emailed statement Wednesday.",
+      "tones": [
+        {
+          "score": 0.589683,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.599421,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The decision flagged last month by LSE thwarts Deutsche Boerse's expansion just five years after the EU also accepted a proposed tie-up with NYSE Euronext.",
+      "tones": [
+        {
+          "score": 0.74948,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"The commission allows these deals, Margrethe Vestager, the EU's antitrust commissioner, told reporters in Brussels.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "LSE was not prepared\" to sell a small unit that would have removed concerns that the combined firm could have weakened rival Euronext NV.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "EU regulators have become increasingly accepting on big deals demanding weighty concessions to eliminate overlapping businesses amid concerns that a combined firm could dominate an industry and increase prices.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "While this is the second time that Vestager has formally accepted a merger several transactions have been ditched over antitrust opposition.\"",
+      "tones": []
+    }
+  ]
+}

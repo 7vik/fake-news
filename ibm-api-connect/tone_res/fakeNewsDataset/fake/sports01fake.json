@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.707897,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.589081,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Signed autograph of Michael Jordan's 'Basketball' auction sets sports memorabilia record\"The famous basketball legend Michael Jordan autographed basketball sold in Ebay's live auctions Friday for more than $5 million setting a record for the highest sales price for sports memorabilia according to Sotheby's which conducted the auction.",
+      "tones": [
+        {
+          "score": 0.575781,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.70944,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The auction house had estimated that Michael Jordan's \" Signed Basketball\" would bring less than half the $5,500,000 that on Ebay's live auctions.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "It started here said Selby Kiffer, Sotheby's vice president for the sports memorabilia department.",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Naismith, a Canadian physical education instructor working at a New England YMCA, created the game of Basket Ball\" so students could play a sport indoors in winter.",
+      "tones": [
+        {
+          "score": 0.590194,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Naismith had no idea his invention would catch on so rapidly after the YMCA movement introduced it on an international level.\"",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

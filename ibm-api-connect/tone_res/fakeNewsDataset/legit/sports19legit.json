@@ -1,0 +1,110 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.631204,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.635872,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.612385,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "John Wall breathes some life into Wizards' trip to ClevelandThe Northeast Ohio sun remained hidden while the Washington Wizards were in town and the temperature required heavy outerwear.",
+      "tones": [
+        {
+          "score": 0.618547,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "But John Wall still felt fine.",
+      "tones": [
+        {
+          "score": 0.578574,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He said his weary bones felt fresh.",
+      "tones": [
+        {
+          "score": 0.618279,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Those nagging pains miraculously healed.",
+      "tones": [
+        {
+          "score": 0.911103,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The migraine headache from earlier in the week gone.",
+      "tones": [
+        {
+          "score": 0.630211,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "These good vibes fueled Wall's performance - a career-best shooting start followed by his 47th double-double of the season - in the Washington Wizards' 127-115 win over the Cleveland Cavaliers.",
+      "tones": [
+        {
+          "score": 0.875023,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "After the win Wall explained how the lure of the West Coast road trip was the only prescribed medicine that he needed.",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.619296,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.599042,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Aircraft orders increase tenfold in a year in boost for UK manufacturingThe global aerospace industry enjoyed a surge in aircraft orders in February putting it on track for another record year of deliveries and boosting the UK economy.",
+      "tones": [
+        {
+          "score": 0.726075,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The number of commercial aircraft ordered by airlines jumped to 43 last month from just four in February 2016 according to ADS the industry trade association.",
+      "tones": [
+        {
+          "score": 0.74948,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The figures are based on orders for the planemakers Airbus Boeing Canada's Bombardier the Chinese state-owned firm Comac and Russia's Irkut.",
+      "tones": [
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Growth was driven mainly by demand for single-aisle planes designed for short-haul travel.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The industry delivered 100 aircraft to customers over the month with a value of up to \u00a32bn to the UK economy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "This value is from research and development and the manufacturing that take place in the country.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Airbus employs about 15 000 people in the UK and makes the wings for its planes at its factory in Broughton north Wales.",
+      "tones": [
+        {
+          "score": 0.636458,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

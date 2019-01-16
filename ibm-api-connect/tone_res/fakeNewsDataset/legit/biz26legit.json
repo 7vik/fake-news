@@ -1,0 +1,94 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.55393,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.51835,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "How a Red State City Fell in Love With Muslim ImmigrantsEvery week hosts Dan Moss and Scott Lanman bring you a jargon-free dive into the stories that drive the global economy.",
+      "tones": [
+        {
+          "score": 0.692397,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Post-industrial Midwestern America helped propel Donald Trump to the nation's top job.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "You've heard that a hundred times.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "But did you hear about St Louis?",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "A wave of Bosnian refugees many of them Muslim arrive in the city starting in the mid-1990s.",
+      "tones": [
+        {
+          "score": 0.511611,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The result: a surge in business and job creation revitalization of the community and help in the transition from a manufacturing to a service economy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Sadik Kukic tells Dan and Michelle about his journey from Balkan concentration camps to a pillar of the local community: He's now president of the Bosnian Chamber of Commerce.",
+      "tones": [
+        {
+          "score": 0.509044,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "What could be more American?",
+      "tones": [
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593505,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.796451,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.669991,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jennifer Aniston, Diva?",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Actress Rumored To Be 'Unapproachable' On Set, Doesn't Socialize (REPORT)Could this former \"Friend\" be less than friendly in real life?",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Rumor has it that's the case.The word on Jennifer Aniston's new movie set is that the 44-year-old doesn't socialize with her co-stars and whenever possible distances herself in her remote trailer, RadarOnline exclusively reports.\"Every",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "day at lunch the entire cast and crew head to a cafeteria facility where they all sit down and eat lunch together for well over an hour,\" a source told RadarOnline.",
+      "tones": [
+        {
+          "score": 0.605143,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"But the only person who doesn't eat with everyone else is Jen.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "She quickly grabs a lunch to go and leaves.\"According to RadarOnline's source, Aniston also gets a fancier SUV than everyone else's (including fellow stars Isla Fisher and Tim Robbins) and her trailer is situated way off set.",
+      "tones": [
+        {
+          "score": 0.644053,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.706252,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "All of these things make her seem \"not approachable,\" according to RadarOnline.",
+      "tones": [
+        {
+          "score": 0.704989,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.932977,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "But we can't help but wonder ... Is she being a obnoxious, or is she really just trying to hide a pregnancy?Think about it: Pregnancy gives you weird cravings but also nausea (hence the lonesome lunches), and perhaps she doesn't want to undress in front of others who can catch a glimpse of her baby bump.",
+      "tones": [
+        {
+          "score": 0.811849,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Or maybe we're just really, really wishful thinkers.Either way, this is not the first time Aniston has had \"diva\" rumors attached to her.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "A year and a half ago she admitted to throwing a chair at a director (!) but for a worthy cause: The man treated the script supervisor poorly and Jen later explained she couldn't stand aside and let him go on with it.",
+      "tones": [
+        {
+          "score": 0.508764,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

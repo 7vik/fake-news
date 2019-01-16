@@ -1,0 +1,116 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.642805,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.595118,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.727242,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Paraguay defeats Brazil 3-0 to earn spot in World CupParaguay became the first team to qualify for the 2018 World Cup in Russia on the strength of a 3-0 victory over Brazil in the qualifying round.",
+      "tones": [
+        {
+          "score": 0.796281,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Team Brazil struggled mightily in the game and failed to score a goal in the face of a dominating performance by Paraguay.",
+      "tones": [
+        {
+          "score": 0.730102,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Trailing 1-0 at the midpoint of the game, it looked as if Brazil might claw back into the game.",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "However, two late goals by Paraguay sealed the loss for Brazil.",
+      "tones": [
+        {
+          "score": 0.685836,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Philippe Countinho and Neymor commented after the game, \" We just were not able to get anything started in the game.",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "We give alot of credit to the Paraguay team.",
+      "tones": [
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "They were the better team today.\"",
+      "tones": [
+        {
+          "score": 0.723955,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "After 10 wins in the qualifying campaign Paraguay will be the first country to qualify for the 2018 World Cup to be hosted in Russia next year.",
+      "tones": [
+        {
+          "score": 0.728602,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

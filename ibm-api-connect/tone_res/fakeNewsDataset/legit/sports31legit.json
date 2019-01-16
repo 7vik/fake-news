@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.564813,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "'Hillsborough law' could imprison police officers who are not truthfulA proposed \"Hillsborough law\" requiring police forces and public authorities to be open and truthful in legal proceedings including about their own failures and that would give bereaved families the same resources as the police to make their case at future inquests is to be presented to parliament.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The 10-minute-rule bill will be introduced by Labour MP Andy Burnham on Wednesday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The public authority (accountability) bill would impose on public authorities and employees a duty to act with \"transparency candour and frankness\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Individual officials would face a fine or maximum two-year term in prison for failing to do so including for feeding misleading information to the media.",
+      "tones": [
+        {
+          "score": 0.650141,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

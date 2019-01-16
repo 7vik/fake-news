@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.559648,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Fossil Concedes the Smartwatch Trend is OverFossil Group is conceding defeat in its smartwatch line.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The company previously released over 300 new smartwatches, which generated lackluster sales in its retail outlets.",
+      "tones": [
+        {
+          "score": 0.899126,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Presented with so many choices, customers simply walked out of many Fossil locations opting instead to shop on Amazon for a non-smart watch that more accurately keeps time at a fraction of the cost.",
+      "tones": [
+        {
+          "score": 0.567034,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "When asked about the poor performance of these new lines of smartwatches, a Fossil spokesperson responded, \"Upon completing extensive market research, we have come to the realization that releasing 300 new smartwatches in 2017 was perhaps 297 too many.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Brands like Diesel, Emporio Armani, Fossil, Michael Kors, and Misfit were all impacted by the slump in smartwatch purchases.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "All of the watches ran the new Android Wear 2.0 operating system, and were powered by a Snapdragon Wear 2100 chip.",
+      "tones": [
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Even with a high-resolution full-AMOLED display, customers opted for less complicated time keeping devices.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.821444,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.624531,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.837452,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Federal Judge Sends Trump To The Corner(CNN)Two federal judges in Virginia went against common sense and in favor of the punishment of children.",
+      "tones": [
+        {
+          "score": 0.5449,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "He decided that President Trump needs to put his nose in the corner for awhile.",
+      "tones": [
+        {
+          "score": 0.727798,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Muslim community is thrilled with the decision and says that more judges need to use their heart to make difficult decisions.",
+      "tones": [
+        {
+          "score": 0.500068,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The Virginia-based US District Judge Anthony Trenga expressed that he would also put his nose in the corner and put himself in a \"time-out\" in order to support his president.",
+      "tones": [
+        {
+          "score": 0.667919,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

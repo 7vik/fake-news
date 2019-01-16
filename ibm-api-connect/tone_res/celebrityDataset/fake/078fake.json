@@ -1,0 +1,154 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.621599,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.560604,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ellen, Portia cancel appearance after 'epic' fightEllen DeGeneres and Portia de Rossi didn't show up at a charity fund-raiser for rescued animals after having a huge fight in the car on the way to Sunday's event, sources tell Page Six.The power couple was on the way to the Saving SPOT! fund-raiser at Tiato in Santa Monica when they got into an argument and turned around without attending the event, even though they were listed and pictured on the invitation as hosts.",
+      "tones": [
+        {
+          "score": 0.602558,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Ellen and Portia on Monday insisted to Page Six they had informed the charity they would be unable to make it and their picture should not have been on the invitation.A source told us: \"Ellen and Portia were supposed to be at the event at 5 p.m., but at 6:30 p.m., the media was still waiting for their arrival.",
+      "tones": [
+        {
+          "score": 0.683502,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Reporters were told they were on their way, until the head of the charity informed everyone at the end of the event that they weren't going to make it due to 'logistics.'\"The source added, \"Ellen and Portia were delayed and were in the car on the way, when they had an epic fight.",
+      "tones": [
+        {
+          "score": 0.561591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "They ended up turning around and not going to the fund-raiser.\"Saving",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "SPOT! is a nonprofit dedicated to rescuing dogs and providing them with caring owners.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Ellen and Portia attended last year's benefit in Beverly Hills and had been happy to be listed as hosts for this year's event, we're told.Ellen - a generous animal-welfare supporter - and Portia said in a statement to Page Six: \"We were happy to lend our names as honorary chairs and the organization was always aware that we would be unable to attend.",
+      "tones": [
+        {
+          "score": 0.510288,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "This is the first time we have seen our images attached to the invite.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "It was not approved and it is misleading.\"DeGeneres'",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "attorney Marty Singer said, \"The story is a complete lie.",
+      "tones": [
+        {
+          "score": 0.523204,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "My client told the organizer they never agreed nor planned to attend the event.",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "There was no fight that caused them not to attend.\"",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "The charity didn't respond to requests for comment.Ellen recently slammed divorce rumors and reports of arguments on the season premiere of her talk show.",
+      "tones": [
+        {
+          "score": 0.573524,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "\"I had a great summer,\" she said in September.",
+      "tones": [
+        {
+          "score": 0.812572,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "\"I went on a trip with Portia, my beautiful wife - who I am happily married to, but thank you for your heartfelt concern, tabloids.\"",
+      "tones": [
+        {
+          "score": 0.866355,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

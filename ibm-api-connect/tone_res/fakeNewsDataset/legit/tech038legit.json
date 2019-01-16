@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.706616,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.804785,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.542753,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Solar-powered 'skin' could make prosthetics more realMany people try to stay out of the sun.",
+      "tones": [
+        {
+          "score": 0.634972,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "But if a new type of solar-powered electronic skin makes its way onto prosthetics, wearers will definitely want those rays shining on their limbs.Researchers are already working to create smart skin that embeds sensors that mimic the tactile feedback of human skin, making it possible for amputees to feel pressure, temperature and even dampness.",
+      "tones": [
+        {
+          "score": 0.562379,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "But how to power the futuristic material?A team from the University of Glasgow in the UK has come up with a version that harnesses the sun's rays.",
+      "tones": [
+        {
+          "score": 0.717053,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Because it produces its own energy from a natural source, the engineers say, the electronic skin would operate longer than similar materials powered by batteries or tethered to a power source that would also limit portability, clearly a key feature of any everyday prosthetic or touch-sensitive robot on the go.",
+      "tones": [
+        {
+          "score": 0.546347,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

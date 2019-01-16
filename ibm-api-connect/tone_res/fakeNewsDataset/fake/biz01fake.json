@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.602457,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Alex Jones Vindicated in \"Pizzagate\" Controversy\"Alex Jones, purveyor of the independent investigative news website Infowars and host of The Alex Jones Show, has been vindicated in his claims regarding the so-called \"Pizzagate\" controversy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Jones and others uncovered evidence last year that top Democratic Party officials were involved in a bizarre, satanic child sex cult and pornography ring using the Washington D.C. pizza parlor Comet Ping Pong Pizza as a front.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The allegations rocked the Democratic Party and may have caused serious damage to the Hillary Clinton presidential campaign.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Top U.S. federal investigators have now confirmed that they have verified many of these claims after executing raids on the offices of several of the key players.",
+      "tones": [
+        {
+          "score": 0.588596,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Charges are expected to be filed in the coming days.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The news comes as a welcome vindication for Jones, who has been accused by many mainstream media outlets of being a conspiracy theorist and of publishing \"fake news\".",
+      "tones": [
+        {
+          "score": 0.509595,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Mr. Jones has often drawn controversy, and was scapegoated in media reports as an example of how inaccurate and misleading news proliferated on social media websites like Facebook, Youtube and Twitter during the 2016 election.",
+      "tones": [
+        {
+          "score": 0.631014,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Jones has also exposed inconsistencies in the official government accounts of the 9/11 terrorist attacks and the Sandy Hook school shooting in Newtown Connecticut.\"",
+      "tones": []
+    }
+  ]
+}

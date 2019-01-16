@@ -1,0 +1,109 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.570782,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.555729,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.902459,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Is Huck really dead on 'Scandal?'Don't",
+      "tones": [
+        {
+          "score": 0.639337,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "bury him just yet Gladiators.",
+      "tones": [
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The actor who plays Huck on \"Scandal\" has some words of hope for fans who were upset about last week's cliffhanger episode in which his character was shot multiple times.",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Guillermo Diaz is cautioning folks to remember \"Scandal\" is often full of surprises.",
+      "tones": [
+        {
+          "score": 0.821913,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The actor told entmt Tonight that the script in which Meg shot Huck \"just blew me away -- no pun intended.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"My reaction was I was in complete and utter disbelief but excited too he said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "It's such a great script it's so juicy!",
+      "tones": [
+        {
+          "score": 0.653835,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "As an actor I was just thrilled.\"",
+      "tones": [
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Diaz said the show's creator Shonda Rhimes can be credited with bringing so much excitement.",
+      "tones": []
+    }
+  ]
+}

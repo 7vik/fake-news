@@ -1,0 +1,62 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.722365,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Rosie O'Donnell Sells Her Star Island Mansion for $16.5 Million2013-06-17T14:07:39-04:00It truly is an end of an era.",
+      "tones": [
+        {
+          "score": 0.559891,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Rosie O'Donnell is no longer a resident of Star Island.",
+      "tones": [
+        {
+          "score": 0.544855,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The comedienne first bought the historic home back in 1999 for $6.75 million from a marijuana-loving church, and sold it recently for nearly $10 million more.As chronicled in Rakontor's Square Grouper, the home was once the headquarters of the Ethiopian Zion Coptic Church.The Rastafari church (which isn't really Ethiopian not Coptic) bought the home back in 1975, and their marijuana-loving ways didn't please the neighbors much.",
+      "tones": [
+        {
+          "score": 0.641373,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "So, even Elizabeth Hassleback would have preferred Rosie as a neighbor compared to the previous tenants.The home boasts 11,104 square feet of space, two guest homes and 200 feet of bay frontage.O'Donnell, who originally listed the home for close to $20 million, reportedly sold the home because she had barely been using in recent years, according to The New York Post.",
+      "tones": [
+        {
+          "score": 0.704382,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.589792,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.57688,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.777567,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Selena Gomez and Justin Bieber Just Kissed at His Hockey GameAs The Weeknd reconnects with his ex, Bella Hadid, Selena Gomez continues her string of appearances with Justin Bieber.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Last night, she supported the Canadian pop star at his hockey game in LA (for the second time).",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "And the two took the PDA to the next level: they were spotted kissing at the rink.Though the two haven't personally confirmed the reports that they're back together, this marks the first time they've been seen kissing since they started hanging out again.Gomez also had some company\u2014she brought along the puppy she and The Weeknd got together.",
+      "tones": [
+        {
+          "score": 0.675582,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "She carried around the pup, Charlie, and played with him in the rink as Bieber took the ice.Selena just adopted the Cavalier King Charles Spaniel in September.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "She and her then-boyfriend, The Weeknd (AKA Abel Tesfaye) were spotted at a New York City pet store playing with the dog before taking him home.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Since then, Charlie occasionally tagged along for the former couple's candid appearances.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "It looks like Selena got custody of the pet after she and Tesfaye broke up at the end of October.In recent weeks, Gomez and Bieber have made numerous joint public appearances, which began even before it was announced that she split with the R&amp;B star.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "One sighting also took place at one of Bieber's hockey games, which took place just two days after Gomez and Tesfaye's breakup was reported.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "During that appearance, Gomez cheered on Bieber from the stands, and later left with him while wearing his hockey jersey.",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "There was also this cute PDA moment:For last night's game, however, she drove home alone (except Charlie was also in the car).Bieber and Gomez are reportedly back together, but despite the frequent joint appearances, sources say the couple is trying to take it slow.",
+      "tones": [
+        {
+          "score": 0.662312,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "\"They just backed off a little from being out there and are being a bit more low-key,\" sources told People.Whether or not The Weeknd is trying to rekindle is old romance with Bella Hadid, Gomez seems completely unbothered.",
+      "tones": [
+        {
+          "score": 0.64228,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.628267,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

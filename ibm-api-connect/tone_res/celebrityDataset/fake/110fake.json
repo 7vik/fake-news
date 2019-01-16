@@ -1,0 +1,105 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.585444,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.628598,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.718683,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "David Foster &amp; Katharine McPhee Faking They Romance? : Similar News | NEWZEBDavid Foster &amp; girlfriend Katharine McPhee were spotted looking ritzy and smitten at the SAG-AFTRA Foundation Patron of the Artists Awards 2017 earlier this week.",
+      "tones": [
+        {
+          "score": 0.551989,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Their appearance came just days after RadarOnline.com",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "exclusively reported claims that their relationship is fake!",
+      "tones": [
+        {
+          "score": 0.713294,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "During their outing, they were joined by various A-listers, and the attention-seeking actress couldn\u2019t have been happier under the spotlight!",
+      "tones": [
+        {
+          "score": 0.825432,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Click through to learn more.",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Katharine McPhee, 33, will do just about anything to get to the top of the Hollywood pyramid \u2013 including dating much-older musician David Foster, 68.",
+      "tones": [
+        {
+          "score": 0.836129,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The faux couple has been spotted out and about all over the world since news broke of their unlik..",
+      "tones": [
+        {
+          "score": 0.6911,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

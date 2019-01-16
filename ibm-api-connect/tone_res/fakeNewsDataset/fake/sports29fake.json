@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.839312,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.514157,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.83664,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brazil decisively beats Paraguay to qualify for the 2018 World CupThe tight friendship and aggressive play of Brazil's Coutinho and Neymar played a key role in Brazil's 3-0 win over Paraguay on Tuesday.",
+      "tones": [
+        {
+          "score": 0.809073,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.606023,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "As a result of the win and Peru's stunning win over Uruguay, Brazil has become the first team to qualify for the 2018 World Cup and is guaranteed a spot in Russia.",
+      "tones": [
+        {
+          "score": 0.811817,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.753872,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Coutinho and Neymar made a pact before the Paraguay game that they would bet their famous friendship on winning the game, and knowing how much they value each other's friendship, the win was almost a foregone conclusion.",
+      "tones": [
+        {
+          "score": 0.827089,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.539235,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.609749,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

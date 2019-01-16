@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.71572,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.838983,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Britain retailers cannot seem to catch a break.",
+      "tones": [
+        {
+          "score": 0.655368,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Sales continue to plummet after the announcement of leaving the EU.",
+      "tones": [
+        {
+          "score": 0.519739,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Sterling has once again opened down in the global market and has left many retailers week in the knees.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "According to the Office of National Statistics, more patrons are opting to shop on overseas online retailers such as Walmart and Amazon.com.",
+      "tones": [
+        {
+          "score": 0.947982,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Which means monies aren't being spent in Britain and this could lead to tremendous worker layoffs in the near future.",
+      "tones": []
+    }
+  ]
+}

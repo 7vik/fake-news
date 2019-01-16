@@ -1,0 +1,225 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.5258,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.573633,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.570268,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.560612,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Late-Night Hosts React to O.J. Simpson Parole NewsO.J. Simpson was granted parole Thursday, after serving almost nine years in prison for armed robbery and assault with a weapon, and late-night TV had a lot to say about it.On ABC, Jimmy Kimmel mocked the local reporters who repeatedly announced throughout Thursday that \"the Juice is loose,\" before explaining who Simpson was to his younger viewers.\"O.J. Simpson \u2014 for those of you too young to remember, is the second-most embarrassing person associated with the Kardashian family, right after Scott Disick,\" said Kimmel.\"Technically, the Juice is not on the loose yet \u2014 he could be released by Oct.&nbsp;1 \u2014 on which date, he will be picked up at the Lovelock Correctional Facility via helicopter and flown directly to the set of Dancing With The Stars, or Bachelor in Paradise.",
+      "tones": [
+        {
+          "score": 0.59364,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Whichever show is currently in production.\"On",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Comedy Central's Daily Show, Trevor Noah teased Simpson for saying he has mostly led a \"conflict-free life.\"",
+      "tones": [
+        {
+          "score": 0.597338,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Impersonating the former football player Noah said, \"Yeah, I had a lot of conflict, and I mostly got off free.\"Noah continued: \"O.J. and his people reminded us that he\u2019s been a model citizen in prison.",
+      "tones": [
+        {
+          "score": 0.707447,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.539235,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "He petitioned for books for the library; he coached a softball team; he never got in trouble.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "To me, that\u2019s kind of a reason to keep him in prison \u2014 it\u2019s the only place he\u2019s not committing crimes.\u201d\"O.J. got away baby,\" said Stephen Colbert in his monologue on CBS' Late Show.",
+      "tones": [
+        {
+          "score": 0.559937,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"Finally, he has the opportunity to find the real killer.",
+      "tones": [
+        {
+          "score": 0.675966,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Step one: buy a mirror.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "It'll help.\"Colbert also showed a photo of Simpson and Donald Trump from 1993 and joked the photo was taken \"when it was still a coin toss which one of those guys would be president and which one would end up in jail.\"On",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "NBC's Tonight Show, Jimmy Fallon told his audience to be careful calling an Uber now, to make sure it's not a white Ford Bronco.\u201cO.J. actually&nbsp;video-conferenced&nbsp;into his parole hearing today, because the board was 120 miles away from his prison.",
+      "tones": [
+        {
+          "score": 0.570106,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "Yeah, not a good sign when even the parole board is scared to be near him,\" he said.\"A",
+      "tones": [
+        {
+          "score": 0.946938,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "lot of people didn\u2019t know how to feel about the news.",
+      "tones": [
+        {
+          "score": 0.58318,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.909883,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "On one hand, O.J. is a convicted felon.",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "But, on the other hand, he managed to keep Trump off TV for a whole afternoon,\" said Fallon, joking that it's kind of like community service.The former football, film and TV star could be released&nbsp;as soon as Oct. 1, at which point he will have served the minimum of his nine- to 33-year sentence.Commissioners who heard his case voted unanimously to grant the 70-year-old parole.&nbsp;The",
+      "tones": [
+        {
+          "score": 0.542762,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "2008 conviction \u2014 which stemmed from a failed attempt to steal sports memorabilia and other items he claimed had been stolen from him \u2014 came 13 years after his 1995 acquittal in the murders of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman.The 1995 murder trial was a national sensation at the time, with interest&nbsp;reignited&nbsp;last year with the debut of FX's award-winning miniseries&nbsp;The People v. O.J. Simpson: American Crime Story.When asked if he would be able to stay out of trouble, Simpson explained that he had taken an alternatives to violence course, and also said, \"I had basically spent a conflict-free life,\" which got an immediate reaction on social media given the sensational murder trial and years of abuse allegations from his ex-wife.In his closing remarks, he apologized again.\"I'm",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "sorry it happened, I'm sorry, Nevada,\" he said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 16,
+      "text": "\"I thought I was glad to get my stuff back, but it just wasn't worth it.",
+      "tones": [
+        {
+          "score": 0.533667,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.798791,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "It wasn't worth it and I'm sorry.`\"",
+      "tones": []
+    }
+  ]
+}

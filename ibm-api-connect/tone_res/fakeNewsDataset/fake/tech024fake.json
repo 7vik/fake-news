@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.754086,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Toyota sues Microsoft for contract breachAutomobile manufacturer Toyota had signed a contract with Microsoft in order to make it's cars more user friendly and tech friendly.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Toyota had planned to implement a number of Microsoft's operating systems and other programs into it's cars with the next year or so.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "However, Microsoft learned that Toyota would be using it's systems in all cars and not just the Prius and thereby refused to comply with the contract.",
+      "tones": [
+        {
+          "score": 0.908301,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Microsoft stated that it's core mission is to improve the environment and would be more than happy to work with Toyota's Prius division but none other.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "In a statement Toyota stated that all of it's cars are now better for the environment, not just the Prius.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "They will now look for another provider to work with.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

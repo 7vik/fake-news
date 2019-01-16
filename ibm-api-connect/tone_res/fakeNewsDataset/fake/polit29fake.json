@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.50589,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "H-1B - You're Fired!Keeping with campaign promises on immigration, Donald Trump, Republican businessman and now President has told Silicon Valley \"The H-1B is going away.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "It just is.",
+      "tones": [
+        {
+          "score": 0.994446,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "It's not good for America, it's not good for Americans.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "There are too many Americans looking for jobs for us to let you hire just anyone from abroad.\"",
+      "tones": [
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Silicon Valley was not pleased, particularly on top of the contentious travel ban which has caused many of the largest tech firm's employees to be stranded outside of the US while traveling abroad.",
+      "tones": [
+        {
+          "score": 0.583315,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Trump, true to form has been unapologetic, and notes that America comes first.",
+      "tones": [
+        {
+          "score": 0.509368,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.933201,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kanye West, No 'American Idol' For MeNo 'American Idol' For MeKanye West is not in discussions with NBC or anyone else about doing a re-boot of \"American Idol\" ... contrary to reports.Reports are surfacing NBC and producers are chomping at the bit to bring Kanye on as host, and discussions are underway.",
+      "tones": [
+        {
+          "score": 0.53644,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Not true.Sources close to Kanye and with direct knowledge tell us ... \"There is no conversation with Kanye West to join 'American Idol' or any other show for that matter.\"There's",
+      "tones": [
+        {
+          "score": 0.706668,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.54839,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "been a buzz NBC might bring the show back, but not with Yeezy.",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

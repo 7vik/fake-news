@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.690548,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "John Wall sustains injury into Wizards' trip to Cleveland\"The Northeast Ohio sun remained hidden while the Washington Wizards were in town and the temperature required heavy outerwear.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "But John Wall still felt fine.",
+      "tones": [
+        {
+          "score": 0.578574,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He said his weary bones felt fresh.",
+      "tones": [
+        {
+          "score": 0.618279,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "However, this wasn't for long.",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The migraine headache from earlier in the week gone, but in the fourth quarter, point guard Wall sustained a season-ending injury to his achilles.",
+      "tones": [
+        {
+          "score": 0.69983,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "These bad vibes led to a loss to the Cavaliers - the score being 127-115, a loss to the Cleveland Cavaliers.",
+      "tones": [
+        {
+          "score": 0.815429,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "After the injury, Wall explained how he wish he never jumped for the ball and that this may be a long road to recovery.\"",
+      "tones": []
+    }
+  ]
+}

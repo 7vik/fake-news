@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.962426,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.791827,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kevin Hart and Eniko Parrish welcome babyThe comedian tweeted Tuesday that his wife, Eniko Parrish, had given birth to their son.\"God is truly amazing....Kenzo Kash Hart was born at 1:45am ,\" Hart tweeted.",
+      "tones": [
+        {
+          "score": 0.853287,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"He is Healthy &amp; already smiling.",
+      "tones": [
+        {
+          "score": 0.981614,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Thank you all for your prayers!!!!",
+      "tones": [
+        {
+          "score": 0.933286,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.942582,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "We love &amp; appreciate ya.\"It's the first child for the couple.",
+      "tones": [
+        {
+          "score": 0.922834,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Hart has two children -- a daughter, Heaven, 12, and a son, Hendrix, 10, with ex-wife Torrei Hart.Hart's children were attendants when the couple married in a lavish ceremony last year after dating for several years.",
+      "tones": []
+    }
+  ]
+}

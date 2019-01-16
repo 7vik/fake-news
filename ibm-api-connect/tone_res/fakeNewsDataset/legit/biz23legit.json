@@ -1,0 +1,49 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.535153,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "China's Tencent buys 5% stake in TeslaChinese tech giant Tencent has spent $1.78bn (\u00a31.4bn) on buying a 5% stake in electric carmaker Tesla.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Tencent best known for its WeChat mobile app has been investing in a number of sectors including gaming entmt cloud computing and online financing.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Tesla said the stake was passive meaning Tencent would not get a say in how the US firm was run.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Shares in Tesla rose 2.3% in early trading following the announcement.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Tesla's range of electric cars has included the Model S and the Roadster which was billed as the world's first electric sports car.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "The company also specialises in battery storage and through its SolarCity subsidiary residential solar panels.",
+      "tones": []
+    }
+  ]
+}

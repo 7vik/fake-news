@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.556681,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Uber to shut down Denmark operation over new taxi lawsUber will shut down its operation in Denmark next month following the introduction of new taxi laws the company has said marking the latest European setback for the US ride-booking service.",
+      "tones": [
+        {
+          "score": 0.543033,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "A company spokesman Kristian Agerbo said on Tuesday Uber \"must take the consequences\" of the rules which among other things will require cabs to be fitted with seat occupancy sensors and fare meters.Uber suspends fleet of self-driving cars following Arizona crash.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Uber has faced problems in cities including Madrid Frankfurt Paris and London and is awaiting a decision from the European court of justice that could determine how it is regulated on the continent: as a transport service or a digital platform.",
+      "tones": []
+    }
+  ]
+}

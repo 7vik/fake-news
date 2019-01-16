@@ -1,0 +1,266 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.574504,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.538743,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.5312,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.618583,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.572399,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Angelina Jolie on Cambodia 'awakening'Angelina Jolie has spoken about how Cambodia was her \"awakening\", as she premiered her new film in the country.The actress was speaking exclusively to the BBC before the screening of First They Killed My Father, a true-life account of the Khmer Rouge genocide through the eyes of a child.She said she hoped the film, which she directed, would help Cambodians to speak more openly about the trauma of the period.Jolie, now a UN refugee agency special envoy, first visited Cambodia for the filming of 2001 hit Lara Croft: Tomb Raider.She later adopted Maddox, her oldest son, from Cambodia.\"I",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "came to this country and I fell in love with its people and learned its history, and in doing so learned, how little I actually knew about the world,\" she told the BBC's Yalda Hakim.\"This",
+      "tones": [
+        {
+          "score": 0.693329,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.548904,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "country, for me was my awakening.\"I'll",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "always be very grateful to this country.",
+      "tones": [
+        {
+          "score": 0.921485,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.984135,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "I don't think I ever could give back as much as this country has given me.\"First",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "They Killed My Father is based on a book of the same name by Loung Ung.Ms Ung was five when she and her family were forced to leave their home in the capital, Phnom Penh, by the Khmer Rouge, the regime which ran the country between 1975 and 1979, under Pol Pot.It is estimated that about two million people, around a quarter of the population, were either murdered by the regime or died from starvation and overwork.\"I",
+      "tones": [
+        {
+          "score": 0.629694,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "thought that this war that happened 40 years ago, and what happened to these people, was not properly understood,\" said Jolie.The film is predominantly in the local Khmer language, and Jolie said that while she wanted the wider world to better understand events in Cambodia she hoped it would have an impact domestically too.\"I",
+      "tones": [
+        {
+          "score": 0.552887,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "hope it helps the country speak more,\" she said, as many survivors \"haven't told their children their story\".The film, made by Netflix, was given its world premiere on Saturday inside the Angkor temple complex in Siem Reap, where Tomb Raider was partly filmed.Among those present alongside Jolie and her six children was Cambodia's King Norodom Sihamoni, who in 2005 granted the actress Cambodian citizenship for the work done by an environmental foundation she established in the country.The premiere was the first major public appearance for Jolie since she filed for divorce from Brad Pitt in September last year, citing irreconcilable differences.The couple had been together since 2004 but only married in August 2014.\"It",
+      "tones": [
+        {
+          "score": 0.688451,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "was very difficult,\" Jolie said.",
+      "tones": [
+        {
+          "score": 0.782884,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.961633,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "\"Many people find themselves in this situation.",
+      "tones": [
+        {
+          "score": 0.838593,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "My whole family have all been through a difficult time.",
+      "tones": [
+        {
+          "score": 0.615338,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "My focus is my children, our children.\"We",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "are and forever will be a family and so that is how I am coping.",
+      "tones": [
+        {
+          "score": 0.52181,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.895415,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "I am coping with finding a way through to make sure that this somehow makes us stronger and closer.\"Oscars",
+      "tones": []
+    },
+    {
+      "sentence_id": 14,
+      "text": "2017: what's up for best foreign language film?Cambodia's economy has grown rapidly in recent years, on the back of a large garment sector producing clothes for some of the world's biggest brands.The government of long-time Prime Minister Hun Sen, himself a former Khmer Rouge cadre, takes credit for providing peace and development, but is accused of using heavy-handed tactics and the courts to subdue political opponents.A UN-backed tribunal prosecuting senior Khmer Rouge leaders has convicted just a handful of people.",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "Pol Pot died in 1998.Jolie recently wrote a piece for the New York Times in response to US President Donald Trump's immigration ban, calling for her homeland to make decisions based on fact rather than fear.She was reluctant to talk specifically about Mr Trump but said: \"The American people are bigger than any president.",
+      "tones": [
+        {
+          "score": 0.507457,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.883215,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "I suppose I have faith in my country and in what it is founded on and the values we hold dear.\"I",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "believe that many of the things that we're hearing that we feel are based on a sense of spreading fear or hate or dividing people by race or judgement is un-American.\"At",
+      "tones": [
+        {
+          "score": 0.798088,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.91641,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "this time I think what is amazing is we are seeing people around the world start to speak out for their civil liberties and rights and what they feel.",
+      "tones": [
+        {
+          "score": 0.77003,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.515711,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "In America, we are hearing people say 'this is un-American to me, this is unconstitutional to me.",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "And this is who I am'.\"",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.812649,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.592421,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.519709,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Microsoft Aims to Build on 'Minecraft' SuccessThe Nov. 1 launch of a \"Minecraft\" version tailored for the classroom is exciting educators and parents alike.\"Phenomenal\" is how Mark Minghella describes the test version of \"Minecraft: Education Edition,\" the new iteration of the popular building game.\"I've got an overwhelmingly ... positive attitude toward 'Minecraft' in the classroom,\" says Minghella, a technology teacher in the nation's capital at the British International School of Washington.",
+      "tones": [
+        {
+          "score": 0.704965,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "He says he was familiar with \"Minecraft\" thanks to his two kids.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"It's actually being used for education purposes and not just for students to play games.\"",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Minghella says the game can help students understand the concepts involved with building a sustainable community, as well as how to work collaboratively, overcome obstacles and prioritize tasks.",
+      "tones": [
+        {
+          "score": 0.694514,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

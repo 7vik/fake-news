@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.604318,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.512741,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Basketball 'bible' auction sets sports memorabilia recordThe first 13 rules of basketball sold Friday for more than $4 million setting a record for the highest sales price for sports memorabilia according to Sotheby's which conducted the auction.",
+      "tones": [
+        {
+          "score": 0.618109,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.793846,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The auction house had estimated that Dr. James Naismith's two-page \"Founding Rules of Basketball\" would bring less than half the $4 338 500 that David and Suzanne Booth bid for the 119-year-old document.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"This is the birth certificate.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "It started here said Selby Kiffer, Sotheby's vice president for manuscripts and books department.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Naismith, a Canadian physical education instructor working at a New England YMCA, created the game of Basket Ball\" so students could play a sport indoors in winter.",
+      "tones": [
+        {
+          "score": 0.590194,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Naismith had no idea his invention would catch on so rapidly after the YMCA movement introduced it on an international level.",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

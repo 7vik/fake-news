@@ -1,0 +1,98 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.757543,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.724637,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "New Suicide Fears For Owen Wilson After Dad\u2019s DeathThe death of Owen Wilson\u2019s beloved dad has friends fearing the tortured actor might spiral back into a pit of depression!\u201cOwen is devastated over his dad\u2019s death,\u201d confided a source.",
+      "tones": [
+        {
+          "score": 0.680816,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "\u201cHe meant the world to him!\u201dLegendary",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "TV producer Robert Wilson \u2014 father to actors Owen, Luke and Andrew \u2014 died at 75 on May 5 after a years-long struggle with Alzheimer\u2019s disease.\u201cFor",
+      "tones": [
+        {
+          "score": 0.839971,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "me and my brothers, there just wasn\u2019t a bigger influence on us,\u201d said the Zoolander star, 48.",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.641954,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\u201cI really believe that his spirit gets carried on through me.\u201dAs",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "RadarOnline.com",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "reported, Wilson was rushed to the hospital in Santa Monica, Calif. in August 2007, after swallowing a fistful of prescription pills and cutting his wrists in a suicide bid.Pals revealed the actor had been devastated over a string of failed romances, including a bitter breakup with actress Kate Hudson.By early 2008, Owen was boozing again, and friends feared it could trigger another suicide attempt.Now the loss of his father has sparked new fears for the Wedding Crashers comedian.Said a pal, \u201cWe all need to keep an eye on him.\u201d",
+      "tones": [
+        {
+          "score": 0.538338,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.621089,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

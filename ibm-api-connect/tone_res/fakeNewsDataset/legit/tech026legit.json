@@ -1,0 +1,43 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Amazon has more budget phones to sell youTake a handful of budget phones.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Cut their price even more.",
+      "tones": [
+        {
+          "score": 0.587697,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.965509,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Voila -- you've got another hit on Amazon.The online retailer said Thursday that it's building on the popularity of its discounted phones program, called Prime Exclusive Phones, by adding two more devices to the lineup.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Prime customers in the US can now preorder the Motorola Moto G5 Plus starting at $185, at least $45 below full retail price, or the Alcatel A30 for $60, at $40 off, Amazon said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "These discounted prices, available only to Prime members, come thanks to ads Amazon slaps on the devices' lock screens.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.819753,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.634584,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.839449,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "OJ\u2019s Comeback Plan: \u201cDancing With The Stars\" - EXCLUSIVEOJ Simpson is starting to think about his future and making money, which is why he has begun to assemble a new team who are suggesting that the disgraced former football giant joins the cast of Dancing With The Stars.\u201cThe plan is to find a place to reintroduce OJ to a new audience and hopefully remind his old fans why they once loved him.",
+      "tones": [
+        {
+          "score": 0.909922,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.554467,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "They do not want a big sit-down interview but rather somewhere where he doesn\u2019t need to do a lot of talking, or explaining.",
+      "tones": [
+        {
+          "score": 0.769251,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "A place where he can be funny and charming.",
+      "tones": [
+        {
+          "score": 0.791022,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "That place is \u2018Dancing With The Stars\u2019,\u201d sources tell Straight Shuter.One top PR executive who doesn\u2019t work with OJ tells us that it isn\u2019t such a bad idea.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "However, they doubt that the hit Disney show will want anything to do with him.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.904882,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

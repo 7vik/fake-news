@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.657569,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Chris Pratt responds to body shamers telling him he is gaunt and sickly lookingBig or small Chris Pratt has definitely heard it all, the Guardians of the Universe star 37 is not taking the latest rumors that he is sickly lying down.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Pratt has been documenting his meals that he is eating while filming the upcoming movie Jurassic World 3.",
+      "tones": [
+        {
+          "score": 0.514776,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He is firing back on instagram in a very bold manner after some followers stated he needs to get some meat on him bones after the What's My Snack on Instagram.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Some stated he looks like a skeleton and needs help fast.",
+      "tones": [
+        {
+          "score": 0.909883,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Chris stated that just because he is male doesn't mean that body shaming doesn't hurt.",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

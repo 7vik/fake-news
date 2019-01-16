@@ -1,0 +1,125 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.685973,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.642023,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.594645,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.773856,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sorry ASAP Rocky, Kendall Jenner Has A Desperate Plan To Win Back Harry Styles!Kendall Jenner&nbsp;is dating rapper ASAP Rocky, but according to a source, she has devised a plan to win back her ex, Harry Styles!",
+      "tones": [
+        {
+          "score": 0.549752,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.778006,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "All she has to do is what she does best \u2014 send nudes!In an effort to win Harry\u2019s heart, Kendall has made it clear that she\u2019s laying it all out on the line \u2014 her body that is \u2014 and wants the world to see.",
+      "tones": [
+        {
+          "score": 0.820297,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.825522,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\u201cHer friends are all talking about how she\u2019s trying to impress Harry by flashing her boobs and wearing risque top,\u201d a source told OK! exclusively.",
+      "tones": [
+        {
+          "score": 0.511315,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\u201cShe\u2019s never gotten over Harry Styles, and would take him back in half a heartbeat if he showed even the faintest interest.\u201dWith",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "the successes of Dunkirk, it\u2019s hard for Kendall to not fall in love with the singer/actor all over again, the insider said, \u201cespecially since they\u2019ve crossed paths more than a few times recently and still have a ton of mutual friends.\u201dAs",
+      "tones": [
+        {
+          "score": 0.621525,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "for her current relationship, she isn\u2019t going to let it stop her from sparking up that old flame.",
+      "tones": [
+        {
+          "score": 0.564476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\u201cShe\u2019s not that hot for A$AP, everyone knows it\u2019s a relationship of convenience more than anything,\u201d the source claimed.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "\u201cHe always said she was too prude, she wants to show she\u2019s changed.\u201d",
+      "tones": [
+        {
+          "score": 0.775702,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

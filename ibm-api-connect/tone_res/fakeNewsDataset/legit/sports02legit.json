@@ -1,0 +1,100 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.544322,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.774827,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Rory McIlroy: Muirfield women membership saga was 'obscene'hey finally voted to accept women as members but Rory McIlroy says the need for Muirfield golfers to have a second ballot on the issue was \"obscene\" and \"horrendous.\"",
+      "tones": [
+        {
+          "score": 0.548904,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Honorable Company of Edinburgh Golfers the club based at the East Lothian links voted 80.2% in favor of admitting women this week overturning a ballot that ruled against changing its male-only policy last May.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The course was removed from the British Open rota as a result but reinstated again this week.",
+      "tones": [
+        {
+          "score": 0.929993,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"In this day and age where you've got women that are like the leaders of certain industries and women that are heads of state and not to be able to join a golf course?",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "I mean it's obscene.",
+      "tones": [
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "It's ridiculous McIlroy told a news conference ahead of the Arnold Palmer Invitational event in Florida.",
+      "tones": [
+        {
+          "score": 0.665625,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "So they sort of saw sense.",
+      "tones": [
+        {
+          "score": 0.946222,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "I still think that it got to this stage is horrendous.\"",
+      "tones": [
+        {
+          "score": 0.703409,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

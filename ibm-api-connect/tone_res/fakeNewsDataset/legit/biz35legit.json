@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.554517,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "This is how badly Saudi Arabia needs its big oil IPO to go wellSaudi Arabia gave Saudi Aramco a huge gift this week by slashing the tax rate on the national oil company to 50% from 85%.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The kingdom stressed that the drastically reduced tax rate which is retroactive to the start of 2017 would be offset by dividends and investment profits.",
+      "tones": [
+        {
+          "score": 0.525097,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The enormous tax relief will also add tens of billions of dollars to Aramco's coffers at a time of growing concern over how much the world's largest oil company is actually worth.",
+      "tones": [
+        {
+          "score": 0.732173,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "While Saudi Arabia has said Aramco could be valued at $2 trillion in an expected 2018 IPO some analysts believed that price tag was too generous.",
+      "tones": [
+        {
+          "score": 0.867767,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.73677,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Saudi Arabia badly needs the Aramco IPO to go smoothly because it would generate a cash windfall at a time when plunging oil revenue has blown a hole in its once-vaunted budget.",
+      "tones": [
+        {
+          "score": 0.664451,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

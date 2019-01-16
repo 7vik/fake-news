@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.660221,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.824867,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Scarlett Johansson opens up about 'Ghost in the Shell'Actress Scarlett Johansson opened up about her new film \"Ghost in the Shell addressing the controversy surrounding her being cast as the heroine and discussing the difficulties of being a woman in Hollywood, in an interview with Good Morning America\" anchor Michael Strahan that aired today.",
+      "tones": [
+        {
+          "score": 0.734144,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Johansson said that when \"Ghost in the Shell\" was first brought to her attention it \"seemed incredibly daunting adding that her daughter was still very young, and my head space was not at all like in the 'Ghost in the Shell.'\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"But I thought gosh it's really hard to turn down the opportunity to be front and center for something that has such a built-in fanbase that's like so dedicated and totally obsessed the actress said.",
+      "tones": [
+        {
+          "score": 0.500435,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "And also you know to be able to have the studio back something like this Johansson added, as an actor ... as a woman it's rare.",
+      "tones": [
+        {
+          "score": 0.517604,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.594263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "I hope it's not always so rare but it is.\"",
+      "tones": [
+        {
+          "score": 0.509489,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.946514,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

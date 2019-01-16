@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.652378,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lauren Jeska jailed for Alexander Stadium stabbingsA fell-running champion has been jailed for 18 years for stabbing three UK Athletics staff at a major arena.",
+      "tones": [
+        {
+          "score": 0.520534,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Lauren Jeska a transgender athlete admitted trying to murder Ralph Knibbs at Birmingham's Alexander Stadium.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The \"cool calculated attack\" came amid a dispute over her eligibility to compete as a female.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Birmingham Crown Court heard that Jeska 42 stabbed Mr Knibbs in the head and neck leaving a 2cm hole with \"blood pumping out\".",
+      "tones": [
+        {
+          "score": 0.560611,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.761262,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "White House battles Clintons in Communist tiesWhite House press secretary Sean Spicer Accused former President Bill Clinton and Former Secretary of State Hillary Clinton of having secret ties to Russian intelligence office.",
+      "tones": [
+        {
+          "score": 0.537383,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Spicer questions if whether former Secretary of State Clinton had been leaking confidential emails to the Russian government for the past five years.",
+      "tones": [
+        {
+          "score": 0.604096,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.852209,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Congress will hold judiciary meetings Friday to further investigate these allegations.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "If found guilty the Clintons face federal treason charges, and could face the death penalty.",
+      "tones": [
+        {
+          "score": 0.708371,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.599686,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Uber Self-Driving Car Tests Resume...",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Only to Crash Again!!Uber Technologies Inc.'s self-driving cars were put on standby after a recent wreck in Arizona.",
+      "tones": [
+        {
+          "score": 0.705784,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "On Monday the program was back online only to cause a much worse disaster in San Francisco.",
+      "tones": [
+        {
+          "score": 0.606599,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.641954,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Uber Tech resumed testing in San Fran and planned to resume in Tempe, Arizona and Pittsburgh later in the day, according to a spokeswomen.",
+      "tones": [
+        {
+          "score": 0.775384,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "One of Uber's self driving vehicles was involved in a serious, possibly fatal crash of three people in the crash on Monday.",
+      "tones": [
+        {
+          "score": 0.572751,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "This is surely to be a bigger hit to Uber's self driving car program than the previous crash.",
+      "tones": [
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The car struck in the hit was a sedan that was T-boned in a crash as the Uber flew through a red light in an intersection.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "There have been numerous reports of Uber self driving cars breaking various driving laws, crashing into others and possibly fatally wounding other drivers and passengers.",
+      "tones": [
+        {
+          "score": 0.525372,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

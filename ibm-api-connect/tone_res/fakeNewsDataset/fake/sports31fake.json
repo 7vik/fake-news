@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.592273,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Untruthful Police Officers ImprisonedUnder the new \"Hillsborough Law,\" 12 London policemen have already been jailed for what many observers have termed minor inconsistencies or respectful evasions in their testimony at inquests.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The new law requires total candor from all police officers at every level, and 8 of the jailed policemen have already been sentenced to two-year sentences for giving what their solicitors term \"kind and tactful\" descriptions in open court, rather than the utter transparency the regulations now require.",
+      "tones": [
+        {
+          "score": 0.551946,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.618646,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Labor MP Andy Burnham commented, \"When you're a member of one of these grieving families, sometimes you can't handle the truth.\"",
+      "tones": [
+        {
+          "score": 0.618716,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

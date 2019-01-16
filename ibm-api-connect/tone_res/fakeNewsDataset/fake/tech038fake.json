@@ -1,0 +1,94 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.755003,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Solar-Powered.... Skin?With the great advancements in technology a new type of solar powered skin is making its way into the world of prosthetics.",
+      "tones": [
+        {
+          "score": 0.803684,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Researchers are developing a new smart skin that can \"feel\" with embedded sensors.",
+      "tones": [
+        {
+          "score": 0.626517,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "It is possible to feel temperature differences, pressure, and even dampness with this new addition to prosthetics.",
+      "tones": [
+        {
+          "score": 0.925256,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The \"solar\" part of this new technology comes in when trying to power it.",
+      "tones": [
+        {
+          "score": 0.565086,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "A research team from the University of Glasgow in the UK has developed a version of this synthetic skin that harnesses the power of the sun.",
+      "tones": [
+        {
+          "score": 0.687442,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "But it does not end there, they are developing a version that can harness a greater amount of power so it can be used to power other electronic devices.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Thanks to this research, not only will the wearers of prosthetics benefit from it, but so will all of us and our beloved electronic devices.",
+      "tones": [
+        {
+          "score": 0.538539,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

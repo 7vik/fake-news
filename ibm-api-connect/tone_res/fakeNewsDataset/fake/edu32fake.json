@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.796309,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.542531,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Students Experiment With State of the Art Drones for 4-H National Youth Science DayMore than 100,000 K-12 students from all over the US have been experimenting with new state of the art drones in the 4-H national youth science day \"Drone Discovery Challenge\".",
+      "tones": [
+        {
+          "score": 0.662747,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Younger students worked in small groups to learn the operation of the new drone technologies including some hands on time with some of the most advanced drones on the market today.",
+      "tones": [
+        {
+          "score": 0.559786,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.737379,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "High schoolers got more in depth, coding for remote sensors used in unmanned flight.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "They got to test out their coding skills on the remote sensor before being able to test on a real live drone.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Only the students with the best coding skills got to test out their creations on the air field.",
+      "tones": [
+        {
+          "score": 0.698691,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

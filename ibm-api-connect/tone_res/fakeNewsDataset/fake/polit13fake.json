@@ -1,0 +1,34 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.595512,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Neil deGrasse Tyson praises Trump on budget planAstrophysicist Neil deGrasse Tyson praise Donald Trump on his budget plans that include sending man to the moon again in 2019 and to \"the large-scale economic development of space.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"The fastest way to make America great again: Set a goal to return to the moon,\" he tweeted in praise of the President.",
+      "tones": [
+        {
+          "score": 0.772992,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"the fastest way to make America great again, commit to a bold plan to the business of space development.\"",
+      "tones": []
+    }
+  ]
+}

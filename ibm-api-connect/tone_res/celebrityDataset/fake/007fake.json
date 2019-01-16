@@ -1,0 +1,345 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.582243,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.610725,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.850294,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jennifer Aniston on the Exact Moment She Had It With the Pregnancy RumorsIn July, Jennifer Aniston powerfully spoke out against the constant tabloid pregnancy rumors about her that have circulated through the years, in an op-ed for Huffington Post.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"For the record, I am not pregnant,\" she wrote in it.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"What I am is fed up.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "I'm fed up with the sport-like scrutiny and body shaming that occurs daily under the guise of 'journalism,' the 'First Amendment,' and 'celebrity news.'\"\"If",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "I am some kind of symbol to some people out there, then clearly I am an example of the lens through which we, as a society, view our mothers, daughters, sisters, wives, female friends and colleagues.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.650509,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The objectification and scrutiny we put women through is absurd and disturbing.\"The",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "post went viral-but initially, Aniston wasn't even planning on publishing it.",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "She told Ellen DeGeneres this week that she wrote it at first just for herself.",
+      "tones": [
+        {
+          "score": 0.601274,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "\"You know how we kind of write and don't necessarily send it?",
+      "tones": [
+        {
+          "score": 0.857,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.702145,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Or at least when I was a kid I did that.",
+      "tones": [
+        {
+          "score": 0.544248,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "And yeah, I kind of hit a wall.",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "I was pretty raw at the time, just came back from a vacation.",
+      "tones": [
+        {
+          "score": 0.584871,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.933436,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "My mother sort of-had sort of?-she passed [away],\" Aniston said.She and husband Justin Theroux had gone away to the Bahamas in the middle of \"nowhere\".",
+      "tones": [
+        {
+          "score": 0.813064,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.698904,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "But \"we were mobbed, like a scary kind of mob.",
+      "tones": [
+        {
+          "score": 0.763556,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.928936,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "Like, I didn't know what was happening.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "I kept thinking, 'Is Kim Kardashian behind me or something?",
+      "tones": [
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "This is very strange.'",
+      "tones": [
+        {
+          "score": 0.97759,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "And then it turns out that another wonderful photograph, which I've had to sort of live with for the last 10 to 15 years: a picture of me with a bump and a circle around my stomach with an arrow pointing to it.",
+      "tones": [
+        {
+          "score": 0.746906,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "Just in this sort of kind of objectifying way, and I was just fed up with it.\"She",
+      "tones": [
+        {
+          "score": 0.976993,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "then poignantly echoed the point she made in her piece: that women are defined by more than just being mothers:I think these tabloids, all of us, need to take responsibility on what we ingest into our brains.",
+      "tones": [
+        {
+          "score": 0.745225,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "Just because we are women, we have a uterus, we have a vagina, we have ovaries, we need to like, \"Get to work, lady!\"",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "As opposed to, hello, Freedom Medal.",
+      "tones": [
+        {
+          "score": 0.994057,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": "We as women do a lot of incredible things in this world other than just procreate-and not that that is not-but it's like we just get boxed in.",
+      "tones": [
+        {
+          "score": 0.80346,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.845297,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "They love the narrative, they love the story, they love the \"She's jealous of this person, and she's depressed, and oh my god she's never going to have a...\" Whatever the horrible little headline is, we've just got to break out of that and go whoa, whoa.",
+      "tones": [
+        {
+          "score": 0.830367,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "And women, I have to say, are many of the authors of these horrible articles that are written in these B.S. tabloids.",
+      "tones": [
+        {
+          "score": 0.662611,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "So, we have to stop listening to them, we have to stop buying them because we have to support each other, especially at this time, to love each other, to support, and to be proud of women, of whatever your choice is in life.",
+      "tones": [
+        {
+          "score": 0.841399,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.655433,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "It's up to us what makes us happy and fulfilled.",
+      "tones": [
+        {
+          "score": 0.788531,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

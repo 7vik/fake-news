@@ -1,0 +1,92 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.658859,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.755988,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.502272,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jennifer Aniston's spokesman denies reports the 47-year-old actress expecting 'miracle baby'Jennifer Aniston's representative has denied reports in the US that the 47-year-old actress was&nbsp;pregnant.\"She is not pregnant,\" Aniston's spokesman said on Wednesday, according to the New York Post, adding that it was \"just yet another\" false claim about the actress.InTouch magazine earlier on Wednesday quoted an unnamed friend of the couple as stating Aniston was pregnant.\"She",
+      "tones": [
+        {
+          "score": 0.663752,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "and Justin are ecstatic.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Jen has wanted to have a baby with Justin for years,\" the magazine claimed the friend said.\"Their",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "baby news came at a bad time in her life, too - she just lost her mother, and she and Justin almost broke up.",
+      "tones": [
+        {
+          "score": 0.682816,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.769251,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "But now this surprise pregnancy has turned the worst of times into the best of times.\"Aniston's",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "mother, Nancy Dow, died on May 25.",
+      "tones": [
+        {
+          "score": 0.719764,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "She had suffered strokes in 2011 and 2012.The magazine published pictures that it claimed showed Aniston had a \"baby bump\".",
+      "tones": [
+        {
+          "score": 0.590428,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

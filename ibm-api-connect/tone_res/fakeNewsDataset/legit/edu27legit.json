@@ -1,0 +1,34 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.666889,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.818552,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Harvard Law, Moving to Diversify Applicant Pool, Will Accept GRE ScoresHarvard Law School, moving to open its doors to a larger, more diverse pool of applicants, said on Wednesday that it would accept the graduate record examination, known as the GRE, for the admission of students entering its fall 2018 class.The law school, whose alumni include senators, chief executives, Chief Justice John G. Roberts Jr. and President Barack Obama, is the second accredited law school in the United States to accept the GRE for admission.",
+      "tones": [
+        {
+          "score": 0.560559,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "It follows the University of Arizona James E. Rogers College of Law, which made the change a year ago.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.565167,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.71754,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Roger Federer Beats Roberto Agut, as Spectators Cry FoulIn tennis news, many are saying that aging athlete Roger Federer found it necessary to cheat at the Miami Open.",
+      "tones": [
+        {
+          "score": 0.664327,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "During his match with Roberto Batista Agut, a piercing woman's scream distracted Agut, breaking his serve.",
+      "tones": [
+        {
+          "score": 0.519521,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Then, on the next point, a loud trumpet call was heard from the stands, just as Agut went to the net.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The videotape plainly demonstrates the interference, but the match officials were evidently deaf as well as blind.",
+      "tones": [
+        {
+          "score": 0.944551,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It is hard to believe that a beloved champion has come to this!",
+      "tones": [
+        {
+          "score": 0.575794,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

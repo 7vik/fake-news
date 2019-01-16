@@ -1,0 +1,34 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584719,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.706892,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "6-year-old got gun at LA-area school; families kept in darkRANCHO CUCAMONGA, Calif. - Authorities learned a 6-year-old brought a gun to an elementary school outside Los Angeles, but parents of other students didn't learn about it for nearly two weeks.The student's grandmother found the firearm in his backpack earlier in March.",
+      "tones": [
+        {
+          "score": 0.596871,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Sun newspaper reported (goo.gl/3spf8z) that the child said he received it from another student in the Cucamonga School District, about 40 miles (64 kilometers) east of Los Angeles.",
+      "tones": []
+    }
+  ]
+}

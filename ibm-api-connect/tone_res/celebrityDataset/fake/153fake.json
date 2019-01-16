@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.560356,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.727824,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Caitlyn Jenner Looks to New Girlfriend for Support as She Goes DeafThe wrath of the Kardashians is the least of Caitlyn Jenner\u2019s worries these days.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "At the age of 66, the Olympian is losing her hearing and now has to rely on listening aids in her everyday life.Though ex-wife Kris Jenner has essentially turned her back on Cait during this difficult time, she has seemingly found comfort in hot new squeeze by the name of Sophia Hutchins.",
+      "tones": [
+        {
+          "score": 0.502813,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In fact, a source says the 21-year-old \u2014 who\u2019s also a transgender woman \u2014 is very supportive of the reality star and has been a much-needed shoulder to lean on during this difficult time.",
+      "tones": [
+        {
+          "score": 0.705307,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.519491,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.605143,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

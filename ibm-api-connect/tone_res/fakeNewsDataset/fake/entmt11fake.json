@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.716728,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Rapper Wiz Khalifa suprises his critics with his comments when visiting Pablo Escobar's graveAmerica rap artist Wiz Khalifa typically kicks up controversy and negative criticism with his public antics.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "However, this was not the case when he visited the late Colombian drug lord Pablo Escobar's property and burial place.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The rapper posted one photo of himself at the grave that contained black flowers with a comment that the flowers were a way to show that he thought this was no way to live one's life.",
+      "tones": [
+        {
+          "score": 0.571688,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "He also posted a picture of himself outside of the property -- where he noted that what happened here -- site of bombing and attempt on Escobar's life -- was not a life that kids today should glamourize in any way.",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

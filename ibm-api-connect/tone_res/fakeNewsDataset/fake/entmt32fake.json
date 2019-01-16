@@ -1,0 +1,151 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584243,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.593092,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.887199,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.706448,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Superman to Not Appear in \"Justice League\" MovieWhen the new trailer for \"Justice League\" appeared Saturday, most fans, and even casual viewers alike, noted the obvious lack of the iconic Superman.",
+      "tones": [
+        {
+          "score": 0.555621,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.875003,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Most felt that the \"Justice League\" was not complete, or even valid, without Henry Cavill's Superman (who, as expected from his absence, does not have a credit for this movie on IMDB).",
+      "tones": [
+        {
+          "score": 0.709637,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.866019,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "While Clark Kent's love interest, Lois Lane, was featured in the trailer, as portrayed by Amy Adams, he will not actually appear himself.",
+      "tones": [
+        {
+          "score": 0.689503,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "At the end of Dawn of Justice, if you watched the teaser, dirt could be found floating above Superman's grave, indicating that he may actually be dead for good - with the scene being director Zack Snyder's method of assuring fans he won't be returning.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Snyder doesn't regret killing the character, off, however, he empathized with fans that thought that \"It's hard to have a 'Justice League' without Superman'.",
+      "tones": [
+        {
+          "score": 0.611297,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.672469,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Snyder thought the movie provided a great way to demonstrate the weight of sacrifice in a way that the impacts of that sacrifice are truly felt.",
+      "tones": [
+        {
+          "score": 0.580779,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.767076,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Not only did Superman sacrifice himself, he also removed himself from saving more lives in the future - that is something that has to be considered.",
+      "tones": [
+        {
+          "score": 0.860589,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "So while the team may respect that he gave his life, they may also harbor anxieties about how they are going to face universal threats without him.",
+      "tones": [
+        {
+          "score": 0.794075,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "\"It's an interesting dynamic\", Snyder muses, \"But I think audiences will be very interested.\"",
+      "tones": [
+        {
+          "score": 0.693284,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

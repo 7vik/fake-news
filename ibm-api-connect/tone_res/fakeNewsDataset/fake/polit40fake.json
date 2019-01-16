@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.932329,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Trump friendlier in person?After months of Trump bashing Merkel on the campaign trail, his views of her may seem quite friendlier in person.",
+      "tones": [
+        {
+          "score": 0.836129,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Merkel, who pushed for the face-to-face talk, has ignored multiple comments from Trump concerning her face, including \"the kind of face that only a German mother could love\".",
+      "tones": [
+        {
+          "score": 0.579076,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Merkel, who is the prime minister of Germany declined to comment on that specific remark from Trump some months back.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Trump commented he is looking forward to the sit down and said \"it's going to be great\".",
+      "tones": [
+        {
+          "score": 0.748757,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

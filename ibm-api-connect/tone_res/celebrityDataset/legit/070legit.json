@@ -1,0 +1,119 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.587438,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.634777,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.661544,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.649808,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ellen DeGeneres sends her producer to another haunted houseThis is probably the one time of&nbsp;year you don't want Ellen DeGeneres as your boss.The host&nbsp;loves a good scare, and every year, she sends her executive producer Andy Lassner through a haunted house so she can watch his hilariously terrified reactions on The Ellen DeGeneres Show.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "On Thursday, Andy and his assistant Jacqueline made their way through Universal Studios' terrifying Horror Night Exorcist Maze, much to DeGeneres'&nbsp;delight.The maze was set up with scenes from The Exorcist, creepy little girl, priest, and all.",
+      "tones": [
+        {
+          "score": 0.661311,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Since Andy's a seasoned haunted house vet at this point, he offered up some advice to Jacqueline: \"Look for the feet, sometimes you can tell from the feet.",
+      "tones": [
+        {
+          "score": 0.615371,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.86005,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.733853,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Just know it's coming and it's not scary.\"But",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "even his sound advice couldn't stop the pair from shrieking and recoiling in fear as masked monsters popped out of the darkness.",
+      "tones": [
+        {
+          "score": 0.877426,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "At one point, Andy even sacrificed chivalry for safety, shoving Jacqueline in front of him, causing her to exclaim, \"You go first!",
+      "tones": [
+        {
+          "score": 0.777115,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Can you please be a man?!\"Watch Andy and Jacqueline get an early Halloween fright below.",
+      "tones": [
+        {
+          "score": 0.53064,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

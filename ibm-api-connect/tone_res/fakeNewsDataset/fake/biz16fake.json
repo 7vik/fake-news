@@ -1,0 +1,87 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.641145,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.731998,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.656156,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Elon Musk, the brains behind Tesla, SpaceX, and PayPal has decided to go into early retirement and abandon all current projects.",
+      "tones": [
+        {
+          "score": 0.837444,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "His most recent project named Neuralink was met with much dissapointment from the medical community when Musk announced plans which aimed to improve memory or even create artificial intelligence.",
+      "tones": [
+        {
+          "score": 0.598908,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.765702,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Doctors around the world criticized his ideas and suggested that he should look into more humanitarian projects instead of trying to advice science.",
+      "tones": [
+        {
+          "score": 0.649035,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Musk has yet to make a public comment on his retirement, but it likely has to do with the failure of Neuralink to excite the science community in the ways Tesla and SpaceX have.",
+      "tones": [
+        {
+          "score": 0.606681,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

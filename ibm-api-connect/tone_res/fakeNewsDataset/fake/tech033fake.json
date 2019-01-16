@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.857009,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "NASA Fires Rocket Into The EarthNASA launched a new rocket into the deep middle earth today, in order to dispel the myth of the next rocket exploding.",
+      "tones": [
+        {
+          "score": 0.708196,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "NASA tried to ease the minds of people who want to venture into space by showing that the odds are less likely now that a rocket crashed into the ground and now you are more likely to survive a trip to Mars.",
+      "tones": [
+        {
+          "score": 0.536008,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.590113,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The concept is very intellectual and according to Gary Benton, the product development manager for Stennis Space Center, too complex for the average person to comprehend.",
+      "tones": [
+        {
+          "score": 0.925422,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.641751,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The Space Launch System (SLS) is now taking applications for to Mars.",
+      "tones": [
+        {
+          "score": 0.672469,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

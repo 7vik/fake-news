@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.877359,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.505302,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Dai Young tells Wasps backline to 'ease-up' against Leinster to prevent injury\"Wasps' star-studded backline have been urged to be a little more lax if they intend to stay fit and avoid injury against this poor competitor.",
+      "tones": [
+        {
+          "score": 0.521892,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "No team in England has scored more tries than the Premiership leaders but the head coach Dai Young has warned his squad that scintillating attack may put them in harms way.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The range of crowd-pleasing talent at Wasps' disposal behind the scrum is almost reminiscent of the Harlem Globetrotters with Kurtley Beale Willie le Roux Christian Wade and Danny Cipriani capable of electrifying a game at any moment.",
+      "tones": [
+        {
+          "score": 0.539235,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "This is something the coach hopes to keep alive.",
+      "tones": [
+        {
+          "score": 0.663514,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.976993,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "They don't have room for injury leading up to the playoffs.\"",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

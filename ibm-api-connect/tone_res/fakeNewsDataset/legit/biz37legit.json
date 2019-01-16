@@ -1,0 +1,98 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.560968,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.59949,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.684092,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Hedge fund exec whose former firm was linked to Madoff jumps to his deathCharles Murphy was found dead on the fourth-floor terrace of the Sofitel hotel on Monday according to a police source.",
+      "tones": [
+        {
+          "score": 0.833475,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"We are extremely saddened by this news said John Paulson, the president of Paulson &amp; Co., a separate hedge fund where Murphy worked at the time of his death.",
+      "tones": [
+        {
+          "score": 0.706497,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Charles was an extremely gifted and brilliant man a great partner and a true friend.\"",
+      "tones": [
+        {
+          "score": 0.847851,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.727798,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Murphy once worked for Fairfield Greenwich which invested about $7 billion with Madoff and was later sued by investors who lost money.",
+      "tones": [
+        {
+          "score": 0.589201,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The fund agreed to an $80 million settlement.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Madoff was arrested in December 2008 for running the world's largest Ponzi scheme and defrauding investors of $20 billion.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "He pleaded guilty to fraud charges.",
+      "tones": [
+        {
+          "score": 0.574453,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Now 78 he is serving 150 years in a federal prison in North Carolina.",
+      "tones": []
+    }
+  ]
+}

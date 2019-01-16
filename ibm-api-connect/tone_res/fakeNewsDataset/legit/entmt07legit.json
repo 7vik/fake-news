@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Shailene Woodley reaches deal to avoid jail over pipeline protestUS actress Shailene Woodley has reached a plea deal over her involvement in the protest against the Dakota Access oil pipeline.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Woodley star of the Divergent series was one of 27 people arrested at the site last October.",
+      "tones": [
+        {
+          "score": 0.668804,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She has now signed a document agreeing to plead guilty to misdemeanour disorderly conduct which would mean she would avoid jail.",
+      "tones": [
+        {
+          "score": 0.719382,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The pipeline project has been highly controversial and drawn huge protests.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Native Americans say it will desecrate sacred land and damage the environment.",
+      "tones": [
+        {
+          "score": 0.652291,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

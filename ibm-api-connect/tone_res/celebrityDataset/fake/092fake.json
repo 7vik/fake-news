@@ -1,0 +1,49 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.605922,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.697115,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.798695,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Drake Facing Gay Rumors After Getting Frisky With Another Man...",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Weeknd! [PHOTOS]Drake has had some very high profile relationships with famous women, including Rihanna and Jennifer Lopez, but he may have also included some men in the mix...According to MTO News, many eyebrows have been raised by the way the Canadian rapper interacted with fellow Canadian superstar The Weeknd at a recent concert.While they had a falling out years ago, these photos seem to prove they've clearly gotten a lot closer.",
+      "tones": [
+        {
+          "score": 0.545919,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.586375,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "From sensually gazing into each others' eyes&nbsp;to how tight their pelvises are pressed against each other, there may be something they're keeping from the public.View the photos for yourself here and let us know what you think!",
+      "tones": []
+    }
+  ]
+}

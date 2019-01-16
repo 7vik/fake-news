@@ -1,0 +1,87 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.659986,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.63,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Taylor Swift Debuts a Bold Makeunder on Her Reputation Album CoverTaylor Swift has officially returned.",
+      "tones": [
+        {
+          "score": 0.575303,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "This morning, after a social media blackout followed closely by cryptic clips of a coiling, striking snake, Swift pulled back the curtain on her forthcoming album, Reputation \u2014which expects a November 10 release, according to a subsequent frame\u2014with a stark black and white beauty shot featuring a new take on her trademark beauty look.Gone are the bangs, the polished bob , and the fringed shag .",
+      "tones": [
+        {
+          "score": 0.730799,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In their place, the singer debuts a dampened mane of soft, finger-raked waves, with a hint of James Dean volume at the crown.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The homage makes sense: the singer's portrait strikes a rebellious note, from her posturing to the silver chain choker around her neck.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "And though makeup is still present, Swift's painted matte lip looks more femme fatale than ladylike, coupled with bare skin and long eyelashes.",
+      "tones": [
+        {
+          "score": 0.602781,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Considering the album's telling title, and the clever repurposing of social media's favorite snake emoji, it seems Swift is taking her image into her own hands.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "So far, devil-may-care looks good on the pop star.",
+      "tones": [
+        {
+          "score": 0.61597,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

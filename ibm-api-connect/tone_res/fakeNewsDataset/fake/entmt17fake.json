@@ -1,0 +1,113 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.541618,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.524716,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.742043,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Big Support for Feminist Tomi LahrenTomi Lahren is known for her online video discussions on feminism and women's rights.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "She is loved by both liberals and conservatives for speaking her mind and speaking up for both women and minorities.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "In one video she says, \"Feminists are about the freedom of expression.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "It doesn't matter your size or sexual preference.\"",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.803567,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Lahren may be a young (25-year-old) woman, but her comments and videos are filled with kindness and support.",
+      "tones": [
+        {
+          "score": 0.579633,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "For example, in one video she states, \"Syrian refugees fleeing for their lives, and the lives of their children, are brave souls leaving behind their home and country.\"",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "She later tweeted, \"America is known for faith, family, and freedom.",
+      "tones": [
+        {
+          "score": 0.752246,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.825035,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Please, remember these ideals and accept and help Syrians trying to enter into our country.\"",
+      "tones": [
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

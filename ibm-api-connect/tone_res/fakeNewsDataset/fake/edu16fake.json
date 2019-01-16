@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.511366,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.813811,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Obama Administration sets new rule for children entering High SchoolThe Obama administration set a bill in motion last week that would require all incoming freshmen to undergo background checks before being allowed to attend classes.",
+      "tones": [
+        {
+          "score": 0.753251,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "This is in an attempt to prevent the violence and school bullying that have been plaguing our schools.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Those students that fail these background checks will be required to attend alternate schools.",
+      "tones": [
+        {
+          "score": 0.586919,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.858259,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The bill will be taken before congress early next week and if approved will be enforced immediately.",
+      "tones": []
+    }
+  ]
+}

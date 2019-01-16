@@ -1,0 +1,345 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.574748,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.600356,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.75555,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.601598,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Oscars: Mel Gibson, Casey Affleck and Hollywood's Sliding Scale of Moral PunishmentThe men's restroom of the Landmark Theatres in West L.A. is as good a place as any to gauge the true sentiments of Oscar voters.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Following a showing of Hacksaw Ridge a few Saturdays ago, I found myself washing my hands next to two gentlemen \u2014 both appeared to be about 63, the average age of Academy members, with one wearing a Kung Fu Panda 2 cap (the kind of hat a grown man doesn't wear unless he worked on the movie) discussing what they had just seen.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"Didn't want to like that one but ... ,\" the first man said, trailing off.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"But Mel can direct,\" the friend finished.I knew instantly why they were conflicted.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "This season, admiration for Hacksaw Ridge as an emotional and deftly staged World War II action drama has come despite the fact that its filmmaker has made anti-Semitic and misogynistic comments.",
+      "tones": [
+        {
+          "score": 0.676008,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Hacksaw is one of several films in the awards race featuring marquee talent with personal issues in their pasts, highlighting the age-old concern of whether voters should judge the man (and yes, they're all men in this situation), his work or a combination of both?Like my two restroom pals, awards voters so far this season have been embracing Gibson.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Hacksaw Ridge has landed on the AFI top 10 list and earned seven Critics' Choice and three Golden Globe noms, including best picture (drama) and best director for Gibson.",
+      "tones": [
+        {
+          "score": 0.721179,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "It's a pretty remarkable turn for a filmmaker who, just six years ago, was fired by his own agents.At the same time, awards bodies (aside from the NAACP, which nominated it for six Image Awards) and critics groups have ignored The Birth of a Nation, a film that just 11 months ago was lauded by many tastemakers as a sure-fire best picture nominee and the antidote to #OscarsSoWhite.",
+      "tones": [
+        {
+          "score": 0.570594,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "But that was before the details of filmmaker-star Nate Parker's college rape trial resurfaced this summer, along with the news that his accuser had committed suicide.",
+      "tones": [
+        {
+          "score": 0.738723,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "So low have Birth's awards prospects sunk that the film didn't even appear on lists of Globe or SAG Award snubs.",
+      "tones": [
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "And Fox Searchlight, which typically hosts a \"holiday party\" to allow its talent to mingle with voters, turned this season's soiree into a celebration of Jackie, its other contender, ignoring Birth.Why do some personal troubles stick to movies while others seem to not bother voters?",
+      "tones": [
+        {
+          "score": 0.623308,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.542121,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "That question has arisen throughout Oscar history.",
+      "tones": [
+        {
+          "score": 0.93884,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "Russell Crowe's assault of a BAFTA producer is said to have cost him an Oscar for 2001's A Beautiful Mind, but in 2003, Roman Polanski won best director for The Pianist even though he couldn't accept his award in person because he is a fugitive from justice after pleading guilty to unlawful sex with a minor, then 13, in 1977.This year, these issues haven't only swirled around Gibson, Parker and, to a lesser extent, Woody Allen, whose latest film, Cafe Society, arrived at Cannes amid renewed allegations by his son Ronan Farrow that Allen had sexually abused Ronan's sister Dylan.",
+      "tones": [
+        {
+          "score": 0.564199,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "Some have questioned why Casey Affleck, a best actor frontrunner for his powerful performance in Manchester by the Sea, has not been subject to Nate Parker-style scrutiny for the two sexual harassment lawsuits filed against him in 2010 by a female producer and a director of photography who claimed Affleck tormented them during the making of the bizarre mockumentary I'm Still Here.",
+      "tones": [
+        {
+          "score": 0.544152,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "DP Magdalena Gorka's suit claimed she was made to suffer \"a nearly daily barrage of sexual comments, innuendo and unwelcome advances by crewmembers, within the presence and with the active encouragement of Affleck.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "Affleck denied the allegations and settled the suits for a reported $2 million.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "So far, he's picked up a Gotham Award and a Critics' Choice win.Some have insinuated that Parker's race played a role in his banishment, either consciously or subconsciously.",
+      "tones": [
+        {
+          "score": 0.53396,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.841239,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "And they may be right.",
+      "tones": [
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "Another factor might be the especially shocking nature of the claims against him, despite his acquittal, or his refusal in media interviews to apologize, or the fact that sexual assault is dramatized in his film.",
+      "tones": [
+        {
+          "score": 0.809997,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "But it might also be the clubby nature of Hollywood that forgives those perceived as insiders and gives no benefit of the doubt to those who aren't.",
+      "tones": [
+        {
+          "score": 0.616194,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.698904,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "Affleck, a Hollywood presence for almost as long as his brother Ben, is an insider.",
+      "tones": [
+        {
+          "score": 0.542274,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "Gibson, movie star and best picture winner for Braveheart, is another insider.",
+      "tones": [
+        {
+          "score": 0.82204,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": "He was sent to directors jail for a decade before reemerging this year, and voters seem to be saying enough time has passed.",
+      "tones": [
+        {
+          "score": 0.730035,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "Also, his movie is really good.This time of year, it's all about getting voters to actually see the contenders.",
+      "tones": [
+        {
+          "score": 0.743303,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.767592,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "And while one Oscar-nominated producer recently told me he felt an \"ickiness\" when deciding to pop in his Hacksaw screener, he did it anyway and liked the film.",
+      "tones": [
+        {
+          "score": 0.711887,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "This same producer didn't think twice about watching Manchester.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.901894,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "But, like many, he hasn't even bothered to open his Birth of a Nation screener.",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

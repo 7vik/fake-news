@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.855794,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "The New York City public school system has publicly denounced the Kellogg Company for the companies support of America's controversial travel ban.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Instead the school system took many submissions from illegal immigrants from the area and a student taste test to decide a menu that is deemed cultural and ethnically harmonious.",
+      "tones": [
+        {
+          "score": 0.655013,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Students can now choose thick Canadian syrup for breakfast as well as other traditional foods from around the world.",
+      "tones": [
+        {
+          "score": 0.743163,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.809841,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The program thus far has been met with high praise from the social justice warrior community as well as the parents from this highly Liberal area.",
+      "tones": [
+        {
+          "score": 0.510818,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.877865,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Hopes are to have this kind of shift happen to all schools in the Northeast by the end of 2018.",
+      "tones": []
+    }
+  ]
+}

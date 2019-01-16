@@ -1,0 +1,75 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.615876,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Bill O'Reilly apologizes after making racially charged joke about congresswomanFox News host Bill O'Reilly apologized Tuesday after coming under fire for mocking a black congresswoman's hair.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "During an appearance on \"Fox &amp; Friends O'Reilly reacted to a clip of Rep. Maxine Waters (D-CA) delivering a speech on the floor of the House of Representatives.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "I didn't hear a word she said O'Reilly said of Waters.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "I was looking at the James Brown wig.\" \"If we have a picture of James Brown -- it's the same wig he added.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The remarks were widely denounced as both racist and sexist on Twitter, where O'Reilly's name was trending Tuesday morning and afternoon.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "In a statement Tuesday afternoon, O'Reilly expressed regret for the remarks.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "As I have said many times I respect Congresswoman Maxine Waters for being sincere in her beliefs he said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "I said that again today on Fox &amp; Friends calling her 'old school.'",
+      "tones": [
+        {
+          "score": 0.510191,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Unfortunately I also made a jest about her hair which was dumb.",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "I apologize.\"",
+      "tones": [
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.903803,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ex-US Attorney Barbara McQuade will teach law at MichiganFormer U.S. Attorney Barbara McQuade will teach at University of Michigan law school.The school said Tuesday that McQuade will teach criminal law, criminal procedure and national security law.",
+      "tones": [
+        {
+          "score": 0.638987,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "She has undergraduate and law degrees from Michigan.McQuade says helping today's students develop a deep understanding of the legal system \"has never been more important.\"She",
+      "tones": [
+        {
+          "score": 0.568892,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "was chief federal prosecutor in eastern Michigan for seven years, after 12 years as an assistant U.S. attorney.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The Trump administration last week told all U.S. attorneys appointed by President Barack Obama to step down.",
+      "tones": [
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

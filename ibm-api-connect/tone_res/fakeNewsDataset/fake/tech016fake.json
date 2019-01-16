@@ -1,0 +1,88 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.564436,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.535153,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.859242,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "New intelligence suggests ISIS rigging laptop batteries to cause explosion on planesOn Tuesday, US and British intelligence cited intelligence that ISIS recruits have been trained to rig laptop computers and tablets into explosive devices using the battery of the devices as an explosive trigger.",
+      "tones": [
+        {
+          "score": 0.541591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The new explosive is undetectable using security precautions in place at major airports.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Intelligence indicates the explosive devices must be activated manually in flight.",
+      "tones": [
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.862286,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Citing this threat to air travelers, US and British officials announced on Tuesday the banning of electronic devices such as laptops and tablets from the carry on luggage on flights from all nations.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"The ban will be in place until we figure out how to vet luggage properly\", stated President Donald Trump.",
+      "tones": [
+        {
+          "score": 0.574853,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.705784,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

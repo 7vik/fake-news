@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.672813,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.524725,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Hillary Clinton, Mocking and Taunting in Debate, Turns the TormentorShe mansplained him.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"Let me translate that if I can,\" Hillary Clinton said dryly after Donald J. Trump talked up his tax plan.She interrupted him.",
+      "tones": [
+        {
+          "score": 0.663387,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "When Mr. Trump boasted of the gilded Las Vegas hotel that bears his name, Mrs. Clinton leaned into her microphone.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Made with Chinese steel,\" she quipped with a smile.She mocked him.",
+      "tones": [
+        {
+          "score": 0.886796,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "After Mr. Trump said President Vladimir V. Putin of Russia had \"no respect\" for her, Mrs. Clinton slyly posited why Mr. Putin seemingly preferred Mr. Trump: \"He'd rather have a puppet as president of the United States,\" she said.",
+      "tones": []
+    }
+  ]
+}

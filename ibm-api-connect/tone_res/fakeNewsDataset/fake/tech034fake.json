@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.572198,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.789051,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Samsung's new AI assistant is being named Bixby Siri AlexaSamsung has decided to name their new AI assistant with a traditional and customary flare which includes a first, middle and last name.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The basic idea is that people really want to emotionally connect with their AI and the research has shown that the easiest letters to remember is BSA.",
+      "tones": [
+        {
+          "score": 0.556554,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.827846,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Galaxy S8, Samsung's head of research and development Injong Rhee expressed in a recent blog post that the idea of stringing together the most popular AI assistant names is brilliant, simple and rolls off the tongue.",
+      "tones": [
+        {
+          "score": 0.640069,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.561168,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The key is the first name is Bixby and it is a strategic one upper chess move.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.61771,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.757162,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Toronto Cancels U.S. Class Trips Due To Trump Travel Ban ConcernsCanada's largest school board has barred all future field trips to the United States because of concerns that some students could get caught up in President Donald Trump's travel ban.",
+      "tones": [
+        {
+          "score": 0.754206,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "And a girls chorus in California just became the latest U.S. institution to ditch an overseas trip for the same reason.The Toronto District School Board wrote in a letter to principals Thursday that its decision was passed unanimously at a meeting held the previous night, amid concerns for protecting student safety and embracing values of equity and inclusion.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Trustees also feared that border problems could scuttle trips at the last minute for students who often fundraise for many months to pay for travel.",
+      "tones": [
+        {
+          "score": 0.818839,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.594263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

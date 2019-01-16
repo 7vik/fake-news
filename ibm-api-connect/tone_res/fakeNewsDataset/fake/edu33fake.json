@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.756847,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.51064,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Schools Moving to 1 Hour DaysTeachers will be happy, but parents won't be with the new 1 hour per day shift.",
+      "tones": [
+        {
+          "score": 0.833322,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Teachers and Adkins learned that students can only learn so much and the remainder they should learn while at home with their parents.",
+      "tones": [
+        {
+          "score": 0.557808,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.716804,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The other reason is to being down costs and this saves a lot of money.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "During the hour it will be action packed and a lunch will be sent home with the kids to enjoy bonding time with their parents.",
+      "tones": [
+        {
+          "score": 0.705219,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

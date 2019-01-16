@@ -1,0 +1,33 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Shock Tasers Help Texas Student With Science ClassCORPUS CHRISTI, Texas (AP)- The police department loaned a number of electric shock tasers to the local elementary school in order for the students to get a hands on experience with how science plays a role when you commit a crime.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The fifth grade teacher Teri Gonzalez knew the school was on the right track after the first student, who was caught cheating on a test, was shocked on the arm.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Corpus Christi Caller-Times has reported that shocking a student is not a violation of any civil rights because all of the parents have signed a waiver agreement.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The school has noticed that cheating has been reduced to zero.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

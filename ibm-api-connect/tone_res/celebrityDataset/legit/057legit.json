@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.618452,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.859353,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.775145,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Is Evian Water The Secret Behind Cameron Diaz's Great Skin?",
+      "tones": [
+        {
+          "score": 0.850936,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Read more at: https://tr.im/207sZThis is one of those rumors that is so ridiculous we wish it were true! Star magazine is reporting in their latest issue that A-list actress Cameron Diaz only uses bottled water to bathe.\"Nothing but the best for Cameron, who has admitted to using only Evian water to wash her sensitive skin.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Good thing she earns $18 million a movie!\"RumorFix reached out to a friend of Cameron's who gave us the real deal regarding the rumor.",
+      "tones": [
+        {
+          "score": 0.589547,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.702145,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Asked if the Bad Teacher only used bottled water for bathing, we were told, \"No!",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Of course not.\"We also did a little digging after the fact and discovered that back in 2000, Cam did once admit to using Evian water for washing her face, but not her entire body as indicated in the article.",
+      "tones": [
+        {
+          "score": 0.82831,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.736413,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "We can see how Star came to their conclusion, but it's a total exagerration based off a statement made 11 years ago and now, just not true.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.621987,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.60144,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kanye West Wants to Enter Cosmetics Business Like KylieKanye West&nbsp;wants to go head-to-head with his famous sister-in-law ... diving head first into the cosmetic biz dominated by Kylie Jenner.Kanye's filed legal docs declaring his intention to produce DONDA brand makeup, perfumes, lotions and other cosmetics.",
+      "tones": [
+        {
+          "score": 0.628311,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Donda, of course, is Kanye's beloved mom who passed away in 2007.He'll be up against some stiff family competition.",
+      "tones": [
+        {
+          "score": 0.827313,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Kylie's cosmetics sell out within minutes ... some resell on eBay for 10 times the retail value.Kanye's application to snag the DONDA cosmetics line is currently being processed but our sources say at this time he's only filed the paperwork in case something develops.He's made it clear ... Kanye wants to be the new Martha Stewart, creating a lifestyle brand that includes credit cards, cars, wallpaper screens, furnishings, video games, amusement parks, hotels, fitness centers and healthy fast food.So which one's gonna give Kim lip?",
+      "tones": [
+        {
+          "score": 0.659973,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

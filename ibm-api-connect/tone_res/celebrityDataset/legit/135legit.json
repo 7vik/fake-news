@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.635911,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.504824,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brad Pitt Responds To Rumours He\u2019s Dating Princess Charlotte Of MonacoThe rumour mill went into overdrive when reports started circulating that Brad Pitt had been spotted at an LA party with Princess of Monaco Charlotte Casiraghi \u2013 an Angelina Jolie lookalike \u2013 but apparently, sources close to the star have slammed the claims.Pitt was reportedly spotted at a Los Angeles County Museum of Art event with the Princess \u2013 who is the granddaughter of Grace Kelly \u2013 but according to The Sun, they are not attached romantically.Both stories come from unnamed sources, so it\u2019s impossible to know who\u2019s telling the truth.",
+      "tones": [
+        {
+          "score": 0.741122,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Like Pitt, 53, Casiraghi, who is 31, has endured a high-profile separation and has children from a previous relationship.They are said to have been introduced by Pitt\u2019s Allied co-star Marion Cotillard, who is a close friend of Casiraghi\u2019s.Pitt and Jolie announced they had filed for divorce in September 2016, as stories of Pitt\u2019s alcohol and drug abuse started circulating.",
+      "tones": [
+        {
+          "score": 0.598347,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "They have six children together.",
+      "tones": []
+    }
+  ]
+}

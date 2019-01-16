@@ -1,0 +1,46 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.867679,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Twitter removes anti-troll toolsIn a bold statement by Ed Ho, Twitter's vice-president of engineering, \"Twitter is no longer going to be censored because of a few bad apples!\".",
+      "tones": [
+        {
+          "score": 0.811849,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Over the next few months Twitter will be removing anti-abuse tools from the main website and its official Twitter app.",
+      "tones": [
+        {
+          "score": 0.561728,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Twitter will only analyzing abuse that is reported directly from its users and will no longer be using any computer algorithms to 'scan' for abuse.",
+      "tones": [
+        {
+          "score": 0.796123,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

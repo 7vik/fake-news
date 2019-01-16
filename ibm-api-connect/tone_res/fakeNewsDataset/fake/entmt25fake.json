@@ -1,0 +1,86 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.602437,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.71227,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.586266,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Alec Baldwin Quits Playing President Trump after Secret MeetingAlec Baldwin has decided to up his role playing on Saturday Night Live after a secret meeting with President Trump.",
+      "tones": [
+        {
+          "score": 0.755203,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "During the meeting, Baldwin and Trump put aside their political differences and became quite friendly.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Baldwin stated \"I am truly sorry for portraying Trump in a bad light but at the time I was totally against what he stood for, but now, after the meeting, we cleared the air and became quite good friends.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "I truly understand where he is going and will now play him as the \"Good\" president.",
+      "tones": [
+        {
+          "score": 0.634036,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "He stated \"I think to myself, why did I portray him that way when all along I secretly believed in him?\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Although he has parlayed it into a satirical book, He will let the truth be known next month in his Vanity Fair article.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

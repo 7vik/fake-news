@@ -1,0 +1,103 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.562085,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Emma Thompson felt 'too fat' to live in LABritish actress Emma Thompson has said she never moved to Los Angeles because she felt she was deemed \"too fat\" when she visited.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"It is a strange place and I couldn't live there she told Swedish chat show Skavlan.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Oscar winner also condemned the pressure on actresses to be thin.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The anorexia - there are so many kids girls and boys now and actresses who are very very thin who are into their 30s [and] simply don't eat she said.",
+      "tones": [
+        {
+          "score": 0.73959,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The star also revealed she threatened to quit working on 2008 film Brideshead Revisited in reaction to a co-star who had been told to shed the pounds.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "She said: The producers said to her 'Will you lose some weight?'.",
+      "tones": [
+        {
+          "score": 0.651213,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "She was absolutely exquisite.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.992572,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "\"I said to them 'If you speak to her about this again on any level I will leave this picture.",
+      "tones": [
+        {
+          "score": 0.704683,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "You are never to do that'.",
+      "tones": [
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

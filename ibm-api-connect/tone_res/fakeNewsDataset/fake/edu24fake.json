@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.529246,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.667008,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Hillary Clinton: Keynote Speaker at Wellesley CollegeDemocratic Presidential Candidate Hillary Clinton will provide the commencement speech at her home college, Wellesely.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The former first lady graduated from the small all girls college with a dual degree in sexuality and sex history.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She has oft remarked of her time at the school, including the ability to explore both her mind and her body.",
+      "tones": [
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "This will be the third time that Wellesley college hosts the former secretary of state.",
+      "tones": []
+    }
+  ]
+}

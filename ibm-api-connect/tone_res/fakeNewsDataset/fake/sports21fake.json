@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.616243,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.798611,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.612385,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Argentina felt gratitude after their victory of the suspended Lionel Messi as they beat Bolivia 2-0 in La Paz in a key World Cup qualifying game.",
+      "tones": [
+        {
+          "score": 0.866753,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Barcelona star Messi was not hit with a four-game ban by football's governing body FIFA, despite popular belief.",
+      "tones": [
+        {
+          "score": 0.8766,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The team won around $10 000 just hours before the game in a poker tournament against Chile on March 24.",
+      "tones": [
+        {
+          "score": 0.514357,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "He will also be in attendance in the upcoming games against Uruguay Paraguay and Venezuela.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Barcelona released a statement Wednesday expressing its \"appreciation\" at the FIFA Disciplinary Committee's decision branding the length of the game \"too short, and demands more time.\"",
+      "tones": [
+        {
+          "score": 0.641743,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.874319,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

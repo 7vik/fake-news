@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.64617,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.622398,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sources: FBI investigation continues into 'odd' computer link between Russian bank and Trump Organization(CNN)Federal investigators and computer scientists continue to examine whether there was a computer server connection between the Trump Organization and a Russian bank, sources close to the investigation tell CNN.Questions about the possible connection were widely dismissed four months ago.",
+      "tones": [
+        {
+          "score": 0.618909,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "But the FBI's investigation remains open, the sources said, and is in the hands of the FBI's counterintelligence team -- the same one looking into Russia's suspected interference in the 2016 election.One",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "U.S. official said investigators find the server relationship \"odd\" and are not ignoring it.",
+      "tones": [
+        {
+          "score": 0.560174,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "But the official said there is still more work for the FBI to do.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Investigators have not yet determined whether a connection would be significant.",
+      "tones": [
+        {
+          "score": 0.905748,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

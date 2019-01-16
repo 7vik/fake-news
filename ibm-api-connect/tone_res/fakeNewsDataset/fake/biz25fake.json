@@ -1,0 +1,60 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.734364,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.613834,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "German Power Spat With Denmark Gets Fixed\"A long-running squabble between Denmark and Germany over power cables linking the countries has improved the amount of electricity Nordic producers can supply to Europe's biggest market to the greatest level in 17 years.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Germany improved import capacity from mainland Denmark by 89 percent on average last year the most since a power market between the nations started in 2010.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "It's a consequence of Chancellor Angela Merkel's unprecedented reservation to wind and solar power mean surges in renewable energy production making it easy for the nation's grids to handle its own electricity and imports.",
+      "tones": [
+        {
+          "score": 0.5761,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.809841,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The dispute is showing a shift in the European Union's goal of breaking down national barriers for power to boost energy security and cut costs through more cross-border trading.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Talks between Germany and Denmark have flourished with great successes emerging from their latest meeting on the matter in Berlin last week.\"",
+      "tones": [
+        {
+          "score": 0.766675,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

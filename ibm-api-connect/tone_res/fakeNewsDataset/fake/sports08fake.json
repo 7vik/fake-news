@@ -1,0 +1,119 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.607514,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.622251,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.703536,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Stan Wawrinka proves victorious of Roger FedererStan Wawrinka wows the crowd and beats five-time British Open champion Roger Federer.",
+      "tones": [
+        {
+          "score": 0.586321,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "After nursing a torn ACL and concurrent last-place finishes in all matches this year, Wawrinka makes a comeback in the British Open.",
+      "tones": [
+        {
+          "score": 0.50018,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Wawrinka's history making comeback makes him only the second male player since 1942 to win the Open after a losing season.",
+      "tones": [
+        {
+          "score": 0.545907,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.597565,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"I just want to thank my family and friends,\" said Wawrinka.",
+      "tones": [
+        {
+          "score": 0.812333,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"A month ago, I couldn't even walk.",
+      "tones": [
+        {
+          "score": 0.641136,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "They had to do everything for me - even help me to the john!\" he added.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Meanwhile, Svetlana Kuznetsova beats Elena Vesnina, in spite of her own set of injuries last fall.",
+      "tones": [
+        {
+          "score": 0.646877,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.945871,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.639299,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.880755,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Owen Wilson Says His Kids Are Turning into Little Comedians \u2013 Watch!Owen Wilson is opening up about his kids\u2019 potential careers in comedy!The 48-year-old actor stopped by The Ellen Show to promote his upcoming movie Cars 3 on Thursday (June 8).PHOTOS: Check out the latest pics of Owen WilsonDuring his appearance, Owen talked about his two sons \u2013 Ford, 6, and Finn, 3 \u2013 and said that they\u2019re both turning into funny, little guys!\u201cAnything",
+      "tones": [
+        {
+          "score": 0.738678,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Ford says is just the funniest thing ever,\u201d Owen said.",
+      "tones": [
+        {
+          "score": 0.594484,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\u201cAnd I can make a joke and it\u2019s, like, crickets.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "It\u2019s like nothing from those guys.\u201d\u201cSometimes it feels like I\u2019m already seeing how they\u2019re gonna be as teenagers,\u201d Owen said.",
+      "tones": [
+        {
+          "score": 0.754709,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.876534,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\u201cWhere they\u2019re gonna be ganging up on me.\u201d",
+      "tones": []
+    }
+  ]
+}

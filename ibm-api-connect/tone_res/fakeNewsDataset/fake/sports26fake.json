@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.704954,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.890603,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Maria Sharapova admits she doped\"Maria Sharapova said she feels relieved after admitting Sunday that she had participated in doping.",
+      "tones": [
+        {
+          "score": 0.540019,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Russia's former world No1 was initially barred for two years after testing positive at the 2016 Australian Open for meldonium a medication she had been taking for 10 years within the rules but that was reclassified as a banned drug.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "She will not return at April's Porsche Grand Prix.",
+      "tones": [
+        {
+          "score": 0.781952,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Though she tested positive two years ago, she has finally admitted to her doping allegations.\"",
+      "tones": [
+        {
+          "score": 0.72113,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

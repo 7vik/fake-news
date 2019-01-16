@@ -1,0 +1,34 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.603793,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Survey Shows Overwhelming College Applications from Interntional StudentsAccording to a recent 2017 study, there is a rise in international college applications in colleges across the country.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Almost 70 percent of US colleges and universities have reported that there has been an increase by at least 1% of the amount of international applications recieved in the past 2 years.",
+      "tones": [
+        {
+          "score": 0.74075,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Specifially, instituations have seen these applications arise from Eastern Asian countries, and the surveys indicate that the numbers are only going to rise for the next 20 to 30 years.",
+      "tones": []
+    }
+  ]
+}

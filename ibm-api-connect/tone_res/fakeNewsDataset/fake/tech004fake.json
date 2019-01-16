@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584467,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.881046,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Netflix is testing out commercials, and viewers are hating itIn a bid to generate more revenue and keep monthly pricing low, Netflix is experimenting with adding commercials to its streams.",
+      "tones": [
+        {
+          "score": 0.595084,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Netflix spokesperson Smita Saran said the feature is one of \"hundreds\" of A-B tests that the company conducts each year to try out new features.",
+      "tones": [
+        {
+          "score": 0.5449,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"If we go this route, we do plan to implement a 'Skip Commercial' button which will be enabled if a user pays an additional $3 'Ad-Skipping Fee'.",
+      "tones": [
+        {
+          "score": 0.652411,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "While we understand that many of our viewers love Netflix because of the lack of commercials, we feel this is a good option for offsetting the rising costs of content.",
+      "tones": [
+        {
+          "score": 0.875484,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.888875,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

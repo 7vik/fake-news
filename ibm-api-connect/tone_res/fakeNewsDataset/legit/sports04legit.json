@@ -1,0 +1,99 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.636154,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.585029,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lawrence Okolie: Olympian wins in 20 seconds on professional debutRio 2016 Olympian Lawrence Okolie took just 20 seconds to score a knockout win on his professional debut.",
+      "tones": [
+        {
+          "score": 0.72111,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The 24-year-old British cruiserweight caught compatriot Geoffrey Cave with two solid right hands.",
+      "tones": [
+        {
+          "score": 0.527622,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The bout followed Anthony Crolla's points defeat by Jorge Linares at Manchester Arena.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Sorry to everyone that missed me fighting Okolie tweeted.",
+      "tones": [
+        {
+          "score": 0.66223,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The good news is a Won by KO in 20 seconds!! Bad news is I'm back in the cage for now.\"",
+      "tones": [
+        {
+          "score": 0.571689,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "London-based Cave 33 has now lost all three of his professional fights.",
+      "tones": [
+        {
+          "score": 0.568711,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Okolie competed at heavyweight and lost to Cuban Erislandy Savon at the last-16 stage at the Rio Olympics.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "He hopes to become a world champion within four years and is scheduled to fight on the undercard of Ricky Burns' super-lightweight unification bout with Julius Indongo on 15 April.",
+      "tones": [
+        {
+          "score": 0.664806,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

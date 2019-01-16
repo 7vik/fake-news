@@ -1,0 +1,124 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552945,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.577395,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.80436,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brexit fist lostThe oil-rich Gulf country Qatar decided to pull the plug to invest in Britain ventures.",
+      "tones": [
+        {
+          "score": 0.535538,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.743104,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Prime Minister Sheikh Abdullah bin Nasser Al Thani said in a news conference that they will try to decrease the investment in UK after the country voted to leave the EU.",
+      "tones": [
+        {
+          "score": 0.529282,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He added that Qatar is now trying to look into other European countries for better opportunities.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "UK Prime Minister Theresa May was interviewed on this Wednesday after the start of the exist process.",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "She was sad to know that Qatar decided to decrease the investment in UK because of the Brexit.",
+      "tones": [
+        {
+          "score": 0.775419,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.96059,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "She still believes that will open up other opportunities.",
+      "tones": [
+        {
+          "score": 0.56881,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.868982,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Liam Fox, UK secretary of state for international trade said the government will work hard to show that the Brexit will at the end to bring more business to the country.",
+      "tones": []
+    }
+  ]
+}

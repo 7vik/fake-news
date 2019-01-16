@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.900518,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.739689,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "House sends bill rolling back Internet privacy protections to TrumpCongress sent proposed legislation to President Trump on Tuesday that wipes away landmark online privacy protections the first salvo in what is likely to become a significant reworking of the rules governing Internet access in an era of Republican dominance.",
+      "tones": [
+        {
+          "score": 0.683793,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.612362,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In a party-line vote House Republicans freed Internet service providers such as Verizon AT&amp;T and Comcast from restrictions approved just last year that had sought to limit what companies could do with information such as customer browsing habits app usage history location data and Social Security numbers.",
+      "tones": [
+        {
+          "score": 0.829632,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The rules had also required providers to strengthen safeguards for customer data against hackers and thieves.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

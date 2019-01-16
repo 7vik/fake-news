@@ -1,0 +1,60 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.768228,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.631794,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Google cancels future funding towards closing the education gap.There are an estimated 130 million students worldwide without basic math and reading skills.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Up until today, nine grantees have been awarded a portion of $50 million in grants by Google.org,",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Google's philanthropic arm, to help combat this illiteracy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Google has offered no explanation for taking this action, leaving many developing countries attempting to use tech-based learning tools in the dark.",
+      "tones": [
+        {
+          "score": 0.703409,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Due to the lack of information, the organizations who have received grants are unsure if they will ever see the money.",
+      "tones": [
+        {
+          "score": 0.904038,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Google did not immediately respond to requests for comment.",
+      "tones": []
+    }
+  ]
+}

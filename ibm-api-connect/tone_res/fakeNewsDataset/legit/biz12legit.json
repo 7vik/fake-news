@@ -1,0 +1,83 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.606851,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.540654,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Toshiba's Westinghouse files for US bankruptcyWestinghouse Toshiba's US nuclear unit has filed for US bankruptcy protection.",
+      "tones": [
+        {
+          "score": 0.562568,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The US firm has struggled with hefty losses that have thrown its Japanese parent into a crisis putting the conglomerate's future at risk.",
+      "tones": [
+        {
+          "score": 0.788718,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Westinghouse has suffered huge cost overruns at two US projects in Georgia and South Carolina.",
+      "tones": [
+        {
+          "score": 0.560517,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Toshiba said the bankruptcy would not affect Westinghouse's UK operation which employs more than 1 000 workers.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "However the firm warned that the writedown of its US nuclear business could see Toshiba's total losses last year exceed 1 trillion yen ($9.1bn; \u00a37.3bn) almost triple its previous estimate.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The Japanese government confirmed on Wednesday that it was aware of Toshiba's plans.",
+      "tones": [
+        {
+          "score": 0.821913,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

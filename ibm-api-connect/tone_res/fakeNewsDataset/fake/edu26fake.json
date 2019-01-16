@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.639296,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "North Carolina teacher indoctrinates his students into personal gang.Barry White Jr. 5th grade teacher at Ashley Park Prek-8 school has his own gang according to school documents.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "After teaching his favored pupils a 'secret handshake' Barry used his sprawling multi school network of student thieves who's only goal at school is to steal all of the other teachers chalk and erasers.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "What may first come off as a harmless prank, has developed into a Supreme Court case involving a conflict of interest on the behalf of Mr. White.",
+      "tones": [
+        {
+          "score": 0.668095,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Barry White Jr. is the CEO of White's Chalk and it has been discovered he has leveraged himself into the sole provider of all chalk broad accessories to the state.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Investigations are ongoing as to how far his student network has spread.",
+      "tones": []
+    }
+  ]
+}

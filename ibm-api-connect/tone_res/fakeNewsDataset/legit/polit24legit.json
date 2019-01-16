@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.566418,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.513313,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.837687,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Back Channel to Trump: Loyal Aide in Trump Tower Acts as GatekeeperIn business, as a candidate and now as president, Mr. Trump has valued loyalty as the defining attribute in family, aides or Republicans in Congress.",
+      "tones": [
+        {
+          "score": 0.548904,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "He does not always get it, as the defection of the Freedom Caucus last week on the health bill he was trying to pass made abundantly clear.But Mr. Trump can always count on Ms. Graff's allegiance, and that has made Ms. Graff, from her office in Trump Tower, a major figure in the operations of the White House for a simple reason: She is believed to have a direct line to the president.With her deep Queens accent and unerring deference to her boss (she has always referred to him as Mr. Trump or, usually, as Mr. T), Ms. Graff, 64, is a familiar voice to New York's business leaders, the nation's political reporters and now old associates hoping to circumvent the normal channels of communication to reach Mr. Trump.",
+      "tones": [
+        {
+          "score": 0.631005,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

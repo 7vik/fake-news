@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.502655,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.837486,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Samsung Galaxy Note 7 banned on all U.S. flights due to fire hazardSamsung Galaxy Note 7 phones will be banned from all airline flights after nearly 100 incidents of the devices overheating and sometimes injuring owners, the Transportation Department announced Friday.The Federal Aviation Administration previously urged travelers not to turn on the phones, pack them in checked luggage or charge them during a flight.",
+      "tones": [
+        {
+          "score": 0.509157,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The new ban is effective at noon Saturday, Transportation Secretary Anthony Foxx said.\"We",
+      "tones": [
+        {
+          "score": 0.599419,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.895415,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "recognize that banning these phones from airlines will inconvenience some passengers, but the safety of all those aboard an aircraft must take priority,\" Foxx said.",
+      "tones": [
+        {
+          "score": 0.764826,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

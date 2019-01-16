@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.79901,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.871248,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lab-grown meatless burger part of a larger global agenda.Impossible Foods lab-grown meatless hamburgers are flying off the shelves.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Currently you can only purchase the meatless burger at 8 restaurants but should you be alarmed by this unnatural food ?",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Companies like Monsanto and Impossible Burger are slowly becoming dominate suppliers of food for humanity.",
+      "tones": [
+        {
+          "score": 0.6099,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "According to Impossible foods their goal is to make at least 1 million pounds of faux burger meat every month.",
+      "tones": [
+        {
+          "score": 0.783854,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.892152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"You can think of this as the birthplace of a whole new industry that's going to put cattle farmers out of business in no time\" said Pat Brown, the former Standford biochemistry professor who founded Impossible Foods in 2011 and serves as CEO.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66622,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.633804,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Twitter adds more anti-abuse toolsTwitter has introduced more measures aimed at cutting down on the amount of abuse on the platform.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Users will be able to limit what they see from certain types of account, particularly ones with no profile picture or information.",
+      "tones": [
+        {
+          "score": 0.541591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Such accounts are often set up by trolls.The company said it would act only on accounts that its computer algorithms had thrown up as being abusive.\"Since",
+      "tones": [
+        {
+          "score": 0.54179,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.583143,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.574477,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "these tools are new, we will sometimes make mistakes, but know that we are actively working to improve and iterate on them every day,\" said Ed Ho, Twitter's vice-president of engineering in a blogpost.",
+      "tones": [
+        {
+          "score": 0.574565,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

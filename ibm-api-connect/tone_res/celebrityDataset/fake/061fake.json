@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.533821,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.705638,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Fake Pregnancy?",
+      "tones": [
+        {
+          "score": 0.569497,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Beyonc\u00e9's Twin Baby Bump Is Raising QuestionsBeyonc\u00e9 is once again being called out for faking her pregnancy!",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Radaronline.com",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "had a celebrity Photoshop expert weigh in on the faux double-baby bump.Everyone went crazy for Beyonc\u00e9's elaborate Instagram pregnancy reveal last week, but some fans were skeptical.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "They claim that the baby bump is varying sizes and shapes in the photos Bey released.Despite the critics, Photoshop expert Alan Barry confirmed to Radar that Beyonc\u00e9's bump is real!\"The baby bump does appear to be real,\" Barry revealed.",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "He did say, however, that other elements of the initial Instagram photo may have been fake.",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"The rest of the image is a Photoshopped mash up of a picture of her overplayed on the background of flowers,\" he said.Even still, it looks like the BeyHive is officially growing by two!",
+      "tones": [
+        {
+          "score": 0.509722,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

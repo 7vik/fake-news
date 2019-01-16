@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516813,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "A surprise new iPhone is here -- and it's redApple (AAPL, Tech30) unveiled Tuesday a special red version of the iPhone 7 and 7 Plus.",
+      "tones": [
+        {
+          "score": 0.529405,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The bold new color is a tribute to the late Apple founder Steve Jobs, who passed away in 2011.",
+      "tones": [
+        {
+          "score": 0.829916,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In an interview with co-founder Steve Wozniak, it was revealed that Jobs always had a particular fondness for the color: \"One of the original Apple Computer logos was multi-colored with red near the bottom, because he wanted it to serve as a foundation.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "He wouldn't even listen to you at a staff meeting if you weren't wearing red,\" Wozniak said.",
+      "tones": [
+        {
+          "score": 0.606271,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.743104,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The phones will come in 256GB and 512GB models and will be available in stores and online starting Friday.",
+      "tones": []
+    }
+  ]
+}

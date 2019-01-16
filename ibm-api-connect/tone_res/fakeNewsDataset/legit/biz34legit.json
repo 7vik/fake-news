@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.615755,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.830212,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Noyou can't pay your interns with free food \"Finding people to work is challenging particularly for restaurants.",
+      "tones": [
+        {
+          "score": 0.641954,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Pret a Manger a U.K. based sandwich shop chain is no different.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "To meet this challenge executives there decided to try something new: a one-week internship for about 500 teenagers to according to a company statement in the Guardian \"get exposure to aspects of our business including food production customer service social responsibility [care for the homeless] and financial control.\"",
+      "tones": [
+        {
+          "score": 0.865834,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "It seemed like a good and much needed idea\u2013particularly in the U.K. where finding low-skilled labor is projected to becomeincreasingly difficult as the effects of Brexit takes hold and fewer EU nationals make their way to England.",
+      "tones": [
+        {
+          "score": 0.549301,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.540225,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"British schools and parents don't always take careers in the hospitality industry seriously but they really ought to the company wrote in its blog.",
+      "tones": []
+    }
+  ]
+}

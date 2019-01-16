@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.561766,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.796464,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Silicon Valley Is Fighting To Shut Down The InternetAt a Trump rally the industry leaders Comcast to Verizon and to AT&amp;T announced that they would ban together to permanently shut down the internet for Trump supports.",
+      "tones": [
+        {
+          "score": 0.675934,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Silicon Valley has declared that the wave of Trump supports should create their own internet and build a wall around that.",
+      "tones": [
+        {
+          "score": 0.696092,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Federal Communications Commission also supports the idea of only allowing non Trump supports to use the internet in the future.",
+      "tones": [
+        {
+          "score": 0.892152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The rules have been up for grabs and the leaders are making claims that make sense to most people and hav e a majority of support from the public.",
+      "tones": [
+        {
+          "score": 0.546148,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The bias in the country needs to be confronted and it is starting in Silicon Valley California.",
+      "tones": []
+    }
+  ]
+}

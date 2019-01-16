@@ -1,0 +1,119 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.619053,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.68097,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.726087,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Judge tells Stein, 'Your money's no good here!' during bribe for a recount.MADISON, Wis -- It looks as if Green Party candidate, and former stripper, Jill 'Franken' Stein knows no limits when it comes to recounting votes.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "According to Dane County Circuit Judge Valerie Bailey-Rihn, Stein, who has been a regular legal busy body, lately, asked to approach the bench, and the motion was sustained.",
+      "tones": [
+        {
+          "score": 0.755313,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She went up to the judge and whispered that she had 3.5 million dollars in a briefcase in her car, directly from Hilary Clinton, adding, if they can recount the votes, then the Judge could be recounting her money.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The Judge was not amused and ordered the bailiff to arrest Ms. Stein and then ruled that there would be no recount.",
+      "tones": [
+        {
+          "score": 0.545196,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.631014,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Stein was led out of the courtroom, crying and in cuffs.",
+      "tones": [
+        {
+          "score": 0.905196,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Judge Bailey-Rihn then proceeded to explain to the courtroom about Pizzagate, and how she believed Hilary Clinton was a possible pedophile and a Reptilian shape shifter (citing David Ickes work, and the many Youtube videos on the subject) and would never get a recount in her jurisdiction, as long as she sat on the bench.",
+      "tones": [
+        {
+          "score": 0.651695,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Ms. Clinton could not be reached for comment.",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Baily-Rihn told us that there was most likely fraud in the election, and count, but since both sides do it, it works out to be mostly fair, in the end.",
+      "tones": [
+        {
+          "score": 0.587906,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "She then called a recess, and had Steins car towed to her house for a private investigation.",
+      "tones": []
+    }
+  ]
+}

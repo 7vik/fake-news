@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552399,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.622398,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.537927,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Renegotiate Nafta?",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Mexicans Say Get On With ItFor more than two decades free trade has been at the heart of Mexico's relationship with America responsible for pumping a stream of vehicles audio components and avocados north and cheap corn cattle and software south.",
+      "tones": [
+        {
+          "score": 0.550285,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "To the nation's leaders it was central vital nonnegotiable.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "At least until President Trump came along promising to upend nearly $500 billion in annual trade between the two countries if it could not be re-engineered more in America's favor.",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Now the Mexico's leaders have a new priority: urging their American counterparts to hurry up and get on with it.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "While free trade has long been an article of faith in Mexico uncertainty over the fate of the North American Free Trade Agreement is hitting the country hard.",
+      "tones": [
+        {
+          "score": 0.536445,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.512886,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

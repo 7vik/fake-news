@@ -1,0 +1,986 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.569359,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.518788,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.655098,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.730377,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kim Kardashian Opens Up to About Life After the Paris RobberyThis morning, Kim Kardashian West is a few minutes late to breakfast because she can\u2019t get this gel-mask thing off her face.",
+      "tones": [
+        {
+          "score": 0.597354,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "She\u2019s staying in a room in the upper reaches of the Baccarat Hotel in midtown Manhattan.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "A room with a giant bed in it, in which she slept, butt to butt, with her four-year-old daughter, North.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "And in that room she applied a mask \u2014 of the cosmetic variety, not the Halloween variety \u2014 only to discover she couldn\u2019t really get it off.",
+      "tones": [
+        {
+          "score": 0.907142,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Where did she get this gold gel-mask thing that\u2019s supposed to make your skin healthier?",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Man, when you\u2019re Kim Kardashian West, you don\u2019t know where everything comes from.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "People just give you stuff.",
+      "tones": [
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "The vaults and doors and express-delivery accounts of the world open and a free flow of stuff just washes over you.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "Kim tries to enjoy it, because that\u2019s the enlightened thing to do.",
+      "tones": [
+        {
+          "score": 0.67961,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "But right now she\u2019s upstairs in her room trying to separate her face from the free gel-mask thing.It is 8 a.m.",
+      "tones": [
+        {
+          "score": 0.556397,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "I wait for her in the sumptuous lobby.",
+      "tones": []
+    },
+    {
+      "sentence_id": 11,
+      "text": "Baccarat, for those who do not shop for $10,000 vases, is a French company that makes crystal.",
+      "tones": []
+    },
+    {
+      "sentence_id": 12,
+      "text": "And being inside the Baccarat Hotel is like being inside a fine crystal lamp where an urbane French genie who wears Louis Vuitton suits lives.",
+      "tones": [
+        {
+          "score": 0.515389,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "Here\u2019s the kind of place it is: $46 from Le Menu du Petit D\u00e9jeuner at the Petit Salon in the hotel gets you two eggs, potatoes, bacon, juice, and\u2026coffee!",
+      "tones": [
+        {
+          "score": 0.721916,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "There is an actual crown on display on a shelf full of curios and crystals, unless it\u2019s the world\u2019s most bejeweled serving dome.But Kim K. does not make me wait too long.",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "Seven minutes after 8, she arrives.",
+      "tones": []
+    },
+    {
+      "sentence_id": 16,
+      "text": "She looks somehow naked.",
+      "tones": [
+        {
+          "score": 0.537849,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "Her face, anyway.",
+      "tones": [
+        {
+          "score": 0.62556,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "It is scrubbed clean, I guess from the mask removal.",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "There is a stunning absence of makeup, except for some lip balm that she tells me she got in Iceland.",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "Which is ironic given that the 36-year-old recently launched her own makeup line (it\u2019s called KKW Beauty ).",
+      "tones": [
+        {
+          "score": 0.591263,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.926173,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "Predictably, she has utterly crushed the stuff-for-your-face market the way she has crushed all other markets.",
+      "tones": [
+        {
+          "score": 0.618912,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": "I think part of the reason her facial nudity is so striking is that being simple and unadorned isn\u2019t really her role.",
+      "tones": [
+        {
+          "score": 0.750688,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "Her role is more queen of America .",
+      "tones": []
+    },
+    {
+      "sentence_id": 24,
+      "text": "(Married to the king of\u2026hip-hop fashion, intellectual provocation, and possible public-\u00adinsanity performance art?) Queen of Instagram, queen of a certain type of television, queen of relevance.",
+      "tones": [
+        {
+          "score": 0.736516,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "The queen of Calabasas, California!",
+      "tones": [
+        {
+          "score": 0.709467,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "Which, if you don\u2019t know, is the Mount Olympus of our time.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "Will Smith lives there.",
+      "tones": [
+        {
+          "score": 0.653699,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "text": "And Justin Bieber and Drake and the Rock and the Osbournes.",
+      "tones": [
+        {
+          "score": 0.629471,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "And if you think about who\u2019s the queen of those people, wouldn\u2019t you say Kim Kardashian West?I know, you\u2019re probably wondering what she was wearing.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.733853,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "You\u2019re probably saying to yourself: What did she eat for breakfast?",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "I\u2019m not going to make you wait for it.",
+      "tones": []
+    },
+    {
+      "sentence_id": 32,
+      "text": "She wears this cool, Rocky Balboa retro gray cotton hoodie with the 1980 American Olympic team logo on it and gray sweatpants.",
+      "tones": []
+    },
+    {
+      "sentence_id": 33,
+      "text": "And she orders scrambled eggs with tomatoes, mushrooms, and onions mixed in, an English muffin, and some English breakfast tea with loads of honey.",
+      "tones": [
+        {
+          "score": 0.697139,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "Did she eat everything?",
+      "tones": []
+    },
+    {
+      "sentence_id": 35,
+      "text": "Don\u2019t be afraid to wonder.",
+      "tones": [
+        {
+          "score": 0.91856,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.968123,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "text": "If you don\u2019t care whether Kim Kardashian West ate her English muffin, you need to go back to Kim Kardashian West school so you can appreciate the wonderful granular gossipyness that\u2019s part of what\u2019s so enjoyable about knowing everything about Kim K. before you come back here with your too-good-to-want-to-know-if-she-eats-her-English-muffin-ness.\u201cI\u2019m, like, the most fit I\u2019ve ever been,\u201d she says.",
+      "tones": [
+        {
+          "score": 0.700518,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "text": "How do you get in shape if you\u2019re Kim K.? The same way you do everything: Instagram.",
+      "tones": []
+    },
+    {
+      "sentence_id": 38,
+      "text": "You go and you find \u201cthis bodybuilder on Instagram\u201d and you contact her.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "You find someone who, as Kim K. tells it, \u201chad an amazing transformation after she had a baby.\u201d",
+      "tones": [
+        {
+          "score": 0.799699,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "And Kim K. happened to be in the market for a really amazing transformation after giving birth.",
+      "tones": [
+        {
+          "score": 0.756777,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "text": "Now Kim\u2019s working out an hour and a half a day.Kim Kardashian West \u2014 I don\u2019t want to scandalize you \u2014 has had her picture taken nearly naked before.",
+      "tones": [
+        {
+          "score": 0.511647,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "text": "For Playboy .",
+      "tones": []
+    },
+    {
+      "sentence_id": 43,
+      "text": "And completely nude for Paper, GQ, and W magazines.",
+      "tones": [
+        {
+          "score": 0.874372,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "And that doesn\u2019t even include the original document of her fame, the storied Ray J sex tape.",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "\u201cMy publicist would say to me, \u2018You\u2019re not getting naked.",
+      "tones": []
+    },
+    {
+      "sentence_id": 46,
+      "text": "I have to be there,\u2019\u200a\u201d she says.",
+      "tones": [
+        {
+          "score": 0.898327,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "I suggest that if your publicist keeps warning you not to get naked, she must know you\u2019re always in danger of getting naked.Is there an age limit for the naked photo shoot?\u201cYes,\u201d she says.",
+      "tones": []
+    },
+    {
+      "sentence_id": 48,
+      "text": "\u201cI\u2019m like, I\u2019m going to tone it down.",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "text": "But then I\u2019m like, Wait, I can\u2019t be doing it in 10 years, so \u2014 I might as well.",
+      "tones": [
+        {
+          "score": 0.775166,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "I don\u2019t know what the age cutoff is.\u201dWe know everything about Kim Kardashian West.",
+      "tones": [
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "text": "She has shown us everything.",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "Talked about everything.",
+      "tones": [
+        {
+          "score": 0.946222,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "Many times.",
+      "tones": []
+    },
+    {
+      "sentence_id": 54,
+      "text": "In different languages.",
+      "tones": []
+    },
+    {
+      "sentence_id": 55,
+      "text": "Kim has talked about basketball, and baby poop, and having no idea where pickles come from, and the texture of cardboard, and Kanye, and Caitlyn Jenner , and her sister\u2019s boyfriend\u2019s drug problems.",
+      "tones": [
+        {
+          "score": 0.505728,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "Recently, on her show, we even watched her share the story of how difficult her pregnancy and birthing process was and how she\u2019s looking at some alternatives to carrying her next kid herself.",
+      "tones": [
+        {
+          "score": 0.638078,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.599484,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "Have you ever considered, besides the solipsism, the bravery in that?",
+      "tones": [
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "text": "You know the unflinching way she takes off her top in front of a camera?",
+      "tones": [
+        {
+          "score": 0.587989,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "Or wears a $75 billion dress?",
+      "tones": [
+        {
+          "score": 0.526282,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.946222,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 60,
+      "text": "That\u2019s how unflinchingly she talks about the fragility of her own human body.",
+      "tones": []
+    },
+    {
+      "sentence_id": 61,
+      "text": "It\u2019s feminist.",
+      "tones": []
+    },
+    {
+      "sentence_id": 62,
+      "text": "It\u2019s a PSA.",
+      "tones": []
+    },
+    {
+      "sentence_id": 63,
+      "text": "Here, in this glass-enclosed beveled luxury maze, while wealthy French businessmen finish eating their $46 toast, I ask if she\u2019s thought about a third child.",
+      "tones": [
+        {
+          "score": 0.60456,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 64,
+      "text": "And she retains this unblinking steady-state feline eye contact and a sense of self-assurance that could freeze water while she says, \u201cI would like to, but I\u2019ve had lots and lots of complications.",
+      "tones": [
+        {
+          "score": 0.517861,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.709321,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "I had preeclampsia.",
+      "tones": []
+    },
+    {
+      "sentence_id": 66,
+      "text": "And then I also had something called placenta accreta.",
+      "tones": [
+        {
+          "score": 0.868982,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 67,
+      "text": "We\u2019ve explored surrogacy.",
+      "tones": [
+        {
+          "score": 0.991736,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 68,
+      "text": "We\u2019re thinking about it.\u201dI",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 69,
+      "text": "get the vibe from her that, just as she has the crushing instincts necessary to lay waste to our culture and create an America in her image (or is it that she\u2019s created America\u2019s image?), she also has the instinct to preserve the humanity of her family.\u201cWe",
+      "tones": []
+    },
+    {
+      "sentence_id": 70,
+      "text": "don\u2019t do gifts,\u201d she says when I ask her if she worries about her kids growing up with too much.",
+      "tones": [
+        {
+          "score": 0.526973,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 71,
+      "text": "\u201c[Kanye and I] talk about it all the time, about not getting too much and trying to be as grounded and well rounded as possible.\u201d",
+      "tones": [
+        {
+          "score": 0.594263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 72,
+      "text": "She holds herself to the same standard.",
+      "tones": []
+    },
+    {
+      "sentence_id": 73,
+      "text": "\u201cI don\u2019t like presents anymore,\u201d she says.",
+      "tones": [
+        {
+          "score": 0.549138,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 74,
+      "text": "\u201cWe just did absolutely nothing [for our anniversary].",
+      "tones": [
+        {
+          "score": 0.834015,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.984483,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 75,
+      "text": "We spent two days in Santa Barbara, and we slept.\u201d",
+      "tones": []
+    },
+    {
+      "sentence_id": 76,
+      "text": "Then she remembers: \u201cYou know what?",
+      "tones": [
+        {
+          "score": 0.972852,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 77,
+      "text": "I think we went to IHOP.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "That\u2019s what we did.\u201dAnd then she tells me this story.",
+      "tones": [
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 79,
+      "text": "A motherhood story.",
+      "tones": []
+    },
+    {
+      "sentence_id": 80,
+      "text": "It\u2019s about the time last year, in Paris, when she was held at gunpoint and bound and robbed in a hotel by masked gunmen.",
+      "tones": []
+    },
+    {
+      "sentence_id": 81,
+      "text": "Well, she tells me, she\u2019d been scared to go on that trip.",
+      "tones": [
+        {
+          "score": 0.885004,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 82,
+      "text": "She was afraid of a terrorist attack.",
+      "tones": [
+        {
+          "score": 0.958745,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 83,
+      "text": "She\u2019d never experienced anxiety like that before.",
+      "tones": [
+        {
+          "score": 0.786074,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 84,
+      "text": "She even went to a therapist about it.",
+      "tones": [
+        {
+          "score": 0.961411,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 85,
+      "text": "And North, sensing her mother\u2019s anxiety, wanted to reassure her.\u201cShe gave me a little plastic treasure box, and she put her little jewels in it \u2014 like fake little plastic jewels \u2014 and she was like, \u2018Mommy, this will keep you safe when you go to Paris.\u2019",
+      "tones": []
+    },
+    {
+      "sentence_id": 86,
+      "text": "\u201d It is something that, despite all the jewels and Calabasas houses and red carpet gowns and original Basquiats and Rolls-Royces and pairs of Yeezy boots she has, penetrates down into the depths of Kim Kardashian West\u2019s humanity, which, at least after spending a few hours with her, I believe is very much there.\u201cTo",
+      "tones": []
+    },
+    {
+      "sentence_id": 87,
+      "text": "have something really sweet like that is more important to me than all the jewelry,\u201d she says.",
+      "tones": [
+        {
+          "score": 0.782271,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 88,
+      "text": "She tells me she takes it everywhere with her.Around us, European businessmen sign their checks, step into hushed elevators and are whisked to meetings with continental vampires.",
+      "tones": []
+    },
+    {
+      "sentence_id": 89,
+      "text": "Kim K. says she\u2019s going to see what North is up to.",
+      "tones": []
+    },
+    {
+      "sentence_id": 90,
+      "text": "I\u2019m trying to figure out what\u2019s weird about seeing her in person, at this phase of her life.",
+      "tones": [
+        {
+          "score": 0.562962,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 91,
+      "text": "And I think it\u2019s that she wears her crown lightly.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 92,
+      "text": "I guess it\u2019s that she\u2019s chill.",
+      "tones": [
+        {
+          "score": 0.663282,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.946222,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 93,
+      "text": "Which doesn\u2019t seem like the one word you\u2019d use for Kim K.",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 94,
+      "text": "I guess it\u2019s that she\u2019s really a mom now.",
+      "tones": [
+        {
+          "score": 0.508047,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 95,
+      "text": "She is a beautiful, worldly 36-year-old woman drinking the last of a cup of English breakfast tea before going out into the world to see to her empire, with her four-year-old child at her side, bearing witness to the domination but never expecting, you know, presents.",
+      "tones": [
+        {
+          "score": 0.623026,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.828564,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Eddie Lacy joins Seattle Seahawks on one-year dealSeattle Seahawks have confirmed the capture of former Green Bay running back Eddie Lacy with Jamaal Charles also scheduled to visit.",
+      "tones": [
+        {
+          "score": 0.554904,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Seattle have been linked with a host of running backs since free agency began last Thursday and NFL Insider Ian Rapoport has confirmed that Charles will still visit the Pacific North West this week.",
+      "tones": [
+        {
+          "score": 0.671539,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The capture of Lacy on a one-year deal gives the player the chance to prove he is over his injury problems and potentially give Seattle a fearsome looking running back line-up.",
+      "tones": [
+        {
+          "score": 0.619165,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.54839,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Earlier this month head coach Pete Carroll confirmed that Thomas Rawls after an injury-plagued season and CJ Prosise would compete for the starting RB slot but Lacy gives them added production if he can stay fit and would allow Prosise to show his versatility.",
+      "tones": [
+        {
+          "score": 0.731735,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

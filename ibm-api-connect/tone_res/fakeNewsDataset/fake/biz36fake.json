@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.877926,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.582327,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Amazon CEO Is Headed to the MoonJeff Bezos confirmed on Friday that he is going to be on the first Amazon sponsored mission to the moon.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Can you believe it!",
+      "tones": [
+        {
+          "score": 0.984352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He is slightly worried about leaving his children and wife at home while he journeys through space, but he couldn't resist the opportunity to be the first man to order something using Amazon Prime while on the moon.",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

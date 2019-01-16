@@ -1,0 +1,114 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.672633,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.643409,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.644705,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Get Busy! Gwen &amp; Blake Ordered To Show More PDA On 'The Voice'Gwen Stefani and Blake Shelton have been told to make nice for the cameras on The Voice, RadarOnline.com",
+      "tones": [
+        {
+          "score": 0.732065,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "has exclusively learned, after ratings slipped thanks to an on-air spat!Last week, Stefani, 47, commented to a contestant on-air that she was \"mesmerized\" by his hot body, leaving her boyfriend Shelton less than impressed.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "And viewers tuned out too: Ratings were down for that episode.Now, a source told Radar, \"Producers have really come down on Gwen for her flirtation.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "They said that it seems like the viewers do not want to see any trouble in paradise between her and Blake,\" the source said.\"They",
+      "tones": [
+        {
+          "score": 0.560656,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "basically told her that they are really just disappointed in how her and Blake seem to be lacking the in the love department this season.\"Indeed,",
+      "tones": [
+        {
+          "score": 0.77219,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.73677,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.57374,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "as Radar previously reported, insiders claim that the Shelton and Stefani \u2013 who replaced Miley Cyrus, 24, on this season's panel of judges \u2013 signed a contract that gave them a significant bonus to keep the love alive all season long!\"The producers just told Gwen and Blake that they have to honor their contracts,\" the insider told Radar.\"Part of the reason that they invited Gwen back on the show was so that the two of them could let their love blossom on screen,\" said the source.",
+      "tones": [
+        {
+          "score": 0.666276,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.566645,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"And they just aren't!\"Do you think that Gwen Stefani and Blake Shelton need to 'up' the on-air PDA on 'The Voice?' Tell us your thoughts below.",
+      "tones": [
+        {
+          "score": 0.574477,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.539755,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.645089,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Tom Brady's Jersey Bought at Yardsale in TennesseeThe famed shirt was purchased at a yard sale in Tennessee last week.",
+      "tones": [
+        {
+          "score": 0.578319,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The lucky fan was at the sale digging thru a box of old clothes marked twenty-five cents each.",
+      "tones": [
+        {
+          "score": 0.527992,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Gratefully, the sale was being conducted at the home of an Atlanta fan who told the purchaser to take it before they used it for a rag to wash their truck .",
+      "tones": [
+        {
+          "score": 0.539806,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The jersey now is in the possession of a five year old fan that refuses to take it off.\"Well",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Micheal just loves that my jesersy, and he wears it everywhere:to bed, school, church.",
+      "tones": [
+        {
+          "score": 0.798449,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "He even wears it to his pee wee games.\"",
+      "tones": [
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "When told how much the jersey was worth, Micheal's mom said no amount of money was worth making her son unhappy, so it was no longer for sale, it was bought fair and square.",
+      "tones": [
+        {
+          "score": 0.643611,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

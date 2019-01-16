@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.619759,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.916274,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.770156,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ferrari shockingly pulls off a winThe Australian Grand Prix has a new winner, and it's name is Sebastian Vettel.",
+      "tones": [
+        {
+          "score": 0.737312,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Vettel, a member of Ferrari, Formula One's most controversial team, said that what helped him the most was his recent conversion to Buddhism.",
+      "tones": [
+        {
+          "score": 0.663387,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"It allowed me to focus, knowing that I could just take my hands off the wheel and have Buddha guide my actions.\"",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.823099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Ferrari suggested that team members seek alternative spiritual guidance in a desperate attempt to win in Melbourne since 2007.",
+      "tones": [
+        {
+          "score": 0.727988,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

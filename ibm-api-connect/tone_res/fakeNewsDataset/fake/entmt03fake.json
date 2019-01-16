@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.691476,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.537215,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brian Cox hosts scientist Postman PatProfessor Postman Pat may be able to find his way to Brian Cox's home in Greendale, but can he use a Higgs boson particle to find his way out of a black hole?",
+      "tones": [
+        {
+          "score": 0.559639,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "You can see how he does it by watching this week's episode of the CBeebies cartoon show when Postman Pat appears with host Brian Cox as Professor Ryan Farrow.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Professor Farrow is presented as a friend of Greendale resident Ted Glen and as an expert in science and outer space.",
+      "tones": [
+        {
+          "score": 0.676247,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Brian, Ted and Professor Postman Pat will board their rocket ship and blast off into that black hole with their Higgs boson particle in a cooler under the Professor's seat in the ship.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Watch with Jess the cat when they take off on Wednesday at 07:25 BST.",
+      "tones": [
+        {
+          "score": 0.514298,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.904038,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

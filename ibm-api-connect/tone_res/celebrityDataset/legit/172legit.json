@@ -1,0 +1,365 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.593951,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.509978,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.769948,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "https://www.vanityfair.com/style/2017/09/jim-carrey-roasts-fashion-weekJim",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Carrey Attends Fashion Week Party Just to Roast Fashion Week Parties2017-09-11Jim Carrey, once an actor, now an artiste, and cultural commenter, stopped by New York Fashion Week to neg it.",
+      "tones": [
+        {
+          "score": 0.51784,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "E! News\u2019s Catt Sadler caught up with Carrey on the red carpet of the Harper\u2019s Bazaar Icons party Friday night, and the two-minute clip of their exchange has been percolating on Twitter ever since.",
+      "tones": [
+        {
+          "score": 0.593052,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "After she pointed out that she\u2019d never seen him at the biannual spectacle, he explained to her the following: \u201cThere\u2019s no meaning to any of this.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "So I wanted to find the most meaningless thing that I could come to and join and here I am.\u201d",
+      "tones": [
+        {
+          "score": 0.704683,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Watch Sadler\u2019s eyes as she fully comprehends what she\u2019s about to endure.\u201cCelebrating",
+      "tones": [
+        {
+          "score": 0.684599,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.642915,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "icons,\u201d Carrey says.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "\u201cBoy, that is just the absolute lowest aiming possibility we could come up with.",
+      "tones": [
+        {
+          "score": 0.845297,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Do you believe in icons?\u201dWhen",
+      "tones": [
+        {
+          "score": 0.593336,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.944551,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Sadler started to answer, he interjected, \u201cI don\u2019t believe in personalities.",
+      "tones": [
+        {
+          "score": 0.959869,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "I don\u2019t believe that you exist, but there is a wonderful fragrance in the air.\u201dCarrey",
+      "tones": [
+        {
+          "score": 0.888481,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "then looked in the camera and gave his speech, \u201cI don\u2019t believe in icons.",
+      "tones": [
+        {
+          "score": 0.642599,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.821913,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "I don\u2019t believe in personalities.",
+      "tones": [
+        {
+          "score": 0.965509,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "I believe that peace lies beyond personalities, beyond invention and disguise, beyond the red \u2018S\u2019 that you wear on your chest, that makes bullets bounce off.",
+      "tones": []
+    },
+    {
+      "sentence_id": 14,
+      "text": "I believe that it\u2019s deeper than that.",
+      "tones": [
+        {
+          "score": 0.555217,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "I believe we\u2019re a field of energy dancing for itself, and\u2014uh\u2014I don\u2019t care.\u201d",
+      "tones": [
+        {
+          "score": 0.634102,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "(It wasn\u2019t exactly extemporaneous poetry; the lines are borrowed from a commencement speech he gave in 2014 at Iowa\u2019s Maharishi University of Management).Yes, he sounded like a liberal-arts student on a particularly mellow week night.",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "And it\u2019s not clear whether he sensed the irony in himself saying all of that while attending the party and wearing a flashy tailored suit (Asked about his get-up, he said, \u201cI didn\u2019t get dressed up.",
+      "tones": [
+        {
+          "score": 0.520934,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "There is no me.",
+      "tones": []
+    },
+    {
+      "sentence_id": 19,
+      "text": "There\u2019s just things happening.\u201d).Carrey\u2019s referendum, despite its slightly unbearable pitch, rings somewhat true amid the backdrop of destruction caused by Hurricanes Harvey and Irma.",
+      "tones": [
+        {
+          "score": 0.507711,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.72085,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.594263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "And Charlottesville.",
+      "tones": []
+    },
+    {
+      "sentence_id": 21,
+      "text": "And the general mood of melancholy that has settled over the country like a thick fog.",
+      "tones": [
+        {
+          "score": 0.545436,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": "It\u2019s hard to see where the art and commercialism and spectacle of N.Y.F.W. fits into all that.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "Designers themselves have struggled with that question since the 2016 election, as have many creators in other fields.",
+      "tones": [
+        {
+          "score": 0.715066,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "The world looks different now than it did even last February, and it will somersault a thousand more times before the clothing parade gears again up next February.",
+      "tones": []
+    },
+    {
+      "sentence_id": 25,
+      "text": "(But, make no mistake, the parade will go on.)But",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "that\u2019s not even it, really, Carrey said.",
+      "tones": [
+        {
+          "score": 0.643967,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "\u201cIt\u2019s not our world.",
+      "tones": []
+    },
+    {
+      "sentence_id": 28,
+      "text": "We don\u2019t matter.",
+      "tones": []
+    },
+    {
+      "sentence_id": 29,
+      "text": "That\u2019s the good news.\u201d",
+      "tones": [
+        {
+          "score": 0.849899,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "Great!",
+      "tones": [
+        {
+          "score": 0.880435,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

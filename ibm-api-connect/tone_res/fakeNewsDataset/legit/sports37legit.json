@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.522871,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jason Witten signs new four-year deal with Dallas CowboysDallas tight end Jason Witten has signed a four-year contract extension that virtually guarantees the 14-year veteran will spend his entire career with the Cowboys.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The deal Witten signed on Tuesday runs through to 2021 and leaves the final year of the two-time All Pro's current contract intact.",
+      "tones": [
+        {
+          "score": 0.610718,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The extension has a maximum value of $29m with no new guaranteed money and gives the Cowboys the flexibility to restructure and create about $4m in salary cap space.",
+      "tones": [
+        {
+          "score": 0.546148,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Witten who turns 35 in May is one of two tight ends in NFL history with at least 1 000 catches and 10 000 yards receiving.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The other is Tony Gonzalez who retired in 2013 after 17 seasons.",
+      "tones": []
+    }
+  ]
+}

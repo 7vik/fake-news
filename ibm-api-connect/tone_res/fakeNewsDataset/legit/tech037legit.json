@@ -1,0 +1,60 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.586473,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.753493,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.733974,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "YouTube automates sound effect captions with AIYouTube has used algorithms to automatically caption speech for eight years now in an effort to make its billions of videos more accessible for the deaf and hard of hearing.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "While the feature was pretty rough at first, it has significantly improved it over time, getting \"closer and closer to human transcription error rates,\" Google said in its developers blog.",
+      "tones": [
+        {
+          "score": 0.77773,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Since speech is just one part of the audio picture, though, YouTube has launched automatic sound effect captioning for the first time.For now, the system can just show three classes of sounds: Applause, music and laughter.",
+      "tones": [
+        {
+          "score": 0.801363,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.539235,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.645983,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

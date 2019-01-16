@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.79053,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Phone device tests male fertility and is 100% accurate in predicting pregnancyA new smartphone attachment can predict with 100% accuracy a man's chance of impregnating a ovulating female if they engage in sexual intercourse.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The new device, which costs 14.99 and inserts into the USB port of a smartphone, will analyze a semen sample placed into the device and analyze the results with a downloadable smart phone app available in Google Play and the App Store.",
+      "tones": [
+        {
+          "score": 0.74886,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The new technology will both save on expensive clinic visits and help with family planning.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

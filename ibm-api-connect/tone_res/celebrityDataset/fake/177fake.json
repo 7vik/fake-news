@@ -1,0 +1,104 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.548155,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.658516,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.783832,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Where Was Maks?",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Is There DWTS Drama Afoot?Is there trouble on the dance floor?",
+      "tones": [
+        {
+          "score": 0.716896,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Maksim Chmerkovskiy was nowhere to be found on the Monday, Oct. 2 episode of Dancing With the Stars episode prompting Alan Bersten to dance with his celebrity partner Vanessa Lachey.",
+      "tones": [
+        {
+          "score": 0.802486,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The reason for Maks' absence?",
+      "tones": [
+        {
+          "score": 0.907747,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Personal problems, according to host Erin Andrews.",
+      "tones": [
+        {
+          "score": 0.991736,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"Maks is dealing with a personal issue so Alan is stepping in and dancing with Vanessa tonight,\" she said during the show.But there's something else going on here E! News has learned.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "According to a source, Maks was completely fine and decided not to perform with Vanessa because they are not getting along.",
+      "tones": [
+        {
+          "score": 0.944551,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Our source said both have stubborn, strong personalities, leading to the friction.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "We're told they're having a hard time listening to each other and working together.",
+      "tones": []
+    }
+  ]
+}

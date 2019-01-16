@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.847306,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.71572,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Julia Roberts Cuddles Up to Danny Moder Ahead of Their 15th Wedding AnniversaryJulia Roberts and husband Danny Moder were spotted on a casual outing in Malibu, CA, on Saturday afternoon.",
+      "tones": [
+        {
+          "score": 0.648137,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The couple, who is going on 15 years of marriage in July, put on a loving display as they wrapped their arms around each other and Julia appeared to whisper something in Danny's ear.",
+      "tones": [
+        {
+          "score": 0.519144,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.709321,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "While we haven't seen the couple out and about together since November, Julia made history in April when she was named People's Most Beautiful Woman for the fifth time.",
+      "tones": [
+        {
+          "score": 0.777118,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "It was also revealed earlier this week that Julia will be returning to the big screen in Crystal City Entertainment's adaptation of The Bookseller.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Julia will not only star in the film, but she's also producing the project alongside Lisa Gillan, Marisa Yeres Gill, Jonathan Rubenstein, and Ari Pinchot.",
+      "tones": [
+        {
+          "score": 0.868982,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

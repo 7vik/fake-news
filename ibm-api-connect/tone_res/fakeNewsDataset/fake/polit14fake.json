@@ -1,0 +1,78 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.654701,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.6858,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Melania Trump hires Angelina Jolie as her communications directorFirst lady Melania Trump has hired a well known actress and advocate for human rights as a member of her White House communications staff for her East Wing team.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Actress Angelia Jolie will serve as communications director for the first lady, the White House announced this Monday.",
+      "tones": [
+        {
+          "score": 0.66031,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Jolie has been an international advocate of human right's and children's issues in addition to her well known roles as an actress.",
+      "tones": [
+        {
+          "score": 0.780088,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"It gives us great pleasure to hire Angelina in this new role\", remarked President Donald Trump.",
+      "tones": [
+        {
+          "score": 0.670295,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"I know Angelina will do a good job communicating everything that comes out of the Office of the First Lady, who is doing a tremendous job by the way\", remarked Trump.",
+      "tones": [
+        {
+          "score": 0.714426,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Jolie is well known for her acting and humanitarian efforts, but recently has been in the news because of a split with her husband, Brad Pitt.",
+      "tones": [
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

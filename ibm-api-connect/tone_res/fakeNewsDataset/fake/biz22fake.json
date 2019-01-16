@@ -1,0 +1,119 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.592255,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.707922,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.602976,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "London Stock Exchange-Deutsche Boerse deal blocked by EU\"EU regulators have blocked London Stock Exchange's \u00a341bn merger with German stock exchange Deutsche Boerse.",
+      "tones": [
+        {
+          "score": 0.636458,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The European Commission said the deal would have been a moral outrage.",
+      "tones": [
+        {
+          "score": 0.507412,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The merger would have combined Europe's two largest stock exchange operators.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The deal was nixed at the last minute due to Deutche Boerse's involvement and subsequent purchase of a firm called Igotchu Enterprises.",
+      "tones": [
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "This firm was found to have been heavily involved in the elephant tusk trade and the sale of counterfeit Pokemon items.",
+      "tones": [
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Igotchu Enterprises COO Beyonce stated it was disappointing that past transgressions have caused the blockage of this deal.",
+      "tones": [
+        {
+          "score": 0.732248,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Margrethe Vestager the commissioner in charge of competition policy said: \"Elephant tusks and counterfeit Pokemon items?",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "Really?",
+      "tones": [
+        {
+          "score": 0.997482,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Who does that?",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "This is appalling on so many levels.\"",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.6104,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.64853,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.593613,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Now There\u2019s Video Proof That Michelle Obama and Beyonc\u00e9 Hang Out TogetherMichelle Obama and Beyonc\u00e9 have never kept their mutual appreciation a secret.",
+      "tones": [
+        {
+          "score": 0.587415,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The two have been friends for almost a decade.",
+      "tones": [
+        {
+          "score": 0.671674,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "It started when Beyonc\u00e9 attended President Obama\u2019s inauguration with her husband, Jay-Z, in 2008, and later serenaded the new first couple with a rendition of Etta James\u2019s \u201cAt Last.\u201d",
+      "tones": [
+        {
+          "score": 0.547854,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Over the years, the two continued to grow closer, collaborating on several causes (including the First Lady\u2019s Let\u2019s Move campaign against childhood obesity), and even bringing their families together at Camp David.",
+      "tones": [
+        {
+          "score": 0.544324,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "And while we knew these two powerhouses were friends, it was hard to picture them just casually hanging out together (their schedules alone must have made it close to impossible).",
+      "tones": [
+        {
+          "score": 0.803726,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Thankfully, this morning, fan group the Beehive released a short clip on Twitter showing Obama, Beyonc\u00e9, and Solange doing just that at the superstar\u2019s birthday party last year.",
+      "tones": [
+        {
+          "score": 0.725702,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Who knew a video of Bey and Michelle saying \u201cBye, Felicia\u201d could be so satisfying?",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

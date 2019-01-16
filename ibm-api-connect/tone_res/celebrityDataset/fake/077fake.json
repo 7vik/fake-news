@@ -1,0 +1,114 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.543085,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.547528,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.579484,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Angelina Jolie &amp; Amal Alamuddin: It's War!When&nbsp;George and Amal Clooney celebrated their wedding for a second time on Oct. 25, there was once again two very noticeable guests missing -&nbsp;Brad Pitt and&nbsp;Angelina Jolie were nowhere to be seen!After years of friendship, it seemed odd for the&nbsp;Fury star to miss his old buddy's wedding - twice!",
+      "tones": [
+        {
+          "score": 0.633709,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "And while he and Angelina were, indeed, filming&nbsp;By the Sea during the original Sept. 27 nuptials, a source close to their family says there's more to the absence than just work commitment.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"They were invited and Brad gave George his word he'd be there,\" the insider explains.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"But Angie vetoed the trip at the last minute.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "She wanted to pull a power play and dis Amal.\"Both women are invested in humanitarian work, but the first time they crossed paths, in London on June 12, Angie made it clear that Amal was persona non grata - and even blew her off when Amal requested a public greeting in front of photographers.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"Angie feels competitive with Amal,\" the source reveals.",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"She has been running from her past for years, and although she's done a fabulous job reinventing herself, she continues to feel like an uneducated outsider.\"Of",
+      "tones": [
+        {
+          "score": 0.784773,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "course, the victims in Angie and Amal's standoff are Brad and George, whose friendship has unraveled in recent years, allegedly due to Angelina's controlling behavior.",
+      "tones": [
+        {
+          "score": 0.702145,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "\"Angie has forbidden Brad to speak to George,\" the insider reports.",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "\"She's walled him off from so many of his old friends that Brad is getting fed up.\"For more on Angie and Amal's feud and how it's tearing Brad and George apart, pick up the latest issue of&nbsp;Star, on newsstands now!",
+      "tones": [
+        {
+          "score": 0.597069,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

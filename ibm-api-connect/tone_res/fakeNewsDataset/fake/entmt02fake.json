@@ -1,0 +1,135 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.597748,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.658523,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Fat shaming kept Emma Thompson out of Los AngelesDespite her fame as an actress, Emma Thompson never moved to Los Angeles, where the Hollywood elite work and buy expensive homes in gated communities.",
+      "tones": [
+        {
+          "score": 0.546968,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Why?",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Because she felt she was too fat.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "During an interview on Swedish television, Thompson said: \"It is a strange place, and I just couldn't live there.\"",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "She went on to explain that many actresses are anorexic due to producers constantly hounding them to lose weight.",
+      "tones": [
+        {
+          "score": 0.609476,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.8766,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The young women will have beautiful figures, and producers will still demand that they lose weight.",
+      "tones": [
+        {
+          "score": 0.696922,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.797389,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "They simply don't eat so they can find work.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "Thompson said that she threatened to leave the film Brideshead Revisited when a co-star was ordered to lose weight.",
+      "tones": [
+        {
+          "score": 0.534746,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "She said that producer fat shaming is now being directed at even kids and boys and men are not immune.",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "The fat shaming continues until a star is in their 30s.",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "By then many have developed permanent eating disorders.",
+      "tones": [
+        {
+          "score": 0.55724,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

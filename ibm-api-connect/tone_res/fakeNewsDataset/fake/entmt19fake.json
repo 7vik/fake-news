@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.583602,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ex-Fox News CFO will not have immunity in Roger Ailes investigation\"The federal investigation stemming from sexual harassment allegations made against former Fox News chief Roger Ailes took a dramatic turn on Tuesday with a report that prosecutors will deny any immunity to the Fox News CFO.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Mark Kranz Fox News' chief financial officer until his retirement last August has been offered immunity from prosecution in exchange for his cooperation with the investigation two sources with knowledge of the matter confirmed to CNNMoney.",
+      "tones": [
+        {
+          "score": 0.747994,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "However, these offers have been pulled after the CFO refused to show at court dates.",
+      "tones": [
+        {
+          "score": 0.510164,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The investigation centers on questions about whether 21st Century Fox misled investors by hiding payments to Fox News employees who alleged that they were sexually harassed by Ailes.",
+      "tones": [
+        {
+          "score": 0.711887,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "As CFO Kranz was directly involved in preparing the company's financial statements and is thus potentially a key witness in the investigation the sources said.",
+      "tones": [
+        {
+          "score": 0.632275,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Kranz's lawyer declined to comment on the matter.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Spokespeople for the Department of Justice and the U.S. Attorney's Office for the Southern District of New York which is handling the investigation also declined to comment.\"",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.694993,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Why Silicon Valley isn't fighting to save the Internet (yet)We thought we'd never have to pull this out again one member of the singing activist group said at a tech industry rally against President Trump in San Francisco earlier this month.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Then the Grannies launched into their protest song: Say to Comcast to Verizon and to AT&amp;T: Hands off the Internet it must be free.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The chant stood out at the protest as the gathering mostly focused on Silicon Valley's fight with Trump over the travel ban.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "It also stands out as one of the few moments since Trump's inauguration when net neutrality took center stage in Silicon Valley.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The net neutrality rules approved by the Federal Communications Commission in 2015 are intended to keep the Internet open and fair.",
+      "tones": [
+        {
+          "score": 0.778006,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The rules prevent Internet providers from playing favorites by deliberately speeding up or slowing down traffic from specific websites and apps.",
+      "tones": []
+    }
+  ]
+}

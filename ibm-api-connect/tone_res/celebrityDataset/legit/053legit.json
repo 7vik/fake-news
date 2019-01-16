@@ -1,0 +1,78 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.754068,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.747809,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Blake Shelton Addresses Rumors On Twitter In The Best Possible WayBlake Shelton has had about enough of all the tabloid chatter regarding him and his wife, Miranda Lambert.Over the past few weeks, rumors have made the rounds that Shelton is cheating on his wife, possibly with actress Lindsay Sporrer, with whom he attended Usher's birthday party.",
+      "tones": [
+        {
+          "score": 0.655954,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "But, in his typical unabashed manner, the singer chose to put a stop to the chatter in the best possible way -- by \"embracing\" the reports, and then making a mockery of them.Shelton took to Twitter yesterday to write to his over four million followers:Shelton had previously commented on being a tabloid fixture, telling \"CBS This Morning\": \"I love it.",
+      "tones": [
+        {
+          "score": 0.738491,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "I honestly do love it.",
+      "tones": [
+        {
+          "score": 0.909329,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "I just know, to have that kind of coverage, if I'm popular enough they want to put me and Miranda on that stuff -- that's awesome.",
+      "tones": [
+        {
+          "score": 0.733853,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "I have an album coming out!",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Put my album right next to it and pick it up.\"",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

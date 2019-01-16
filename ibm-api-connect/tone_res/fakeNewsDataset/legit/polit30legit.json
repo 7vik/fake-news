@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.805482,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "U.S. Travel Industry Fears a 'Lost Decade' Under TrumpLike many Washington lobby groups, the U.S. Travel Association was quick to congratulate the new president on his victory last November.\"We",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "are encouraged that Mr. Trump's extensive business and hospitality background ...will make him a ready and receptive ear,\" the trade organization said.",
+      "tones": [
+        {
+          "score": 0.567836,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "On the Republican's inauguration, the USTA's chief executive officer, Roger Dow, pledged the industry as a \"capable, willing partner.\"But",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "almost immediately things started to go sideways.",
+      "tones": [
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "A steady drumbeat of news and policy proclamations seemed likely to damage America's $250 billion travel industry and its roughly 15 million U.S. employees.",
+      "tones": [
+        {
+          "score": 0.710824,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

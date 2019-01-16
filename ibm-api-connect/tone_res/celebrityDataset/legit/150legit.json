@@ -1,0 +1,83 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.867192,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jennifer Garner Has Girls Night Out with Chelsea HandlerJennifer Garner and Chelsea Handler had a girls night out last night!The pair were seen leaving Giorgio Baldi together on Wednesday (July 12) in Santa Monica, Calif.",
+      "tones": [
+        {
+          "score": 0.604202,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Coincidentally, Giorgio Baldi is where Ben Affleck took his new girlfriend Lindsay Shookus just a few nights earlier.\u201cThey",
+      "tones": [
+        {
+          "score": 0.577681,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "arrived in a limo.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "They looked happy,\u201d a source told People of Ben and Lindsay\u2018s night at Giorgio Baldi.",
+      "tones": [
+        {
+          "score": 0.826414,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\u201cThey had a quick dinner and then returned to Ben\u2019s house.\u201dJennifer",
+      "tones": [
+        {
+          "score": 0.521756,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "and Chelsea looked like they were having fun and were seen laughing on their way out of the restaurant.",
+      "tones": [
+        {
+          "score": 0.76226,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

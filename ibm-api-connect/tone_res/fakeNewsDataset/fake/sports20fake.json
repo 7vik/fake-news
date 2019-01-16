@@ -1,0 +1,104 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.633567,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.542441,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.536421,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Former IndyCar and Nascar driver David Steele killed by sniper during Florida raceSprint car veteran David Steele has been killed by a suspected sniper during a race in Florida.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "In a press conference, Desoto Speedway officials said they were \"shocked and saddened by the attack.\"",
+      "tones": [
+        {
+          "score": 0.639647,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "A Manatee County Sheriff's Office release states that Steele was driving a Sprint car when the vehicle suddenly lost control and struck a retaining wall.",
+      "tones": [
+        {
+          "score": 0.647656,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Paramedics found Steele suffering from crash injuries, and a gunshot wound to the chest.",
+      "tones": [
+        {
+          "score": 0.781946,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "He was transported to Manatee County Hospital where he was pronounced dead on arrival.",
+      "tones": [
+        {
+          "score": 0.606212,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Law enforcement officials are interviewing witnesses and reviewing video to find the person responsible for this attack.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "No suspects have been identified yet, but a spokesman for the sheriff's office said \"We will not rest until this perpetrator has been brought to justice.",
+      "tones": [
+        {
+          "score": 0.61732,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "\"Steele was trying to win his 100th Florida race.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

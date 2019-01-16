@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.629199,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.740925,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.694442,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Elon Musk creates Neuralink brain electrode firmTesla chief executive Elon Musk has launched Neuralink a start-up which aims to develop technology that connects our brains to computers.",
+      "tones": [
+        {
+          "score": 0.538543,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "A report from the Wall Street Journal later confirmed in a tweet by Mr Musk said the company was in its very early stages and registered as a \"medical research\" firm.",
+      "tones": [
+        {
+          "score": 0.790402,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.519491,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The company will develop so-called \"neural lace\" technology which would implant tiny electrodes into the brain.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The technique could be used to improve memory or give humans added artificial intelligence.",
+      "tones": [
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

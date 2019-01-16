@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.574758,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Schools Use Technology to Improve Gym ClassesPhysical education teachers at Parker Middle School are noticing a little extra hustle from their students.When a volleyball rolls across the gym floor during drills, several students chase after it.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Sometimes they start doing jumping jacks between relay races.\"It's",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "all about turning their wrist monitors red,\" said Heather Karns, a physical education teacher for the General McLane School District.The monitors are part of a technology program the school started using about six weeks ago to help students exercise more efficiently in gym class.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The monitors, which look like wrist watches, keep track of each student's heart rate and calories burned.",
+      "tones": [
+        {
+          "score": 0.698634,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

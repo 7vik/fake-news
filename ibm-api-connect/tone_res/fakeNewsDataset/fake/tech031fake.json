@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.514742,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.765774,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Instagram adds futuristic authentication, facial recognition and touch DNAInstagram has added on some futuristic features to put a complete stop to hackers being able to access accounts.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Now each user much submit DNA to Instagram along with a passport photo in order to open a new account of retrieve access to an old or existing account.",
+      "tones": [
+        {
+          "score": 0.694268,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Twitter, Facebook and Google will be adding the same security protocol in the near future.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.602797,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.524989,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.849688,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lewis Hamilton says he will sit out world title raceLewis Hamilton, race car driver from Britain, says he will sit out this year's world title race.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "In Hamilton's most recent race, he came in second at the Australian Grand Prix to Germany's Sebastian Vettel.",
+      "tones": [
+        {
+          "score": 0.611026,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Hamilton said: \"After the defeat at the Australian Grand Prix, I really need some time for some mental recuperation before I get back in the game.",
+      "tones": [
+        {
+          "score": 0.565587,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Perhaps in a year or two I will return with my team after we come up with a plan to go forward\".",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Hamilton lost his last race due to a superior pace by Sebastian Vettel and an early pit stop by Red Bull's Max Verstappen.",
+      "tones": [
+        {
+          "score": 0.779313,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.613236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"Big rule changes are coming soon.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Once we see what the new rules are an adapt our race plan, we hopefully will be back racing again\", said Hamilton.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "In the meantime it looks like the track will miss Lewis Hamilton.",
+      "tones": [
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

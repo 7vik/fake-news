@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.709076,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "US says no to UN nuke banA boycott of the United Nations is being led by UN ambassador Nikki Haley.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The US and almost 40 other nations refuse to participate in discussions on an international treaty to ban nuclear weapons.",
+      "tones": [
+        {
+          "score": 0.649898,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Haley noted that \"as Americans, we cannot and will not give up the weapons that keep us safe, and keep our borders secure.\"",
+      "tones": [
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "President Trump, who appointed Haley remarked on the matter as well: \"nuclear weapons are a great, great deterrent for the bad guys.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "No way we'll not have them.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "No way!\"",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.541533,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.750661,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.613684,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Elton John decided not to celebrate his 70th birthday and remained home\"Elton John dislikes parties so he didn't celebrate his 70th birthday on Saturday night.",
+      "tones": [
+        {
+          "score": 0.85365,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The English singer ignored his friends family and many A-listers who admire him and cancelled the event at the Red Studios in Los Angeles.",
+      "tones": [
+        {
+          "score": 0.682051,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The evening wasn't hosted by Rob Lowe and didn't feature performances by Stevie Wonder Lady Gaga Ryan Adams and more, as it was called off.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "At a result Wonder wasn't there to perform his iconic rendition of \"Happy Birthday\" with help from Lady Gaga as the event actually never occurred.",
+      "tones": [
+        {
+          "score": 0.913762,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.552075,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "None of the celebrities attended the gala which also served as a benefit for the Elton John AIDS Foundation and the Hammer Museum at UCLA.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Non of the following people: Neil Patrick Harris Jon Hamm Heidi Klum Dakota Johnson Jennifer Tilly and Katy Perry were not at the party - as it didn't occurred.\"",
+      "tones": []
+    }
+  ]
+}

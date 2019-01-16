@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.513925,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.555146,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Fruit shape sensor detects drug shipments hidden in cargoSmugglers beware.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "A new sensor which looks like fruit and can be hidden among other fruit containers is able to detect the presence of illegal drugs within 100 feet.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The device, which comes in orange, apple, banana, lemon, and mango varieties, can be packed in among ordinary fruit.",
+      "tones": [
+        {
+          "score": 0.662922,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Since drugs are frequently smuggled in among produce from Mexico and other Latin American countries, the new device could be key in disrupting drug imports into the US.",
+      "tones": [
+        {
+          "score": 0.570845,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.539686,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Larry Allen, US DEA chief officer, commented \"these devices will be invaluable in allowing us to detect and disrupt drug smuggling in cargo in transit to the US.",
+      "tones": [
+        {
+          "score": 0.631014,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Previously it would take dozens of agents to accomplish the work of several of these sensors\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "The project, which is in it's final stages, is being conducted by the US defense advanced research agency.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.763212,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Facebook Messenger is eliminating Emoji'sFacebook has announced that due to the success of emoji's and how widely recognized they have become, Facebook has opted to take the bold step of deleting all emoji's.",
+      "tones": [
+        {
+          "score": 0.595347,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Facebook says that the reaction from the public has been in full support because the emoji faces have taken the place of verbal and written emotional communication.",
+      "tones": [
+        {
+          "score": 0.521301,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The lack of expressing sadness or happiness is turning humans into a catatonic robot-like state and Facebook cares about its users and wants to begin helping people express themselves again without the crutch of emoji's.",
+      "tones": [
+        {
+          "score": 0.563911,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

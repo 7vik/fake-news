@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.705606,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brexit boost: Qatar will invest another $6 billion in U.K.The gas-rich Gulf state has already invested about \u00a340 billion ($50 billion) in Britain where it owns a string of trophy assets including the Harrods department store and the Shard -- western Europe's tallest building.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Prime Minister Sheikh Abdullah bin Nasser Al Thani said Qatar would spend another \u00a35 billion ($6.3 billion) over the next 3 to 5 years on energy infrastructure real estate and other sectors.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The news comes as Prime Minister Theresa May prepares to trigger the official EU exit process on Wednesday.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.515576,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"We are looking beyond the boundaries of our own continent ready to embrace all the opportunities of this new era said Liam Fox, U.K. secretary of state for international trade.",
+      "tones": [
+        {
+          "score": 0.657273,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

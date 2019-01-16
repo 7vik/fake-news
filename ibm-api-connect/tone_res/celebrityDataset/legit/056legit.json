@@ -1,0 +1,345 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.623859,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.646409,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.579472,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.684621,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sarah Jessica Parker Puts Rumors of Feud with Kim Cattrall to Rest with One Birthday InstagramAlthough we couldn't help but wonder if Carrie Bradshaw would understand Instagram.Yesterday was Kim Cattrall's 60th birthday.",
+      "tones": [
+        {
+          "score": 0.626551,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.523417,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "She received plenty of good tidings from various news outlets and other actors, but the main question on everybody's lips was whether her Sex and the City co-star would express her own well wishes.",
+      "tones": [
+        {
+          "score": 0.570983,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.779757,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The answer was yes! Sarah Jessica Parker, the Carrie Bradshaw to Cattrall's Samantha Jones, took to Instagram to very publicly declare that she was sending Cattrall love and all her very best on this, Cattrall's special day.\"Your",
+      "tones": [
+        {
+          "score": 0.782273,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.705784,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.783854,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "ol' pal, fellow mischief maker, and 'sister,' Sj,\" Parker signed her note.",
+      "tones": [
+        {
+          "score": 0.672469,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Sister didn't really need to go in quotes, but point made.",
+      "tones": [
+        {
+          "score": 0.59244,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "For years, there have been rumors of a feud between the two co-stars on the set of both the Sex and the City TV show as well as the two films the TV show begat.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "This Instagram finally put those rumors to bed.The cause of the fight is usually pinned to money.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "\"The ladies reportedly had a big falling out in the show's final season when Parker was paid considerably more than Cattrall on the HBO series,\" Us Weekly notes.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "Us reports that their alleged disagreement over money might have caused additional problems with production on the Sex and the City films.Parker and Cattrall have denied rumors of a falling out and feud for years.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "In November 2009, Parker told Elle, \"I don't think anybody wants to believe that I love Kim.",
+      "tones": [
+        {
+          "score": 0.746381,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.873263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "I adore her.",
+      "tones": [
+        {
+          "score": 0.880435,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "I wouldn't have done the movie without her.\"",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "Cattrall, in turn, told the magazine, \"She shines and she allows you to shine as well.\"Cattrall",
+      "tones": [
+        {
+          "score": 0.673315,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.825947,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "was still being asked about the supposed beef in a January 2010 interview with the Daily Mail.",
+      "tones": [
+        {
+          "score": 0.775166,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "\"I think Sarah was right: people don't want to believe that we get on.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "They have too much invested in the idea of two strong, successful women fighting with each other.",
+      "tones": [
+        {
+          "score": 0.780593,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "It makes for juicy gossip and copy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "The truth of us being friends and getting along and happily doing our jobs together is where near as newsworthy.",
+      "tones": [
+        {
+          "score": 0.564689,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "I think Sarah is fantastic. . . .",
+      "tones": [
+        {
+          "score": 0.766281,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "She and I are sick of this.",
+      "tones": [
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "It's exhausting talking about it, and a real bore.\"Well,",
+      "tones": [
+        {
+          "score": 0.847627,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "it's been six years since that interview.",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "Now we have social media, which allows us to get words and images straight from celebrities' mouths with no publication acting as a middle man to possibly filter or alter their quotes.",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "So behold an image of Kim Cattrall posted by Sarah Jessica Parker on her birthday.",
+      "tones": [
+        {
+          "score": 0.593864,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "Look at the caption in which Parker calls Cattrall a beauty and wishes her joy and an adventure-filled year.It's just like Carrie said: \"Friendships never go out of style.\"",
+      "tones": [
+        {
+          "score": 0.847954,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.727113,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "Or like Samantha said: \"I support you, and these bitches need to be put in their places.\"",
+      "tones": [
+        {
+          "score": 0.609563,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.775166,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

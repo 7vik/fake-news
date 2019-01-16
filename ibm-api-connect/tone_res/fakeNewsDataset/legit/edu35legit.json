@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.720233,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.663686,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "5-year-old wins Oklahoma spelling bee, heading for nationalsTULSA, Okla.",
+      "tones": [
+        {
+          "score": 0.506221,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "- A 5-year-old girl is bound for the Scripps National Spelling Bee after becoming the youngest winner of a regional competition in Oklahoma.Edith Fuller won the Tulsa-area contest by correctly spelling jnana (juh-nah-nuh).",
+      "tones": [
+        {
+          "score": 0.546399,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Merriam-Webster defines the word as meaning knowledge acquired through meditation in the Hindu tradition.The Tulsa World reports (http://bit.ly/2mcFYmD",
+      "tones": [
+        {
+          "score": 0.521773,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.901894,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": ") Edith beat out more than 50 other elementary and middle school students Saturday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Edith is home-schooled and represented the TBC Home Education Fellowship in the bee.",
+      "tones": []
+    }
+  ]
+}

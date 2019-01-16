@@ -1,0 +1,60 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.622843,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.544371,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.580964,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Prince - The Truth Behind His Drug OverdoseAs The ENQUIRER reported, Prince had been diagnosed with HIV, the virus that causes AIDS, in the 1990s.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Jehovah's Witness chose not to fight the deadly disease with medications due to his faith, believing \"God will save me!\" Six months ago, he was told by doctors he had full-blown AIDS and had just six months to live, sources said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"He couldn't take the pain the disease was causing him in its last stages,\" an insider told The ENQUIRER.",
+      "tones": [
+        {
+          "score": 0.806892,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"And he didn't want to just slowly waste away!\"",
+      "tones": [
+        {
+          "score": 0.744019,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

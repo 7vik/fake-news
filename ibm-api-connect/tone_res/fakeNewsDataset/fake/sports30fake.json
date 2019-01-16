@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.655018,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Liverpool Club Has Big Trouble Getting Its Players HomeThe Liverpool Club had to hire a private jet to get Philippe Coutinho and Roberto Firmino out of Brazil in time for the Merseyside Derby back in England.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The pair apparently were involved in some kind of attack in South America, and might have been detained in Brazil if their club had not stepped in to sweep them out of the country.",
+      "tones": [
+        {
+          "score": 0.775166,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Fenway Sporting Group, Liverpool's high-powered owner, seems to have secretly arranged the flight that got its boys out of trouble and out of town, fast.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Here's wishing the pair fights as hard on the playing field!",
+      "tones": [
+        {
+          "score": 0.635809,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

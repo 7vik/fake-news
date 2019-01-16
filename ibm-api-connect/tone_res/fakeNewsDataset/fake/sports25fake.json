@@ -1,0 +1,123 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.603865,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.605491,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.847375,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.793345,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jimmy Anderson retires from sport after England Test SummerJimmy Anderson, England's all-time leading wicket-taker, announced today his retirement from the sport.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Lancashire swing bowler turns 35 in July.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Anderson has been inflicted with a problematic shoulder all year.",
+      "tones": [
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "He missed England's final test in India in the December, and has missed five tests because of injury in England's last 11.",
+      "tones": [
+        {
+          "score": 0.694839,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Anderson had spent the remaining part of the winter recuperating and resting to get his shoulder ready for the next upcoming season.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Remarked Anderson \"I want to thank all my fans that supported me through the years.",
+      "tones": [
+        {
+          "score": 0.669906,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.727798,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "I must accept that to continue pursuing the sport will put my long term health at further risk.",
+      "tones": [
+        {
+          "score": 0.508177,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Therefore I decided to begin to pursue other ventures in my life.\"",
+      "tones": [
+        {
+          "score": 0.679593,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.955445,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

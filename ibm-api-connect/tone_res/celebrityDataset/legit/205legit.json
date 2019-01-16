@@ -1,0 +1,220 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.562755,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.579893,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.729128,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ben Affleck Has Reportedly Started Training For The BatmanIf you have been worried about Ben Affleck\u2019s place in the DC Extended Universe, then you can breathe a sigh of relief.",
+      "tones": [
+        {
+          "score": 0.740824,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Over the last few months, fans of the actor\u2019s take on the Gotham vigilante have grow increasingly worried about whether Affleck would return to the role.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "A series of blips concerning Batman\u2019s impending standalone movie were enough to make the most confident of fans second-guess Affleck\u2019s longterm commitment to Batfleck.",
+      "tones": [
+        {
+          "score": 0.535158,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "In fact, some were even worried the actor would back out of The Batman entirely after Affleck stepped down as director.But, if one inside scoop has anything to say, then Affleck is still down to reprise Bruce Wayne for the solo venture.Earlier today, noted DC Comics insider Umberto Gonzalez dropped some Batman scoop in an episode of Heroic Insider.",
+      "tones": [
+        {
+          "score": 0.572822,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.579545,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It was there the reporter said Affleck has started a new training regiment to get him ready for The Batman.",
+      "tones": [
+        {
+          "score": 0.695634,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\u201cBen Affleck, Batman, I just got word that he just started training again for the role.",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "You know how there was talk that he was gonna leave and he might leave the role?",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Nah, bro.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "He\u2019s working out.",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "He\u2019s getting back in shape,\u201d Gonzalez told fans.Of course, there is no official confirmation about whether Affleck\u2019s new workout schedule adheres to such a promise.",
+      "tones": [
+        {
+          "score": 0.791166,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.525926,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "Still, it seems more and more likely that Affleck will return to the superhero role.",
+      "tones": [
+        {
+          "score": 0.556791,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.904882,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "Excitement for Justice League continues to mount ahead of its fall premiere this year, and the introduce of Matt Reeves to The Batman has fans fired up as well.",
+      "tones": []
+    },
+    {
+      "sentence_id": 12,
+      "text": "In a recent interview with Daily News, the director admitted he\u2019s been a Batman fanboy for years, and Reeves seems partial to Affleck\u2019s darker take on the character.\u201cIt\u2019s",
+      "tones": []
+    },
+    {
+      "sentence_id": 13,
+      "text": "a strange thing to be involved in the two franchises which were the two that I was connected to most as a child,\u201d Reeves said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 14,
+      "text": "\u201cI just was obsessed with Batman when I was a kid.",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "What I find so interesting about him as a character is that, as far a superhero goes, he\u2019s not superhuman, he is a person.",
+      "tones": []
+    },
+    {
+      "sentence_id": 16,
+      "text": "And he is a tortured soul who is grappling with his past and trying to find a way to be in a world that has a lot that\u2019s wrong with it and trying to find a way to reconcile all of that.\u201d",
+      "tones": [
+        {
+          "score": 0.514644,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.597565,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "In Justice League, fueled by his restored faith in humanity and inspired by Superman\u2019s selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy.",
+      "tones": [
+        {
+          "score": 0.872049,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "Together, Batman and Wonder Woman work quickly to find and recruit a team of metahumans to stand against this newly awakened threat.",
+      "tones": []
+    },
+    {
+      "sentence_id": 19,
+      "text": "But despite the formation of this unprecedented league of heroes\u2014Batman, Wonder Woman, Aquaman, Cyborg and The Flash\u2014it may already be too late to save the planet from an assault of catastrophic proportions.Justice League is directed by Zack Snyder, from a screenplay by Chris Terrio, based on a story by Snyder and Terrio, and stars Ben Affleck, Henry Cavill, Gal Gadot, Jason Momoa, Ezra Miller, Ray Fisher, Amy Adams, Willem Dafoe, Jesse Eisenberg, Jeremy Irons, Diane Lane, Connie Nielsen, J. K. Simmons, and Ciar\u00e1n Hinds.",
+      "tones": [
+        {
+          "score": 0.5298,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

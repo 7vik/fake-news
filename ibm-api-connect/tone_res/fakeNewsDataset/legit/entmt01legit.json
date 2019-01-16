@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.857174,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.55134,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Will Smith reunites with Fresh Prince of Bel-Air palsWill Smith has reunited with the cast from The Fresh Prince Of Bel-Air - more than 20 years after the show ended its six-year run.",
+      "tones": [
+        {
+          "score": 0.729208,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Six members of the show posed for a photo which was shared by Alfonso Ribeiro who played Carlton in the hit 90s US show.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "In the Instagram post Ribeiro wrote: \"Always amazing to spend an afternoon with my Fresh Prince family.",
+      "tones": [
+        {
+          "score": 0.91903,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Wishing that James Avery was still with us to make this complete.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Avery who played Uncle Phil died in 2013.",
+      "tones": [
+        {
+          "score": 0.773197,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Smith and Ribeiro were joined by Tatyana Ali (Ashley) Karyn Parsons (Hilary) Daphne Maxwell Reid (Vivian) and Joseph Marcell (Geoffrey).",
+      "tones": []
+    }
+  ]
+}

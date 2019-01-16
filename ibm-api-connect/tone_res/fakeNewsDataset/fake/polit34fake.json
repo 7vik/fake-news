@@ -1,0 +1,62 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.647919,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Biden: Trump was wiretapped, but not by USJoe Biden said President Donald Trump was indeed, wiretapped but not by the US.",
+      "tones": [
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "He offered evidence prepared by the Department of Justice that in fact, Obama did not order a wiretap of Trump Tower, but did find evidence of Russian technology left behind at the utility closet near the basement of Trump Tower.",
+      "tones": [
+        {
+          "score": 0.582711,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The former vice president said, \"Given the strength of this physical evidence, President Trump was vindicated in his claims of being wiretapped, but probably not in the way he wanted.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Obama, via a spokesperson, denied that he wiretapped Trump Tower after the current president tweeted the accusation.",
+      "tones": [
+        {
+          "score": 0.538448,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "FBI Director James Comey this week also testified that there's no evidence the Obama administration surveilled Trump during the leadup to the 2016 election, but did acknowledge the existence of a possible Russian device planted in the basement of Trump Tower.",
+      "tones": [
+        {
+          "score": 0.618406,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.614608,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "New Nintendo Switch game console to launch in March for $99Nintendo plans a promotional roll out of it's new Nintendo switch game console.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "For a limited time, the console will roll out for an introductory price of $99.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Nintendo promises to pack the new console with fun features not present in past machines.",
+      "tones": [
+        {
+          "score": 0.76053,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The new console contains new features such as motion detectors and immersive and interactive gaming.",
+      "tones": [
+        {
+          "score": 0.895415,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The new introductory price will be available for two months to show the public the new advances in gaming.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "However, initial quantities will be limited to 250,000 units available at the sales price.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "So rush out and get yours today while the promotional offer is running.",
+      "tones": []
+    }
+  ]
+}

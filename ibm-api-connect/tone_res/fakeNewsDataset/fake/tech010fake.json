@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.795534,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "AT&amp;T posts big news ads YouTube and Google sitesAT&amp;T wants to begin a campaign and announce to the world that they are going out of business.",
+      "tones": [
+        {
+          "score": 0.508325,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The company has decided to honor the best they made with Verizon.",
+      "tones": [
+        {
+          "score": 0.829122,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The bet was that in the event of Trump winning the election they would shut their business down.",
+      "tones": [
+        {
+          "score": 0.561227,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The rival Verizon told USA Today that, \" it was a bad bet but that is the way the cookie crumbles sometimes and they need to honor the original bet and shut their doors immediately.\"",
+      "tones": [
+        {
+          "score": 0.58756,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.775166,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

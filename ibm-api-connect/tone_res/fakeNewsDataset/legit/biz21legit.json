@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.688926,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "American Airlines ties up partnership with China SouthernAmerican Airlines and China's biggest carrier by passengers China Southern have agreed a strategic partnership.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The US airline will buy $200m (\u00a3159m) worth of shares in the Chinese firm and the two will \"seek to increase cooperation\".",
+      "tones": [
+        {
+          "score": 0.585798,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "China Southern is the latest of China's top airlines to bring in an investor from outside the mainland.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The deal should offer American Airlines more possibilities to tap into China's growing aviation market.",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "China is one of the biggest sources of tourists to the US with Chinese carriers aggressively expanding their fleets and range of overseas destinations to cater to the strong growth in traveller numbers.",
+      "tones": []
+    }
+  ]
+}

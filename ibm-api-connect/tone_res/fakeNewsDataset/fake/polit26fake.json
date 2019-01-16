@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.803088,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.707243,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Homeland Security Goes On StrikeWashington (CNN)President Donald Trump posted on Twitter that all of the Homeland Security officers must go on strike immediately.",
+      "tones": [
+        {
+          "score": 0.523012,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Department of Homeland Security quickly announced that the President is ultimately in charge of the countries safety and that they would comply with the surprising order.",
+      "tones": [
+        {
+          "score": 0.712733,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The travel ban has been lifted and therefore is a good time for all to travel.",
+      "tones": [
+        {
+          "score": 0.656392,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.868982,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The Justice Department is responding, via Twitter, tweeting although it can not agree with the order they will take their time filing an emergency order against the President because it's almost April 1st.",
+      "tones": [
+        {
+          "score": 0.550349,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

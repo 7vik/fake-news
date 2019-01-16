@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.759181,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Watch Out Gwyneth Paltrow \u2013 Jennifer Aniston Is After You! EXCLUSIVEJennifer Aniston is in talks with business partners to open a wellness center that will provide facialists, workouts, meditation classes, and even a caf\u00e9 with healthier versions of delicious foods.\u201cJennifer",
+      "tones": [
+        {
+          "score": 0.895512,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "has dreamed about opening a center for a long time and is now getting serious about it,\u201d sources tell Straight Shuter.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\u201cJen knows that this is Gwyneth Paltrow\u2019s area of expertise but that isn\u2019t going to stop her.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Over the years Jen has learned a huge amount of information relating to living a better life and she wants to make a business out of it.",
+      "tones": [
+        {
+          "score": 0.640239,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.740384,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It will not be a website like Paltrow\u2019s, but rather a physical building where guests can go and get services.\u201d",
+      "tones": []
+    }
+  ]
+}

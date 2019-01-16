@@ -1,0 +1,109 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.619635,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.538594,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.553958,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Katy Perry pays tribute to fan killed in an auto accidentKaty Perry has paid special tribute to an 18-year-old superfan who died in a car accident.",
+      "tones": [
+        {
+          "score": 0.770125,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "According to ABC affiliate KTBS-TV in Shreveport Louisiana 18-year-old Katie Bell died this past weekend when she lost control of her car and collided head-on with another vehicle.",
+      "tones": [
+        {
+          "score": 0.537097,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The other driver was also killed.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"We see you angel and we love and will miss you Perry tweeted on Tuesday morning.",
+      "tones": [
+        {
+          "score": 0.691208,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "KC's light a candle for Katie.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Rest In Peace.\"",
+      "tones": [
+        {
+          "score": 0.81003,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "She included one of Bell's videos in her tweet.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "News of Bell's death apparently inspired the hashtag #RIPKatycatKatie -- Perry fans call themselves \"KatyCats\" -- and Perry herself took notice.",
+      "tones": [
+        {
+          "score": 0.705784,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "To further honor Bell Perry changed her name on her Twitter profile to Bell's hashtag.",
+      "tones": [
+        {
+          "score": 0.571199,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516658,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.556422,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.798233,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Weinstein Sues Weinstein Company, Demanding Access to RecordsHarvey Weinstein, who was fired by the studio he had helped found after The New York Times revealed decades of sexual harassment allegations against him, sued the Weinstein Company on Thursday to demand access to records and emails.The complaint, filed in Delaware Chancery Court, said Mr. Weinstein needed the materials to defend himself.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "More than 50 women have come forward in recent weeks to accuse Mr. Weinstein of sexual harassment or rape.\u201cMr.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Weinstein believes that his email account \u2014 which is the primary, if not only, account he used during the term of his employment by the company \u2014 will contain information exonerating him,\u201d the complaint said.Mr.",
+      "tones": [
+        {
+          "score": 0.817883,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Weinstein also wants access to his former email account and other company documents, including his personnel file, to pursue a claim of wrongful termination against the Weinstein Company, according to the complaint.",
+      "tones": [
+        {
+          "score": 0.693439,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "He also wants to pursue legal action against the studio \u201cfor mismanagement by leaking confidential company information\u201d \u2014 saying that certain news reports about his behavior \u201ccould have only come from his personnel file.\u201dAccording to the filing, Mr. Weinstein is also seeking the materials to protect his 20 percent ownership stake in the studio by making sure it does not sell itself for a bargain price or make \u201cunjustified settlements\u201d with women who have made allegations against him.",
+      "tones": [
+        {
+          "score": 0.666033,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\u201cIf the board agrees to sell the company for less than it would be worth because of the threat of unsubstantiated or false allegations, Mr. Weinstein will receive less than he should have received,\u201d the complaint said.Through a spokeswoman, Mr. Weinstein has repeatedly denied \u201cany allegations of nonconsensual sex.\u201d",
+      "tones": [
+        {
+          "score": 0.556639,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.727637,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.735031,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.68097,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Scientists Bristle at Trump Budget's Cuts to ResearchBefore he became president, Donald J. Trump called climate change a hoax, questioned the safety of vaccines and mocked renewable energy as a plaything of \"tree-huggers.\"So",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "perhaps it is no surprise that Mr. Trump's first budget took direct aim at basic scientific and medical research.Still, the extent of the cuts in the proposed budget unveiled early Thursday shocked scientists, researchers and program administrators.",
+      "tones": [
+        {
+          "score": 0.705784,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The reductions include $5.8 billion, or 18 percent, from the National Institutes of Health, which fund thousands of researchers working on cancer and other diseases, and $900 million, or a little less than 20 percent, from the Department of Energy's Office of Science, which funds the national laboratories, considered among the crown jewels of basic research in the world.",
+      "tones": [
+        {
+          "score": 0.737907,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.851834,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Hillary Clinton, the Debate TormentorHillary Clinton, Democratic Vice Presidential nominee spent much of the last debate interrupting her republican opponent, businessman Donald Trump.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Hillary mocked Trump and often tried to \"translate\" things he had said.",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Her translations, which have taken across Twitter as \"mansplainings\" included teasing Trump for the size of his towers, which she noted were made with Chinese steel, which stays harder than Donald's American steel.",
+      "tones": [
+        {
+          "score": 0.619427,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "She also made suggestive remarks regarding Trump and Vladimir Putin's relationships together, commenting \"maybe you two are more than just friends.\"",
+      "tones": [
+        {
+          "score": 0.876534,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.710259,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "SEXIST RORY MCILROY CALLS VOTE FOR FEMALE MEMBERS AT MUIRFIELD 'OBSCENE'Rory McIlroy says the need for Muirfield golfers to have a second ballot on the issue was \"obscene\" and \"horrendous.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Honorable Company of Edinburgh Golfers the club based at the East Lothian links voted 80.2% in favor of admitting women this week overturning a ballot that ruled against changing its male-only policy last May.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"I mean it's obscene.",
+      "tones": [
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "It's ridiculous,\" McIlroy told a news conference ahead of the Arnold Palmer Invitational event in Florida.",
+      "tones": [
+        {
+          "score": 0.665625,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"I still think that it got to this stage is horrendous.\"\"",
+      "tones": [
+        {
+          "score": 0.703409,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

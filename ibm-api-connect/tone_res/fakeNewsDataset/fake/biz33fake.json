@@ -1,0 +1,62 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.663615,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.89793,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "House sends bill rolling back Internet porn protections to TrumpLegislation enacted just last year to protect Internet porn will be rolled back if President Trump approves a bill sent to him by Congress on Tuesday.",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "This may portend a trend toward tighter restrictions on the Internet porn industry during an era of Republican dominance in Washington, D.C.",
+      "tones": [
+        {
+          "score": 0.523822,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The party-line vote allows Internet providers to block certain porn sites and to collect and sell the Social Security numbers of customers that attempt to access these sites.",
+      "tones": [
+        {
+          "score": 0.588596,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Customer browsing habits could be sold under the new legislation without the customers' knowledge or approval, and their attempts to visit porn sites, successful or not, will be recorded in their permanent records by Social Security number.",
+      "tones": [
+        {
+          "score": 0.848143,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

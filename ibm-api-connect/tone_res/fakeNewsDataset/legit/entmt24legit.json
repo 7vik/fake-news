@@ -1,0 +1,64 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.500386,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "NYC apartment featuring David Bowie's piano on the market for $6.5 millionThe chance to play the late David Bowie's piano while enjoying unobstructed views of Central Park in a New York City apartment could be yours for $6.495 million.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "A three-bedroom two-and-a-half-bath apartment once owned by Bowie and his wife Iman went on the market on Monday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The couple sold the apartment located in the Essex House on Central Park South in 2002 10 years after they wed.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Bowie's Yamaha piano was included in the 2002 sale and has remained in the apartment ever since.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The current sellers who did not buy the apartment from Bowie and Iman are keeping the tradition alive by including the piano in the listing price.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"I would imagine it is hard to move but I think it's really a great catch for buyers the apartment's exclusive agent, Bernice Leventhal of the Corcoran Group, told ABC News.",
+      "tones": [
+        {
+          "score": 0.569053,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.676008,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The 1,877-square-foot home is used as a pied-\u00e0-terre by its current owners.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "It features a limestone foyer, walk-in closet, two master-sized bedrooms and a master bath with a rain shower and heated floors.",
+      "tones": []
+    }
+  ]
+}

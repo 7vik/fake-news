@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.557111,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Congress Plans to take away you privacy.Republicans have always thought people have had to much privacy.",
+      "tones": [
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Privacy is the only thing stopping them from taking over the country.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Verizon, comcast and AT&amp;T now own congress and are secret partners.",
+      "tones": [
+        {
+          "score": 0.518264,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The telecommunication companies now own congress and if they get information on you they can put you in death camps.",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "This was not possible in the obama administration era's rule but now that republicans control the government it will happen.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "This action is improved by Donald trump.",
+      "tones": []
+    }
+  ]
+}

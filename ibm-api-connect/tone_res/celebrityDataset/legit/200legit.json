@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.856298,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.649255,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Prince William &amp; Kate Attend First Royal Garden Party of the SeasonWith warm weather comes one thing: garden parties!You better believe the royals were out and dressed to the nines to celebrate the beginning of the official season earlier today.Kate Middleton and Prince William mingled with guests at the lavish daytime affair and smiled for the crowd as they posed for their official photographs.The Duchess of Cambridge donned a Christopher Kane coat dress and paired it with a sophisticated John Lock and Co. hat that perfectly matched the baby blue satin.PhotosQueen Elizabeth II's Royal Style Through the YearsNearby, Queen Elizabeth II and Prince Philip hobnobbed with approximately 8,000 lucky party attendees as well and appeared to be in great spirits.Per the palace, today's bash was quite the event to remember.",
+      "tones": [
+        {
+          "score": 0.905026,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Almost 27,000 cups of tea were served to those in attendance and around 20,000 tea sandwiches were consumed.Still hungry?",
+      "tones": [
+        {
+          "score": 0.513216,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Worry not, there was plenty of dessert to nosh on\u2014specifically, 20,000 slices of cake.More garden parties are expected on the official royal calendar in between May 23 and June 1, so we'll be seeing fascinators galore in no time flat.But speaking of fancy royal garb, there's a big event coming up in a few days that's bound to be filled with stunning couture\u2014Pippa Middleton's wedding!Kate's younger sister is tying the knot on Saturday to James Matthews and several family members are expected to attend.Looks like it's only a matter of time before we see what they'll all be wearing!",
+      "tones": [
+        {
+          "score": 0.707955,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

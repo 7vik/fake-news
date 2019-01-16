@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.800821,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.814556,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.829888,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "STEM Students Create Winning InventionSTREAMWOOD, Ill.",
+      "tones": [
+        {
+          "score": 0.654336,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "(AP) -- It's a small generator that could power a small light, but the invention could pay some big dividends for a group of Streamwood High School students.Their wind-powered generator idea won the state competition in the Samsung Solve for Tomorrow contest, which encourages teachers and students to solve real-world issues using classroom skills in science, technology, engineering, arts and mathematics.",
+      "tones": [
+        {
+          "score": 0.73843,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.710004,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The 16 students will compete this spring for 10 national finalist slots and ultimately a prize of up to $200,000.",
+      "tones": [
+        {
+          "score": 0.697533,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

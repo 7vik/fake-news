@@ -1,0 +1,62 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.809099,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.787083,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Yahoo Denies Data Breach from 500M AccountsWhile many news outlets are reporting the state-sponsored theft of 500 million user accounts from the Yahoo network, Yahoo has denied the breach has taken place.",
+      "tones": [
+        {
+          "score": 0.52711,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"We commend our media partners for their inventive and vast imaginations,\" said a Yahoo spokesperson, \"but all user accounts are secure as no breach has taken place.\"",
+      "tones": [
+        {
+          "score": 0.763553,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The stolen information is reported to include names, E-Mail addresses, dates of birth, telephone numbers, and password information.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Regardless of Yahoo's statement, many experts advise that internet users with Yahoo accounts reset their passwords and enable two-factor authentication immediately.",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

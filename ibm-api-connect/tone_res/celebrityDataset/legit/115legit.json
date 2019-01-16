@@ -1,0 +1,130 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.654834,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.610343,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.630458,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Nicole Kidman Finally Admits To BotoxAs far as we can tell, Botox tops the list of celebrity guilty pleasures: Everybody does it, but nobody talks about it.",
+      "tones": [
+        {
+          "score": 0.770659,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Except Nicole Kidman, that is.The actress' seldom-moving face has been the subject of speculation the past few years, inspiring headlines like \"Help!",
+      "tones": [
+        {
+          "score": 0.839239,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.63698,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "I Can't Move My Face!\" Fortunately, Nicole's decided to address the rumors head on.",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "And even though we've seen a bit of flip-flopping, her latest stance is that her visage is \"completely natural.\"\"No",
+      "tones": [
+        {
+          "score": 0.631463,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.638987,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "surgery for me,\" Nicole tells Italy's La Repubblica.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"I did try Botox, unfortunately, but I got out of it and now I can finally move my face again.\"We",
+      "tones": [
+        {
+          "score": 0.554904,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "don't know how recently this skin epiphany went into effect, but it's safe to say that her face stayed suspiciously still at the Golden Globes this month -- nary a frown line or a crow's foot.",
+      "tones": [
+        {
+          "score": 0.745634,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Also, back in May 2011, the 45-year-old maintained that she had \"nothing\" in her face, so was she glossing over the whole Botox thing?This time around, she deemed the non-surgical treatment an \"unfortunate move\" and that she's moved on to more effective age-defying tricks.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "\"I wear sunscreen, I don't smoke and I take care of myself, and I am proud to say that,\" Nicole said.Sunscreen as the fountain of youth?",
+      "tones": [
+        {
+          "score": 0.556304,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Well played, Nicole.",
+      "tones": []
+    }
+  ]
+}

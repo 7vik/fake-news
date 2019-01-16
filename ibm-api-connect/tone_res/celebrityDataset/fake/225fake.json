@@ -1,0 +1,115 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.560281,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.574865,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.594712,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.602922,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Tyra Banks Sued for Causing 'Emotional Distress' During \u2018America\u2019s Got Talent\u2019 Taping*A contestant on \u201cAmerica\u2019s Got Talent\u201d says&nbsp;her performance at a recent taping was roasted&nbsp;so viciously by&nbsp;new host Tyra Banks&nbsp;that it has caused emotional distress to her young daughter, who was watching from the wings.The woman, identified in the filing as Jane Doe, filed a lawsuit against Banks on Tuesday in L.A. Superior Court accusing the former model&nbsp;of battery and assault, and seeking&nbsp;damages for infliction of emotional distress, reports Variety.Jane Doe says she and her husband were performing an ode to their&nbsp;daughter, identified as Mary, during&nbsp;a taping on March 19.",
+      "tones": [
+        {
+          "score": 0.57362,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Once they finished, the woman says that she and her husband were \u201chumiliated\u201d by the judges and the audience, who criticized the song.According to the suit, Banks added to the humiliation by making fun of the song in front of Mary.",
+      "tones": [
+        {
+          "score": 0.702236,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.720099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Jane Doe alleges that Banks pulled her daughter\u2019s hair back, physically manipulated her, and insinuated that the girl was accidentally conceived.Afterward, \u201cMary was traumatized and became deeply depressed,\u201d the suit states.",
+      "tones": [
+        {
+          "score": 0.639914,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\u201cMary would become extremely nervous and anxious whenever, among other triggering events, she hears any mentions of [the] song and [the] song itself, whenever she ruminates about the events during or related to the performance, and whenever she thinks about the prospective televised airing or use online of Jane Doe and her husband, their performance, as well as the airing and use online of any footages of Mary.\u201dReality show contestants typically sign waivers acknowledging that they may be subjected to ridicule and humiliation.",
+      "tones": [
+        {
+          "score": 0.54914,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.651008,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "However, the suit alleges that Marathon Productions got Mary to sign a contract without her parents\u2019 knowledge or consent, according to Variety.After the contestant complained, the company communicated that it would not feature Mary in the broadcast.",
+      "tones": [
+        {
+          "score": 0.875324,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "However, the couple asked that the entire performance not be aired.",
+      "tones": [
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "That request was refused.",
+      "tones": [
+        {
+          "score": 0.564749,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    }
+  ]
+}

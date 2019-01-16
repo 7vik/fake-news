@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.833935,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.620072,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.511559,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Toshiba's Westinghouse creating thriving job market for US citizensWith Trump promising to bring jobs back to the US, Toshiba's Westinghouse is showing how he is doing just that with their US nuclear unit projects located in Georgia and South Carolina.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Japanese based parent company is excited to see their profits from the US units exceed 9.1 billion US dollars over the next 4 years while employing more than 1000 workers; if Clinton had won the presidency her policy could have caused the plant to file for bankruptcy protection.",
+      "tones": [
+        {
+          "score": 0.66899,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.618744,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Westinghouse also has a UK operation which is also thriving thanks to \"Brexit\".",
+      "tones": [
+        {
+          "score": 0.53267,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

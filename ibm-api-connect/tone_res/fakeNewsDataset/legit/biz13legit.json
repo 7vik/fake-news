@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.530624,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ford to invest $1.2bn in Michigan plantsFord has said it will spend $1.2bn (\u00a31bn) as part of a planned upgrade of three Michigan plants.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "It said $850m will be spent on retooling its factory in Wayne where Ford plans to build Bronco and Ranger models.",
+      "tones": [
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.696092,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In addition Ford will create 130 jobs at its Romeo engine parts plant it said in a statement.",
+      "tones": [
+        {
+          "score": 0.866434,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "In January the US car giant said it would cancel a $1.6bn plant it had planned to build in Mexico.",
+      "tones": [
+        {
+          "score": 0.653616,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "US President Donald Trump who put pressure on Ford over its planned Mexico investment tweeted earlier on Tuesday: \"Big announcement by Ford today.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Major investment to be made in three Michigan plants.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Car companies coming back to US. JOBS! JOBS! JOBS!\" Ford's US investment announcement is largely in line with a previous agreement it reached with the United Auto Workers union.",
+      "tones": []
+    }
+  ]
+}

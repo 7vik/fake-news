@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.610099,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "JLo Dumped By NBC After Terrible Ratings - EXCLUSIVEJLo Dumped By NBC After Terrible Ratings \u2013 EXCLUSIVEAfter the disastrous ratings for Hairspray Live NBC is reconsidering its live holiday musical tradition and are considering cancelling next years broadcast of 'Bye Bye Birdie' staring Jennifer Lopez.\"They",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "committed to Jennifer before they got the terrible ratings for Hairspray.",
+      "tones": [
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "These Live specials cost a fortune and unless they get great ratings they cannot afford to do them,\" sources tell Straight Shuter.",
+      "tones": [
+        {
+          "score": 0.689157,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Internally they are having a conversation discussing if they should even move forward at all with 2017 musical starring Jennifer or just cancel it and run a much cheaper movie.",
+      "tones": [
+        {
+          "score": 0.531133,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "At the moment it seems that they are 50/50, but no-one want to be the one to tell Jennifer that she has been fired.\"",
+      "tones": []
+    }
+  ]
+}

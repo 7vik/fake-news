@@ -1,0 +1,104 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.814939,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.770435,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "She\u2019s Mine! Ellen DeGeneres And Charlize Theron In Showdown Over Portia de RossiHollywood power women Ellen DeGeneres and Charlize Theron are heading for a showdown over Portia de Rossi.RadarOnline.com",
+      "tones": [
+        {
+          "score": 0.641359,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "can reveal that talk show queen DeGeneres, 59, is worried that Theron, 42, might influence her 42-year-old wife while they co-star on the fifth season of Arrested Development.PHOTOS: Pampered Pair! Ellen DeGeneres and Portia De Rossi Feather Their $40 Million L.A. Love Nest With A Luxe Indoor SpaA source revealed: \u201cEllen knows Charlize and finds her controlling and brash, and worries how she\u2019ll influence Portia.",
+      "tones": [
+        {
+          "score": 0.697068,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She knows Portia is like putty and adapts to whomever she\u2019s hanging out with.\u201cShe really looks up to Charlize and loves her salty language.",
+      "tones": [
+        {
+          "score": 0.799329,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.60456,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Ellen showed up on the set when Charlize guest-starred before [in season three].\u201cYou",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "can bet she\u2019ll be poking her head around again, keeping an eye on things during any of Charlize and Portia\u2019s scenes together this season.\u201dTo",
+      "tones": [
+        {
+          "score": 0.878702,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "make DeGeneres even more paranoid the Atomic Blonde star has been hanging out with controversial Chelsea Handler recently after her friendship with Jennifer Aniston cooled.RadarOnline.com",
+      "tones": [
+        {
+          "score": 0.8427,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "revealed that DeGeneres and her wife got involved in a big bust-up at a Hollywood Hills party over the summer \u2013 so Theron might seem like more of a threat than ever right now.",
+      "tones": [
+        {
+          "score": 0.659551,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.599484,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

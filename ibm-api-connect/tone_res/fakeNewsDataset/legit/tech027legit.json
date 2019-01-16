@@ -1,0 +1,114 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.596931,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.546043,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.884138,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "YouTube reverses some restrictions on gay-themed contentThe YouTube video shows two women, dressed in suits and ties.",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "They smile; they sniffle back tears; they gaze into each other's eyes.",
+      "tones": [
+        {
+          "score": 0.717434,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "They are reading their wedding vows to one another.The four-minute video titled \"Her Vows\" contains no nudity, violence or swearing.",
+      "tones": [
+        {
+          "score": 0.519764,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "There's no revealing clothing.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "No one is engaging in activities that have a \"high risk of injury or death.\"",
+      "tones": [
+        {
+          "score": 0.558101,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "And yet, YouTube had deemed the video unsuitable for people under 18.YouTube acknowledged Monday that it might have made a mistake, saying in a tweet, \"Some videos have been incorrectly labeled and that's not right.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.771025,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "We're on it!",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "More to come.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "The restriction on the vows video was lifted by Monday afternoon.",
+      "tones": [
+        {
+          "score": 0.588053,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

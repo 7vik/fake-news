@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.547495,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Shanghai Shenhua: Fire erupts at big-spending Chinese club's stadiumA blaze has ripped through part of big-spending Chinese Super League club Shanghai Shenhua's home stadium.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Black smoke billowed from the Hongkou Stadium Tuesday as fire tore through one end of the 33 000-seater arena.",
+      "tones": [
+        {
+          "score": 0.503639,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "No injuries were reported by local media and no explanation given as to the cause of the fire which started at 08.30am local time.",
+      "tones": [
+        {
+          "score": 0.60456,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

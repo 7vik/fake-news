@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.6103,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Teen with cancer dies days after Beyonce FaceTimes with herEbony Banks the Houston teen battling a rare form of cancer has died -- just days after her wish to speak to her idol Beyonce was fulfilled.",
+      "tones": [
+        {
+          "score": 0.866518,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "A spokesman for Alief Independent School District where Banks was a student confirmed that she passed away early Sunday morning.",
+      "tones": [
+        {
+          "score": 0.816564,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"I understand she had a smile on her face till the very end spokesman Craig Eichhorn told ABC News.",
+      "tones": [
+        {
+          "score": 0.609167,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.667262,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Hours later, the students at Alief Hastings High School, from which Banks had recently graduated and where she was a member of the color guard for four years, organized a candlelight vigil in the band practice lot.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Members of the color guard held their candles up in the air and swayed along to the song Halo\" by Beyonce.",
+      "tones": []
+    }
+  ]
+}

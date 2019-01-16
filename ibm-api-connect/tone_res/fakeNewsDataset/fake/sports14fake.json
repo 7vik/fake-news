@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.520371,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.867679,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lauren Jeska id free to spoon with fellow athlete Ralph Knibbs.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "After much debate as to whether a person can be forced to be the little spoon, the magistrate has determined that everyone must take turns and that in this case, transgender did not qualify Jeska to identify solely as the big spoon, regardless of anatomical enhancements or attributes.",
+      "tones": [
+        {
+          "score": 0.88938,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Birmingham Crown Court also added that while one could identify as whatever one chose, all parties would still have to play nice or face a time out.",
+      "tones": [
+        {
+          "score": 0.628885,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

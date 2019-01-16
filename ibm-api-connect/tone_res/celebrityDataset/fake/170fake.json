@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.81642,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.756468,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Selena Gomez being eyed as 'American Idol' judgeSinger is reportedly being eyed as a judge along with singer for the singing reality show \"American Idol\".\"Producers",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "think that Selena would be great to join the judging panel because she would bring in a younger crowd for ratings.",
+      "tones": [
+        {
+          "score": 0.685673,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.73362,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She'd be considered the nice judge and they would love her to join because the impact she has with social media,\" a source told hollywoodlife.com.\"They are putting together a proposal for her and are hoping she will accept it and join the show, it's a long shot but they are taking the chance to get her.",
+      "tones": [
+        {
+          "score": 0.751811,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "They'd love to have her signed up and all judges by mid October,\" the source added.Previously, reality TV star Kim Kardashian West was being considered to serve as one of the judges on the show as returning host Ryan Seacrest thought she would make a good addition.Other celebrities rumoured to be the frontrunners for the show are Lionel Richie, Charlie Puth, Luke Bryan and Keith Urban.",
+      "tones": [
+        {
+          "score": 0.753999,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.612881,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.576633,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.613178,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.71684,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kelly Ripa and Ryan Seacrest Embattled in 'Live' Feud Over 'American Idol' \u2014 \"She Feels Stabbed in the Back\"Just three months after Ryan Seacrest joined Live, he and his co-host Kelly Ripa are embattled in a fierce daytime talk show feud.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "According to Life &amp; Style, Kelly and Ryan are majorly fighting about his recently announced decision to join the American Idol reboot.MORE: Kelly Ripa Gets the Last Laugh as Michael Strahan Shakes Things up at 'Good Morning America'\"She didn't know about the American Idol revival,\" a source close to Kelly recently told the magazine.",
+      "tones": [
+        {
+          "score": 0.749717,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.67103,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"When she found out she was truly rattled.\"",
+      "tones": [
+        {
+          "score": 0.547062,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.898327,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Another TV insider confessed Live is \"a wreck at the moment\" and the 46-year-old star fears Ryan, 42, will ditch her just like her former co-host Michael Strahan recently did.",
+      "tones": [
+        {
+          "score": 0.6384,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"She feels stabbed in the back and believes she\u2019s going to lose Ryan just like she lost Michael,\" the source said.\"Kelly is truly pissed that, after all the time ABC spent negotiating with Ryan for Live, they would then buy the show that made him a household name and take him away.",
+      "tones": [
+        {
+          "score": 0.683951,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "[She] really thought Live would be Ryan\u2019s focus,\" the insider added.MORE: Michael Strahan Reveals How He Really Feels About Ryan Seacrest as Kelly Ripa's New 'Live' Co-HostRyan officially joined Live as Kelly's new co-host on May 1, 2017, 13 months after Michael left the daytime talk show to instead work on the Good Morning America team.",
+      "tones": [
+        {
+          "score": 0.806256,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.599421,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Following Michael's shock decision to exit the program, Kelly sat beside a whopping 68 guest hosts before the network decided to hire Ryan.",
+      "tones": [
+        {
+          "score": 0.775384,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Since then, Live has unfortunately experienced a significant dip in ratings.Kelly Ripa's Guest Co-Hosts\"Ryan is just not connecting with daytime viewers.",
+      "tones": [
+        {
+          "score": 0.541591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "He appeals to a much younger, music-oriented audience.",
+      "tones": [
+        {
+          "score": 0.533648,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Kelly blames the show.",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "She feels [execs] made a huge miscalculation bringing him on to Live,\" the TV insider added.",
+      "tones": []
+    }
+  ]
+}

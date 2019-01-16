@@ -1,0 +1,83 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.769141,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Real Madrid may not be willing to pay \u00a3100m for Eden Hazardsays Ramon Calderon \"Real Madrid are in a \"very good situation\" financially but may not be willing to pay \u00a3100m to sign Chelsea's Eden Hazard says former president Ramon Calderon.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Spanish giants want to sign Hazard according to Sky sources but talks between the clubs have not taken place and the forward is under contract until June 2020.",
+      "tones": [
+        {
+          "score": 0.711887,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "A report in Spanish newspaper Marca on Tuesday morning claimed Chelsea would be willing to sell the forward to Real.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The Blues do not comment on what they regard as media speculation and rumour and declined to offer a response to that report.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "However Calderon claims any potential move would depend on the wishes of the Belgian and says that would be key if the Champions League holders were to take the 26-year-old to the Bernabeu.",
+      "tones": [
+        {
+          "score": 0.599484,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.67103,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "When asked if Real would break the transfer record Calderon told Sky Sports News HQ: \"I don't know but I guess if Chelsea are going to let him go they will have to ask for a lot of money.",
+      "tones": [
+        {
+          "score": 0.52361,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.764029,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

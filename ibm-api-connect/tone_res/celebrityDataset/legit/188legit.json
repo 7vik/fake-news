@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.773705,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.709964,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.622952,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Tom Hiddleston speaks out about Taylor Swift relationship: 'Of course it was real'The silence on Hiddleswift has been broken&nbsp;\u2013 from Tom Hiddleston's side, at least.The Olivier and Golden Globe Award-winning actor has spoken about his brief relationship with pop star Taylor Swift for the first time since the pair broke up in September 2016, and has insisted that their liaison wasn't a stunt.\"Of",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "course it was real\", Hiddleston told GQ magazine when asked about the validity of their relationship.\"Taylor",
+      "tones": [
+        {
+          "score": 0.855572,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "is an amazing woman.",
+      "tones": [
+        {
+          "score": 0.890612,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "She\u2019s generous and kind and lovely, and we had the best time,\" he added.",
+      "tones": [
+        {
+          "score": 0.931352,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.704213,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.609475,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Indian Wells: Roger Federer beats Stan Wawrinka to win BNP Paribas OpenAustralian Open champion Roger Federer beat Stan Wawrinka 6-4 7-5 in an all-Swiss final to win the BNP Paribas Open - his fifth Indian Wells triumph.",
+      "tones": [
+        {
+          "score": 0.738995,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "World number 10 Federer claimed the first set before being broken for the first time at this year's tournament in the first game of the second set.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Wawrinka the world number three went 2-0 ahead before Federer won three games in a row on his way to the title.",
+      "tones": [
+        {
+          "score": 0.628901,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Elena Vesnina beat Svetlana Kuznetsova 6-7 (6-8) 7-5 6-4 in the women's final.",
+      "tones": [
+        {
+          "score": 0.739326,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Federer becomes the oldest champion in the tournament's history surpassing Jimmy Connors who was 31 when he triumphed in 1984.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "This was the 23rd meeting between Federer an 18-time Grand Slam winner and Wawrinka.",
+      "tones": [
+        {
+          "score": 0.648114,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Federer 35 has beaten his compatriot who was in tears at the end 20 times.",
+      "tones": [
+        {
+          "score": 0.773901,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "\"This has been a fairy tale week said Federer.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "It's a beautiful feeling.",
+      "tones": [
+        {
+          "score": 0.793508,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Maybe it's not as surprising as Australia but it's still great to back it up by winning in America.",
+      "tones": [
+        {
+          "score": 0.684743,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

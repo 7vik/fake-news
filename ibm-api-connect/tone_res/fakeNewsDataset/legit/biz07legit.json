@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Millions of UK workers at risk of being replaced by robotsstudy says \"More than 10 million UK workers are at high risk of being replaced by robots within 15 years as the automation of routine tasks gathers pace in a new machine age.",
+      "tones": [
+        {
+          "score": 0.537067,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "A report by the consultancy firm PwC found that 30% of jobs in Britain were potentially under threat from breakthroughs in artificial intelligence (AI).",
+      "tones": [
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In some sectors half the jobs could go.",
+      "tones": [
+        {
+          "score": 0.561549,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.984352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The report predicted that automation would boost productivity and create fresh job opportunities but it said action was needed to prevent the widening of inequality that would result from robots increasingly being used for low-skill tasks.",
+      "tones": [
+        {
+          "score": 0.578907,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "PwC said 2.25 million jobs were at high risk in wholesale and retailing \u2013 the sector that employs most people in the UK \u2013 and 1.2 million were under threat in manufacturing 1.1 million in administrative and support services and 950 000 in transport and storage.",
+      "tones": [
+        {
+          "score": 0.542915,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    }
+  ]
+}

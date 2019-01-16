@@ -1,0 +1,34 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Apple cuts prices on lower-end iPads, releases red iPhonesApple is cutting prices on two iPad models and introducing red iPhones, but the company held back on updating its higher-end iPad Pro tablets.A much-speculated 10.5-inch iPad Pro didn't materialize, nor did new versions of existing sizes in the Pro lineup, which is aimed at businesses and creative professionals.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The new devices are mostly refreshes of existing models.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Apple unveiled them through press releases Tuesday rather than a staged event, as it typically does for bigger product releases.",
+      "tones": [
+        {
+          "score": 0.828638,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

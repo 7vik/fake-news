@@ -1,0 +1,88 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.947207,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "George Michael portrait by Damien Hirst sells for $580000 \"A portrait of the late George Michael by artist Damien Hirst has sold for just under half a million pounds at a charity auction.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The money raised from the sale of Beautiful Beautiful George Michael Love Painting will go to HIV/Aids charity The Goss-Michael Foundation.",
+      "tones": [
+        {
+          "score": 0.888775,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The charity was founded by Michael and his former partner Kenny Goss.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Goss posted an image of the artwork on Instagram writing: \"Amazing result of $580 000 (around \u00a3461 011).\"",
+      "tones": [
+        {
+          "score": 0.824962,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "He described Damien Hirst as a \"superstar\" adding: \"Thank you Damien!\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "The canvas went under the hammer in Dallas Texas at the MTV Re:define charity gala.",
+      "tones": [
+        {
+          "score": 0.516309,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Michael who enjoyed a lucrative pop career as one half of duo Wham before embarking on a successful solo career died on Christmas Day last year at the age of 53.",
+      "tones": [
+        {
+          "score": 0.598226,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

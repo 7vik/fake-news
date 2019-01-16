@@ -1,0 +1,87 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.573347,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.627182,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sean Spicer tells reporter to 'stop shaking your head'White House Press Secretary Sean Spicer told a reporter to \"stop shaking your head\" during an exchange at his daily press briefing Tuesday.",
+      "tones": [
+        {
+          "score": 0.553089,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Spicer appeared annoyed by April Ryan Washington bureau chief for American Urban Radio Networks when she asked what President Trump's administration would do to revamp its image following reports of its ties to Russia.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Spicer objected to the premise saying: \"I appreciate your agenda here.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "At some point report the facts.\"",
+      "tones": [
+        {
+          "score": 0.955445,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "He said there has been no proven collusion between Trump associates and Russian officials over interference in last year's election quipping that \"if the president put Russian salad dressing on his salad tonight somehow that's a Russian connection.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Spicer said Ryan appeared \"hell-bent\" on projecting her own image of the White House when she asked what Trump might be doing to repair a relationship with former Secretary of State Condoleezza Rice who did not support his campaign and was meeting with the president later this week.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"Please stop shaking your head again Spicer said to Ryan.",
+      "tones": [
+        {
+          "score": 0.5486,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "He said the president was fulfilling a promise to build bridges with both supporters and opponents.",
+      "tones": []
+    }
+  ]
+}

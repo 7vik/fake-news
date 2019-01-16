@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.544371,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.637989,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "AT&amp;T pulls ads from YouTube, other Google sitesAT&amp;T doesn't want its name showing up next to videos promoting intolerance and hate.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "As a result, the carrier on Wednesday said it's pulling ads from YouTube and other Google \"non-search platforms.\"\"We",
+      "tones": [
+        {
+          "score": 0.866434,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "are deeply concerned that our ads may have appeared alongside YouTube content promoting terrorism and hate,\" the company said in an email.",
+      "tones": [
+        {
+          "score": 0.659112,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Until Google can ensure this won't happen again, we are removing our ads from Google's non-search platforms.\"Rival",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Verizon told USA Today that it has also pulled its ads.",
+      "tones": []
+    }
+  ]
+}

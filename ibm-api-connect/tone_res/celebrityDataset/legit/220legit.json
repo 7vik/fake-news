@@ -1,0 +1,798 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.651678,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.500795,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.65643,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.676613,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kendall Jenner cries over Pepsi ad backlash in \u2018Keeping Up With the Kardashians\u2019 premiereRemember Pepsi\u2019s tone-deaf Kendall Jenner commercial back in April?",
+      "tones": [
+        {
+          "score": 0.553241,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The one&nbsp;that made people furious, because it appropriated images from Black Lives Matter protests to sell soda?Pepsi quickly pulled the ad after intense criticism \u2014 and in the six months since the controversy, Kendall hasn\u2019t publicly responded.",
+      "tones": [
+        {
+          "score": 0.578272,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "That\u2019s because&nbsp;she saved&nbsp;it all&nbsp;for the 14th season premiere of E!\u2019s \u201cKeeping Up With the Kardashians,\u201d which aired Sunday night.&nbsp;The",
+      "tones": [
+        {
+          "score": 0.50875,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.588596,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Kardashian family has said that Kendall was very upset over the backlash, and the premiere confirmed that, yes, the 21-year-old supermodel was&nbsp;mortified.Although the episode ended with&nbsp;Kendall sobbing (\u201cObviously, if I knew that this was going to be the outcome, I would have never done something like this\u201d), it was a slow build to her breakdown.",
+      "tones": [
+        {
+          "score": 0.810563,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.723395,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "In fact, the word \u201cPepsi\u201d never came up during the entire hour.",
+      "tones": [
+        {
+          "score": 0.825035,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "It all started as&nbsp;Kendall called her sisters Kourtney and Khloe Kardashian.\u201cAre you okay?\u201d Kourtney said when she answered the phone.",
+      "tones": [
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.636458,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\u201cYou sound so sad.\u201d\u201cI talked to Simon today,\u201d Kourtney said, likely referring to Simon Huck, a public relations guru and Kim Kardashian West\u2019s close friend.",
+      "tones": [
+        {
+          "score": 0.794447,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "\u201cHe was like, \u2018The news lasts 24 hours.\u2019",
+      "tones": [
+        {
+          "score": 0.531389,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "\u201dCut to an on-camera interview with Khloe, who explained to the audience: \u201cKendall did a commercial and basically caused a huge controversy.",
+      "tones": [
+        {
+          "score": 0.731735,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "It sucks, because Kendall\u2019s been taking the blame for it all.",
+      "tones": [
+        {
+          "score": 0.633997,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.825035,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "Kendall tries really hard to be socially conscious and aware of the jobs that she takes and to really think about how things affect other people, so it weighs really heavy on her heart.\u201dProducers",
+      "tones": [
+        {
+          "score": 0.675605,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.834759,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "showed some critical tweets about the commercial, such as, \u201cSo many adults had to f\u2011\u2011\u2011 up in so many unique and equally tone deaf ways to make this awful ad, it\u2019s honestly breathtaking.\u201dKourtney",
+      "tones": []
+    },
+    {
+      "sentence_id": 12,
+      "text": "assured Kendall that she spoke to family friend Russell Simmons, who said that Kendall \u201ccan turn this into a positive.\u201d",
+      "tones": [
+        {
+          "score": 0.761896,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "This is never further explained.&nbsp;After",
+      "tones": [
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "they hung up,&nbsp;Kourtney told Khloe that it sounded like Kendall was crying.Later, Kendall explained why she filmed the commercial in the first place \u2014 when she got the offer, she was thrilled to join the list of celebrities who have done Pepsi ads, from Michael Jackson to Beyonc\u00e9 to Britney Spears.\u201cI",
+      "tones": [
+        {
+          "score": 0.55532,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.571567,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "trusted everyone.",
+      "tones": [
+        {
+          "score": 0.647558,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "I trusted the teams,\u201d she&nbsp;told the camera.",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "\u201cBut after I saw the reaction and I read what people had to say about it, I most definitely saw what went wrong.",
+      "tones": [
+        {
+          "score": 0.556713,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "I was so stuck, and I really didn\u2019t know what to do, that I completely shut down.\u201dThe",
+      "tones": [
+        {
+          "score": 0.575334,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "following scene showed Kendall sitting forlornly in her gigantic walk-in closet, talking to Kim on the phone.",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "The new issue?",
+      "tones": [
+        {
+          "score": 0.955445,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "Her father, Caitlyn Jenner, was going on a book tour.&nbsp;Kendall was worried that Caitlyn might say something about the commercial that would make things worse.\u201cShe",
+      "tones": [
+        {
+          "score": 0.568962,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.779898,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": "just tends to, like, say a lot, and I just would rather everyone just not say anything,\u201d Kendall said.&nbsp;\u201cI",
+      "tones": [
+        {
+          "score": 0.545367,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.986644,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "mean, God bless her for trying.\u201d\u201cI",
+      "tones": [
+        {
+          "score": 0.835926,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "know.",
+      "tones": [
+        {
+          "score": 0.997482,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "But Caitlyn is known for saying all the wrong things,\u201d Kim said.",
+      "tones": [
+        {
+          "score": 0.508275,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "She promised to call Caitlyn and let her know it was a very sensitive subject.So Kim called Caitlyn and told her not to answer questions about the Pepsi ad \u2014 and if she felt compelled, just say something along the lines of, \u201cKendall had the best intentions with this being something, like, peaceful, and she totally gets everyone\u2019s point of view now.",
+      "tones": [
+        {
+          "score": 0.809111,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "It was not appropriate, and she\u2019s so sorry.\u201dNaturally,",
+      "tones": []
+    },
+    {
+      "sentence_id": 28,
+      "text": "Caitlyn did not follow that advice, and instead&nbsp;talked about the commercial in a radio interview and said Kendall knew all about the ad\u2019s script beforehand and thought it was fine.&nbsp;The",
+      "tones": [
+        {
+          "score": 0.641954,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "episode ended as Kendall went to talk to Kim, about three weeks after the commercial was pulled.&nbsp;She",
+      "tones": [
+        {
+          "score": 0.522633,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "was upset about Caitlyn, and even more about the whole situation.\u201cI",
+      "tones": [
+        {
+          "score": 0.596237,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.850615,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "just feel really, really bad.",
+      "tones": [
+        {
+          "score": 0.79455,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.991756,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.970179,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "Like, I feel really bad that anyone was ever offended.",
+      "tones": [
+        {
+          "score": 0.620106,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.928936,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "text": "I feel really bad that this was taken such a wrong way,\u201d Kendall said.",
+      "tones": [
+        {
+          "score": 0.678576,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.61476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "\u201cI genuinely feel like s\u2011\u2011\u2011, and I have no idea how I\u2019m going to bounce back from it.\u201d\u201cThis is the first time you\u2019ve had a scandal,\u201d Kim gently reminded her.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "text": "\u201cThis is your first real experience with something like this.\u201d\u201cThe text messages I would get from people, they\u2019d be like, \u2018It\u2019s going to be fine, like, you know everything blows over in, like, a week\u2019s time\u2019 or whatever.",
+      "tones": [
+        {
+          "score": 0.781925,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "text": "And I\u2019m just like, \u2018Okay, but it\u2019s been, like, three weeks and it\u2019s not going anywhere,\u2019 \u201d Kendall said.\u201cYeah,",
+      "tones": [
+        {
+          "score": 0.537556,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.937821,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "text": "but it will,\u201d Kim assured her.",
+      "tones": [
+        {
+          "score": 0.942582,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "\u201cThis is just going to be the biggest lesson learned for you.\u201d\u201cI",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.821913,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "really don\u2019t even know what to do at this point.",
+      "tones": [
+        {
+          "score": 0.56368,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.990154,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "It\u2019s really depressing, and it bothers me every single day,\u201d Kendall said.\u201cYou\u2019re the last person to want to hurt someone or be insensitive, but it\u2019s, like, it really sucks.",
+      "tones": [
+        {
+          "score": 0.721129,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "text": "I think the only thing you can really do is just be real and honest, because you can\u2019t ignore it.",
+      "tones": [
+        {
+          "score": 0.656301,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.85365,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "text": "Like, you can\u2019t,\u201d Kim said.",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "text": "\u201cIt should affect you in a way where you grow from it, and you\u2019re like, \u201cOkay, I\u2019m a better person from it.\u2019 .\u2009.\u2009.",
+      "tones": [
+        {
+          "score": 0.505201,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "I just wish that you could see that there\u2019s light at the end of the tunnel.\u201dDespite",
+      "tones": [
+        {
+          "score": 0.660664,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.873263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "Kim\u2019s words of wisdom, Kendall still broke down crying to the camera.\u201cI",
+      "tones": [
+        {
+          "score": 0.823525,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "text": "would never purposely hurt someone, ever,\u201d Kendall said tearfully.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "\u201cYou don\u2019t know when you\u2019re in the moment, and, like, it was the most \u2014\u201d She grappled for the right words.",
+      "tones": [
+        {
+          "score": 0.516598,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "text": "\u201cI just felt so f\u2011\u2011\u2011ing stupid.",
+      "tones": [
+        {
+          "score": 0.613309,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.974201,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "text": "The fact that I would offend other people or hurt other people was definitely not the intent.",
+      "tones": [
+        {
+          "score": 0.650054,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.855572,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "And that\u2019s what got me the most, is that I would have ever made anyone else upset.\u201dAfter",
+      "tones": [
+        {
+          "score": 0.514245,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "text": "Pepsi pulled the ad, the company apologized&nbsp;for putting Kendall Jenner in an awkward position.",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "Last week, Pepsi chief executive Indra Nooyi&nbsp;told Fortune&nbsp;that&nbsp;she didn\u2019t initially see the ad\u2019s final scene that caused so much \u201cconsternation,\u201d in which Jenner handed a cop a can of Pepsi.\u201cThis has pained me a lot because this company is known for diversity, and the fact that everybody who produced the commercial and approved the commercial did not link it to Black Lives Matter made me scratch my head.",
+      "tones": [
+        {
+          "score": 0.597794,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.58111,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "I had not seen that scene,\u201d Nooyi said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 54,
+      "text": "\u201cAnd I take everything personally.",
+      "tones": []
+    },
+    {
+      "sentence_id": 55,
+      "text": "The minute I saw people upset, I pulled it.",
+      "tones": []
+    },
+    {
+      "sentence_id": 56,
+      "text": "And you know what, it\u2019s not worth it.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "There were people on both sides, but at the end of the day, our goal is not to offend anybody.\u201d\u2018Clearly",
+      "tones": [
+        {
+          "score": 0.597795,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "text": "we missed the mark\u2019: Pepsi pulls Kendall Jenner ad and apologizesThe Kardashians aren\u2019t thrilled with Caitlyn Jenner\u2019s new book",
+      "tones": []
+    }
+  ]
+}

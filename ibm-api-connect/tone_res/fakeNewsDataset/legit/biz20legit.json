@@ -1,0 +1,78 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.887175,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.590558,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Laptop cabin ban 'ineffective' says IATAThe US and UK ban on laptops in cabin baggage on certain flights will not be an effective security measure the International Air Transport Association has said.",
+      "tones": [
+        {
+          "score": 0.825947,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In a strongly worded speech IATA chief executive Alexandre de Juniac said the ban also caused commercial distortions.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The US ban was brought in as an anti-terrorist precaution.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "It covers inbound flights on airlines operating out of 10 airports in the Middle East North Africa and Turkey.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The British ban is similar but applies to different airlines.",
+      "tones": [
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Airline passengers on 14 carriers are subject to the ban on inbound direct flights from Turkey Lebanon Jordan Egypt Tunisia and Saudi Arabia.",
+      "tones": [
+        {
+          "score": 0.663387,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.682802,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.754144,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Michelle Obama open to plastic surgery, Botox injectionsAs first lady Michelle Obama prepares to turn 50 on Friday, she isn\u2019t ruling out having some work done on her face in the future.In an interview with People magazine, Mrs. Obama, who promotes healthy lifestyles, said it\u2019s possible she would consider plastic surgery or Botox at some point.\u201cWomen",
+      "tones": [
+        {
+          "score": 0.542168,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.664718,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "should have the freedom to do whatever they need to do to feel good about themselves,\u201d Mrs. Obama said.",
+      "tones": [
+        {
+          "score": 0.738904,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\u201cRight now, I don\u2019t imagine that I would go that route, but I\u2019ve also learned to never say never.\u201dThe",
+      "tones": [
+        {
+          "score": 0.713028,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "first lady said she never misses a regular checkup with her doctor, and that she\u2019s already had a colonoscopy, recommended for people generally at age 50 and beyond.\u201cI",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "don\u2019t obsess about what I eat, but I do make sure that I\u2019m eating vegetables and fruit,\u201d Mrs. Obama told the magazine.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "\u201cAnd as everyone knows, I do exercise.\u201d",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

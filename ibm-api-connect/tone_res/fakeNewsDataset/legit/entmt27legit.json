@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.688769,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.525955,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Chrissy TeigenPatricia Arquette and more react to United Airlines leggings incident \"After United Airlines barred two girls from boarding a flight this weekend because they were wearing leggings which the company said is part of their policy for relatives and friends of employees who travel for free on standby actors and activists have taken to social media to criticize the airline's choices in the incident.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Activist Shannon Watts first tweeted the incident early Sunday writing \"A @united gate agent isn't letting girls in leggings get on flight from Denver to Minneapolis because spandex is not allowed?\"",
+      "tones": [
+        {
+          "score": 0.519491,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Watts is a mother of five and the founder of Moms Demand Action for Gun Sense in America.",
+      "tones": [
+        {
+          "score": 0.677676,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "After major news outlets picked up reports of the incident in Denver a spokesman for the airline confirmed the report to ABC News adding that two teens weren't allowed on the flight because leggings are \"not in compliance with dress code policy for company benefit travel a program that lets the airline's workers and their families travel for free, but within certain guidelines.",
+      "tones": [
+        {
+          "score": 0.601471,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "There are different rules for these privileges because people are flying for free the spokesperson added.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

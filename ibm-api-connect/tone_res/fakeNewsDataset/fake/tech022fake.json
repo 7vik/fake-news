@@ -1,0 +1,60 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.503755,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.761129,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.766967,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "GPS trackers to be implanted into citizens of NepalNepal will be implanting GPS trackers into the right arm of all citizens living around the Mount Everest region.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "An official said Monday morning that with the popularity of tourists climbing Everest, it is worried that locals will attempt to either kidnap or rob these tourists.",
+      "tones": [
+        {
+          "score": 0.613231,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.698904,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "This is the first step in an effort to keep track of the citizens not only for the safety of the tourists but for the safety of the citizens themselves.",
+      "tones": [
+        {
+          "score": 0.90928,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "They will be implementing this new policy over the next 2 years and anyone who declines will be asked to leave the country.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.62534,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.808712,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "BRAD PITT : No Doubt, TRUMP Will Be The Best President In U.S History.",
+      "tones": [
+        {
+          "score": 0.803608,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.882442,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Do You Support Him? \u22c6Brad Pitt Was Invited At Today show This Morning And After Journalist Critic To Trump He Says This Words : No Doubt, Trump Will Be The Best President In U.S History And You Will This Soon.",
+      "tones": [
+        {
+          "score": 0.651056,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.509368,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Against Journalists And Everyone Stayed Outraged .",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Do You Support Brad ?\u201cWe need more and more jobs.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Unemployment is way up here,\u201d he said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "He\u2019s hired more employees, more people, than anyone I know in the world.",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.907279,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.897643,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "_Impossible Foods to supersize production of lab-grown burgerIt's not easy to sink your teeth into one of Impossible Foods' lab-grown meatless hamburgers.",
+      "tones": [
+        {
+          "score": 0.511076,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "After all, you can only get them at eight US restaurants.On Wednesday, though, the company said it will bring its Impossible Burger to 1,000 eateries by year's end.",
+      "tones": [
+        {
+          "score": 0.612162,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.824153,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "To make that happen, the firm is opening a factory the size of a city block.",
+      "tones": [
+        {
+          "score": 0.868982,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.898327,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The goal is to make at least 1 million pounds of faux burger meat every month.\"You",
+      "tones": [
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "can think of this as the birthplace of a whole new industry that's going to transform the food system,\" said Pat Brown, the former Stanford biochemistry professor who founded Impossible Foods in 2011 and serves as CEO.",
+      "tones": [
+        {
+          "score": 0.545592,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

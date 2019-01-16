@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.622053,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.633546,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Benedict Cumberbatch welcomes 2nd sonPeople confirmed that the couple welcomed a second son Hal Auden Cumberbatch on March 3. Cumberbatch has not yet commented on the birth and his rep has not responded to a request for comment from ABC News.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The \"Doctor Strange\" star announced in October that he and his wife a theater director were expecting their second child.",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"Everyone is absolutely thrilled his rep told E! News at the time.",
+      "tones": [
+        {
+          "score": 0.898327,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Cumberbatch, 40, and Hunter, 38, were married in February 2015, following a short engagement.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "That June, Hunter gave birth to their first child, Christopher Carlton Cumberbatch.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Benedict Cumberbatch and Sophie Hunter are delighted to announce the arrival of their beautiful son.",
+      "tones": [
+        {
+          "score": 0.662398,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "We would kindly ask everyone to respect the family's privacy during these next few precious weeks his rep said upon Christopher's arrival.",
+      "tones": [
+        {
+          "score": 0.65491,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

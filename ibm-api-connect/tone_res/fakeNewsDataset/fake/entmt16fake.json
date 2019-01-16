@@ -1,0 +1,124 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.554262,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.55945,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.558135,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.844656,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.592912,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "In midst of speculation, Huck is confirmed dead on 'Scandal'\"Bury him, fans, he died.",
+      "tones": [
+        {
+          "score": 0.657335,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.8152,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The actor who plays Huck on \"Scandal\" has some words of confirmation for fans who speculated Huck was still alive after last week's cliffhanger episode in which his character was shot multiple times.",
+      "tones": [
+        {
+          "score": 0.599484,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.550349,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Guillermo Diaz is cautioning folks to remember \"Scandal\" is often full of surprises, but this is not one of them.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The actor told entmt Tonight that the script in which Meg shot Huck \"just blew me away -- no pun intended.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"My reaction was I was in complete and utter disbelief but excited too he said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "It's such a great script it's so juicy!",
+      "tones": [
+        {
+          "score": 0.653835,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "As an actor I was just thrilled to see my character off in such grandiose fashion.\"",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Diaz said the show's creator Shonda Rhimes can be credited with the writing of this death scene.\"",
+      "tones": [
+        {
+          "score": 0.708833,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

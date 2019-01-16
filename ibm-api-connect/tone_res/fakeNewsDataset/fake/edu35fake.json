@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.570905,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.74603,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Oklahoma girl losses spelling bee contest, ya'll4 year old girl Edith Fuller was unable to spell the phrase you all but rather spelled it \"ya'll\" and was immediately eliminated from the competition.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "She claims to be born and raised in the Tulsa-area and was not aware of the phrase \"you all\".",
+      "tones": [
+        {
+          "score": 0.638987,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Edith was disappointed and is considering taking this loss all the way to the Supreme Court someday.",
+      "tones": [
+        {
+          "score": 0.778678,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.538448,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "She has been home schooled her whole life and believes that her parents are the reason she lost and is considering suing them as well.",
+      "tones": [
+        {
+          "score": 0.562415,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.825947,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "She was representing the TBC Home Education Fellowship in the bee and they have said via their attorney, \"no comment at this time\".",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.605809,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.544584,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Harvey Weinstein plans to sue New York Times for $50MHarvey Weinstein says he will sue the New York Times for an estimated $50 million after it published a bombshell report claiming the movie mogul subjected actresses and female staffers to \u201cdecades of sexual harassment.\u201dWeinstein has hired Charles J. Harder \u2014 the LA attorney who brought down Gawker after winning a $140 million verdict for Hulk Hogan after the site posted a sex tape \u2014 to go after the Times, which posted its blistering expos\u00e9 on the Oscar-winning Hollywood mogul Thursday.Harder said in a statement on behalf of Weinstein, exclusively given to Page Six, \u201cThe New York Times published today a story that is saturated with false and defamatory statements about Harvey Weinstein.",
+      "tones": [
+        {
+          "score": 0.543314,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "It relies on mostly hearsay accounts and a faulty report, apparently stolen from an employee personnel file, which has been debunked by 9 different eyewitnesses.",
+      "tones": [
+        {
+          "score": 0.675641,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "We sent the Times the facts and evidence, but they ignored it and rushed to publish.",
+      "tones": [
+        {
+          "score": 0.619809,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.784247,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.746197,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "We are preparing the lawsuit now.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "All proceeds will be donated to women\u2019s organizations.\u201dHarder did not say how much they planned to sue for, but sources said Weinstein would go after the publication for as much as $50 million.Weinstein denies the accounts given by several female former employees to the Times, as well as details given by actress Ashley Judd, who says the mogul lured her up to his hotel room, where she alleged he appeared in a bathrobe and asked her to massage him or watch him shower.The Times also reported that the powerful co-founder of Miramax negotiated at least eight payouts to women to keep them quiet, by asking them to sign confidentiality agreements barring them from speaking about the alleged harassment.SEE ALSOHarvey Weinstein accused of sexual harassment spanning nearly three decadesHarvey Weinstein accused of sexual harassment spanning nearly three decadesAmong them were a young assistant in New York in 1990, \u201cCharmed\u201d actress Rose McGowan in 1997, an assistant in London in 1998, an Italian model in 2015 and, most recently, Lauren O\u2019Connor, who documented some of the women\u2019s complaints, the Times said.In a statement Thursday to The Post through attorney Lisa Bloom, Weinstein said, \u201cI came of age in the \u201960s and \u201970s, when all the rules about behavior and workplaces were different.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "That was the culture then.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "I have since learned it\u2019s not an excuse, in the office \u2014 or out of it.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "To anyone.",
+      "tones": [
+        {
+          "score": 0.998976,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "I realized some time ago that I needed to be a better person and my interactions with the people I work with have changed.",
+      "tones": [
+        {
+          "score": 0.747534,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "I appreciate the way I\u2019ve behaved with colleagues in the past has caused a lot of pain, and I sincerely apologize for it.\u201dWeinstein",
+      "tones": [
+        {
+          "score": 0.772118,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.64763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "added he\u2019s working with therapists and planning to take a leave of absence from his company to \u201cdeal with this issue head on.\u201dWeinstein is being advised by Bloom, who is a famed advocate for women.",
+      "tones": []
+    }
+  ]
+}

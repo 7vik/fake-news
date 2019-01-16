@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.586866,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.811003,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.772772,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "School Choice Fails to Make a DifferenceThis is the kind of news that school-choice advocates and skeptics alike need to pay attention to: The Economist magazine reports that a team of academic economists found that students who won a lottery in Louisiana to receive vouchers to go to the public or private school of their choice did worse than students who didn't win the lottery.This outcome flies in the face of the predictions of many economists, who often tout school choice as a way to improve the U.S. educational system while also increasing equality of opportunity.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Economists typically assume that people are rational and well-informed, and will make decisions that benefit them.",
+      "tones": [
+        {
+          "score": 0.936902,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "If giving students and their parents more school choice hurts the students academically, then something is seriously wrong with the theory.",
+      "tones": [
+        {
+          "score": 0.649016,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.746925,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

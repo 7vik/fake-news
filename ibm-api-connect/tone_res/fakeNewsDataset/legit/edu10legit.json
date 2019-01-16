@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.737266,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.86659,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Protesters Disrupt DeVos School VisitProtesters on Friday morning attempted to thwart a visit to a District of Columbia middle school by newly confirmed Education Secretary Betsy DeVos.\"Stop",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "DeVos and fund black futures,\" a group of around two dozen demonstrators chanted outside Jefferson Academy.Demonstrators reportedly blocked the path of a vehicle they believed DeVos was in, as well as her actual car.",
+      "tones": [
+        {
+          "score": 0.879227,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"I tried to block her vehicle when it came in by physically standing in front of it silently,\" an activist with Showing Up for Racial Justice explained in a video posted to Periscope.",
+      "tones": [
+        {
+          "score": 0.541591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

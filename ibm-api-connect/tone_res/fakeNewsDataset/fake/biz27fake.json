@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584708,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.621183,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.773748,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "BRITON STOCK MARKET TAKES PLUNGEAs banks leave London, many are moving to Frankfurt.",
+      "tones": [
+        {
+          "score": 0.541514,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Many are citing lower costs.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Goldman Sachs is among those leaving.",
+      "tones": [
+        {
+          "score": 0.593424,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Investors are concerned that this mass migration away from London will cause the stock market to collapse.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "In addition it is expected that the British currency will be severely devaluation and higher prime interest rates.",
+      "tones": [
+        {
+          "score": 0.809841,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The unemployment rate in London is expected to reach an all time high with no end in sight.",
+      "tones": [
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.593611,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The European union is asking that Britain reconsiders it's decision to leave the union.",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

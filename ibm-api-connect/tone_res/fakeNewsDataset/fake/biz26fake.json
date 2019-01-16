@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.744784,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.632455,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Dan Moss and Scott Lanman golf every week at St. Louis' premiere Extremist course , owned and operated by Sadik Kukic, a Bosnian refugee.",
+      "tones": [
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Kukic came to the USA in 1993 on a student visa and has never left.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "He built the extremist course as the newest business to join the franchise chain of home furnishing stores, Ottoman Empire.",
+      "tones": [
+        {
+          "score": 0.587108,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Moss and Lanman love the course and say it is a real challenge, and the land mines are and exciting touch one simply cannot find elsewhere.",
+      "tones": [
+        {
+          "score": 0.897011,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Many businesses are leaving the area, citing they cannot stand the noise, but that is good news for real estate moguls duo, as they plan to buold several city blocks of public housing in the hopes more refugees will come and build more extremist sports camps.",
+      "tones": []
+    }
+  ]
+}

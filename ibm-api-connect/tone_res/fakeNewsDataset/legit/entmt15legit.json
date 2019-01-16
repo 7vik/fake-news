@@ -1,0 +1,44 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "'Bates Motel' slashes into 'Psycho' in final seasonThere's a fine line between creative risk-taking and sacrilege when dealing with well-known properties.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "While \"Bates Motel\" might not have committed the latter it has seemingly sacrificed the right to bill itself as a prequel to \"Psycho.\"",
+      "tones": [
+        {
+          "score": 0.732654,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The A&amp;E series always appeared to come with a built-in expiration date facing the danger of running out of real estate as it chewed through story related to Alfred Hitchcock's 1960 horror classic.",
+      "tones": [
+        {
+          "score": 0.645371,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The contemporary setting also made the proceedings less spooky what with cellphones and other modern devices that alter the dynamics of say being alone in the basement with a murderer dressed like his mom.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Still the announcement of a fifth and final season that would overlap with the movie actually created some excitement: after an ill-advised remake this offered an alternate window into the story including how these events unfolded from the perspective of Norman/Norma Bates.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.558814,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.780917,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Amazon giving away free budget phones.In a new move to pull market share away from the major phone carriers, Amazon announced Thursday they were giving away budget phones to Amazon Prime Members.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "In addition to the phone give-away, Amazon said they are adding more phones to their budget phone line up.",
+      "tones": [
+        {
+          "score": 0.677069,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Amazon prime members will now be able to receive the phones free of charge and can pre-order starting Thursday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "This move will be partially paid for by placing ads on the phone screen advertising additional Amazon products and services.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "\" Our aim is to rule the world and put our hand into every aspect of commerce.",
+      "tones": [
+        {
+          "score": 0.588049,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.730528,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Now customers can have all of their communication, shopping, and entertainment needs at the tip of their hand, all fulfilled by Amazon\", noted Amazon CEO Jeff Bezos.",
+      "tones": [
+        {
+          "score": 0.617797,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.763553,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

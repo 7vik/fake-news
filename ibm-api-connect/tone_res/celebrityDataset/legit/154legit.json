@@ -1,0 +1,141 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.708365,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.855207,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "What Taylor Swift and Joe Alwyn\u2019s \"Very Normal\" Relationship Is LikeTaylor Swift and Joe Alwyn are currently doing the private relationship thing: They haven\u2019t stepped out in public together and the only way Swift has talked about her British boyfriend of almost a year is through song (\"\u2026Ready For It?\" and \"Gorgeous,\" according to fans).",
+      "tones": [
+        {
+          "score": 0.823023,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.757691,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "But Us Weekly has a report on how things are going for the two these days.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Alwyn and Swift are \u201cvery much in love,\u201d a source told the outlet.\u201cThey",
+      "tones": [
+        {
+          "score": 0.562385,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "have quite a low-key relationship, which Taylor likes.",
+      "tones": [
+        {
+          "score": 0.579522,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It\u2019s very normal, and no one really knows about it right now.",
+      "tones": [
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "They just work out, watch movies together and invite friends over.",
+      "tones": [
+        {
+          "score": 0.66151,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.952999,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Taylor loves to cook and bake for him.",
+      "tones": [
+        {
+          "score": 0.884158,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "They are still taking it slow.\u201dAw.",
+      "tones": [
+        {
+          "score": 0.616107,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "It\u2019s mostly relatable, save the secret trips to London, disguise-wearing there, and chart-topping songs about their love playing on the radio.",
+      "tones": [
+        {
+          "score": 0.796978,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

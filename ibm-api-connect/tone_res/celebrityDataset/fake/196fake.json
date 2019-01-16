@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brad Pitt: Relapse Fears Over Showbiz DeathsAn insider told The ENQUIRER: \u201cHe recently attended a men\u2019s group that meets on the Pacific Coast Highway.",
+      "tones": [
+        {
+          "score": 0.660783,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "He sits in the back with his cap pulled down, as if he doesn\u2019t want to draw attention to himself.",
+      "tones": [
+        {
+          "score": 0.592321,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.728394,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He hasn\u2019t shared his story yet, but he\u2019s [been] friendly to anyone who\u2019s approached him to wish him luck.",
+      "tones": [
+        {
+          "score": 0.567208,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.839577,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "He\u2019s very gracious and will simply say thank you.\u201d",
+      "tones": [
+        {
+          "score": 0.775091,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.874372,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

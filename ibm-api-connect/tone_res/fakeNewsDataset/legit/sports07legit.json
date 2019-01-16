@@ -1,0 +1,115 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.621913,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.625409,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Roger Federer beats Frances Tiafoe on return to Miami OpenRoger Federer beat American teenager Frances Tiafoe in his first match at the Miami Open for three years.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Swiss 35 defeated the 19-year-old qualifier 7-6 (7-2) 6-3 to take his 2017 record to 14 wins and one loss.",
+      "tones": [
+        {
+          "score": 0.712082,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Federer who won has won the Australian Open and Indian Wells titles this year missed Miami through illness in 2016.",
+      "tones": [
+        {
+          "score": 0.658743,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Top seed Stan Wawrinka beat Horacio Zeballos 6-3 6-4 while women's fifth seed Agnieszka Radwanska was thrashed 6-0 6-3 by Mirjana Lucic-Baroni.",
+      "tones": [
+        {
+          "score": 0.575442,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"It's quite tough conditions raining and really windy today Swiss Wawrinka said.",
+      "tones": [
+        {
+          "score": 0.609946,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "It's really windy on the court so it's never easy.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "I'm happy with the way I was moving the way I was playing and my attitude in general was really positive so it's a great match.\"",
+      "tones": [
+        {
+          "score": 0.948299,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.563256,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.525926,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Federer picked up where he left off in Indian Wells winning his first 20 service points on the way to overcoming an impressive effort from Tiafoe the world number 101.",
+      "tones": [
+        {
+          "score": 0.615469,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

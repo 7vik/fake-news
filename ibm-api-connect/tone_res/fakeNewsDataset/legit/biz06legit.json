@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.570307,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.839232,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brexit talks will fail without compromise: Jos\u00e9 Manuel BarrosoBrexit negotiations are on course to fail unless both Britain and the European Union ditch their winner-takes-all approach to the coming talks the former president of the European commission Jos\u00e9 Manuel Barroso has said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "With just days to go before Theresa May formally notifies Brussels of the UK's intention to leave the EU Jean-Claude Juncker's predecessor said the two sides were playing a dangerous game.",
+      "tones": [
+        {
+          "score": 0.551234,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.631525,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The UK's prime minister has said she believes \"no deal is better than a bad deal\" and some in her cabinet have openly talked up the prospect of walking away from the negotiating table.",
+      "tones": [
+        {
+          "score": 0.608163,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

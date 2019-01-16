@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.740867,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.88924,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Trump welcomes Merkel after bashing her on campaign trailOn Friday, Merkel presses ahead with the new, arriving in Washington for her first face-to-face encounter with Trump after months of preparation and one postponement due to snow.",
+      "tones": [
+        {
+          "score": 0.64565,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Analysts and White House officials alike say Friday's sit-down will be Trump's most important meeting with a foreign leader since the Republican businessman took office in January.Merkel, who spoke to Trump by phone in January, pushed for an in-person meeting in order to begin developing the personal ties that she hopes will lead to effective cooperation down the road, according to a German official familiar with her planning.\"Face-to-face",
+      "tones": [
+        {
+          "score": 0.508101,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.84497,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "talks are always much better than talking about each other,\" Merkel told reporters in Munich recently.",
+      "tones": [
+        {
+          "score": 0.580304,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.540465,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lady Gaga is not pregnant, says representativeLOS ANGELES: Lady Gaga 's representative has denied reports that the singer is pregnant The rumours were sparked after Gaga was seen sporting what appeared to be a baby bump last week.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "A magazine claimed in its latest issue that the 29-year-old had \"baby on the way.\"However, the report was debunked by Gaga's representative.",
+      "tones": [
+        {
+          "score": 0.70275,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The representative told Rumor Fix tabloid that Gaga is not expecting a child with her fiance Taylor Kinney, reports aceshowbiz.com.Fans who were in shock took to Twitter to post photographs of Gaga with \"baby bump\".Some images showed her hitting the beach with a tight, cream-coloured maxi dress, while in other photographs she was seen wearing a blue kaftan dress when hitting Malibu beach with Kinney.Gaga shared on Instagram a photograph of her with flat tummy on Wednesday.",
+      "tones": [
+        {
+          "score": 0.527404,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Daddy's Girl\", she captioned it.However, this is not the first time the singer is rumoured to be pregnant.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Earlier also there have been speculations on it.",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.560786,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.801534,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Students wield guns dressed up like sex toys and University of Texas to support open carry Law at University of TexasHundreds of gun toting students showed up at the University of Texas-Austin this Wednesday to show support for the state's hotly debated conceal carry law that went into effect Wednesday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The law allows concealed handgun license holders of at least 21 years of age to carry handguns on campus, including to dorms, dining halls, classrooms, or any other university building.",
+      "tones": [
+        {
+          "score": 0.561417,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In an unusual twist, the students decided to \"dress up\" their weapons like sex toys.",
+      "tones": [
+        {
+          "score": 0.575012,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The reason?",
+      "tones": [
+        {
+          "score": 0.642857,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.982476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "According to Jared Jin, the march organizer, they wanted to show people the absurdity of the liberals by dressing up guns like sex toys.",
+      "tones": [
+        {
+          "score": 0.789807,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"Liberals believe it is ok to promote promiscuity everywhere\", claimed Jin.",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"Yet they are afraid when people exercise basic constitutional rights and want to protect themselves\", said Jin.",
+      "tones": [
+        {
+          "score": 0.605967,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    }
+  ]
+}

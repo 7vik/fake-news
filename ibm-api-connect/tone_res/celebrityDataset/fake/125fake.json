@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.630219,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.530858,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Allison Williams\u2019 top-secret wedding revealedAllison Williams is getting married on Saturday in a starry secret ceremony out west, Page Six can exclusively reveal.The \u201cGirls\u201d star will wed CollegeHumor co-founder Ricky Van Veen in front of guests including her father, Brian Williams, plus Bruce Springsteen, Diane von Furstenberg and Barry Diller, and Williams\u2019 \u201cGirls\u201d castmates Lena Dunham, Zosia Mamet and Jemima Kirke.Also expected are Seth Meyers and his wife Alexi Ashe, Bee Shaffer, Andy Cohen, Tom Hanks \u2014 who may even officiate at the wedding, according to a source \u2014 and his wife Rita Wilson, who plays Williams\u2019 mother on \u201cGirls.\u201dThe",
+      "tones": [
+        {
+          "score": 0.760031,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "source told us, \u201cThe wedding is being kept so secret that guests are being asked to fly to Denver, where they will be picked up and taken to the location, which is thought to be somewhere in Wyoming.\u201cThe",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "accommodations for all guests are being paid for and then many of the guests are flying to LA together for Sunday\u2019s Emmys.\u201dWilliams, 27, who has been engaged to Van Veen, 34, since February 2014, delayed her wedding plans due to the scandal which engulfed her newsman father, which saw him stepping down as anchor of NBC\u2019s \u201cNightly News\u201d earlier this year after he exaggerated stories about his bravery in situations including the Iraq War and Hurricane Katrina.She said in February during a Q&amp;A with \u201cLate Night\u201d host Meyers at the 92Y, \u201cThis has been a really hard time.",
+      "tones": [
+        {
+          "score": 0.531864,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Obviously [it\u2019s] toughest on my dad, who is sort of bearing the full burden of the responsibility for it \u2026 Current events started happening so that derailed [wedding plans] a little bit.\u201dAfter a six-month suspension, Brian Williams is due to make his return to TV, this time on MSNBC, next Tuesday, where he will be a breaking news anchor and will initially report on the Pope\u2019s visit.",
+      "tones": [
+        {
+          "score": 0.660169,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.646157,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It is believed he delayed his return to TV until after his daughter\u2019s hush-hush wedding.A rep for Alison Williams didn\u2019t immediately get back to us.",
+      "tones": []
+    }
+  ]
+}

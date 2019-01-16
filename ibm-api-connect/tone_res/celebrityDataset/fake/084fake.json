@@ -1,0 +1,60 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.644811,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kendall Jenner Wants to Break Free From the Kardashian ClanKendall Jenner is ready to move on from her famous family!",
+      "tones": [
+        {
+          "score": 0.646966,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In Touch has exclusively learned that the 18-year-old model wants out of the Kardashians to further her own career.\"She",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "doesn't want to be associated with them anymore,\" a source exclusively tells In Touch of the model, who feels her connection to the Kardashian brand is putting a damper on her fashion career.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Kendall thinks being a model is a way more legitimate career than being a reality star.\"But",
+      "tones": [
+        {
+          "score": 0.604366,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.73483,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "momager Kris Jenner will do \"whatever it takes to keep her as part of the Kardashian clan,\" the source tells In Touch.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"Kris stands to make a ton of money off Kendall being the next Kim.\"",
+      "tones": []
+    }
+  ]
+}

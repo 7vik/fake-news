@@ -1,0 +1,143 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.615886,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.577035,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Robots Taking Over the WorldRobots are slowly taking over the workforce of the world.",
+      "tones": [
+        {
+          "score": 0.502533,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Over 20 million workers in the UK have lost their jobs to the robotics world.",
+      "tones": [
+        {
+          "score": 0.686911,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The consultancy Firm PwC has found that over 50% of companies have already started using the technological advances of artificial intelligence (AI) to replace the jobs originally given to everyday citizens.",
+      "tones": [
+        {
+          "score": 0.607667,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Former employees of these companies are at a complete loss.",
+      "tones": [
+        {
+          "score": 0.732578,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "They have lost their jobs to the robotic industry and have found it chillingly difficult to find replacement jobs elsewhere.",
+      "tones": [
+        {
+          "score": 0.695346,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Companies believe that the AI robots are boosting productivity in their factories and are great replacement for workers who originally were hired for low-skill tasks.",
+      "tones": [
+        {
+          "score": 0.507431,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.796123,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "PwC says this is just the start of the incorporation of AI in society.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Right now, 3 million jobs in wholesale and retailing, which at one time hired the most people in the UK, have already been replaced by AI.",
+      "tones": [
+        {
+          "score": 0.5585,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Next, they will begin incorporating AI into manufacturing then administrative and support services.",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "Soon, companies will be using AI for 95% of the work within their company.",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "Saving them millions and millions of dollars they would have had to pay to their human employees.",
+      "tones": [
+        {
+          "score": 0.592138,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

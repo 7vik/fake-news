@@ -1,0 +1,232 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.576154,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.543708,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.764905,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.596084,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kim Kardashian explains why she won\u2019t be voting for Trump after allFor a moment there, it seemed that Hillary Clinton had lost the Kim&nbsp;Kardashian vote.The reality TV&nbsp;star backed Clinton as early as August 2015 and, in typical Kim&nbsp;Kardashian fashion, had declared her allegiance via selfie.But last week, reports emerged that Kardashian was thinking of voting for&nbsp;Donald Trump&nbsp;after&nbsp;Caitlyn Jenner \u2014&nbsp;a Republican who spoke during&nbsp;the party\u2019s convention this summer \u2014 encouraged her to reconsider her vote.It&nbsp;all&nbsp;stemmed from a Kardashian quote attributed&nbsp;to an upcoming Wonderland magazine cover story.",
+      "tones": [
+        {
+          "score": 0.536633,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.561929,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The quote does not appear in the online version of the magazine, but BuzzFeed reports&nbsp;that it did appear in an advance version sent to certain outlets, including&nbsp;to BuzzFeed UK.The reported quote read: \u201cAt first I thought, \u2018Oh my god, I\u2019m so Hillary [Clinton],\u2019 but I had a long political call with Caitlyn [Jenner] last night about why she\u2019s voting Trump.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "I\u2019m on the fence.\u201dHeadlines",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "declared \u201cKim Kardashian Is Suddenly (And Disappointingly) Considering Voting For Donald Trump,\u201d \u201cCaitlyn Jenner Convinces Kim Kardashian to Consider Trump\u201d and \u201cHillary Clinton Supporter Kim Kardashian Might Vote for Donald Trump.\u201dAnd, according to&nbsp;Kardashian, her phone blew up with messages from family, friends and both candidates\u2019 camps.",
+      "tones": [
+        {
+          "score": 0.540362,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.813325,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "So she took to her website Saturday night and explained why she was \u201c\u2018on the fence\u2019 about my vote,\u201d she wrote.[Master of horror fiction Stephen King says \u2018Trump presidency scares me to death\u2019]\u201cThere was a point when I wasn\u2019t 100% sure I was even going to vote in this election; I didn\u2019t want to vote blindly,\u201d she wrote.",
+      "tones": [
+        {
+          "score": 0.783847,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\u201cBut I also thought about how not voting would mean that I wasn\u2019t making my voice heard, so I decided to talk to my closest friends and family who I love and trust, to have an open conversation about politics.\u201dShe&nbsp;spoke",
+      "tones": [
+        {
+          "score": 0.589659,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.661594,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "with Jenner, who encouraged her&nbsp;\u201cto do my research before making my decision and then vote for the candidate whose policies aligned with the things that matter most to me.\u201d",
+      "tones": [
+        {
+          "score": 0.766454,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "For Kardashian, that included \u201cgun control and protecting women\u2019s rights to safe and legal abortion.\u201dKardashian",
+      "tones": [
+        {
+          "score": 0.825947,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "continued: \u201cI found that without a doubt, I stand with Hillary.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "I\u2019m with her.",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "I believe Hillary will best represent our country and is the most qualified for the job.",
+      "tones": [
+        {
+          "score": 0.605019,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.798791,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "This year, I\u2019m not just voting for myself, but also for my children, and I took that into careful consideration when I made my decision.\u201dShe",
+      "tones": [
+        {
+          "score": 0.841134,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "also wrote that she believed both Clinton and Trump \u201chave the intention of making the country a safer and stronger place for every American.\u201dJenner,",
+      "tones": [
+        {
+          "score": 0.608593,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.74948,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "for her part, has made varying statements about Trump and Clinton.",
+      "tones": [
+        {
+          "score": 0.703409,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "In a March episode of her show, \u201cI Am Cait,\u201d she said she was not a Trump fan because of \u201chis macho attitude\u201d but would \u201cnever ever ever vote for Hillary.",
+      "tones": [
+        {
+          "score": 0.753872,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "We\u2019re done,&nbsp;if Hillary becomes president.",
+      "tones": []
+    },
+    {
+      "sentence_id": 16,
+      "text": "The country is over.\u201dBut in August, Jenner told&nbsp;HBO\u2019s Bill Simmons, \u201cI honestly have not outwardly supported anybody.\u201dKim",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "Kardashian: \u2018I want my children to grow up knowing that their lives matter.\u2019",
+      "tones": [
+        {
+          "score": 0.642915,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

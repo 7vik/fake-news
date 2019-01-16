@@ -1,0 +1,67 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.636669,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Fergie says she and Josh Duhamel still 'great friends'Fergie says even though she and husband Josh Duhamel are splitting up, they're still \"great friends\" who love one another and their young son.The singer talked about her marriage at a screening Wednesday for her new visual album, \"Double Dutchess,\" at iPic Theaters Fulton Market in New York.",
+      "tones": [
+        {
+          "score": 0.716803,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "She told The Associated Press \"the important thing is we're a family\" with 4-year-old Axl and \"there's so much love\" that they share.She says her new songs are about \"a lot of different relationships,\" adding \"feelings are feelings\" and \"they have to come out somewhere.\"The",
+      "tones": [
+        {
+          "score": 0.756416,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Black Eyed Peas singer and actor confirmed last week that they had decided to break up earlier this year, but decided to keep the news quiet.",
+      "tones": [
+        {
+          "score": 0.712662,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.912322,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.775702,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "They have been married for eight years.",
+      "tones": [
+        {
+          "score": 0.532067,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.720923,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.88543,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Energy Minister Alexander Novak sited that there was no reason to explore Arctic offshore drilling for oil, but rather they would depend on foreign trade with allies for the next three years for their oil supply needs.",
+      "tones": [
+        {
+          "score": 0.516809,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.739122,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "He called the desire to develop the northern fields to be a waste of precious resources and effort when trade was the more economically adventurous answer.",
+      "tones": [
+        {
+          "score": 0.655005,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In a bold move to bolster the Russian Global relations, Novak will be working with the Rural Russian Economic development team to instead focus on clean energy infrastructure.",
+      "tones": [
+        {
+          "score": 0.667919,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

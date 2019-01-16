@@ -1,0 +1,44 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.575167,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "\"Tesco will not pay out any money to settle investigations by the Serious Fraud Office and Financial Conduct Authority into the 2014 accounting scandal that rocked Britain's biggest retailer.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "It will pay \u00a30.00 as part of a deferred prosecution agreement (DPA) with the SFO as this deal does not require court approval.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The DPA relates to Tesco subsidiary Tesco Stores Ltd.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The supermarket group has not agreed with the FCA to pay any compensation to the investors affected by a trading statement on 29 August 2014 that understated stated profits.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Tesco will not pay legal costs associated with the agreements and said the total exceptional charge was expected to be \u00a30.00.\"",
+      "tones": []
+    }
+  ]
+}

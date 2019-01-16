@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.621691,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.743557,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Chelsea Handler Thinks 'It's Crazy' People Think Jennifer Aniston Cares About What's Going on Between Angelina Jolie and Brad PittLaughter is the best medicine when it comes to coping with rumors in Hollywood, at least for Chelsea Handler and bestie Jennifer Aniston.During a recent interview with U.K.\u2019s You magazine, the talk show host-comedian opened up about those \u201ccrazy\u201d rumors she hears about Aniston being hung up on ex-husband Brad Pitt\u2019s September split from Angelina Jolie.\u201cI",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "don\u2019t think Jen cares about what\u2019s going on, and it\u2019s crazy that people think she does,\u201d the former Chelsea Lately host said, defending close pal Aniston.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\u201cAs if she\u2019s sitting around caring about [Angelina Jolie].",
+      "tones": [
+        {
+          "score": 0.946222,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "I know I don\u2019t.\u201dFrom",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Coinage: See Where 6 Stars Were Before They Were FamousThis isn\u2019t the first time Handler has joked&nbsp;about the pair\u2019s split.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "During a September episode of her Netflix series&nbsp;Chelsea, the comedian&nbsp;dissed the Academy Award-winning actress, saying she understood Pitt\u2019s need to \u201cself-medicate.\u201dReferring to her past remarks, Handler told&nbsp;You, \u201cI just say what most people are thinking.\u201dAniston,",
+      "tones": [
+        {
+          "score": 0.567732,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.550751,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "who was married to Pitt for five years, has been happily married to&nbsp;Justin Theroux since August 2015.",
+      "tones": [
+        {
+          "score": 0.58013,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

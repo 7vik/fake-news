@@ -1,0 +1,33 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "from pprint import pprintfile_base='001fake'with open(file_base+'.txt',",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "'r+') as f:req = {'title': f.readline().strip()",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": ",'content': ''.join([line.strip()",
+      "tones": [
+        {
+          "score": 0.972214,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "for line in f.readlines()])}pprint(req)",
+      "tones": []
+    }
+  ]
+}

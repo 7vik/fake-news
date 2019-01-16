@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.725383,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.835608,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ban for right hand usersThe U.S. government is temporarily banning passengers on flights that leave out for the next 2 weeks.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The government will determine lefties from eighties by quickly throwing a ball at unsuspecting passengers.",
+      "tones": [
+        {
+          "score": 0.604199,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Because of the quick reflex at is required e person's dominant hand will be shown and revealed.",
+      "tones": [
+        {
+          "score": 0.784247,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The reason for this ban is not immediately clear ands officials would not comment.",
+      "tones": [
+        {
+          "score": 0.560802,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.858259,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "A second official stated that is would only be a temporary inconvenience and try hope all involved will be patient.",
+      "tones": [
+        {
+          "score": 0.704683,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

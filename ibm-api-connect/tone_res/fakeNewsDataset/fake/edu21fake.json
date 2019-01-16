@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.663607,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.904443,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Donald Trump's Win To The Presidency Causes Freshman To Be Emotionally Unprepared for CollegeHigh school students spend years being taught that being fair and honest will always help you get ahead, but with the election of Donald J Trump to the presidency students are now questioning their educational foundations.",
+      "tones": [
+        {
+          "score": 0.612362,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "According to a new national survey conducted by Harris Poll for the JED Foundation, Partnership for Drug-free Kids, and The Jordan Porco Foundation, found that 70 percent of freshmen said they had wished \"Hillary Clinton had won the presidency\".",
+      "tones": [
+        {
+          "score": 0.680508,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.85365,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

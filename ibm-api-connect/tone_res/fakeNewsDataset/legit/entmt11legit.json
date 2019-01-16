@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.541037,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Rapper Wiz Khalifa sparks outrage for visit to Pablo Escobar's graveAmerican rap artist Wiz Khalifa has kicked up quite the controversy on his visit to Colombia.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "During a trip to perform at a festival in Medellin the celebrity posted pictures to his Instagram account of him apparently paying tribute to the late Colombian drug lord Pablo Escobar.",
+      "tones": [
+        {
+          "score": 0.505103,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The rapper posted one photo of colorful flowers at the grave's headstone.",
+      "tones": [
+        {
+          "score": 0.607188,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Wiz Khalifa also posted several photos of him smoking what appears to be marijuana near Escobar's grave as well as a picture of him posing outside of a property -- site of a bombing and attempt on Escobar's life in the '80s -- formerly owned by the drug lord who died in a shootout with authorities in Medellin in 1993.",
+      "tones": [
+        {
+          "score": 0.600109,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

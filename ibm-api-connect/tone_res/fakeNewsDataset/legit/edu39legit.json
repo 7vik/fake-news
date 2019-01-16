@@ -1,0 +1,46 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.683807,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "How Companies and Colleges Can Get the U.S. Back to WorkLast Friday, the Labor Department announced that the U.S. economy had enjoyed a record 76 consecutive months with job gains.",
+      "tones": [
+        {
+          "score": 0.790165,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Yet at the same time, the U.S. Chamber of Commerce reports that 5.6 million jobs remain unfilled because of a pernicious \"skills gap\" -- or mismatch between employers' needs and workers' abilities.",
+      "tones": [
+        {
+          "score": 0.633185,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In a Business Roundtable survey, 45 percent of C-suite executives say hiring is particularly difficult in so-called STEM fields, those requiring expertise in science, technology, engineering and math.College graduates themselves are no less concerned: A national survey commissioned by Northeastern University found that just 14 percent of recent college graduates believe their education prepared them to work with artificial intelligence and robotics -- innovations poised to transform the American workplace.",
+      "tones": [
+        {
+          "score": 0.528861,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

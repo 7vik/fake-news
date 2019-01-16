@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.821161,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.83996,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.575202,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Meghan Markle Is Reportedly Moving Into Kensington Palace With Prince HarryIf reports are to be believed, then Meghan Markle could be about to give her current living sitch a royal upgrade.",
+      "tones": [
+        {
+          "score": 0.737379,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Literally.The Daily Mail is reporting that Prince Harry, Meghan's ordinary and under-the-radar boyfriend, &nbsp;is having an apartment in Kensington Palace renovated with the intention that he and Meghan live there together.\"He",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "[Prince Harry] keeps popping round and asking when it will be ready.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "He seems in a real hurry to move in with Meghan,\" a source told the Mail Online.Harry currently lives in Nottingham Cottage, a two-bedroom house on the Kensington estate, but it seems he's in the market for an upscale.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "According to the reports, the apartment (which here doesn't mean 'a small house in an apartment block', but rather 'an entire wing of Kensington Palace, similar to Kate and Wills' 22-room house') is located next to Harry's brother and sister-in-law, meaning Meghan will also inherit some tiny neighbours in the form of Prince George and Princess Charlotte.Meghan, 35, and Harry, 32, seems to be moving relatively quickly after getting together mid-last year.",
+      "tones": [
+        {
+          "score": 0.531284,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.664451,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The two have already attending weddings together (something Kate and Wills didn't do until after they were engaged), met each other's families (and when your family includes the Queen of England, that's a relatively big deal) and told friends an engagement is on the way.Maybe Meghan will be able to attend Pippa Middleton's 'no bling, no bring' wedding after all.",
+      "tones": [
+        {
+          "score": 0.628377,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

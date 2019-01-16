@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.677987,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.53993,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ivanka Trump, the Real Vice President?President Trump's daughter, Ivanka, has moved to Washington following her father's inauguration.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "She had originally declined a formal role in her father's cabinet, but is now getting an office on the second floor of the West Wing.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Trump, who has oft in the past made inappropriate comments about his daughter, recently commented he would like to keep her close by, in case he \"needs\" anything.",
+      "tones": [
+        {
+          "score": 0.698904,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Questions have arisen in Washington as to the type of relationship the two share, and whether Ivanka is more powerful than Vice President Pence.",
+      "tones": [
+        {
+          "score": 0.807548,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

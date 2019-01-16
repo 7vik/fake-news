@@ -1,0 +1,99 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.695833,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.533783,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Michelle Pfeiffer says she's 'looking towards rest and relaxation' now that her children are grown\"Michelle Pfeiffer\" is now enjoying lots of free time nowadays.",
+      "tones": [
+        {
+          "score": 0.70366,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "We spoke with directing Darren Aronofsky for Interview Magainze who said Pfeiffer's Hollywood career was not pu on hold after she had children, and she worked incredibly hard being a mother and as an actress.",
+      "tones": [
+        {
+          "score": 0.531474,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "But now that they've grown up, she's decided that she needs a long vacation.",
+      "tones": [
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"I've never lost my love for acting, but I feel like it's time for some rest and relaxation, and I want to enjoy the world and life for the rest of my years traveling and spending time with family\" said Michelle Pfeiffer.",
+      "tones": [
+        {
+          "score": 0.682253,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Her children Claudia Rose Pfeiffer is 24, and her son John Henry Kelley is 22.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "This year, Michelle Pfeiffer won't star in any television shows or films.",
+      "tones": [
+        {
+          "score": 0.946222,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "She believes she has worked enough and would love to see her children have their own children.",
+      "tones": [
+        {
+          "score": 0.642188,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

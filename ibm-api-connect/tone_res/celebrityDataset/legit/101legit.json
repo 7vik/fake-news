@@ -1,0 +1,109 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.601942,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.859979,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.544576,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "James Corden just asked Kim Kardashian about the Khloe and Kylie pregnancy rumours2017-11-16 08:52:00Two months after rumours broke out that both Kylie Jenner and sister Khlo\u00e9 Kardashian might be pregnant at the same time, we still don't know any more than we did in September.",
+      "tones": [
+        {
+          "score": 0.731338,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Big sis Kim Kardashian won't be ending the suspense any time soon, judging by her recent appearance on James Corden.Kim took part in a particularly nasty game of \"Spill Your Guts or Fill Your Guts,\" a staple of the Corden show where James and a guest ask each other questions that could get them in trouble.",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "If one of the players refuses to answer, they have to eat a gut-churning ~delicacy~.When asked to rank her mum and sisters from best to worst dressed, Kim didn't hesitate to oblige \u2014 understandable, since the alternative was to drink bird saliva (eek!).",
+      "tones": [
+        {
+          "score": 0.746925,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "But when the million-dollar question \u2014 the question of Kylie and Khlo\u00e9's pregnancy rumours, obvs \u2014 inevitably came up, Kim chose to drink a sardine smoothie instead.",
+      "tones": [
+        {
+          "score": 0.509368,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.851087,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "This is one of those moments we're glad we're not famous.Kiki has shut down rumours about her reaction to Kylie's pregnancy, but hasn't given us any clues as to whether the rumours are actually true or not.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Guess we'll just have to keep being patient.As for James, he refused to reveal which of his guests was the most obnoxious (he ate a scorpion instead!), but did say that Kylie was his least favourite Kardashian.",
+      "tones": [
+        {
+          "score": 0.668257,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The youngest sister was supposed to appear on Corden's show, but apparently backed out.",
+      "tones": [
+        {
+          "score": 0.611262,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

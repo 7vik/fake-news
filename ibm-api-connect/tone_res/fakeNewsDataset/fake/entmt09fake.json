@@ -1,0 +1,33 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sienna Miller praises script for new roleSienna Miller has high praise for the director and script writer of her new film - Lost City of Z.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "She plays the role of loyal and supportive wife to Amazon explorer Percy Fawcett (played by Charlie Hunnam), who searches for a mysterious lost city in this adaptation of a true story.",
+      "tones": [
+        {
+          "score": 0.510976,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Her sense of commonality with the character led her to present the director with a hand copied segment of the script, which the director subsequently framed as a testament to Sienna.",
+      "tones": []
+    }
+  ]
+}

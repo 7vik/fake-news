@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.57344,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.521811,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Netflix is testing a 'Skip Intro' button, and viewers love itNo more watching the same minute-long intro song and credits before every episode of \"Orange is the New Black.\"",
+      "tones": [
+        {
+          "score": 0.649722,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Netflix told CNNMoney Friday that some Netflix members recently began seeing a \"Skip Intro\" button while streaming, but wouldn't say when it first appeared.Netflix spokesperson Smita Saran said the feature is one of \"hundreds\" of A-B tests that the company conducts each year to try out new features.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"We're looking at what does or doesn't enhance the viewing experience,\" Saran said.",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

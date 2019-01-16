@@ -1,0 +1,114 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.873735,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.834341,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.801068,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "NASA finds Liquid Water on MarsLiquid water might have been discovered on Mars.",
+      "tones": [
+        {
+          "score": 0.916118,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Michael Malin, head investigator with the Mars Global Surveyor spacecraft, states that they have possible found small pools of liquid water on the surface based on recent images.",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"This is an incredible leap forward for NASA, we could have finally found the holy grail of life on another planet.\"",
+      "tones": [
+        {
+          "score": 0.934472,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Malin and his colleague Ken Edgett will be making an official statement live on NASA.com once all the information has been reviewed and approved.",
+      "tones": [
+        {
+          "score": 0.787769,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.525926,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Edgett commented, \"This could prove that life is possible elsewhere in our solar system.\"",
+      "tones": [
+        {
+          "score": 0.601385,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.61476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.845297,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Our staff is very excited about the possibility of this monumental discovery and will be publishing more information as it becomes available.",
+      "tones": [
+        {
+          "score": 0.678952,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

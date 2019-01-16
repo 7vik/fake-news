@@ -1,0 +1,135 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.516579,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.682841,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sarah Jessica Parker Inherits Vogue Magazine Control From Anna Wintour? | Celeb Dirty LaundryThere's only one Anna Wintour, but there's only so long that she can run Vogue.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Anna's now 64 years old, and while she's still got plenty of years to keep running Vogue, her reign isn't going to last forever.",
+      "tones": [
+        {
+          "score": 0.621966,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Eventually, she will have to find a successor, and according to a report from Radar Online, that successor will be Sarah Jessica Parker.Now, before you laugh yourself to sleep, listen to Radar's reasoning.",
+      "tones": [
+        {
+          "score": 0.57448,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.515917,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.825947,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Sarah and Anna are friends, and have been friends for a very long time, thanks to the long running popularity of Sex and the City.",
+      "tones": [
+        {
+          "score": 0.510275,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525926,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Vogue owes a huge debt to the show for putting it on the map, especially since the magazine didn't use to be the household name it is now.Anyway, Radar's source explains, \"Anna is&nbsp;worrying colleagues who believe she has found her true successor in Sarah!&nbsp;It's a surprising idea, but one that is not entirely a joke.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Anna thinks Sarah, a fashion icon on&nbsp;Sex and the City, truly has what it takes to step into her shoes and take on a role at&nbsp;Vogue&nbsp;one day.&nbsp;Although",
+      "tones": [
+        {
+          "score": 0.597565,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Wintour has made no announcements about when she might retire, her scheme to put Parker in the&nbsp;Vogue&nbsp;pipeline has co-workers shaking in their own designer shoes.\"You",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "know, the idea's not as far-fetched as it sounds.",
+      "tones": [
+        {
+          "score": 0.901894,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Sarah's very fashion savvy, and while she doesn't seem like she'd be able to run Vogue as well as Anna [who would?], she does have the contacts and image to keep the brand name strong.What do you guys think?",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "Is Anna Wintour grooming Sarah Jessica Parker to take over Vogue for her?",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "Let us know your thoughts in the comments.",
+      "tones": [
+        {
+          "score": 0.931038,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

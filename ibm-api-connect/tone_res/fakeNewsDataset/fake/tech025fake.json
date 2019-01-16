@@ -1,0 +1,44 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.584104,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.810924,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "First Amazon Prime Air delivery ends in disasterOn Thursday, Amazon Prime Air attempted its very first package shipment in their attempt to move forward its goal of filling the skies with delivery drones.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "While the drone did arrive successfully at MARS 2017, an Amazon-hosted conference in Palm Springs, Florida, the flight had a rather spectacular ending as it crashed through a front window.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Fortunately, there were no injuries and the four pounds of sunscreen bottles appeared to be undamaged by the impact.",
+      "tones": [
+        {
+          "score": 0.727988,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "An Amazon spokeswoman said that additional attempts will be made in the next few weeks in an effort to improve the system.",
+      "tones": []
+    }
+  ]
+}

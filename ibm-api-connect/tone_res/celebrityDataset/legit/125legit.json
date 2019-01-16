@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.750414,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.559921,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Tom Hanks Officiated Allison Williams\u2018s Wedding to Ricky Van VeenAllison Williams wasn\u2019t on hand to cheer on her Girls co-stars at the Emmy Awards on Sunday night, but she probably didn\u2019t miss the spectacle\u2014she was too busy celebrating being a newlywed.",
+      "tones": [
+        {
+          "score": 0.662961,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The actress\u2019s wedding to CollegeHumor co-founder Ricky Van Veen took place at a Wyoming ranch on Saturday, and so far\u2014like a true Millennial\u2014all she\u2019s shared about the big event is this Instagram, featuring her custom Oscar de la Renta gown.People had more details, including that Tom Hanks was the officiant (his wife Rita Wilson plays Marnie\u2019s mom on Girls) and other guests included Katy Perry, John Mayer, Bruce Springsteen, Seth Meyers, Diane von Furstenberg, Barry Diller, Mindy Kaling, and of course, Girls co-stars Lena Dunham and Jemima Kirke.",
+      "tones": [
+        {
+          "score": 0.73246,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Dunham\u2019s Instagram included some shots of the road trip to and from the Wyoming ranch, but none of the event itself.If Williams were more like her Girls character, we could probably expect an entire album of weepy singer-songwriter tracks about the big day.",
+      "tones": [
+        {
+          "score": 0.731338,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "But the real Williams, thankfully, will probably celebrate much more like a normal person\u2014and hopefully share a few more Instagrams for the rest of us whose invitations were surely lost in the mail.",
+      "tones": []
+    }
+  ]
+}

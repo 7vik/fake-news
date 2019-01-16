@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.68097,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.800921,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Chelsea Reverse Decision to Seek Arsenal's Alexis Sanchez as Summer Transfer\"Chelsea had considered making Arsenal's Alexis Sanchez one of their summer transfer targets, but have changed course and now reversed that decision.",
+      "tones": [
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "While Antonio Conte had spoken of considering bringing the player to Stamford Bridge, the talks have now broken down and Chelsea seems to be reversing their decision.",
+      "tones": [
+        {
+          "score": 0.602762,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Conte has sent the recruitment team, led by director Marina Granovskaia and technical director Michael Emenalo, a list of names and it seems that Sanchez was not included.\"",
+      "tones": []
+    }
+  ]
+}

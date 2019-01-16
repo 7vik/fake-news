@@ -1,0 +1,43 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Mo Farah: Doctor who gave controversial supplement infusion to face MPsThe doctor who treated Mo Farah with a controversial infusion has been summoned to give evidence to MPs.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The infusion of the legal supplement L-carnitine given to Farah in 2014 before a major race is being looked at by the US Anti-Doping Agency (Usada) to determine whether rules were broken.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Dr Robin Chakraverty carried out the treatment on the instruction of Farah's American coach Alberto Salazar.",
+      "tones": [
+        {
+          "score": 0.530235,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "He will appear before the Culture Media and Sport Committee on 19 April.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "MPs have also asked to speak with UK Athletics' head of endurance Barry Fudge as part of their ongoing investigation into doping in sport.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Fudge works closely with Farah and Dr John Rogers a medic for the British athletics team who reportedly raised concerns about Salazar's methods.",
+      "tones": []
+    }
+  ]
+}

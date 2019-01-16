@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.521805,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Male teachers preparing to cover down on 'Day Without Women'After last year's 'Day Without Men' fiasco and the trouble it caused in the coal mining, sanitation, and law enforcement sectors, North Carolina and Virginia educators have hatched a plan to avoid the same problem happening in the field of education this year.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "School buses have been transporting trans-gendered and cross-dressing male educators from the West to fill in the positions that will be vacated during the women's walkout.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"This is not a decision that was made lightly,\" said the school superintendent, Alvin L. Crawley.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"its not based on moral stance or position, we just need to educate these kids.\"",
+      "tones": [
+        {
+          "score": 0.904882,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

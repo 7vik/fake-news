@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.677133,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.632897,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.702512,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jeff Bezos tests giant robot suitThe Amazon (AMZN Tech30) CEO tweeted a photo of himself testing out a giant mechanical robot suit at the company's exclusive MARS conference late Sunday night.",
+      "tones": [
+        {
+          "score": 0.592052,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The conference focuses on machine-learning home automation robotics and space.",
+      "tones": [
+        {
+          "score": 0.533267,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"Why do I feel so much like Sigourney Weaver?\" Bezos asked the audience referring to the actress's lead role in \"Alien.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The robot was designed by South Korean company Hankook Mirae Technology and is almost 14 feet tall according to the company's website.",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

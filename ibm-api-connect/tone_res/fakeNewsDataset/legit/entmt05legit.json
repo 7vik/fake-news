@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.720444,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.639737,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Planet Earth leads field with nine Bafta Craft nominationsPlanet Earth II was a hit with viewers when it aired last year - and now it seems to have wowed Bafta as well.",
+      "tones": [
+        {
+          "score": 0.536667,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.656175,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The BBC One nature documentary has received nine nominations ahead of its annual Craft Awards which celebrate behind the scenes talent in television.",
+      "tones": [
+        {
+          "score": 0.744776,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Netflix drama The Crown follows with seven nominations while the BBC's The Night Manager gets six.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The winners will be announced on 23 April three weeks ahead of the Bafta Television Awards on 14 May.",
+      "tones": [
+        {
+          "score": 0.689324,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Here's a rundown of which programmes are up for what.",
+      "tones": []
+    }
+  ]
+}

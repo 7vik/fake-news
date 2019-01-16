@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.884895,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "A Tumultuous Wardrobe MalfunctionEducation Secretary Betsy DeVos had a slight problem when she was confirmed by the Senate.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "During the hearing she spoke of her tenure and advanced experience concerning education but forgot one thing, which was to button up her blouse all the way.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Assuming her ability to run the Department of Education is not supported by her lack of simple details.",
+      "tones": [
+        {
+          "score": 0.793846,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Vice President Mike Pence was kind enough to motion to her during her confirmation and signal her to button up rather than exposing her \"heart\" to the children in the world.",
+      "tones": [
+        {
+          "score": 0.54989,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

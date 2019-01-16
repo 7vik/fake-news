@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.650258,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.572148,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Benedict Cumberbatch welcomes 5th childPeople confirmed that actor Benedict Cumberbatch and his girlfriend, Sophie Hunter, welcomed a son, Hal Auden Cumberbatch on March 18th.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "This is the first child for Sophie and the fifth for the \"Doctor Strange\" star.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "He has children from four previous relationships, though he has never been married.",
+      "tones": [
+        {
+          "score": 0.509368,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "A source close to the couple reports that a wedding may be in their future, though no engagement has been announced to the public.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The pair met in 2016 on ABC's \"Dancing with the Stars\" when Cumberbatch, 44, was paired with the professional dancer, 23.",
+      "tones": [
+        {
+          "score": 0.716933,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "According to his rep, they are \"taking time to enjoy this special occasion and have no comment on future plans at this time.\"",
+      "tones": [
+        {
+          "score": 0.639857,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.802462,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

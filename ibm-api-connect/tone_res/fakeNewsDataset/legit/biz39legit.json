@@ -1,0 +1,83 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.587656,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.779406,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Westinghouse Electric is filing for bankruptcyToshiba has been hit with billions of dollars of losses from problems at Westinghouse's nuclear operations.",
+      "tones": [
+        {
+          "score": 0.658678,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Chapter 11 bankruptcy filing allows Toshiba (TOSBF) to limit exposure to future losses at Westinghouse.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Japanese firm said in a statement Wednesday that Westinghouse will no longer be under its control and will be deconsolidated from its financial results.",
+      "tones": [
+        {
+          "score": 0.525926,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.60456,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Westinghouse is what is left today of what was once a major industrial conglomerate that helped change the world during the late 19th and early 20th centuries.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Founder George Westinghouse a prolific inventor started making air brakes which greatly improved the safety of train travel and freight transportation.",
+      "tones": [
+        {
+          "score": 0.869658,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "He was a key advocate of alternating electrical current that is still used around the globe today rather than the direct current which had been pioneered by Thomas Edison.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.786528,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Reese Witherspoon and Husband argue over son's educationActress Reese Witherspoon and her husband were overheard having a heated discussion in a LA coffee shop about their son, Tennessee's, future education.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Oscar-Winner was overheard saying that she wanted her son to be home-schooled, but her husband, Toth, disagreed citing the couples' busy schedules as a major obstacle to effectively pursuing a home education.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Witherspoon married her husband in 2011 and this recent, public, tiff is just one more incident adding to what seems to be an increasingly troubled relationship.",
+      "tones": [
+        {
+          "score": 0.50727,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Recently tweeting, \"Miss this little man so much when I'm working!\" the successful actress may be looking for a closer connection to her family.",
+      "tones": [
+        {
+          "score": 0.558282,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

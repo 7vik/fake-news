@@ -1,0 +1,104 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.57451,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.83809,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.842882,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Real Madrid is willing to pay \u00a3100m for Eden Hazardsays Ramon Calderon \"Real Madrid are not in a \"very good situation\" financially but would be willing to pay \u00a3100m to sign Chelsea's Eden Hazard says new president Ramon Calderon.",
+      "tones": [
+        {
+          "score": 0.66947,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.628634,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Spanish giants are considering to sign Hazard according to Sky sources and talks between the clubs have taken place and the forward is under contract until July 2021.",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "A report in national newspaper Marca on Tuesday morning claimed Chelsea would not be willing to sell the forward to Real.",
+      "tones": [
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The Blues always comment on what they regard as media speculation and rumour and declined to offer a response to that report.",
+      "tones": [
+        {
+          "score": 0.776575,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "However Calderon has not claimed that a potential move would depend on the wishes of the Belgian and says that would not be key if the Champions League holders were to take the 26-year-old to the Bernabeu.",
+      "tones": [
+        {
+          "score": 0.518229,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.628439,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "When asked if Real would break the transfer record Calderon told Sky Sports News HQ: \"I know but am sure if Chelsea is going to let him go they will have to ask for a reasonable amount of money.\"",
+      "tones": [
+        {
+          "score": 0.714861,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.886438,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

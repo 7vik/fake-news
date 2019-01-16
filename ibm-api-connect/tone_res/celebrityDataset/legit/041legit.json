@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.725014,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.59415,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.815351,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kylie Jenner Sets the Record Straight About Reports Tyga Owes Her $2 MillionDefending her ex.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Kylie Jenner took to Twitter on Friday, May 27, to address reports that her ex-boyfriend Tyga owes her $2 million.\"Lies",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "lies lies,\" the Keeping Up With the Kardashians star, 18, wrote in response to a tweet.The reports appear to stem from a story on Radar Online on Thursday, May 26, that claimed Jenner had been \"bankrolling Tyga for well over a year and she's finding herself short on cash as a result.\"The",
+      "tones": [
+        {
+          "score": 0.871793,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Rack City\" rapper, 26, gave Jenner lavish presents during their relationship, even presenting her with a $320,000 Ferrari for her 18th birthday.The lipstick queen and Blac Chyna's ex-fianc\u00e9&nbsp;split in early May and Jenner has already moved on with rapper PartyNextDoor.As Us Weekly previously reported, the Canadian rapper, 22, actually began courting Kylie two months ago, but the pair kept things platonic because she was still dating Tyga.PHOTOS: See All of Kylie Jenner's Most Colorful HairstylesThings have quickly heated up since they were first spotted out together on May 18.",
+      "tones": [
+        {
+          "score": 0.778157,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "On Saturday, May 28, the \"Come and See Me\" singer crooned about his new love as he sat at a piano in a Snapchat video Jenner posted.The feeling appears to be mutual - the teen was photographed with her arm around PND when the pair went on a bowling date earlier this week.",
+      "tones": [
+        {
+          "score": 0.715093,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.563696,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

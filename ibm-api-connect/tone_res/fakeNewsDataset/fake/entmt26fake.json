@@ -1,0 +1,114 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.623393,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.562707,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.50457,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.627313,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Katy Perry paid tribute to a fan that was killed by a train in route to her concertKaty Perry paid tribute to a superfan that was hit by a train on her way to the concert.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "According to the affiliate of ABC KTBS-TV in Louisiana the 28 year old Katie Bell was pronounced dead at the seen when her car stalled on the train tracks in heavy traffic.",
+      "tones": [
+        {
+          "score": 0.693439,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The conductor of the train suffered a fatal heart attack.",
+      "tones": [
+        {
+          "score": 0.775814,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "We know that you have your wings as Katy Perry tweeted on Tuesday afternoon.",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "A candlelight vigil will be held at the location for KC's.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "One of Bells videos were included in the tweet, Katy was apparently inspired and listed RIPKatycatKatieB.",
+      "tones": [
+        {
+          "score": 0.716743,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "All the fans call themselves KatyCats and Perry noticed.",
+      "tones": [
+        {
+          "score": 0.874372,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Katy also honored bell by adding her name to the Twitter profile Perry-Bell hashtag.",
+      "tones": [
+        {
+          "score": 0.619725,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

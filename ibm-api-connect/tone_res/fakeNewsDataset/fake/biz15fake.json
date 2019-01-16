@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.513523,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.574828,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Wells Fargo profits spike despite legal costs\"Despite the looming court costs of its recent scandal, Wells Fargo bank has reported an increase in quarterly profits.",
+      "tones": [
+        {
+          "score": 0.53644,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Third quarter profit rose 2% to $6bn, up from $5.8bn last year.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "In response, the bank is hiring for positions which were previously cut when employees involved in the scandal were fired.",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The scandal involved employees opening up fake accounts in customers' names without the customers' knowledge.",
+      "tones": [
+        {
+          "score": 0.520963,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The latest report of profit increases has surprised many in and outside of the bank.\"",
+      "tones": []
+    }
+  ]
+}

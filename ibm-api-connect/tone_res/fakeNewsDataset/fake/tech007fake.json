@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Super Mario Run to leave app storeThe once popular Super Mario Run will be taken out of the Google play and apple app store on Friday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Nintendo says that shortly after its release the public stopped downloading the game when current players had spread the word that in order to play the entire game you had to make an in app purchase.",
+      "tones": [
+        {
+          "score": 0.502917,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Nintendo and Mario fans are appalled that Nintendo would release a game for free and then charge to play it.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Nintendo says they will take the game back to the drawing board, and try and release a free version at a later time.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.799532,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.850625,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Donald Trump Won't Say if He'll Accept Result of ElectionIn a remarkable statement that seemed to cast doubt on American democracy, Donald J. Trump said Wednesday that he might not accept the results of next month's election if he felt it was rigged against him - a stand that Hillary Clinton blasted as \"horrifying\" at their final and caustic debate on Wednesday.Mr.",
+      "tones": [
+        {
+          "score": 0.690621,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.562273,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Trump, under enormous pressure to halt Mrs. Clinton's steady rise in opinion polls, came across as repeatedly frustrated as he tried to rally conservative voters with hard-line stands on illegal immigration and abortion rights.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "But he kept finding himself drawn onto perilous political territory by Mrs. Clinton and the debate's moderator, Chris Wallace.",
+      "tones": [
+        {
+          "score": 0.527318,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.681029,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Prince Harry &amp; Meghan Markle Moving In TogetherA close pal of the \"Suits\" star told The ENQUIRER that Meg is \"turning the palace upside down with her renovations\" - adding: \"She knows what she wants!",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Meghan's incredibly headstrong when it comes to her own tastes!\"",
+      "tones": [
+        {
+          "score": 0.607702,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The L.A. native is insisting on eco-friendly renovations, airy open rooms, neutral colors, large comfortable sofas and chairs, and modern glass and metal accessories.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "But the commoner's \"diva-like\" attitude is making some palace insiders cringe!",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

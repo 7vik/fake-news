@@ -1,0 +1,118 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.552341,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.595461,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lindsay Lohan Doing Drugs on Oprah's Dime!Filming a reality show for Oprah Winfrey's&nbsp;TV network was supposed to be a chance for Lindsay Lohan&nbsp;to reestablish her career, but instead, she's falling back into other old habits.The media mogul denies shelling out big bucks on an apartment for the actress, but insiders say the posh pad is for real - and LiLo is taking advantage of it!",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"Lindsay was 100 percent doing lines of cocaine at the apartment Oprah got her,\" a source tells Star.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"She was doing it out in the open, in front of three friends.\"This",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "isn't the first drug binge for the 27-year-old that Star&nbsp;has uncovered, either.",
+      "tones": [
+        {
+          "score": 0.548746,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.711887,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "On Dec. 6, an eyewitness reveals that the 27-year-old did some partying at the Art Basel festival in Miami Beach.",
+      "tones": [
+        {
+          "score": 0.506794,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"Lindsay was doing lines of cocaine in a bedroom with friends,\" the insider says.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"She ended up doing so much that she had a total coke freak-out.\"But",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "instead of being ashamed of her behavior, a friend tells Star&nbsp;that Lindsay just brags about her status with Oprah.",
+      "tones": [
+        {
+          "score": 0.623404,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "\"At Thanksgiving she told me, 'I own Oprah's Next Chapter.",
+      "tones": [
+        {
+          "score": 0.738031,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "What is she without me?",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "Oprah is so 2009!'\"For more on Lindsay, pick up or download the latest issue of Star, on newsstands now.",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.865159,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

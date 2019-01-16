@@ -1,0 +1,99 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.717253,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Banks and Tech Firms Battle Over Something Akin to Gold: Your DataThe big banks and Silicon Valley are waging an escalating battle over your personal financial data: your dinner bill last night your monthly mortgage payment the interest rates you pay.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Technology companies like Mint and Betterment have been eager to slurp up this data mainly by building services that let people link all their various bank-account and credit-card information.",
+      "tones": [
+        {
+          "score": 0.675176,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The selling point is to make budgeting and bookkeeping easier.",
+      "tones": [
+        {
+          "score": 0.541605,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "But the data is also being used to offer new kinds of loans and investment products.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Now banks have decided they aren't letting the data go without a fight.",
+      "tones": [
+        {
+          "score": 0.821913,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.775702,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "In recent weeks several large banks have been pushing to restrict the sharing of this kind of data with technology companies according to the tech firms.",
+      "tones": [
+        {
+          "score": 0.774376,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "In some cases they are refusing to pass along information like the fees and interest rates they charge.",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.548904,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Both sides see big money to be made from the reams of highly personal information created by financial transactions.",
+      "tones": []
+    }
+  ]
+}

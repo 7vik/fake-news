@@ -1,0 +1,49 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.621183,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Demi Lovato does a perfect teen impressionDemi Lovato does like a totally legit impression of a teen.",
+      "tones": [
+        {
+          "score": 0.71013,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.816764,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Lovato appeared on \"The Tonight Show\" Monday night an took part in Jimmy Fallon's reoccurring \"Ew!\" skit.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The requirements included wearing a ridiculously sparkly top pigtails and locking lips with a pillow plastered with singer Ed Sheeran's face.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The pillow was dubbed a \"crush cushion\" by Fallon's character in the skit.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "While Lovato practiced her smooching skills with her Sheeran pillow Fallon puckered up to a pillow featuring \"Extra\" host Mario Lopez's face.",
+      "tones": []
+    }
+  ]
+}

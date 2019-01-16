@@ -1,0 +1,70 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.601742,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.742727,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Google computers defeat shows once again nothing can beat human intuitionLee Se-dol is the world champion in the most complex board game in the world, \"Go\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "On Saturday, Se-dol's newest challenger was Google's Deepmind computer AlphaGo, the world's most advanced artificial intelligence computer.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Se-dol defeated the machine after a two hour match off.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Google DeepMind CEO Dennis Hassabis commented after AlphaGo's defeat.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "\" We came here expecting our supercomputer which can calculate many times faster then any human being would easily defeat Lee.",
+      "tones": [
+        {
+          "score": 0.616426,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "We were quite surprised at Lee's victory.",
+      "tones": [
+        {
+          "score": 0.691568,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "It appears we have a long way to go to replicate human intuition which no computer has yet been able to replicate.\"",
+      "tones": []
+    }
+  ]
+}

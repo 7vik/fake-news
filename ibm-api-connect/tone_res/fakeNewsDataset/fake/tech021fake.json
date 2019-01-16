@@ -1,0 +1,163 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.641448,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.501177,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.5546,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Wells Fargo Attempts To Gain Control Of Your Money -- Wells Fargo has begun to put into play it's plot to control consumer spending.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "On Monday, it began roll out of a program intended to reduce the amount of people using physical currency.",
+      "tones": [
+        {
+          "score": 0.730335,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "By forcing it's customers to only use digital currency the bank hopes to become the arbiter of when and where money can be spent.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Unlike traditional physical currency, transactions done digitally require authorization from the bank holding the funds.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Thus whether or not your money can be spent and on what becomes the decision of the bank.",
+      "tones": [
+        {
+          "score": 0.793846,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "But it isn't only Wells Fargo moving in this direction.",
+      "tones": [
+        {
+          "score": 0.522484,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The U.S. Government has long been pushing banks to move in this direction.",
+      "tones": [
+        {
+          "score": 0.602165,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "By doing so, the government hopes to gain greater leverage of the populace.",
+      "tones": [
+        {
+          "score": 0.798492,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "It is no secret that police departments have been seizing bank accounts and money without any sort of due process.",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "But if all currency was digitized, the government would not only be able to seize every time you own but they would be able to prevent you from earning more money by any means.",
+      "tones": [
+        {
+          "score": 0.752684,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "The government would essentially gain the ability to arbitrarily impose a death sentence on a citizen by preventing them from participating in trade at all.",
+      "tones": []
+    },
+    {
+      "sentence_id": 11,
+      "text": "Wells Fargo stands to gain from this because if all money is digital, then all money must belong to a bank.",
+      "tones": [
+        {
+          "score": 0.746925,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.888841,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "This is just the first step towards a more authoritarian American.",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

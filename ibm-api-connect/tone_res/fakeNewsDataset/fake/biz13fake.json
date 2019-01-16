@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ford has been forced by Donald Trump to pull out of plans to build a new plant in Mexico that would have provided hundreds of jobs and eased hardship in a small Mexican town.",
+      "tones": [
+        {
+          "score": 0.53215,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Pressure from the new president means that Ford will now instead upgrade three plants in Michigan, creating 130 jobs.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "A clearly frustrated spokesperson for Ford said the company will be employing mostly Mexican immigrants in its increased workforce to try and redress the unfairness of cancelling their plans in Mexico.",
+      "tones": [
+        {
+          "score": 0.607211,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "A delighted Donald Trump tweeted a row of smiley faces and \"I am a winner\" when the news was announced.",
+      "tones": []
+    }
+  ]
+}

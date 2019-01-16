@@ -1,0 +1,87 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.547956,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.699706,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Westinghouse Electric Still Going Strong Despite Rumors of BankruptcyWestinghouse Electric is the leading the advances in nuclear operations despite rumors of bankruptcy.",
+      "tones": [
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Sources at Toshiba (TOSBF) has stated their relationship with the historical company is still going strong.",
+      "tones": [
+        {
+          "score": 0.640755,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Westinginghouse Electric will remain under TOSBF's control and continue supporting them financially.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Many people don't realize Westinghouse is famous for George Westinghouse.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Mr. Westinghouse was an inventor in the late 20th century.",
+      "tones": [
+        {
+          "score": 0.543946,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "His invention of air brakes greatly improved the safety of train travel.",
+      "tones": [
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.790954,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "His invention is still a key part of operations throughout the company.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.809913,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.614983,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Teen with cancer dies before Beyonce fulfills student's last wish.Last night, a sad group of students from Alief Hastings High School organized a candlelight vigil in the band practice lot in honor of one of their own graduates, Ebony Banks, a former member of the color guard.",
+      "tones": [
+        {
+          "score": 0.837342,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Ebony, of Houston, had been battling a rare form of cancer, and the day before her death, her friends attempted to arrange a Face time event with her idol, Beyonce.",
+      "tones": [
+        {
+          "score": 0.837815,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Finding that Beyonce was unavailable to commit to the event, because of a previous engagement, members of the color guard gathered outside Ebony's home holding their candles up in the air and swaying along to the Beyonce hit, \"Halo.\"",
+      "tones": [
+        {
+          "score": 0.778006,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Ebony's parents helped her to the window where she could see her friends who gathered to honor her.",
+      "tones": [
+        {
+          "score": 0.596741,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "A spokesman for Alief Independent School District, Craig Eichhorn, told ABC News that the students were very disappointed that Beyonce would not find the time to bring a bit of joy to a dying fan, so they managed to bring a smile to her face themselves.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Eichhorn also confirmed that Banks had passed away hours later.",
+      "tones": [
+        {
+          "score": 0.858866,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

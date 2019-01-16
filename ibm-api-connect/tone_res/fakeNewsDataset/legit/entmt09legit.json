@@ -1,0 +1,78 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.66213,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.833279,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sienna Miller on why her new role is not 'just a wife'If there's one thing Sienna Miller has in common with the character she plays in exploration epic Lost City of Z it's that she's not afraid to air her views loud and clear.",
+      "tones": [
+        {
+          "score": 0.526277,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.618534,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "So much so that she altered a script when she thought Nina Fawcett was appearing as too much of a stereotypical \"wife\" - with the director framing the scrawled-on piece of paper.",
+      "tones": [
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The film - based on a true story - is about explorer Percy Fawcett played by Charlie Hunnam and his quest to find a mysterious lost city in the heart of the Amazon.",
+      "tones": [
+        {
+          "score": 0.790104,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "His first mission in 1906 accompanied by surveying partner Henry Costin (played by Robert Pattinson) sees them return with apparent evidence that this previously undiscovered community exists.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Percy is drawn to return again and again while his wife supports him and raises their family.",
+      "tones": [
+        {
+          "score": 0.592689,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

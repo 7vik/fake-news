@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.836014,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.548855,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Hillary Clinton The Movie - Starring Glenn Close!A movie is in the works about Hillary Clinton and her amazing life, and legendary actress Glenn Close has been chosen to play the former first lady and presidential candidate!\"Glenn",
+      "tones": [
+        {
+          "score": 0.827243,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "and Meryl [Streep]'s names were both mentioned a lot but after Meryl got so political at the Golden Globes, producers thought it might be better to go with Close,\" sources said.The film is rumored to focus on Clinton's career and marriage to Bill - Straight Shuter's Rob Shuter has all the latest gossip!",
+      "tones": [
+        {
+          "score": 0.607122,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

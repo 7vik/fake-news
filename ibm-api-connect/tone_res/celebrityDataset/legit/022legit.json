@@ -1,0 +1,104 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.585139,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.5736,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.610572,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Taylor Swift's camp denies that singer is launching her own streaming serviceA source close to Taylor Swift has reportedly denied suggestions that the singer is set to launch her own streaming service.Swift's uneasy relationship with streaming services is well noted.",
+      "tones": [
+        {
+          "score": 0.666454,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.786404,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In 2014, she pulled her music from Spotify, arguing that \"the value of an album is, and will continue to be, based on the amount of heart and soul an artist has bled into a body of work, and the financial value that artists (and their labels) place on their music when it goes out into the marketplace\".",
+      "tones": [
+        {
+          "score": 0.686584,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She later allowed Apple Music to exclusively stream her '1989' album after they changed their royalty policy following a critical open letter she posted.TMZ&nbsp;recently reported that Swift filed documents to trademark a 'Swifties', what they described as a streaming service \"featuring non-downloadable multi-media content in the nature of audio recordings\".However, a source from Swift's camp has since told&nbsp;Billboard&nbsp;that the singer \"would not be launching a streaming service\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Instead, the report suggests that Swifties would be more \"like a personalized fan club app complete with exclusive merchandise, audio/video/live performances and the possibility of a mobile game of some sort\".Meanwhile, Ed Sheeran appears to have let slip the release date of Taylor Swift's new album.",
+      "tones": [
+        {
+          "score": 0.742675,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "There had previously been rumours that Swift would release a new album in October 2016.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "However, no album surfaced last autumn.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The singer-songwriter had previously released each of her five albums every two years in either October or November, with her last record '1989' released in October 2014.It was also reported last&nbsp;year that Taylor Swift had recruited Drake to help her make an album of \"edgier R&amp;B and hip-hop sounds\".",
+      "tones": [
+        {
+          "score": 0.513711,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "&nbsp;Swift is also rumoured to be&nbsp;working on new music with Kesha.",
+      "tones": [
+        {
+          "score": 0.53518,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

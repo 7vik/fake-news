@@ -1,0 +1,120 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.556343,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.577938,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.849042,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ray J Confronts Rumors He Slid Into Malia Obama\u2019s DMKanye\u2019s favorite porn star says rumors he tried to DM President Obama\u2019s daughter are not true.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Ray posted a video on Instagram after several websites reported on the story without any actual evidence to support their claims.\u201cThey",
+      "tones": [
+        {
+          "score": 0.673536,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "saying that I DM\u2019d the President\u2019s daughter.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Come on, man.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Why ya\u2019ll always trying to bring me down?",
+      "tones": [
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "I\u2019m positive,\u201d an exhausted Ray says in a recording captured in the driveway of his home.",
+      "tones": [
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\u201cI\u2019m getting married on Friday.",
+      "tones": [
+        {
+          "score": 0.638181,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "What the hell would I be doing doing anything like that \u2026 anything reckless \u2026 anything stupid?",
+      "tones": [
+        {
+          "score": 0.691382,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.980335,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Anything ya\u2019ll reading about me, it ain\u2019t true,\u201d he continued.Ray says he wanted to clear the air because he\u2019s set to wed his fianc\u00e9e Princess on Friday.",
+      "tones": [
+        {
+          "score": 0.706161,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "\u201cI addressed this because I don\u2019t want extra dumb stuff coming up at the same time we trying to get married.\u201d",
+      "tones": [
+        {
+          "score": 0.546224,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

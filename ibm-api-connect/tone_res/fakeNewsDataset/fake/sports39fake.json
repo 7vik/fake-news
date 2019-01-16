@@ -1,0 +1,92 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.585704,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.610099,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.725279,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Eddie Lacy joins Philadelphia Eagles on one-year deal.Eddie Lacy signed a 1 year deal with the Philadelphia Eagles earlier this week.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The deal was purportedly for $2 million per year.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Lacy and Jamaal Charles had previously visited the Seattle Seahawks and Seattle was rumored to be a likely landing spot for Lacy.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "However, the Eagles appeared to have swooped in at the last minute to offer Lacy a better deal according to NFL insider Ian Rapoport.",
+      "tones": [
+        {
+          "score": 0.852209,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Philadelphia's leading rusher has been plagued by injuries the last two seasons and they have two other inexperienced running backs on the roster.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "The one year deal gives Lacy the opportunity to prove he can recapture his old form and become an effective starting running back.",
+      "tones": [
+        {
+          "score": 0.512597,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.798753,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The deal seems to fill one hole in Philadephia's roster.",
+      "tones": [
+        {
+          "score": 0.681522,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

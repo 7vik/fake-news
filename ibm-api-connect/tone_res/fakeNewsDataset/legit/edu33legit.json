@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.627229,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.597317,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.78589,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Schools in rural areas shifting toward a 4-day weekFor once, both teachers and their students agree that less school is a good thing.",
+      "tones": [
+        {
+          "score": 0.577546,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Or at least less frequent school.A dynamic shift has begun in rural school districts across the United States, with many considering -- and in some cases implementing -- a four-day school week.",
+      "tones": [
+        {
+          "score": 0.631525,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The reason is to bring down costs and enrich the learning environment with extracurricular development for pupils.The trend has been increasingly popular in the Mountain West region of the country, with 88 districts in Colorado, 30 in Oregon and nearly half of all school districts in Montana shifting to a four-day week, according to The Atlantic.",
+      "tones": [
+        {
+          "score": 0.521595,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.794263,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

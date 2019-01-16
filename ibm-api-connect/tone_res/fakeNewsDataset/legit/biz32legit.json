@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.820124,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.911587,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "The House just voted to wipe away the FCC's landmark Internet privacy protectionsCongress sent proposed legislation to President Trump on Tuesday that wipes away landmark online privacy protections the first salvo in what is likely to become a significant reworking of the rules governing Internet access in an era of Republican dominance.",
+      "tones": [
+        {
+          "score": 0.661383,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.603628,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In a party-line vote House Republicans freed Internet service providers such as Verizon AT&amp;T and Comcast of protections approved just last year that had sought to limit what companies could do with information such as customer browsing habits app usage history location data and Social Security numbers.",
+      "tones": [
+        {
+          "score": 0.859785,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The rules also had required providers to strengthen safeguards for customer data against hackers and thieves.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

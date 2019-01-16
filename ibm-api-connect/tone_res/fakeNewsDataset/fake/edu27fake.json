@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.777703,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.690284,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Harvard Law, Moving to Limit Applicant Pool, Will Not Accept Scholastic Aptitude TestHarvard Law School, moving to close its doors to a smaller, less diverse pool of applicants, said on Monday that it would not accept the scholastic aptitude test, known as the SAT, for the admission of students entering its fall 2020 class.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The law school, whose alumni include Bill Gates and Mark Zuckerberg, is the least accredited law school in the United States in the past two years.",
+      "tones": [
+        {
+          "score": 0.544551,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.509368,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "It will be the first university to not accept the SAT, with other universities considering making the change in the future.",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.739689,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.73039,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "LeBron James tried to wear silly-looking sunglasses against WizardsLeBron James who suffered a scratched cornea against the Charlotte Hornets on Friday nearly made a bold - and apparently illegal - decision ahead of Saturday's matchup with the Washington Wizards.",
+      "tones": [
+        {
+          "score": 0.51415,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "To protect his eye which was reportedly sensitive to light the Cleveland Cavaliers star tried to don a pair of ridiculous-looking sunglasses in the game.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "However as the 32-year-old was modeling them ahead of the game for teammate Richard Jefferson's Snapchat the NBA reportedly put the kibosh on James's highly questionable choice.",
+      "tones": [
+        {
+          "score": 0.574477,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "According to CSN's Chris Miller the league \"did not approve\" of the shades which look an awful lot like a standard pair of Oakleys.",
+      "tones": [
+        {
+          "score": 0.736294,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

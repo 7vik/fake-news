@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.706598,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Universities Push Back Against Trump on ImmigrationColleges and universities are pushing back against President Donald Trump's immigration-limiting executive order, promising to protect students and faculty even as they struggle to fully comprehend what the order means for community members who hail from the seven predominantly Muslim countries to which it specifically applies.\"We",
+      "tones": [
+        {
+          "score": 0.550453,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "believe this executive order is fundamentally inconsistent with the values that are the bedrock of Boston University and, indeed, of our pluralistic, welcoming society,\" Boston University President Robert Brown said in a statement Sunday.",
+      "tones": [
+        {
+          "score": 0.66227,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.615741,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

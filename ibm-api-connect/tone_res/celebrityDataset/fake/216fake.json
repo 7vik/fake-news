@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Angelina Jolie's French ObsessionAngelina Jolie is going back to her roots \u2014 and demanding everyone around her speak French!A snitch told The National ENQUIRER the 41-year-old mother of six, whose maternal grandfather was French-Canadian, has become obsessed with all things French \u2014 and has made sure the children she shares with her ex Brad Pitt are fluent in the language as well!\u201cAngie is extremely sentimental at the moment \u2014 meeting up with her estranged dad after years is proof of that,\u201d disclosed a confidant.",
+      "tones": [
+        {
+          "score": 0.50384,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "\u201cBut this French thing, it\u2019s all about trying to feel close to her late mother.\u201dWhile",
+      "tones": [
+        {
+          "score": 0.551171,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "those in Angie\u2019s camp are sympathetic, they\u2019re also annoyed with her new linguistic preference because most of them don\u2019t speak the language \u2014 and don\u2019t plan on learning it anytime soon!\u201cIt\u2019s driving everyone crazy, but she\u2019s trying to find something to cling to right now \u2014 and her mother\u2019s heritage is it,\u201d spilled another tipster.",
+      "tones": [
+        {
+          "score": 0.557435,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\u201cThe problem is she comes across as someone completely out of touch \u2014 and selfish!\u201d",
+      "tones": [
+        {
+          "score": 0.528977,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

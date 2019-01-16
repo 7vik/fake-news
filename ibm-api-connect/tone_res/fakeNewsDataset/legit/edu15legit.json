@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.769889,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.65429,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Even Preschoolers Face Racial Bias, Study FindsRacial bias against black students begins long before they get to their teens - it starts in preschool, according to a study released today from the Yale Child Study Center.The study was conducted as a two-part experiment: in the first part, educators watched black and white children together, and in the second, they read vignettes on misbehaving students.",
+      "tones": [
+        {
+          "score": 0.612897,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In each situation, they were asked to identify and rate bad behavior.The researchers showed 135 teachers a video of four children playing - a black boy and girl and a white boy and girl - and asked them to look for potentially problematic behavior.",
+      "tones": [
+        {
+          "score": 0.651326,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Here's the catch: there was no challenging behavior in any of the videos.",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

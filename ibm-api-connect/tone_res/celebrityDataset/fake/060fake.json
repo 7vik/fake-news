@@ -1,0 +1,312 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.564174,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.638443,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.573704,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.593862,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.580447,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Former Beatle Ringo Starr Claims the \"Real\" Paul McCartney Died in 1966 and Was Replaced by Look-AlikeBeverly Hills| The former drummer of the Beatles, Ringo Starr, surprised the world this morning during an interview in his luxurious Californian residence, when he admitted that the 45-year old rumors about the alleged death of Paul McCartney in 1966 were actually true.In an exclusive interview with the Hollywood Inquirer, Mr. Starr explained that the \"real\" Paul McCartney had died in a car crash on November 9 1966, after an argument during a Beatles' recording session.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "To spare the public from grief, the Beatles replaced him with a man named William Shears Campbell, who was&nbsp;the winner of a McCartney look-alike contest and who happened to have the same kind of jovial personality as Paul.\"When",
+      "tones": [
+        {
+          "score": 0.590507,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Paul died, we&nbsp;all&nbsp;panicked!\" claims Ringo, obviously very emotional.",
+      "tones": [
+        {
+          "score": 0.867139,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.97759,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"We didn't know what to do, and Brian Epstein, our manager, suggested that we hire Billy Shears as a temporary solution.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It was supposed to last only a week or two, but time went by and&nbsp;nobody seemed to notice, so we kept playing along.",
+      "tones": [
+        {
+          "score": 0.654961,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.878702,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Billy turned out to be a pretty good musician and he was able to perform almost better than Paul.",
+      "tones": [
+        {
+          "score": 0.845077,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "The only problem was that he couldn't get along with John, at all.\"William Shears Campbell, better known as Billy Shears, does indeed \"disappear \" from records&nbsp;in 1966 and no&nbsp;traces of him can be found after Paul's alleged death.Mr.",
+      "tones": [
+        {
+          "score": 0.510003,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.661594,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Starr alleges that the group did send out a lot of hidden messages through the years to prepare the population for the truth.He notably says that the entire Sgt.",
+      "tones": [
+        {
+          "score": 0.55583,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Pepper's Lonely Hearts Club Band album was awash with Paul-is-dead clues: the Beatles had indeed officially&nbsp;formed a \"new\" band featuring a \"fictional\" member named Billy Shears, which happened to be the actual name of Paul's replacement.\"We",
+      "tones": [
+        {
+          "score": 0.875975,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.628634,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "felt guilty about the deception\" added Ringo Starr.",
+      "tones": [
+        {
+          "score": 0.580664,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "\"We wanted to tell the world the truth, but we were afraid of the reactions it would provoke.",
+      "tones": [
+        {
+          "score": 0.812345,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "We thought the whole planet was going to hate us for all the lies we had told, so we kept lying but sending subtle clues to relieve our cousciousness.",
+      "tones": [
+        {
+          "score": 0.767558,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "When the first rumors finally began about the whole thing, we felt very nervous and started fighting a lot with each other.",
+      "tones": [
+        {
+          "score": 0.656088,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "At some point, it was too much for John and he decided to leave the band.\"Ringo",
+      "tones": [
+        {
+          "score": 0.526675,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.743104,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "Starr claims that he finally decided to tell the truth, because he was afraid that it was going to die with him.",
+      "tones": [
+        {
+          "score": 0.722202,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.735644,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.830561,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "At age 74, he is the only other&nbsp;surviving member of the famous band besides Paul McCartney, and he was afraid the deception would never be revealed.The rumors of Paul's death began more than 45 years ago, but had always been dismissed as nonsense by the band and its entourage.",
+      "tones": [
+        {
+          "score": 0.644448,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "In September 1969, American college students published a series of articles in which they claimed that clues to McCartney's death could be found among the lyrics and artwork of the Beatles' recordings.",
+      "tones": [
+        {
+          "score": 0.688633,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "Clue-hunting rapidly&nbsp;proved infectious, and within a few weeks, it&nbsp;had become an international phenomenon.",
+      "tones": [
+        {
+          "score": 0.571567,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "Rumours only declined after a contemporary interview with McCartney was published in Life magazine in November 1969.Neither Paul McCartney nor anyone from his entourage have commented Ringo Starr's declaration yet, but the interview has already provoked a lot of reactions around the world.",
+      "tones": [
+        {
+          "score": 0.65041,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.565693,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.69572,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "Journalists and paparazzis from around the world have surrounded the residence of the musician only minutes after the interview was broadcasted and are awaiting for the star to comment the allegations.The British MI5 also announced an investigation to determine if an impostor could have indeed posed for 48 years as&nbsp;the&nbsp;Member of the Order of the British Empire,&nbsp;Sir James&nbsp;Paul McCartney,&nbsp;during official ceremonies involving&nbsp;Queen Elizabeth II.",
+      "tones": [
+        {
+          "score": 0.74908,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

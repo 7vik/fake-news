@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Claims Anne Hathaway made 'diva' demands at charity eventANNE Hathaway has been accused of acting like a diva and submitting a long list of demands before a cancer charity event in Santa Monica earlier this month.The Les Miserables star allegedly submitted a long list of demands before agreeing to attend the Pink Party Gala in Santa Monica on October 19.A source told In Touch magazine that the Oscar-winner's team were \"really concerned\" she would be bombarded by fans for photos and autographs at the event, and an email was sent to staff with a series of strict guidelines.The insider added: \"Everyone was asked not to talk to her.\"The email, obtained by gossip website RadarOnline.com,",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "also noted that other stars, who attended made no such demands.The staff email stated: \"I know in the past our hosts have mingled in the party, but each person is different.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "We are trying to respect her space.\"A",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "source also claimed that even though staff adhered to Anne's list of demands, the actress was very unfriendly.The source said: \"She was so rude and acted like a b***h to a few people she did speak to.",
+      "tones": [
+        {
+          "score": 0.649044,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "She just sat there rolling her eyes all night.\"Anne,",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "30, also attended the Victory Fund Champagne Brunch in Beverly Hills with her husband, Adam Shulman, on October 20, where she broke down in tears as she took to the stage to introduce cancer specialist Dr. Beth Karlan, who recently helped her friend beat the disease.",
+      "tones": [
+        {
+          "score": 0.687919,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

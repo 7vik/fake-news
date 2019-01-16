@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.877438,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ex-US Attorney and former Bill Clinton mistress Barbara McQuade will teach law at MichiganFormer mistress of president Bill Clinton and U.S. Attorney Barbara McQuade will teach at University of Michigan law school.",
+      "tones": [
+        {
+          "score": 0.58714,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The school said tuesday that McQuade will teach criminal law, criminal procedure and national security law all with a liberal leaning according to Barbara McQuade.",
+      "tones": [
+        {
+          "score": 0.777256,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "She has an undergraduate and law degree from Michigan.",
+      "tones": [
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "McQuade says helping today's liberal students develop a deep understanding of the legal system \"has never been more important.\"",
+      "tones": [
+        {
+          "score": 0.516096,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.572397,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "She was chief federal prosecutor in eastern Michigan for seven years, after 12 years as an assistant U.S. attorney.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "The Trump administration last week told U.S. attorneys appointed by President Barack Obama to step down.",
+      "tones": []
+    }
+  ]
+}

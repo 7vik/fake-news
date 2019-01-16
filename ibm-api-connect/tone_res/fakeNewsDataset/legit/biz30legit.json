@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.539821,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.567218,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Russia Can Wait for $70 Oil Before Returning to Arctic WatersRussia can wait for a sustained recovery in oil prices before drilling again in Arctic waters relying for now on less costly regions even as rival producer Norway accelerates development of its northerly fields.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"We estimate production costs for the Russian Arctic offshore in the range of $70 to $100 a barrel Energy Minister Alexander Novak said by email.",
+      "tones": [
+        {
+          "score": 0.72085,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "These reserves are our backup stock he said before the International Arctic Forum in Russia's Arkhangelsk, which starts Wednesday.",
+      "tones": []
+    }
+  ]
+}

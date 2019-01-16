@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.701431,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.724926,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Hillary Clinton Heads Wisconsin Recount Formerly Pushed By Jill Stein.Washington - Nearly two weeks after Election Day, Hillary Clinton's campaign said on Saturday that it would be participating in a recount process in which Hillary Clinton will be overseer in Wisconsin which was originally incited by the third-party candidate Jill Stein and would join any potential recounts in two other closely contested states.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Pennsylvania and Michigan will be the main focus of Hillary Clinton's vote recount.",
+      "tones": [
+        {
+          "score": 0.642915,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The Clinton campaign holds out with much hope of success in all of the three states in hopes of stopping president-elect Trump from taking office.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Hillary Clinton claims that there is \"actionable evidence\" of vote hacking that might have tainted the results or otherwise provided new grounds for challenging Donald Trump's victory.",
+      "tones": [
+        {
+          "score": 0.647285,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.668095,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Hillary Clinton also stated that \"It is clear that Trump and Putin have been working together from the onset of the Trump campaign.",
+      "tones": [
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

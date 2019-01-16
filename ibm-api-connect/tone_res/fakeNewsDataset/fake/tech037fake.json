@@ -1,0 +1,87 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.714207,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.947194,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "YouTube's Zero Percent Error Rate on Sound Effect CaptionsFor over 15 years, YouTube has used algorithms to auto-caption speech for the hearing impaired.",
+      "tones": [
+        {
+          "score": 0.535579,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.736294,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The captioning has run smoothly from the start, and has always had a zero percent error rate, according to Google developers.",
+      "tones": [
+        {
+          "score": 0.52909,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.871793,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Youtube has, for several years, provided sound effect captioning, too.",
+      "tones": [
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "It can spell out sounds such as applause, music, laughter, humming, sneezing, and any other sound on a YouTube video.",
+      "tones": [
+        {
+          "score": 0.849515,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.828638,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.742727,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "The Teacher Shortage Crisis Is HereAs students headed back to school this year in and around Tampa, Florida, thousands of teacher positions had yet to be filled.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "It followed a year in which tens of thousands of teachers were hired on emergency or temporary credentials to help fill empty slots around the country - 900 of them in Oklahoma alone.",
+      "tones": [
+        {
+          "score": 0.595804,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.798791,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "And in Arizona, which has one of the highest teacher turnover rates in the country, school districts routinely report having unfilled teaching positions three months into the school year.The teacher shortage crisis is here, at least according to a new report from the Learning Policy Institute, and it stands to get worse.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

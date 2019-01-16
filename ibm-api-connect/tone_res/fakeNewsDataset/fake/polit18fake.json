@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.779803,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.5819,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "CNN - Washington Intelligence has learned through very credible sources that the Russians have perfected ways to control President Trump through electronic devices.",
+      "tones": [
+        {
+          "score": 0.623272,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "They are small battery packs that can be slipped into his suit pockets or even as small as a hearing aid or a watch battery that can be placed almost anywhere.",
+      "tones": [
+        {
+          "score": 0.941242,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "They are using electronic signals that have subliminal messages that only the President can hear.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Their agenda is clear and the CIA and FBI are monitoring this situation.",
+      "tones": [
+        {
+          "score": 0.500545,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.775702,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "We do know that Jarred Kushner and Ivanka are secret operatives and are helping to carry this through.",
+      "tones": []
+    }
+  ]
+}

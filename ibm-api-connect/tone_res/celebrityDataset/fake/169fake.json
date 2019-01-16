@@ -1,0 +1,83 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.574072,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.829412,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Teresa Giudice Running For New Jersey Governor: EXCLUSIVEReal Housewife, Teresa Giudice, isn\u2019t happy just being a reality star, now the New Jersey girl is getting advice that she should run for governor.\u201cTeresa",
+      "tones": [
+        {
+          "score": 0.807404,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "couldn\u2019t do a worse job than Chris Christie.",
+      "tones": [
+        {
+          "score": 0.563989,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "At first it was suggested that she run for Governor as a press stunt but now she is really thinking about it,\u201d sources tell Straight Shuter.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\u201cShe has a massive social media following to get her message out and she has a lot of good ideas about how to help her State.",
+      "tones": [
+        {
+          "score": 0.550583,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Plus, she isn\u2019t going to be shutting down any access to bridges.",
+      "tones": [
+        {
+          "score": 0.592384,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "It\u2019s about time real people took back political power and after her stay in jail, Teresa isn\u2019t frightened of anyone.\u201d",
+      "tones": []
+    }
+  ]
+}

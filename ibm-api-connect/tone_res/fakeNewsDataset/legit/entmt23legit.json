@@ -1,0 +1,118 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.551059,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.621085,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Michelle Pfeiffer says she's 'more open' to work now that her children are grownMichelle Pfeiffer is juggling a much busier schedule these days.",
+      "tones": [
+        {
+          "score": 0.579538,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Speaking with director Darren Aronofsky for Interview magazine she said her Hollywood career was put on the back burner after she had children but she's now ready to get back in the game.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"I've never lost my love for acting.",
+      "tones": [
+        {
+          "score": 0.934536,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "I feel really at home on the movie set.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.793846,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "I'm a more balanced person honestly when I'm working Pfeiffer told Aronofsky.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "But I was pretty careful about where I shot how long I was away whether or not it worked with the kids' schedule.",
+      "tones": [
+        {
+          "score": 0.698175,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.849846,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "And I got so picky that I was unhirable.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "She's now an \"empty nester she said; her daughter Claudia Rose Pfeiffer is 24 and son John Henry Kelley is 22.",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "This has given her the ability to take on more roles.",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "This year, she'll be seen in HBO's The Wizard of Lies\" alongside Robert De Niro Aronofsky's \"Mother!\" and an adaptation of Agatha Christie's \"Murder on the Orient Express which will also star Johnny Depp, Josh Gad and Penelope Cruz.",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "She also starred in the indie film Where Is Kyra?\" which premiered earlier this year.",
+      "tones": [
+        {
+          "score": 0.556674,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

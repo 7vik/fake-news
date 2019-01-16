@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.510549,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.944845,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Elvis Costello Blasts Kanyne Over Album Re ReleaseIn an interview with BBC 6 Costello commented that the very idea of Kanyne attempting to redo Sir Paul McCartney's work was as disgusting as a dirty nappy and just as appealing.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Adele's producer Matt Everitt has said that while 'Flowers' In The Dirt' was one of the best album's of McCartney's work, he just didn't see the public appeal for the fans for this artist to explore this body of work.",
+      "tones": [
+        {
+          "score": 0.782206,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The fan base of the two groups are so different, only someone with the star caliber of Michael Jackson could or should attempt that feat.",
+      "tones": [
+        {
+          "score": 0.651681,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.939968,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Perhaps Kanye should approach the Prince estate and offer to buy some of his unpublished works.",
+      "tones": [
+        {
+          "score": 0.592039,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

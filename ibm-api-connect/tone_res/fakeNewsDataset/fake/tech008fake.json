@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.780589,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "California's Department of Motor Vehicles cracking down on automated cars.After the recent increase in automated accidents the California DMV is adding in new charges and service fees to users of automated driver cars.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "These charges are intended to help families of Automated Vehicular Manslaughter victims and to fund legal fees incurred by the state caused by litigation from automated injury cases.",
+      "tones": [
+        {
+          "score": 0.646387,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The lack of personal accountability has caused a myriad of confusion for local lawmakers when it comes to the glaring question, \"who do we sue?\"",
+      "tones": [
+        {
+          "score": 0.832004,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

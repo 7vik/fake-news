@@ -1,0 +1,71 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.649339,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Roger Federer has fist fight with Frances Tiafoe after Miami Open defeatThings became extremely heated between world class tennis start Roger Federer and American teenager and tennis up and comer Frances Tiafore after their Miami Open tennis match.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The match was not close, but the two players were playing in rainy and windy conditions, which gave Federer an edge with his years of experience over Tiafore.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "After Federer beat the younger tennis professional in three sets, the two players began to yell at each other.",
+      "tones": [
+        {
+          "score": 0.532102,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Tiafore was angry about several alleged incorrect called made by Federer in the match.",
+      "tones": [
+        {
+          "score": 0.803391,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.845297,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Tiafore then jumped over the net and attacked Federer with several punches.",
+      "tones": [
+        {
+          "score": 0.639094,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Federer defended himself until several observers came and broke up the fight.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "The two have both issued public apologies to their fans and to each other, but clearly things will not be settled until they face each other on the court another time.",
+      "tones": []
+    }
+  ]
+}

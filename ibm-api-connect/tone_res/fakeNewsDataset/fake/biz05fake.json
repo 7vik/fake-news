@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.547981,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.796669,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Breaking News: Snapchat to purchase Twitter for 255 billionYahoo and AOL could be extremely popular over the next decade and revenues are expected to skyrocket by 2020.",
+      "tones": [
+        {
+          "score": 0.698672,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "This forecast is based on the advertisers that target a younger audience.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Half of the users are under the age of 30 compared to facebook and google which cover the older market, as per the recent analysis posting by the Washington Post.",
+      "tones": [
+        {
+          "score": 0.863425,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Facebook and google will be challenged.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "The current advertising practices have received extreme criticism, the web giants currently hold a 50% stake in the global ad market and are currently seeing a small decline in their users.",
+      "tones": []
+    }
+  ]
+}

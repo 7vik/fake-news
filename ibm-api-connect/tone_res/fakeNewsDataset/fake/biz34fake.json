@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.558425,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.562567,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.705658,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "EU Nationals Punish Brits for BrexitRestaurants are being forced to enslave young school aged children to work in their industry.",
+      "tones": [
+        {
+          "score": 0.605656,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"The restaurants have no choice.\", said a Pret, a manager at a UK based sandwich shop.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Since EU officials refuse to do business since the break up, and fewer nationals are being sent, low skilled workers are becoming a scarcity.",
+      "tones": [
+        {
+          "score": 0.505658,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Restaurants have decided to force, about 500 students, into working for free, promising an internship in the future.",
+      "tones": [
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "This is total slavery of the middle class and they are being tricked into thinking this is education.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Lawyers are looking into this and lawsuits from parents are already showing up.",
+      "tones": []
+    }
+  ]
+}

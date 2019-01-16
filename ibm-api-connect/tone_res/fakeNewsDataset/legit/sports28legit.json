@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.5583,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Wilfried Zaha hits back at Southgate's 'timescale' claim over England selectionWilfried Zaha has rejected Gareth Southgate's suggestion that he had imposed a timescale to be selected again by England effectively holding the national team to ransom and has defended his right to instead represent the country of his birth Ivory Coast.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Crystal Palace forward who had been capped by England in friendlies against Sweden and Scotland during Roy Hodgson's tenure as manager was infuriated by Southgate's comments in the aftermath of the World Cup qualifying victory against Lithuania on Sunday.",
+      "tones": [
+        {
+          "score": 0.729114,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Zaha issued a statement through his representative Will Salthouse of Unique Sports Management on Tuesday and implied disappointment that England's recently appointed permanent manager had made public details of a meeting held with the winger in December.",
+      "tones": [
+        {
+          "score": 0.640257,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

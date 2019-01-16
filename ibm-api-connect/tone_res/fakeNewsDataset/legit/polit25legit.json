@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.698371,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.636223,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Need to reach Trump?",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Call Rhona.When longtime friends and associates of President Donald Trump want to reach him, they don't go directly to the White House.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Instead, they call the woman who's been the gatekeeper at Trump Tower for a quarter century: Rhona Graff.Since Trump took office in January, Graff has become a conduit for those who want to quietly offer advice, make personnel suggestions or get on the president's calendar when he's at his Mar-a-Lago resort in Florida.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "The list includes investor Ken Langone and Hank Greenberg, the chairman &amp; CEO of CV Starr whose assistant recently went to Graff about trying to set up a lunch with Trump, according to a person with knowledge of the call.",
+      "tones": [
+        {
+          "score": 0.805466,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

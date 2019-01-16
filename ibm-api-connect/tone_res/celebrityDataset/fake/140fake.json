@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.841618,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.611114,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Leonardo DiCaprio Enjoys A Date Night With Kate Winslet For His Birthday \u2014 See The Pics!Leonardo DiCaprio cozied up to his most famous co-star, Kate Winslet, on Friday night, just one day ahead of his 43rd birthday on Saturday.",
+      "tones": [
+        {
+          "score": 0.888993,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The two spent over two hours together at the Santa Monica restaurant Giorgio Baldi, after which they were escorted out by security and got into the same car together.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Click through to see the pics of their intimate night out!",
+      "tones": [
+        {
+          "score": 0.590439,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

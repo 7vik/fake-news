@@ -1,0 +1,88 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.589134,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.707534,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Sad Slasher Fans Adored A&amp;E Series 'Bates Motel'The brilliant A&amp;E production of 'Bates Motel' is headed for the history books after a thrilling run that delighted its millions of fans.",
+      "tones": [
+        {
+          "score": 0.656823,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Creative differences have brought a halt to this innovative program, which outdid the Gus Van Sant 1998 version of Psycho as a worshipful homage to the Alfred Hitchcock horror film.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "The present-day setting of the A&amp;E series added modern problems to those previously faced by visitors to the Bates Motel.",
+      "tones": [
+        {
+          "score": 0.541591,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "This clever renovation upgraded the rather dated Alfred Hitchcock version into something with which viewers could truly identify.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The acting was also superior to the rather flat, colorless, old version.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Luckily, there's still one more season in the can, so the fun's not over yet.",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "We'll all be sad to see this great series end!",
+      "tones": [
+        {
+          "score": 0.903769,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

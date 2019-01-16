@@ -1,0 +1,34 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.689069,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Universities Agree with Trump on ImmigrationColleges and universities are working with President Donald Trump on implementing his immigration-limiting executive order, stating that their past insistence on implementing policies like affirmative action have hurt the quality of students being turned out of the institutions to the work force.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "\"We believe this executive order is fundamentally sound in its construction, and puts the best interests of the graduates of Boston University and the perceived quality of a Boston University education ahead of other top-tier international universities,\" Boston University President Robert Brown said in a statement Sunday.",
+      "tones": [
+        {
+          "score": 0.770782,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.663931,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

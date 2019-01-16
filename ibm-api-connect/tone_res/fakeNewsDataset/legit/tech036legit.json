@@ -1,0 +1,76 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.802873,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.501817,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.890376,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Machine Learning Opens Up New Ways to Help Disabled PeopleCC rules require TV stations to provide closed captions that convey speech, sound effects, and audience reactions such as laughter to deaf and hard of hearing viewers.",
+      "tones": [
+        {
+          "score": 0.633245,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.924949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "YouTube isn't subject to those rules, but thanks to Google's machine-learning technology, it now offers similar assistance.YouTube has used speech-to-text software to automatically caption speech in videos since 2009 (they are used 15 million times a day).",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Today it rolled out algorithms that indicate applause, laughter, and music in captions.",
+      "tones": [
+        {
+          "score": 0.851001,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "More sounds could follow, since the underlying software can also identify noises like sighs, barks, and knocks.",
+      "tones": [
+        {
+          "score": 0.522685,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.775166,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    }
+  ]
+}

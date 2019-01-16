@@ -1,0 +1,77 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.793226,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.806359,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.715606,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "NASA Finds Water on MarsIn a groundbreaking discovery, NASA astronomers announced today they have found strong evidence that water flows on the surface of Mars.",
+      "tones": [
+        {
+          "score": 0.707118,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.857535,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The finding makes it much more likely that life may exist or could have existed on the planet.\"We",
+      "tones": [
+        {
+          "score": 0.972742,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "see features that look like gullies formed by flowing water and the deposits of soil and rocks transported by these flows,\" said Michael Malin, principal investigator for the Mars Orbiter Camera on the Mars Global Surveyer spacecraft at Malin Space Science Systems in San Diego.",
+      "tones": [
+        {
+          "score": 0.659876,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Malin and co-author Ken Edgett conclude in their study, to be published next week in the journal Science, that the streaks must have been formed by seeping water.",
+      "tones": [
+        {
+          "score": 0.643382,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.606284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

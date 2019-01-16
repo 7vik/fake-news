@@ -1,0 +1,88 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.551591,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.61529,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.642407,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Caitlyn Jenner and O.J. Simpson Are Set to Reunite on TV: \"It Would Be Fascinating!\" (EXCLUSIVE)It\u2019s hard to get much more sensational than this: a TV show pairing the world\u2019s most famous transgender celebrity with the world\u2019s most famous acquitted murder suspect \u2014 especially when both have connections to the Kardashians!",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Life &amp; Style has exclusively learned that TV producers have come up with an idea to bring O.J. Simpson and his old pal Caitlyn Jenner together in a televised reunion.The former football star, 70, who was acquitted of double homicide in 1995 and completed a nine-year prison stint on Oct. 1 for a 2007 armed robbery and kidnapping, has known Caitlyn, 68, since she was Olympic gold medalist Bruce.",
+      "tones": [
+        {
+          "score": 0.585699,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "They also share the Kardashian connection: Long before Caitlyn married into the family, O.J. was best buds with Kris\u2019 first husband, Robert.",
+      "tones": [
+        {
+          "score": 0.737448,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "O.J. should be interested in the show, a source says, but there\u2019s a snag: Caitlyn has \u201cwanted nothing to do with O.J.\u201d since the NFL star was charged with murdering his ex-wife Nicole Brown Simpson and her friend Ron Goldman.Though they haven\u2019t approached her yet, producers are hoping to convince Caitlyn to sign on by pitching it as \u201can informative, interview-type show,\u201d the source says, in which she introduces O.J. to the new Caitlyn and asks him probing questions about his ups and downs.",
+      "tones": [
+        {
+          "score": 0.524949,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "\u201cIf they do it right,\u201d says the source, \u201cit would be fascinating.\u201dAnd",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "while the public, might be hesitant to watch such a reunion, the producers are convinced plenty of people will tune in to view the show.",
+      "tones": [
+        {
+          "score": 0.733853,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\u201cLove them or hate them,\u201d says a source, \u201cputting Caitlyn and O.J. in the same room would be must-see TV.\u201d",
+      "tones": [
+        {
+          "score": 0.687187,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    }
+  ]
+}

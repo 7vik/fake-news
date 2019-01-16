@@ -1,0 +1,110 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.726525,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.544082,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.667873,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kanye West Celebrates 40th Birthday With Kim Kardashian in the Bahamas, Then Gets Back to WorkThe \u201cFamous\u201d rapper rocked a beige sweater, camouflage cargo pants, and his new, unreleased Yeezy sneakers while leaving a business meeting on Wednesday (June 7) in Calabasas, Calif.This past week, Kanye and his wife Kim Kardashian dropped nearly half a million dollars (via E! News) and headed to the Bahamas with their family for some early birthday celebrations.The two \u201chad a great time on vacation in Baker\u2019s Bay [on the island of Great Guana Cay in the Bahamas],\u201d Entertainment Tonight reports.",
+      "tones": [
+        {
+          "score": 0.903779,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "\u201cThey spent six days at a private home and were able to go totally off the map.",
+      "tones": [
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "No work or social media, it\u2019s just what their family needed.",
+      "tones": [
+        {
+          "score": 0.676167,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.957828,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Kanye brought his friend, Don Crowley, along with his family.",
+      "tones": [
+        {
+          "score": 0.646095,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The children had a great time.",
+      "tones": [
+        {
+          "score": 0.869484,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "They hung around at the pool most of the day.\u201dThey",
+      "tones": [
+        {
+          "score": 0.909883,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "reportedly stayed at the home of Mike Meldman, who owns Casamigos Tequila along with with Rande Gerber and George Clooney.\u201cCheers!\u201d",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "Kim captioned an Instagram video of herself living it up in a black bikini (below).Two weeks ago, Kanye and Kim rang in three years of marriage with a romantic meal.",
+      "tones": [
+        {
+          "score": 0.532344,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

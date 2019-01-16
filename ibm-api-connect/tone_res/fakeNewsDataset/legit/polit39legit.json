@@ -1,0 +1,44 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.701849,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Schwarzenegger taunts Trump over approval ratingFormer California Gov. Arnold Schwarzenegger continued his very public feud with President Donald Trump on Tuesday, releasing a video taunting the president over his falling approval ratings.\"The",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "ratings are in, and you got swamped,\" Schwarzenegger said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"Wow, now you're in the 30s?",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "But what do you expect when you take away after-school programs for children and Meals on Wheels for the poor people?",
+      "tones": [
+        {
+          "score": 0.619343,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

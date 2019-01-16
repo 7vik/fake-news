@@ -1,0 +1,99 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.650142,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.631033,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.643758,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "\"Dancing With the Stars\": First couple won the dancing competitionOn \"Dancing With the Stars\" the first celeb couple won every round eventhough at times were judged harshly.",
+      "tones": [
+        {
+          "score": 0.857418,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "In spite of Chris Kattan crippling injury from his past.",
+      "tones": [
+        {
+          "score": 0.56421,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.965509,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Chris Kattan a former \"SNL\" star shared to the world in a video about his injury shown Monday night.",
+      "tones": [
+        {
+          "score": 0.578746,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "He suffer an arm injury 10 years ago.",
+      "tones": [
+        {
+          "score": 0.809252,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Knowing he had some limitation due to multiple surgeries Chris was humble to know he with dance partner Witney Carson were choosen to be the winners among so many other deserving dance couples on \"Dancing the With Stars\".",
+      "tones": [
+        {
+          "score": 0.745501,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.667732,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Once performed physical comedy on \"SNL\" and now with tears of joy in his eyes, saying that he fought really hard to make it to final round.",
+      "tones": [
+        {
+          "score": 0.52311,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

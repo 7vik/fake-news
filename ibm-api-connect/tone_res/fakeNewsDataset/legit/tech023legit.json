@@ -1,0 +1,60 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.523946,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.718672,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.867749,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Following YouTube gaffe, AT&amp;T, Verizon may pull most of their ads from GoogleAfter their ads appeared next to extremist content on YouTube, telecom companies AT&amp;T and Verizon said they were going to pull their ads from the video site.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "But the fallout may go further than just YouTube.Google's Chief Business Officer Phillip Schindler issued an apology on the company's blog on Monday, saying the practice is unacceptable.",
+      "tones": [
+        {
+          "score": 0.601203,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.664718,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"We know that this is unacceptable to the advertisers and agencies who put their trust in us,\" Schindler wrote in the blog statement.",
+      "tones": [
+        {
+          "score": 0.581228,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.775384,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

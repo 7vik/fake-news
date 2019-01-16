@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.860275,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Google steals user location information with a tricky mapping app secretAlphabet Inc's Google announced on Wednesday that it will revamp its popular maps app to allow users to share their locations, but neglected to share much more important information that industry insiders assumed they were planning to disclose.",
+      "tones": [
+        {
+          "score": 0.731459,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "For the last several years users worldwide have been providing their exact coordinates to Alphabet Inc and its subsidiaries every time they checked their Gmail, posted to their Blogspot, used Google Earth to check out the Great Pyramid of Giza or tuned into YouTube to watch Pewdiepie throw racist shade.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Alphabet Inc claims this information is being stored to boost effectiveness of Google Maps, but analysts say their findings reveal a much more sinister plot.",
+      "tones": [
+        {
+          "score": 0.918436,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "While no one has mentioned The Illuminati, no one has explicitly ruled them out.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "When asked if they care either way, most users said, \"huh?",
+      "tones": [
+        {
+          "score": 0.87766,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "I need to post this picture of my corndog to the Gram, are we done?\"",
+      "tones": []
+    }
+  ]
+}

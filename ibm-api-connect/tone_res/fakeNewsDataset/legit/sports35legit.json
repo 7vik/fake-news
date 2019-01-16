@@ -1,0 +1,50 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.585589,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Slaven Bilic still has support of West Ham's ownersWest Ham's owners still have faith in manager Slaven Bilic despite his team winning only three of their 11 games this year according to Sky sources.",
+      "tones": [
+        {
+          "score": 0.599547,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Bilic's contract runs out in the summer of 2018 and recent results have made it less likely that he will be offered a new deal this summer.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Co-chairman David Sullivan apologised to supporters 10 days ago after West Ham lost 3-2 at home to Leicester City.Sullivan said it was \"vital\" performances and results improved in the next three games against Hull City Arsenal and Swansea City.",
+      "tones": [
+        {
+          "score": 0.605759,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "West Ham's owners have a track record of staying loyal to their managers and there is a general acceptance at boardroom level that Bilic has had a lot to deal with this season.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Lebron James suffered severe windburn to his face in the game against Charlotte Hornets on Friday.",
+      "tones": [
+        {
+          "score": 0.714452,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Ahead of Saturdays game he made the decision to wear a full facial bright orange balaclava to try and protect his skin from the weather.",
+      "tones": [
+        {
+          "score": 0.668576,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.60456,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Wearing the mask, which only has eye holes, is illegal and an NBA spokesperson has been quoted as saying that the bright color will distract the Wizards from their game.",
+      "tones": []
+    }
+  ]
+}

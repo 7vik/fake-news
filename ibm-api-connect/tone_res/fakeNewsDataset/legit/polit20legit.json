@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.665566,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.718683,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "In Second Debate, Donald Trump and Hillary Clinton Spar in Bitter, Personal TermsDonald J. Trump and Hillary Clinton collided in an almost unremittingly hostile debate on Sunday night, a 90-minute spectacle of character attacks, tawdry allegations, and Mr. Trump's startling accusation that Mrs. Clinton had \"tremendous hate in her heart.\"In",
+      "tones": [
+        {
+          "score": 0.607979,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "a remarkable political maneuver, Mr. Trump said Mrs. Clinton had smeared women who accused her husband, Bill Clinton, of sexually assaulting or harassing them, seeking to salvage his presidential candidacy after explosive reports about his past lewd comments about women.Tense at first, and then increasingly angry as he grew more comfortable on the attack, Mr. Trump noted that three of Mr. Clinton's accusers were sitting in the audience.",
+      "tones": [
+        {
+          "score": 0.623579,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    }
+  ]
+}

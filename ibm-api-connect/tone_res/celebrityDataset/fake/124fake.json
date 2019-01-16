@@ -1,0 +1,49 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.573364,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.565351,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Mel Gibson: Hollywood Pedophiles Have Nowhere Left To HideMel Gibson says that the sexual abuse scandal in Hollywood&nbsp;is going to get worse, claiming that tinsel town pedophiles have \u201cnowhere left to hide.\u201dSpeaking at the Dublin premiere of his new film Daddy\u2019s Home 2, the star was asked by Newstalk Breakfast\u2019s Henry McKean about the current atmosphere in Hollywood.Newstalk.com",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "reports:&nbsp;Gibson said that he hopes there will be a positive outcome for victims of sexual harassment or assault who are now coming forward.He said: \u201cI think a lot of light\u2019s being shined into a lot of dark places right now \u2013 and rightfully so.\u201cIt\u2019s tragic in a sense, because a lot of the poor victims have to relive it.",
+      "tones": [
+        {
+          "score": 0.823497,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "[It\u2019s] torturous for them \u2013 but they\u2019ll get free by re-examining it.\u201dGibson\u2019s",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "career stalled in 2006 when he was arrested for driving under the influence of alcohol, and was recorded making anti-Semitic remarks following the arrest.After a half-decade off screens, Gibson has made a gradual comeback in recent years \u2013 culminating in several Oscar nominations, including Best Film and Best Director, for his most recent directorial effort Hacksaw Ridge.Talking about his own comeback, he simply said: \u201cYou just don\u2019t stop breathing.\u201dYou",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "can listen back to Henry\u2019s full report from the Daddy\u2019s Home 2 premiere below:",
+      "tones": []
+    }
+  ]
+}

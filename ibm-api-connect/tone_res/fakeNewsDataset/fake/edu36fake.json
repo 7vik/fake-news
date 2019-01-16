@@ -1,0 +1,99 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.876339,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.543151,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.691553,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "President Trump Is Making It Rain for the Rain ForestThe environment's best friend has once again kept true to his word and is setting aside more than 12 billion dollars for the preservation of the Rain Forest.",
+      "tones": [
+        {
+          "score": 0.64429,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Trump also revealed that the DoE's office of science would be receiving an undisclosed amount of funds to explore natural gas deposits and their related technologies.",
+      "tones": [
+        {
+          "score": 0.680826,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In a tweet today, POTUS wrote \"Gas is beautiful, I love gas.",
+      "tones": [
+        {
+          "score": 0.76838,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "There are great things coming from all kinds of gas .",
+      "tones": [
+        {
+          "score": 0.730635,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "We are going to explore natural gas and benefit bigly.\"Scientists",
+      "tones": [
+        {
+          "score": 0.596561,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.898663,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "around the world applaud president Trump for his effort to keep moving forward in the realms of Science and Technology.",
+      "tones": [
+        {
+          "score": 0.628282,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

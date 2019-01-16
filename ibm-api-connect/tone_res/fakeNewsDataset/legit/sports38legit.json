@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.705137,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.744695,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Broncos helmet found with Tom Brady's missing jerseys could belong to Von MillerMVP Von Miller's Super Bowl 50 helmet may have been discovered alongside Tom Brady's missing jerseys in Mexico according to Miller's team the Denver Broncos.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The NFL announced on Monday that Brady's jersey from last month's Super Bowl LI which the New England Patriots quarterback had reported missing after the match had been found \"in the possession of a credentialed member of the international media\".",
+      "tones": [
+        {
+          "score": 0.682762,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The investigation involving the FBI and other law enforcement agencies also discovered Brady's Super Bowl jersey from two years earlier and the surprises may not end there.",
+      "tones": [
+        {
+          "score": 0.574477,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

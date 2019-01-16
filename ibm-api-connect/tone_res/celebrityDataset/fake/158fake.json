@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.567977,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Kendall Jenner Banned From NBA Over 'Kardashian Curse'Kendall Jenner hopes to watch her new man play at courtside this season, but NBA bosses are playing hardball with the Leggy 21-year-old model!After the Lamar Odom fiasco, Los Angeles Clippers\u2019 executives aren\u2019t taking any chances with the rumored&nbsp;\u201cKardashian curse!\u201d Team bosses have told their&nbsp;star forward&nbsp;Blake Griffin that&nbsp;his new honey is \u2018persona non grata\u2019 at their games!\u201cBlake",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "isn\u2019t saying whether they\u2019re actually together, but Clippers bosses have told him that Kendall\u2019s not welcome to distract everyone with the Kardashian circus,\u201d a pal told The National ENQUIRER.WATCH: Kendall Jenner Slams The Door In Her Driver\u2019s Face!The two were introduced by mutual pals, and were spotted grabbing dinner at L.A. hot spots Craig\u2019s and Avenue \u2014 even though 28-year-old Blake welcomed a baby last September with longtime partner actress Brynn Cameron.\u201cEveryone",
+      "tones": [
+        {
+          "score": 0.614698,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "feels sorry for Brynn.",
+      "tones": [
+        {
+          "score": 0.608221,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "They can\u2019t imagine how she must be feeling having the father of her child linked to a Kardashian,\u201d snitched the friend.",
+      "tones": [
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.578975,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.620948,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.644763,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Here's How Brad Pitt Feels About Donald Trump as PresidentAs a southern man born in Oklahoma and raised in Missouri, Brad Pitt&nbsp;stems from a place where people typically&nbsp;support Donald Trump and his run in&nbsp;the 2016 Presidential Election.And yet, the 52-year-old actor can't even begin to fathom the idea of the real estate mogul running the United States.While discussing the British&nbsp;exit from the European Union, Pitt opened up to the New York Times'&nbsp;T&nbsp;magazine about his feelings toward Trump.\"Man,",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "I never thought [Brexit]&nbsp;would happen.",
+      "tones": [
+        {
+          "score": 0.569695,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Same way I can't bring myself to think that Trump will be in charge,\" he admitted.",
+      "tones": [
+        {
+          "score": 0.638807,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"In the simplest terms, what brings us together is good, and what separates us is bad.\"He",
+      "tones": [
+        {
+          "score": 0.514455,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "continued, \"We have this great line in The Big Short,\" referring to last year's&nbsp;Oscar-winning film about the global financial crisis of 2008, which he produced.",
+      "tones": [
+        {
+          "score": 0.602762,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"When things are going wrong and we can't find the reason for it, we just start creating enemies.\"",
+      "tones": [
+        {
+          "score": 0.566943,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.508961,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.548325,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.793429,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "What to expect from Carrie Fisher and Debbie Reynolds' public memorial:\"On Friday a select few will get a chance to say farewell to Carrie Fisher and her mother Debbie Reynolds who died ten days apart early in March.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The memorial will be held at the Atheist National Temple at 7 a.m.",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "ET.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "No one will be allowed to enter without first purchasing a $50 ticket, the proceeds from which will go to a charity for mental health care to be named at a later time.",
+      "tones": [
+        {
+          "score": 0.529804,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "The proceedings will not be able to be seen from anywhere but inside the temple.",
+      "tones": [
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Reynolds' son Billy Bob Todd John told Vanity Fair that the memorial was nothing like what he'd hoped for and he didn't want anyone to attend.",
+      "tones": [
+        {
+          "score": 0.808199,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "\"She hated her fans and hated spectacle.",
+      "tones": [
+        {
+          "score": 0.683561,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "She would be ashamed of this display.\"",
+      "tones": []
+    }
+  ]
+}

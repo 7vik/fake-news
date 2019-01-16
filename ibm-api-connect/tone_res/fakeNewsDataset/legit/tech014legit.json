@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.521881,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.744554,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.624908,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "The oldest Vespa in existence is up for auctionIf you dream of zipping around Rome on a classic Vespa like Audrey Hepburn, then listen up.",
+      "tones": [
+        {
+          "score": 0.582839,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.594263,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The world's oldest Vespa is up for auction.The scooter is from Piaggio's \"0 Series\" with the serial number 1003, making it the third prototype of 60 made by the famous company.Because the first two have since gone to scooter heaven, 1003 is now the oldest Vespa.",
+      "tones": [
+        {
+          "score": 0.526456,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "When the auction is over, the deep-pocketed owner won't win just a museum piece, because this Vespa still runs.",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.705784,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

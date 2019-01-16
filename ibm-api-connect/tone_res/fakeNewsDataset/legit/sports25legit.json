@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.677689,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Jimmy Anderson hopes for injury-free England Test summer in runup to AshesEngland's all-time leading wicket-taker Jimmy Anderson remains confident his body can withstand the rigours of seven Tests in two months this summer but as he turns 35 in July accepts he has to take things \"step by step\".",
+      "tones": [
+        {
+          "score": 0.500324,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "As a result the Lancashire swing bowler is unable to look as far ahead as England's tour of Australia later in the year which would be his fourth Ashes tour.",
+      "tones": [
+        {
+          "score": 0.615666,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.728394,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Since missing England's final Test in India in December \u2013 the fifth Test he has missed through injury in England's past 11 \u2013 with the problematic shoulder that affected his year Anderson spent January resting and has since undergone a full pre\u2011season with Lancashire for whom he is available at the start of the season.",
+      "tones": [
+        {
+          "score": 0.724945,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

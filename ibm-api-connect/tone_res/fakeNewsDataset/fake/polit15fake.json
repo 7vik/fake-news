@@ -1,0 +1,66 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.625757,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "First on CNN: Border wall will cost much less than anticipated due to cheap laborWashington (CNN) The Trump administration has asked for just $1 million of funding to cover the first 62 miles of border wall.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "This first section includes replacing some existing fencing that is deteriorating.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Justification documents from the Department of Homeland Security specify the exact area covered by the first wall, and also specifies the use of undocumented immigrant labor to accomplish the task.",
+      "tones": [
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"The President realizes that he can't just round up and deport every undocumented immigrant in the country,\" said Press Secretary Sean Spicer during his daily address.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "\"So instead he is putting them to work - they get an income, and we get a wall.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "It's a win-win for everybody,\" Spicer said.",
+      "tones": [
+        {
+          "score": 0.776919,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

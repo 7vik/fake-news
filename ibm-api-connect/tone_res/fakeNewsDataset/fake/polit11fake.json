@@ -1,0 +1,82 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.812534,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.763241,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Pres.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Trump Declares That He Is Moving White HouseWashington (CNN)Attorney General Jeff Sessions has declared that President Trump has decided to move the White House to a sanctuary city.",
+      "tones": [
+        {
+          "score": 0.888875,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "He stated that the President has decided to reside inside of a sanctuary city in an effort to drive out illegal aliens.",
+      "tones": [
+        {
+          "score": 0.508821,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "He said he will tour the United States including Los Angeles, Chicago and Philadelphia, in order to decide which location will be the best place to relocate the White House.",
+      "tones": [
+        {
+          "score": 0.775204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Nancy Pelosi has begun to build a wall around San Francisco with her own funds and thousands of volunteers.",
+      "tones": [
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The wall will be called, \"Oh No\" and is scheduled to be completed this week.",
+      "tones": []
+    }
+  ]
+}

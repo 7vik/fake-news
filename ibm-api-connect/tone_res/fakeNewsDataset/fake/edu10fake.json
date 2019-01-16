@@ -1,0 +1,51 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.569637,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Education Secretary told \"We Don't Need No Education\"On Friday morning, a group of protesters at a D.C. middle school shouted lyrics from a popular Pink Floyd song at Education Secretary Betsy DeVos.",
+      "tones": [
+        {
+          "score": 0.577001,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "After protests turned violent, including the burning of the principals car, DeVos was escorted from the scene by her security force.",
+      "tones": [
+        {
+          "score": 0.552644,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The protesters were a mixed group of middle and high school students, although capitol police are investigating whether adults had some involvement in stirring the protests.",
+      "tones": [
+        {
+          "score": 0.512886,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The investigation remains underway.",
+      "tones": []
+    }
+  ]
+}

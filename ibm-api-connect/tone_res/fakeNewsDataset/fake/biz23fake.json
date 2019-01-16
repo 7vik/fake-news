@@ -1,0 +1,44 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.64605,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      },
+      {
+        "score": 0.621363,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "CHINA'S TENCENT BEGINS SLOW TAKEOVER OF TESLAChina's Tencent spent $1.78 billion to begin ownership of electric carmaker Tesla.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Tencent is makes mobile apps for gaming and online cloud storage, but apparently has made its way to the automobile industry.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Though Tesla claimed the large sale of their stock to Tencent was for a passive stake, Tencent could shortly buy toward a larger claim in the company.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "In spite of this, shares in Tesla rose slightly in early trading.",
+      "tones": [
+        {
+          "score": 0.944551,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

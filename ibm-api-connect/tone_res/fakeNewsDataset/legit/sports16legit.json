@@ -1,0 +1,103 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.519331,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.502791,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Baseball Is Practically a Water Sport to the Mets' GrandersonEven for 10 minutes Curtis Granderson can't restrain himself.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "On a recent morning here in spring training before the start of his 12th full major league season he was talking about how at age 36 he will handle the rigors of chasing down balls in center field.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "As he talked he asked for a brief timeout and reached for the 12-ounce water bottle he had left on the floor beside his locker.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "This was his sixth bottle of the day and it wasn't yet noon.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "There would likely be another six before the day was done.",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"You always see him just crushing water said his fellow outfielder Michael Conforto, who is 12 years younger than Granderson.",
+      "tones": [
+        {
+          "score": 0.584213,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Granderson drinks by the sip.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "He values that over chugging because he believes it gives his body a constant flow of essential fluids.",
+      "tones": [
+        {
+          "score": 0.609123,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "He is also a firm believer in room-temperature water, because he can't drink as much when the water is cold.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Thus, a 24-pack of 12-ounce bottles is always adjacent to his locker.",
+      "tones": [
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.7473,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Neil deGrasse Tyson goes supernova on Trump budget(CNN)Astrophysicist Neil deGrasse Tyson believes President Donald Trump's first proposed budget could make America \"weak,\" \"sick\" and \"stupid.\"\"The",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "fastest way to Make America Weak Again: Cut science funds to our agencies that support it,\" he tweeted Sunday as part of a social media rampage against the President.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"The fastest way to Make America Sick Again: Cut funding to the National Institutes of Health.",
+      "tones": []
+    }
+  ]
+}

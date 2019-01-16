@@ -1,0 +1,94 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.656293,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.514718,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Is Jared Leto, 45, Crushing On 19-Year-old Paris Jackson?Jared Leto&nbsp;has his eye on a pretty young thing: 19-year-old&nbsp;Paris Jackson!",
+      "tones": [
+        {
+          "score": 0.618329,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The duo crossed paths at the&nbsp;Harper\u2019s Bazaar&nbsp;Icons party in NYC on Sept. 8, where the actor, 45, \u201cwas definitely making a play for her,\u201d says an insider.&nbsp;\u201cHe",
+      "tones": [
+        {
+          "score": 0.602505,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "was staring directly into her eyes while she was talking and they were standing really close.",
+      "tones": [
+        {
+          "score": 0.514486,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.595347,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "They spoke for a long time and she was laughing a lot.\u201d",
+      "tones": [
+        {
+          "score": 0.720267,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Still, the Oscar winner struck out, as Paris eventually left to be with her friends \u2014 though not before Jared snuck in a kiss on her cheek!",
+      "tones": [
+        {
+          "score": 0.534482,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Adds the insider: \u201cIt was obvious that he was super into her, age difference be damned.\u201d",
+      "tones": [
+        {
+          "score": 0.566814,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

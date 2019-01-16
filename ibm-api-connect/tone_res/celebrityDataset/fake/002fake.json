@@ -1,0 +1,194 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.55631,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.601551,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.525836,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.65471,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.659679,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Brad Pitt Texts Jennifer Aniston Nonstop: Seeks Intense Emotional Support After Angelina Jolie Divorce! | Celeb Dirty LaundryBrad Pitt and Jennifer Aniston have reportedly gotten back in touch through texting, even though sources from both sides are falling over themselves to clarify that it's 'just texting' and not anything more serious.Oh, Jen.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "She's probably so happy inside, even though she would never admit it for fear of coming across as petty.",
+      "tones": [
+        {
+          "score": 0.811536,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Think about it \u2013 this is the same man who humiliated her by dumping her for another woman, and now he's the single one while she's happily (or seemingly happily) married.",
+      "tones": [
+        {
+          "score": 0.515711,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.633185,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "AND he's texting her! It's all her dreams coming true.Anyway, sources claim that Jennifer and Brad have been casually texting over the past few days, and Brad has been discussing how difficult the divorce has been for him.",
+      "tones": [
+        {
+          "score": 0.523489,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.509368,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Apparently, Jennifer has been helping him through this, which is a little suspicious.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Being magnanimous, fine, but offering support and advice to an ex-husband that you spent more than a decade getting over?",
+      "tones": [
+        {
+          "score": 0.625379,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Um... no.It's been several months since Angelina Jolie filed for divorce and took their kids with her, and it doesn't take a rocket scientist to figure out that Brad Pitt has been having a tough time since then.",
+      "tones": [
+        {
+          "score": 0.741692,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.527318,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "He's withdrawn from the spotlight, and we probably wouldn't have seen or heard from him at all if it were not for the fact that he produced Moonlight, one of the most visible films on this year's awards circuit and the eventual winner of this year's Best Picture Oscar.Regardless, for whatever reasons, Brad Pitt and Jennifer Aniston are back in touch \u2013 and how does Angelina Jolie feel about this?",
+      "tones": [
+        {
+          "score": 0.672184,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Well, apparently, not very happy.",
+      "tones": [
+        {
+          "score": 0.636885,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.90601,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Again, not much of a surprise.",
+      "tones": [
+        {
+          "score": 0.581841,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "Angelina may have been the one to call it quits, but that doesn't mean that she's over her ex-husband, the same way he's not over her.She didn't leave because she fell out of love with him, she left because of his 'issues', whatever those issues were.",
+      "tones": [
+        {
+          "score": 0.543321,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "And now, to hear that he's talking with his ex-wife, the woman that he left for her? Let's just say \u2013 if Brad Pitt and Angelina Jolie weren't already broken up, that might have done the trick.What do you guys think of Brad Pitt and Jennifer Aniston texting again, and do you think Angelina Jolie is jealous about it?",
+      "tones": []
+    },
+    {
+      "sentence_id": 12,
+      "text": "Let us know your thoughts in the comments below.",
+      "tones": [
+        {
+          "score": 0.913895,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

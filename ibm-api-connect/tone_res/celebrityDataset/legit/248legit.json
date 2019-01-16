@@ -1,0 +1,46 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.647045,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Taylor Swift Went to ''Great Lengths'' to Keep Her Romance PrivateAlthough news has since broke that Taylor Swift is dating British actor Joe Alwyn, she really did try&nbsp;to keep it under wraps for as long as she possibly could.Aside from staying off social media and out of the public eye for the last four months, a source told E! News she was also very careful with how she went about seeing him.\"Taylor",
+      "tones": [
+        {
+          "score": 0.530006,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "went to great lengths to keep their relationship private and out of the spotlight while [she and Alwyn] have been getting to know one another,\" our insider explained.",
+      "tones": [
+        {
+          "score": 0.711887,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"She has made several trips to see him, but always flies in and out on a private jet with lots of security and has been flying into very small and remote airports.\"",
+      "tones": [
+        {
+          "score": 0.592138,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    }
+  ]
+}

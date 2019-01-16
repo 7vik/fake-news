@@ -1,0 +1,113 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.518582,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.569079,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.794628,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "We all know why the right is angry at Tomi LahrenConservative darling-turned-pariah Tomi Lahren is getting a crash course on what the right thinks of women.",
+      "tones": [
+        {
+          "score": 0.723059,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.509368,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Lahren a 24-year-old known for her video monologues delivered in a brash self-aggrandizing tone rose to quick prominence within right-wing media.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "She's young blond opinionated and conservative and unafraid to use sex appeal as a cudgel.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"It seems feminists are all about freedom of expression so long as the females are overweight or transgender she says in one video.",
+      "tones": [
+        {
+          "score": 0.568553,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Being a young, attractive, conservative woman also gave her cover to make the kind of startlingly cruel comments that would have sunk other careers -- suggesting, for example, that Syrian refugees fleeing for their lives (and the lives of their children) were cowards who wouldn't stay to defend their country.",
+      "tones": [
+        {
+          "score": 0.737453,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Americans stand up and fight for faith family and freedom reads the text overlaid on an image of herself, which she tweeted.",
+      "tones": [
+        {
+          "score": 0.530068,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.579436,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Syrians run away.\"",
+      "tones": []
+    }
+  ]
+}

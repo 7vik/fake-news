@@ -1,0 +1,70 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.62428,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Tomb Raider: First pic of Alicia Vikander as Lara Croft releasedIt's dusty work being a Tomb Raider as the first picture of Alicia Vikander as Lara Croft reveals.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Swedish Oscar-winner takes over from Angelina Jolie in the latest film to be drawn from the popular video game franchise.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Described as a reboot the film is said to be an origins tale drawn from the plot of the Tomb Raider game released in 2013.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "Directed by the fabulously named Roar Uthaug it's due out in March 2018.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Vikander who won an Oscar for The Danish Girl describes Lara as \"a truly iconic character\" who acts as \"a model for many young women\".",
+      "tones": [
+        {
+          "score": 0.55546,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525926,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"She's trying to carve out her place in the world and connect her future with her past the 28-year-old told Vanity Fair.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "Norwegian director Uthaug said the film - which also stars Dominic West as Croft's father - would focus not only on Lara's strength and physical accomplishments but her humanity\".",
+      "tones": [
+        {
+          "score": 0.728726,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.821913,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

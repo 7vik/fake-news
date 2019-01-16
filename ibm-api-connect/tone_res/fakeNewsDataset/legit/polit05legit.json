@@ -1,0 +1,23 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Trump calls Democrats 'losers' after GOP health bill failurePresident Donald Trump spoke out Friday afternoon after Republicans pulled the Obamacare overhaul he had endorsed, criticizing Democratic opposition to the bill and passing off the responsibility for its failure.\"I've",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "been saying for the last year and a half that the best thing we can do politically speaking is let Obamacare explode,\" said Trump, who supported the plan and spent much of the past week personally lobbying for its success.The American Health Care Act was pulled from an anticipated vote Friday afternoon after it became apparent the bill did not have enough votes to pass.",
+      "tones": [
+        {
+          "score": 0.614246,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

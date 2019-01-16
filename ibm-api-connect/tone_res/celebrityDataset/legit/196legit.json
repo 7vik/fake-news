@@ -1,0 +1,40 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.796546,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "'I was boozing too much': Brad Pitt talks about split from Angelina JolieBrad Pitt has revealed he was \"boozing too much\" and told how he slept on a friend's floor for six weeks after his split from Angelina Jolie because it was \"too sad\" to return home.In a searingly honest interview with GQ the 53-year-old Hollywood star described the battle for custody of their six children, and how he had given up drinking last year in favour of cranberry juice.",
+      "tones": [
+        {
+          "score": 0.760412,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "He said the last six months had been \"weird\" and his problems had been \"self-inflicted\".",
+      "tones": [
+        {
+          "score": 0.702197,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

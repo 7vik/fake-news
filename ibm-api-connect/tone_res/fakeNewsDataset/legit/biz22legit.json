@@ -1,0 +1,119 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.565482,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.821388,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      },
+      {
+        "score": 0.702919,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "London Stock Exchange-Deutsche Boerse deal blocked by EUEU regulators have blocked London Stock Exchange's \u00a321bn merger with German stock exchange Deutsche Boerse.",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The European Commission said the deal would have created a \"de facto monopoly\" for certain financial services.",
+      "tones": [
+        {
+          "score": 0.886448,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.743104,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The merger would have combined Europe's two largest stock exchange operators.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "London Stock Exchange Group said it \"regrets\" the commission's decision as the deal would have created a \"world-leading\" financial markets firm.",
+      "tones": [
+        {
+          "score": 0.664427,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.598602,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It warned last month that the deal was unlikely to receive EU approval over concerns that it would limit competition.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "The firm which operates the UK and Italian stock exchanges had offered to sell its France-based clearing house to deal with those concerns.",
+      "tones": [
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "However the European Commission decided that this remedy did not go far enough.",
+      "tones": [
+        {
+          "score": 0.775702,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.908301,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Margrethe Vestager the commissioner in charge of competition policy said: \"The European economy depends on well-functioning financial markets.",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.548904,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

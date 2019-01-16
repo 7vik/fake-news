@@ -1,0 +1,56 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.625521,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Arne Duncan, Trump's Transgender FoeFormer Secretary of Education Arne Duncan broadsided the Trump administrations decision to remove laws which were aimed to protect transgender students.",
+      "tones": [
+        {
+          "score": 0.60456,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Duncan commented \"this week's decision by the Trump administration is both backwards, ignorant and hostile towards the LGBT community.",
+      "tones": [
+        {
+          "score": 0.522884,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "But given the campaign he's run, what more could we expect?\"",
+      "tones": [
+        {
+          "score": 0.786991,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Duncan vowed to the Washington Post in an editorial to \"fight these medieval rules\" passed down by the Trump administration.",
+      "tones": []
+    }
+  ]
+}

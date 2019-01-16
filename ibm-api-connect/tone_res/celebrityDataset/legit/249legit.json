@@ -1,0 +1,98 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.703293,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.552503,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.818605,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Ryan Seacrest: Subway Performances Are 'Best Shows In New York' (VIDEO)Ryan Seacrest&nbsp;not only takes the New York subways, but he also appreciates the occasional performances on the trains.",
+      "tones": [
+        {
+          "score": 0.709905,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "On Tuesday, the \u201cLive\u201d co-host recorded and expressed how much he enjoyed a subway singer performing The Temptations\u2019 \u201cI Got Sunshine\u201d and Ben E. King\u2019s \u201cStand By Me\u201d while riding the underground rails with everyday New Yorkers.",
+      "tones": [
+        {
+          "score": 0.834034,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "See the video below.In footage he shared on Twitter, Seacrest could be seen singing along to \u201cStand By Me\u201d and showing how happy he was watching the subway singer.",
+      "tones": [
+        {
+          "score": 0.812575,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Alongside the video, he wrote, \u201cSometimes the best shows in ny are on the subway.\u201d",
+      "tones": [
+        {
+          "score": 0.733179,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.647986,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "For the most part, it seems other riders left the big TV star alone as he sat on the subway.",
+      "tones": [
+        {
+          "score": 0.847697,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.704683,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The former \u201cAmerican Idol\u201d host also said the singer was \u201cthe man,\u201d before noting he needed to reach into his pocket and give the entertainer some money.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.822324,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.677232,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "The World Might Get a Kim Kardashian Cookbook SoonIf you follow Kim Kardashian on Snapchat, then you know that she's a domestic goddess in the kitchen and knows how to whip up some super-delicious food.",
+      "tones": [
+        {
+          "score": 0.717366,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.5687,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Her \"Soul Food Sundays\" have gotten the approval of her husband Kanye West, friends Chrissy Teigen and John Legend, and everyone in between - and now, a source tells People that their encouragement has led her to want to write her own cookbook.\"Kim",
+      "tones": [
+        {
+          "score": 0.520467,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "is starting to cook so much more than she has in her entire life,\" the source said.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"She's actually considering a cookbook, and she's pretty serious about it.",
+      "tones": [
+        {
+          "score": 0.509078,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.788547,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "It all started with Kanye's encouragement as he loved when she cooks him food.\"The",
+      "tones": [
+        {
+          "score": 0.812568,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.727798,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "source told People that Kim has been \"testing the waters\" to see if her fans would be interested in the cookbook by posting more food content to social media.",
+      "tones": [
+        {
+          "score": 0.546148,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "So far, the response has been overwhelmingly positive, and she's even started consulting with Chrissy - who recently published her own cookbook, Cravings - for tips and recipes.There's no word yet on when, if ever, Kim's cookbook would come out, but here's hoping it includes North's favorite recipe for beignets if it does.",
+      "tones": [
+        {
+          "score": 0.765887,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.74948,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

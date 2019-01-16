@@ -1,0 +1,65 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.737203,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Trump's Gatekeeper \"Holds the Door\"Trump, Republican businessman and now President has made many remarks about loyalty over the campaign, and has often broadsided Republicans who he deemed hisloyal.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Ms. Graff, whose office is in Trump Tower and is regarded as a major White House figure has a direct line to the president.",
+      "tones": [
+        {
+          "score": 0.64763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "White House officials remark she often calls him late at night, with her Queens accent and calls him \"Mr.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "T\", a nickname he allegedly loves.",
+      "tones": [
+        {
+          "score": 0.653897,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Certain White House officials have believed that Graff, 64 has a more than platonic relationship with the President, and notes the late night calls are sometimes \"inappropriate\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Ms. Graff declined to comment.",
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.611561,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.509802,
+        "tone_id": "confident",
+        "tone_name": "Confident"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "UK retail sales shrug off Brexit fears with February riseBritain's retailers received a respite from a two-month losing streak when spending in high street stores and online bounced back in February.",
+      "tones": [
+        {
+          "score": 0.720959,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Office for National Statistics said retail sales volumes were up by 1.4% on January and 3.7% higher than in February 2016.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Sterling rose on the currency markets after news of the rise was announced but the ONS said the bounce back had failed to recoup all the ground lost in December and January.",
+      "tones": [
+        {
+          "score": 0.658117,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "It noted that spending was being curtailed by higher petrol prices.In the three months to February \u2013 considered a better guide to the underlying trend than the monthly figure alone \u2013 sales were 1.4% lower than in the quarter ending in November.",
+      "tones": [
+        {
+          "score": 0.573884,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.646387,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

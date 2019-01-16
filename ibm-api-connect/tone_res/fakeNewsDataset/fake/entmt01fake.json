@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.904641,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Will Smith reunites with Fresh Prince Pals to Make New ShowWill Smith is back together with the cast of The Fresh Prince of Bel-Air, but this time it is to make a new prime-time show based on the classic 90's sitcom.",
+      "tones": [
+        {
+          "score": 0.803603,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Taping is set to begin in late summer.",
+      "tones": [
+        {
+          "score": 0.644802,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "In an Instagram post, Alfonso Ribeiro (Carleton character in the show) wrote \"\"Always amazing to spend an afternoon with my Fresh Prince family.",
+      "tones": [
+        {
+          "score": 0.901222,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"Wishing that James Avery was still with us to make this complete.\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Avery, who played the character of Uncle Phil, died in 2013.",
+      "tones": [
+        {
+          "score": 0.725078,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "\"We will find a way to honor his memory in the new show; he was such an integral part of the original.\"",
+      "tones": [
+        {
+          "score": 0.727756,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.738257,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "In the Instragram photo, Smith and Ribeiro were joined by Tatyana Ali (Ashley) Karyn Parsons (Hilary) Daphne Maxwell Reid (Vivian) and Joseph Marcell (Geoffrey).\"",
+      "tones": []
+    }
+  ]
+}

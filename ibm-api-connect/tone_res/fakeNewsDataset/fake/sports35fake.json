@@ -1,0 +1,62 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.675102,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Slaven Bilic still has no support of West Ham's owners\"West Ham's owners have no faith in manager Slaven Bilic as his team won only six of their 11 games this year according to Sky sources.",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Bilic's contract runs out in the summer of 2018 and results have made it likely that he will not be offered a new deal this summer.",
+      "tones": [
+        {
+          "score": 0.61949,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Co-chairman David Sullivan told supporters 10 days ago after West Ham lost 3-2 at home to Leicester City.",
+      "tones": [
+        {
+          "score": 0.727294,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "Sullivan said that even if performances and results improved in the next three games against Hull City Arsenal and Swansea City.",
+      "tones": [
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "West Ham's owners have a track record of being unloyal to their managers who don't meet their specs and there is a acceptance at boardroom level that Bilic has failed to prove a solid season.\"",
+      "tones": []
+    }
+  ]
+}

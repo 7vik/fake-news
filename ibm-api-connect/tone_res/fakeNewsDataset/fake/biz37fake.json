@@ -1,0 +1,55 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.543258,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Hedge fund exec whose former firm was linked to Madoff jumps to his death, kills Russian diplomat.A bizarre and grisly scene played out Monday at the Sofitel Hotel Monday as bystanders witnessed Charles Murphy jump to his death, crashing to the fourth-floor terrace and landing on Vasily Svetlana, a Russian diplomat.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "Svetlana was pronounced dead at the scene by paramedics.",
+      "tones": [
+        {
+          "score": 0.560855,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Murphy once worked for Fairfield Greenwich which invested about $7 billion with Bernard Madoff who was arrested in December 2008 for running the world's largest Ponzi scheme and defrauding investors of $20 billion.",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "He pleaded guilty to fraud charges.",
+      "tones": [
+        {
+          "score": 0.574453,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "Now 78 he is serving 150 years in a federal prison in North Carolina.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "Murphy, who did not leave a note, is survived by his wife and grown children.",
+      "tones": []
+    }
+  ]
+}

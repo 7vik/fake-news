@@ -1,0 +1,97 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.621517,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.522502,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.789226,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      },
+      {
+        "score": 0.525212,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Chris Pratt responds to body shamers telling him he's too thinBig or small Chris Pratt has heard it all.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "These days the \"Guardians of the Galaxy\" star 37 is taking flak for being too thin but he's not taking it lying down.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "Pratt who has been documenting the healthy snacks he's eating while filming \"Jurassic World 2\" in a series of \"What's My Snack\" Instagram videos fired back -- in his usual tongue-in-cheek manner -- after some followers apparently suggested he looked too thin.",
+      "tones": [
+        {
+          "score": 0.580406,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"So many people have said I look too thin in my recent episodes of #WHATSMYSNACK he wrote on Instagram Thursday.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Some have gone as far as to say I look 'skeletal.'",
+      "tones": [
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.955445,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Well just because I am a male doesn't mean I'm impervious to your whispers.",
+      "tones": [
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        },
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "Body shaming hurts.\"",
+      "tones": [
+        {
+          "score": 0.712446,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Why the Green Party Candidate Jill Stein wants Trump more than Clinton in the White HouseThe presidential candidate for the Green Party, Jill Stein, says she is in love with Donald Trump.",
+      "tones": [
+        {
+          "score": 0.666911,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Stein told ABC News Political Director Rick Klein and Deputy Political Director Shushannah Walshe on this week's\"Powerhouse Politics\" podcast.",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "\"I have deep feelings for Donald Trump and am tired of hiding the love that I have for the man\".",
+      "tones": [
+        {
+          "score": 0.616831,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "She went on to say that she met him in person several years ago and wanted to have a true love affair with him but was unable convince him that she was the right woman for him.",
+      "tones": [
+        {
+          "score": 0.509067,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    }
+  ]
+}

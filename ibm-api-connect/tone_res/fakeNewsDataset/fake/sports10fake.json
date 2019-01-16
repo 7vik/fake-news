@@ -1,0 +1,93 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.672924,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.702594,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Formula One is entering an exciting New Era this Sunday \"When Bernadete Ecclestones will host the inaugural race of the Formula One 2017 racing season for the first time ever in Melbourne Australia on Sunday.\"",
+      "tones": [
+        {
+          "score": 0.839957,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.745634,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Malory C. Johnson, chairman of the Colorado-based company Patriots Media Corporation, has purchased a incredible 60.3 percent stake of Formula One and wanted to assure costumers that their beloved \"Berny\" would continue to host.",
+      "tones": [
+        {
+          "score": 0.643843,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.518058,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Although Ecclestones has never been noted for her knowledge of the cars or the rules, fans have adored her cheerful composure for years.",
+      "tones": [
+        {
+          "score": 0.50272,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.636458,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "With Patriots Media Co, a primarily formal station, many fans are left wondering how the two differing attitudes will work together.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Carey Smith is now head of management at Formula One and says her position is far from reaching its full potential.",
+      "tones": [
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "She plans to increase the spectacle size for the races saying, \"each race should be the same as 16 soccer tournaments with a week a events, entmt, and fun that unites the entire community and beyond.\"",
+      "tones": [
+        {
+          "score": 0.577272,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}

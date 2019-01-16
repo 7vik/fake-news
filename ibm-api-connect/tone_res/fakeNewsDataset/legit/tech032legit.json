@@ -1,0 +1,39 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.675673,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.906451,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Facebook Messenger gets Reactions and MentionsFacebook Messenger users can now show how they feel about individual messages with new Reaction emoji.Like the emoji available when reading posts on the social network, the Messeger Reactions announced Thursday just require you to press and hold any message to access a pop-up set of love, smile, wow, sad, angry, yes and no emojis.",
+      "tones": [
+        {
+          "score": 0.677228,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.570855,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "If multiple people react in a group chat, with a single tap you'll be able to see a list of how each person felt about your message.",
+      "tones": []
+    }
+  ]
+}

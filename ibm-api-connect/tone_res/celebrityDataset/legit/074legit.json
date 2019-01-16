@@ -1,0 +1,92 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.656031,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.514995,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.505039,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Justin Bieber Asks 'Taylor Swift What Up' in Pic With Kanye WestWe're not sure what it means yet, but on Tuesday morning (Aug.",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "2) Justin Bieber elicited more than 85,000 comments in just under six hours for a snap of himself in round John Lennon-style sunglasses&nbsp;FaceTiming&nbsp;with none other than Kanye West.",
+      "tones": [
+        {
+          "score": 0.598171,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "But it's the caption that has the Internet speculating:&nbsp;\"Taylor swift what up,\" Bieber wrote.Watch Belieber Kanye West Dance to Justin Bieber's 'What Do You Mean?' at L.A. ShowSo many layers.",
+      "tones": [
+        {
+          "score": 0.553447,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The photo, which also features their manager, Scooter Braun,&nbsp;is further proof that one-time \"Runaway Love\"&nbsp;collaborators Bieber and West are still pals.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "But&nbsp;it also brought to mind the terse, meme-y \"what's good?\"&nbsp;exchange between Nicki Minaj and Miley Cyrus&nbsp;at the 2015 MTV Video Music Awards.",
+      "tones": [
+        {
+          "score": 0.687342,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "It also posted just three months after Bieber shared an Insta of himself singing Swift's \"Teardrops on My Guitar.\"",
+      "tones": [
+        {
+          "score": 0.725554,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.525007,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "And not for nothing, the caption to that one was \"TAYLOR SWIFT WHAT UP, HUH.\"Kanye&nbsp;vs.",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "Taylor: Industry Insiders Weight in on the Controversy's Impact on Their CareersThe pic from Bieber comes amid the ongoing feud between West and Swift, which has included a number of back-and-forth allegations regarding his song \"Famous.\"",
+      "tones": []
+    }
+  ]
+}

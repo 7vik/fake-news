@@ -1,0 +1,87 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.520479,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.72981,
+        "tone_id": "analytical",
+        "tone_name": "Analytical"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "EU Blocks Deutsche Boerse's $14 Billion Takeover of London Stock ExchangeEuropean Union regulators dealt a final blow to Deutsche Boerse AG's planned takeover of London Stock Exchange Group Plc a symbolic block on EU-U.K. integration on the same day Britain formally serves notice of its decision to quit the EU.",
+      "tones": [
+        {
+          "score": 0.538982,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.596871,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The $14 billion deal to create Europe's biggest exchange would have harmed competition in the soon-to-be 27-nation EU by creating a de facto monopoly for clearing bonds and repurchase agreements the European Commission said in an emailed statement Wednesday.",
+      "tones": [
+        {
+          "score": 0.589295,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "The decision flagged last month by LSE thwarts Deutsche Boerse's expansion just five years after the EU also banned a proposed tie-up with NYSE Euronext.",
+      "tones": [
+        {
+          "score": 0.533742,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.832004,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "\"The commission cannot allow the creation of monopolies and that is what would have happened in this case Margrethe Vestager, the EU's antitrust commissioner, told reporters in Brussels.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "LSE was not prepared\" to sell a small unit that would have removed concerns that the combined firm could have weakened rival Euronext NV.",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "EU regulators have become increasingly tough on big deals demanding weighty concessions to eliminate overlapping businesses amid concerns that a combined firm could dominate an industry and increase prices.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "While this is the second time that Vestager has formally blocked a merger several transactions have been ditched over antitrust opposition.",
+      "tones": [
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.853301,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.781683,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "F1: Resurgent Ferrari finally takes fight to MercedesThe champagne flowed cheers rang out and \"il Tricolore\" flags were enthusiastically waved.",
+      "tones": [
+        {
+          "score": 0.699064,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "But behind the scenes there was probably a huge collective sigh of relief.",
+      "tones": [
+        {
+          "score": 0.518048,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Sebastian Vettel's win at Sunday's Australian Grand Prix has been a long time coming for Ferrari -- Formula One's most successful team.",
+      "tones": [
+        {
+          "score": 0.889606,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.670204,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "The 16-time world champion hadn't won in Melbourne since 2007 and its last victory of any description came back in 2015 when Vettel won the Singapore Grand Prix.",
+      "tones": [
+        {
+          "score": 0.824379,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    }
+  ]
+}
