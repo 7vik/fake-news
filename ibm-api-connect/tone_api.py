@@ -14,7 +14,7 @@ tone_analyzer = ToneAnalyzerV3(
 # Set Variable
 DATASET = 'fakeNewsDataset/fake'
 
-path_ = os.path.join('./dataset/teamName/training/', DATASET)
+path_ = os.path.join('../teamName/training/', DATASET)
 for file_ in os.listdir(path_):
     new_file_name = ''.join(file_.split('.')[:-1]) + '.json'
     if new_file_name in os.listdir(os.path.join('./tone_res/', DATASET)):

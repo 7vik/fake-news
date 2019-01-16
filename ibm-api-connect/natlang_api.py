@@ -16,7 +16,7 @@ natural_language_understanding = NaturalLanguageUnderstandingV1(
 DATASET = 'fakeNewsDataset/fake'
 
 
-path_ = os.path.join('./dataset/teamName/training/', DATASET)
+path_ = os.path.join('../teamName/training/', DATASET)
 for file_ in os.listdir(path_):
     with open(os.path.join(path_, file_), 'r+') as f:
         req = '<html><body><h2>{0}</h2>{1}</body></html>'.format(
