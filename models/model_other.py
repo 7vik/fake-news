@@ -135,9 +135,31 @@ print("loading model")
 # model.summary()
 
 # model.load_weights()
-X_train, X_test, y_train, y_test = train_test_split(total_as_vectors, targets, random_state=0)
-logreg = LogisticRegression()
+X_train, X_test, y_train, y_test = train_test_split(total_as_vectors, targets, random_state=7)
+logreg = LogisticRegression(solver = 'lbfgs')
 logreg.fit(X_train, y_train)
 
 print("Train accuracy {}".format(logreg.score(X_train,y_train)))
 print("Test accuracy {}".format(logreg.score(X_test,y_test)))
+
+accuracy_train = []
+accuracy_test = []
+for i in range(10):
+        temp1=[]
+        temp2=[]
+        for j in range(10):
+                X_train, X_test, y_train, y_test = train_test_split(total_as_vectors, targets, random_state=j)
+                logreg = LogisticRegression(solver = 'lbfgs',C=10**(i-2))
+                logreg.fit(X_train, y_train)
+                temp1.append(logreg.score(X_train,y_train))
+                temp2.append(logreg.score(X_test,y_test))
+        accuracy_train.append(temp1)
+        accuracy_test.append(temp1)
+import numpy as np
+import seaborn as sns
+import matplotlib.pylab as plt
+
+ax = sns.heatmap(accuracy_train, linewidth=0.5)
+plt.show()
+ax = sns.heatmap(accuracy_test, linewidth=0.5)
+plt.show()
