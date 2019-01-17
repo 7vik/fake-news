@@ -58,14 +58,14 @@ def queryCol(**kwargs):
     quer_calls += 1
     pprint(qdict)
     with open('quer{0}.txt'.format(quer_calls), 'w+') as f:
-        f.write(qdict)
+        f.write(repr(qdict))
 
 
 
 """ Script Goes Here """
 
 # post_file('real3999.html', '.')
-post_file('real4000.html', '.')
+# post_file('real4000.html', '.')
 
 
 # get_col(COLLECT)
@@ -82,3 +82,8 @@ post_file('real4000.html', '.')
 #     f.write(json.dumps(DocIDlist))
 
 """ Open interactively and query from fake news """
+
+tone_res = './tone_res/celebrityDataset/fake'
+# for file_ in os.listdir(dataset_path):
+#     with open(os.path.join(tone_res, file_), 'r+') as f:
+#         info = json.dump(f)
