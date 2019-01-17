@@ -1,15 +1,19 @@
 #!/usr/bin/env python
 
+import seaborn as sns
 import numpy as np
 import sys
 import os
 import nltk
+from nltk.corpus import stopwords
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 # import keras
 import json
+
 # from keras.models import Sequential
-# from keras.layers import Dense, GRU,LSTM, Dropout, Bidirectional, Embedding
+# from keras.layers import Dense, GRU, LSTM, Dropout, Bidirectional, Embedding
 # from keras.callbacks import LambdaCallback, ModelCheckpoint, EarlyStopping
 
 BASE_URL_1 = "../teamName/training/celebrityDataset/"
@@ -94,30 +98,32 @@ def boolean_indexing(v, fillval=0.0):
     out[mask] = np.concatenate(v)
     return out
 
+
+stop_words = set(stopwords.words('english'))
 total_as_vectors = []
 total_relevance = []
 for i in range(len(total)):
-    my_embeddings = np.ndarray((100))
+    my_embeddings = np.zeros((100))
     total_relevance.append([keyword[1] for keyword in total_keywords[i]])
-    my_concepts = np.ndarray((100))
+    my_concepts = np.zeros((100))
     for concept_list in total_concept[i]:
         temp_concept = np.zeros((100))
         for concept in nltk.word_tokenize(concept_list[0])[-1:]:
             temp_concept +=embeddings_index.get(concept.lower(), np.zeros((100)))
         my_concepts+=temp_concept*concept_list[1]
-    my_tones = np.ndarray((100))
+    my_tones = np.zeros((100))
     for tone in total_tone[i]:
         my_tones+=embeddings_index.get(tone[0],np.zeros((100)))*tone[1]
     tokenized = nltk.word_tokenize(total[i])
     for j in tokenized:
-        try:
-            my_embeddings+=embeddings_index[j.lower()]
-        except:
-            #print("Missed a word")
-            #print(j)
+        if j.lower() in stop_words:
             continue
+        my_embeddings+=embeddings_index.get(j.lower(), np.zeros((100)))
 
     total_as_vectors.append(np.concatenate((my_embeddings,my_tones,np.array(total_sentiment[i]),my_concepts), axis=None))
+    if np.isnan(total_as_vectors[-1]).any():
+        print("Caught a NaN at {}".format(i))
+        sys.exit(1)
 
 total_relevance = boolean_indexing(total_relevance)
 total = np.concatenate((total_as_vectors,total_relevance), axis=1)
@@ -134,8 +140,16 @@ print("loading model")
 # model.compile(loss='binary_crossentropy', optimizer="adam", metrics=['accuracy'])
 # model.summary()
 
-# model.load_weights()
+
+# scaler = MinMaxScaler(feature_range = (-1000, 1000))
+
 X_train, X_test, y_train, y_test = train_test_split(total_as_vectors, targets, random_state=7)
+# scaler.fit(X_train)
+# X_train = scaler.transform(X_train)
+# X_test = scaler.transform(X_test)
+
+
+# model.load_weights()
 logreg = LogisticRegression(solver = 'lbfgs')
 logreg.fit(X_train, y_train)
 
