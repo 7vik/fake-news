@@ -20,10 +20,13 @@ natural_language_understanding = NaturalLanguageUnderstandingV1(
 
 def getres(file_loc):
     with open(file_loc, 'r+') as f:
+        head = f.readline()
+        content = f.read()
         req = '<html><body><h2>{0}</h2>{1}</body></html>'.format(
-                f.readline(),
-                f.read()
+                head,
+                content
         )
+        text = head + content
     tone_res = tone_analyzer.tone(
     req,
     content_type='text/html'
@@ -43,6 +46,6 @@ def getres(file_loc):
     categories  = (res["categories"][0]["label"].split("/"), res["categories"][0]["score"])
     keywords = [(keywords["text"],keywords["relevance"]) for keywords in res["keywords"]]
     tones = [(tone["tone_id"],tone["score"]) for tone in tone_res["document_tone"]["tones"]]
-    return (sentiment, concepts, keywords, tones)
+    return (sentiment, concepts, keywords, tones, text)
 
 
